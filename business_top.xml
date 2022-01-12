@@ -1,59 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>블로터 ─ 비즈니스</title>
+        <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 20:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 20:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[세계 파운드리 10위 기업 DB하이텍, '5G 장비' 사업 확대한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120005</link>
-            <guid>https://www.bloter.net/newsView/blt202201120005</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-12 12:37:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120007.407x229.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['재창업' 선언한 손태승 우리금융 회장…"디지털 플랫폼 되겠다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201120147</link>
+            <guid>https://www.bloter.net/newsView/blt202201120147</guid>
+            <pubDate>Wed, 12 Jan 2022 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-12 18:47:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120025.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘OLED가 실내를 감싸네’..LG전자, 벤츠 전기차에 인포테인먼트 시스템 공급]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120008</link>
-            <guid>https://www.bloter.net/newsView/blt202201120008</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-12 12:02:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120011.407x229.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[표준API 방식 전면 시행한 '금융 마이데이터'…국세 등 공공정보, 상반기 중 서비스]]></title>
+            <link>https://www.bloter.net/newsView/blt202201050167</link>
+            <guid>https://www.bloter.net/newsView/blt202201050167</guid>
+            <pubDate>Wed, 12 Jan 2022 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트위터, 보기 싫은 계정·콘텐츠 숨기기 기능 강화한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120006</link>
-            <guid>https://www.bloter.net/newsView/blt202201120006</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-12 10:16:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120008.407x229.0.png" length="0" type="image/png"/>
+            <title><![CDATA[고승범 위원장 "빅테크 금융업 진출 '동일기능·동일규제' 원칙으로 감독" 강조]]></title>
+            <link>https://www.bloter.net/newsView/blt202112150025</link>
+            <guid>https://www.bloter.net/newsView/blt202112150025</guid>
+            <pubDate>Wed, 12 Jan 2022 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美 법원, FTC의 페이스북 반독점 소송 진행 승인]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120004</link>
-            <guid>https://www.bloter.net/newsView/blt202201120004</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-12 09:55:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120005.407x229.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우리금융, 숭실대와 '디지털 금융 전문인력 육성' 협력]]></title>
+            <link>https://www.bloter.net/newsView/blt202108270102</link>
+            <guid>https://www.bloter.net/newsView/blt202108270102</guid>
+            <pubDate>Wed, 12 Jan 2022 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘무노조 경영’ 이어온 아마존, 첫 노조 설립 찬반 재투표 실시]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120001</link>
-            <guid>https://www.bloter.net/newsView/blt202201120001</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-12 08:29:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[AI·메타버스·구독 투자 앞둔 SKT, 곳간 따져보니]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110062</link>
-            <guid>https://www.bloter.net/newsView/blt202201110062</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-11 17:41:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/11/blt202201110021.407x229.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[상반기 최대 실적 달성한 '우리금융'…디지털 전략도 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202107210033</link>
+            <guid>https://www.bloter.net/newsView/blt202107210033</guid>
+            <pubDate>Wed, 12 Jan 2022 20:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박유진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
