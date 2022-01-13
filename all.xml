@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 07:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 08:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,6 +319,14 @@ SK바이오사이언스의 백신공장 안동 L하우스 전경.(사진=SK바�
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[인도 틱톡 금지 반사효과?… 인스타그램, 글로벌 다운로드 1위 탈환 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130008</link>
+            <guid>https://www.bloter.net/newsView/blt202201130008</guid>
+            <pubDate>Thu, 13 Jan 2022 00:59:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-13 09:56:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트위터 떠난 잭 도시, 소송 직면한 비트코인 개발자 지원 펀드 제안 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202201130001</link>
             <guid>https://www.bloter.net/newsView/blt202201130001</guid>
@@ -359,14 +367,6 @@ SK바이오사이언스의 백신공장 안동 L하우스 전경.(사진=SK바�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120021.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[세계 파운드리 10위 기업 DB하이텍, '5G 장비' 사업 확대한다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120005</link>
-            <guid>https://www.bloter.net/newsView/blt202201120005</guid>
-            <pubDate>Wed, 12 Jan 2022 19:57:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-12 12:37:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아이폰은 미중 갈등 '무풍지대'...중국서 6주째 판매 1위 (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201130027</link>
             <guid>https://www.bloter.net/newsView/blt202201130027</guid>
@@ -403,12 +403,20 @@ SK바이오사이언스의 백신공장 안동 L하우스 전경.(사진=SK바�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120024.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["계열사 대표, 상장해도 2년간 주식 못 판다"...수습 나선 카카오, '먹튀 방지책' 통할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130037</link>
+            <guid>https://www.bloter.net/newsView/blt202201130037</guid>
+            <pubDate>Thu, 13 Jan 2022 08:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 16:16:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130013.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA['배그' 무료화 정책 통했다…스팀 동접자 2배 증가 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201130038</link>
             <guid>https://www.bloter.net/newsView/blt202201130038</guid>
             <pubDate>Thu, 13 Jan 2022 06:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-13 15:16:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버파이낸셜 떠나는 최인혁...차기 대표는 ‘재무통’ 박상진 CFO (블로터 ─ 테크)]]></title>
@@ -537,14 +545,6 @@ SK바이오사이언스의 백신공장 안동 L하우스 전경.(사진=SK바�
             <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-12 09:55:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘무노조 경영’ 이어온 아마존, 첫 노조 설립 찬반 재투표 실시 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120001</link>
-            <guid>https://www.bloter.net/newsView/blt202201120001</guid>
-            <pubDate>Wed, 12 Jan 2022 19:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-12 08:29:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
