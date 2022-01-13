@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 23:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 01:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인도 틱톡 금지 반사효과?… 인스타그램, 글로벌 다운로드 1위 탈환]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130008</link>
+            <guid>https://www.bloter.net/newsView/blt202201130008</guid>
+            <pubDate>Thu, 13 Jan 2022 01:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 지난해 4분기에 전 세계 앱 시장(비게임 분야)에서 다운로드 1위 자리를 탈환했다. 12일(현지시간) IT전문매체 &lt;테크크런치&gt;는 모바일 데이터 분석 기업 '센터타워'의 자료를 인용해 이와 같이 보도했다. 지난해 4분기 인스타그램의 앱 설치 수는 전]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]탁영준 SM엔터 공동 대표, 'SM life design'도 이끈다]]></title>
             <link>https://www.bloter.net/newsView/blt202201100166</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 12 Jan 2022 20:14:33 GMT</pubDate>
             <content:encoded><![CDATA[CJ ENM 엔터테인먼트 부문이 사내 복지 강화를 통해 효율성 제고에 나섰다. 업무시간을 조정해 자기개발에 활용했던 기존 제도를 확대 개편해 효율성을 극대화한다는 계획이다.  5일 CJ ENM은 '브레이크 포 인벤션'(B.I) 제도를 개편한 B.I+를 시행한다고 밝혔다. 기존 B.I]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/05/blt202201050057.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]BTS 캐릭터 IP, 모바일 SNG로 나온다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201040136</link>
-            <guid>https://www.bloter.net/newsView/blt202201040136</guid>
-            <pubDate>Wed, 12 Jan 2022 20:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단(BTS)의 캐릭터 브랜드 '타이니탄'(TinyTAN)을 소재로 한 게임이 나온다.4일 &lt;블로터&gt; 취재 결과, NT게임즈가 모바일 소셜 네트워크 게임(SNG) '타이니타운'(Tiny Town) 개발에 착수했다. 게임명은 아직 최종 확정되지 않았다.  타이니타운은 BTS의 타이니탄 IP를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/04/blt202201040033.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
