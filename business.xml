@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터 떠난 잭 도시, 소송 직면한 비트코인 개발자 지원 펀드 제안]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130001</link>
+            <guid>https://www.bloter.net/newsView/blt202201130001</guid>
+            <pubDate>Thu, 13 Jan 2022 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-13 08:52:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['재창업' 선언한 손태승 우리금융 회장…"디지털 플랫폼 되겠다"]]></title>
             <link>https://www.bloter.net/newsView/blt202201120147</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 12 Jan 2022 20:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-12 12:37:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘OLED가 실내를 감싸네’..LG전자, 벤츠 전기차에 인포테인먼트 시스템 공급]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120008</link>
-            <guid>https://www.bloter.net/newsView/blt202201120008</guid>
-            <pubDate>Wed, 12 Jan 2022 20:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-12 12:02:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

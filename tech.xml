@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배그' 무료화 정책 통했다…스팀 동접자 2배 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130038</link>
+            <guid>https://www.bloter.net/newsView/blt202201130038</guid>
+            <pubDate>Thu, 13 Jan 2022 06:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-13 15:16:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버파이낸셜 떠나는 최인혁...차기 대표는 ‘재무통’ 박상진 CFO]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130033</link>
+            <guid>https://www.bloter.net/newsView/blt202201130033</guid>
+            <pubDate>Thu, 13 Jan 2022 06:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 14:46:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130010.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'리멤버'가 1600억원으로 하려는 것...비즈니스 포털?]]></title>
             <link>https://www.bloter.net/newsView/blt202201120024</link>
             <guid>https://www.bloter.net/newsView/blt202201120024</guid>
             <pubDate>Thu, 13 Jan 2022 04:21:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 13:16:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소니, PS4 생산 계속하지만…"정작 구매할 길이 없다"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 12 Jan 2022 20:13:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-12 08:29:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['백기'든 애플, 앱 내 외부결제 허용키로]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110036</link>
-            <guid>https://www.bloter.net/newsView/blt202201110036</guid>
-            <pubDate>Wed, 12 Jan 2022 20:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-01-11 17:59:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/11/blt202201110026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]AI·메타버스·구독 투자 앞둔 SKT, 곳간 따져보니]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110062</link>
-            <guid>https://www.bloter.net/newsView/blt202201110062</guid>
-            <pubDate>Wed, 12 Jan 2022 20:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-11 17:41:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/11/blt202201110021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
