@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'리멤버'가 1600억원으로 하려는 것...비즈니스 포털?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201120024</link>
+            <guid>https://www.bloter.net/newsView/blt202201120024</guid>
+            <pubDate>Thu, 13 Jan 2022 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 13:16:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, PS4 생산 계속하지만…"정작 구매할 길이 없다"]]></title>
             <link>https://www.bloter.net/newsView/blt202201130017</link>
             <guid>https://www.bloter.net/newsView/blt202201130017</guid>
             <pubDate>Thu, 13 Jan 2022 02:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-13 10:54:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인도 틱톡 금지 반사효과?… 인스타그램, 글로벌 다운로드 1위 탈환]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 12 Jan 2022 20:13:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-11 17:25:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/11/blt202201110019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시한부 환자에 ‘돼지 심장’ 이식한 美 연구진 “초기 거부반응 없어 성공 기대”]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110064</link>
-            <guid>https://www.bloter.net/newsView/blt202201110064</guid>
-            <pubDate>Wed, 12 Jan 2022 20:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-11 17:25:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/11/blt202201110025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
