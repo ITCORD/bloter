@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,7 +316,7 @@ AI 기술로 '인재매칭'뿐 아니라 추가적인 '비즈니스 연결' 고�
             <title><![CDATA[‘IDM’ 의식하는 TSMC, 벌어들인 현금만큼 투자한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201140035</link>
             <guid>https://www.bloter.net/newsView/blt202201140035</guid>
-            <pubDate>Fri, 14 Jan 2022 06:21:21 GMT</pubDate>
+            <pubDate>Fri, 14 Jan 2022 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-14 14:29:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140006.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -397,13 +397,22 @@ AI 기술로 '인재매칭'뿐 아니라 추가적인 '비즈니스 연결' 고�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5G 퍼스트 시대...삼성이 초저가 LTE폰 출시한 이유는? (블로터 ─ 테크 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140045</link>
+            <guid>https://www.bloter.net/newsView/blt202201140045</guid>
+            <pubDate>Fri, 14 Jan 2022 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>
+						<span class="date">2022-01-14 16:15:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140011.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[삼바, 뛴다]②영업이익 늘었지만 '빚 의존' 커졌다 (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201130078</link>
             <guid>https://www.bloter.net/newsView/blt202201130078</guid>
             <pubDate>Thu, 13 Jan 2022 09:17:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>
 						<span class="date">2022-01-13 17:46:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130028.601x301.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130028.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[삼바, 뛴다]①4공장에 그룹 역량 집결…존림 대표가 ‘선수주’ 앞세운 이유 (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -424,19 +433,10 @@ AI 기술로 '인재매칭'뿐 아니라 추가적인 '비즈니스 연결' 고�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130008.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19 백신 미접종자 선택권 향상…SK바사 생산 ‘노바백스’ 풀린다 (블로터 ─ 테크 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120177</link>
-            <guid>https://www.bloter.net/newsView/blt202201120177</guid>
-            <pubDate>Wed, 12 Jan 2022 19:57:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>
-						<span class="date">2022-01-12 22:54:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120037.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘IDM’ 의식하는 TSMC, 벌어들인 현금만큼 투자한다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201140035</link>
             <guid>https://www.bloter.net/newsView/blt202201140035</guid>
-            <pubDate>Fri, 14 Jan 2022 06:21:55 GMT</pubDate>
+            <pubDate>Fri, 14 Jan 2022 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-14 14:29:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140006.620x344.0.png" length="0" type="image/png"/>
         </item>
@@ -521,6 +521,14 @@ AI 기술로 '인재매칭'뿐 아니라 추가적인 '비즈니스 연결' 고�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코로나19 백신 미접종자 선택권 향상…SK바사 생산 ‘노바백스’ 풀린다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201120177</link>
+            <guid>https://www.bloter.net/newsView/blt202201120177</guid>
+            <pubDate>Wed, 12 Jan 2022 19:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-12 22:54:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120037.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[베가엑스, 스테이블코인 투자상품 출시…연간수익률 최대 10% (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201120176</link>
             <guid>https://www.bloter.net/newsView/blt202201120176</guid>
@@ -567,14 +575,6 @@ AI 기술로 '인재매칭'뿐 아니라 추가적인 '비즈니스 연결' 고�
             <pubDate>Wed, 12 Jan 2022 19:57:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-01-12 15:24:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민간 데이터센터 규제 강화 바람직한가...'IDC감시법' 토론회 개최 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120033</link>
-            <guid>https://www.bloter.net/newsView/blt202201120033</guid>
-            <pubDate>Wed, 12 Jan 2022 19:57:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-12 14:42:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
