@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]문피아, 이사회 구성 변화…네이버웹툰 임원 위주 재편]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140042</link>
+            <guid>https://www.bloter.net/newsView/blt202201140042</guid>
+            <pubDate>Fri, 14 Jan 2022 08:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰에 인수된 국내 웹소설 플랫폼 '문피아'가 이사회를 새롭게 구성한다. 김준구 네이버웹툰 대표를 비롯해 네이버웹툰 임원들이 사내이사에 이름을 올리며 문피아에 대한 지배력을 강화할 계획이다.14일 &lt;블로터&gt; 취재 결과, 이날 문피아는 '임원 변동]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140017.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크래프톤, ‘모방 게임’ 만든 혐의로 가레나 고소]]></title>
             <link>https://www.bloter.net/newsView/blt202201140004</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 12 Jan 2022 20:14:33 GMT</pubDate>
             <content:encoded><![CDATA[네이버의 일본 자회사 '라인'(LINE)의 '대체 불가능한 토큰'(NFT) 관련 사업이 서서히 윤곽을 드러내고 있다. 최근 라인이 NFT 생태계 구축을 위해 한국과 미국에 각각 '라인 넥스트' 법인을 설립한 가운데, 라인의 손자회사인 '라인스튜디오'가 캐주얼 장르 NFT 게임 개발]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/06/blt202201060053.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 게임쇼 'E3', 오미크론 여파로 온라인으로 열린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201070006</link>
-            <guid>https://www.bloter.net/newsView/blt202201070006</guid>
-            <pubDate>Wed, 12 Jan 2022 20:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 게임쇼 'E3 2022'(이하 E3)가 코로나19 확산의 여파로 온라인으로 개최된다. E3는 매년 여름 미국에서 열리는 세계 최대 게임쇼로 마이크로소프트·소니·닌텐도·코나미·유비소프트 등 글로벌 게임사들이 참여한다. 6일(현지시간) &lt;더버지&amp;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/07/blt202201070011.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

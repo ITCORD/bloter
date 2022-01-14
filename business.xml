@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 낸다더니...테슬라 ‘사이버트럭’, 생산 또 연기되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140003</link>
+            <guid>https://www.bloter.net/newsView/blt202201140003</guid>
+            <pubDate>Fri, 14 Jan 2022 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-14 09:49:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퇴출된 포트나이트, 아이폰과 아이패드에 컴백한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140001</link>
+            <guid>https://www.bloter.net/newsView/blt202201140001</guid>
+            <pubDate>Fri, 14 Jan 2022 08:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-14 08:34:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포스코 사상최대 실적...PER 저평가 '역대급', 현대제철·KG동부제철보다 낮다]]></title>
             <link>https://www.bloter.net/newsView/blt202201130034</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 14 Jan 2022 00:55:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-13 10:54:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 틱톡 금지 반사효과?… 인스타그램, 글로벌 다운로드 1위 탈환]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130008</link>
-            <guid>https://www.bloter.net/newsView/blt202201130008</guid>
-            <pubDate>Thu, 13 Jan 2022 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-13 09:56:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 떠난 잭 도시, 소송 직면한 비트코인 개발자 지원 펀드 제안]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130001</link>
-            <guid>https://www.bloter.net/newsView/blt202201130001</guid>
-            <pubDate>Thu, 13 Jan 2022 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-13 08:52:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
