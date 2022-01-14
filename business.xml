@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 04:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버파이낸셜 떠나는 최인혁...차기 대표는 ‘재무통’ 박상진 CFO]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130033</link>
+            <guid>https://www.bloter.net/newsView/blt202201130033</guid>
+            <pubDate>Fri, 14 Jan 2022 04:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 14:46:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130010.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['리멤버'가 1600억원으로 하려는 것...비즈니스 포털?]]></title>
             <link>https://www.bloter.net/newsView/blt202201120024</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 13 Jan 2022 04:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-12 18:47:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베가엑스, 스테이블코인 투자상품 출시…연간수익률 최대 10%]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120176</link>
-            <guid>https://www.bloter.net/newsView/blt202201120176</guid>
-            <pubDate>Thu, 13 Jan 2022 02:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-12 18:46:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/12/blt202201120036.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
