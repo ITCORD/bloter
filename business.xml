@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 23:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 01:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[①현대중공업그룹, 대우조선 '딜브레이크' 택한 현실적 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140028</link>
+            <guid>https://www.bloter.net/newsView/blt202201140028</guid>
+            <pubDate>Sun, 16 Jan 2022 00:57:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-14 16:54:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140030.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘IDM’ 의식하는 TSMC, 벌어들인 현금만큼 투자한다]]></title>
             <link>https://www.bloter.net/newsView/blt202201140035</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 14 Jan 2022 06:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-13 16:49:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버파이낸셜 떠나는 최인혁...차기 대표는 ‘재무통’ 박상진 CFO]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130033</link>
-            <guid>https://www.bloter.net/newsView/blt202201130033</guid>
-            <pubDate>Fri, 14 Jan 2022 04:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 14:46:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130010.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
