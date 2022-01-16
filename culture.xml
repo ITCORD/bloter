@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 02:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 03:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]넷마블에프앤씨, '신사업 컨트롤타워'된 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140109</link>
+            <guid>https://www.bloter.net/newsView/blt202201140109</guid>
+            <pubDate>Sun, 16 Jan 2022 03:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/15/blt202201150002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트렌드리포트]2021년 코로나19 팬데믹이 모바일 앱 생태계에 미친 영향]]></title>
             <link>https://www.bloter.net/newsView/blt202201140070</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 12 Jan 2022 20:14:33 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/06/blt202201060056.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]슈퍼캣, 코딩없는 NFT 게임 개발 플랫폼 만든다…"네코랜드 블록체인 버전"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201070046</link>
-            <guid>https://www.bloter.net/newsView/blt202201070046</guid>
-            <pubDate>Wed, 12 Jan 2022 20:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 MMORPG '바람의 나라: 연' 개발사인 '슈퍼캣'이 코딩없이 '대체 불가능한 토큰'(NFT) 게임을 만들 수 있는 플랫폼을 개발한다. 해당 플랫폼이 론칭할 경우 NFT 게임에 대한 일반 유저들의 진입장벽이 대폭 낮아질 것으로 예상된다.7일 &lt;블로터&gt; 취재 결과, 슈퍼]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/07/blt202201070026.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
