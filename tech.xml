@@ -4,7 +4,7 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 23:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 01:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,28 +128,28 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[삼바, 뛴다]②영업이익 늘었지만 '빚 의존' 커졌다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130078</link>
+            <guid>https://www.bloter.net/newsView/blt202201130078</guid>
+            <pubDate>Mon, 17 Jan 2022 00:56:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-13 17:46:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130028.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[삼바, 뛴다]①4공장에 그룹 역량 집결…존림 대표가 ‘선수주’ 앞세운 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202201130083</link>
+            <guid>https://www.bloter.net/newsView/blt202201130083</guid>
+            <pubDate>Mon, 17 Jan 2022 00:56:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-13 17:39:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130023.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["계열사 대표, 상장해도 2년간 주식 못 판다"...수습 나선 카카오, '먹튀 방지책' 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202201130037</link>
             <guid>https://www.bloter.net/newsView/blt202201130037</guid>
             <pubDate>Thu, 13 Jan 2022 08:22:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 16:16:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130013.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['배그' 무료화 정책 통했다…스팀 동접자 2배 증가]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130038</link>
-            <guid>https://www.bloter.net/newsView/blt202201130038</guid>
-            <pubDate>Thu, 13 Jan 2022 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-13 15:16:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버파이낸셜 떠나는 최인혁...차기 대표는 ‘재무통’ 박상진 CFO]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130033</link>
-            <guid>https://www.bloter.net/newsView/blt202201130033</guid>
-            <pubDate>Thu, 13 Jan 2022 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-13 14:46:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130010.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
