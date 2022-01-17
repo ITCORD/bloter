@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['발망'부터 '갭'까지…NFT에 빠진 패션업계]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140107</link>
+            <guid>https://www.bloter.net/newsView/blt202201140107</guid>
+            <pubDate>Mon, 17 Jan 2022 05:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-16 17:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140034.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[매출 절반 남기는 SK바이오사이언스의 고민]]></title>
             <link>https://www.bloter.net/newsView/blt202201140073</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 16 Jan 2022 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-14 17:16:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[①현대중공업그룹, 대우조선 '딜브레이크' 택한 현실적 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140028</link>
-            <guid>https://www.bloter.net/newsView/blt202201140028</guid>
-            <pubDate>Sun, 16 Jan 2022 00:57:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-14 16:54:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140030.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
