@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“‘구글갑질방지법’ 덕분”...네이버, 국내 최초로 게임팟에 ‘외부결제’ 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202201180028</link>
+            <guid>https://www.bloter.net/newsView/blt202201180028</guid>
+            <pubDate>Tue, 18 Jan 2022 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[이른바 ‘구글갑질방지법’으로 불리는 전기통신사업법 개정에 따라 네이버클라우드가 게임 전용 통합 매니지먼트 서비스인 게임팟(GAMEPOT)에 외부결제 서비스를 연동한다. 외부결제 모듈과 게임 서비스를 연동하는 국내 첫 사례다.18일 네이버클라우드는 전]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180015.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022 테크체인저]⑪'오징어게임' 대박낸 넷플릭스의 '넥스트'는]]></title>
             <link>https://www.bloter.net/newsView/blt202201180005</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 01:01:23 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램이 지난해 4분기에 전 세계 앱 시장(비게임 분야)에서 다운로드 1위 자리를 탈환했다. 12일(현지시간) IT전문매체 &lt;테크크런치&gt;는 모바일 데이터 분석 기업 '센터타워'의 자료를 인용해 이와 같이 보도했다. 지난해 4분기 인스타그램의 앱 설치 수는 전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]이재명 특보단 "기업만 돈 버는 P2E 시스템 바꿔야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110022</link>
-            <guid>https://www.bloter.net/newsView/blt202201110022</guid>
-            <pubDate>Mon, 17 Jan 2022 08:23:33 GMT</pubDate>
-            <content:encoded><![CDATA["플레이 투 언(P2E) 게임 엑시인피니티에서 3개의 엑시 캐릭터를 구입하는데 드는 비용만 100만원에서 150만원이 듭니다. 한 때 2만8320원까지 올랐던 위믹스 코인 가격도 지난 9일 밤 11시 43분 기준 6958원이 됐죠. 누가 돈을 벌고 있는 것입니까?" 위정현 '이재명 게임&amp;middo]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/11/blt202201110008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
