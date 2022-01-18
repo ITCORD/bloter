@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 22:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 23:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]넷플릭스, 2022 한국 라인업 확정…'제2의 오겜' 나올까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190001</link>
+            <guid>https://www.bloter.net/newsView/blt202201190001</guid>
+            <pubDate>Tue, 18 Jan 2022 23:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 올해 한국 콘텐츠 라인업을 역대 최대 규모인 25편으로 정하고 '지금 우리 학교는'을 시작으로 순차 공개할 계획이다.먼저, 좀비 바이러스가 퍼진 고등학교의 극한 상황을 다룬 '지금 우리 학교는'이 오는 28일 공개된다. 이를 시작으로 소년 형사 합의부]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“‘구글갑질방지법’ 덕분”...네이버, 국내 최초로 게임팟에 ‘외부결제’ 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202201180028</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 02:13:35 GMT</pubDate>
             <content:encoded><![CDATA[소니가 올해도 '플레이스테이션4'(PS4) 생산을 이어나간다고 밝힌 가운데 '관련 기기를 온라인에서 구매할 길이 없다'는 주장이 제기됐다. 12일(현지시간) IT전문매체 &lt;더 버지&gt;는  &lt;블룸버그&gt;의 보도를 인용해 "소니가 지난해 말 PS4 생산을 종료할 계획이었지]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 틱톡 금지 반사효과?… 인스타그램, 글로벌 다운로드 1위 탈환]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130008</link>
-            <guid>https://www.bloter.net/newsView/blt202201130008</guid>
-            <pubDate>Thu, 13 Jan 2022 01:01:23 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 지난해 4분기에 전 세계 앱 시장(비게임 분야)에서 다운로드 1위 자리를 탈환했다. 12일(현지시간) IT전문매체 &lt;테크크런치&gt;는 모바일 데이터 분석 기업 '센터타워'의 자료를 인용해 이와 같이 보도했다. 지난해 4분기 인스타그램의 앱 설치 수는 전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
