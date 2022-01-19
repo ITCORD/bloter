@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 00:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사내 성추행·차별 논란' 블리자드, 직원 37명 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202201180008</link>
+            <guid>https://www.bloter.net/newsView/blt202201180008</guid>
+            <pubDate>Wed, 19 Jan 2022 01:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 10:24:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180007.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 영국서 '비자카드와의 전쟁' 철회]]></title>
             <link>https://www.bloter.net/newsView/blt202201180003</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 18 Jan 2022 00:55:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-17 16:52:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170022.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LIG넥스원, 수출기업 초석 다지나…2.6조 초대형 계약 성사]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170068</link>
-            <guid>https://www.bloter.net/newsView/blt202201170068</guid>
-            <pubDate>Tue, 18 Jan 2022 00:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-17 16:14:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170017.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
