@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 08:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 블리자드 82조원에 인수한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190002</link>
+            <guid>https://www.bloter.net/newsView/blt202201190002</guid>
+            <pubDate>Wed, 19 Jan 2022 08:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 게임회사 액티비전 블리자드(블리자드)를 687억 달러(약 82조 원)에 인수한다. MS 역사상 역대 최고가의 인수합병이다. 18일(현지시간) 미국 경제매체 &lt;씨앤비씨(CNBC)&gt; 등 주요 외신은 MS가 블리자드 주식을 주당 95달러에 전액 현금으로 매입하]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“‘구글갑질방지법’ 덕분”...네이버, 국내 최초로 게임팟에 ‘외부결제’ 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202201180028</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 19 Jan 2022 05:16:35 GMT</pubDate>
             <content:encoded><![CDATA[소니가 올해도 '플레이스테이션4'(PS4) 생산을 이어나간다고 밝힌 가운데 '관련 기기를 온라인에서 구매할 길이 없다'는 주장이 제기됐다. 12일(현지시간) IT전문매체 &lt;더 버지&gt;는  &lt;블룸버그&gt;의 보도를 인용해 "소니가 지난해 말 PS4 생산을 종료할 계획이었지]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 틱톡 금지 반사효과?… 인스타그램, 글로벌 다운로드 1위 탈환]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130008</link>
-            <guid>https://www.bloter.net/newsView/blt202201130008</guid>
-            <pubDate>Wed, 19 Jan 2022 05:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 지난해 4분기에 전 세계 앱 시장(비게임 분야)에서 다운로드 1위 자리를 탈환했다. 12일(현지시간) IT전문매체 &lt;테크크런치&gt;는 모바일 데이터 분석 기업 '센터타워'의 자료를 인용해 이와 같이 보도했다. 지난해 4분기 인스타그램의 앱 설치 수는 전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/13/blt202201130002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
