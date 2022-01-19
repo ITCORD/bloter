@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 09:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크로소프트, 블리자드 82조원에 인수한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190002</link>
+            <guid>https://www.bloter.net/newsView/blt202201190002</guid>
+            <pubDate>Wed, 19 Jan 2022 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 08:17:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신동주, 롯데지주 이어 롯데제과 지분 전량 매도]]></title>
             <link>https://www.bloter.net/newsView/blt202201180054</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 18 Jan 2022 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-17 17:11:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장기 투자 불가피하지만…헬스케어 향한 SK㈜ C&C의 뚝심]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170070</link>
-            <guid>https://www.bloter.net/newsView/blt202201170070</guid>
-            <pubDate>Tue, 18 Jan 2022 02:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-17 17:03:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
