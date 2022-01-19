@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 00:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 영국서 '비자카드와의 전쟁' 철회]]></title>
+            <link>https://www.bloter.net/newsView/blt202201180003</link>
+            <guid>https://www.bloter.net/newsView/blt202201180003</guid>
+            <pubDate>Wed, 19 Jan 2022 00:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 09:25:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 아이폰13서 ‘노이즈캔슬링’ 기능 제거]]></title>
+            <link>https://www.bloter.net/newsView/blt202201180002</link>
+            <guid>https://www.bloter.net/newsView/blt202201180002</guid>
+            <pubDate>Wed, 19 Jan 2022 00:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 08:24:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6년간 요기요 기술 책임진 조현준 CTO 퇴임 결정]]></title>
             <link>https://www.bloter.net/newsView/blt202201170080</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 18 Jan 2022 00:55:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-17 16:14:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170017.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비금융정보로 대출기회 넓히려는 핀다…LG전자 '데이터통' 영입]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170062</link>
-            <guid>https://www.bloter.net/newsView/blt202201170062</guid>
-            <pubDate>Mon, 17 Jan 2022 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-17 15:46:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행이 배달앱까지…신한금융 ‘저PER’ 탈출구 찾을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170048</link>
-            <guid>https://www.bloter.net/newsView/blt202201170048</guid>
-            <pubDate>Mon, 17 Jan 2022 08:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-17 15:00:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
