@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 09:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 10:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]4년 만에 돌아온 NTP…방준혁 의장 무슨 얘기할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201200109</link>
+            <guid>https://www.bloter.net/newsView/blt202201200109</guid>
+            <pubDate>Thu, 20 Jan 2022 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[연일 하락세에 있던 넷마블 주가가 20일 종가 기준 약10% 반등하면서 자연스레 4년 만에 모습을 드러낼 것으로 기대되는 방준혁 의장의 행보에 업계 관심이 쏠리고 있다. 앞서 지난 19일 넷마블은 취재진 초정 메일을 통해 4년 만에 '전략 기자 간담회'(NTP)를 재개한다]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈 내고 보는 인플루언서 스토리…인스타그램, 구독 서비스 시범 운영]]></title>
             <link>https://www.bloter.net/newsView/blt202201200004</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 16 Jan 2022 03:21:30 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/15/blt202201150002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드리포트]2021년 코로나19 팬데믹이 모바일 앱 생태계에 미친 영향]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140070</link>
-            <guid>https://www.bloter.net/newsView/blt202201140070</guid>
-            <pubDate>Sun, 16 Jan 2022 00:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021년에도 모바일 앱 생태계가 계속해서 신종 코로나바이러스 감염증(코로나19)의 영향을 받은 것으로 나타났다. 코로나19 팬데믹(대유행) 초기에는 온라인쇼핑, 엔터테인먼트, 비지니스, 교육 등과 관련된 특정 앱의 사용량이 증가했다. 그 이후 세계 대부분의 곳이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140024.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

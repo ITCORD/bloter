@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 09:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 10:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막내린 KT의 'NTT도코모 동행'...신한은행과 신동맹 노림수는]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190067</link>
+            <guid>https://www.bloter.net/newsView/blt202201190067</guid>
+            <pubDate>Thu, 20 Jan 2022 10:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-20 12:37:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190035.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크립토닷컴, 해킹으로 수백개 계정 도난 피해 인정...178억 손실 예상]]></title>
             <link>https://www.bloter.net/newsView/blt202201200008</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 20 Jan 2022 02:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-19 17:51:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 블리자드 인수 발표한 날…美 규제당국 "합병 지침 개편 착수"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190009</link>
-            <guid>https://www.bloter.net/newsView/blt202201190009</guid>
-            <pubDate>Thu, 20 Jan 2022 02:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 10:25:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
