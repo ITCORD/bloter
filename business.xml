@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 내고 보는 인플루언서 스토리…인스타그램, 구독 서비스 시범 운영]]></title>
+            <link>https://www.bloter.net/newsView/blt202201200004</link>
+            <guid>https://www.bloter.net/newsView/blt202201200004</guid>
+            <pubDate>Thu, 20 Jan 2022 08:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-20 09:52:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[디즈니플러스 서비스 국가 2배 늘린다…스트리밍 힘주는 디즈니]]></title>
             <link>https://www.bloter.net/newsView/blt202201200001</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 20 Jan 2022 02:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 09:11:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 블리자드 82조원에 인수한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190002</link>
-            <guid>https://www.bloter.net/newsView/blt202201190002</guid>
-            <pubDate>Wed, 19 Jan 2022 10:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 08:17:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
