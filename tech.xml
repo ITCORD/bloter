@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, 남궁훈 단독대표 체제로…'메타버스' 중심으로 사업 재편한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201200019</link>
+            <guid>https://www.bloter.net/newsView/blt202201200019</guid>
+            <pubDate>Thu, 20 Jan 2022 05:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-20 13:52:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200008.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[SK머티리얼즈, 특수가스 ‘탄소발자국’ 인증...반도체 환경오염 줄일까]]></title>
             <link>https://www.bloter.net/newsView/blt202201200017</link>
             <guid>https://www.bloter.net/newsView/blt202201200017</guid>
             <pubDate>Thu, 20 Jan 2022 04:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-20 13:08:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]막내린 KT의 'NTT도코모 동행'...신한은행과 신동맹 노림수는]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 19 Jan 2022 03:15:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-19 11:31:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 블리자드 인수 발표한 날…美 규제당국 "합병 지침 개편 착수"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190009</link>
-            <guid>https://www.bloter.net/newsView/blt202201190009</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 10:25:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190007.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니플러스 서비스 국가 2배 늘린다…스트리밍 힘주는 디즈니]]></title>
+            <link>https://www.bloter.net/newsView/blt202201200001</link>
+            <guid>https://www.bloter.net/newsView/blt202201200001</guid>
+            <pubDate>Thu, 20 Jan 2022 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-20 08:51:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이대남' 표심에 권좌가 있다…이재명·윤석열 가상자산 공약 격돌]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190069</link>
+            <guid>https://www.bloter.net/newsView/blt202201190069</guid>
+            <pubDate>Thu, 20 Jan 2022 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-19 19:01:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190036.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태양광솔루션 기업 '알피오', 엔터 자회사로 게임사업 노크]]></title>
             <link>https://www.bloter.net/newsView/blt202201190055</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 19 Jan 2022 10:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 08:17:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신동주, 롯데지주 이어 롯데제과 지분 전량 매도]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180054</link>
-            <guid>https://www.bloter.net/newsView/blt202201180054</guid>
-            <pubDate>Wed, 19 Jan 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-18 16:30:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사내 성추행·차별 논란' 블리자드, 직원 37명 해고]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180008</link>
-            <guid>https://www.bloter.net/newsView/blt202201180008</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 10:24:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
