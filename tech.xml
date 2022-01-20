@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK머티리얼즈, 특수가스 ‘탄소발자국’ 인증...반도체 환경오염 줄일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201200017</link>
+            <guid>https://www.bloter.net/newsView/blt202201200017</guid>
+            <pubDate>Thu, 20 Jan 2022 04:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-20 13:08:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넘버스]막내린 KT의 'NTT도코모 동행'...신한은행과 신동맹 노림수는]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190067</link>
+            <guid>https://www.bloter.net/newsView/blt202201190067</guid>
+            <pubDate>Thu, 20 Jan 2022 04:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-20 12:37:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190035.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리더십 변화주는 '네오위즈', NFT 기반 사업 속도낸다]]></title>
             <link>https://www.bloter.net/newsView/blt202201200010</link>
             <guid>https://www.bloter.net/newsView/blt202201200010</guid>
             <pubDate>Thu, 20 Jan 2022 02:16:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-20 11:07:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크립토닷컴, 해킹으로 수백개 계정 도난 피해 인정...178억 손실 예상]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 19 Jan 2022 01:56:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 10:25:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190007.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['PIM'에 4000억원 쏟고 '데이터 수집' 허들 낮추고…'K-인공지능' 드라이브]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180077</link>
-            <guid>https://www.bloter.net/newsView/blt202201180077</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-01-19 10:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, ‘가짜뉴스 신고하기’ 도입 후 370만 건의 제보받아]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190006</link>
-            <guid>https://www.bloter.net/newsView/blt202201190006</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 09:11:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190004.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
