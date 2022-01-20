@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 01:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태양광솔루션 기업 '알피오', 엔터 자회사로 게임사업 노크]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190055</link>
+            <guid>https://www.bloter.net/newsView/blt202201190055</guid>
+            <pubDate>Thu, 20 Jan 2022 02:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-19 17:51:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 블리자드 인수 발표한 날…美 규제당국 "합병 지침 개편 착수"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190009</link>
+            <guid>https://www.bloter.net/newsView/blt202201190009</guid>
+            <pubDate>Thu, 20 Jan 2022 02:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 10:25:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190007.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, ‘가짜뉴스 신고하기’ 도입 후 370만 건의 제보받아]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190006</link>
+            <guid>https://www.bloter.net/newsView/blt202201190006</guid>
+            <pubDate>Thu, 20 Jan 2022 02:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-19 09:11:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 블리자드 82조원에 인수한다]]></title>
             <link>https://www.bloter.net/newsView/blt202201190002</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 19 Jan 2022 01:56:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 10:24:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 영국서 '비자카드와의 전쟁' 철회]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180003</link>
-            <guid>https://www.bloter.net/newsView/blt202201180003</guid>
-            <pubDate>Wed, 19 Jan 2022 00:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 09:25:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 아이폰13서 ‘노이즈캔슬링’ 기능 제거]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180002</link>
-            <guid>https://www.bloter.net/newsView/blt202201180002</guid>
-            <pubDate>Wed, 19 Jan 2022 00:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-18 08:24:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6년간 요기요 기술 책임진 조현준 CTO 퇴임 결정]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170080</link>
-            <guid>https://www.bloter.net/newsView/blt202201170080</guid>
-            <pubDate>Tue, 18 Jan 2022 08:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-17 17:11:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170031.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

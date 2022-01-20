@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 01:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 20 Jan 2022 01:03:07 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램이 크리에이터 유료 구독 서비스를 시작했다. 19일(현지시간) IT전문매체 &lt;엔가젯&gt;은 인스타그램이 소수의 미국 인플루언서들을 대상으로 유료 구독 서비스를 시범 운영하기 시작했다고 보도했다.크리에이터는 월정액 구독료는 원하는 수준으로 책정]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200002.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[MS, 블리자드 인수]①'빅딜'에 긴장하는 소니, 주도권 내줄까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190021</link>
+            <guid>https://www.bloter.net/newsView/blt202201190021</guid>
+            <pubDate>Thu, 20 Jan 2022 02:17:31 GMT</pubDate>
+            <content:encoded><![CDATA['마이크로소프트'(MS)가 '액티비전 블리자드'를 687억달러(약 82조 원)에 인수하기로 합의하자, 글로벌 게임업계가 들썩이고 있다. 이는 글로벌 최대 규모의 '메가딜'로, IT업계로 넓혀봐도 지난 2016년 '델'이 'EMC'를 인수할 때 지급한 670억달러(약 79조원)보다 높은 금액]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190014.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 블리자드 82조원에 인수한다]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 15 Jan 2022 02:08:26 GMT</pubDate>
             <content:encoded><![CDATA[머지않아 메타버스가 현실화되면 '포트나이트'에서 구입한 아바타의 의상을 '마인크래프트', '콜 오브 듀티(CoD)’ 등 원하는 다른 게임으로 아무 문제 없이 옮길 수 있는 날이 올 것이라는 전망이 많았다. 적어도 NFT, 블록체인, 가상화폐 등을 포함하는 ‘웹3(Web]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140013.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]문피아, 이사회 구성 변화…네이버웹툰 임원 위주 재편]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140042</link>
-            <guid>https://www.bloter.net/newsView/blt202201140042</guid>
-            <pubDate>Fri, 14 Jan 2022 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰에 인수된 국내 웹소설 플랫폼 '문피아'가 이사회를 새롭게 구성한다. 김준구 네이버웹툰 대표를 비롯해 네이버웹툰 임원들이 사내이사에 이름을 올리며 문피아에 대한 지배력을 강화할 계획이다.14일 &lt;블로터&gt; 취재 결과, 이날 문피아는 '임원 변동]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140017.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
