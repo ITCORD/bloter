@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 01:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈 내고 보는 인플루언서 스토리…인스타그램, 구독 서비스 시범 운영]]></title>
+            <link>https://www.bloter.net/newsView/blt202201200004</link>
+            <guid>https://www.bloter.net/newsView/blt202201200004</guid>
+            <pubDate>Thu, 20 Jan 2022 01:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 크리에이터 유료 구독 서비스를 시작했다. 19일(현지시간) IT전문매체 &lt;엔가젯&gt;은 인스타그램이 소수의 미국 인플루언서들을 대상으로 유료 구독 서비스를 시범 운영하기 시작했다고 보도했다.크리에이터는 월정액 구독료는 원하는 수준으로 책정]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마이크로소프트, 블리자드 82조원에 인수한다]]></title>
             <link>https://www.bloter.net/newsView/blt202201190002</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 14 Jan 2022 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰에 인수된 국내 웹소설 플랫폼 '문피아'가 이사회를 새롭게 구성한다. 김준구 네이버웹툰 대표를 비롯해 네이버웹툰 임원들이 사내이사에 이름을 올리며 문피아에 대한 지배력을 강화할 계획이다.14일 &lt;블로터&gt; 취재 결과, 이날 문피아는 '임원 변동]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140017.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, ‘모방 게임’ 만든 혐의로 가레나 고소]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140004</link>
-            <guid>https://www.bloter.net/newsView/blt202201140004</guid>
-            <pubDate>Fri, 14 Jan 2022 03:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤이 싱가포르의 게임 플랫폼사인 가레나와 애플·구글을 배틀그라운드 저작권 침해 혐의로 고소했다. 13일(현지시간) IT 전문매체 &lt;테크크런치&gt; 등 주요 외신에 따르면 크래프톤은 지난 10일 미국 캘리포니아 중부지방법원에 해당 소송을 제기했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/14/blt202201140004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
