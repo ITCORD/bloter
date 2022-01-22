@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 08:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 09:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[톰크루즈의 ‘우주 영화’ 제작사, 2024년까지 우주 스튜디오 만든다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201210010</link>
+            <guid>https://www.bloter.net/newsView/blt202201210010</guid>
+            <pubDate>Fri, 21 Jan 2022 01:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-21 10:30:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210005.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[벤츠, 자율주행 기술 개발 위해 루미나와 협력한다 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202201210004</link>
             <guid>https://www.bloter.net/newsView/blt202201210004</guid>
@@ -302,14 +310,6 @@
             <pubDate>Thu, 20 Jan 2022 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-20 17:12:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대글로비스 중고차 플랫폼 '오토벨' 론칭...현대차 사업진출이 '관건' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201200016</link>
-            <guid>https://www.bloter.net/newsView/blt202201200016</guid>
-            <pubDate>Thu, 20 Jan 2022 05:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-20 14:06:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -351,7 +351,7 @@
             <title><![CDATA[테크인재 원하는 기업들…100% 원격근무에 무이자 대출까지 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201180076</link>
             <guid>https://www.bloter.net/newsView/blt202201180076</guid>
-            <pubDate>Sat, 22 Jan 2022 08:19:43 GMT</pubDate>
+            <pubDate>Sat, 22 Jan 2022 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-22 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180033.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1091,7 +1091,7 @@
             <title><![CDATA[테크인재 원하는 기업들…100% 원격근무에 무이자 대출까지 (블로터 ─ 금융)]]></title>
             <link>https://www.bloter.net/newsView/blt202201180076</link>
             <guid>https://www.bloter.net/newsView/blt202201180076</guid>
-            <pubDate>Sat, 22 Jan 2022 08:21:38 GMT</pubDate>
+            <pubDate>Sat, 22 Jan 2022 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[디지털 경제 시대를 선점하고자 하는 기업들이 테크(기술)인재를 영입하는데 적극적으로 돈을 쓰고 있다. 특히 개발자 직군에 대한 수요가 상당하다.22일 업계에 따르면 라인의 글로벌 NFT(대체불가능토큰) 플랫폼 자회사인 라인 넥스트가 글로벌 NFT 플랫폼 사업 및 개발을 위한 경력직 채용을 진행한다.모집 직무는 △개발 △기획 △사업 △마케팅 △UI디자인 5개 직군에서 21개의 포지션으로, 총 100여명을 선발한다. 개발 직군은 분야별로 글로벌 및 일본 NFT 플랫폼 개발뿐만 아니라 라인 블록체인 메인넷, 월렛, 암호자산 링크(LINK) 관련 서비스 등을 개발하고 운영하게 된다. 사업, 기획 및 마케팅 직군은 글로벌 NFT 플랫폼과 블록체인 기반 분산화된 웹(Web) 3.0 생태계 구축을 위한 업무를 진행하게 된다.해당 채용은 이달 3일부터 수시 채용으로 채용 완료 시까지 진행한다. 서류 접수는 채용 홈페이지를 통해 할 수 있다. 개발 포지션은 코딩 테스트 통과 후 면접을 진행하고 사업, 기획 및 마케팅 직군은 서류 합격 후 면접을 통해 합격자를 선발한다. 모든 채용 과정은 100% 온라인이다.라인은 올 6월까지 사무실근무와 재택근무를 조합해 선택할 수 있는 혼합형 근무제인 '하이브리드 워크 1.0 제도'를 운영하고 있다. 특히 개발 직군의 경우 100% 원격근무부터 주 N일 오피스 근무까지 높은 유연성을 제공받을 수 있다.라인 넥스트는 신규 글로벌 NFT 플랫폼 '도시(DOSI)'의 론칭을 앞두고 있다. 해당 플랫폼에서 다양한 국가의 기업과 크리에이터들이 손쉽게 NFT브랜드 스토어와 글로벌 커뮤니티를 구축할 수 있고, NFT 제작과 글로벌 마케팅 지원 프로그램을 지원받을 수 있다. NFT에 특화된 월렛을 통해 일반 사용자들이 신용카드, 간편 결제 및 이더리움, 비트코인, 링크 등 다양한 암호화폐로 NFT를 거래하거나 소셜 활동을 할 수 있는 환경을 제공할 계획이다.국내 주요 가상자산거래소인 코인원은 오는 2월 6일까지 100여명 규모로 경력직 공개 채용을 진행한다. 전 직군에서 채용을 진행하는 가운데 풀 스택 엔지니어, 가상자산 지갑 백엔드 개발, 프론트엔드 개발, iOS개발 등 개발자 분야의 비중이 크다.코인원은 거래소 서비스의 안정화와 고도화를 상반기 최대 중점 과제로 삼고, 개발 분야 전문성을 갖춘 우수 인재를 대거 영입한다는 계획이다. 이를 위해 개발 직군 입사자에는 전 직장 대비 최대 50% 연봉 인상, 일정 기간 근무 조건으로 계약 연봉 최대 100%에 달하는 사이닝보너스 혹은 최대 200%의 스톡옵션을 제공하는 등 업계 최고 수준의 대우를 보장한다.또한 기업과 개발자가 함께 성장해 나갈 수 있는 근무 환경을 조성하는 데 노력하고 있다. 최근 빠르고 효율적인 업무 진행을 위해 중간 조직 단위인 '테크'와 이를 총괄하는 테크리더(TL) 포지션을 신설했다. 퍼플즈 CCO를 역임한 고재필 CTO를 비롯해 화이트해커 출신 장준호 TL 등 각 분야에서 실력을 갖춘 리더를 잇달아 영입하며 개발 조직의 변화를 도모하고 있다.코인원에 입사하면 대기업 수준의 복지혜택이 제공된다. 1년 이상 재직자에게는 주택자금 최대 5000만원 무이자 사내 대출도 해준다. 올 3월에는 보다 쾌적한 환경에서 근무할 수 있도록 여의도 파크원 타워로 사옥을 이전할 예정이다.디지털 전환의 가속화로 HR(인적자원) 분야에서도 빅데이터와 AI(인공지능) 기술을 활용하는 'HR테크'가 빠르게 성장하고 있다. HR테크 기업으로 전환하고 있는 인크루트는 리크루팅 소프트웨어를 포함해 인크루트 서비스 전반에 필요한 인재를 영입하기 위해 대규모 공채 진행을 결정했다. 올 2월 6일까지 신입과 경력 모두 두 자릿수 인원을 채용한다.이 회사 역시 '경력직 개발자'를 원하고 있다. 경력직은 △서비스 기획 △웹개발 △기술개발 △채용서비스 운영 △채용사업 B2B영업 △영업기획 △영업지원 △C#개발 △웹퍼블리셔 △모바일 디자인 △마케팅 전략관리 △퍼포먼스 마케팅 등 총 12개 직무에서 모집한다. 신입은 기업영업 직군에서 채용한다. 김소연 인크루트 인사팀장은 "채용 확정된 지원자를 100% 정규직으로 채용할 계획"이라고 설명했다.업계 관계자는 "최근 개발자 채용은 전쟁이라고 할 정도"라며 "개발자 리텐션(유지)을 위해 스톡옵션 등 다양한 보상을 제공하고 있다"고 말했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180033.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
