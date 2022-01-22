@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 07:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤츠, 자율주행 기술 개발 위해 루미나와 협력한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201210004</link>
+            <guid>https://www.bloter.net/newsView/blt202201210004</guid>
+            <pubDate>Sat, 22 Jan 2022 07:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-21 09:43:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, NFT 만들고 거래하는 기능 개발한다]]></title>
             <link>https://www.bloter.net/newsView/blt202201210002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 21 Jan 2022 00:52:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-20 14:06:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막내린 KT의 'NTT도코모 동행'...신한은행과 신동맹 노림수는]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190067</link>
-            <guid>https://www.bloter.net/newsView/blt202201190067</guid>
-            <pubDate>Thu, 20 Jan 2022 10:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-20 12:37:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190035.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
