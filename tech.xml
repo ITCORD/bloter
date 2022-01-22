@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 08:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테크인재 원하는 기업들…100% 원격근무에 무이자 대출까지]]></title>
+            <link>https://www.bloter.net/newsView/blt202201180076</link>
+            <guid>https://www.bloter.net/newsView/blt202201180076</guid>
+            <pubDate>Sat, 22 Jan 2022 08:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-22 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["집앞부터 제주까지"…일하는 '공간'이 바뀐다[트렌드리포트]]]></title>
             <link>https://www.bloter.net/newsView/blt202201180071</link>
             <guid>https://www.bloter.net/newsView/blt202201180071</guid>
             <pubDate>Sat, 22 Jan 2022 07:15:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-22 15:30:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트 헤드셋 개발에 속도내는 업계, 그 사이 유독 조용한 삼성전자]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 20 Jan 2022 09:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-20 17:26:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200026.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청년일자리 확대 호응한 빗썸…개발자 직접 키워 채용한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201200056</link>
-            <guid>https://www.bloter.net/newsView/blt202201200056</guid>
-            <pubDate>Thu, 20 Jan 2022 08:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-20 17:12:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
