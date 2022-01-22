@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 00:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 01:59:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장하나 티샷만 다시 볼까?'..."네이버 스포츠에선 가능합니다"[테크체인저]]]></title>
+            <link>https://www.bloter.net/newsView/blt202201190073</link>
+            <guid>https://www.bloter.net/newsView/blt202201190073</guid>
+            <pubDate>Sat, 22 Jan 2022 01:57:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-22 10:23:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190045.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[카카오 쇄신]④어깨 무거운 남궁훈, 풀어야 할 숙제들]]></title>
             <link>https://www.bloter.net/newsView/blt202201210172</link>
             <guid>https://www.bloter.net/newsView/blt202201210172</guid>
             <pubDate>Fri, 21 Jan 2022 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-21 18:15:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황현식 LGU+ 대표, 5G 주파수 즉답 피했지만…유영상 SKT 대표는 견제구]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 20 Jan 2022 05:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-20 13:52:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200008.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK머티리얼즈, 특수가스 ‘탄소발자국’ 인증...반도체 환경오염 줄일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201200017</link>
-            <guid>https://www.bloter.net/newsView/blt202201200017</guid>
-            <pubDate>Thu, 20 Jan 2022 04:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-20 13:08:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
