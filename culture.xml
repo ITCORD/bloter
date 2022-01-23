@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 07:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 09:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치열해지는 세계 음악 스트리밍 시장…최강자는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201210057</link>
+            <guid>https://www.bloter.net/newsView/blt202201210057</guid>
+            <pubDate>Sun, 23 Jan 2022 09:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 국내에 진출한 세계 최대 음원 스트리밍 서비스 스포티파이가 글로벌 음악 스트리밍 시장을 이끌고 있는 것으로 나타났다. 애플 뮤직은 2위를 차지했다. 시장조사업체 ‘미디아 리서치(MIDiA Research)’에 따르면 지난해 2분기 기준 스포티파이는 전 세계]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210006.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스의 잇단 요금 인상, 그 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202201210126</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 18 Jan 2022 02:10:55 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 팬데믹의 여파로 거리두기·재택근무·비대면 수업은 일상이 됐다. 팬데믹 3년째인 2022년에 접어들며 주목받는 기업과 기술도 과거와 달라지는 양상이다. &lt;블로터&gt;는 소비자 데이터 플랫폼 기업 오픈서베이에 설문조사를 의뢰해 '2022년 우리의]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사내 성추행·차별 논란' 블리자드, 직원 37명 해고]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180008</link>
-            <guid>https://www.bloter.net/newsView/blt202201180008</guid>
-            <pubDate>Tue, 18 Jan 2022 02:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[사내 성폭력과 직원 차별 논란에 직면한 미국의 대표 게임회사 액티비전 블리자드(이하 블리자드)가 지난해 7월 이후 직원 37명을 해고하고 44명에게 서면 징계 등의 처분을 내렸다. 17일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 블리자드의 내부 문서와 대변인을 인용]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
