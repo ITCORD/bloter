@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 02:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 02:35:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -829,6 +829,14 @@ Q. 그럼 현재 수익모델은 무엇인가.백준봉: 지금은 없다. 이�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190030.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스의 잇단 요금 인상, 그 이유는? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201210126</link>
+            <guid>https://www.bloter.net/newsView/blt202201210126</guid>
+            <pubDate>Sun, 23 Jan 2022 02:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 최근 북미시장 요금을 인상하겠다고 발표했다. 약 1년만의 요금 인상이다. 미국에서 가장 비싼 요금인 프리미엄의 월 구독료는 20달러(약 2만3900원)로 올랐다. 기본 플랜은 15.49달러(약 1만8500원)로 올라 경쟁사인 HBO맥스와 디즈니의 번들보다 더 비싼 수준]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210013.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['장하나 티샷만 다시 볼까?'..."네이버 스포츠에선 가능합니다"[테크체인저] (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202201190073</link>
             <guid>https://www.bloter.net/newsView/blt202201190073</guid>
@@ -915,14 +923,6 @@ Q. 그럼 현재 수익모델은 무엇인가.백준봉: 지금은 없다. 이�
             <pubDate>Tue, 18 Jan 2022 02:09:09 GMT</pubDate>
             <content:encoded><![CDATA[사내 성폭력과 직원 차별 논란에 직면한 미국의 대표 게임회사 액티비전 블리자드(이하 블리자드)가 지난해 7월 이후 직원 37명을 해고하고 44명에게 서면 징계 등의 처분을 내렸다. 17일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 블리자드의 내부 문서와 대변인을 인용]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180007.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["총 상금 1억"…'와일드 리프트' 공식 e스포츠 리그, 2월 열린다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170073</link>
-            <guid>https://www.bloter.net/newsView/blt202201170073</guid>
-            <pubDate>Mon, 17 Jan 2022 08:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 e스포츠 대회로 성장한 '리그 오브 레전드'(LoL)에 이어 '모바일 LoL'로 불리는 '와일드 리프트'도 공식 리그를 진행한다. 이미 e스포츠 시장의 잠재력 및 성장성을 확인한 라이엇 게임즈는 와일드 리프트를 통해 LoL e스포츠의 열기를 이어간다는 계획이다. 17]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170027.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]4년 만에 돌아온 NTP…방준혁 의장 무슨 얘기할까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
