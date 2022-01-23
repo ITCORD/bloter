@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 06:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 07:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비접촉 해외결제, 기약없는 애플페이 대신 현대카드로 한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201210178</link>
+            <guid>https://www.bloter.net/newsView/blt202201210178</guid>
+            <pubDate>Sun, 23 Jan 2022 07:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-23 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['제2의 화웨이' 노리는 '오포'…기술력서도 삼성전자 추격]]></title>
             <link>https://www.bloter.net/newsView/blt202201180044</link>
             <guid>https://www.bloter.net/newsView/blt202201180044</guid>
             <pubDate>Sun, 23 Jan 2022 03:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-01-23 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ICT로 보는 대선]②떠오르는 'OTT·콘텐츠'로 미디어 부처 탄생할까…과기정통부·방통위는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 20 Jan 2022 10:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-20 18:53:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[카카오 쇄신]②PC방 방문판매원에서 카카오 대표가 되기까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202201200104</link>
-            <guid>https://www.bloter.net/newsView/blt202201200104</guid>
-            <pubDate>Thu, 20 Jan 2022 10:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-20 18:23:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
