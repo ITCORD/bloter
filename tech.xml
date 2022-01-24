@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 09:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘영업익 83.5%’ 오른 삼성바이오로직스, 배당 도입 시사…부채 증가는 숙제]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240091</link>
+            <guid>https://www.bloter.net/newsView/blt202201240091</guid>
+            <pubDate>Mon, 24 Jan 2022 10:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-24 18:22:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240036.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['벤더도 잠재적 리스크...' SK하이닉스, 협력사 ESG 평가 나서]]></title>
             <link>https://www.bloter.net/newsView/blt202201240088</link>
             <guid>https://www.bloter.net/newsView/blt202201240088</guid>
             <pubDate>Mon, 24 Jan 2022 09:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-24 17:47:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240035.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240035.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[PI첨단소재 바니시 생산라인 증설 검토...신사업 본격화?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 23 Jan 2022 07:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-23 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['제2의 화웨이' 노리는 '오포'…기술력서도 삼성전자 추격]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180044</link>
-            <guid>https://www.bloter.net/newsView/blt202201180044</guid>
-            <pubDate>Sun, 23 Jan 2022 03:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-01-23 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
