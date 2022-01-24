@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 08:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GS리테일이 인수한 '쿠캣', 글로벌 MZ세대를 사로잡은 방법]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240042</link>
+            <guid>https://www.bloter.net/newsView/blt202201240042</guid>
+            <pubDate>Mon, 24 Jan 2022 09:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-24 17:02:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, '직원 보상·주주 배당' 두 마리 토끼 잡으려면?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240044</link>
+            <guid>https://www.bloter.net/newsView/blt202201240044</guid>
+            <pubDate>Mon, 24 Jan 2022 09:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-24 16:41:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 올림픽위원회, '버너 폰' 사용 권고…중국 보안 환경 의식했나]]></title>
             <link>https://www.bloter.net/newsView/blt202201240014</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 24 Jan 2022 08:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-24 09:02:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, '그룹 이벤트' 앱 수수료 면제 연장]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240001</link>
-            <guid>https://www.bloter.net/newsView/blt202201240001</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-24 08:33:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[③과학기술, 관심 높아졌지만 ‘속 빈 강정’ 우려…진정성도 물음표]]></title>
-            <link>https://www.bloter.net/newsView/blt202201220001</link>
-            <guid>https://www.bloter.net/newsView/blt202201220001</guid>
-            <pubDate>Mon, 24 Jan 2022 02:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-23 18:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/22/blt202201220001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
