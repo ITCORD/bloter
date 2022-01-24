@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, '그룹 이벤트' 앱 수수료 면제 연장]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240001</link>
+            <guid>https://www.bloter.net/newsView/blt202201240001</guid>
+            <pubDate>Mon, 24 Jan 2022 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-24 08:33:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[③과학기술, 관심 높아졌지만 ‘속 빈 강정’ 우려…진정성도 물음표]]></title>
             <link>https://www.bloter.net/newsView/blt202201220001</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 23 Jan 2022 09:15:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-23 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테크인재 원하는 기업들…100% 원격근무에 무이자 대출까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202201180076</link>
-            <guid>https://www.bloter.net/newsView/blt202201180076</guid>
-            <pubDate>Sun, 23 Jan 2022 09:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-22 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/18/blt202201180033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
