@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 07:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 08:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[미국 올림픽위원회, '버너 폰' 사용 권고…중국 보안 환경 의식했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240014</link>
-            <guid>https://www.bloter.net/newsView/blt202201240014</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-24 11:04:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240012.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[PI첨단소재 바니시 생산라인 증설 검토...신사업 본격화?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240072</link>
+            <guid>https://www.bloter.net/newsView/blt202201240072</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-24 17:16:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240031.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['중국판 로블록스' 서비스 일시 중단...왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201100001</link>
-            <guid>https://www.bloter.net/newsView/blt202201100001</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[올림픽 앞둔 중국, CBDC 속도 낸다...디지털 위안 앱 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202201050010</link>
-            <guid>https://www.bloter.net/newsView/blt202201050010</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플, 마오쩌둥·파룬궁 등 中 검열 단어 일부 '홍콩·대만'에도 적용했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202108190002</link>
-            <guid>https://www.bloter.net/newsView/blt202108190002</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:02 GMT</pubDate>
+            <title><![CDATA[PI첨단소재, 전 분기보다 매출액 줄고도 ‘영업이익’ 늘어난 배경은]]></title>
+            <link>https://www.bloter.net/newsView/blt202108090012</link>
+            <guid>https://www.bloter.net/newsView/blt202108090012</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중국정부 검열 피해 이더리움에 '전송'한 #미투]]></title>
-            <link>https://www.bloter.net/newsView/blt201804260006</link>
-            <guid>https://www.bloter.net/newsView/blt201804260006</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">한수연</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[PI첨단소재, 9호기 증설에 730억원 투자한 ‘2가지’ 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202104260025</link>
+            <guid>https://www.bloter.net/newsView/blt202104260025</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
