@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오뱅크는 은행주가 아닌가…하락장이 답하길]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250175</link>
+            <guid>https://www.bloter.net/newsView/blt202201250175</guid>
+            <pubDate>Tue, 25 Jan 2022 09:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-25 18:14:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5G 3.7㎓ 대역 정비 안됐는데…SKT, 기습 추가할당 요구 왜 했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250183</link>
+            <guid>https://www.bloter.net/newsView/blt202201250183</guid>
+            <pubDate>Tue, 25 Jan 2022 09:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-25 18:07:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250022.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네오위즈, 팬덤 플랫폼 도전장…첫 아티스트는 '이달의 소녀']]></title>
             <link>https://www.bloter.net/newsView/blt202201250156</link>
             <guid>https://www.bloter.net/newsView/blt202201250156</guid>
             <pubDate>Tue, 25 Jan 2022 08:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-25 16:47:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['Btv·애플TV와 다른' 휴대형 OTT박스로 MZ세대 노리는 SKB]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 24 Jan 2022 08:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-24 16:46:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]SKT, '직원 보상·주주 배당' 두 마리 토끼 잡으려면?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240044</link>
-            <guid>https://www.bloter.net/newsView/blt202201240044</guid>
-            <pubDate>Mon, 24 Jan 2022 08:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-24 16:41:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]넷게임즈 비밀병기 '제우스 프로젝트' 베일 벗나]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240040</link>
-            <guid>https://www.bloter.net/newsView/blt202201240040</guid>
-            <pubDate>Mon, 24 Jan 2022 07:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-24 16:03:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
