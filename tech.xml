@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“용량 5배 키웠다”...파나소닉, 이르면 내년부터 ‘테슬라’ 신형 배터리 양산]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250006</link>
+            <guid>https://www.bloter.net/newsView/blt202201250006</guid>
+            <pubDate>Tue, 25 Jan 2022 00:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 09:58:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘인류의 눈’ 제임스웹 우주망원경, 지구서 160만km 떨어진 목적지 도착]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250001</link>
+            <guid>https://www.bloter.net/newsView/blt202201250001</guid>
+            <pubDate>Tue, 25 Jan 2022 00:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 09:19:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘영업익 83.5%’ 오른 삼성바이오로직스, 배당 도입 시사…부채 증가는 숙제]]></title>
             <link>https://www.bloter.net/newsView/blt202201240091</link>
             <guid>https://www.bloter.net/newsView/blt202201240091</guid>
             <pubDate>Mon, 24 Jan 2022 10:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-24 18:22:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240036.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['벤더도 잠재적 리스크...' SK하이닉스, 협력사 ESG 평가 나서]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 23 Jan 2022 09:15:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-23 18:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/22/blt202201220001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치열해지는 세계 음악 스트리밍 시장…최강자는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210057</link>
-            <guid>https://www.bloter.net/newsView/blt202201210057</guid>
-            <pubDate>Sun, 23 Jan 2022 09:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-23 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210006.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[비접촉 해외결제, 기약없는 애플페이 대신 현대카드로 한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210178</link>
-            <guid>https://www.bloter.net/newsView/blt202201210178</guid>
-            <pubDate>Sun, 23 Jan 2022 07:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-23 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

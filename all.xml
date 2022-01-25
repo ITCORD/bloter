@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:03:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,40 +317,56 @@ GS 유통망 활용해 오프라인 경험 확대·퀵커머스 검토
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210013.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['캐스팅보터' 국민연금, 포스코 물적분할 찬성...'밴드웨건' 효과 나타날까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240073</link>
-            <guid>https://www.bloter.net/newsView/blt202201240073</guid>
-            <pubDate>Mon, 24 Jan 2022 09:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-24 17:49:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240034.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“용량 5배 키웠다”...파나소닉, 이르면 내년부터 ‘테슬라’ 신형 배터리 양산 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250006</link>
+            <guid>https://www.bloter.net/newsView/blt202201250006</guid>
+            <pubDate>Tue, 25 Jan 2022 00:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 09:58:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250003.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[국민연금, 포스코 물적분할 '캐스팅보터'일까...24일 의결권 행사 여부 심의 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210157</link>
-            <guid>https://www.bloter.net/newsView/blt202201210157</guid>
-            <pubDate>Sun, 23 Jan 2022 01:56:56 GMT</pubDate>
+            <title><![CDATA[테슬라 경쟁사 '노스볼트'...리튬이온 배터리 생산 시작 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112300001</link>
+            <guid>https://www.bloter.net/newsView/blt202112300001</guid>
+            <pubDate>Tue, 25 Jan 2022 00:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG엔솔, 中제외 점유율 36.2%...배터리 영토 확장 가속 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112150039</link>
+            <guid>https://www.bloter.net/newsView/blt202112150039</guid>
+            <pubDate>Tue, 25 Jan 2022 00:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에너지도 테슬라 주요 매출원 될까…호주서 대용량 배터리 '메가팩' 가동 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112090002</link>
+            <guid>https://www.bloter.net/newsView/blt202112090002</guid>
+            <pubDate>Tue, 25 Jan 2022 00:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고려아연, 수소·배터리 소재로 '영업이익 1조 클럽' 눈앞 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202111120221</link>
+            <guid>https://www.bloter.net/newsView/blt202111120221</guid>
+            <pubDate>Tue, 25 Jan 2022 00:58:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코 사상최대 실적...PER 저평가 '역대급', 현대제철·KG동부제철보다 낮다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201130034</link>
-            <guid>https://www.bloter.net/newsView/blt202201130034</guid>
-            <pubDate>Mon, 24 Jan 2022 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[PI첨단소재 바니시 생산라인 증설 검토...신사업 본격화? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240072</link>
+            <guid>https://www.bloter.net/newsView/blt202201240072</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-24 17:16:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240031.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[포스코 주가, '지주사 전환 발표' 이전 수준 회복...기존 주주 신뢰 회복 '시그널' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201070065</link>
-            <guid>https://www.bloter.net/newsView/blt202201070065</guid>
-            <pubDate>Mon, 24 Jan 2022 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포스코, '상장 불가능'한 정관 도입...'안전핀' 마련해 주주 신뢰 회복 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201040045</link>
-            <guid>https://www.bloter.net/newsView/blt202201040045</guid>
-            <pubDate>Mon, 24 Jan 2022 09:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[양향자 ‘과학기술 공약’ 질의에 윤석열 ‘침묵’…이재명·안철수 “적극 육성” (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240052</link>
+            <guid>https://www.bloter.net/newsView/blt202201240052</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-24 17:13:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GS리테일이 인수한 '쿠캣', 글로벌 MZ세대를 사로잡은 방법 (블로터 ─ 비즈니스)]]></title>
@@ -383,22 +399,6 @@ GS 유통망 활용해 오프라인 경험 확대·퀵커머스 검토
             <pubDate>Mon, 24 Jan 2022 02:03:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-24 10:06:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["응답하라 블리자드"…'콜 오브 듀티' 개발 직원들, 노조 설립 추진 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240008</link>
-            <guid>https://www.bloter.net/newsView/blt202201240008</guid>
-            <pubDate>Mon, 24 Jan 2022 02:03:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-24 09:57:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240008.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['ESG 강화' LG이노텍, 협력사 ‘동반성장펀드’ 활용 방안 다각화 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240002</link>
-            <guid>https://www.bloter.net/newsView/blt202201240002</guid>
-            <pubDate>Mon, 24 Jan 2022 00:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-24 09:02:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240003.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -437,12 +437,28 @@ GS 유통망 활용해 오프라인 경험 확대·퀵커머스 검토
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[“용량 5배 키웠다”...파나소닉, 이르면 내년부터 ‘테슬라’ 신형 배터리 양산 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250006</link>
+            <guid>https://www.bloter.net/newsView/blt202201250006</guid>
+            <pubDate>Tue, 25 Jan 2022 00:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 09:58:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘인류의 눈’ 제임스웹 우주망원경, 지구서 160만km 떨어진 목적지 도착 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250001</link>
+            <guid>https://www.bloter.net/newsView/blt202201250001</guid>
+            <pubDate>Tue, 25 Jan 2022 00:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 09:19:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[‘영업익 83.5%’ 오른 삼성바이오로직스, 배당 도입 시사…부채 증가는 숙제 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201240091</link>
             <guid>https://www.bloter.net/newsView/blt202201240091</guid>
             <pubDate>Mon, 24 Jan 2022 10:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-24 18:22:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240036.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['벤더도 잠재적 리스크...' SK하이닉스, 협력사 ESG 평가 나서 (블로터 ─ 테크)]]></title>
@@ -563,22 +579,6 @@ GS 유통망 활용해 오프라인 경험 확대·퀵커머스 검토
             <pubDate>Sun, 23 Jan 2022 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-23 18:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/22/blt202201220001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치열해지는 세계 음악 스트리밍 시장…최강자는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210057</link>
-            <guid>https://www.bloter.net/newsView/blt202201210057</guid>
-            <pubDate>Sun, 23 Jan 2022 09:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-23 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210006.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[비접촉 해외결제, 기약없는 애플페이 대신 현대카드로 한다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210178</link>
-            <guid>https://www.bloter.net/newsView/blt202201210178</guid>
-            <pubDate>Sun, 23 Jan 2022 07:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-23 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
