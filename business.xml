@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔비디아, ARM 인수 진전 없어 “포기 준비 중”]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260003</link>
+            <guid>https://www.bloter.net/newsView/blt202201260003</guid>
+            <pubDate>Wed, 26 Jan 2022 07:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 08:19:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오뱅크는 은행주가 아닌가…하락장이 답하길]]></title>
             <link>https://www.bloter.net/newsView/blt202201250175</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 25 Jan 2022 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 11:00:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“용량 5배 키웠다”...파나소닉, 이르면 내년부터 ‘테슬라’ 신형 배터리 양산]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250006</link>
-            <guid>https://www.bloter.net/newsView/blt202201250006</guid>
-            <pubDate>Tue, 25 Jan 2022 08:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 09:58:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
