@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260104</link>
+            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
+            <pubDate>Wed, 26 Jan 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 4분기에도 실적 고공행진을 기록했다. 클라우드 사업의 ‘폭풍성장’에 힘입은 결과다. 25일(현지시간) MS는 지난해 4분기 매출이 전년 동기보다 20% 증가한 517억달러(약 62조원), 순이익은 21% 늘어난 188억달러를 기록했다고 발표했다. 월가]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 올림픽위원회, '버너 폰' 사용 권고…중국 보안 환경 의식했나]]></title>
             <link>https://www.bloter.net/newsView/blt202201240014</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 24 Jan 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[국내 신재생에너지 관련 기업이 '게임' 사업에 뛰어든다. 기업을 대상으로 한 B2B 판매에 이어 모바일 RPG 개발을 통해 소비자 비즈니스(B2C)를 확대하기 위해서다. 이는 태양광 솔루션 사업을 영위하는 '알피오'(RP5)의 이야기다. 알피오엔터테인먼트로 게임 사업 도전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2022]①한국 오리지널 두 배 늘려…"투자액, 유추 가능할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190037</link>
-            <guid>https://www.bloter.net/newsView/blt202201190037</guid>
-            <pubDate>Thu, 20 Jan 2022 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 2월 25일 넷플릭스는 한국 서비스 5주년을 기념해 마련한 온라인 쇼케이스 'See What's Next Korea 2021'에서 "올해 한국 콘텐츠에 5500억원을 투자한다"고 밝혔다. 당시 넷플릭스의 투자 규모는 연간 기준 업계 최대 규모라고 봐도 손색이 없었다. 거침없는 투자로 탄]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

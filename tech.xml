@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["네이버 뉴스, 인위적으로 손 못 대"…알고리즘 검토위 결과 발표]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260118</link>
+            <guid>https://www.bloter.net/newsView/blt202201260118</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 17:14:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260104</link>
+            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전기, 서버용 FC-BGA 진출...제품 고도화 '시동']]></title>
+            <link>https://www.bloter.net/newsView/blt202201260117</link>
+            <guid>https://www.bloter.net/newsView/blt202201260117</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:21:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260022.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, 해외 투자 늘려도 '무차입 경영'...재무건전성 비결은]]></title>
             <link>https://www.bloter.net/newsView/blt202201260088</link>
             <guid>https://www.bloter.net/newsView/blt202201260088</guid>
             <pubDate>Wed, 26 Jan 2022 07:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[과기부, 국가 R&D ‘행정 제도’ 개선한다…전문가 논의 시작]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Tue, 25 Jan 2022 08:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-25 16:47:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Btv·애플TV와 다른' 휴대형 OTT박스로 MZ세대 노리는 SKB]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250146</link>
-            <guid>https://www.bloter.net/newsView/blt202201250146</guid>
-            <pubDate>Tue, 25 Jan 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-25 16:32:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 노사 임금협약 체결 불발...난항 예고]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250137</link>
-            <guid>https://www.bloter.net/newsView/blt202201250137</guid>
-            <pubDate>Tue, 25 Jan 2022 07:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 16:12:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT의 반격 "5G 주파수 3.7㎓도 추가할당"…KT는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250102</link>
-            <guid>https://www.bloter.net/newsView/blt202201250102</guid>
-            <pubDate>Tue, 25 Jan 2022 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-25 14:46:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

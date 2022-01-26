@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260025</link>
+            <guid>https://www.bloter.net/newsView/blt202201260025</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GM, 전기차에 8조원 투자해 테슬라 따라잡는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260004</link>
+            <guid>https://www.bloter.net/newsView/blt202201260004</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 09:18:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔비디아, ARM 인수 진전 없어 “포기 준비 중”]]></title>
             <link>https://www.bloter.net/newsView/blt202201260003</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 26 Jan 2022 00:56:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:01:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월풀 넘어선 LG전자, 새로운 가전 전략 제시했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250050</link>
-            <guid>https://www.bloter.net/newsView/blt202201250050</guid>
-            <pubDate>Wed, 26 Jan 2022 00:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, ‘세계서 가장 빠른’ AI 슈퍼컴퓨터 개발...“올해 안에 완성”]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250012</link>
-            <guid>https://www.bloter.net/newsView/blt202201250012</guid>
-            <pubDate>Tue, 25 Jan 2022 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 11:00:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

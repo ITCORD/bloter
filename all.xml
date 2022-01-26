@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,7 +262,7 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <title><![CDATA[삼성전기, 해외 투자 늘려도 '무차입 경영'...재무건전성 비결은 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201260088</link>
             <guid>https://www.bloter.net/newsView/blt202201260088</guid>
-            <pubDate>Wed, 26 Jan 2022 07:14:58 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 07:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -295,6 +295,22 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260025</link>
+            <guid>https://www.bloter.net/newsView/blt202201260025</guid>
+            <pubDate>Wed, 26 Jan 2022 02:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GM, 전기차에 8조원 투자해 테슬라 따라잡는다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260004</link>
+            <guid>https://www.bloter.net/newsView/blt202201260004</guid>
+            <pubDate>Wed, 26 Jan 2022 00:55:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 09:18:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엔비디아, ARM 인수 진전 없어 “포기 준비 중” (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202201260003</link>
             <guid>https://www.bloter.net/newsView/blt202201260003</guid>
@@ -325,22 +341,6 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <pubDate>Tue, 25 Jan 2022 04:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:01:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월풀 넘어선 LG전자, 새로운 가전 전략 제시했다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250050</link>
-            <guid>https://www.bloter.net/newsView/blt202201250050</guid>
-            <pubDate>Tue, 25 Jan 2022 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, ‘세계서 가장 빠른’ AI 슈퍼컴퓨터 개발...“올해 안에 완성” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250012</link>
-            <guid>https://www.bloter.net/newsView/blt202201250012</guid>
-            <pubDate>Tue, 25 Jan 2022 02:04:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 11:00:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -379,12 +379,36 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["네이버 뉴스, 인위적으로 손 못 대"…알고리즘 검토위 결과 발표 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260118</link>
+            <guid>https://www.bloter.net/newsView/blt202201260118</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 17:14:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260104</link>
+            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전기, 서버용 FC-BGA 진출...제품 고도화 '시동' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260117</link>
+            <guid>https://www.bloter.net/newsView/blt202201260117</guid>
+            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:21:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260022.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전기, 해외 투자 늘려도 '무차입 경영'...재무건전성 비결은 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201260088</link>
             <guid>https://www.bloter.net/newsView/blt202201260088</guid>
-            <pubDate>Wed, 26 Jan 2022 07:15:23 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 07:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[과기부, 국가 R&D ‘행정 제도’ 개선한다…전문가 논의 시작 (블로터 ─ 테크)]]></title>
@@ -497,30 +521,6 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <pubDate>Tue, 25 Jan 2022 08:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-25 16:47:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Btv·애플TV와 다른' 휴대형 OTT박스로 MZ세대 노리는 SKB (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250146</link>
-            <guid>https://www.bloter.net/newsView/blt202201250146</guid>
-            <pubDate>Tue, 25 Jan 2022 08:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-25 16:32:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 노사 임금협약 체결 불발...난항 예고 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250137</link>
-            <guid>https://www.bloter.net/newsView/blt202201250137</guid>
-            <pubDate>Tue, 25 Jan 2022 07:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 16:12:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT의 반격 "5G 주파수 3.7㎓도 추가할당"…KT는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250102</link>
-            <guid>https://www.bloter.net/newsView/blt202201250102</guid>
-            <pubDate>Tue, 25 Jan 2022 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-25 14:46:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -799,6 +799,14 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240008.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’ (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260104</link>
+            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
+            <pubDate>Wed, 26 Jan 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 4분기에도 실적 고공행진을 기록했다. 클라우드 사업의 ‘폭풍성장’에 힘입은 결과다. 25일(현지시간) MS는 지난해 4분기 매출이 전년 동기보다 20% 증가한 517억달러(약 62조원), 순이익은 21% 늘어난 188억달러를 기록했다고 발표했다. 월가]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 올림픽위원회, '버너 폰' 사용 권고…중국 보안 환경 의식했나 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202201240014</link>
             <guid>https://www.bloter.net/newsView/blt202201240014</guid>
@@ -885,14 +893,6 @@ LG전자가 새로운 가전 전략으로 ‘UP가전’을 제시했다. 고객
             <pubDate>Wed, 19 Jan 2022 09:15:15 GMT</pubDate>
             <content:encoded><![CDATA[국내 신재생에너지 관련 기업이 '게임' 사업에 뛰어든다. 기업을 대상으로 한 B2B 판매에 이어 모바일 RPG 개발을 통해 소비자 비즈니스(B2C)를 확대하기 위해서다. 이는 태양광 솔루션 사업을 영위하는 '알피오'(RP5)의 이야기다. 알피오엔터테인먼트로 게임 사업 도전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2022]①한국 오리지널 두 배 늘려…"투자액, 유추 가능할 것" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190037</link>
-            <guid>https://www.bloter.net/newsView/blt202201190037</guid>
-            <pubDate>Wed, 19 Jan 2022 08:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 2월 25일 넷플릭스는 한국 서비스 5주년을 기념해 마련한 온라인 쇼케이스 'See What's Next Korea 2021'에서 "올해 한국 콘텐츠에 5500억원을 투자한다"고 밝혔다. 당시 넷플릭스의 투자 규모는 연간 기준 업계 최대 규모라고 봐도 손색이 없었다. 거침없는 투자로 탄]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]4년 만에 돌아온 NTP…방준혁 의장 무슨 얘기할까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
