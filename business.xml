@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 23:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 01:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 ‘UP가전’ 전환, 제품 교체주기에 미칠 영향은]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250062</link>
+            <guid>https://www.bloter.net/newsView/blt202201250062</guid>
+            <pubDate>Wed, 26 Jan 2022 00:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:01:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월풀 넘어선 LG전자, 새로운 가전 전략 제시했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250050</link>
+            <guid>https://www.bloter.net/newsView/blt202201250050</guid>
+            <pubDate>Wed, 26 Jan 2022 00:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, ‘세계서 가장 빠른’ AI 슈퍼컴퓨터 개발...“올해 안에 완성”]]></title>
             <link>https://www.bloter.net/newsView/blt202201250012</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 25 Jan 2022 04:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-24 17:49:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240034.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['벤더도 잠재적 리스크...' SK하이닉스, 협력사 ESG 평가 나서]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240088</link>
-            <guid>https://www.bloter.net/newsView/blt202201240088</guid>
-            <pubDate>Tue, 25 Jan 2022 02:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-24 17:47:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240035.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PI첨단소재 바니시 생산라인 증설 검토...신사업 본격화?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240072</link>
-            <guid>https://www.bloter.net/newsView/blt202201240072</guid>
-            <pubDate>Tue, 25 Jan 2022 00:58:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-24 17:16:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240031.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
