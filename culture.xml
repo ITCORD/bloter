@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 10:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 덕?…영업익 30% ‘껑충’ LG헬로비전, 배당도 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260205</link>
+            <guid>https://www.bloter.net/newsView/blt202201260205</guid>
+            <pubDate>Wed, 26 Jan 2022 10:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[LG헬로비전의 지난해 연간 영업이익이 2020년 대비 30% 증가했다. 글로벌 온라인동영상서비스(OTT) 디즈니플러스(+)와의 제휴 등 서비스 영역을 지속 확대한 영향으로 보인다. 회사는 안정적인 실적개선 흐름을 반영해 주당 배당금도 상향 조정했다.LG헬로비전은 26일 &amp;ls]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
             <link>https://www.bloter.net/newsView/blt202201260104</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 24 Jan 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[지난해 9월 17일 공개한 넷플릭스 오리지널 시리즈 '오징어 게임'은 국내를 넘어 해외에서도 입소문을 타며 대규모 흥행에 성공했다. OTT 콘텐츠 순위 집계 사이트인 '플릭스 패트롤'에 따르면 '오징어 게임'은 전 세계 넷플릭스 TV쇼 부문에서 53일간 1위를 차지했다. ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190032.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]태양광솔루션 기업 '알피오', 엔터 자회사로 게임사업 노크]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190055</link>
-            <guid>https://www.bloter.net/newsView/blt202201190055</guid>
-            <pubDate>Mon, 24 Jan 2022 02:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[국내 신재생에너지 관련 기업이 '게임' 사업에 뛰어든다. 기업을 대상으로 한 B2B 판매에 이어 모바일 RPG 개발을 통해 소비자 비즈니스(B2C)를 확대하기 위해서다. 이는 태양광 솔루션 사업을 영위하는 '알피오'(RP5)의 이야기다. 알피오엔터테인먼트로 게임 사업 도전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/19/blt202201190030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

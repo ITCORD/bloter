@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 10:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG·SK 따라가는 포스코케미칼...성장 지표 포스코의 20배]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260043</link>
-            <guid>https://www.bloter.net/newsView/blt202201260043</guid>
-            <pubDate>Wed, 26 Jan 2022 09:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-26 18:00:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260030.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG디스플레이, '모처럼 흑자'에 배당금 푼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260204</link>
+            <guid>https://www.bloter.net/newsView/blt202201260204</guid>
+            <pubDate>Wed, 26 Jan 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-26 18:24:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260033.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['투트랙' 힘싣는 포스코케미칼, 엔트리EV용 고망간 양극재 개발한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202110250061</link>
-            <guid>https://www.bloter.net/newsView/blt202110250061</guid>
-            <pubDate>Wed, 26 Jan 2022 09:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[블랙록 언급한 LG디스플레이, “기후 대응 못하면 투자 받기 어려워”]]></title>
+            <link>https://www.bloter.net/newsView/blt202112140042</link>
+            <guid>https://www.bloter.net/newsView/blt202112140042</guid>
+            <pubDate>Wed, 26 Jan 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코케미칼은 왜 중국 흑연업체에 투자했을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202109090025</link>
-            <guid>https://www.bloter.net/newsView/blt202109090025</guid>
-            <pubDate>Wed, 26 Jan 2022 09:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[주가 관리 나선 LG디스플레이, 다음 행보는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202108310057</link>
+            <guid>https://www.bloter.net/newsView/blt202108310057</guid>
+            <pubDate>Wed, 26 Jan 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코케미칼, 화유코발트 합작사 최대주주로...中 공장 정상화 '구원투수']]></title>
-            <link>https://www.bloter.net/newsView/blt202108250021</link>
-            <guid>https://www.bloter.net/newsView/blt202108250021</guid>
-            <pubDate>Wed, 26 Jan 2022 09:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG디스플레이, 물·탄소 중립 추진...친환경 경영 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202107250003</link>
+            <guid>https://www.bloter.net/newsView/blt202107250003</guid>
+            <pubDate>Wed, 26 Jan 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG디스플레이, 재무구조 개선 고민…올해부터 ‘투자’ 감축]]></title>
+            <link>https://www.bloter.net/newsView/blt202105280011</link>
+            <guid>https://www.bloter.net/newsView/blt202105280011</guid>
+            <pubDate>Wed, 26 Jan 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
