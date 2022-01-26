@@ -4,19 +4,27 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 02:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 03:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 베팅한 '뷰런테크놀로지', 100억원 투자유치...기술 경쟁력은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260027</link>
+            <guid>https://www.bloter.net/newsView/blt202201260027</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 11:53:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다]]></title>
             <link>https://www.bloter.net/newsView/blt202201260025</link>
             <guid>https://www.bloter.net/newsView/blt202201260025</guid>
             <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LS전선, 3년 늦은 인니 케이블공장 준공...‘수도이전’ 특수 누릴까]]></title>
+            <title><![CDATA[LS전선, 케이블공장 준공...‘수도이전’ 특수 누릴까]]></title>
             <link>https://www.bloter.net/newsView/blt202201260017</link>
             <guid>https://www.bloter.net/newsView/blt202201260017</guid>
             <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 25 Jan 2022 03:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-25 11:16:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, ‘세계서 가장 빠른’ AI 슈퍼컴퓨터 개발...“올해 안에 완성”]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250012</link>
-            <guid>https://www.bloter.net/newsView/blt202201250012</guid>
-            <pubDate>Tue, 25 Jan 2022 02:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-25 11:00:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
