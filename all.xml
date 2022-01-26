@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -379,12 +379,28 @@ S펜을 탑재한 삼성전자의 전략 스마트폰 신제품 갤럭시S22 시
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[과기부, 국가 R&D ‘행정 제도’ 개선한다…전문가 논의 시작 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260078</link>
+            <guid>https://www.bloter.net/newsView/blt202201260078</guid>
+            <pubDate>Wed, 26 Jan 2022 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-26 14:58:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다음 모바일 화면 뭐가 달라졌나..."뉴스보다 콘텐츠 강화" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260054</link>
+            <guid>https://www.bloter.net/newsView/blt202201260054</guid>
+            <pubDate>Wed, 26 Jan 2022 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 14:24:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버가 베팅한 '뷰런테크놀로지', 100억원 투자유치...기술 경쟁력은? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201260027</link>
             <guid>https://www.bloter.net/newsView/blt202201260027</guid>
             <pubDate>Wed, 26 Jan 2022 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 11:53:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다 (블로터 ─ 테크)]]></title>
@@ -505,22 +521,6 @@ S펜을 탑재한 삼성전자의 전략 스마트폰 신제품 갤럭시S22 시
             <pubDate>Tue, 25 Jan 2022 04:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:01:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월풀 넘어선 LG전자, 새로운 가전 전략 제시했다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250050</link>
-            <guid>https://www.bloter.net/newsView/blt202201250050</guid>
-            <pubDate>Tue, 25 Jan 2022 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-25 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI의 힘…로톡서 판례 313만건 검색한다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250013</link>
-            <guid>https://www.bloter.net/newsView/blt202201250013</guid>
-            <pubDate>Tue, 25 Jan 2022 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-25 11:16:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
