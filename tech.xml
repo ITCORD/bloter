@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LX세미콘 계열분리 '영향무'...호실적 속 눈에 띄는 ‘투자 확대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270146</link>
+            <guid>https://www.bloter.net/newsView/blt202201270146</guid>
+            <pubDate>Thu, 27 Jan 2022 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 16:50:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷마블 NTP]②방준혁 의장 "올해 승부수? 블록체인·메타버스"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270134</link>
+            <guid>https://www.bloter.net/newsView/blt202201270134</guid>
+            <pubDate>Thu, 27 Jan 2022 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-27 16:19:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 최대 매출 냈지만…삼성SDS가 MSP로 변신하려는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202201270091</link>
             <guid>https://www.bloter.net/newsView/blt202201270091</guid>
             <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-27 15:15:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷마블 NTP]①내외부 IP 대방출…20종 신작 선보인다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:21:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 해외 투자 늘려도 '무차입 경영'...재무건전성 비결은]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260088</link>
-            <guid>https://www.bloter.net/newsView/blt202201260088</guid>
-            <pubDate>Wed, 26 Jan 2022 07:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기부, 국가 R&D ‘행정 제도’ 개선한다…전문가 논의 시작]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260078</link>
-            <guid>https://www.bloter.net/newsView/blt202201260078</guid>
-            <pubDate>Wed, 26 Jan 2022 06:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-26 14:58:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

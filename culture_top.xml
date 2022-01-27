@@ -4,9 +4,18 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷마블 NTP]②방준혁 의장 "올해 승부수? 블록체인·메타버스"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270134</link>
+            <guid>https://www.bloter.net/newsView/blt202201270134</guid>
+            <pubDate>Thu, 27 Jan 2022 08:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-01-27 16:19:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270020.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷마블 NTP]①내외부 IP 대방출…20종 신작 선보인다]]></title>
             <link>https://www.bloter.net/newsView/blt202201270082</link>
@@ -14,7 +23,7 @@
             <pubDate>Thu, 27 Jan 2022 06:19:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-01-27 14:26:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270014.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270014.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스 2022]③'지금 우리 학교는'은 뭔가 특별한 것이 있다]]></title>
@@ -33,15 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-01-26 09:59:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260005.282x159.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈, 팬덤 플랫폼 도전장…첫 아티스트는 '이달의 소녀']]></title>
-            <link>https://www.bloter.net/newsView/blt202201250156</link>
-            <guid>https://www.bloter.net/newsView/blt202201250156</guid>
-            <pubDate>Tue, 25 Jan 2022 08:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-01-25 16:47:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

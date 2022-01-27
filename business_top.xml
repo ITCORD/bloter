@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270081</link>
-            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 14:23:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270012.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LX세미콘 계열분리 '영향무'...호실적 속 눈에 띄는 ‘투자 확대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270146</link>
+            <guid>https://www.bloter.net/newsView/blt202201270146</guid>
+            <pubDate>Thu, 27 Jan 2022 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 16:50:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270025.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성D 'QD디스플레이’, 기존 OLED 직접 비교 택했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201050003</link>
-            <guid>https://www.bloter.net/newsView/blt202201050003</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:24 GMT</pubDate>
+            <title><![CDATA[LX세미콘, 구본준 체제서 '자동차 전장 시장' 진출 모색]]></title>
+            <link>https://www.bloter.net/newsView/blt202110250021</link>
+            <guid>https://www.bloter.net/newsView/blt202110250021</guid>
+            <pubDate>Thu, 27 Jan 2022 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LX세미콘, IR자료서 사라진 '전략파트너 삼성']]></title>
+            <link>https://www.bloter.net/newsView/blt202108230018</link>
+            <guid>https://www.bloter.net/newsView/blt202108230018</guid>
+            <pubDate>Thu, 27 Jan 2022 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리지드 OLED 출하량 감소...삼성디스플레이, 노트북으로 눈길 돌린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202111190070</link>
-            <guid>https://www.bloter.net/newsView/blt202111190070</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LX세미콘, 계열분리 후 첫 성적표..‘DDI 품귀’에 웃었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202108130027</link>
+            <guid>https://www.bloter.net/newsView/blt202108130027</guid>
+            <pubDate>Thu, 27 Jan 2022 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유비리서치 "삼성D, QD-OLED 2025년까지 증설 없을 듯"]]></title>
-            <link>https://www.bloter.net/newsView/blt202111190034</link>
-            <guid>https://www.bloter.net/newsView/blt202111190034</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['ESG 강화' 삼성디스플레이, 공급망 관리 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202111180005</link>
-            <guid>https://www.bloter.net/newsView/blt202111180005</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LX세미콘, 반도체 사업확장 문 열어놨다]]></title>
+            <link>https://www.bloter.net/newsView/blt202106110007</link>
+            <guid>https://www.bloter.net/newsView/blt202106110007</guid>
+            <pubDate>Thu, 27 Jan 2022 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
