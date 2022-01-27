@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 최대 실적에도 불확실한 ‘반도체 투자’ 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270053</link>
+            <guid>https://www.bloter.net/newsView/blt202201270053</guid>
+            <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 연매출 6조원 처음 넘겼다...핀테크·콘텐츠 '폭풍성장']]></title>
+            <link>https://www.bloter.net/newsView/blt202201270048</link>
+            <guid>https://www.bloter.net/newsView/blt202201270048</guid>
+            <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-27 13:03:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 각국 정부 콘텐츠 삭제 요청 '역대 최대'...한국은 5위]]></title>
             <link>https://www.bloter.net/newsView/blt202201270026</link>
             <guid>https://www.bloter.net/newsView/blt202201270026</guid>
             <pubDate>Thu, 27 Jan 2022 02:01:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:58:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[테크쑤다]당신의 대출 이자는 적절한가요?…나만의 금융 주치의 팀윙크 '알다']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LS전선, 케이블공장 준공...‘수도이전’ 특수 누릴까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260017</link>
-            <guid>https://www.bloter.net/newsView/blt202201260017</guid>
-            <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-26 10:20:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S펜 품은 갤럭시S22, 2월10일 0시 공개…삼성전자, 언팩 초대장 발송]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260020</link>
-            <guid>https://www.bloter.net/newsView/blt202201260020</guid>
-            <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-26 10:09:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

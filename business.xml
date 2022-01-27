@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["마이데이터 활용하면, 주린이도 고수익률"…핀크 권영탁 대표]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260033</link>
+            <guid>https://www.bloter.net/newsView/blt202201260033</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 10:33:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260039.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔, 1조4천억원 벌금 피했다...EU법원 "반독점 벌금 기각"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270004</link>
+            <guid>https://www.bloter.net/newsView/blt202201270004</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 08:34:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG디스플레이, '모처럼 흑자'에 배당금 푼다]]></title>
             <link>https://www.bloter.net/newsView/blt202201260204</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 27 Jan 2022 00:51:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 서버용 FC-BGA 진출...제품 고도화 '시동']]></title>
-            <link>https://www.bloter.net/newsView/blt202201260117</link>
-            <guid>https://www.bloter.net/newsView/blt202201260117</guid>
-            <pubDate>Wed, 26 Jan 2022 10:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:21:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 해외 투자 늘려도 '무차입 경영'...재무건전성 비결은]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260088</link>
-            <guid>https://www.bloter.net/newsView/blt202201260088</guid>
-            <pubDate>Wed, 26 Jan 2022 09:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,40 +268,56 @@ MS 실적 띄운 클라우드
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트위터, 각국 정부 콘텐츠 삭제 요청 '역대 최대'...한국은 5위 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270026</link>
-            <guid>https://www.bloter.net/newsView/blt202201270026</guid>
+            <title><![CDATA[삼성전자, 최대 실적에도 불확실한 ‘반도체 투자’ 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270053</link>
+            <guid>https://www.bloter.net/newsView/blt202201270053</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.570x320.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 전직 임원에 피소...침해받은 10건의 특허는 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201100060</link>
+            <guid>https://www.bloter.net/newsView/blt202201100060</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[年최대매출 낸 삼성전자·LG전자, 이들에게 놓인 '변수'는 무엇? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201070151</link>
+            <guid>https://www.bloter.net/newsView/blt202201070151</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한종희 “매출 늘어 탄소 배출량 증가”…삼성전자, 불명확한 탄소 감축 의지 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201060006</link>
+            <guid>https://www.bloter.net/newsView/blt202201060006</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 낸드 핵심 ‘中 시안 공장’ 생산라인 축소 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112290070</link>
+            <guid>https://www.bloter.net/newsView/blt202112290070</guid>
+            <pubDate>Thu, 27 Jan 2022 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["마이데이터 활용하면, 주린이도 고수익률"…핀크 권영탁 대표 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260033</link>
+            <guid>https://www.bloter.net/newsView/blt202201260033</guid>
             <pubDate>Thu, 27 Jan 2022 01:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:58:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 10:33:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260039.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트위터, ‘가짜뉴스 신고하기’ 도입 후 370만 건의 제보받아 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201190006</link>
-            <guid>https://www.bloter.net/newsView/blt202201190006</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 보기 싫은 계정·콘텐츠 숨기기 기능 강화한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120006</link>
-            <guid>https://www.bloter.net/newsView/blt202201120006</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, ‘슬랙 대항마’ 퀼 인수...DM 힘 준다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112080001</link>
-            <guid>https://www.bloter.net/newsView/blt202112080001</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, "동의없는 사진·영상 공유 금지"...삭제 요청 가능 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112010016</link>
-            <guid>https://www.bloter.net/newsView/blt202112010016</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[인텔, 1조4천억원 벌금 피했다...EU법원 "반독점 벌금 기각" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270004</link>
+            <guid>https://www.bloter.net/newsView/blt202201270004</guid>
+            <pubDate>Thu, 27 Jan 2022 00:51:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 08:34:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG디스플레이, '모처럼 흑자'에 배당금 푼다 (블로터 ─ 비즈니스)]]></title>
@@ -334,22 +350,6 @@ MS 실적 띄운 클라우드
             <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 서버용 FC-BGA 진출...제품 고도화 '시동' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260117</link>
-            <guid>https://www.bloter.net/newsView/blt202201260117</guid>
-            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:21:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 해외 투자 늘려도 '무차입 경영'...재무건전성 비결은 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260088</link>
-            <guid>https://www.bloter.net/newsView/blt202201260088</guid>
-            <pubDate>Wed, 26 Jan 2022 07:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -388,12 +388,28 @@ MS 실적 띄운 클라우드
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 최대 실적에도 불확실한 ‘반도체 투자’ 확대 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270053</link>
+            <guid>https://www.bloter.net/newsView/blt202201270053</guid>
+            <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 연매출 6조원 처음 넘겼다...핀테크·콘텐츠 '폭풍성장' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270048</link>
+            <guid>https://www.bloter.net/newsView/blt202201270048</guid>
+            <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-27 13:03:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트위터, 각국 정부 콘텐츠 삭제 요청 '역대 최대'...한국은 5위 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201270026</link>
             <guid>https://www.bloter.net/newsView/blt202201270026</guid>
             <pubDate>Thu, 27 Jan 2022 01:58:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:58:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[테크쑤다]당신의 대출 이자는 적절한가요?…나만의 금융 주치의 팀윙크 '알다' (블로터 ─ 테크)]]></title>
@@ -514,22 +530,6 @@ MS 실적 띄운 클라우드
             <pubDate>Wed, 26 Jan 2022 02:05:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LS전선, 케이블공장 준공...‘수도이전’ 특수 누릴까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260017</link>
-            <guid>https://www.bloter.net/newsView/blt202201260017</guid>
-            <pubDate>Wed, 26 Jan 2022 02:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-26 10:20:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S펜 품은 갤럭시S22, 2월10일 0시 공개…삼성전자, 언팩 초대장 발송 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260020</link>
-            <guid>https://www.bloter.net/newsView/blt202201260020</guid>
-            <pubDate>Wed, 26 Jan 2022 02:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-26 10:09:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
