@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 공급망 차질에도 사상 최대 순익 올려]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270024</link>
+            <guid>https://www.bloter.net/newsView/blt202201270024</guid>
+            <pubDate>Thu, 27 Jan 2022 06:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:51:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["마이데이터 활용하면, 주린이도 고수익률"…핀크 권영탁 대표]]></title>
             <link>https://www.bloter.net/newsView/blt202201260033</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 27 Jan 2022 02:00:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 17:21:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260026.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260104</link>
-            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
-            <pubDate>Thu, 27 Jan 2022 00:51:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

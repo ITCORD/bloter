@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년 최대 매출 냈지만…삼성SDS가 MSP로 변신하려는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270091</link>
+            <guid>https://www.bloter.net/newsView/blt202201270091</guid>
+            <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-27 15:15:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270018.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷마블 NTP]①내외부 IP 대방출…20종 신작 선보인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270082</link>
+            <guid>https://www.bloter.net/newsView/blt202201270082</guid>
+            <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-27 14:26:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270081</link>
+            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
+            <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 14:23:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 최대 실적에도 불확실한 ‘반도체 투자’ 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202201270053</link>
             <guid>https://www.bloter.net/newsView/blt202201270053</guid>
             <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네이버, 연매출 6조원 처음 넘겼다...핀테크·콘텐츠 '폭풍성장']]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 26 Jan 2022 06:22:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-26 14:58:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음 모바일 화면 뭐가 달라졌나..."뉴스보다 콘텐츠 강화"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260054</link>
-            <guid>https://www.bloter.net/newsView/blt202201260054</guid>
-            <pubDate>Wed, 26 Jan 2022 06:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 14:24:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 베팅한 '뷰런테크놀로지', 100억원 투자유치...기술 경쟁력은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260027</link>
-            <guid>https://www.bloter.net/newsView/blt202201260027</guid>
-            <pubDate>Wed, 26 Jan 2022 03:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 11:53:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260025</link>
-            <guid>https://www.bloter.net/newsView/blt202201260025</guid>
-            <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
