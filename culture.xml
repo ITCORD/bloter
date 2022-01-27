@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 각국 정부 콘텐츠 삭제 요청 '역대 최대'...한국은 5위]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270026</link>
+            <guid>https://www.bloter.net/newsView/blt202201270026</guid>
+            <pubDate>Thu, 27 Jan 2022 02:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 지난해 상반기에 각국 정부로부터 최대 규모의 게시물 삭제 요청을 받았다고 밝혔다. 26일(현지시간) IT전문매체 &lt;엔가젯&gt; 등 주요 외신은 트위터의 투명성 보고서를 인용해 트위터가 지난해 상반기(1~6월) 각국 정부로부터 19만6878계정과 관련해 4만3387]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 덕?…영업익 30% ‘껑충’ LG헬로비전, 배당도 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202201260205</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 24 Jan 2022 08:19:21 GMT</pubDate>
             <content:encoded><![CDATA[네오위즈가 리더십 변화를 통해 신사업 추진에 속도를 낸다. 지난해 11월 개발사 '하이디어'를 200억원에 인수하며 자회사로 편입한 네오위즈는 캐주얼 게임 서비스 역량을 확대하는 한편 기술본부장을 새로운 리더로 내세워 블록체인 기반 신사업을 추진할 계획이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[돈 내고 보는 인플루언서 스토리…인스타그램, 구독 서비스 시범 운영]]></title>
-            <link>https://www.bloter.net/newsView/blt202201200004</link>
-            <guid>https://www.bloter.net/newsView/blt202201200004</guid>
-            <pubDate>Thu, 20 Jan 2022 01:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 크리에이터 유료 구독 서비스를 시작했다. 19일(현지시간) IT전문매체 &lt;엔가젯&gt;은 인스타그램이 소수의 미국 인플루언서들을 대상으로 유료 구독 서비스를 시범 운영하기 시작했다고 보도했다.크리에이터는 월정액 구독료는 원하는 수준으로 책정]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/20/blt202201200002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

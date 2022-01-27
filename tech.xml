@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 각국 정부 콘텐츠 삭제 요청 '역대 최대'...한국은 5위]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270026</link>
+            <guid>https://www.bloter.net/newsView/blt202201270026</guid>
+            <pubDate>Thu, 27 Jan 2022 02:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:58:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크쑤다]당신의 대출 이자는 적절한가요?…나만의 금융 주치의 팀윙크 '알다']]></title>
+            <link>https://www.bloter.net/newsView/blt202201270027</link>
+            <guid>https://www.bloter.net/newsView/blt202201270027</guid>
+            <pubDate>Thu, 27 Jan 2022 02:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-27 10:34:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270004.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크쑤다]"마이데이터 활용하면, 주린이도 고수익률"…핀크 권영탁 대표]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260033</link>
+            <guid>https://www.bloter.net/newsView/blt202201260033</guid>
+            <pubDate>Thu, 27 Jan 2022 02:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 10:33:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260039.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스 2022]③'지금 우리 학교는'은 뭔가 특별한 것이 있다]]></title>
             <link>https://www.bloter.net/newsView/blt202201260207</link>
             <guid>https://www.bloter.net/newsView/blt202201260207</guid>
             <pubDate>Thu, 27 Jan 2022 00:52:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-27 09:47:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인텔, 1조4천억원 벌금 피했다...EU법원 "반독점 벌금 기각"]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-26 10:09:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈, RTS로 글로벌 공략하나…美 신생 개발사 투자 단행]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260018</link>
-            <guid>https://www.bloter.net/newsView/blt202201260018</guid>
-            <pubDate>Wed, 26 Jan 2022 02:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-26 09:59:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, ARM 인수 진전 없어 “포기 준비 중”]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260003</link>
-            <guid>https://www.bloter.net/newsView/blt202201260003</guid>
-            <pubDate>Wed, 26 Jan 2022 00:56:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 08:19:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["디지털혁신수석 신설·과기정통부 부총리급으로"…새 ICT 거버넌스 요구 '봇물']]></title>
-            <link>https://www.bloter.net/newsView/blt202201250189</link>
-            <guid>https://www.bloter.net/newsView/blt202201250189</guid>
-            <pubDate>Tue, 25 Jan 2022 10:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-25 19:09:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250030.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

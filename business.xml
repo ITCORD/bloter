@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG디스플레이, '모처럼 흑자'에 배당금 푼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260204</link>
+            <guid>https://www.bloter.net/newsView/blt202201260204</guid>
+            <pubDate>Thu, 27 Jan 2022 02:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-26 18:24:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG·SK 따라가는 포스코케미칼...성장 지표 포스코의 20배]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260043</link>
+            <guid>https://www.bloter.net/newsView/blt202201260043</guid>
+            <pubDate>Thu, 27 Jan 2022 02:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-26 18:00:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광학솔루션 힘 주는 LG이노텍, 단일 사업부 첫 1조원 투자 계획]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260161</link>
+            <guid>https://www.bloter.net/newsView/blt202201260161</guid>
+            <pubDate>Thu, 27 Jan 2022 02:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 17:21:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260026.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
             <link>https://www.bloter.net/newsView/blt202201260104</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 26 Jan 2022 09:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:06:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260020.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 베팅한 '뷰런테크놀로지', 100억원 투자유치...기술 경쟁력은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260027</link>
-            <guid>https://www.bloter.net/newsView/blt202201260027</guid>
-            <pubDate>Wed, 26 Jan 2022 09:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 11:53:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260025</link>
-            <guid>https://www.bloter.net/newsView/blt202201260025</guid>
-            <pubDate>Wed, 26 Jan 2022 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 10:20:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260008.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GM, 전기차에 8조원 투자해 테슬라 따라잡는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260004</link>
-            <guid>https://www.bloter.net/newsView/blt202201260004</guid>
-            <pubDate>Wed, 26 Jan 2022 08:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 09:18:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
