@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 14:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 15:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK케미칼, AI로 신약 발굴 ‘5년→1년’…개방형 전략 효과 입증]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270218</link>
+            <guid>https://www.bloter.net/newsView/blt202201270218</guid>
+            <pubDate>Thu, 27 Jan 2022 15:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-27 23:18:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270046.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매출 신기록 갈아치운 LG전자, 수익성은 ‘물음표’]]></title>
             <link>https://www.bloter.net/newsView/blt202201270217</link>
             <guid>https://www.bloter.net/newsView/blt202201270217</guid>
             <pubDate>Thu, 27 Jan 2022 11:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 19:35:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270042.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270042.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[금융권 '기울어진 운동장론' 힘받자…규제차익 내려놓는 빅테크]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 27 Jan 2022 00:52:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 08:34:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 덕?…영업익 30% ‘껑충’ LG헬로비전, 배당도 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260205</link>
-            <guid>https://www.bloter.net/newsView/blt202201260205</guid>
-            <pubDate>Wed, 26 Jan 2022 10:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-26 19:01:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
