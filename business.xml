@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 11:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LX세미콘 계열분리 '영향무'...호실적 속 눈에 띄는 ‘투자 확대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270146</link>
+            <guid>https://www.bloter.net/newsView/blt202201270146</guid>
+            <pubDate>Thu, 27 Jan 2022 11:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 16:50:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270081</link>
+            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
+            <pubDate>Thu, 27 Jan 2022 11:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 14:23:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 최대 실적에도 불확실한 ‘반도체 투자’ 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202201270053</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 27 Jan 2022 06:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:51:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["마이데이터 활용하면, 주린이도 고수익률"…핀크 권영탁 대표]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260033</link>
-            <guid>https://www.bloter.net/newsView/blt202201260033</guid>
-            <pubDate>Thu, 27 Jan 2022 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 10:33:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260039.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 1조4천억원 벌금 피했다...EU법원 "반독점 벌금 기각"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270004</link>
-            <guid>https://www.bloter.net/newsView/blt202201270004</guid>
-            <pubDate>Thu, 27 Jan 2022 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 08:34:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
