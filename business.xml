@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 23:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 00:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260104</link>
+            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
+            <pubDate>Thu, 27 Jan 2022 00:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전기, 서버용 FC-BGA 진출...제품 고도화 '시동']]></title>
             <link>https://www.bloter.net/newsView/blt202201260117</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 26 Jan 2022 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 09:18:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, ARM 인수 진전 없어 “포기 준비 중”]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260003</link>
-            <guid>https://www.bloter.net/newsView/blt202201260003</guid>
-            <pubDate>Wed, 26 Jan 2022 07:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-26 08:19:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
