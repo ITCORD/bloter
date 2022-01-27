@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['커머스' 생태계 구축한 네이버…올해는 '수익 개선' 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270204</link>
+            <guid>https://www.bloter.net/newsView/blt202201270204</guid>
+            <pubDate>Thu, 27 Jan 2022 09:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-27 18:15:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270039.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작년 ‘역대급 실적’ 쓴 네이버, 클라우드만 떼어보니]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270171</link>
+            <guid>https://www.bloter.net/newsView/blt202201270171</guid>
+            <pubDate>Thu, 27 Jan 2022 09:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-27 17:41:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270037.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['반도체 부족·팬데믹'속에서도 "스마트폰은 성장"…삼성전자의 자신감]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270160</link>
+            <guid>https://www.bloter.net/newsView/blt202201270160</guid>
+            <pubDate>Thu, 27 Jan 2022 09:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-27 17:20:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270032.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LX세미콘 계열분리 '영향무'...호실적 속 눈에 띄는 ‘투자 확대’]]></title>
             <link>https://www.bloter.net/newsView/blt202201270146</link>
             <guid>https://www.bloter.net/newsView/blt202201270146</guid>
             <pubDate>Thu, 27 Jan 2022 08:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 16:50:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷마블 NTP]②방준혁 의장 "올해 승부수? 블록체인·메타버스"]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 26 Jan 2022 09:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 17:21:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260026.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["네이버 뉴스, 인위적으로 손 못 대"…알고리즘 검토위 결과 발표]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260118</link>
-            <guid>https://www.bloter.net/newsView/blt202201260118</guid>
-            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-26 17:14:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260104</link>
-            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
-            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-01-26 16:30:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 서버용 FC-BGA 진출...제품 고도화 '시동']]></title>
-            <link>https://www.bloter.net/newsView/blt202201260117</link>
-            <guid>https://www.bloter.net/newsView/blt202201260117</guid>
-            <pubDate>Wed, 26 Jan 2022 08:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-26 16:21:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
