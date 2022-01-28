@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, ‘배당 정책’ 강화...필요 시 자사주 매입 검토]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280032</link>
+            <guid>https://www.bloter.net/newsView/blt202201280032</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 11:12:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280018.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다]]></title>
             <link>https://www.bloter.net/newsView/blt202201280015</link>
             <guid>https://www.bloter.net/newsView/blt202201280015</guid>
             <pubDate>Fri, 28 Jan 2022 00:52:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 09:34:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 마스크 쓰고도 ‘아이폰 잠금해제’ 기능 추가]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 27 Jan 2022 02:01:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-27 10:34:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크쑤다]"마이데이터 활용하면, 주린이도 고수익률"…핀크 권영탁 대표]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260033</link>
-            <guid>https://www.bloter.net/newsView/blt202201260033</guid>
-            <pubDate>Thu, 27 Jan 2022 02:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 10:33:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
