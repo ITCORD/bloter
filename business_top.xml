@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 23:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 00:53:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[매출 신기록 갈아치운 LG전자, 수익성은 ‘물음표’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270217</link>
-            <guid>https://www.bloter.net/newsView/blt202201270217</guid>
-            <pubDate>Thu, 27 Jan 2022 11:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 19:35:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270042.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280015</link>
+            <guid>https://www.bloter.net/newsView/blt202201280015</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 09:34:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LG전자 ‘UP가전’ 전환, 제품 교체주기에 미칠 영향은]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250062</link>
-            <guid>https://www.bloter.net/newsView/blt202201250062</guid>
-            <pubDate>Thu, 27 Jan 2022 11:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한컴, 내년 첫 인공위성 발사…파트너로 일론 머스크 '스페이스X']]></title>
+            <link>https://www.bloter.net/newsView/blt202112230102</link>
+            <guid>https://www.bloter.net/newsView/blt202112230102</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[年최대매출 낸 삼성전자·LG전자, 이들에게 놓인 '변수'는 무엇?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201070151</link>
-            <guid>https://www.bloter.net/newsView/blt202201070151</guid>
-            <pubDate>Thu, 27 Jan 2022 11:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘소행성 충돌’ 스페이스X, 또 새 역사…우리나라는 언제쯤?]]></title>
+            <link>https://www.bloter.net/newsView/blt202111280001</link>
+            <guid>https://www.bloter.net/newsView/blt202111280001</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자 전장사업 변화 시동, ‘효율성’에 방점 찍는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202112030084</link>
-            <guid>https://www.bloter.net/newsView/blt202112030084</guid>
-            <pubDate>Thu, 27 Jan 2022 11:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[스페이스X 유인 우주선 '스타십', 22년 1월 첫 궤도비행 예정]]></title>
+            <link>https://www.bloter.net/newsView/blt202111190024</link>
+            <guid>https://www.bloter.net/newsView/blt202111190024</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스페이스X 크루-3 우주선, 세 번째 발사 지연…이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202111080018</link>
+            <guid>https://www.bloter.net/newsView/blt202111080018</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

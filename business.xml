@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 23:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 00:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융권 '기울어진 운동장론' 힘받자…규제차익 내려놓는 빅테크]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270212</link>
+            <guid>https://www.bloter.net/newsView/blt202201270212</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 18:35:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270041.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['커머스' 생태계 구축한 네이버…올해는 '수익 개선' 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270204</link>
+            <guid>https://www.bloter.net/newsView/blt202201270204</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-27 18:15:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270039.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대모비스, 美 자율주행 스타트업에 400만 달러 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270203</link>
+            <guid>https://www.bloter.net/newsView/blt202201270203</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-27 17:43:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270038.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LX세미콘 계열분리 '영향무'...호실적 속 눈에 띄는 ‘투자 확대’]]></title>
             <link>https://www.bloter.net/newsView/blt202201270146</link>
@@ -30,30 +54,6 @@
             <pubDate>Thu, 27 Jan 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG에너지솔루션 유가증권 상장...'따상'보다 값진 것]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270030</link>
-            <guid>https://www.bloter.net/newsView/blt202201270030</guid>
-            <pubDate>Thu, 27 Jan 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-27 12:16:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 각국 정부 콘텐츠 삭제 요청 '역대 최대'...한국은 5위]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270026</link>
-            <guid>https://www.bloter.net/newsView/blt202201270026</guid>
-            <pubDate>Thu, 27 Jan 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:58:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 공급망 차질에도 사상 최대 순익 올려]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270024</link>
-            <guid>https://www.bloter.net/newsView/blt202201270024</guid>
-            <pubDate>Thu, 27 Jan 2022 06:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-27 10:51:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
