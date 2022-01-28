@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷마블 NTP]③실세는 '오버프라임'…넷마블 효자될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280137</link>
+            <guid>https://www.bloter.net/newsView/blt202201280137</guid>
+            <pubDate>Fri, 28 Jan 2022 06:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-28 15:11:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280029.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중대재해법 속 KT 안전보건 책임질 박종욱 대표는 누구?…그룹 '전략통']]></title>
             <link>https://www.bloter.net/newsView/blt202201280070</link>
             <guid>https://www.bloter.net/newsView/blt202201280070</guid>
             <pubDate>Fri, 28 Jan 2022 05:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-28 13:44:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자 늘리는 SK하이닉스, 어느 때보다 중요해진 ‘원가 관리’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 연매출 6조원 처음 넘겼다...핀테크·콘텐츠 '폭풍성장']]></title>
-            <link>https://www.bloter.net/newsView/blt202201270048</link>
-            <guid>https://www.bloter.net/newsView/blt202201270048</guid>
-            <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-27 13:03:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
