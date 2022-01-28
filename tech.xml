@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년 최대 이익 낸 LG유플러스…올해 '서비스 매출 5% 성장' 복안은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280242</link>
+            <guid>https://www.bloter.net/newsView/blt202201280242</guid>
+            <pubDate>Fri, 28 Jan 2022 10:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-28 18:17:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280052.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2조7655억원 ‘빅딜’…삼성바이오로직스, 에피스 온전히 품었다]]></title>
             <link>https://www.bloter.net/newsView/blt202201280241</link>
             <guid>https://www.bloter.net/newsView/blt202201280241</guid>
             <pubDate>Fri, 28 Jan 2022 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-28 17:56:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280051.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280051.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[年흑자 달성한 대한전선...급등하는 동 가격에 중요해진 '재무역량']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-27 15:15:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷마블 NTP]①내외부 IP 대방출…20종 신작 선보인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270082</link>
-            <guid>https://www.bloter.net/newsView/blt202201270082</guid>
-            <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-27 14:26:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

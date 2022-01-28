@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투자 늘리는 SK하이닉스, 어느 때보다 중요해진 ‘원가 관리’]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280060</link>
+            <guid>https://www.bloter.net/newsView/blt202201280060</guid>
+            <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 13:05:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280022.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK이노, 배터리 사업 사상 첫 분기 매출 1조 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280052</link>
+            <guid>https://www.bloter.net/newsView/blt202201280052</guid>
+            <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-28 12:05:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280019.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, ‘배당 정책’ 강화...필요 시 자사주 매입 검토]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280032</link>
+            <guid>https://www.bloter.net/newsView/blt202201280032</guid>
+            <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 11:12:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 ‘SNS 사기’ 피해자 9만5000명…피해액 8000억원 넘어]]></title>
             <link>https://www.bloter.net/newsView/blt202201280026</link>
@@ -30,30 +54,6 @@
             <pubDate>Fri, 28 Jan 2022 03:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-28 08:47:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 마스크 쓰고도 ‘아이폰 잠금해제’ 기능 추가]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280005</link>
-            <guid>https://www.bloter.net/newsView/blt202201280005</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 08:45:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[매출 신기록 갈아치운 LG전자, 수익성은 ‘물음표’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270217</link>
-            <guid>https://www.bloter.net/newsView/blt202201270217</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-27 19:35:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270042.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융권 '기울어진 운동장론' 힘받자…규제차익 내려놓는 빅테크]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270212</link>
-            <guid>https://www.bloter.net/newsView/blt202201270212</guid>
-            <pubDate>Fri, 28 Jan 2022 00:51:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 18:35:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270041.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
