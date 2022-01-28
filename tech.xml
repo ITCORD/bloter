@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 08:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 09:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2조7655억원 ‘빅딜’…삼성바이오로직스, 에피스 온전히 품었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280241</link>
+            <guid>https://www.bloter.net/newsView/blt202201280241</guid>
+            <pubDate>Fri, 28 Jan 2022 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-28 17:56:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280051.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[年흑자 달성한 대한전선...급등하는 동 가격에 중요해진 '재무역량']]></title>
+            <link>https://www.bloter.net/newsView/blt202201280238</link>
+            <guid>https://www.bloter.net/newsView/blt202201280238</guid>
+            <pubDate>Fri, 28 Jan 2022 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-28 17:53:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280048.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷마블 NTP]③실세는 '오버프라임'…넷마블 효자될까]]></title>
             <link>https://www.bloter.net/newsView/blt202201280137</link>
             <guid>https://www.bloter.net/newsView/blt202201280137</guid>
             <pubDate>Fri, 28 Jan 2022 06:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-28 15:11:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중대재해법 속 KT 안전보건 책임질 박종욱 대표는 누구?…그룹 '전략통']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-01-27 14:26:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270081</link>
-            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
-            <pubDate>Thu, 27 Jan 2022 06:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 14:23:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 최대 실적에도 불확실한 ‘반도체 투자’ 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270053</link>
-            <guid>https://www.bloter.net/newsView/blt202201270053</guid>
-            <pubDate>Thu, 27 Jan 2022 04:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-27 13:11:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270011.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
