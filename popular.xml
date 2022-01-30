@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 02:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,16 +107,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280048.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280015</link>
-            <guid>https://www.bloter.net/newsView/blt202201280015</guid>
-            <pubDate>Fri, 28 Jan 2022 23:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[(사진=스페이스X)
-
-7년 전 발사 후 우주를 떠돌던 일론 머스크의 스페이스X 로켓이 3월에 달과 충돌할 것으로 보인다.&nbsp;27일(현지시간) IT매체 &lt;더버지&gt; 등 주요 외신은 2015년 2월 스페이스X가 발사한 팰컨9 로켓이 3월 4일 달과 충돌할 것이라고 전했다.&nbsp;이 로켓은 미 국립해양대기청(NOAA)의 우주 기후 관측 위성을 싣고 발사됐다. 이 위성은 지구에서 약 160만km 떨어진 궤도에 진입해 태양으로부터 오는 태양풍을 관찰하고 있다. 팰컨9의 상단부는 보통 임무 수행 후 다시 지구 대기로 떨어지도록 설계돼 있다. 하지만 우주 기후 관측 위성을 싣고 발사된 로켓은 워낙 먼 궤도에 위성을 진입시켜야 했고, 높은 고도에서 위성을 분리한 탓에 연료 부족으로 지구 대기권으로 재진입하지 못했다.&nbsp;천문학 소프트웨어 제작사인 ‘플루토 프로젝트’를 이끄는 천문학자 빌 그레이는 팰컨9이 오는 3월4일 오전 7시25분경(미 동부시간) 2.58 km/s의 속도로 달의 뒷면과 충돌할 것이라고 예측했다. 그레이는 이 로켓의 행방을 발사 후부터 꾸준히 추적해왔다. 그는 팰컨9이 약 4톤의 무게가 나가는 점을 감안할 때 충돌로 인해 달에 최소 20미터 지름의 분화구가 생길 것으로 예상했다. 이번 충돌은 달의 뒷면에서 발생해 지구에서는 관측할 수 없다.&nbsp;예측한 대로 충돌이 발생한다면 우주쓰레기가 달과 의도치 않게 충돌하는 최초의 사례가 된다. 과거에도 로켓이 달에 충돌한 경우가 있었지만 모두 계획된 충돌이었다. 미 항공우주국(NASA)는 달 남극에 얼음이 있는지 확인하기 위해 2009년에 의도적으로 로켓을 달에 충돌시켰다.&nbsp;그레이는 이번 충돌이 지구에는 영향을 미치지 않을 것으로 보이지만 앞으로 더 많은 우주쓰레기가 지구 궤도에 남겨져 이와 같은 충돌이 추가적으로 발생할 수도 있다고 경고했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA['개방 주차장' 찾고, '지금우리학교는' 무료로 즐기자…네이버, 설연휴 꿀팁 공개]]></title>
             <link>https://www.bloter.net/newsView/blt202201280144</link>
             <guid>https://www.bloter.net/newsView/blt202201280144</guid>
@@ -150,6 +140,16 @@
 
 네이버 엑스퍼트는 사주풀이, 타로상담 등을 통해 2022년 새해 운세를 점쳐볼 수 있는 이색 프로모션을 선보인다. 한국역술인협회에서 공식 인증한 전문 역술인들이 참여하는데 크게 △사주풀이로 알아보는 신년운세 △타로점으로 알아보는 신년운세 등 두 가지 테마로 나뉜다. 희망하는 주제, 역술인에 따라 상담을 선택할 수 있고 1:1 비대면으로 진행된다. 이벤트 페이지를 통해 2월 28일까지 할인 적용 가능한 쿠폰을 다운로드 할 수 있다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/29/blt202201290001.291x174.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280015</link>
+            <guid>https://www.bloter.net/newsView/blt202201280015</guid>
+            <pubDate>Fri, 28 Jan 2022 23:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=스페이스X)
+
+7년 전 발사 후 우주를 떠돌던 일론 머스크의 스페이스X 로켓이 3월에 달과 충돌할 것으로 보인다.&nbsp;27일(현지시간) IT매체 &lt;더버지&gt; 등 주요 외신은 2015년 2월 스페이스X가 발사한 팰컨9 로켓이 3월 4일 달과 충돌할 것이라고 전했다.&nbsp;이 로켓은 미 국립해양대기청(NOAA)의 우주 기후 관측 위성을 싣고 발사됐다. 이 위성은 지구에서 약 160만km 떨어진 궤도에 진입해 태양으로부터 오는 태양풍을 관찰하고 있다. 팰컨9의 상단부는 보통 임무 수행 후 다시 지구 대기로 떨어지도록 설계돼 있다. 하지만 우주 기후 관측 위성을 싣고 발사된 로켓은 워낙 먼 궤도에 위성을 진입시켜야 했고, 높은 고도에서 위성을 분리한 탓에 연료 부족으로 지구 대기권으로 재진입하지 못했다.&nbsp;천문학 소프트웨어 제작사인 ‘플루토 프로젝트’를 이끄는 천문학자 빌 그레이는 팰컨9이 오는 3월4일 오전 7시25분경(미 동부시간) 2.58 km/s의 속도로 달의 뒷면과 충돌할 것이라고 예측했다. 그레이는 이 로켓의 행방을 발사 후부터 꾸준히 추적해왔다. 그는 팰컨9이 약 4톤의 무게가 나가는 점을 감안할 때 충돌로 인해 달에 최소 20미터 지름의 분화구가 생길 것으로 예상했다. 이번 충돌은 달의 뒷면에서 발생해 지구에서는 관측할 수 없다.&nbsp;예측한 대로 충돌이 발생한다면 우주쓰레기가 달과 의도치 않게 충돌하는 최초의 사례가 된다. 과거에도 로켓이 달에 충돌한 경우가 있었지만 모두 계획된 충돌이었다. 미 항공우주국(NASA)는 달 남극에 얼음이 있는지 확인하기 위해 2009년에 의도적으로 로켓을 달에 충돌시켰다.&nbsp;그레이는 이번 충돌이 지구에는 영향을 미치지 않을 것으로 보이지만 앞으로 더 많은 우주쓰레기가 지구 궤도에 남겨져 이와 같은 충돌이 추가적으로 발생할 수도 있다고 경고했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스 2022]③'지금 우리 학교는'은 뭔가 특별한 것이 있다]]></title>

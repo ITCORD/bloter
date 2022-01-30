@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 02:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성바이오로직스, 美 바이오젠 결별 ‘왜?’…에피스 사업 타격받나]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280262</link>
+            <guid>https://www.bloter.net/newsView/blt202201280262</guid>
+            <pubDate>Sun, 30 Jan 2022 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-28 22:56:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280064.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대오토에버, 자율주행 SW 개발에 '빚도 현금도' 늘었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280226</link>
+            <guid>https://www.bloter.net/newsView/blt202201280226</guid>
+            <pubDate>Sun, 30 Jan 2022 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-28 18:36:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280054.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2조7655억원 ‘빅딜’…삼성바이오로직스, 에피스 온전히 품었다]]></title>
             <link>https://www.bloter.net/newsView/blt202201280241</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 13:05:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280022.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK이노, 배터리 사업 사상 첫 분기 매출 1조 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280052</link>
-            <guid>https://www.bloter.net/newsView/blt202201280052</guid>
-            <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-28 12:05:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280019.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, ‘배당 정책’ 강화...필요 시 자사주 매입 검토]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280032</link>
-            <guid>https://www.bloter.net/newsView/blt202201280032</guid>
-            <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 11:12:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
