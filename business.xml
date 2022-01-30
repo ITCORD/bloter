@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 06:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 07:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하나은행 업무정지 3개월이나 받았는데…무사한 함영주 부회장, 왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280167</link>
+            <guid>https://www.bloter.net/newsView/blt202201280167</guid>
+            <pubDate>Sun, 30 Jan 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-29 11:00:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280040.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성바이오로직스, 美 바이오젠 결별 ‘왜?’…에피스 사업 타격받나]]></title>
             <link>https://www.bloter.net/newsView/blt202201280262</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 28 Jan 2022 14:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-28 16:32:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280042.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자 늘리는 SK하이닉스, 어느 때보다 중요해진 ‘원가 관리’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280060</link>
-            <guid>https://www.bloter.net/newsView/blt202201280060</guid>
-            <pubDate>Fri, 28 Jan 2022 10:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 13:05:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280022.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
