@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 00:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 02:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,12 +432,20 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[틱톡 '크리에이터 펀드', 정말 크리에이터를 위한 걸까? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280122</link>
+            <guid>https://www.bloter.net/newsView/blt202201280122</guid>
+            <pubDate>Sun, 30 Jan 2022 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-30 10:29:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300004.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]삼성전자, 노사갈등 지속 시 ESG 평가에 미칠 영향은 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201280259</link>
             <guid>https://www.bloter.net/newsView/blt202201280259</guid>
-            <pubDate>Sun, 30 Jan 2022 00:54:49 GMT</pubDate>
+            <pubDate>Sun, 30 Jan 2022 00:51:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-30 08:26:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280060.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280060.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[워너뮤직, 가상 음악테마파크 세운다…메타버스로 확장하는 대형 음반사 (블로터 ─ 테크)]]></title>
@@ -566,14 +574,6 @@
             <pubDate>Thu, 27 Jan 2022 11:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-01-27 18:35:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270041.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['커머스' 생태계 구축한 네이버…올해는 '수익 개선' 속도 낸다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270204</link>
-            <guid>https://www.bloter.net/newsView/blt202201270204</guid>
-            <pubDate>Thu, 27 Jan 2022 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-27 18:15:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -851,6 +851,14 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260042.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[틱톡 '크리에이터 펀드', 정말 크리에이터를 위한 걸까? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280122</link>
+            <guid>https://www.bloter.net/newsView/blt202201280122</guid>
+            <pubDate>Sun, 30 Jan 2022 02:04:06 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 여름, 숏폼 플랫폼 틱톡은 미국의 크리에이터들에게 지급하기 위해 2억달러(한화 2400억원) 규모의 ‘크리에이터 펀드’를 조성했다. 최초로 콘텐츠 창작자 전용 펀드를 마련한 것이다. 이후 다수의 동영상 플랫폼들은 틱톡을 따라잡기 위해 지난 몇년간]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300004.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[워너뮤직, 가상 음악테마파크 세운다…메타버스로 확장하는 대형 음반사 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202201280261</link>
             <guid>https://www.bloter.net/newsView/blt202201280261</guid>
@@ -937,14 +945,6 @@
             <pubDate>Sun, 23 Jan 2022 09:14:06 GMT</pubDate>
             <content:encoded><![CDATA[지난해 국내에 진출한 세계 최대 음원 스트리밍 서비스 스포티파이가 글로벌 음악 스트리밍 시장을 이끌고 있는 것으로 나타났다. 애플 뮤직은 2위를 차지했다. 시장조사업체 ‘미디아 리서치(MIDiA Research)’에 따르면 지난해 2분기 기준 스포티파이는 전 세계]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210006.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스의 잇단 요금 인상, 그 이유는? (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210126</link>
-            <guid>https://www.bloter.net/newsView/blt202201210126</guid>
-            <pubDate>Sun, 23 Jan 2022 02:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 최근 북미시장 요금을 인상하겠다고 발표했다. 약 1년만의 요금 인상이다. 미국에서 가장 비싼 요금인 프리미엄의 월 구독료는 20달러(약 2만3900원)로 올랐다. 기본 플랜은 15.49달러(약 1만8500원)로 올라 경쟁사인 HBO맥스와 디즈니의 번들보다 더 비싼 수준]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/21/blt202201210013.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]4년 만에 돌아온 NTP…방준혁 의장 무슨 얘기할까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
