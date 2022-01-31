@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 00:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 01:59:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310005</link>
+            <guid>https://www.bloter.net/newsView/blt202201310005</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 10:55:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310006.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜뉴스에 놀란 '스포티파이'…"코로나19 팟캐스트 경고문 추가"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310004</link>
+            <guid>https://www.bloter.net/newsView/blt202201310004</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 09:57:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310005.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미 규제당국, 블록체인 기반 증권거래소 최초 승인]]></title>
             <link>https://www.bloter.net/newsView/blt202201310001</link>
             <guid>https://www.bloter.net/newsView/blt202201310001</guid>
             <pubDate>Mon, 31 Jan 2022 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 08:19:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]LG서 2년, LG헬로비전 젊어졌다…송구영式  ‘실적개선’]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 28 Jan 2022 02:34:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 11:12:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280015</link>
-            <guid>https://www.bloter.net/newsView/blt202201280015</guid>
-            <pubDate>Fri, 28 Jan 2022 00:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 09:34:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 마스크 쓰고도 ‘아이폰 잠금해제’ 기능 추가]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280005</link>
-            <guid>https://www.bloter.net/newsView/blt202201280005</guid>
-            <pubDate>Fri, 28 Jan 2022 00:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 08:45:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

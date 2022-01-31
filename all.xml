@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 00:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 01:59:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,40 +345,56 @@ MSCI ESG 평가 요소. (자료=MSCI)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260042.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG서 2년, LG헬로비전 젊어졌다…송구영式  ‘실적개선’ (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201290002</link>
-            <guid>https://www.bloter.net/newsView/blt202201290002</guid>
-            <pubDate>Sun, 30 Jan 2022 07:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-30 16:11:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/29/blt202201290002.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310005</link>
+            <guid>https://www.bloter.net/newsView/blt202201310005</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 10:55:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310006.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디즈니+ 덕?…영업익 30% ‘껑충’ LG헬로비전, 배당도 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260205</link>
-            <guid>https://www.bloter.net/newsView/blt202201260205</guid>
-            <pubDate>Wed, 26 Jan 2022 10:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['LG 시너지' 효과…LG헬로비전, 1Q 영업익 35.7% 증가 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202105120023</link>
-            <guid>https://www.bloter.net/newsView/blt202105120023</guid>
-            <pubDate>Sun, 30 Jan 2022 07:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG헬로비전, 지역뉴스에 'AI 이지애 아나운서' 띄웠다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202103100007</link>
-            <guid>https://www.bloter.net/newsView/blt202103100007</guid>
-            <pubDate>Sun, 30 Jan 2022 07:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['CJ헬로서 LG헬로비전으로' 1년…LG 효과 '아직' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202012050002</link>
-            <guid>https://www.bloter.net/newsView/blt202012050002</guid>
-            <pubDate>Sun, 30 Jan 2022 07:15:08 GMT</pubDate>
+            <title><![CDATA[애플, 인앱결제 이어간다…에픽게임즈 항소심서 1심 판결 '유예' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112090001</link>
+            <guid>https://www.bloter.net/newsView/blt202112090001</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에픽게임즈 대표 "구글·애플, 앱마켓 독점으로 메타버스 성장 방해" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202111160039</link>
+            <guid>https://www.bloter.net/newsView/blt202111160039</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['포트나이트'에 '르브론 제임스'가?…에픽·애플 소송전서 밝혀져 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202105040002</link>
+            <guid>https://www.bloter.net/newsView/blt202105040002</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['포트나이트' 개발사 에픽게임즈, 기업가치 290억달러로 '껑충' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202104140004</link>
+            <guid>https://www.bloter.net/newsView/blt202104140004</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[틱톡 '크리에이터 펀드', 정말 크리에이터를 위한 걸까? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280122</link>
+            <guid>https://www.bloter.net/newsView/blt202201280122</guid>
+            <pubDate>Sun, 30 Jan 2022 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-30 10:29:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300004.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 노사갈등 지속 시 ESG 평가에 미칠 영향은 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280259</link>
+            <guid>https://www.bloter.net/newsView/blt202201280259</guid>
+            <pubDate>Sun, 30 Jan 2022 00:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-30 08:26:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280060.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[워너뮤직, 가상 음악테마파크 세운다…메타버스로 확장하는 대형 음반사 (블로터 ─ 비즈니스)]]></title>
@@ -411,22 +427,6 @@ MSCI ESG 평가 요소. (자료=MSCI)
             <pubDate>Fri, 28 Jan 2022 10:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-01-28 18:36:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280054.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2조7655억원 ‘빅딜’…삼성바이오로직스, 에피스 온전히 품었다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280241</link>
-            <guid>https://www.bloter.net/newsView/blt202201280241</guid>
-            <pubDate>Fri, 28 Jan 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-28 17:56:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280051.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[年흑자 달성한 대한전선...급등하는 동 가격에 중요해진 '재무역량' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280238</link>
-            <guid>https://www.bloter.net/newsView/blt202201280238</guid>
-            <pubDate>Fri, 28 Jan 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-01-28 17:53:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280048.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -465,12 +465,28 @@ MSCI ESG 평가 요소. (자료=MSCI)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310005</link>
+            <guid>https://www.bloter.net/newsView/blt202201310005</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 10:55:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310006.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜뉴스에 놀란 '스포티파이'…"코로나19 팟캐스트 경고문 추가" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310004</link>
+            <guid>https://www.bloter.net/newsView/blt202201310004</guid>
+            <pubDate>Mon, 31 Jan 2022 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 09:57:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310005.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[미 규제당국, 블록체인 기반 증권거래소 최초 승인 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202201310001</link>
             <guid>https://www.bloter.net/newsView/blt202201310001</guid>
-            <pubDate>Mon, 31 Jan 2022 00:51:46 GMT</pubDate>
+            <pubDate>Mon, 31 Jan 2022 00:49:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 08:19:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]LG서 2년, LG헬로비전 젊어졌다…송구영式  ‘실적개선’ (블로터 ─ 테크)]]></title>
@@ -591,22 +607,6 @@ MSCI ESG 평가 요소. (자료=MSCI)
             <pubDate>Fri, 28 Jan 2022 02:34:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 11:12:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280015</link>
-            <guid>https://www.bloter.net/newsView/blt202201280015</guid>
-            <pubDate>Fri, 28 Jan 2022 00:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 09:34:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 마스크 쓰고도 ‘아이폰 잠금해제’ 기능 추가 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280005</link>
-            <guid>https://www.bloter.net/newsView/blt202201280005</guid>
-            <pubDate>Fri, 28 Jan 2022 00:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-28 08:45:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -884,6 +884,22 @@ MSCI ESG 평가 요소. (자료=MSCI)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260042.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310005</link>
+            <guid>https://www.bloter.net/newsView/blt202201310005</guid>
+            <pubDate>Mon, 31 Jan 2022 01:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[에픽게임즈와 애플간 법적 공방이 새 국면을 맞이하게 됐다. 미국 법원이 반독점 소송 1심에서 애플의 앱스토어 정책이 독점금지법 위반에 해당되지 않는다고 판결했지만 미 35개 주 법무부장관들이 이의를 제기한 것이다.28일(현지시간) IT전문매체 &lt;더버지&gt;는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310006.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜뉴스에 놀란 '스포티파이'…"코로나19 팟캐스트 경고문 추가" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310004</link>
+            <guid>https://www.bloter.net/newsView/blt202201310004</guid>
+            <pubDate>Mon, 31 Jan 2022 01:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 음악 스트리밍 사이트 '스포티파이'가 코로나19와 관련된 정보를 다루는 모든 팟캐스트에 콘텐츠 경고문을 추가하겠다고 발표했다. 30일(현지시간) IT 전문매체 &lt;엔가젯&gt; 등 주요 외신에 따르면 다니엘 에크 스포티파이 최고경영자(CEO)는 코로나19를 다]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310005.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]LG서 2년, LG헬로비전 젊어졌다…송구영式  ‘실적개선’ (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202201290002</link>
             <guid>https://www.bloter.net/newsView/blt202201290002</guid>
@@ -962,22 +978,6 @@ MSCI ESG 평가 요소. (자료=MSCI)
             <pubDate>Tue, 25 Jan 2022 08:18:35 GMT</pubDate>
             <content:encoded><![CDATA[게임·엔터테인먼트 업계에 부는 팬덤 플랫폼 열풍에 네오위즈도 동참한다. 자회사를 통해 팬덤 플랫폼 서비스를 출시할 계획이다. 이를 통해 '유니버스'(엔씨소프트)나 '디어유 버블'(디어유) 등 팬덤 플랫폼 서비스들과 본격적으로 경쟁에 나선다.   25일 네오]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]넷게임즈 비밀병기 '제우스 프로젝트' 베일 벗나 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240040</link>
-            <guid>https://www.bloter.net/newsView/blt202201240040</guid>
-            <pubDate>Mon, 24 Jan 2022 07:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨 자회사 넷게임즈가 개발중인 '제우스 프로젝트'가 서서히 베일을 벗고 있다. 제우스 프로젝트는 넷게임즈가 예고한 신작 타이틀 중 하나로, 내부 개발조직인 '제우스 스튜디오'에서 개발중이다.24일 &lt;블로터&gt; 취재 결과, 최근 넷게임즈는 제우스 프로젝트와]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240019.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 올림픽위원회, '버너 폰' 사용 권고…중국 보안 환경 의식했나 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240014</link>
-            <guid>https://www.bloter.net/newsView/blt202201240014</guid>
-            <pubDate>Mon, 24 Jan 2022 02:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국 올림픽 및 패럴림픽 위원회가 다음달 열리는 베이징 동계 올림픽 기간 동안 자국 선수들에게 개인 휴대폰 대신 '버너 폰' 사용을 권고했다. 22일(현지시간) &lt;월스트릿저널(WSJ)&gt;에 따르면 위원회는 지난해 12월부터 올림픽에 출전하는 선수들에게 해당 기간]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/24/blt202201240012.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]4년 만에 돌아온 NTP…방준혁 의장 무슨 얘기할까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
