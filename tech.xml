@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 04:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 05:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보스턴다이내믹스, DHL에 물류 로봇 '스트레치' 공급한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280232</link>
+            <guid>https://www.bloter.net/newsView/blt202201280232</guid>
+            <pubDate>Mon, 31 Jan 2022 05:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280046.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["진짜 새해부터 1일"…'습관 형성' 도와주는 앱, 뭐가 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202201280264</link>
             <guid>https://www.bloter.net/newsView/blt202201280264</guid>
             <pubDate>Mon, 31 Jan 2022 02:28:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-01-31 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280071.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280071.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 28 Jan 2022 05:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-28 13:44:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투자 늘리는 SK하이닉스, 어느 때보다 중요해진 ‘원가 관리’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280060</link>
-            <guid>https://www.bloter.net/newsView/blt202201280060</guid>
-            <pubDate>Fri, 28 Jan 2022 04:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-01-28 13:05:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280022.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
