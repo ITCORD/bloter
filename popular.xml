@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 03:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 04:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,6 +167,16 @@ LG헬로비전 영업이익 추이.(단위=억원, 자료=LG헬로비전 실적 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280054.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미 규제당국, 블록체인 기반 증권거래소 최초 승인]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310001</link>
+            <guid>https://www.bloter.net/newsView/blt202201310001</guid>
+            <pubDate>Mon, 31 Jan 2022 02:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=미국 증권거래위원회)
+
+미국 규제 당국이 보스턴 신규 증권거래소의 블록체인 기술 이용을 승인했다. 이는 블록체인 기반의 증권거래소가 규제 승인을 확보한 최초의 사례다.&nbsp;29일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 미국 증권거래위원회(SEC)가 보스턴 증권 토큰 거래소(Boston Security Token Exchange, BSTX)를 블록체인 기반 거래소로 운영되도록 규제 승인을 내렸다고 보도했다. BSTX는 올해 2분기에 개소할 예정이다.&nbsp;SEC는 "이번 허가로 인해 BSTX의 결제 소요 시간이 전통적인 거래소보다 단축될 전망"이라고 전했다. 통상 전통적인 거래소에는 결제에 이틀이 걸리지만 BSTX에서는 거래 당일이나 익일 결제가 가능할 것으로 예상된다.&nbsp;BSTX는 프라이빗 블록체인을 이용한 시장 데이터 피드를 제공해 거래소 회원들이 자신의 거래 내역뿐만 아니라 익명화된 거래소 내 다른 회원들의 정보도 열람할 수 있게 될 전망이다.&nbsp;한편 BSTX에서 디지털 토큰 거래는 허용되지 않는다. 앞서 BSTX는 토큰화된 증권 전용 거래소를 운영할 계획이었지만 SEC로부터 승인을 받지 못했다. BSTX의 임원인 제이 프레이저는 "거래소 내 블록체인 기술을 점점 확대해 토큰화된 증권 등의 거래를 지원할 계획"이라며 "뉴욕 증권거래소(NYSE)나 나스닥 같은 전통 거래소보다 코인베이스와 같은 암호화폐 거래소를 만드는 것이 목표"라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310001.291x174.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]삼성전자, 노사갈등 지속 시 ESG 평가에 미칠 영향은]]></title>
             <link>https://www.bloter.net/newsView/blt202201280259</link>
             <guid>https://www.bloter.net/newsView/blt202201280259</guid>
@@ -193,16 +203,6 @@ MSCI ESG 평가 요소. (자료=MSCI)
 생각해 볼 문제
 ∙ 사측이 제시한 임금협상 최종안에는 노조가 요구한 임금 인상 내용이 반영되지 않았다고 알려졌습니다. 조합원들의 반발이 거센 이유도 이와 무관하지 않아 보이고요. 삼성전자 노사가 임금 인상 이슈를 어떻게 풀어나갈지 지켜볼 일입니다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280060.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미 규제당국, 블록체인 기반 증권거래소 최초 승인]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310001</link>
-            <guid>https://www.bloter.net/newsView/blt202201310001</guid>
-            <pubDate>Mon, 31 Jan 2022 02:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[(사진=미국 증권거래위원회)
-
-미국 규제 당국이 보스턴 신규 증권거래소의 블록체인 기술 이용을 승인했다. 이는 블록체인 기반의 증권거래소가 규제 승인을 확보한 최초의 사례다.&nbsp;29일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 미국 증권거래위원회(SEC)가 보스턴 증권 토큰 거래소(Boston Security Token Exchange, BSTX)를 블록체인 기반 거래소로 운영되도록 규제 승인을 내렸다고 보도했다. BSTX는 올해 2분기에 개소할 예정이다.&nbsp;SEC는 "이번 허가로 인해 BSTX의 결제 소요 시간이 전통적인 거래소보다 단축될 전망"이라고 전했다. 통상 전통적인 거래소에는 결제에 이틀이 걸리지만 BSTX에서는 거래 당일이나 익일 결제가 가능할 것으로 예상된다.&nbsp;BSTX는 프라이빗 블록체인을 이용한 시장 데이터 피드를 제공해 거래소 회원들이 자신의 거래 내역뿐만 아니라 익명화된 거래소 내 다른 회원들의 정보도 열람할 수 있게 될 전망이다.&nbsp;한편 BSTX에서 디지털 토큰 거래는 허용되지 않는다. 앞서 BSTX는 토큰화된 증권 전용 거래소를 운영할 계획이었지만 SEC로부터 승인을 받지 못했다. BSTX의 임원인 제이 프레이저는 "거래소 내 블록체인 기술을 점점 확대해 토큰화된 증권 등의 거래를 지원할 계획"이라며 "뉴욕 증권거래소(NYSE)나 나스닥 같은 전통 거래소보다 코인베이스와 같은 암호화폐 거래소를 만드는 것이 목표"라고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310001.291x174.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
