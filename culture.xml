@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 23:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 00:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 3D 아바타 도입…메타버스로 한 발 더 다가섰다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010006</link>
+            <guid>https://www.bloter.net/newsView/blt202202010006</guid>
+            <pubDate>Tue, 01 Feb 2022 00:57:04 GMT</pubDate>
+            <content:encoded><![CDATA[사명을 '메타'로 바꾸며 메타버스 사업을 본격화한 페이스북이 자사 SNS(소셜네트워크서비스)와 가상현실(VR) 플랫폼에서 사용할 수 있는 3D 아바타를 선보였다. 31일(현지시간) IT 전문매체 &lt;더버지&gt;는 메타의 SNS인 인스타그램과 페이스북에 3D 아바타가 추가됐다]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010005.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[소니, 미 게임 개발업체 ‘번지’ 4.3조원에 인수한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010005</link>
+            <guid>https://www.bloter.net/newsView/blt202202010005</guid>
+            <pubDate>Tue, 01 Feb 2022 00:57:04 GMT</pubDate>
+            <content:encoded><![CDATA[소니가 데스티니 시리즈, 헤일로를 개발한 미국 게임 개발사 ‘번지’를 36억달러(약 4조3600억원)에 인수한다. 마이크로소프트(MS)의 액티비전 블리자드 인수 이후 대형 기업들의 주요 게임사 인수합병(M&amp;A)이 잇따를 것이라는 분석이 나온다.31일(현지시간) IT]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010004.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해"]]></title>
             <link>https://www.bloter.net/newsView/blt202201310005</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 26 Jan 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)가 4분기에도 실적 고공행진을 기록했다. 클라우드 사업의 ‘폭풍성장’에 힘입은 결과다. 25일(현지시간) MS는 지난해 4분기 매출이 전년 동기보다 20% 증가한 517억달러(약 62조원), 순이익은 21% 늘어난 188억달러를 기록했다고 발표했다. 월가]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈, RTS로 글로벌 공략하나…美 신생 개발사 투자 단행]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260018</link>
-            <guid>https://www.bloter.net/newsView/blt202201260018</guid>
-            <pubDate>Fri, 28 Jan 2022 06:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈가 유럽법인을 통해 미국 신생 게임 개발사에 200억원대 투자를 단행했다. 해당 개발사가 '스타크래프트' 등 유명 실시간 전략시뮬레이션(RTS) 장르 개발 노하우를 보유한 만큼, 카카오게임즈도 관련 장르를 통해 북미·유럽 시장을 공략하기 위한 포]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네오위즈, 팬덤 플랫폼 도전장…첫 아티스트는 '이달의 소녀']]></title>
-            <link>https://www.bloter.net/newsView/blt202201250156</link>
-            <guid>https://www.bloter.net/newsView/blt202201250156</guid>
-            <pubDate>Thu, 27 Jan 2022 08:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[게임·엔터테인먼트 업계에 부는 팬덤 플랫폼 열풍에 네오위즈도 동참한다. 자회사를 통해 팬덤 플랫폼 서비스를 출시할 계획이다. 이를 통해 '유니버스'(엔씨소프트)나 '디어유 버블'(디어유) 등 팬덤 플랫폼 서비스들과 본격적으로 경쟁에 나선다.   25일 네오]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/25/blt202201250018.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
