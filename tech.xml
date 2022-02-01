@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 03:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 04:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이젠, 우주]1320조원 시장 열린다…올해도 속도 내는 韓 뉴스페이스]]></title>
+            <link>https://www.bloter.net/newsView/blt202201300004</link>
+            <guid>https://www.bloter.net/newsView/blt202201300004</guid>
+            <pubDate>Tue, 01 Feb 2022 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-01 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]코인·주식 폭락에 개미 울지만…온투금융 투자자는 수익낸다]]></title>
             <link>https://www.bloter.net/newsView/blt202201310002</link>
             <guid>https://www.bloter.net/newsView/blt202201310002</guid>
             <pubDate>Tue, 01 Feb 2022 03:15:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-01 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, 3D 아바타 도입…메타버스로 한 발 더 다가섰다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 28 Jan 2022 10:17:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-28 18:17:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280052.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2조7655억원 ‘빅딜’…삼성바이오로직스, 에피스 온전히 품었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280241</link>
-            <guid>https://www.bloter.net/newsView/blt202201280241</guid>
-            <pubDate>Fri, 28 Jan 2022 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-01-28 17:56:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280051.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
