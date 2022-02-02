@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 03:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 04:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]JYP표 메타버스, '플랫폼'에서 출발할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310007</link>
+            <guid>https://www.bloter.net/newsView/blt202201310007</guid>
+            <pubDate>Wed, 02 Feb 2022 04:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[온라인으로 접속할 수 있는 가상의 세계 '플랫폼'(♭ form). '반음 내린다'는 뜻의 '플랫'(♭)과 '형태'를 의미하는 'form'이 더해진 것으로, 현실과 다른 가상의 공간을 지칭한다. 우연한 계기로 가상세계 속 공간 '플랫폼'에 모인 여섯 명의 소년들은 밴드를 결성하며, 새]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 3D 아바타 도입…메타버스로 한 발 더 다가섰다]]></title>
             <link>https://www.bloter.net/newsView/blt202202010006</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 26 Jan 2022 10:18:35 GMT</pubDate>
             <content:encoded><![CDATA[LG헬로비전의 지난해 연간 영업이익이 2020년 대비 30% 증가했다. 글로벌 온라인동영상서비스(OTT) 디즈니플러스(+)와의 제휴 등 서비스 영역을 지속 확대한 영향으로 보인다. 회사는 안정적인 실적개선 흐름을 반영해 주당 배당금도 상향 조정했다.LG헬로비전은 26일 &amp;ls]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260036.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘클라우드’가 효자네…MS, 4분기 실적 ‘기대 이상’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260104</link>
-            <guid>https://www.bloter.net/newsView/blt202201260104</guid>
-            <pubDate>Wed, 26 Jan 2022 08:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)가 4분기에도 실적 고공행진을 기록했다. 클라우드 사업의 ‘폭풍성장’에 힘입은 결과다. 25일(현지시간) MS는 지난해 4분기 매출이 전년 동기보다 20% 증가한 517억달러(약 62조원), 순이익은 21% 늘어난 188억달러를 기록했다고 발표했다. 월가]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
