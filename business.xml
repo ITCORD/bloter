@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 23:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 00:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 유럽서 타브랜드 전기차에 자체 급속 충전소 개방]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010007</link>
+            <guid>https://www.bloter.net/newsView/blt202202010007</guid>
+            <pubDate>Wed, 02 Feb 2022 00:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-01 10:18:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 3D 아바타 도입…메타버스로 한 발 더 다가섰다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010006</link>
+            <guid>https://www.bloter.net/newsView/blt202202010006</guid>
+            <pubDate>Wed, 02 Feb 2022 00:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-01 09:32:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소니, 미 게임 개발업체 ‘번지’ 4.3조원에 인수한다]]></title>
             <link>https://www.bloter.net/newsView/blt202202010005</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 01 Feb 2022 00:54:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-01-31 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310005</link>
-            <guid>https://www.bloter.net/newsView/blt202201310005</guid>
-            <pubDate>Tue, 01 Feb 2022 00:54:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 10:55:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜뉴스에 놀란 '스포티파이'…"코로나19 팟캐스트 경고문 추가"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310004</link>
-            <guid>https://www.bloter.net/newsView/blt202201310004</guid>
-            <pubDate>Mon, 31 Jan 2022 08:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 09:57:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
