@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 00:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:57:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리은행 '저금리로 돈 못 번다'…직접투자로 '대박' 기회를]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010011</link>
+            <guid>https://www.bloter.net/newsView/blt202202010011</guid>
+            <pubDate>Thu, 03 Feb 2022 01:55:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-02 15:51:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코, 물적분할 후 자산 효율성은…포스코 1.62배, 현대제철 0.61배]]></title>
             <link>https://www.bloter.net/newsView/blt202202010009</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 02 Feb 2022 05:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-02 08:56:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/02/blt202202020001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LX세미콘은 구본준號에서 '진화'하고 있다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201300005</link>
-            <guid>https://www.bloter.net/newsView/blt202201300005</guid>
-            <pubDate>Wed, 02 Feb 2022 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-01 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
