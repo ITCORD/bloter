@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["시간을 팝니다"…타임슬롯 NFT '투데이 이즈' 정식 오픈]]></title>
+            <link>https://www.bloter.net/newsView/blt202202030131</link>
+            <guid>https://www.bloter.net/newsView/blt202202030131</guid>
+            <pubDate>Thu, 03 Feb 2022 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030027.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]넷마블 자체 코인, '코드명 X'로 등장할까]]></title>
             <link>https://www.bloter.net/newsView/blt202202030113</link>
@@ -14,7 +22,7 @@
             <pubDate>Thu, 03 Feb 2022 08:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-03 17:12:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030016.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030016.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]JYP표 메타버스, '플랫폼'에서 출발할까]]></title>
@@ -33,15 +41,6 @@
             <content:encoded><![CDATA[<span class="writer">최경미</span>
                         <span class="date">2022-02-01 08:26:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010004.282x159.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷마블 NTP]③실세는 '오버프라임'…넷마블 효자될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280137</link>
-            <guid>https://www.bloter.net/newsView/blt202201280137</guid>
-            <pubDate>Fri, 28 Jan 2022 06:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-01-28 15:11:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280029.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
