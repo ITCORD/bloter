@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 23:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 00:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코, 물적분할 후 자산 효율성은…포스코 1.62배, 현대제철 0.61배]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010009</link>
+            <guid>https://www.bloter.net/newsView/blt202202010009</guid>
+            <pubDate>Thu, 03 Feb 2022 00:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-02 14:03:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월풀 꺾었다는 LG전자, 수익성은 따라 잡혔다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201300002</link>
+            <guid>https://www.bloter.net/newsView/blt202201300002</guid>
+            <pubDate>Thu, 03 Feb 2022 00:52:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-02 11:55:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 최대 '뮤페' 코첼라, ‘NFT 평생 입장권’ 판매한다]]></title>
             <link>https://www.bloter.net/newsView/blt202202020003</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 02 Feb 2022 03:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-01 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인·주식 폭락에 개미 울지만…온투금융 투자자는 수익낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310002</link>
-            <guid>https://www.bloter.net/newsView/blt202201310002</guid>
-            <pubDate>Wed, 02 Feb 2022 02:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-01 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 유럽서 타브랜드 전기차에 자체 급속 충전소 개방]]></title>
-            <link>https://www.bloter.net/newsView/blt202202010007</link>
-            <guid>https://www.bloter.net/newsView/blt202202010007</guid>
-            <pubDate>Wed, 02 Feb 2022 00:52:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-01 10:18:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
