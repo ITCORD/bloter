@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 21:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 22:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'합병 전략'으로 다져지는 카카오의 콘텐츠·커머스]]></title>
+            <link>https://www.bloter.net/newsView/blt202202030122</link>
+            <guid>https://www.bloter.net/newsView/blt202202030122</guid>
+            <pubDate>Thu, 03 Feb 2022 22:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-04 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온, 코로나19 사업 활황…진단키트 美 공급 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202202030127</link>
             <guid>https://www.bloter.net/newsView/blt202202030127</guid>
             <pubDate>Thu, 03 Feb 2022 10:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-03 18:23:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030023.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["시간을 팝니다"…타임슬롯 NFT '투데이 이즈' 정식 오픈]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 01 Feb 2022 04:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-01 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]코인·주식 폭락에 개미 울지만…온투금융 투자자는 수익낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310002</link>
-            <guid>https://www.bloter.net/newsView/blt202201310002</guid>
-            <pubDate>Tue, 01 Feb 2022 03:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-01 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
