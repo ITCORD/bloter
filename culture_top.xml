@@ -4,43 +4,44 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]넷마블 자체 코인, '코드명 X'로 등장할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202030113</link>
+            <guid>https://www.bloter.net/newsView/blt202202030113</guid>
+            <pubDate>Thu, 03 Feb 2022 08:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-03 17:12:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030016.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]JYP표 메타버스, '플랫폼'에서 출발할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201310007</link>
+            <guid>https://www.bloter.net/newsView/blt202201310007</guid>
+            <pubDate>Thu, 03 Feb 2022 08:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-02 12:48:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310007.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소니, 미 게임 개발업체 ‘번지’ 4.3조원에 인수한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010005</link>
+            <guid>https://www.bloter.net/newsView/blt202202010005</guid>
+            <pubDate>Thu, 03 Feb 2022 08:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+                        <span class="date">2022-02-01 08:26:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010004.282x159.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷마블 NTP]③실세는 '오버프라임'…넷마블 효자될까]]></title>
             <link>https://www.bloter.net/newsView/blt202201280137</link>
             <guid>https://www.bloter.net/newsView/blt202201280137</guid>
             <pubDate>Fri, 28 Jan 2022 06:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280029.601x301.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷마블 NTP]②방준혁 의장 "올해 승부수? 블록체인·메타버스"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270134</link>
-            <guid>https://www.bloter.net/newsView/blt202201270134</guid>
-            <pubDate>Thu, 27 Jan 2022 08:21:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-01-27 16:19:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270020.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷마블 NTP]①내외부 IP 대방출…20종 신작 선보인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270082</link>
-            <guid>https://www.bloter.net/newsView/blt202201270082</guid>
-            <pubDate>Thu, 27 Jan 2022 06:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-01-27 14:26:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/27/blt202201270014.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2022]③'지금 우리 학교는'은 뭔가 특별한 것이 있다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260207</link>
-            <guid>https://www.bloter.net/newsView/blt202201260207</guid>
-            <pubDate>Thu, 27 Jan 2022 00:52:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-01-27 09:47:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/26/blt202201260042.282x159.0.jpg" length="0" type="image/jpg"/>
+                        <span class="date">2022-01-28 15:11:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280029.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

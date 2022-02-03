@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]넷마블 자체 코인, '코드명 X'로 등장할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202030113</link>
+            <guid>https://www.bloter.net/newsView/blt202202030113</guid>
+            <pubDate>Thu, 03 Feb 2022 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-03 17:12:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SaaS 키운다는 한컴, 싱가포르에 홀딩스 세운다]]></title>
             <link>https://www.bloter.net/newsView/blt202202030070</link>
             <guid>https://www.bloter.net/newsView/blt202202030070</guid>
             <pubDate>Thu, 03 Feb 2022 06:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-03 15:09:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구글·네이버·카카오에 올해도 '망 안정성 의무' 부과…웨이브 제외]]></title>
@@ -48,12 +56,12 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[테크체인저]닥터앤서 수출 ‘일등공신’ 이기혁 이지케어텍 전무 “HIS 시장 30% 점유 목표”]]></title>
+            <title><![CDATA[[테크체인저]이지케어텍, 민관합작 ‘닥터앤서 수출’ 공헌…“HIS 30% 목표”]]></title>
             <link>https://www.bloter.net/newsView/blt202202010010</link>
             <guid>https://www.bloter.net/newsView/blt202202010010</guid>
             <pubDate>Wed, 02 Feb 2022 23:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-03 08:01:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010013.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판 커지는 클라우드 MSP...후발주자 늘어나는 이유는]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 31 Jan 2022 07:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-01-31 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/30/blt202201300003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보스턴다이내믹스, DHL에 물류 로봇 '스트레치' 공급한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280232</link>
-            <guid>https://www.bloter.net/newsView/blt202201280232</guid>
-            <pubDate>Mon, 31 Jan 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-01-31 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/28/blt202201280046.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
