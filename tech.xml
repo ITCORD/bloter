@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 02:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 03:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고도화되는 앱 마케팅 전략…"메타버스 키워드는 필수"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040011</link>
+            <guid>https://www.bloter.net/newsView/blt202202040011</guid>
+            <pubDate>Fri, 04 Feb 2022 03:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-04 11:59:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040005.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[장인수 전 인젠트 대표, 베스핀글로벌 한국 총괄 선임]]></title>
             <link>https://www.bloter.net/newsView/blt202202040020</link>
             <guid>https://www.bloter.net/newsView/blt202202040020</guid>
             <pubDate>Fri, 04 Feb 2022 02:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-04 11:03:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['홀로렌즈3', 조직 분열로 개발 중단?…MS "사실무근, 계속 개발 중"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 02 Feb 2022 04:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-02 12:48:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 최대 '뮤페' 코첼라, ‘NFT 평생 입장권’ 판매한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202020003</link>
-            <guid>https://www.bloter.net/newsView/blt202202020003</guid>
-            <pubDate>Wed, 02 Feb 2022 02:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-02 10:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/02/blt202202020003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
