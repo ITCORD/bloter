@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 19:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 20:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,23 +70,6 @@ RNA 바이러스인 SARS-CoV-2는 바이러스 표면 스파이크 단백질을 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030023.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플 '중국 설' 표기 논란, 삼성전자도 똑같았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040048</link>
-            <guid>https://www.bloter.net/newsView/blt202202040048</guid>
-            <pubDate>Fri, 04 Feb 2022 17:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 음력 1월 1일을 두고 중국 설(Chinese New Year)이라고 표기해 비판을 받는 가운데, 삼성전자도 동일한 표현을 사용한 것으로 확인됐다. 삼성전자 필리핀과 싱가포르 법인 등이 운영하고 있는 해외 홈페이지에서는 Chinese New Year 용어를 활용한 이벤트가 진행되고 있다. &nbsp;
-
-삼성전자 뉴질랜드 법인 홈페이지.&nbsp;
-
-
-구글 등 포털에서 ‘Usher in Samsung Savings this Chinese New Year’을 검색하면 삼성전자 홈페이지가 안내된다. 삼성전자 필리핀, 싱가포르, 뉴질랜드 등 해외법인 홈페이지에서 진행했던 이벤트 배너가 등장한다.국내 대표 기업 삼성전자 역시 애플과 마찬가지로 음력 설 표기가 아닌 중국 설 표기를 마케팅에 활용한 셈이다.삼성전자 측은 해외법인 홈페이지는 해외법인이 관리한다고 설명했다. 삼성전자 관계자는 “해외법인의 판단”이라고 짧게 설명했다.
-
-조 바이든 대통령 트위터.
-
-음력 1월 1일은 우리나라와 중국을 포함한 대다수 아시아 국가의 명절이다. 이 때문에 음력 설(The Lunar New Year)이라고 표현하는 게 일반적이다. 조 바이든 미국 대통령도 지난 1일(현지시간) Lunar New Year 용어를 사용하며 덕담을 전했다.하지만 중국은 꾸준히 Chinese New Year 용어를 홍보하고 있다. 애플은 지난달 21일 해당 용어를 사용한 동영상을 공식 유튜브에 올려 아시아권 국가들의 비판을 받고 있다. 업계에선 중국 내 시장 점유율을 고려한 전략이라고 평가한다. 소위 비위 맞추기를 하고 있다는 의미다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040010.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[국산 코로나 치료제 기술 나왔다…이혁진 교수, 과학기술인상 수상]]></title>
             <link>https://www.bloter.net/newsView/blt202111030156</link>
             <guid>https://www.bloter.net/newsView/blt202111030156</guid>
@@ -107,6 +90,23 @@ mRNA는 DNA의 유전정보를 세포질 안의 단백질을 생산하는 리보
 
 이혁진 교수(왼쪽 3번째)와 연구실 소속 구성원들.(사진=과학기술정보통신부)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2021/11/03/blt202111030009.291x174.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 '중국 설' 표기 논란, 삼성전자도 똑같았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040048</link>
+            <guid>https://www.bloter.net/newsView/blt202202040048</guid>
+            <pubDate>Fri, 04 Feb 2022 17:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 음력 1월 1일을 두고 중국 설(Chinese New Year)이라고 표기해 비판을 받는 가운데, 삼성전자도 동일한 표현을 사용한 것으로 확인됐다. 삼성전자 필리핀과 싱가포르 법인 등이 운영하고 있는 해외 홈페이지에서는 Chinese New Year 용어를 활용한 이벤트가 진행되고 있다. &nbsp;
+
+삼성전자 뉴질랜드 법인 홈페이지.&nbsp;
+
+
+구글 등 포털에서 ‘Usher in Samsung Savings this Chinese New Year’을 검색하면 삼성전자 홈페이지가 안내된다. 삼성전자 필리핀, 싱가포르, 뉴질랜드 등 해외법인 홈페이지에서 진행했던 이벤트 배너가 등장한다.국내 대표 기업 삼성전자 역시 애플과 마찬가지로 음력 설 표기가 아닌 중국 설 표기를 마케팅에 활용한 셈이다.삼성전자 측은 해외법인 홈페이지는 해외법인이 관리한다고 설명했다. 삼성전자 관계자는 “해외법인의 판단”이라고 짧게 설명했다.
+
+조 바이든 대통령 트위터.
+
+음력 1월 1일은 우리나라와 중국을 포함한 대다수 아시아 국가의 명절이다. 이 때문에 음력 설(The Lunar New Year)이라고 표현하는 게 일반적이다. 조 바이든 미국 대통령도 지난 1일(현지시간) Lunar New Year 용어를 사용하며 덕담을 전했다.하지만 중국은 꾸준히 Chinese New Year 용어를 홍보하고 있다. 애플은 지난달 21일 해당 용어를 사용한 동영상을 공식 유튜브에 올려 아시아권 국가들의 비판을 받고 있다. 업계에선 중국 내 시장 점유율을 고려한 전략이라고 평가한다. 소위 비위 맞추기를 하고 있다는 의미다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040010.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘ERP’ 강자 더존비즈온, 증권가 목표주가 ‘줄하향’ 이유는]]></title>
