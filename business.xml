@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 01:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 02:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 '무노조 경영 폐기' 2년 만에...삼성전자, 창사 첫 파업 위기]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040103</link>
+            <guid>https://www.bloter.net/newsView/blt202202040103</guid>
+            <pubDate>Sat, 05 Feb 2022 02:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-04 15:49:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040023.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타버스·애플에 발목 잡힌 ‘메타’...역대급 주가 폭락]]></title>
             <link>https://www.bloter.net/newsView/blt202202040037</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 04 Feb 2022 06:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-04 09:15:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030028.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도 스위치, 1억대 이상 팔렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040001</link>
-            <guid>https://www.bloter.net/newsView/blt202202040001</guid>
-            <pubDate>Fri, 04 Feb 2022 05:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-04 08:27:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
