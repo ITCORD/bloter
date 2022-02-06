@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 01:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 02:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로봇 활용한 전자기기 재활용, 애플도 뛰어들었지만…갈 길 멀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040226</link>
+            <guid>https://www.bloter.net/newsView/blt202202040226</guid>
+            <pubDate>Sun, 06 Feb 2022 02:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-06 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040044.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['데이터 먹는 하마' 5G...LTE 눌렀지만 만족도는 '글쎄']]></title>
             <link>https://www.bloter.net/newsView/blt202202040213</link>
             <guid>https://www.bloter.net/newsView/blt202202040213</guid>
             <pubDate>Sun, 06 Feb 2022 01:01:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-06 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040034.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040034.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[거세지는 스포티파이 ‘백신 가짜뉴스 논란’...비판 '봇물']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 04 Feb 2022 00:53:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-04 09:15:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030028.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도 스위치, 1억대 이상 팔렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040001</link>
-            <guid>https://www.bloter.net/newsView/blt202202040001</guid>
-            <pubDate>Fri, 04 Feb 2022 00:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-04 08:27:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
