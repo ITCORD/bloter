@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 21:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 01:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['데이터 먹는 하마' 5G...LTE 눌렀지만 만족도는 '글쎄']]></title>
+            <link>https://www.bloter.net/newsView/blt202202040213</link>
+            <guid>https://www.bloter.net/newsView/blt202202040213</guid>
+            <pubDate>Sun, 06 Feb 2022 01:01:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-06 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040034.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[거세지는 스포티파이 ‘백신 가짜뉴스 논란’...비판 '봇물']]></title>
             <link>https://www.bloter.net/newsView/blt202202040234</link>
             <guid>https://www.bloter.net/newsView/blt202202040234</guid>
             <pubDate>Sat, 05 Feb 2022 08:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-05 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040049.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040049.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[OTT오리지널]'지금 우리 학교는'이 부른 '절비 신드롬']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 04 Feb 2022 00:53:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-04 08:27:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]'합병 전략'으로 다져지는 카카오의 콘텐츠·커머스]]></title>
-            <link>https://www.bloter.net/newsView/blt202202030122</link>
-            <guid>https://www.bloter.net/newsView/blt202202030122</guid>
-            <pubDate>Thu, 03 Feb 2022 22:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-04 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
