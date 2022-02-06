@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 04:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 05:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,6 +228,32 @@ RNA 바이러스인 SARS-CoV-2는 바이러스 표면 스파이크 단백질을 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040023.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['데이터 먹는 하마' 5G...LTE 눌렀지만 만족도는 '글쎄' (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040213</link>
+            <guid>https://www.bloter.net/newsView/blt202202040213</guid>
+            <pubDate>Sun, 06 Feb 2022 00:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[사진=게티이미지뱅크
+
+5G 사용자들의 평균 데이터 사용량이 LTE 가입자들을 압도하고 있는 것으로 나타났다. 반면 속도와 품질에 대한 소비자 비판은 수년째 이어지면서 5G 사용량 증가와 만족도가 비례하지 않는 괴리감 또한 깊어지고 있는 모습이다. 6일 과학기술정보통신부(이하 과기정통부)의 '무선데이터 트래픽 통계'에 따르면 2021년 12월 기준 국내 5G 데이터 트래픽 규모는 총 5351만 테라바이트(TB)로 집계됐다. 이는 2960만TB를 기록한 LTE 대비 1.8배 큰 규모다. 국내에서 LTE와 5G의 첫 트래픽 역전이 발생한 시점은 지난해 3월이다. 이후 격차는 빠르게 벌어지고 있으며 이를 통해 5G 이용자들의 평균 데이터 사용량도 점점 증가하고 있음을 유추해볼 수 있다. 스마트폰 대당 평균 데이터 사용량을 기준으로 측정하면 LTE와 5G의 격차는 3배까지 벌어진다. 12월 기준 5G 스마트폰의 1인당 평균 데이터 사용량은 2만6384MB(약 26.2GB), LTE 사용량은 8619MB(약 8.4GB)로 차이는 3배 이상이다. 
+
+자료=과기정통부, 블로터 가공&nbsp;
+
+그러나 가입자 수는 LTE가 여전히 5G를 앞선다. 지난해 기준 SKT·KT·LG유플러스 등 국내 이동통신 3사의 5G 가입자 비중은 평균 40% 전후다. 이용자 수가 극히 적은 3G를 제외하면 사실상 국민 10명 중 6명은 여전히 LTE 사용자인 셈. 그럼에도 불구하고 데이터 사용량 격차가 점점 크게 벌어지고 있다는 건 5G 사용자들의 기본적인 데이터 사용량이 LTE보다 높으며, 5G 시대의 이동통신 기반이 조금씩 더 데이터 중심사회로 변모하고 있음을 의미한다.실제로 이통 3사는 5G 상용화 초기부터 5G의 특징으로 대용량 데이터의 빠른 처리를 내세웠다. 현재까지는 주요 소비자용 5G 서비스 카테고리인 실시간 360도 영상, 증강·가상현실(AR·VR) 플랫폼 등이 이에 해당되며 추후 메타버스 서비스 규모 및 사용자 수가 늘어날수록 5G의 효용성도 더욱 늘어날 전망이다. 또 5G 사용자, 트래픽 규모가 증가할수록 이통사들의 5G 주파수 추가 확보 필요성도 증가하게 된다. 최근 통신업계에선 과기정통부가 결정한 3.5GHz 대역 주파수 추가 할당 여부, 경매방식을 놓고 대립의 골이 깊어지고 있다. 당장은 LG유플러스에 유리한 주파수 대역 할당에 SKT와 KT가 반대하고 있지만, 최근 SKT가 별도의 40MHz 주파수 할당 요청안을 과기정통부에 제출하면서 이통사들의 추가 주파수 확보 경쟁은 예상보다 이른 시기에 이뤄질 전망이다. 하지만 이처럼 갈수록 증가하는 사용량, 주파수 조기 확보전과 별개로 5G 소비자들의 만족도는 여전히 기대에 못 미치고 있다는 평가가 다수다. 2019년 5G 상용화 당시 과기정통부와 이통사들이 내세운 대표적인 표어는 'LTE보다 20배 빠른 5G'다. 그러나 이는 최적화된 조건에서 달성 가능한 '이론적 속도'로 이후 지난 3년간 이통3사가 기록한 5G 다운로드 속도는 LTE 대비 4~5배 빠른 수준에 불과했다.&nbsp;게다가 5G에 안정적으로 접속할 수 있는 지역도 여전히 수도권에 편중된 상태로, 그 외 지역 사용자 및 지역 간 이동이 잦은 사용자들 사이에선 접속 품질에 대한 불만 제기가 여전히 끊이지 않고 있는 상황이다. 통신업계도 이 같은 사실을 인지하고 매년 개선된 품질을 선보이고 있으나 5G 서비스 초창기 높아질 대로 높아진 소비자 눈높이를 만족시키기엔 여전히 부족한 상황이다.
+
+2021년도 하반기 5G 품질조사 결과 (자료=과기정통부)
+
+
+
+2021년도 하반기 LTE 품질조사 결과 (자료=과기정통부)
+
+5G 품질에 대한 이통사와 소비자간 갈등 역시 잘 봉합되지 않고 있다. 방송통신위원회가 지난 3일 발표한 2021년 '통신분쟁조정 사례집'에 따르면 5G 품질 불만을 제기한 소비자와 이통사간 조정이 불발된 사례를 다수 확인된다.일례로 지난해 7월부터 5G 서비스를 이용한 한 사용자가 개통 후 지속적인 접속 끊김, 속도 저하로 불편을 겪자 이에 대한 개선을 이통사에 요구했으나 이통사는 '5G 서비스 이용이 어려우면 LTE 서비스로 변경하여 이용하면 된다'는 보이자 방통위에 분쟁 조정을 신청했다. 해당 사건에서 방통위는 '이통사는 소비자에게 위약금 없이 원하는 5G 요금제로 변경할 수 있도록 조치하고 약정기간 만료까지 매월 이용요금 1만원씩을 할인하라'고 조정안을 제시했으나 성립되지 않았다. 이통사는 '5G 서비스 가입 당시 5G 커버리지 및 음영지역 관련 중요사항을 고지했으며 신청인의 서명과 동의를 받아 개통을 진행했기 때문'이라며 조정을 거절했기 때문이다. 또 개통 후 실내에서 정상적인 5G 이용이 어려웠던 한 사용자가 이에 관해 문제를 제기하자, 이통사 고객센터는 '건물 안에서 5G가 잘 안 터지는 건 정상'이라는 식의 무책임한 대응으로 분쟁이 발생한 사례도 있다. 그러나 이 사안에 대한 방통위의 요금 할인 조정안 역시 앞선 사례와 같은 이유로 조정이 불발됐으며 사례집 전반에서 비슷한 경우를 여럿 찾아볼 수 있다. 이외에 조정이 성립된 경우는 문제제기가 일어난 지역에 대한 5G 품질측정을 제시한 경우 등 일부에 그친다. 
+
+자료=과기정통부
+
+이 같은 상황이 수년째 이어지며 실제 이통사를 대상으로 한 소비자들의 집단소송도 이어지고 있다. 지난해 7월 SKT를 대상으로 첫 번째 5G 품질불만 집단소송이 이뤄졌고 11월에는 3사 전체를 대상으로 한 소송도 진행됐다. 다만 두 소송 모두 구체적인 피해사실 적시, 재판요건 불충족 등을 이유로 문제에 대한 직접적인 판결은 이뤄지지 않았다. 한편 이통 3사의 5G 설비투자 규모에 대한 지적도 정치권을 중심으로 계속 이어지고 있다. 최근 국회 과학기술정보방송통신의원회 소속 김영식 국민의힘 의원에 따르면 2021년 기준 이통3사가 세운 5G 무선국의 68.2%는 수도권과 광역시에 집중된 것으로 나타났다. 반면 농어촌 지역에 대한 무선국 투자는 서비스 상용화 3년여가 지난 현재도 여전히 미진한 상황이다. 이에 3사는 농어촌 지역에 대한 무선국 공동구축을 추진하는 등 문제 개선에 나서고 있지만 매년 전체적인 설비투자(CAPEX) 규모가 줄어들고 있는 상황에서 소극적 투자에 대한 비판을 면치 못하고 있다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040034.291x174.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[뉴욕타임즈는 왜 웹 퍼즐게임을 사들였을까 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202202040152</link>
             <guid>https://www.bloter.net/newsView/blt202202040152</guid>
@@ -274,54 +300,48 @@ mRNA는 DNA의 유전정보를 세포질 안의 단백질을 생산하는 리보
             <enclosure url="https://www.bloter.net/data/blt/image/2021/11/03/blt202111030009.291x174.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[아마존·MS·구글…클라우드 성장에 빅테크 ‘방긋’ (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040221</link>
-            <guid>https://www.bloter.net/newsView/blt202202040221</guid>
-            <pubDate>Fri, 04 Feb 2022 10:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[(사진=각 사 로고)
-
-전세계 클라우드 시장을 이끄는 ‘빅테크’ 3사의 지난해 성적이 공개됐다. 클라우드 사업의 성장이 매출을 견인한 것으로 나타난 가운데, 올해도 시장 점유율을 둘러싼 치열한 경쟁이 예상된다.
-‘메타 쇼크’ 버틴 아마존, 기대 이상 성적 낸 AWS
-3일(현지시간) 아마존에 따르면 지난해 4분기 매출은 전년동기 대비 9.4% 증가한 1374억달러(약 165조원)로 나타났다. 순이익은 143억달러(약 17조2000억원)로 2배 뛰었다. 주당순이익(EPS)은 27.75달러로 집계됐다. 호실적으로 보긴 어렵다. 아마존 매출 성장률이 한 자릿수를 기록한 것은 2017년 이후 처음이다. 그런데도 아마존 주가는 시간외거래에서 19%까지 폭등했다. 이날 메타 주가가 26.39% 급락하면서 300조원에 달하는 시가총액이 증발하자 나스닥 지수도 흔들렸지만 아마존은 강세를 보였다. 전기차 스타트업 리비안 투자로 120억달러(약 14조4000억원) 수익을 올리고, 광고사업이 구글·페이스북에 이어 미국 3위로 올라서는 등 ‘폭풍성장’한 덕분이다.외신들은 아마존의 ‘캐시카우’로 불리는 아마존웹서비스(AWS)의 견조한 실적도 주가 상승을 견인한 것으로 분석했다. 아마존에 따르면 AWS 매출은 177억8000만달러로 1년 전보다 39.5% 증가했다. 영업이익도 49% 늘어난 52억9000만달러를 거두면서 전반적으로 증권가 예상(173억7000만달러·48억4000만달러)을 크게 상회했다. 미국 경제전문매체 CNBC에 따르면 아마존 전체 매출에서 AWS가 담당하는 비중은 13%에 불과하지만, 해외사업 등 각 부문에서 나오는 손실을 고려하면 영업이익의 153%를 클라우드가 책임지고 있다.
-MS·구글도 클라우드가 성장동력
-마이크로소프트(MS)·구글 등도 클라우드 사업의 고성장이 회사의 매출을 끌어올렸다. 글로벌 시장조사업체 스태티스타(Statista)에 따르면 전세계 클라우드 시장은 AWS가 1위(32%), MS 애저가 2위(21%)로 양강구도를 형성하고 있다. 3위는 구글클라우드로 시장점유율은 8%다. 지난달 MS의 실적발표에 따르면 MS는 지난해 4분기 517억달러, 우리 돈으로는 62조원에 달하는 매출을 올렸다. 작년 같은 기간보다 20% 증가한 숫자다. 순이익은 21% 늘어난 188억달러를 기록하면서 증권가 전망치를 상회했다. 이 같은 호실적을 거둘 수 있던 데는 클라우드 사업의 공이 컸다. MS의 클라우드 사업은 전체 매출의 약 35%를 차지하고 있다. 지난 4분기 MS오피스365·애저(Azure) 등을 포함한 MS의 클라우드 매출은 1년 전보다 32% 뛴 221억달러로 증가했다. 특히 클라우드 인프라(기반시설) 서비스인 ‘애저(Azure)’는 46% 성장하면서 가파른 상승세를 보였다. 4분기 연속 50% 이상 성장을 기록했던 것을 감안하면 성장세가 둔화된 것으로 보이지만, 고속성장 기조는 여전하다. 미래 성장동력으로 꼽고 있는 ‘클라우드 게임’도 기대되는 분야다. 지난달 MS는 게임사 액티비전블리자드를 약 82조원에 인수하면서 IP(지식재산권) 경쟁력을 확보했다. MS는 게임사업 확대를 통해 애저의 몸집을 키운다는 복안이다.구글도 클라우드의 덕을 톡톡히 봤다. 구글 모회사인 알파벳에 따르면 지난해 4분기 매출은 전년동기 대비 32.4% 증가한 753억2500만달러, 순이익이 35.6% 늘어난 206억4200만달러를 기록했다. 이 가운데서도 구글클라우드 사업 매출은 4분기 55억달러, 영업손실 8억9000만달러로 집계됐다. 매출이 44.6% 상승하면서 외형적 성장을 이뤘고, 적자도 11억4000만달러에서 8억9000만달러로 줄였다. 클라우드 부문 안에서도 ‘구글클라우드플랫폼(GCP)’가 다양한 고객사를 확보하면서 거래량이 전년동기 대비 80% 이상 늘었다. 구글클라우드의 연간환산추정매출(annual run rate)은 221억6000만달러에 달하고 있다.빠른 성장세에 고무된 순다 피차이 알파벳 최고경영자(CEO)도 지난해가 구글클라우드에게 “엄청난 해(big year)”였다고 평가했지만, 시장 3위에 머물러 있는 만큼 점유율을 높이기 위해 고객사 투자 등 공격적인 투자를 이어 나갈 계획이다. 이 같은 기조에 따라 구글클라우드의 적자는 당분간 지속될 전망이다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040040.291x174.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[패션 플랫폼 연 거래액 '1조원 시대'의 의미 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040055</link>
+            <guid>https://www.bloter.net/newsView/blt202202040055</guid>
+            <pubDate>Sun, 06 Feb 2022 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-06 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040015.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로봇 활용한 전자기기 재활용, 애플도 뛰어들었지만…갈 길 멀다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040226</link>
-            <guid>https://www.bloter.net/newsView/blt202202040226</guid>
-            <pubDate>Sun, 06 Feb 2022 02:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-06 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040044.570x320.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보스턴다이내믹스, DHL에 물류 로봇 '스트레치' 공급한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280232</link>
-            <guid>https://www.bloter.net/newsView/blt202201280232</guid>
-            <pubDate>Sun, 06 Feb 2022 02:14:35 GMT</pubDate>
+            <title><![CDATA['발망'부터 '갭'까지…NFT에 빠진 패션업계 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201140107</link>
+            <guid>https://www.bloter.net/newsView/blt202201140107</guid>
+            <pubDate>Sun, 06 Feb 2022 05:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[⑥배민·뉴빌리티 뛰어든 '배달로봇'…대중화까지 '규제'가 발목 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201060035</link>
-            <guid>https://www.bloter.net/newsView/blt202201060035</guid>
-            <pubDate>Sun, 06 Feb 2022 02:14:35 GMT</pubDate>
+            <title><![CDATA[동대문 도매업자 80%가 쓰는 '신상마켓'…"K패션 들고 일본 진출" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202201050282</link>
+            <guid>https://www.bloter.net/newsView/blt202201050282</guid>
+            <pubDate>Sun, 06 Feb 2022 05:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로봇 기술·테마·트렌드 3박자 타고 급부상한 '에브리봇' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112280117</link>
-            <guid>https://www.bloter.net/newsView/blt202112280117</guid>
-            <pubDate>Sun, 06 Feb 2022 02:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[패션 플랫폼 '29CM'서 ‘살바도르 달리’ 전시 티켓이 6분만에 매진된 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202111110033</link>
+            <guid>https://www.bloter.net/newsView/blt202111110033</guid>
+            <pubDate>Wed, 12 Jan 2022 20:00:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[자율주행에 진심인 월마트, '로봇트럭'이 창고 오간다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202111090008</link>
-            <guid>https://www.bloter.net/newsView/blt202111090008</guid>
-            <pubDate>Sun, 06 Feb 2022 02:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[명품 플랫폼 ‘캐치패션’은 왜 '유일하게' 정품만 취급한다고 할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202110280258</link>
+            <guid>https://www.bloter.net/newsView/blt202110280258</guid>
+            <pubDate>Sun, 06 Feb 2022 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존·MS·구글…클라우드 성장에 빅테크 ‘방긋’ (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040221</link>
+            <guid>https://www.bloter.net/newsView/blt202202040221</guid>
+            <pubDate>Fri, 04 Feb 2022 10:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-04 18:49:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040040.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BC카드, '자체카드' 의욕은 좋은데, 선결제가 안 된다? (블로터 ─ 비즈니스)]]></title>
@@ -364,14 +384,6 @@ MS·구글도 클라우드가 성장동력
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040010.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[고도화되는 앱 마케팅 전략…"메타버스 키워드는 필수" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040011</link>
-            <guid>https://www.bloter.net/newsView/blt202202040011</guid>
-            <pubDate>Fri, 04 Feb 2022 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-04 11:59:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040005.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -408,12 +420,20 @@ MS·구글도 클라우드가 성장동력
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]패션 플랫폼 연 거래액 '1조원 시대'의 의미 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040055</link>
+            <guid>https://www.bloter.net/newsView/blt202202040055</guid>
+            <pubDate>Sun, 06 Feb 2022 05:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-06 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로봇 활용한 전자기기 재활용, 애플도 뛰어들었지만…갈 길 멀다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202040226</link>
             <guid>https://www.bloter.net/newsView/blt202202040226</guid>
             <pubDate>Sun, 06 Feb 2022 02:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-06 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040044.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040044.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['데이터 먹는 하마' 5G...LTE 눌렀지만 만족도는 '글쎄' (블로터 ─ 테크)]]></title>
@@ -542,14 +562,6 @@ MS·구글도 클라우드가 성장동력
             <pubDate>Fri, 04 Feb 2022 00:53:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-04 09:23:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘ERP’ 강자 더존비즈온, 증권가 목표주가 ‘줄하향’ 이유는 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202030138</link>
-            <guid>https://www.bloter.net/newsView/blt202202030138</guid>
-            <pubDate>Fri, 04 Feb 2022 00:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-04 09:15:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030028.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
