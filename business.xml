@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국산 통신장비 금지한 미국, "철거·교체만 6조원 들 수도"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202070007</link>
+            <guid>https://www.bloter.net/newsView/blt202202070007</guid>
+            <pubDate>Mon, 07 Feb 2022 09:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-07 10:02:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070009.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA["애플, 내달 5G '아이폰SE' 3세대 공개"]]></title>
             <link>https://www.bloter.net/newsView/blt202202070003</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 07 Feb 2022 01:59:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-05 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040049.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕타임즈는 왜 웹 퍼즐게임을 사들였을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040152</link>
-            <guid>https://www.bloter.net/newsView/blt202202040152</guid>
-            <pubDate>Mon, 07 Feb 2022 01:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-05 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040024.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
