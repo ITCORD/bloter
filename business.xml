@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 23:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 00:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['디지털' 힘주는 메리츠화재 지난해 역대 최대 실적...올해도 웃을 수 있을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202202070295</link>
+            <guid>https://www.bloter.net/newsView/blt202202070295</guid>
+            <pubDate>Tue, 08 Feb 2022 00:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-07 19:58:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070033.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[기아 EV6, 中 만리장성을 넘을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202070214</link>
+            <guid>https://www.bloter.net/newsView/blt202202070214</guid>
+            <pubDate>Tue, 08 Feb 2022 00:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-07 18:11:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 전기차 힘 싣는다…400억 추가 투자]]></title>
             <link>https://www.bloter.net/newsView/blt202202070248</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 07 Feb 2022 09:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-07 10:02:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070009.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, 내달 5G '아이폰SE' 3세대 공개"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070003</link>
-            <guid>https://www.bloter.net/newsView/blt202202070003</guid>
-            <pubDate>Mon, 07 Feb 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-07 08:47:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘삼성공화국’ 해체 앞장선 준법감시爲...지배구조 어떻게 손 댈까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070001</link>
-            <guid>https://www.bloter.net/newsView/blt202202070001</guid>
-            <pubDate>Mon, 07 Feb 2022 01:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-07 08:35:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
