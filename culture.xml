@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 09:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 10:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 05 Feb 2022 08:15:39 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 음원 사이트 ‘스포티파이’가 코로나19 관련 허위 뉴스를 담은 팟캐스트를 유치해 논란이 불거지고 있는 가운데 스포티파이에 대한 현지 언론의 비판이 거세지고 있다. 코미디언 출신인 조 로건이 진행하며 스포티파이가 독점으로 제공하는 팟캐]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040049.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[OTT오리지널]'지금 우리 학교는'이 부른 '절비 신드롬']]></title>
+            <link>https://www.bloter.net/newsView/blt202202040230</link>
+            <guid>https://www.bloter.net/newsView/blt202202040230</guid>
+            <pubDate>Tue, 08 Feb 2022 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA['인터넷 동영상 서비스'(OTT)의 경쟁력은 자체 콘텐츠인 '오리지널 시리즈'입니다. 에서는 특색 있는 작품을 분석하고 그 안에 '숨겨진 1인치'를 찾아봅니다. 내용 중 '스포일러'(강스포)가 있으니 원치 않는 분들은 주의하시기 바랍니다. &lt;편집자 주&gt; 넷플릭스 오]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040045.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴욕타임즈는 왜 웹 퍼즐게임을 사들였을까]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 01 Feb 2022 00:57:04 GMT</pubDate>
             <content:encoded><![CDATA[사명을 '메타'로 바꾸며 메타버스 사업을 본격화한 페이스북이 자사 SNS(소셜네트워크서비스)와 가상현실(VR) 플랫폼에서 사용할 수 있는 3D 아바타를 선보였다. 31일(현지시간) IT 전문매체 &lt;더버지&gt;는 메타의 SNS인 인스타그램과 페이스북에 3D 아바타가 추가됐다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 미 게임 개발업체 ‘번지’ 4.3조원에 인수한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202010005</link>
-            <guid>https://www.bloter.net/newsView/blt202202010005</guid>
-            <pubDate>Fri, 04 Feb 2022 00:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[소니가 데스티니 시리즈, 헤일로를 개발한 미국 게임 개발사 ‘번지’를 36억달러(약 4조3600억원)에 인수한다. 마이크로소프트(MS)의 액티비전 블리자드 인수 이후 대형 기업들의 주요 게임사 인수합병(M&amp;A)이 잇따를 것이라는 분석이 나온다.31일(현지시간) IT]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010004.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
