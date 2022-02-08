@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 02:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 05 Feb 2022 02:17:38 GMT</pubDate>
             <content:encoded><![CDATA[여기 5가지 글자를 유추하고 6번의 기회 안에 맞춰야 하는 단어퍼즐 게임이 있다. 예를 들어 사용자가 'POWER'라는 임의의 단어를 입력하면 해당 알파벳이 맞는지 여부를 보여준다. 맞는 글자를 입력할 경우 퍼즐 배경에 녹색불이 들어오지만, 위치와 정해진 단어가 모]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040024.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]넷마블 신사업 주도하는 메타버스엔터, 강남에 전진기지 확보]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040053</link>
+            <guid>https://www.bloter.net/newsView/blt202202040053</guid>
+            <pubDate>Tue, 08 Feb 2022 02:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블 자회사 넷마블에프앤씨가 100% 출자해 설립한 '메타버스엔터테인먼트'가 강남 시대를 연다. 4일 &lt;블로터&gt; 취재 결과, 메타버스엔터테인먼트가 서울 구로구에 위치한 넷마블 본사 '지타워' 외에 추가로 업무 공간을 마련했다. 메타버스엔터테인먼트는 서울]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고도화되는 앱 마케팅 전략…"메타버스 키워드는 필수"]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 00:53:52 GMT</pubDate>
             <content:encoded><![CDATA[소니가 데스티니 시리즈, 헤일로를 개발한 미국 게임 개발사 ‘번지’를 36억달러(약 4조3600억원)에 인수한다. 마이크로소프트(MS)의 액티비전 블리자드 인수 이후 대형 기업들의 주요 게임사 인수합병(M&amp;A)이 잇따를 것이라는 분석이 나온다.31일(현지시간) IT]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/01/blt202202010004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미 35개 주 법무장관 "애플 인앱결제 독점, 경쟁 저해"]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310005</link>
-            <guid>https://www.bloter.net/newsView/blt202201310005</guid>
-            <pubDate>Mon, 31 Jan 2022 01:58:35 GMT</pubDate>
-            <content:encoded><![CDATA[에픽게임즈와 애플간 법적 공방이 새 국면을 맞이하게 됐다. 미국 법원이 반독점 소송 1심에서 애플의 앱스토어 정책이 독점금지법 위반에 해당되지 않는다고 판결했지만 미 35개 주 법무부장관들이 이의를 제기한 것이다.28일(현지시간) IT전문매체 &lt;더버지&gt;는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/31/blt202201310006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
