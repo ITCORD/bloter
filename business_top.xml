@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 06:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 07:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090039</link>
-            <guid>https://www.bloter.net/newsView/blt202202090039</guid>
-            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[투자로 손실보고 대출로 이익낸 KB국민·기업은행]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090052</link>
+            <guid>https://www.bloter.net/newsView/blt202202090052</guid>
+            <pubDate>Wed, 09 Feb 2022 07:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-09 14:31:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090008.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비대면 1년, '홈트' 등 LGU+집콕 콘텐츠 사용자 급증]]></title>
-            <link>https://www.bloter.net/newsView/blt202103240011</link>
-            <guid>https://www.bloter.net/newsView/blt202103240011</guid>
-            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KB국민은행, 티맵과도 손 잡았다…넷제로 'Green Wave' 드라이브]]></title>
+            <link>https://www.bloter.net/newsView/blt202112080031</link>
+            <guid>https://www.bloter.net/newsView/blt202112080031</guid>
+            <pubDate>Wed, 09 Feb 2022 07:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오 계열사 야나두, 홈트레이닝 시장 진출]]></title>
-            <link>https://www.bloter.net/newsView/blt202009290010</link>
-            <guid>https://www.bloter.net/newsView/blt202009290010</guid>
-            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KB손보, '헬스케어+마이데이터'로 모바일 플랫폼 강화한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202111150075</link>
+            <guid>https://www.bloter.net/newsView/blt202111150075</guid>
+            <pubDate>Wed, 09 Feb 2022 07:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KB국민 vs 신한, '기업뱅킹' 디지털플랫폼서 맞붙는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202111080031</link>
+            <guid>https://www.bloter.net/newsView/blt202111080031</guid>
+            <pubDate>Wed, 09 Feb 2022 07:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기업은행, 전기자동차 200여대 도입…ESG경영 행보]]></title>
+            <link>https://www.bloter.net/newsView/blt202107090007</link>
+            <guid>https://www.bloter.net/newsView/blt202107090007</guid>
+            <pubDate>Wed, 09 Feb 2022 07:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김명상</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
