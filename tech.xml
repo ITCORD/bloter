@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 01:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 02:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 신속항원검사소, 네이버·카카오앱에서 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090048</link>
+            <guid>https://www.bloter.net/newsView/blt202202090048</guid>
+            <pubDate>Wed, 09 Feb 2022 02:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-09 11:01:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090006.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090039</link>
+            <guid>https://www.bloter.net/newsView/blt202202090039</guid>
+            <pubDate>Wed, 09 Feb 2022 02:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[미 법무부, 비트코인 세탁범 체포...사상 최대 4조원 압류]]></title>
             <link>https://www.bloter.net/newsView/blt202202090019</link>
             <guid>https://www.bloter.net/newsView/blt202202090019</guid>
             <pubDate>Wed, 09 Feb 2022 00:59:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 09:19:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이폰을 결제 단말기처럼…애플, 비접촉 결제 기능 도입한다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 07 Feb 2022 11:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-07 19:28:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'아키에이지'판 구글 어스, BORA와 만날까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070294</link>
-            <guid>https://www.bloter.net/newsView/blt202202070294</guid>
-            <pubDate>Mon, 07 Feb 2022 10:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-07 18:19:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안철수 만난 스타트업계..."제2의 타다 사태 막아달라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070010</link>
-            <guid>https://www.bloter.net/newsView/blt202202070010</guid>
-            <pubDate>Mon, 07 Feb 2022 09:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-07 17:57:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070030.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
