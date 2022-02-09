@@ -4,16 +4,26 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]라인게임즈가 판 슈퍼캣 지분, 넥슨이 샀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090359</link>
+            <guid>https://www.bloter.net/newsView/blt202202090359</guid>
+            <pubDate>Wed, 09 Feb 2022 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-09 18:55:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090046.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]카카오게임즈, '오딘' 의존도 더 높아질까]]></title>
             <link>https://www.bloter.net/newsView/blt202202090121</link>
             <guid>https://www.bloter.net/newsView/blt202202090121</guid>
             <pubDate>Wed, 09 Feb 2022 06:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090010.601x301.0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-09 14:34:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090010.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보라 2.0, 블록 생태계 흔든다]②'오딘'서 산 아이템 '아키에이지'에서도?]]></title>
@@ -32,15 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-08 18:23:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080023.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠미디어그룹 표방한 NEW, NFT 사업 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080049</link>
-            <guid>https://www.bloter.net/newsView/blt202202080049</guid>
-            <pubDate>Tue, 08 Feb 2022 02:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-08 11:29:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080006.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

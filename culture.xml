@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 09 Feb 2022 09:15:59 GMT</pubDate>
             <content:encoded><![CDATA[NHN이 지난해 매출·영업이익 동반성장을 달성한 것으로 나타났다. 주가하락을 초래한 NHN클라우드 물적분할 결정에 대해서는 “책임경영을 위한 선택”이라고 해명하고, 앞으로 3년간 주주환원에 나서겠다는 방침을 밝혔다.9일 NHN은 연결기준 지난해 연]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090017.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콘텐츠미디어그룹 표방한 NEW, NFT 사업 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202202080049</link>
+            <guid>https://www.bloter.net/newsView/blt202202080049</guid>
+            <pubDate>Wed, 09 Feb 2022 10:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠미디어그룹을 표방하는 영화사 '뉴'(NEW)가 계열사를 통해 '대체 불가능한 토큰'(NFT) 사업에 뛰어든다. 영화, 드라마, OTT 콘텐츠 등 다양한 IP를 보유한 만큼 글로벌 파트너사와 함께 메타버스와 NFT를 통한 신성장 동력 발굴에 주력하는 모습이다.8일 NEW는 "시각]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임인사이드]'아키에이지'판 구글 어스, BORA와 만날까]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Feb 2022 10:17:31 GMT</pubDate>
             <content:encoded><![CDATA[일본 닌텐도의 콘솔 게임기 닌텐도 스위치가 전 세계 판매량 1억대를 돌파했다.3일(현지시간) IT 전문매체 &lt;더버지&gt; 등 주요 외신은 닌텐도 스위치가 작년 말 기준 1억354만대를 판매했다고 전했다. 2017년 3월에 출시된 후 5년 안에 이룬 성과로 경쟁업체인 마이크]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["시간을 팝니다"…타임슬롯 NFT '투데이 이즈' 정식 오픈]]></title>
-            <link>https://www.bloter.net/newsView/blt202202030131</link>
-            <guid>https://www.bloter.net/newsView/blt202202030131</guid>
-            <pubDate>Mon, 07 Feb 2022 10:17:31 GMT</pubDate>
-            <content:encoded><![CDATA['시간'을 '대체 불가능한 토큰'(NFT)으로 만들어 판매하는 '투데이 이즈'가 시험대에 올랐다. 소프트론칭을 통해 시장성을 테스트한 프렌즈게임즈는 3일 '투데이 이즈'를 정식 오픈하며 본격적인 NFT 사업을 전개한다.  '투데이 이즈'는 하루를 10분 단위로 나눈 타임슬]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030027.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
