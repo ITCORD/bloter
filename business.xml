@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파킹클라우드, 1000억원 투자 유치...'모빌리티 허브' 구축한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090040</link>
+            <guid>https://www.bloter.net/newsView/blt202202090040</guid>
+            <pubDate>Wed, 09 Feb 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-09 13:32:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT스카이라이프, 연매출 1조원? 콘텐츠 짝도 필요하다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202080405</link>
+            <guid>https://www.bloter.net/newsView/blt202202080405</guid>
+            <pubDate>Wed, 09 Feb 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-09 13:24:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080029.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090039</link>
+            <guid>https://www.bloter.net/newsView/blt202202090039</guid>
+            <pubDate>Wed, 09 Feb 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[미 법무부, 비트코인 세탁범 체포...사상 최대 4조원 압류]]></title>
             <link>https://www.bloter.net/newsView/blt202202090019</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 09 Feb 2022 06:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-08 19:37:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080036.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘헬스케어’도 클라우드...오라클·AWS·네이버도 눈독]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080188</link>
-            <guid>https://www.bloter.net/newsView/blt202202080188</guid>
-            <pubDate>Wed, 09 Feb 2022 03:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-08 16:59:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080022.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[적자 낸 서울바이오시스, 악화한 ‘가동률·재고 회전’ 지표]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080295</link>
-            <guid>https://www.bloter.net/newsView/blt202202080295</guid>
-            <pubDate>Wed, 09 Feb 2022 03:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-08 16:34:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이제는 배터리 소재 업체’...LG화학 “버는 돈 다 투자에 쓸 것”]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080210</link>
-            <guid>https://www.bloter.net/newsView/blt202202080210</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-08 16:16:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

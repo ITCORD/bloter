@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우드 물적분할 앞둔 NHN...“3년간 주주환원 추진”]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090238</link>
+            <guid>https://www.bloter.net/newsView/blt202202090238</guid>
+            <pubDate>Wed, 09 Feb 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[NHN이 지난해 매출·영업이익 동반성장을 달성한 것으로 나타났다. 주가하락을 초래한 NHN클라우드 물적분할 결정에 대해서는 “책임경영을 위한 선택”이라고 해명하고, 앞으로 3년간 주주환원에 나서겠다는 방침을 밝혔다.9일 NHN은 연결기준 지난해 연]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090017.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]'아키에이지'판 구글 어스, BORA와 만날까]]></title>
             <link>https://www.bloter.net/newsView/blt202202070294</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Feb 2022 10:17:31 GMT</pubDate>
             <content:encoded><![CDATA['시간'을 '대체 불가능한 토큰'(NFT)으로 만들어 판매하는 '투데이 이즈'가 시험대에 올랐다. 소프트론칭을 통해 시장성을 테스트한 프렌즈게임즈는 3일 '투데이 이즈'를 정식 오픈하며 본격적인 NFT 사업을 전개한다.  '투데이 이즈'는 하루를 10분 단위로 나눈 타임슬]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030027.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]넷마블 자체 코인, '코드명 X'로 등장할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202030113</link>
-            <guid>https://www.bloter.net/newsView/blt202202030113</guid>
-            <pubDate>Fri, 04 Feb 2022 05:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/03/blt202202030016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
