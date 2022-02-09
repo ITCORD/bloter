@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,33 +270,42 @@ LG화학은 공격적인 사업 확장을 위해 앞으로 연간 4조원이 넘
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070012.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이폰을 결제 단말기처럼…애플, 비접촉 결제 기능 도입한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090008</link>
-            <guid>https://www.bloter.net/newsView/blt202202090008</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 08:06:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090001.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090039</link>
+            <guid>https://www.bloter.net/newsView/blt202202090039</guid>
+            <pubDate>Wed, 09 Feb 2022 02:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[비접촉 해외결제, 기약없는 애플페이 대신 현대카드로 한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210178</link>
-            <guid>https://www.bloter.net/newsView/blt202201210178</guid>
-            <pubDate>Sun, 23 Jan 2022 07:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[비대면 1년, '홈트' 등 LGU+집콕 콘텐츠 사용자 급증 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202103240011</link>
+            <guid>https://www.bloter.net/newsView/blt202103240011</guid>
+            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[얼굴로 결제하는 '페이스 페이' 확산...'안면인식 결제'의 명암 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202110190023</link>
-            <guid>https://www.bloter.net/newsView/blt202110190023</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오 계열사 야나두, 홈트레이닝 시장 진출 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202009290010</link>
+            <guid>https://www.bloter.net/newsView/blt202009290010</guid>
+            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[물건 들고 나가면 계산 끝…아마존 '자동결제', 식품매장 '홀푸드'로 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202109090003</link>
-            <guid>https://www.bloter.net/newsView/blt202109090003</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘헬스케어’도 클라우드...오라클·AWS·네이버도 눈독 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202080188</link>
+            <guid>https://www.bloter.net/newsView/blt202202080188</guid>
+            <pubDate>Tue, 08 Feb 2022 08:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-08 16:59:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080022.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[적자 낸 서울바이오시스, 악화한 ‘가동률·재고 회전’ 지표 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202080295</link>
+            <guid>https://www.bloter.net/newsView/blt202202080295</guid>
+            <pubDate>Tue, 08 Feb 2022 08:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-08 16:34:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘이제는 배터리 소재 업체’...LG화학 “버는 돈 다 투자에 쓸 것” (블로터 ─ 비즈니스)]]></title>
@@ -329,22 +338,6 @@ LG화학은 공격적인 사업 확장을 위해 앞으로 연간 4조원이 넘
             <pubDate>Tue, 08 Feb 2022 02:00:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-08 10:57:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 국세청, 얼굴인식 인증 도입 계획 철회..."개인정보 침해 우려" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080016</link>
-            <guid>https://www.bloter.net/newsView/blt202202080016</guid>
-            <pubDate>Tue, 08 Feb 2022 02:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-08 10:32:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, 'LED 사이니지' 영토 확장...가상 콘텐츠 제작사 손잡는다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080004</link>
-            <guid>https://www.bloter.net/newsView/blt202202080004</guid>
-            <pubDate>Tue, 08 Feb 2022 02:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-08 10:01:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -386,7 +379,7 @@ LG화학은 공격적인 사업 확장을 위해 앞으로 연간 4조원이 넘
             <title><![CDATA[코로나19 신속항원검사소, 네이버·카카오앱에서 찾는다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202090048</link>
             <guid>https://www.bloter.net/newsView/blt202202090048</guid>
-            <pubDate>Wed, 09 Feb 2022 02:07:36 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 02:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-09 11:01:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090006.620x344.0.png" length="0" type="image/png"/>
         </item>
@@ -394,7 +387,7 @@ LG화학은 공격적인 사업 확장을 위해 앞으로 연간 4조원이 넘
             <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202090039</link>
             <guid>https://www.bloter.net/newsView/blt202202090039</guid>
-            <pubDate>Wed, 09 Feb 2022 02:07:36 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 02:05:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>

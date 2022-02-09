@@ -4,37 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[아이폰을 결제 단말기처럼…애플, 비접촉 결제 기능 도입한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090008</link>
-            <guid>https://www.bloter.net/newsView/blt202202090008</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 08:06:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090001.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090039</link>
+            <guid>https://www.bloter.net/newsView/blt202202090039</guid>
+            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[비접촉 해외결제, 기약없는 애플페이 대신 현대카드로 한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210178</link>
-            <guid>https://www.bloter.net/newsView/blt202201210178</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[비대면 1년, '홈트' 등 LGU+집콕 콘텐츠 사용자 급증]]></title>
+            <link>https://www.bloter.net/newsView/blt202103240011</link>
+            <guid>https://www.bloter.net/newsView/blt202103240011</guid>
+            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[얼굴로 결제하는 '페이스 페이' 확산...'안면인식 결제'의 명암]]></title>
-            <link>https://www.bloter.net/newsView/blt202110190023</link>
-            <guid>https://www.bloter.net/newsView/blt202110190023</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[물건 들고 나가면 계산 끝…아마존 '자동결제', 식품매장 '홀푸드'로 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202109090003</link>
-            <guid>https://www.bloter.net/newsView/blt202109090003</guid>
-            <pubDate>Tue, 08 Feb 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오 계열사 야나두, 홈트레이닝 시장 진출]]></title>
+            <link>https://www.bloter.net/newsView/blt202009290010</link>
+            <guid>https://www.bloter.net/newsView/blt202009290010</guid>
+            <pubDate>Wed, 09 Feb 2022 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
