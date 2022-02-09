@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 22:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 23:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 규제당국, 워너-디스커버리 합병 승인…미디어 공룡 탄생한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100006</link>
+            <guid>https://www.bloter.net/newsView/blt202202100006</guid>
+            <pubDate>Wed, 09 Feb 2022 23:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[미국 규제당국이 대형 영화사 워너브라더스 등을 보유한 워너미디어와 케이블채널 디스커버리의 합병을 승인했다. 이로써 미국 동영상 스트리밍 서비스 시장의 경쟁이 더욱 가열될 전망이다.9일(현지시간) &lt;로이터&gt; 등 외신에 따르면 미국 최대 통신사 AT&amp;T의]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100004.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[클라우드 물적분할 앞둔 NHN...“3년간 주주환원 추진”]]></title>
             <link>https://www.bloter.net/newsView/blt202202090238</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Feb 2022 10:17:31 GMT</pubDate>
             <content:encoded><![CDATA[시각특수효과(VFX) 및 콘텐츠 기업 덱스터스튜디오(이하 덱스터)가 만화 '세인트 세이야'의 실사 영화를 통해 해외 시장을 공략한다.  4일 덱스터는 "영화 나이츠 오브 더 조디악(Knights of the Zodiac)의 VFX 콘텐츠 공급계약을 체결했다"고 밝혔다. 거래 상대방은 영화 제작]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도 스위치, 1억대 이상 팔렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040001</link>
-            <guid>https://www.bloter.net/newsView/blt202202040001</guid>
-            <pubDate>Mon, 07 Feb 2022 10:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[일본 닌텐도의 콘솔 게임기 닌텐도 스위치가 전 세계 판매량 1억대를 돌파했다.3일(현지시간) IT 전문매체 &lt;더버지&gt; 등 주요 외신은 닌텐도 스위치가 작년 말 기준 1억354만대를 판매했다고 전했다. 2017년 3월에 출시된 후 5년 안에 이룬 성과로 경쟁업체인 마이크]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
