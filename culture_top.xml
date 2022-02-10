@@ -4,9 +4,18 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 10:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 11:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]크래프톤, 주가 반등 총력전…'신작'부터 '자사주 매입'까지]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100420</link>
+            <guid>https://www.bloter.net/newsView/blt202202100420</guid>
+            <pubDate>Thu, 10 Feb 2022 11:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-10 20:14:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100038.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]웹툰 '아이쇼핑' 영상화…카카오 IP 라인업 확장]]></title>
             <link>https://www.bloter.net/newsView/blt202202100129</link>
@@ -14,7 +23,7 @@
             <pubDate>Thu, 10 Feb 2022 06:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-10 14:39:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100021.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100021.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임인사이드]'코인 유동화'에 가려진 '위메이드의 1년']]></title>
@@ -33,15 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-09 18:55:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090046.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]카카오게임즈, '오딘' 의존도 더 높아질까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090121</link>
-            <guid>https://www.bloter.net/newsView/blt202202090121</guid>
-            <pubDate>Wed, 09 Feb 2022 06:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-09 14:34:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090010.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
