@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 04:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 05:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[스페이스X, 지자기 폭풍에 스타링크 인터넷 위성 40개 분실]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100021</link>
-            <guid>https://www.bloter.net/newsView/blt202202100021</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-10 10:10:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100006.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[LG전자가 넓혀가는 블록체인·NFT 생태계]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100072</link>
+            <guid>https://www.bloter.net/newsView/blt202202100072</guid>
+            <pubDate>Thu, 10 Feb 2022 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-10 12:29:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100012.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스페이스X, ‘프리미엄’ 위성 인터넷 서비스 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202202030001</link>
-            <guid>https://www.bloter.net/newsView/blt202202030001</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자·LG전자는 왜 ‘NFT 경제’에 탑승할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201040138</link>
+            <guid>https://www.bloter.net/newsView/blt202201040138</guid>
+            <pubDate>Thu, 10 Feb 2022 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘우주쓰레기’ 스페이스X 로켓, 3월에 달과 충돌한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280015</link>
-            <guid>https://www.bloter.net/newsView/blt202201280015</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이제 알만큼 아는 NFT…효용성 입증할 차례]]></title>
+            <link>https://www.bloter.net/newsView/blt202112060056</link>
+            <guid>https://www.bloter.net/newsView/blt202112060056</guid>
+            <pubDate>Thu, 10 Feb 2022 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘소행성 충돌’ 스페이스X, 또 새 역사…우리나라는 언제쯤?]]></title>
-            <link>https://www.bloter.net/newsView/blt202111280001</link>
-            <guid>https://www.bloter.net/newsView/blt202111280001</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스페이스X 유인 우주선 '스타십', 22년 1월 첫 궤도비행 예정]]></title>
-            <link>https://www.bloter.net/newsView/blt202111190024</link>
-            <guid>https://www.bloter.net/newsView/blt202111190024</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:51 GMT</pubDate>
+            <title><![CDATA[①1년만에 35배 성장...디지털 팔방미인 'NFT']]></title>
+            <link>https://www.bloter.net/newsView/blt202110260069</link>
+            <guid>https://www.bloter.net/newsView/blt202110260069</guid>
+            <pubDate>Thu, 10 Feb 2022 05:14:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['나도 해볼까'...NFT 사고파는 법 5분만에 이해하기]]></title>
+            <link>https://www.bloter.net/newsView/blt202104030005</link>
+            <guid>https://www.bloter.net/newsView/blt202104030005</guid>
+            <pubDate>Thu, 10 Feb 2022 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
