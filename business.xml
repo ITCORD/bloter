@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, 지자기 폭풍에 스타링크 인터넷 위성 40개 분실]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100021</link>
+            <guid>https://www.bloter.net/newsView/blt202202100021</guid>
+            <pubDate>Thu, 10 Feb 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-10 10:10:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100006.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[블리자드 인수 승인 앞둔 MS, 앱스토어에 외부결제 허용]]></title>
             <link>https://www.bloter.net/newsView/blt202202100010</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 10 Feb 2022 00:54:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-09 17:05:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090021.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루스첨단소재, 2025년 전지박 매출 1조 '적신호'...목표매출 절반도 못채웠다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090153</link>
-            <guid>https://www.bloter.net/newsView/blt202202090153</guid>
-            <pubDate>Thu, 10 Feb 2022 00:54:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-09 16:41:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090018.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
