@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 21:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 22:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자가 넓혀가는 블록체인·NFT 생태계]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100072</link>
+            <guid>https://www.bloter.net/newsView/blt202202100072</guid>
+            <pubDate>Thu, 10 Feb 2022 22:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-10 12:29:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['주가 부진' 언급한 LS전선아시아, 배당 확대 택했다]]></title>
             <link>https://www.bloter.net/newsView/blt202202100068</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-09 20:33:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090049.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아모레퍼시픽, 아직은 갈 길 먼 해외사업 회복]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090319</link>
-            <guid>https://www.bloter.net/newsView/blt202202090319</guid>
-            <pubDate>Thu, 10 Feb 2022 01:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-09 17:35:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
