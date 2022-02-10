@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 03:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 04:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]'코인 유동화'에 가려진 '위메이드의 1년']]></title>
+            <link>https://www.bloter.net/newsView/blt202202100074</link>
+            <guid>https://www.bloter.net/newsView/blt202202100074</guid>
+            <pubDate>Thu, 10 Feb 2022 04:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100016.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 규제당국, 워너-디스커버리 합병 승인…미디어 공룡 탄생한다]]></title>
             <link>https://www.bloter.net/newsView/blt202202100006</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 03:17:27 GMT</pubDate>
             <content:encoded><![CDATA['메타버스'에 대한 대중들의 관심이 높아진 만큼, 개발사들의 마케팅도 점차 고도화되고 있다. 앱 이름이나 설명 키워드에 '메타버스'를 추가하는 사례가 꾸준히 증가하는 모습이다.3일(현지시간) 앱 분석업체 '센서타워' 따르면 구글 플레이스토어와 애플 앱스토어]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040005.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[덱스터, '세인트 세이야' 실사영화 VFX 공급…글로벌 진출 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040004</link>
-            <guid>https://www.bloter.net/newsView/blt202202040004</guid>
-            <pubDate>Mon, 07 Feb 2022 10:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[시각특수효과(VFX) 및 콘텐츠 기업 덱스터스튜디오(이하 덱스터)가 만화 '세인트 세이야'의 실사 영화를 통해 해외 시장을 공략한다.  4일 덱스터는 "영화 나이츠 오브 더 조디악(Knights of the Zodiac)의 VFX 콘텐츠 공급계약을 체결했다"고 밝혔다. 거래 상대방은 영화 제작]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
