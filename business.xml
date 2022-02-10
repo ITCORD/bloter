@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 00:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아모레퍼시픽, 아직은 갈 길 먼 해외사업 회복]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090319</link>
+            <guid>https://www.bloter.net/newsView/blt202202090319</guid>
+            <pubDate>Thu, 10 Feb 2022 01:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-09 17:35:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[등급 떨어진 삼성전자, 자체 친환경 평가 지표 ‘SEPI’ 내놓는다]]></title>
             <link>https://www.bloter.net/newsView/blt202202090281</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 09 Feb 2022 09:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-09 13:24:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080029.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미 홈트레이닝 업체 ‘펠로톤’, 경영난에 CEO 사퇴·2800명 해고]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090039</link>
-            <guid>https://www.bloter.net/newsView/blt202202090039</guid>
-            <pubDate>Wed, 09 Feb 2022 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-09 10:05:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090004.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
