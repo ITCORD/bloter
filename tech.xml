@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 23:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 01:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 로켓 스타트업 아스트라, 첫 상업용 발사 실패…NASA 위성 손실]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110012</link>
+            <guid>https://www.bloter.net/newsView/blt202202110012</guid>
+            <pubDate>Fri, 11 Feb 2022 01:01:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-11 09:31:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110002.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]크래프톤, 주가 반등 총력전…'신작'부터 '자사주 매입'까지]]></title>
             <link>https://www.bloter.net/newsView/blt202202100420</link>
             <guid>https://www.bloter.net/newsView/blt202202100420</guid>
             <pubDate>Thu, 10 Feb 2022 11:15:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-10 20:14:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100038.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티, 'LG·볼로콥터·오로라' 한자리에 불러 모은 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 09 Feb 2022 15:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-10 00:00:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090057.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갤럭시언팩.22]②노트북보다 크다! 생산성 끝판왕 노리는 '갤럭시탭S8 울트라']]></title>
-            <link>https://www.bloter.net/newsView/blt202202090365</link>
-            <guid>https://www.bloter.net/newsView/blt202202090365</guid>
-            <pubDate>Wed, 09 Feb 2022 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-10 00:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090052.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
