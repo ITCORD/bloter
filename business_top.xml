@@ -4,23 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 05:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 06:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LS그룹 초석 닦은 구자홍 초대 (주)LS 회장 별세]]></title>
-            <link>https://www.bloter.net/newsView/blt202202110030</link>
-            <guid>https://www.bloter.net/newsView/blt202202110030</guid>
-            <pubDate>Fri, 11 Feb 2022 05:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-11 12:26:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110004.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[유튜브, '라이브 쇼핑' 출시한다...네이버·카카오와 경쟁하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110038</link>
+            <guid>https://www.bloter.net/newsView/blt202202110038</guid>
+            <pubDate>Fri, 11 Feb 2022 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-11 14:14:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110005.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LS그룹 ‘9년’만에 구자열→구자은 ‘바통 터치’...9社 CEO도 신규 선임]]></title>
-            <link>https://www.bloter.net/newsView/blt202111260048</link>
-            <guid>https://www.bloter.net/newsView/blt202111260048</guid>
-            <pubDate>Fri, 11 Feb 2022 05:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오, 라이브커머스 '그립'에 투자한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202112020010</link>
+            <guid>https://www.bloter.net/newsView/blt202112020010</guid>
+            <pubDate>Fri, 11 Feb 2022 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[숏폼 넘어 ‘비즈니스 플랫폼’ 넘보는 틱톡]]></title>
+            <link>https://www.bloter.net/newsView/blt202109090060</link>
+            <guid>https://www.bloter.net/newsView/blt202109090060</guid>
+            <pubDate>Fri, 11 Feb 2022 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[네이버, '예능형 라이브커머스 콘텐츠' 드라이브 건다]]></title>
+            <link>https://www.bloter.net/newsView/blt202012270006</link>
+            <guid>https://www.bloter.net/newsView/blt202012270006</guid>
+            <pubDate>Fri, 11 Feb 2022 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
