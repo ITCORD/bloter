@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 01:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:05:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 'LG·볼로콥터·오로라' 한자리에 불러 모은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100416</link>
+            <guid>https://www.bloter.net/newsView/blt202202100416</guid>
+            <pubDate>Fri, 11 Feb 2022 02:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-10 18:55:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M&A 나선다는 SKT, 곳간 고민은 없나요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100332</link>
+            <guid>https://www.bloter.net/newsView/blt202202100332</guid>
+            <pubDate>Fri, 11 Feb 2022 02:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-10 17:38:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100028.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ∙한화, 같은 듯 다른 공정위 리스크 해소법]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100173</link>
+            <guid>https://www.bloter.net/newsView/blt202202100173</guid>
+            <pubDate>Fri, 11 Feb 2022 02:03:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-10 16:55:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자가 넓혀가는 블록체인·NFT 생태계]]></title>
             <link>https://www.bloter.net/newsView/blt202202100072</link>
@@ -30,30 +54,6 @@
             <pubDate>Thu, 10 Feb 2022 09:15:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-10 10:10:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100006.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블리자드 인수 승인 앞둔 MS, 앱스토어에 외부결제 허용]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100010</link>
-            <guid>https://www.bloter.net/newsView/blt202202100010</guid>
-            <pubDate>Thu, 10 Feb 2022 08:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-10 09:30:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미 규제당국, 워너-디스커버리 합병 승인…미디어 공룡 탄생한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100006</link>
-            <guid>https://www.bloter.net/newsView/blt202202100006</guid>
-            <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-10 08:10:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 금융에 '노란불'…의문 커지는 카뱅·카페 성장성]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090364</link>
-            <guid>https://www.bloter.net/newsView/blt202202090364</guid>
-            <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-09 20:33:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090049.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
