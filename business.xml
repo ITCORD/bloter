@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 로켓 스타트업 아스트라, 첫 상업용 발사 실패…NASA 위성 손실]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110012</link>
+            <guid>https://www.bloter.net/newsView/blt202202110012</guid>
+            <pubDate>Fri, 11 Feb 2022 08:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-11 09:31:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110002.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘조직적 인종 차별’ 테슬라, 美 캘리포니아주 정부에 피소]]></title>
             <link>https://www.bloter.net/newsView/blt202202110006</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 11 Feb 2022 02:03:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-10 16:55:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자가 넓혀가는 블록체인·NFT 생태계]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100072</link>
-            <guid>https://www.bloter.net/newsView/blt202202100072</guid>
-            <pubDate>Thu, 10 Feb 2022 22:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-10 12:29:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

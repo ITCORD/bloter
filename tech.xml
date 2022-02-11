@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]컴투스 코인 'C2X' 3월 상장…최대 거래소 '바이낸스'로 향할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110213</link>
+            <guid>https://www.bloter.net/newsView/blt202202110213</guid>
+            <pubDate>Fri, 11 Feb 2022 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-11 16:38:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 동남아 스마트폰 시장 1위 탈환...'A 시리즈' 흥행]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110088</link>
+            <guid>https://www.bloter.net/newsView/blt202202110088</guid>
+            <pubDate>Fri, 11 Feb 2022 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-11 16:21:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GC녹십자 美자회사 큐레보, 대상포진 백신 개발 700억원 ‘실탄 장전’]]></title>
             <link>https://www.bloter.net/newsView/blt202202110071</link>
             <guid>https://www.bloter.net/newsView/blt202202110071</guid>
             <pubDate>Fri, 11 Feb 2022 06:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-11 14:51:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WD·키옥시아 낸드공장 가동중단..SK하이닉스·삼성전자 반사이익?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 10 Feb 2022 04:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">황금빛</span>                        <span class="date">2022-02-10 12:46:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100010.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자가 넓혀가는 블록체인·NFT 생태계]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100072</link>
-            <guid>https://www.bloter.net/newsView/blt202202100072</guid>
-            <pubDate>Thu, 10 Feb 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-10 12:29:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['주가 부진' 언급한 LS전선아시아, 배당 확대 택했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100068</link>
-            <guid>https://www.bloter.net/newsView/blt202202100068</guid>
-            <pubDate>Thu, 10 Feb 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-10 12:25:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100009.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 09 Feb 2022 23:17:52 GMT</pubDate>
             <content:encoded><![CDATA[미국 규제당국이 대형 영화사 워너브라더스 등을 보유한 워너미디어와 케이블채널 디스커버리의 합병을 승인했다. 이로써 미국 동영상 스트리밍 서비스 시장의 경쟁이 더욱 가열될 전망이다.9일(현지시간) &lt;로이터&gt; 등 외신에 따르면 미국 최대 통신사 AT&amp;T의]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100004.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]라인게임즈가 판 슈퍼캣 지분, 넥슨이 샀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202090359</link>
+            <guid>https://www.bloter.net/newsView/blt202202090359</guid>
+            <pubDate>Fri, 11 Feb 2022 08:18:12 GMT</pubDate>
+            <content:encoded><![CDATA['넥슨코리아'가 '슈퍼캣' 지분을 추가 확보하며 양사간 파트너십을 강화한다. '바람의 나라: 연'의 개발사와 퍼블리셔로 연을 맺은 양사는 넥슨코리아의 지분 확대를 통해 한층 공고한 협력 체계를 구축할 전망이다.  9일 '라인게임즈'는 '비유동자산 처분결정'을 통]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090046.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 물적분할 앞둔 NHN...“3년간 주주환원 추진”]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Feb 2022 10:17:38 GMT</pubDate>
             <content:encoded><![CDATA['인터넷 동영상 서비스'(OTT)의 경쟁력은 자체 콘텐츠인 '오리지널 시리즈'입니다. 에서는 특색 있는 작품을 분석하고 그 안에 '숨겨진 1인치'를 찾아봅니다. 내용 중 '스포일러'(강스포)가 있으니 원치 않는 분들은 주의하시기 바랍니다. &lt;편집자 주&gt; 넷플릭스 오]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040045.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕타임즈는 왜 웹 퍼즐게임을 사들였을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040152</link>
-            <guid>https://www.bloter.net/newsView/blt202202040152</guid>
-            <pubDate>Sat, 05 Feb 2022 02:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[여기 5가지 글자를 유추하고 6번의 기회 안에 맞춰야 하는 단어퍼즐 게임이 있다. 예를 들어 사용자가 'POWER'라는 임의의 단어를 입력하면 해당 알파벳이 맞는지 여부를 보여준다. 맞는 글자를 입력할 경우 퍼즐 배경에 녹색불이 들어오지만, 위치와 정해진 단어가 모]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/04/blt202202040024.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
