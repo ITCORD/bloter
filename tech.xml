@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 순익 800% 키워준 '카뱅·타파스·라이온하트']]></title>
+            <link>https://www.bloter.net/newsView/blt202202110264</link>
+            <guid>https://www.bloter.net/newsView/blt202202110264</guid>
+            <pubDate>Fri, 11 Feb 2022 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-11 17:22:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]컴투스 코인 'C2X' 3월 상장…최대 거래소 '바이낸스'로 향할까]]></title>
             <link>https://www.bloter.net/newsView/blt202202110213</link>
             <guid>https://www.bloter.net/newsView/blt202202110213</guid>
             <pubDate>Fri, 11 Feb 2022 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-11 16:38:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 동남아 스마트폰 시장 1위 탈환...'A 시리즈' 흥행]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 10 Feb 2022 04:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-10 12:49:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남궁훈이 친 '배수의 진'…카카오 주가 15만원의 의미는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100067</link>
-            <guid>https://www.bloter.net/newsView/blt202202100067</guid>
-            <pubDate>Thu, 10 Feb 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">황금빛</span>                        <span class="date">2022-02-10 12:46:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100010.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
