@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 05:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 06:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LS그룹 초석 닦은 구자홍 초대 (주)LS 회장 별세]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110030</link>
+            <guid>https://www.bloter.net/newsView/blt202202110030</guid>
+            <pubDate>Sat, 12 Feb 2022 06:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-11 12:26:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AMD, 자일링스 인수 곧 마무리...미국·유럽 이어 중국도 "OK"]]></title>
             <link>https://www.bloter.net/newsView/blt202202110017</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 11 Feb 2022 02:03:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-10 18:55:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100032.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M&A 나선다는 SKT, 곳간 고민은 없나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100332</link>
-            <guid>https://www.bloter.net/newsView/blt202202100332</guid>
-            <pubDate>Fri, 11 Feb 2022 02:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-10 17:38:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100028.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
