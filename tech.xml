@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 03:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 04:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[블로터언팩]갤럭시S22 울트라=Note is Back! 쓰·그·찍 이젠 "올인원"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110329</link>
+            <guid>https://www.bloter.net/newsView/blt202202110329</guid>
+            <pubDate>Sat, 12 Feb 2022 04:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-12 12:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110060.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[함께 쓰는 풀리퀘]“뭐 먹을래? 난 간짜장 곱빼기” AI로 번역해보니]]></title>
             <link>https://www.bloter.net/newsView/blt202202110229</link>
             <guid>https://www.bloter.net/newsView/blt202202110229</guid>
             <pubDate>Sat, 12 Feb 2022 02:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-12 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110057.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110057.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오 순익 800% 키워준 '카뱅·타파스·라이온하트']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 10 Feb 2022 05:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-10 14:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존과 글로벌 'AI·클라우드' 노리는 KT…기가지니로 "알렉사" 부른다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100075</link>
-            <guid>https://www.bloter.net/newsView/blt202202100075</guid>
-            <pubDate>Thu, 10 Feb 2022 04:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-10 12:54:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
