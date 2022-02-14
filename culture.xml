@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 09:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 10:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'쿠키런: 킹덤' 덕본 데브시스터즈, 지속성장 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140307</link>
+            <guid>https://www.bloter.net/newsView/blt202202140307</guid>
+            <pubDate>Mon, 14 Feb 2022 10:19:06 GMT</pubDate>
+            <content:encoded><![CDATA['쿠키런' IP를 보유한 데브시스터즈가 지난해 흑자전환에 성공하며 길고 길었던 부진의 늪을 벗어났다. 지난해 1월 출시한 모바일 RPG '쿠키런: 킹덤'이 대규모 흥행에 성공하며 반등을 이뤘는데, 분기별로 보면 1분기와 4분기에서 그 성장세가 도드라졌다. 주춤했던]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140029.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이지리아 시민단체 "규제당국, 트위터 금지 해제 합의문 공개하라"]]></title>
             <link>https://www.bloter.net/newsView/blt202202140003</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 09 Feb 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070034.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 자회사 합친 NHN “올해 ‘돈버는게임’ 전문제작사로”]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070165</link>
-            <guid>https://www.bloter.net/newsView/blt202202070165</guid>
-            <pubDate>Mon, 07 Feb 2022 07:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[“P&amp;E(Play&amp;Earn·즐기면서 번다) 스타 플레이어로 거듭나겠다.” NHN이 게임 자회사를 통합하고, 올해 게임사업을 확대한다. 이른바 ‘돈 버는 게임’으로 불리는 P&amp;E 시장에도 본격적으로 진출한다. 7일 NHN 자회사인 NHN빅풋은 2월1일자로 NHN픽셀]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/07/blt202202070021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
