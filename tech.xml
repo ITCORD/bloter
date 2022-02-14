@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오가 지목한 오류 원인...‘BGP교란행위’ 무엇?]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140230</link>
+            <guid>https://www.bloter.net/newsView/blt202202140230</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-14 18:04:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140017.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[진단키트 ‘수출 통제’…“대란 준비 없던 정부 탓에 기업만 피해”]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140273</link>
+            <guid>https://www.bloter.net/newsView/blt202202140273</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-14 17:53:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DB하이텍, 최대 실적에도 ‘배당성향’ 낮췄다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140266</link>
+            <guid>https://www.bloter.net/newsView/blt202202140266</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-14 17:40:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140018.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]삼성 모바일, '노트'없어도 좋았지만…여전히 아픈 손가락 '통신 장비']]></title>
             <link>https://www.bloter.net/newsView/blt202202140097</link>
             <guid>https://www.bloter.net/newsView/blt202202140097</guid>
             <pubDate>Mon, 14 Feb 2022 07:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-14 16:09:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리집 주방 ‘전성비’ 책임지는 'LG 디오스(DIOS) 전기레인지']]></title>
@@ -126,30 +150,6 @@
             <pubDate>Sun, 13 Feb 2022 02:04:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-13 10:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110041.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풀필먼트 스타트업 '두핸즈'가 '착한 개발자'를 찾는 이유[테크체인저]]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100001</link>
-            <guid>https://www.bloter.net/newsView/blt202202100001</guid>
-            <pubDate>Sat, 12 Feb 2022 07:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-12 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 플랫폼 인수에도 '카카오웹툰 거래액' 줄어든 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202202110328</link>
-            <guid>https://www.bloter.net/newsView/blt202202110328</guid>
-            <pubDate>Sat, 12 Feb 2022 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-12 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110059.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[블로터언팩]갤럭시S22 울트라=Note is Back! 쓰·그·찍 이젠 "올인원"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202110329</link>
-            <guid>https://www.bloter.net/newsView/blt202202110329</guid>
-            <pubDate>Sat, 12 Feb 2022 04:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-12 12:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110060.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
