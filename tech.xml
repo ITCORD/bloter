@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 01:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 02:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달과 충돌하는 '우주쓰레기', 스페이스X 아닌 중국 로켓]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140027</link>
+            <guid>https://www.bloter.net/newsView/blt202202140027</guid>
+            <pubDate>Mon, 14 Feb 2022 02:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 11:17:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이지리아 시민단체 "규제당국, 트위터 금지 해제 합의문 공개하라"]]></title>
             <link>https://www.bloter.net/newsView/blt202202140003</link>
             <guid>https://www.bloter.net/newsView/blt202202140003</guid>
             <pubDate>Mon, 14 Feb 2022 00:53:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 09:51:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]코로나19 ‘엔데믹’ 전환 신호…‘백신 올인’ SK바사, 다음은 있을까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 11 Feb 2022 06:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-11 14:51:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WD·키옥시아 낸드공장 가동중단..SK하이닉스·삼성전자 반사이익?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202110062</link>
-            <guid>https://www.bloter.net/newsView/blt202202110062</guid>
-            <pubDate>Fri, 11 Feb 2022 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-11 14:33:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
