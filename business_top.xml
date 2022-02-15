@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 01:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[암호화폐 대출 업체 ‘블록파이’, 미 증권당국에 1억달러 벌금 지급 합의]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150008</link>
-            <guid>https://www.bloter.net/newsView/blt202202150008</guid>
-            <pubDate>Tue, 15 Feb 2022 01:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-15 09:42:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150002.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[“주민 생체정보 무단수집했다”...메타, 美 텍사스주에 소송 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150015</link>
+            <guid>https://www.bloter.net/newsView/blt202202150015</guid>
+            <pubDate>Tue, 15 Feb 2022 02:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-15 10:34:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150007.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[구글클라우드, 암호화폐 채굴 위협도 탐지한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140147</link>
-            <guid>https://www.bloter.net/newsView/blt202202140147</guid>
-            <pubDate>Tue, 15 Feb 2022 01:01:35 GMT</pubDate>
+            <title><![CDATA[페이스북, '얼굴 인식 시스템' 없앤다...왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202111030002</link>
+            <guid>https://www.bloter.net/newsView/blt202111030002</guid>
+            <pubDate>Tue, 15 Feb 2022 02:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[얼굴로 결제하는 '페이스 페이' 확산...'안면인식 결제'의 명암]]></title>
+            <link>https://www.bloter.net/newsView/blt202110190023</link>
+            <guid>https://www.bloter.net/newsView/blt202110190023</guid>
+            <pubDate>Tue, 15 Feb 2022 02:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["'위구르족' 얼굴 인식해 경찰에 전송"...화웨이, 감시 카메라 실험했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202012090013</link>
+            <guid>https://www.bloter.net/newsView/blt202012090013</guid>
+            <pubDate>Tue, 15 Feb 2022 02:13:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미 규제당국, 블록체인 기반 증권거래소 최초 승인]]></title>
-            <link>https://www.bloter.net/newsView/blt202201310001</link>
-            <guid>https://www.bloter.net/newsView/blt202201310001</guid>
-            <pubDate>Tue, 15 Feb 2022 01:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[케이뱅크, 비이자이익 대폭 개선…'암호화폐' 효과 톡톡]]></title>
-            <link>https://www.bloter.net/newsView/blt202106010015</link>
-            <guid>https://www.bloter.net/newsView/blt202106010015</guid>
-            <pubDate>Tue, 15 Feb 2022 01:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박유진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1분기 전세계 암호화폐 시장에 45억달러 유입]]></title>
-            <link>https://www.bloter.net/newsView/blt202104070004</link>
-            <guid>https://www.bloter.net/newsView/blt202104070004</guid>
-            <pubDate>Tue, 15 Feb 2022 01:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
