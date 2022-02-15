@@ -4,9 +4,26 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]엔씨표 메타버스는 '미니버스'?…신사업 추진 가속화되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150021</link>
+            <guid>https://www.bloter.net/newsView/blt202202150021</guid>
+            <pubDate>Tue, 15 Feb 2022 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150012.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]'쿠키런: 킹덤' 덕본 데브시스터즈, 지속성장 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140307</link>
+            <guid>https://www.bloter.net/newsView/blt202202140307</guid>
+            <pubDate>Tue, 15 Feb 2022 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-14 18:38:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140029.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]컴투스 코인 'C2X' 3월 상장…최대 거래소 '바이낸스'로 향할까]]></title>
             <link>https://www.bloter.net/newsView/blt202202110213</link>
@@ -14,7 +31,7 @@
             <pubDate>Fri, 11 Feb 2022 08:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-11 16:38:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110019.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110019.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]크래프톤, 주가 반등 총력전…'신작'부터 '자사주 매입'까지]]></title>
@@ -24,24 +41,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-10 20:14:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100038.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]웹툰 '아이쇼핑' 영상화…카카오 IP 라인업 확장]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100129</link>
-            <guid>https://www.bloter.net/newsView/blt202202100129</guid>
-            <pubDate>Thu, 10 Feb 2022 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-10 14:39:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100021.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'코인 유동화'에 가려진 '위메이드의 1년']]></title>
-            <link>https://www.bloter.net/newsView/blt202202100074</link>
-            <guid>https://www.bloter.net/newsView/blt202202100074</guid>
-            <pubDate>Thu, 10 Feb 2022 06:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-10 12:49:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100016.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
