@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 06:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 13 Feb 2022 03:19:16 GMT</pubDate>
             <content:encoded><![CDATA[예상보다 길어지고 있는 코로나19로 인해 '오늘 뭐 하지?' 대신 '오늘 뭐 보지'를 고민하는 것이 새로운 일상이 됐다. 한국을 넘어 세계가 열광하는 콘텐츠 트렌드를 따라가거나, 좋아하는 작가나 배우의 포트폴리오를 도장깨기 하듯 매일 한 편씩 볼 수 있는 콘텐츠]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/13/blt202202130001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]크래프톤, 주가 반등 총력전…'신작'부터 '자사주 매입'까지]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100420</link>
+            <guid>https://www.bloter.net/newsView/blt202202100420</guid>
+            <pubDate>Tue, 15 Feb 2022 06:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[크래프톤이 공모가 대비 부진한 주가를 반등시키기 위해 총력전에 나선다. 기대만큼 성적을 내지 못한 신작 '배틀그라운드: 뉴스테이트'(이하 뉴스테이트)를 리뉴얼하고 대형 신작 2종을 연내 출시해 성장동력을 마련하는 한편 장병규 크래프톤 의장이 자사주를 매]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100038.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]웹툰 '아이쇼핑' 영상화…카카오 IP 라인업 확장]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 10 Feb 2022 06:19:23 GMT</pubDate>
             <content:encoded><![CDATA["메타버스, 블록체인, 암호화폐 경제가 등장한 데 이어 모든 비즈니스의 영역이 디지털화 되고 있습니다. 대체 불가능한 토큰(NFT)의 등장으로 창작 커뮤니티도 다른 모습으로 변화했고 디파이라는 금융 혁신이 일어나고 있습니다. 변화와 혁신을 이끌어갈 보라 2.0을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘텐츠미디어그룹 표방한 NEW, NFT 사업 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080049</link>
-            <guid>https://www.bloter.net/newsView/blt202202080049</guid>
-            <pubDate>Wed, 09 Feb 2022 10:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠미디어그룹을 표방하는 영화사 '뉴'(NEW)가 계열사를 통해 '대체 불가능한 토큰'(NFT) 사업에 뛰어든다. 영화, 드라마, OTT 콘텐츠 등 다양한 IP를 보유한 만큼 글로벌 파트너사와 함께 메타버스와 NFT를 통한 신성장 동력 발굴에 주력하는 모습이다.8일 NEW는 "시각]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
