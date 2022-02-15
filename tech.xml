@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 06:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 07:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이글루시큐리티, 데이터·SIEM 특허 3건 취득...보안 효율 높인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150061</link>
+            <guid>https://www.bloter.net/newsView/blt202202150061</guid>
+            <pubDate>Tue, 15 Feb 2022 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-15 16:01:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[의사부터 기술·투자 전문가까지…신임 사외이사로 본 네이버의 경영전략]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150042</link>
+            <guid>https://www.bloter.net/newsView/blt202202150042</guid>
+            <pubDate>Tue, 15 Feb 2022 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-15 15:57:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150026.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원티드랩 "이력서·면접 코칭, 연봉협상까지 AI가 해줄 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150059</link>
+            <guid>https://www.bloter.net/newsView/blt202202150059</guid>
+            <pubDate>Tue, 15 Feb 2022 07:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-15 15:57:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150024.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'펄어비스'는 여전히 '검은사막'이 필요하다]]></title>
             <link>https://www.bloter.net/newsView/blt202202150052</link>
             <guid>https://www.bloter.net/newsView/blt202202150052</guid>
             <pubDate>Tue, 15 Feb 2022 06:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-15 15:13:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오·네이버 투자 유치한 '커널로그'…"IoT로 탄소 배출 줄인다"]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Mon, 14 Feb 2022 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-14 15:14:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[런드리고, 아워홈 자회사 ‘크린누리’ 인수…B2B 사업 확장한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140096</link>
-            <guid>https://www.bloter.net/newsView/blt202202140096</guid>
-            <pubDate>Mon, 14 Feb 2022 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-14 15:11:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달과 충돌하는 '우주쓰레기', 스페이스X 아닌 중국 로켓]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140027</link>
-            <guid>https://www.bloter.net/newsView/blt202202140027</guid>
-            <pubDate>Mon, 14 Feb 2022 02:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 11:17:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이지리아 시민단체 "규제당국, 트위터 금지 해제 합의문 공개하라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140003</link>
-            <guid>https://www.bloter.net/newsView/blt202202140003</guid>
-            <pubDate>Mon, 14 Feb 2022 00:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 09:51:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
