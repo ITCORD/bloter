@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 21:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 22:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코홀딩스의 본점 이전...포항시와 상충않는 '세가지 이유']]></title>
+            <link>https://www.bloter.net/newsView/blt202202150006</link>
+            <guid>https://www.bloter.net/newsView/blt202202150006</guid>
+            <pubDate>Tue, 15 Feb 2022 22:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-15 13:19:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“주민 생체정보 무단수집했다”...메타, 美 텍사스주에 소송 당해]]></title>
             <link>https://www.bloter.net/newsView/blt202202150015</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 15 Feb 2022 03:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-15 07:00:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DB하이텍, 최대 실적에도 ‘배당성향’ 낮췄다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140266</link>
-            <guid>https://www.bloter.net/newsView/blt202202140266</guid>
-            <pubDate>Tue, 15 Feb 2022 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-14 17:40:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140018.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
