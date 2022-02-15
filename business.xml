@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 03:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 04:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 사무실 다시 연다…빅테크 중 처음]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150004</link>
+            <guid>https://www.bloter.net/newsView/blt202202150004</guid>
+            <pubDate>Tue, 15 Feb 2022 04:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-15 08:35:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[①외형은 커졌는데…반으로 줄어든 시가총액]]></title>
             <link>https://www.bloter.net/newsView/blt202202140303</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 14 Feb 2022 22:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 11:17:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이지리아 시민단체 "규제당국, 트위터 금지 해제 합의문 공개하라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140003</link>
-            <guid>https://www.bloter.net/newsView/blt202202140003</guid>
-            <pubDate>Mon, 14 Feb 2022 09:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 09:51:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
