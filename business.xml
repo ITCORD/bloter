@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 01:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시S22 업은 삼성카드, 카드사 1위 오르나]]></title>
+            <link>https://www.bloter.net/newsView/blt202202140208</link>
+            <guid>https://www.bloter.net/newsView/blt202202140208</guid>
+            <pubDate>Tue, 15 Feb 2022 01:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-14 16:51:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140014.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 모바일, '노트'없어도 좋았지만…여전히 아픈 손가락 '통신 장비']]></title>
+            <link>https://www.bloter.net/newsView/blt202202140097</link>
+            <guid>https://www.bloter.net/newsView/blt202202140097</guid>
+            <pubDate>Tue, 15 Feb 2022 01:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-14 16:09:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달과 충돌하는 '우주쓰레기', 스페이스X 아닌 중국 로켓]]></title>
             <link>https://www.bloter.net/newsView/blt202202140027</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 14 Feb 2022 07:15:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-14 08:49:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['VR 마니아' 늘자 보험금 청구도 급증…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140002</link>
-            <guid>https://www.bloter.net/newsView/blt202202140002</guid>
-            <pubDate>Mon, 14 Feb 2022 02:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-14 08:33:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[6조원 매출 뒤로 하고 전진하는 카카오...총알 장전됐나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202110333</link>
-            <guid>https://www.bloter.net/newsView/blt202202110333</guid>
-            <pubDate>Mon, 14 Feb 2022 00:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-13 16:00:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/12/blt202202120002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
