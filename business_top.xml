@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 23:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 00:58:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[②'마트사업 정체'...정용진, 영끌투자로 살 길 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150123</link>
-            <guid>https://www.bloter.net/newsView/blt202202150123</guid>
-            <pubDate>Tue, 15 Feb 2022 22:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-16 07:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150031.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[인텔, 54억달러에 ‘타워 세미컨덕터’ 인수...파운드리 경쟁력 제고]]></title>
+            <link>https://www.bloter.net/newsView/blt202202160010</link>
+            <guid>https://www.bloter.net/newsView/blt202202160010</guid>
+            <pubDate>Wed, 16 Feb 2022 00:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-16 09:37:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160002.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[①외형은 커졌는데…반으로 줄어든 시가총액]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140303</link>
-            <guid>https://www.bloter.net/newsView/blt202202140303</guid>
-            <pubDate>Tue, 15 Feb 2022 22:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘4004 칩’ 50주년...인텔은 그때의 ‘왕관’을 되찾을 수 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202111160017</link>
+            <guid>https://www.bloter.net/newsView/blt202111160017</guid>
+            <pubDate>Wed, 16 Feb 2022 00:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[⑩신기루 혹은 신세계 ‘메타버스’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140086</link>
-            <guid>https://www.bloter.net/newsView/blt202201140086</guid>
-            <pubDate>Tue, 15 Feb 2022 22:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[인텔 CEO의 경고 "반도체 부족, 2023년까지 지속"]]></title>
+            <link>https://www.bloter.net/newsView/blt202110220002</link>
+            <guid>https://www.bloter.net/newsView/blt202110220002</guid>
+            <pubDate>Wed, 16 Feb 2022 00:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[신세계그룹 벤처캐피탈이 '번개장터'에 투자한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110004</link>
-            <guid>https://www.bloter.net/newsView/blt202201110004</guid>
-            <pubDate>Tue, 15 Feb 2022 22:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위메이드가 본 NFT "인내와 호기심 있다면 신세계 열린다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202112220031</link>
-            <guid>https://www.bloter.net/newsView/blt202112220031</guid>
-            <pubDate>Tue, 15 Feb 2022 22:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[글로벌파운드리, IPO 추진...인텔 '파운드리 강화' 계획 차질 빚나]]></title>
+            <link>https://www.bloter.net/newsView/blt202108190004</link>
+            <guid>https://www.bloter.net/newsView/blt202108190004</guid>
+            <pubDate>Wed, 16 Feb 2022 00:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
