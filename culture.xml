@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 08:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 09:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 13 Feb 2022 03:19:16 GMT</pubDate>
             <content:encoded><![CDATA[예상보다 길어지고 있는 코로나19로 인해 '오늘 뭐 하지?' 대신 '오늘 뭐 보지'를 고민하는 것이 새로운 일상이 됐다. 한국을 넘어 세계가 열광하는 콘텐츠 트렌드를 따라가거나, 좋아하는 작가나 배우의 포트폴리오를 도장깨기 하듯 매일 한 편씩 볼 수 있는 콘텐츠]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/13/blt202202130001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]컴투스 코인 'C2X' 3월 상장…최대 거래소 '바이낸스'로 향할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110213</link>
+            <guid>https://www.bloter.net/newsView/blt202202110213</guid>
+            <pubDate>Wed, 16 Feb 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA["다음달 말 서머너즈 워: 백년전쟁 출시 전에 해외 최상위권 거래소에 상장할 계획인데 목표한 대로 움직이고 있어 가능할 것 같다고 말씀드릴 수 있을 것 같습니다"11일 송재준 컴투스홀딩스(구 게임빌) 부사장 겸 컴투스 대표는 지난해 4분기 및 연간 실적발표 컨퍼]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/11/blt202202110019.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]크래프톤, 주가 반등 총력전…'신작'부터 '자사주 매입'까지]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 10 Feb 2022 06:19:23 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 플랫폼 '보라'(BORA)가 2.0 버전으로 리뉴얼 되면서 맞이하는 가장 큰 변화는 '거버넌스 카운슬'로 압축된다. 다양한 협력사들이 포진된 거버넌스 카운슬 체제는 다소 폐쇄적이었던 보라 생태계에 '확장성'을 부여하는 기폭제 역할을 가져다 줄 전망이다.변화]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080039.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보라 2.0, 블록 생태계 흔든다]①클레이튼 연동…게임·엔터 산업 재편 예고]]></title>
-            <link>https://www.bloter.net/newsView/blt202202080394</link>
-            <guid>https://www.bloter.net/newsView/blt202202080394</guid>
-            <pubDate>Thu, 10 Feb 2022 06:19:23 GMT</pubDate>
-            <content:encoded><![CDATA["메타버스, 블록체인, 암호화폐 경제가 등장한 데 이어 모든 비즈니스의 영역이 디지털화 되고 있습니다. 대체 불가능한 토큰(NFT)의 등장으로 창작 커뮤니티도 다른 모습으로 변화했고 디파이라는 금융 혁신이 일어나고 있습니다. 변화와 혁신을 이끌어갈 보라 2.0을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/08/blt202202080023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
