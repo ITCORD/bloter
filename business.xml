@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이, 팟캐스트 마케팅·광고 업체 ‘팟사이츠·차터블’ 인수]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170001</link>
+            <guid>https://www.bloter.net/newsView/blt202202170001</guid>
+            <pubDate>Thu, 17 Feb 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 08:20:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[③이마트 없어도 잘 살아... 정유경, ‘계열분리’ 준비 착착]]></title>
+            <link>https://www.bloter.net/newsView/blt202202160209</link>
+            <guid>https://www.bloter.net/newsView/blt202202160209</guid>
+            <pubDate>Thu, 17 Feb 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-17 08:05:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160026.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['재생에너지 제국' 꿈꾸는 현대중공업그룹...아람코 이어 美 GE와 '파트너십']]></title>
+            <link>https://www.bloter.net/newsView/blt202202160074</link>
+            <guid>https://www.bloter.net/newsView/blt202202160074</guid>
+            <pubDate>Thu, 17 Feb 2022 01:53:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-16 17:39:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 노사 갈등, 새로운 키워드 ‘노조 패스’]]></title>
             <link>https://www.bloter.net/newsView/blt202202160042</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 16 Feb 2022 23:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-16 10:31:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 54억달러에 ‘타워 세미컨덕터’ 인수...파운드리 경쟁력 제고]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160010</link>
-            <guid>https://www.bloter.net/newsView/blt202202160010</guid>
-            <pubDate>Wed, 16 Feb 2022 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-16 09:37:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버진갤럭틱, 4분짜리 우주관광 티켓 판매...좌석당 5억4000만원]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160003</link>
-            <guid>https://www.bloter.net/newsView/blt202202160003</guid>
-            <pubDate>Wed, 16 Feb 2022 05:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-16 08:29:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[②'마트사업 정체'...정용진, 영끌투자로 살 길 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150123</link>
-            <guid>https://www.bloter.net/newsView/blt202202150123</guid>
-            <pubDate>Wed, 16 Feb 2022 02:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-16 07:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150031.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
