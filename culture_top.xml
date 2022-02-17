@@ -4,16 +4,35 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블F&C, 탈중앙화 지갑 서비스 '코인어스' 품는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170027</link>
+            <guid>https://www.bloter.net/newsView/blt202202170027</guid>
+            <pubDate>Thu, 17 Feb 2022 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-17 13:48:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170020.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소셜카지노 게임사 '더블유게임즈', P2E 진출 선언한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170019</link>
+            <guid>https://www.bloter.net/newsView/blt202202170019</guid>
+            <pubDate>Thu, 17 Feb 2022 05:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-17 12:23:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170010.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]"아이텀큐브 토큰스왑, 다음달 끝"…넷마블F&C표 블록 게임 본궤도]]></title>
             <link>https://www.bloter.net/newsView/blt202202160183</link>
             <guid>https://www.bloter.net/newsView/blt202202160183</guid>
             <pubDate>Wed, 16 Feb 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160017.601x301.0.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-16 17:54:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160017.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'펄어비스'는 여전히 '검은사막'이 필요하다]]></title>
@@ -23,24 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-15 15:13:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150021.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]엔씨표 메타버스는 '미니버스'?…신사업 추진 가속화되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150021</link>
-            <guid>https://www.bloter.net/newsView/blt202202150021</guid>
-            <pubDate>Tue, 15 Feb 2022 03:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-15 10:47:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150012.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'쿠키런: 킹덤' 덕본 데브시스터즈, 지속성장 가능할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140307</link>
-            <guid>https://www.bloter.net/newsView/blt202202140307</guid>
-            <pubDate>Tue, 15 Feb 2022 03:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-14 18:38:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/14/blt202202140029.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

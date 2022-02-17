@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블F&C, 탈중앙화 지갑 서비스 '코인어스' 품는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170027</link>
+            <guid>https://www.bloter.net/newsView/blt202202170027</guid>
+            <pubDate>Thu, 17 Feb 2022 05:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-17 13:48:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앱에서 보는 1000여개 희귀질환 정보…휴먼스케이프가 모으는 '환자 데이터'의 힘]]></title>
             <link>https://www.bloter.net/newsView/blt202202170016</link>
             <guid>https://www.bloter.net/newsView/blt202202170016</guid>
             <pubDate>Thu, 17 Feb 2022 04:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-17 12:46:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소셜카지노 게임사 '더블유게임즈', P2E 진출 선언한 이유는]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 15 Feb 2022 14:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-15 23:14:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150043.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 메가존클라우드에 1300억 투자...왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150173</link>
-            <guid>https://www.bloter.net/newsView/blt202202150173</guid>
-            <pubDate>Tue, 15 Feb 2022 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-15 18:51:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
