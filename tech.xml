@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 03:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앱에서 보는 1000여개 희귀질환 정보…휴먼스케이프가 모으는 '환자 데이터'의 힘]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170016</link>
+            <guid>https://www.bloter.net/newsView/blt202202170016</guid>
+            <pubDate>Thu, 17 Feb 2022 04:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-17 12:46:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소셜카지노 게임사 '더블유게임즈', P2E 진출 선언한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170019</link>
+            <guid>https://www.bloter.net/newsView/blt202202170019</guid>
+            <pubDate>Thu, 17 Feb 2022 04:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-17 12:23:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 비스포크, 50개국으로 판매 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202202170017</link>
             <guid>https://www.bloter.net/newsView/blt202202170017</guid>
             <pubDate>Thu, 17 Feb 2022 03:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-17 11:59:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타버스 속 괴롭힘 막아라…MS, 아바타 대화공간 제거]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 15 Feb 2022 10:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-15 18:51:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT에 메타버스까지...갤럭시S22 예판에 '진심'인 SKT, 왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150149</link>
-            <guid>https://www.bloter.net/newsView/blt202202150149</guid>
-            <pubDate>Tue, 15 Feb 2022 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-15 17:58:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150032.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['쪼개기 상장' 아니다…KT가 클라우드 분리에 현물출자 선택한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150146</link>
-            <guid>https://www.bloter.net/newsView/blt202202150146</guid>
-            <pubDate>Tue, 15 Feb 2022 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-15 17:54:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
