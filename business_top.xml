@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 23:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 00:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[③이마트 없어도 잘 살아... 정유경, ‘계열분리’ 준비 착착]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160209</link>
-            <guid>https://www.bloter.net/newsView/blt202202160209</guid>
-            <pubDate>Wed, 16 Feb 2022 23:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-17 08:05:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160026.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[트위터 이용자, 이더리움으로 창작자 후원한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170002</link>
+            <guid>https://www.bloter.net/newsView/blt202202170002</guid>
+            <pubDate>Thu, 17 Feb 2022 00:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 09:20:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170002.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[②'마트사업 정체'...정용진, 영끌투자로 살 길 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150123</link>
-            <guid>https://www.bloter.net/newsView/blt202202150123</guid>
-            <pubDate>Wed, 16 Feb 2022 23:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[잭 도시, 트위터 CEO 사퇴…비트코인 사업 집중하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202111300001</link>
+            <guid>https://www.bloter.net/newsView/blt202111300001</guid>
+            <pubDate>Thu, 17 Feb 2022 00:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[①외형은 커졌는데…반으로 줄어든 시가총액]]></title>
-            <link>https://www.bloter.net/newsView/blt202202140303</link>
-            <guid>https://www.bloter.net/newsView/blt202202140303</guid>
-            <pubDate>Wed, 16 Feb 2022 23:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[⑩신기루 혹은 신세계 ‘메타버스’]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140086</link>
-            <guid>https://www.bloter.net/newsView/blt202201140086</guid>
-            <pubDate>Wed, 16 Feb 2022 23:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신세계그룹 벤처캐피탈이 '번개장터'에 투자한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202201110004</link>
-            <guid>https://www.bloter.net/newsView/blt202201110004</guid>
-            <pubDate>Wed, 16 Feb 2022 23:15:43 GMT</pubDate>
+            <title><![CDATA[트위터 이용자, '비트코인'으로 크리에이터 후원한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202109240005</link>
+            <guid>https://www.bloter.net/newsView/blt202109240005</guid>
+            <pubDate>Thu, 17 Feb 2022 00:49:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘트윗’ 보내고 돈 번다...트위터,  유료구독 ‘슈퍼 팔로우’ 선봬]]></title>
+            <link>https://www.bloter.net/newsView/blt202109020108</link>
+            <guid>https://www.bloter.net/newsView/blt202109020108</guid>
+            <pubDate>Thu, 17 Feb 2022 00:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
