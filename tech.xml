@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 비스포크, 50개국으로 판매 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170017</link>
+            <guid>https://www.bloter.net/newsView/blt202202170017</guid>
+            <pubDate>Thu, 17 Feb 2022 03:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-17 11:59:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스 속 괴롭힘 막아라…MS, 아바타 대화공간 제거]]></title>
             <link>https://www.bloter.net/newsView/blt202202170006</link>
             <guid>https://www.bloter.net/newsView/blt202202170006</guid>
             <pubDate>Thu, 17 Feb 2022 01:54:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 10:47:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]4조6000억원 현금 쌓아둔 삼성SDS…M&A 행선지에 쏠리는 눈]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 15 Feb 2022 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-15 17:54:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루시큐리티, 데이터·SIEM 특허 3건 취득...보안 효율 높인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150061</link>
-            <guid>https://www.bloter.net/newsView/blt202202150061</guid>
-            <pubDate>Tue, 15 Feb 2022 07:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-15 16:01:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/15/blt202202150025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
