@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엔씨, 변화를 말하다]①글로벌 노리는 TL, 예정대로 '쓰론 앤 리버티' 단다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180074</link>
+            <guid>https://www.bloter.net/newsView/blt202202180074</guid>
+            <pubDate>Fri, 18 Feb 2022 08:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[·"Throne and Liberty 상표권과 관련해 현재 개발 중인 미공개 프로젝트의 세부 정보에 대해서는 확인해줄 수 없다"(2021.10.20)·"외부에서는 TL이라 '더 리니지'(The Lineage) 아니냐고 하는데, '쓰론 앤 리버티'(Throne and Liberty)로 타이틀을 정했다"(2022.02.15)최근 엔씨소]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박찬욱 감독, 두 번째 아이폰 영화 공개..."트릭은 필요 없었다"]]></title>
             <link>https://www.bloter.net/newsView/blt202202180057</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 09 Feb 2022 23:17:52 GMT</pubDate>
             <content:encoded><![CDATA[미국 규제당국이 대형 영화사 워너브라더스 등을 보유한 워너미디어와 케이블채널 디스커버리의 합병을 승인했다. 이로써 미국 동영상 스트리밍 서비스 시장의 경쟁이 더욱 가열될 전망이다.9일(현지시간) &lt;로이터&gt; 등 외신에 따르면 미국 최대 통신사 AT&amp;T의]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]라인게임즈가 판 슈퍼캣 지분, 넥슨이 샀다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090359</link>
-            <guid>https://www.bloter.net/newsView/blt202202090359</guid>
-            <pubDate>Fri, 11 Feb 2022 08:18:12 GMT</pubDate>
-            <content:encoded><![CDATA['넥슨코리아'가 '슈퍼캣' 지분을 추가 확보하며 양사간 파트너십을 강화한다. '바람의 나라: 연'의 개발사와 퍼블리셔로 연을 맺은 양사는 넥슨코리아의 지분 확대를 통해 한층 공고한 협력 체계를 구축할 전망이다.  9일 '라인게임즈'는 '비유동자산 처분결정'을 통]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090046.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
