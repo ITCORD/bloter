@@ -4,16 +4,56 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 '아직 돈 안되는' 유료 콘텐츠 미는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180028</link>
+            <guid>https://www.bloter.net/newsView/blt202202180028</guid>
+            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-18 12:02:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180012.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[클라우드+]‘유니콘’ 등극한 메가존클라우드]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170112</link>
+            <guid>https://www.bloter.net/newsView/blt202202170112</guid>
+            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-18 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170028.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AMD '자일링스' 손잡은 카카오엔터프라이즈…"클라우드 비용 2배 절감"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180011</link>
+            <guid>https://www.bloter.net/newsView/blt202202180011</guid>
+            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-18 10:58:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브, ‘가짜뉴스’ 차단 대책 마련한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180007</link>
+            <guid>https://www.bloter.net/newsView/blt202202180007</guid>
+            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-18 10:07:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180005.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[글링크미디어, '상위 3%' 구글 프리미어 파트너 됐다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180002</link>
+            <guid>https://www.bloter.net/newsView/blt202202180002</guid>
+            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-18 09:09:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온, 코로나19 치료제 연간 매출 1500억원…‘국내 원가 공급’에도 쾌거]]></title>
             <link>https://www.bloter.net/newsView/blt202202170143</link>
             <guid>https://www.bloter.net/newsView/blt202202170143</guid>
             <pubDate>Thu, 17 Feb 2022 10:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-17 18:29:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['빈손'으로 끝난 장관·CEO 만남…SKT·KT·LGU+ '5G 주파수 경매' 물 건너가나]]></title>
@@ -110,46 +150,6 @@
             <pubDate>Wed, 16 Feb 2022 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-16 17:54:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“SASE 잡아라” 중소기업 공략하는 시스코]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160050</link>
-            <guid>https://www.bloter.net/newsView/blt202202160050</guid>
-            <pubDate>Wed, 16 Feb 2022 07:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-16 16:06:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160010.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 노사 갈등, 새로운 키워드 ‘노조 패스’]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160042</link>
-            <guid>https://www.bloter.net/newsView/blt202202160042</guid>
-            <pubDate>Wed, 16 Feb 2022 06:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-16 13:49:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10배 빠른 '28GHz 와이파이' 연말 지하철서 첫선…이통사 구분 없다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160029</link>
-            <guid>https://www.bloter.net/newsView/blt202202160029</guid>
-            <pubDate>Wed, 16 Feb 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-16 11:31:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-콘텐츠의 힘…네이버 웹툰 글로벌 MAU 8200만 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160017</link>
-            <guid>https://www.bloter.net/newsView/blt202202160017</guid>
-            <pubDate>Wed, 16 Feb 2022 03:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-16 11:17:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘원숭이 학대 논란’ 휩싸인 일론 머스크의 뉴럴링크, 의혹 전면 부인]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160016</link>
-            <guid>https://www.bloter.net/newsView/blt202202160016</guid>
-            <pubDate>Wed, 16 Feb 2022 02:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-16 10:34:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
