@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[지주사 전환 앞둔 포스코...회계·배터리 소재 전문가 사외이사로 추천]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170145</link>
-            <guid>https://www.bloter.net/newsView/blt202202170145</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-17 18:57:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170041.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['조용한' 안랩, OT·블록체인으로 '변신'할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170144</link>
+            <guid>https://www.bloter.net/newsView/blt202202170144</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-18 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170040.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코홀딩스의 본점 이전...포항시와 상충않는 '세가지 이유']]></title>
-            <link>https://www.bloter.net/newsView/blt202202150006</link>
-            <guid>https://www.bloter.net/newsView/blt202202150006</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[안랩, 정보보안 꿈나무 대상 '온라인 라이브 견학' 진행]]></title>
+            <link>https://www.bloter.net/newsView/blt202108080005</link>
+            <guid>https://www.bloter.net/newsView/blt202108080005</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코그룹,  '지주사 인수위' TF 발족...최정우 회장과 '키맨'들은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040127</link>
-            <guid>https://www.bloter.net/newsView/blt202202040127</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[안랩에 인수되는 OT 보안 전문기업 '나온웍스' 어떤 기업?]]></title>
+            <link>https://www.bloter.net/newsView/blt202107280005</link>
+            <guid>https://www.bloter.net/newsView/blt202107280005</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최정우號의 '미션'은...포스코홀딩스의 기업가치]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280125</link>
-            <guid>https://www.bloter.net/newsView/blt202201280125</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[안랩 이어 이글루시큐리티 손잡은 LG CNS…보안 사업 힘준다]]></title>
+            <link>https://www.bloter.net/newsView/blt202106220009</link>
+            <guid>https://www.bloter.net/newsView/blt202106220009</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['보안' 한우물 팠던 안랩, MSP서 새 먹거리 마련할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202105270015</link>
+            <guid>https://www.bloter.net/newsView/blt202105270015</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,33 +309,72 @@ LG에너지솔루션 자체적으로 대규모 ESS 단지를 구축할 수 있�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170008.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지주사 전환 앞둔 포스코...회계·배터리 소재 전문가 사외이사로 추천 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <title><![CDATA['조용한' 안랩, OT·블록체인으로 '변신'할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170144</link>
+            <guid>https://www.bloter.net/newsView/blt202202170144</guid>
+            <pubDate>Fri, 18 Feb 2022 04:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-18 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170040.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 정보보안 꿈나무 대상 '온라인 라이브 견학' 진행 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202108080005</link>
+            <guid>https://www.bloter.net/newsView/blt202108080005</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안랩에 인수되는 OT 보안 전문기업 '나온웍스' 어떤 기업? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202107280005</link>
+            <guid>https://www.bloter.net/newsView/blt202107280005</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안랩 이어 이글루시큐리티 손잡은 LG CNS…보안 사업 힘준다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202106220009</link>
+            <guid>https://www.bloter.net/newsView/blt202106220009</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['보안' 한우물 팠던 안랩, MSP서 새 먹거리 마련할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202105270015</link>
+            <guid>https://www.bloter.net/newsView/blt202105270015</guid>
+            <pubDate>Fri, 18 Feb 2022 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지주사 전환 앞둔 포스코...회계·배터리 소재 전문가 사외이사로 추천 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202202170145</link>
             <guid>https://www.bloter.net/newsView/blt202202170145</guid>
             <pubDate>Thu, 17 Feb 2022 10:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-17 18:57:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170041.570x320.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170041.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코홀딩스의 본점 이전...포항시와 상충않는 '세가지 이유' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150006</link>
-            <guid>https://www.bloter.net/newsView/blt202202150006</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이근주 핀산연 회장 취임…'망분리 규제 완화' 콕 찝은 이유는? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170142</link>
+            <guid>https://www.bloter.net/newsView/blt202202170142</guid>
+            <pubDate>Thu, 17 Feb 2022 10:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-17 18:38:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170038.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코그룹,  '지주사 인수위' TF 발족...최정우 회장과 '키맨'들은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202040127</link>
-            <guid>https://www.bloter.net/newsView/blt202202040127</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[ESS 키우는 LG에너지솔루션...美 NEC엔솔 인수효과는 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170033</link>
+            <guid>https://www.bloter.net/newsView/blt202202170033</guid>
+            <pubDate>Thu, 17 Feb 2022 06:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-17 14:46:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최정우號의 '미션'은...포스코홀딩스의 기업가치 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280125</link>
-            <guid>https://www.bloter.net/newsView/blt202201280125</guid>
-            <pubDate>Thu, 17 Feb 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자 비스포크, 50개국으로 판매 확대 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170017</link>
+            <guid>https://www.bloter.net/newsView/blt202202170017</guid>
+            <pubDate>Thu, 17 Feb 2022 03:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-17 11:59:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타버스 속 괴롭힘 막아라…MS, 아바타 대화공간 제거 (블로터 ─ 비즈니스)]]></title>
@@ -352,38 +391,6 @@ LG에너지솔루션 자체적으로 대규모 ESS 단지를 구축할 수 있�
             <pubDate>Thu, 17 Feb 2022 01:53:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-17 10:38:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대웅제약, 개발비 자산화율 상승세…탄탄한 R&D로 실적도 ‘방긋’ (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160205</link>
-            <guid>https://www.bloter.net/newsView/blt202202160205</guid>
-            <pubDate>Thu, 17 Feb 2022 01:53:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-17 10:17:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 이용자, 이더리움으로 창작자 후원한다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170002</link>
-            <guid>https://www.bloter.net/newsView/blt202202170002</guid>
-            <pubDate>Thu, 17 Feb 2022 00:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 09:20:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이, 팟캐스트 마케팅·광고 업체 ‘팟사이츠·차터블’ 인수 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170001</link>
-            <guid>https://www.bloter.net/newsView/blt202202170001</guid>
-            <pubDate>Thu, 17 Feb 2022 00:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 08:20:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[③이마트 없어도 잘 살아... 정유경, ‘계열분리’ 준비 착착 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160209</link>
-            <guid>https://www.bloter.net/newsView/blt202202160209</guid>
-            <pubDate>Wed, 16 Feb 2022 23:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-17 08:05:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160026.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
