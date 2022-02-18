@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10대 ‘국가 필수기술’ 지정 2개월…과기부, 현장부터 찾았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180161</link>
+            <guid>https://www.bloter.net/newsView/blt202202180161</guid>
+            <pubDate>Fri, 18 Feb 2022 10:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-18 18:21:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180041.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엔씨, 변화를 말하다]①글로벌 노리는 TL, 예정대로 '쓰론 앤 리버티' 단다]]></title>
             <link>https://www.bloter.net/newsView/blt202202180074</link>
             <guid>https://www.bloter.net/newsView/blt202202180074</guid>
             <pubDate>Fri, 18 Feb 2022 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-18 16:22:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180028.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박찬욱 감독, 두 번째 아이폰 영화 공개..."트릭은 필요 없었다"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 17 Feb 2022 01:54:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 10:47:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170003.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]4조6000억원 현금 쌓아둔 삼성SDS…M&A 행선지에 쏠리는 눈]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160208</link>
-            <guid>https://www.bloter.net/newsView/blt202202160208</guid>
-            <pubDate>Thu, 17 Feb 2022 01:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-17 10:38:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
