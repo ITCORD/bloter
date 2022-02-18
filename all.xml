@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 03:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 04:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,12 +422,20 @@ LG에너지솔루션 자체적으로 대규모 ESS 단지를 구축할 수 있�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]'조용한' 안랩, OT·블록체인으로 '변신'할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170144</link>
+            <guid>https://www.bloter.net/newsView/blt202202170144</guid>
+            <pubDate>Fri, 18 Feb 2022 04:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-18 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버가 '아직 돈 안되는' 유료 콘텐츠 미는 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202180028</link>
             <guid>https://www.bloter.net/newsView/blt202202180028</guid>
             <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-18 12:02:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180012.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180012.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[클라우드+]‘유니콘’ 등극한 메가존클라우드 (블로터 ─ 테크)]]></title>
@@ -556,14 +564,6 @@ LG에너지솔루션 자체적으로 대규모 ESS 단지를 구축할 수 있�
             <pubDate>Thu, 17 Feb 2022 00:49:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-17 08:20:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170001.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]"아이텀큐브 토큰스왑, 다음달 끝"…넷마블F&C표 블록 게임 본궤도 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160183</link>
-            <guid>https://www.bloter.net/newsView/blt202202160183</guid>
-            <pubDate>Wed, 16 Feb 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-16 17:54:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160017.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
