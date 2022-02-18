@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 06:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬욱 감독, 두 번째 아이폰 영화 공개..."트릭은 필요 없었다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180057</link>
+            <guid>https://www.bloter.net/newsView/blt202202180057</guid>
+            <pubDate>Fri, 18 Feb 2022 07:22:04 GMT</pubDate>
+            <content:encoded><![CDATA["스마트폰이 전문가용 카메라에도 뒤지지 않는 시대가 온 게 놀랍습니다. 영화 촬영이 아직도 거창하게 생각된다면 이제 그럴 필요 없습니다. 그저 아이폰을 들고 나가 자신의 생활, 풍경, 지어낸 짧은 이야기…뭐든 찍는 일부터 시작해보세요." '올드보이', '설]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]엔씨표 메타버스는 '미니버스'?…신사업 추진 가속화되나]]></title>
             <link>https://www.bloter.net/newsView/blt202202150021</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 11 Feb 2022 08:18:12 GMT</pubDate>
             <content:encoded><![CDATA['넥슨코리아'가 '슈퍼캣' 지분을 추가 확보하며 양사간 파트너십을 강화한다. '바람의 나라: 연'의 개발사와 퍼블리셔로 연을 맺은 양사는 넥슨코리아의 지분 확대를 통해 한층 공고한 협력 체계를 구축할 전망이다.  9일 '라인게임즈'는 '비유동자산 처분결정'을 통]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090046.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 물적분할 앞둔 NHN...“3년간 주주환원 추진”]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090238</link>
-            <guid>https://www.bloter.net/newsView/blt202202090238</guid>
-            <pubDate>Wed, 09 Feb 2022 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[NHN이 지난해 매출·영업이익 동반성장을 달성한 것으로 나타났다. 주가하락을 초래한 NHN클라우드 물적분할 결정에 대해서는 “책임경영을 위한 선택”이라고 해명하고, 앞으로 3년간 주주환원에 나서겠다는 방침을 밝혔다.9일 NHN은 연결기준 지난해 연]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/09/blt202202090017.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
