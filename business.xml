@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고객 데이터로 돈 벌면, 배당해야지 않나요?…핀크·팀윙크 시각은]]></title>
+            <link>https://www.bloter.net/newsView/blt202202170097</link>
+            <guid>https://www.bloter.net/newsView/blt202202170097</guid>
+            <pubDate>Sun, 20 Feb 2022 06:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-19 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170026.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 열풍에 범죄도 급증…불법 자금만 13조 돌파]]></title>
             <link>https://www.bloter.net/newsView/blt202202180162</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 19 Feb 2022 02:03:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-18 09:16:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180004.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 당국, ‘이유 없는 급제동’ 테슬라 차량 41만6000대 조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180001</link>
-            <guid>https://www.bloter.net/newsView/blt202202180001</guid>
-            <pubDate>Fri, 18 Feb 2022 23:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-18 08:17:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

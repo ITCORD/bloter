@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]삼성전자, 갤노트7 발화사건 후 꼭 챙기는 삼성화재 'PL보험']]></title>
+            <link>https://www.bloter.net/newsView/blt202202170011</link>
+            <guid>https://www.bloter.net/newsView/blt202202170011</guid>
+            <pubDate>Sun, 20 Feb 2022 06:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-20 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스페이스X 위성 날린 '지자기 폭풍', 예측하는 방법은?]]></title>
             <link>https://www.bloter.net/newsView/blt202202180166</link>
             <guid>https://www.bloter.net/newsView/blt202202180166</guid>
             <pubDate>Sun, 20 Feb 2022 05:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-20 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180048.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180048.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[ESG 해부]삼성전자 지적한 APG...'원 단위' 배출 근거 합당할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-18 09:09:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온, 코로나19 치료제 연간 매출 1500억원…‘국내 원가 공급’에도 쾌거]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170143</link>
-            <guid>https://www.bloter.net/newsView/blt202202170143</guid>
-            <pubDate>Thu, 17 Feb 2022 10:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-17 18:29:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
