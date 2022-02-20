@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 07:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 08:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신용 없어도 악성연체 없다…씬파일러들 "후불결제 확대해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180142</link>
+            <guid>https://www.bloter.net/newsView/blt202202180142</guid>
+            <pubDate>Sun, 20 Feb 2022 08:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-20 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180035.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코드스테이츠가 비전공자를 '개발자'로 키우는 방법[테크체인저]]]></title>
             <link>https://www.bloter.net/newsView/blt202202180013</link>
             <guid>https://www.bloter.net/newsView/blt202202180013</guid>
             <pubDate>Sun, 20 Feb 2022 07:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-20 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]삼성전자, 갤노트7 발화사건 후 꼭 챙기는 삼성화재 'PL보험']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-18 10:58:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, ‘가짜뉴스’ 차단 대책 마련한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180007</link>
-            <guid>https://www.bloter.net/newsView/blt202202180007</guid>
-            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-18 10:07:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
