@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 01:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 02:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 중심 '폴더블폰'…'포스트 코로나' 시대도 '메인스트림']]></title>
+            <link>https://www.bloter.net/newsView/blt202202180165</link>
+            <guid>https://www.bloter.net/newsView/blt202202180165</guid>
+            <pubDate>Sun, 20 Feb 2022 02:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-20 11:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180047.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT·KT, MWC 2022에 '메타버스' 접목…LGU+는 참여 '막판 고심']]></title>
             <link>https://www.bloter.net/newsView/blt202202180167</link>
             <guid>https://www.bloter.net/newsView/blt202202180167</guid>
             <pubDate>Sun, 20 Feb 2022 01:03:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-20 09:30:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180049.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180049.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크쑤다]고객 데이터로 돈 벌면, 배당해야지 않나요?…핀크·팀윙크 시각은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 17 Feb 2022 08:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-17 17:03:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170025.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 오늘의픽업·엠지플레잉 인수…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170024</link>
-            <guid>https://www.bloter.net/newsView/blt202202170024</guid>
-            <pubDate>Thu, 17 Feb 2022 06:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-17 15:02:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
