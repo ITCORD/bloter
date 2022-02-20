@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 06:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 07:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코드스테이츠가 비전공자를 '개발자'로 키우는 방법[테크체인저]]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180013</link>
+            <guid>https://www.bloter.net/newsView/blt202202180013</guid>
+            <pubDate>Sun, 20 Feb 2022 07:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-20 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]삼성전자, 갤노트7 발화사건 후 꼭 챙기는 삼성화재 'PL보험']]></title>
             <link>https://www.bloter.net/newsView/blt202202170011</link>
             <guid>https://www.bloter.net/newsView/blt202202170011</guid>
             <pubDate>Sun, 20 Feb 2022 06:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-20 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스페이스X 위성 날린 '지자기 폭풍', 예측하는 방법은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-18 10:07:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글링크미디어, '상위 3%' 구글 프리미어 파트너 됐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180002</link>
-            <guid>https://www.bloter.net/newsView/blt202202180002</guid>
-            <pubDate>Fri, 18 Feb 2022 03:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-18 09:09:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
