@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 23:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 01:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT·KT, MWC 2022에 '메타버스' 접목…LGU+는 참여 '막판 고심']]></title>
+            <link>https://www.bloter.net/newsView/blt202202180167</link>
+            <guid>https://www.bloter.net/newsView/blt202202180167</guid>
+            <pubDate>Sun, 20 Feb 2022 01:03:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-20 09:30:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180049.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크쑤다]고객 데이터로 돈 벌면, 배당해야지 않나요?…핀크·팀윙크 시각은]]></title>
             <link>https://www.bloter.net/newsView/blt202202170097</link>
             <guid>https://www.bloter.net/newsView/blt202202170097</guid>
             <pubDate>Sat, 19 Feb 2022 05:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-19 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 열풍에 범죄도 급증…불법 자금만 13조 돌파]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 17 Feb 2022 06:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-17 15:02:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블F&C, 탈중앙화 지갑 서비스 '코인어스' 품는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170027</link>
-            <guid>https://www.bloter.net/newsView/blt202202170027</guid>
-            <pubDate>Thu, 17 Feb 2022 05:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-17 13:48:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
