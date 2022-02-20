@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 03:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 04:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,12 +483,20 @@ S펜이 내장된 갤럭시S22 울트라 (사진=삼성전자)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[ESG 해부]삼성전자 지적한 APG...'원 단위' 배출 근거 합당할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180076</link>
+            <guid>https://www.bloter.net/newsView/blt202202180076</guid>
+            <pubDate>Sun, 20 Feb 2022 04:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-20 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180027.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[삼성 중심 '폴더블폰'…'포스트 코로나' 시대도 '메인스트림' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202180165</link>
             <guid>https://www.bloter.net/newsView/blt202202180165</guid>
             <pubDate>Sun, 20 Feb 2022 02:11:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-20 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180047.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKT·KT, MWC 2022에 '메타버스' 접목…LGU+는 참여 '막판 고심' (블로터 ─ 테크)]]></title>
@@ -617,14 +625,6 @@ S펜이 내장된 갤럭시S22 울트라 (사진=삼성전자)
             <pubDate>Thu, 17 Feb 2022 09:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-17 17:53:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 앱 이용자 데이터 수집 차단...'메타'에게 독일까? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170095</link>
-            <guid>https://www.bloter.net/newsView/blt202202170095</guid>
-            <pubDate>Thu, 17 Feb 2022 08:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-17 17:03:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170025.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
