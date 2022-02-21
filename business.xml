@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 01:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 갤노트7 발화사건 후 꼭 챙기는 삼성화재 'PL보험']]></title>
+            <link>https://www.bloter.net/newsView/blt202202170011</link>
+            <guid>https://www.bloter.net/newsView/blt202202170011</guid>
+            <pubDate>Mon, 21 Feb 2022 02:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-20 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스X 위성 날린 '지자기 폭풍', 예측하는 방법은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180166</link>
+            <guid>https://www.bloter.net/newsView/blt202202180166</guid>
+            <pubDate>Mon, 21 Feb 2022 02:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-20 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180048.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 지적한 APG...'원 단위' 배출 근거 합당할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180076</link>
+            <guid>https://www.bloter.net/newsView/blt202202180076</guid>
+            <pubDate>Mon, 21 Feb 2022 02:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-20 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180027.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 중심 '폴더블폰'…'포스트 코로나' 시대도 '메인스트림']]></title>
             <link>https://www.bloter.net/newsView/blt202202180165</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 20 Feb 2022 05:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-19 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/19/blt202202190001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA["입사하면 최대 2억원"…패션 플랫폼 '브랜디'가 파격 채용 나선 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180094</link>
-            <guid>https://www.bloter.net/newsView/blt202202180094</guid>
-            <pubDate>Sun, 20 Feb 2022 05:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-02-19 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조용한' 안랩, OT·블록체인으로 '변신'할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170144</link>
-            <guid>https://www.bloter.net/newsView/blt202202170144</guid>
-            <pubDate>Sun, 20 Feb 2022 02:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-18 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170040.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, ‘가짜뉴스’ 차단 대책 마련한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180007</link>
-            <guid>https://www.bloter.net/newsView/blt202202180007</guid>
-            <pubDate>Sat, 19 Feb 2022 05:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-18 10:07:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
