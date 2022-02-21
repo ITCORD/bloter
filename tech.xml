@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 07:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 08:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'알집' 이스트소프트는 잊어라…AI·버추얼 휴먼으로 돈 번다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210107</link>
+            <guid>https://www.bloter.net/newsView/blt202202210107</guid>
+            <pubDate>Mon, 21 Feb 2022 08:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-21 17:09:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]네이버웹툰 '이두나', OTT 콘텐츠로 영상화…"편성 채널 협의 중"]]></title>
             <link>https://www.bloter.net/newsView/blt202202210078</link>
             <guid>https://www.bloter.net/newsView/blt202202210078</guid>
             <pubDate>Mon, 21 Feb 2022 07:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-21 16:12:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성·LG, 20%대 TV 점유율 향한 다른 시선]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 19 Feb 2022 05:14:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-19 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 열풍에 범죄도 급증…불법 자금만 13조 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180162</link>
-            <guid>https://www.bloter.net/newsView/blt202202180162</guid>
-            <pubDate>Sat, 19 Feb 2022 02:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-19 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/19/blt202202190001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
