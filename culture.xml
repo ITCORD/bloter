@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]네이버웹툰 '이두나', OTT 콘텐츠로 영상화…"편성 채널 협의 중"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210078</link>
+            <guid>https://www.bloter.net/newsView/blt202202210078</guid>
+            <pubDate>Mon, 21 Feb 2022 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰에서 연재중인 웹툰 '이두나'가 드라마로 제작된다. 최근 웹툰 IP를 기반으로 한 콘텐츠 제작이 트렌드로 떠오른 가운데 '러브 코미디' 장르의 '이두나'도 관련 대열에 동참하는 것으로 알려졌다. 21일 &lt;블로터&gt; 취재 결과, 웹툰 '이두나' IP를 기반으로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주가 하락 노렸나…MS, 블리자드 인수 ‘성폭력’ 보도 직후 협상 개시]]></title>
             <link>https://www.bloter.net/newsView/blt202202210003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Feb 2022 06:19:57 GMT</pubDate>
             <content:encoded><![CDATA[크래프톤이 공모가 대비 부진한 주가를 반등시키기 위해 총력전에 나선다. 기대만큼 성적을 내지 못한 신작 '배틀그라운드: 뉴스테이트'(이하 뉴스테이트)를 리뉴얼하고 대형 신작 2종을 연내 출시해 성장동력을 마련하는 한편 장병규 크래프톤 의장이 자사주를 매]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100038.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]웹툰 '아이쇼핑' 영상화…카카오 IP 라인업 확장]]></title>
-            <link>https://www.bloter.net/newsView/blt202202100129</link>
-            <guid>https://www.bloter.net/newsView/blt202202100129</guid>
-            <pubDate>Tue, 15 Feb 2022 02:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[카카오웹툰에 연재됐던 웹툰 '아이쇼핑'(i Shopping)이 영상으로 실사화된다. 입양한 아이를 환불한다는 설정으로 파격적이라는 평가를 받았던 만큼, 연재 당시 영상화 여부에 관심이 집중됐던 작품이다.  10일 &lt;블로터&gt; 취재 결과, 드라마 제작사 '그룹에이트'가 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/10/blt202202100021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
