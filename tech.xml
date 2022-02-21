@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·LG, 20%대 TV 점유율 향한 다른 시선]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210041</link>
+            <guid>https://www.bloter.net/newsView/blt202202210041</guid>
+            <pubDate>Mon, 21 Feb 2022 05:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-21 14:11:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210012.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT의 '광고·메타버스' 기업 전환, 최태원 회장도 힘 보탠다]]></title>
             <link>https://www.bloter.net/newsView/blt202202210020</link>
             <guid>https://www.bloter.net/newsView/blt202202210020</guid>
             <pubDate>Mon, 21 Feb 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-21 11:39:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배민과 SK쉴더스가 손 잡은 이유…똑똑한 서빙 로봇 보급 확대한다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 19 Feb 2022 02:03:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-19 10:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180042.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["입사하면 최대 2억원"…패션 플랫폼 '브랜디'가 파격 채용 나선 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180094</link>
-            <guid>https://www.bloter.net/newsView/blt202202180094</guid>
-            <pubDate>Fri, 18 Feb 2022 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-02-19 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
