@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]"넷플릭스만큼 푼다"…'왓챠'표 과몰입 콘텐츠, 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230159</link>
+            <guid>https://www.bloter.net/newsView/blt202202230159</guid>
+            <pubDate>Wed, 23 Feb 2022 10:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-23 18:53:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230034.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“개발자 생산성이 최우선” 몽고DB코리아, 올해 게임·금융시장 두드린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230158</link>
+            <guid>https://www.bloter.net/newsView/blt202202230158</guid>
+            <pubDate>Wed, 23 Feb 2022 10:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-23 18:48:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230033.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성 스마트폰, 중동·아프리카서 1위 지켰지만…거세진 중국의 추격]]></title>
             <link>https://www.bloter.net/newsView/blt202202230145</link>
             <guid>https://www.bloter.net/newsView/blt202202230145</guid>
             <pubDate>Wed, 23 Feb 2022 09:15:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-23 17:58:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 22 Feb 2022 02:11:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-22 10:15:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프가 만든 SNS '트루스 소셜', 앱스토어 다운로드 1위 올라]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220008</link>
-            <guid>https://www.bloter.net/newsView/blt202202220008</guid>
-            <pubDate>Tue, 22 Feb 2022 02:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-22 10:10:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220009.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오T '평점 5.0'인 택시 기사는 왜 뿔이 났을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210104</link>
-            <guid>https://www.bloter.net/newsView/blt202202210104</guid>
-            <pubDate>Tue, 22 Feb 2022 00:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-22 09:52:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

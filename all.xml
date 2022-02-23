@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 10:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,7 +285,7 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202202230143</link>
             <guid>https://www.bloter.net/newsView/blt202202230143</guid>
-            <pubDate>Wed, 23 Feb 2022 09:14:40 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-23 17:56:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230025.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -402,18 +402,34 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[OTT오리지널]"넷플릭스만큼 푼다"…'왓챠'표 과몰입 콘텐츠, 통할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230159</link>
+            <guid>https://www.bloter.net/newsView/blt202202230159</guid>
+            <pubDate>Wed, 23 Feb 2022 10:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-23 18:53:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230034.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“개발자 생산성이 최우선” 몽고DB코리아, 올해 게임·금융시장 두드린다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230158</link>
+            <guid>https://www.bloter.net/newsView/blt202202230158</guid>
+            <pubDate>Wed, 23 Feb 2022 10:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-23 18:48:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230033.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[삼성 스마트폰, 중동·아프리카서 1위 지켰지만…거세진 중국의 추격 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202230145</link>
             <guid>https://www.bloter.net/newsView/blt202202230145</guid>
-            <pubDate>Wed, 23 Feb 2022 09:15:05 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-23 17:58:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202230143</link>
             <guid>https://www.bloter.net/newsView/blt202202230143</guid>
-            <pubDate>Wed, 23 Feb 2022 09:15:05 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-23 17:56:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -528,22 +544,6 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <pubDate>Tue, 22 Feb 2022 02:11:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-22 10:15:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프가 만든 SNS '트루스 소셜', 앱스토어 다운로드 1위 올라 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220008</link>
-            <guid>https://www.bloter.net/newsView/blt202202220008</guid>
-            <pubDate>Tue, 22 Feb 2022 02:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-22 10:10:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220009.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오T '평점 5.0'인 택시 기사는 왜 뿔이 났을까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210104</link>
-            <guid>https://www.bloter.net/newsView/blt202202210104</guid>
-            <pubDate>Tue, 22 Feb 2022 00:55:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-22 09:52:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -786,12 +786,30 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <enclosure url="https://www.bloter.net/data/blt/image/2021/09/27/blt202109270036.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[OTT오리지널]"넷플릭스만큼 푼다"…'왓챠'표 과몰입 콘텐츠, 통할까 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230159</link>
+            <guid>https://www.bloter.net/newsView/blt202202230159</guid>
+            <pubDate>Wed, 23 Feb 2022 10:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230034.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무신사 vs 크림', 가품 논란 2라운드…"물러서면 신뢰도 추락 불가피" (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202220148</link>
+            <guid>https://www.bloter.net/newsView/blt202202220148</guid>
+            <pubDate>Tue, 22 Feb 2022 12:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-02-22 21:15:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220036.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]"지금까지 이런 OTT는 없었다"…왓챠, 영상·웹툰·음악 융합한다 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202202220128</link>
             <guid>https://www.bloter.net/newsView/blt202202220128</guid>
             <pubDate>Tue, 22 Feb 2022 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220023.601x301.0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-22 17:41:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220023.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세계인터내셔날, 주식 액면분할 추진…"주주친화 정책 제고" (블로터 ─ 컬처 ─ 헤드라인)]]></title>
@@ -803,38 +821,12 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220016.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오~컬쳐]中 '틱톡' 운영사에 韓 웹툰 공급?…진짜 이유는 '플랫폼' (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210145</link>
-            <guid>https://www.bloter.net/newsView/blt202202210145</guid>
-            <pubDate>Mon, 21 Feb 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-21 18:03:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210024.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]네이버웹툰 '이두나', OTT 콘텐츠로 영상화…"편성 채널 협의 중" (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210078</link>
-            <guid>https://www.bloter.net/newsView/blt202202210078</guid>
-            <pubDate>Mon, 21 Feb 2022 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-21 16:12:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210014.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[페이스북, 숏폼 동영상 ‘릴스’ 전세계로 확대 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202202230002</link>
             <guid>https://www.bloter.net/newsView/blt202202230002</guid>
             <pubDate>Wed, 23 Feb 2022 01:01:56 GMT</pubDate>
             <content:encoded><![CDATA[메타가 숏폼(짧은 동영상) 콘텐츠 서비스인 ‘페이스북 릴스’를 전세계적으로 공식 출시한다고 발표했다. 22일(현지시간) 미국 정보기술(IT) 전문매체 &lt;엔가젯&gt;에 따르면 메타는 미국에서만 제공하던 페이스북 릴스를 150여개국의 안드로이드, iOS 이용자를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230010.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['무신사 vs 크림', 가품 논란 2라운드…"물러서면 신뢰도 추락 불가피" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220148</link>
-            <guid>https://www.bloter.net/newsView/blt202202220148</guid>
-            <pubDate>Tue, 22 Feb 2022 12:26:49 GMT</pubDate>
-            <content:encoded><![CDATA["우리가 판매한 제품은 가품이 아니다. 크림에서 올린 게시물 때문에 무신사가 마치 가품을 파는 플랫폼으로 취급받고 있다" - 무신사"크림은 리셀 서비스를 제공하는 만큼 소비자를 보호해야 할 의무가 있다. 내부 판단 기준에 따라 가품에 대해 주의를 당부한 것이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220036.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트럼프가 만든 SNS '트루스 소셜', 앱스토어 다운로드 1위 올라 (블로터 ─ 컬처)]]></title>
@@ -859,6 +851,22 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <pubDate>Mon, 21 Feb 2022 10:17:25 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]中 '틱톡' 운영사에 韓 웹툰 공급?…진짜 이유는 '플랫폼' (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210145</link>
+            <guid>https://www.bloter.net/newsView/blt202202210145</guid>
+            <pubDate>Mon, 21 Feb 2022 09:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[·키다리스튜디오가 중국 바이트댄스로부터 약 240억원(주당 발행가액 1만7290원) 규모의 투자를 유치했다. 바이트댄스는 키다리스튜디오의 100% 자회사인 레진엔터테인먼트에도 약 240억원 규모의 제3자배정 유상증자에 참여해 총 투자규모는 약 480억원에 이른다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210024.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]네이버웹툰 '이두나', OTT 콘텐츠로 영상화…"편성 채널 협의 중" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210078</link>
+            <guid>https://www.bloter.net/newsView/blt202202210078</guid>
+            <pubDate>Mon, 21 Feb 2022 07:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰에서 연재중인 웹툰 '이두나'가 드라마로 제작된다. 최근 웹툰 IP를 기반으로 한 콘텐츠 제작이 트렌드로 떠오른 가운데 '러브 코미디' 장르의 '이두나'도 관련 대열에 동참하는 것으로 알려졌다. 21일 &lt;블로터&gt; 취재 결과, 웹툰 '이두나' IP를 기반으로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210014.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주가 하락 노렸나…MS, 블리자드 인수 ‘성폭력’ 보도 직후 협상 개시 (블로터 ─ 컬처)]]></title>
@@ -907,14 +915,6 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <pubDate>Thu, 17 Feb 2022 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[소셜카지노 게임사 더블유게임즈가 '플레이 투 언'(P2E) 게임 시장에 진출한다. 글로벌 지역에서 소셜카지노 게임으로 수익을 올리고 있는 더블유게임즈는 '중장기적 성장동력'에 초점을 맞춰 올해부터 'P2E 스킬' 분야에 주력한다는 계획이다.   앞서 더블유게임즈는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170010.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]"아이텀큐브 토큰스왑, 다음달 끝"…넷마블F&C표 블록 게임 본궤도 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160183</link>
-            <guid>https://www.bloter.net/newsView/blt202202160183</guid>
-            <pubDate>Wed, 16 Feb 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블 자회사 넷마블에프앤씨(F&amp;C)의 블록체인 게임 사업이 본궤도에 오른다. '아이텀'(ITAM) 코인을 '아이텀큐브'(ITAM CUBE)로 바꿀 수 있는 종료 기간을 공지하는 등 추가 재상장에 속도를 내는 모습이다.16일 &lt;블로터&gt; 취재 결과, 아이텀게임즈가 운영하는 '아]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/16/blt202202160017.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]中 '틱톡' 운영사에 韓 웹툰 공급?…진짜 이유는 '플랫폼' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
@@ -1037,6 +1037,14 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <enclosure url="https://www.bloter.net/data/blt/image/2021/12/20/blt202112200007.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[OTT오리지널]"넷플릭스만큼 푼다"…'왓챠'표 과몰입 콘텐츠, 통할까 (블로터 ─ 컬처 ─ OTT오리지널)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230159</link>
+            <guid>https://www.bloter.net/newsView/blt202202230159</guid>
+            <pubDate>Wed, 23 Feb 2022 10:20:09 GMT</pubDate>
+            <content:encoded><![CDATA["오늘은 좀 매울지도 몰라라는 작품이 있어요. 동명의 에세이를 바탕으로 제작하고 있는 작품인데요. 관계가 깨질 위기에 있는 가족의 이야기를 담아낼 예정입니다. 말기암 선고를 받은 아내를 위해 요리를 1도 몰랐던 남편이 손수 밥상을 차리며 점차 관계를 회복해 가는 가족 이야기 인데요. 이야기가 가진 힘과 출연진의 연기력을 통해 몰입감 있는 콘텐츠가 될 것으로 예상하고 있습니다. 시청자들의 큰 반향을 이끌 것으로 기대하고 있어요"김요한 왓챠 콘텐츠개발 이사는 올해 예정된 오리지널 작품 중 기대작으로 '오늘은 좀 매울지도 몰라'를 꼽았다. 오늘은 좀 매울지도 몰라는 강창래 작가가 쓴 동명의 에세이를 기반으로 제작중인 콘텐츠다. 영상화 기획 당시만 해도 영화로 제작될 가능성이 높았지만, 왓챠가 오리지널 콘텐츠로 확보해 오는 12월쯤 공개할 계획이다. 앞서 지난달 &lt;블로터&gt;가 관련 콘텐츠 편성 소식을 최초로 전달한 바 있다.   왓챠는 '오늘은 좀 매울지도 몰라'를 비롯해 올해만 20여편의 오리지널 콘텐츠를 선보일 계획이다. 이는 넷플릭스가 올해 공개하는 한국 오리지널 시리즈(25편)에 버금가는 규모다. '익스클루시브'(독점작) 수급에 특화됐던 왓챠가 오리지널 콘텐츠에 눈을 뜬 이유는 무엇일까.  왓챠는 왜 오리지널을 늘릴까 2012년 영화 추천 서비스로 시작한 '왓챠'(WATCHA)는 머신러닝 기반의 추천 알고리즘을 통해 '개인의 취향에 맞는 콘텐츠'를 추천하는 플랫폼으로 자리잡았다. 고도화된 콘텐츠 추천과 회원 데이터베이스를 축적한 왓챠는 2016년부터 스트리밍 서비스 '왓챠플레이'를 서비스하며 본격적으로 OTT 시장에 뛰어들었다. 왓챠플레이는 국내외 제작사와 콘텐츠 수급 계약을 맺고 영화와 드라마를 제공해왔다. 2020년 들어 OTT 플랫폼과 추천 서비스를 각각 '왓챠'와 '왓챠피디아'로 변경하고, 각 플랫폼에 맞는 서비스 고도화에 돌입했다. 워너미디어의 HBO를 비롯해, 다양한 기업과 파트너십을 맺고 '익스클루시브'(독점작)를 확보하며 현재 약 10만여편의 영상 콘텐츠를 제공하고 있다. 다만, 같은 시기 한국에서 서비스를 진행한 '넷플릭스'가 다양한 오리지널 시리즈를 선보이면서 업계에서 두각을 드러내기 시작했다. 2016년 한국 서비스를 시작한 넷플릭스는 2019년 '킹덤'을 시작으로 시작으로 '인간수업', '좋아하면 울리는', '스위트홈', '오징어게임', '지옥', '고요의 바다', '지금 우리 학교는' 등 장르물 위주의 한국 오리지널 시리즈를 선보이며 현재까지도 'OTT=넷플릭스'라는 공식을 이어가는 모습이다.때문에 비슷한 시기 OTT 사업을 시작한 왓챠가 비교 대상에 오르곤 했다. 오리지널 콘텐츠가 OTT 플랫폼의 경쟁력이자, 근간을 이루는 만큼 외부 환경에 따라 서비스 매력도가 크게 떨어질 수 있다는 이유에서다. 실제로 월트디즈니컴퍼니가 자체 OTT 플랫폼 '디즈니+'를 론칭하며 타사 OTT 플랫폼에서 자체 IP 콘텐츠를 제외했을 당시, 넷플릭스는 자체 오리지널 시리즈를 늘리기로 결정하며 경쟁력 제고에 나섰다. "올해 워너미디어의 OTT 플랫폼 'HBO 맥스'가 한국 서비스를 시작할 경우 왓챠에서 제공하던 HBO 콘텐츠를 보지 못할 것"이라는 주장이 설득력을 얻고 있다. "스타트업 규모로 시작한 왓챠가 '넷플릭스발 규모의 경제'를 따라잡는다는 것은 현실적으로 어려워 보이지만, 장기적 관점에서 볼 때 꾸준히 오리지널 콘텐츠를 확보해야 한다"는 목소리도 심심치 않게 들려왔다.    이런 위기의식 때문일까. 지난해부터 꾸준히 콘텐츠 수급에 나섰던 왓챠는 올해 20여편의 오리지널 콘텐츠를 공개하겠다는 야심을 드러냈다. 앞서 지난해부터 &lt;블로터&gt;는 왓챠가 준비중인 '최종병기 앨리스', '시맨틱 에러', '오늘은 좀 매울지도 몰라' 등의 오리지널 편성 계획을 전하며 왓챠의 콘텐츠 다양성에 주목했다. 실제로 왓챠는 올해 공개되는 오리지널 콘텐츠 20여편 가운데 상반기에 9개 작품을 선보일 계획이다. 드라마 부분은 지난달 공개한 '좋좋소'(시즌4)를 시작으로 '시맨틱 에러'가 오리지널 콘텐츠에 이름을 올렸다. 좋좋소는 '하이퍼리얼리즘 직장 공감 이야기'를 모토로 '정승네트워크' 직원들의 이야기를 다루며 온라인 상에서 입소문을 탄 작품이다. 왓챠가 오리지널로 확보한 시즌4부터 '정승네트워크'와 '백인터내셔널'의 생존 경쟁이 본격화되며 새로운 국면에 접어들었다. 연내 시즌5도 왓챠 오리지널로 공개될 예정이다. 리디에서 연재됐던 동명의 '보이스러브'(BL) 장르 웹소설을 각색한 '시맨틱 에러'는 지난 16일부터 왓챠 오리지널로 공개됐다. 영화 '극한직업'의 이병헌 감독이 총감독을 맡고 '내가 버린 여름'을 연출한 서성원 감독이 공동연출은 맡은 '최종병기 앨리스'도 왓챠 오리지널로 공개될 예정이다. 이 외에 '인사이드 리릭스', '노키득존', '지혜를 빼앗는 도깨비', '조인 마이 테이블', '더블트러블' 등 다양한 예능이 왓챠 오리지널 편성을 마친 상태다. 한국 프로야구 구단 '한화이글스'의 변화를 담아낸 오리지널 다큐멘터리 '한화이글스: 클럽하우스'도 다음달 24일 베일을 벗는다.김효진 왓챠 콘텐츠사업 이사는 "왓챠가 준비중인 작품을 한 문장으로 요약하면 과몰입 콘텐츠"라며 "단순히 많은 콘텐츠를 나열하는 것에 집중하기보다는 소재와 경계의 한계가 없고 구독자가 과몰입할 수 있는 콘텐츠를 제공하기 위해 노력하겠다"고 말했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230034.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT오리지널]알고 보면 흥미로운 넷플릭스 이야기 (블로터 ─ 컬처 ─ OTT오리지널)]]></title>
             <link>https://www.bloter.net/newsView/blt202202130001</link>
             <guid>https://www.bloter.net/newsView/blt202202130001</guid>
@@ -1149,18 +1157,10 @@ LG전자는 사업이 완전히 중단되는 시점까지 LG 태양광 브랜드
             <enclosure url="https://www.bloter.net/data/blt/image/2021/05/19/blt202105190006.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OTT오리지널]다큐멘터리, 세상을 바라보는 '눈'이 되다 (블로터 ─ 컬처 ─ OTT오리지널)]]></title>
-            <link>https://www.bloter.net/newsView/blt202105090007</link>
-            <guid>https://www.bloter.net/newsView/blt202105090007</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[따분하다고 여겨졌던 다큐멘터리가 새로운 인포테인먼트 콘텐츠로 주목받고 있다. 콘텐츠 소비 환경이 변하면서 사회를 바라보는 다양한 시선 모두 다큐가 될 수 있다는 인식이 생겼기 때문이다. 불과 몇 년전까지 환경이나 범죄처럼 시사·교양 부문에 국한됐던 다큐멘터리의 주제 또한 스포츠, 음식, SNS, 셀러브리티(유명인)에 이르기까지 다양해졌다. 다큐멘터리 대중화, 선봉장은 '넷플릭스'다큐멘터리의 진입 장벽을 낮추는 데에는 넷플릭스의 역할이 컸다. 넷플릭스는 새 장르와 주제를 이야기하는 '화이트 스페이스' 철학 아래 세계적인 흥행을 거둔 다큐멘터리 작품을 선보이고 있다. SNS 사용이 일상에 미치는 영향을 드라마 형식으로 구성한 '소셜 딜레마', 일상적인 소비 패턴에 위협받는 해양 생태계의 현실을 보여준 '씨스피러시' 등이 대표적이다. 씨스피러시는 인스타그램에 약 1300여개 포스팅이 등록될 정도로 '다큐도 대중성을 갖출 수 있다'는 흐름을 입증했다.  넷플릭스 다큐멘터리의 흡입력은 특정 주제에 대한 정보를 전달하는 체계적 구성 및 완성도에 기인한다. 특히 올해 아카데미 시상식에서는 수상작인 '나의 문어 선생님'을 포함해 '크립 캠프'도 후보에 이름을 올렸다. 이는 넷플릭스 오리지널 다큐멘터리 두 작품이 처음으로 후보에 오른 것이다.  넷플릭스는 올해도 다양한 다큐멘터리 장르를 실험하고 있다. 지난달 '님아: 여섯 나라에서 만난 노부부 이야기'를 선보이며 한국만의 휴먼 다큐 감성을 선보였다. 이 작품은 국내 다큐멘터리 영화로는 최다 관객(약 480만명)을 달성한 '님아, 그 강을 건너지 마오'에서 영감을 받은 넷플릭스 오리지널 작품이다. 긴 시간을 함께해 온 미국, 스페인, 브라질, 일본, 인도, 한국 등 여섯 나라 노부부의 일상을 통해 국경을 초월하는 보편적인 사랑과 감동의 순간을 담았다. 지상파 OTT부터 콜라보레이션까지다큐멘터리가 다양한 세상의 시선을 담아내면서 지상파, OTT 등 다양한 채널에서 관련 콘텐츠를 제작하고 있다. 지난달 29일 KBS 1TV의 '다큐 인사이트'는 오스카 수상에 맞춰 배우 윤여정의 연기 인생을 동료 11인의 인터뷰로 반추했다. tvN의 경우 지난해 젊은 혁신가들을 조명한 '그때 나는 내가 되기로 했다'의 시즌2를 오는 10일 선보일 예정이다. 왓챠는 한국 프로야구 구단인 '한화 이글스'의 다큐멘터리를 제작하며, 티빙의 경우 요리 연구가 백종원의 요리 이야기를 담은 '백종원의 사계'를 론칭했다.  최근 다큐멘터리는 기업 및 브랜드 역사, 철학 등을 깊이 있게 전달하는 홍보 채널로도 작용하고 있다. 모바일 금융 플랫폼 '토스'를 운영하는 비바리퍼블리카는 회사의 탄생부터 핀테크 유니콘으로 자리 잡기까지의 과정, 미래 금융 서비스 비전을 담은 자체 제작 오리지널 다큐멘터리 ㅊ를 공식 유튜브 채널에 공개했다. 해당 콘텐츠는 공개 3주만에 유튜브에서 100만뷰를 돌파하며 큰 반향을 일으켰다. 대상 종가집의 경우 '세계김치연구소'와 공동 기획을 통해 김치의 역사, 문화, 위상을 알리는 다큐멘터리 '김치 유니버스' 제작에 나섰다.업계의 한 관계자는 "넷플릭스를 필두로 한 OTT를 중심으로 개인의 세밀한 취향에 부합하는 다큐멘터리가 긍정적인 시너지를 내고 있다"며 "다큐멘터리는 장르적 유연함을 통해 새로운 사회적 담론을 형성하며 다양한 집단의 소통 창구 기능으로 확대될 것"이라고 말했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2021/05/09/blt202105090009.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다 (블로터 ─ 금융)]]></title>
             <link>https://www.bloter.net/newsView/blt202202230143</link>
             <guid>https://www.bloter.net/newsView/blt202202230143</guid>
-            <pubDate>Wed, 23 Feb 2022 09:16:45 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[금융위원회에 핀테크기업 핀다는 박씨를 물어다 준 제비다.핀다는 2019년 5월 금융위원회로부터 혁신금융서비스(규제샌드박스)로 지정받은 후 같은해 7월 비대면 대출중개 서비스를 선보였다. 이 비대면 대출중개 서비스는 핀다의 기술력으로 지속 고도화돼 금융위원회가 주력하는 중금리대출 정책에 큰 기여를 한 것으로 나타났다.23일 핀다에 따르면 지난해 핀다로 대출을 받은 고객 10명 중 6명은 중금리대출을 받았다. 그동안 인터넷은행이 주력했지만 채우지 못한 중금리대출 시장의 공백을 대출 비교 플랫폼에서 가장 많은 금융기관 제휴와 우대금리 혜택 등으로 보완한 셈이다.지난 한 해 동안 핀다를 통해 대출을 받은 사용자의 59%가 중금리대출을 받았다. 구체적으로 1금융권 대출을 받은 이들 중 34%가 중금리대출(연 5~10%)을 받았고, 2금융권 대출을 받은 이들은 64%가 중금리대출(6.4~19.5%)을 받았다. 지난해 7월을 기점으로 법정최고금리가 낮아지면서 중금리대출의 기준도 변동된 기준에 따라 구분했다.핀다로 두 번 이상 대출을 받은 사용자들은 회차를 거듭할수록 평균 4.2%p 금리를 낮추고, 한도는 평균 39만원 높여 받았다. 핀다 사용자 중 대출을 재실행한 사용자는 전체의 20%에 달한다. 횟수별로 2회차가 68%로 가장 많았고 △3회 20% △4회 7% △5회 이상 5% 비중이었다. 가장 많이 쓴 사용자는 스물 일곱 번이나 핀다로 대출을 받았다. 회사는 금리 변동 이슈와 함께 대출규제 등으로 인해 플랫폼을 통해 더 유리한 조건을 받아본 사용자가 많았다고 분석했다.핀다 사용자들은 대출을 비교하고 실행하는 것에 그치지 않고, 가지고 있는 대출을 꼼꼼하게 관리하는 모습을 보이기도 했다. 핀다의 통합 대출관리 서비스인 '나의 대출관리'를 통해 신용을 연동한 사용자는 전체 회원가입 사용자의 61%였다. 이를 통해 관리중인 대출 잔액은 57조원으로 집계됐다.  핀다의 성장은 금융당국의 정책에도 순기능을 발휘하고 있다. 금융당국은 중금리 대출 공급 목표치를 지난해 32조원에서 올해 35조원으로 상향했다. 시장금리가 상승하는 가운데 고금리대출 대신 중금리대출이 늘어난다면 차주 보호 측면에서 금융당국도 한결 부담을 덜 수 있게 된다.이혜민 핀다 공동대표는 "가장 많은 55개 금융기관과 연계해 개인에 꼭 맞는 대출 상품을 비교해 추천해주는 핀다의 서비스 취지에 잘 맞게, 많은 고객들이 여러 차례 대출 서비스를 조회하며 금리를 낮추거나 한도를 더 받아 가는 성과는 창업자로서 가장 뿌듯한 지점"이라고 말했다.이 대표는 "200여개에 달하는 다양한 대출상품 비교 기능으로 간편하게 조회하고 대출을 받을 수 있게 기능을 고도화해 대출시장의 고질적인 문제인 고금리와 저금리 대출 시장의 양극화를 해소하는데 주력하겠다"고 강조했다.2021년 한 해 동안 핀다 서비스를 통해 대출이 일어난 총 금액은 450% 성장했다. 누적 다운로드는 170만건을 돌파했고, 월간활성화지표(MAU)는 37만건을 넘겼다. 대출비교 서비스를 이용해 대출을 실행한 사용자의 성비는 남성이 70% 여성이 30%로 집계됐다. 남성은 30대(36%), 여성은 40대(35%)가 가장 많은 비중을 차지했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230025.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
