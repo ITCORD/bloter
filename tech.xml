@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[구준엽 "작가들, NFT로 갈 때 됐다…LG 올레드 TV 색감은 쨍해"]]></title>
+            <title><![CDATA[삼성 스마트폰, 중동·아프리카서 1위 지켰지만…거세진 중국의 추격]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230145</link>
+            <guid>https://www.bloter.net/newsView/blt202202230145</guid>
+            <pubDate>Wed, 23 Feb 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-23 17:58:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230143</link>
+            <guid>https://www.bloter.net/newsView/blt202202230143</guid>
+            <pubDate>Wed, 23 Feb 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-23 17:56:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230025.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구준엽이 보는 미술계의 미래는…"작가들, NFT로 갈 때 됐다"]]></title>
             <link>https://www.bloter.net/newsView/blt202202230062</link>
             <guid>https://www.bloter.net/newsView/blt202202230062</guid>
             <pubDate>Wed, 23 Feb 2022 07:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-23 16:09:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230023.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['카카오택시' 승객 골라태우기 정황 포착…가맹택시 콜 몰아주기도?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 22 Feb 2022 00:56:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-22 09:52:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, ‘폴더블폰' 출시 미루나…"2025년 폴더블 맥북 공개 유력"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220004</link>
-            <guid>https://www.bloter.net/newsView/blt202202220004</guid>
-            <pubDate>Tue, 22 Feb 2022 00:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-22 09:41:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한전선, 해저케이블 ‘부지 선정’ 마무리…신사업 속도 낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220005</link>
-            <guid>https://www.bloter.net/newsView/blt202202220005</guid>
-            <pubDate>Tue, 22 Feb 2022 00:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-22 09:28:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

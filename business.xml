@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 13년만에 태양광 패널 사업 접는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230009</link>
+            <guid>https://www.bloter.net/newsView/blt202202230009</guid>
+            <pubDate>Wed, 23 Feb 2022 09:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-23 10:30:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 3G 서비스 연내 종료…자동차 기능 차질 우려]]></title>
             <link>https://www.bloter.net/newsView/blt202202230008</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 23 Feb 2022 02:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-02-22 16:36:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OCI, 부활 직후 투자고삐… 제약∙바이오 영역 넓힌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220070</link>
-            <guid>https://www.bloter.net/newsView/blt202202220070</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-02-22 15:20:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
