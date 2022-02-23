@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,12 +384,20 @@ IT 전문매체 &lt;씨넷&gt;은 "트루스 소셜이 미국 애플 앱스토�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[구준엽 "작가들, NFT로 갈 때 됐다…LG 올레드 TV 색감은 쨍해" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230062</link>
+            <guid>https://www.bloter.net/newsView/blt202202230062</guid>
+            <pubDate>Wed, 23 Feb 2022 07:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-23 16:09:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['카카오택시' 승객 골라태우기 정황 포착…가맹택시 콜 몰아주기도? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202230011</link>
             <guid>https://www.bloter.net/newsView/blt202202230011</guid>
             <pubDate>Wed, 23 Feb 2022 02:32:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-23 11:21:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 13년만에 태양광 패널 사업 접는다 (블로터 ─ 테크)]]></title>
@@ -518,14 +526,6 @@ IT 전문매체 &lt;씨넷&gt;은 "트루스 소셜이 미국 애플 앱스토�
             <pubDate>Tue, 22 Feb 2022 00:55:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-22 09:28:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["SNS 중독 막자더니"…인스타그램, 시간제한 기능 임의 변경 의혹 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220001</link>
-            <guid>https://www.bloter.net/newsView/blt202202220001</guid>
-            <pubDate>Tue, 22 Feb 2022 00:55:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-22 08:35:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
