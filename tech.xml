@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 01:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스용 AI 번역 기술 개발나선 메타 "비인기 언어도 아우를 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240012</link>
+            <guid>https://www.bloter.net/newsView/blt202202240012</guid>
+            <pubDate>Thu, 24 Feb 2022 02:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-24 10:32:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양자컴퓨터 안 두려워…사업화 앞둔 KT·SKT·LGU+ 양자암호 기술]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230150</link>
+            <guid>https://www.bloter.net/newsView/blt202202230150</guid>
+            <pubDate>Thu, 24 Feb 2022 02:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-24 10:31:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230029.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]LG전자는 왜 사업을 접을 때마다 주가가 오르나요?]]></title>
             <link>https://www.bloter.net/newsView/blt202202240007</link>
             <guid>https://www.bloter.net/newsView/blt202202240007</guid>
             <pubDate>Thu, 24 Feb 2022 01:00:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-24 09:41:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 법원 "웨이모 자율주행 노하우, 영업 비밀 맞다...공개할 필요 없어"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 22 Feb 2022 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-22 17:41:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["넷플릭스에 '망 사용료' 부과하면 소비자에게 비용 전가"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220106</link>
-            <guid>https://www.bloter.net/newsView/blt202202220106</guid>
-            <pubDate>Tue, 22 Feb 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-22 17:27:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]물류·바이오부터 마이데이터까지…'디지코' KT의 변신은 계속된다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220120</link>
-            <guid>https://www.bloter.net/newsView/blt202202220120</guid>
-            <pubDate>Tue, 22 Feb 2022 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-22 17:14:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

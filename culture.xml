@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 01:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스용 AI 번역 기술 개발나선 메타 "비인기 언어도 아우를 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240012</link>
+            <guid>https://www.bloter.net/newsView/blt202202240012</guid>
+            <pubDate>Thu, 24 Feb 2022 02:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 메타버스에서 활용 가능한 인공지능(AI) 기반의 번역 서비스 개발에 나선다. 23일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 이날 온라인 생중계된 ‘인사이드 더 랩’ 행사에서 마크 저커버그 메타 최고경영자(CEO)는 메타버스에서 이용할 수 있는 여]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240015.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 우크라이나 사태  영상 공유한 일부 계정 정지..."실수였다"]]></title>
             <link>https://www.bloter.net/newsView/blt202202240003</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 18 Feb 2022 07:22:04 GMT</pubDate>
             <content:encoded><![CDATA["스마트폰이 전문가용 카메라에도 뒤지지 않는 시대가 온 게 놀랍습니다. 영화 촬영이 아직도 거창하게 생각된다면 이제 그럴 필요 없습니다. 그저 아이폰을 들고 나가 자신의 생활, 풍경, 지어낸 짧은 이야기…뭐든 찍는 일부터 시작해보세요." '올드보이', '설]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷마블F&C, 탈중앙화 지갑 서비스 '코인어스' 품는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170027</link>
-            <guid>https://www.bloter.net/newsView/blt202202170027</guid>
-            <pubDate>Mon, 21 Feb 2022 09:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블 자회사 넷마블에프앤씨(F&amp;C)가 탈중앙화 지갑 서비스 업체를 인수하며, 블록체인 게임 사업에 속도를 내고 있다. 블록체인 게임사 '아이텀게임즈' 인수에 이어 글로벌 가상자산 거래소 '바이낸스'와 파트너십을 맺은 넷마블에프앤씨는 탈중앙화 지갑 서비]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
