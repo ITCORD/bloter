@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]3수 끝 화려한 성적표...삼성 폴더블폰, 갤럭시 노트 대체할 만했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240122</link>
+            <guid>https://www.bloter.net/newsView/blt202202240122</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-24 17:19:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남궁훈표 카카오 메타버스란?…"관심사 기반 오픈채팅과 글로벌"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240106</link>
+            <guid>https://www.bloter.net/newsView/blt202202240106</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-24 16:21:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240027.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]"20년 지나도 포기 못해"…웹젠표 '뮤' IP, '생명 연장의 꿈' 이룰까]]></title>
             <link>https://www.bloter.net/newsView/blt202202240056</link>
             <guid>https://www.bloter.net/newsView/blt202202240056</guid>
             <pubDate>Thu, 24 Feb 2022 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-02-24 15:45:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKT, 5G 사업 확대 신호탄 쐈다…SA 옵션4·드론관제 솔루션 선봬]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 23 Feb 2022 02:33:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-23 10:30:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 3G 서비스 연내 종료…자동차 기능 차질 우려]]></title>
-            <link>https://www.bloter.net/newsView/blt202202230008</link>
-            <guid>https://www.bloter.net/newsView/blt202202230008</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-23 10:26:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230012.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“버그 알고도 방치”...세계 최대 NFT 거래소 오픈씨, 100만달러 소송 당해]]></title>
-            <link>https://www.bloter.net/newsView/blt202202230005</link>
-            <guid>https://www.bloter.net/newsView/blt202202230005</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-23 10:04:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230011.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
