@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 01:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 우크라이나 사태  영상 공유한 일부 계정 정지..."실수였다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240003</link>
+            <guid>https://www.bloter.net/newsView/blt202202240003</guid>
+            <pubDate>Thu, 24 Feb 2022 01:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 우크라이나 동부 돈바스 지역에 진입하며 군사적 긴장이 고조되고 있는 가운데 이와 관련된 정보를 공유한 일부 소셜미디어미디어(SNS) 계정이 정지된 것으로 확인됐다. 23일(현지시간) IT 전문매체 &lt;더버지&gt;는 SNS가 러시아·우크라이나 사태에 대]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[페이스북, 숏폼 동영상 ‘릴스’ 전세계로 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202202230002</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Feb 2022 09:22:25 GMT</pubDate>
             <content:encoded><![CDATA[넷마블 자회사 넷마블에프앤씨(F&amp;C)가 탈중앙화 지갑 서비스 업체를 인수하며, 블록체인 게임 사업에 속도를 내고 있다. 블록체인 게임사 '아이텀게임즈' 인수에 이어 글로벌 가상자산 거래소 '바이낸스'와 파트너십을 맺은 넷마블에프앤씨는 탈중앙화 지갑 서비]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소셜카지노 게임사 '더블유게임즈', P2E 진출 선언한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170019</link>
-            <guid>https://www.bloter.net/newsView/blt202202170019</guid>
-            <pubDate>Mon, 21 Feb 2022 09:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[소셜카지노 게임사 더블유게임즈가 '플레이 투 언'(P2E) 게임 시장에 진출한다. 글로벌 지역에서 소셜카지노 게임으로 수익을 올리고 있는 더블유게임즈는 '중장기적 성장동력'에 초점을 맞춰 올해부터 'P2E 스킬' 분야에 주력한다는 계획이다.   앞서 더블유게임즈는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/17/blt202202170010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
