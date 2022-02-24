@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 03:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 04:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 우크라이나 사태  영상 공유한 일부 계정 정지..."실수였다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240003</link>
+            <guid>https://www.bloter.net/newsView/blt202202240003</guid>
+            <pubDate>Thu, 24 Feb 2022 04:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-24 08:28:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다]]></title>
             <link>https://www.bloter.net/newsView/blt202202230143</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 23 Feb 2022 09:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-23 10:30:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 3G 서비스 연내 종료…자동차 기능 차질 우려]]></title>
-            <link>https://www.bloter.net/newsView/blt202202230008</link>
-            <guid>https://www.bloter.net/newsView/blt202202230008</guid>
-            <pubDate>Wed, 23 Feb 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-23 10:26:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230012.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
