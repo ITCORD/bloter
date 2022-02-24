@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'열혈강호' IP, 엠게임 '효자' 입증…"올해도 잘 부탁해"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240029</link>
+            <guid>https://www.bloter.net/newsView/blt202202240029</guid>
+            <pubDate>Thu, 24 Feb 2022 03:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 '엠게임'은 창사 이래 최고 영업이익과 당기순이익을 달성하며 최고의 한 해를 보냈다. 실적 개선의 큰 축은 '중국'과 '열혈강호 온라인'이다. 만화 '열혈강호' IP를 기반으로 만든 PC 온라인 게임이 중국에서 큰 호응을 받으며 엠게임의 실적을 견인하고 있다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스용 AI 번역 기술 개발나선 메타 "비인기 언어도 아우를 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202202240012</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 22 Feb 2022 09:17:06 GMT</pubDate>
             <content:encoded><![CDATA[·"Throne and Liberty 상표권과 관련해 현재 개발 중인 미공개 프로젝트의 세부 정보에 대해서는 확인해줄 수 없다"(2021.10.20)·"외부에서는 TL이라 '더 리니지'(The Lineage) 아니냐고 하는데, '쓰론 앤 리버티'(Throne and Liberty)로 타이틀을 정했다"(2022.02.15)최근 엔씨소]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180028.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 감독, 두 번째 아이폰 영화 공개..."트릭은 필요 없었다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180057</link>
-            <guid>https://www.bloter.net/newsView/blt202202180057</guid>
-            <pubDate>Fri, 18 Feb 2022 07:22:04 GMT</pubDate>
-            <content:encoded><![CDATA["스마트폰이 전문가용 카메라에도 뒤지지 않는 시대가 온 게 놀랍습니다. 영화 촬영이 아직도 거창하게 생각된다면 이제 그럴 필요 없습니다. 그저 아이폰을 들고 나가 자신의 생활, 풍경, 지어낸 짧은 이야기…뭐든 찍는 일부터 시작해보세요." '올드보이', '설]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/18/blt202202180013.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
