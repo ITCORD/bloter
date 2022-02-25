@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 03:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -462,12 +462,28 @@ LG유플러스는 양자 컴퓨터의 공격을 직접 막아낼 수 있는 양�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[K바이오의 엔데믹 비전]②코로나 변이 대응하고 시밀러 확대하는 셀트리온 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250001</link>
+            <guid>https://www.bloter.net/newsView/blt202202250001</guid>
+            <pubDate>Fri, 25 Feb 2022 04:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-02-25 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]넷마블F&C, '골든브로스' 플레이어·코인 홀더 보상체계 확립 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250050</link>
+            <guid>https://www.bloter.net/newsView/blt202202250050</guid>
+            <pubDate>Fri, 25 Feb 2022 04:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-25 12:43:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250022.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA["유일무이한 투자회사"...SK스퀘어, 2022년 뿌린대로 거둔다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202250014</link>
             <guid>https://www.bloter.net/newsView/blt202202250014</guid>
             <pubDate>Fri, 25 Feb 2022 03:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-25 11:00:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[K바이오의 엔데믹 비전]①‘팬데믹 대응’ 삼바·셀트·SK바사, 빅3 우뚝…‘다음’ 묻는 시장 (블로터 ─ 테크)]]></title>
@@ -481,7 +497,7 @@ LG유플러스는 양자 컴퓨터의 공격을 직접 막아낼 수 있는 양�
             <title><![CDATA[‘비게임 구독 앱’ 성장세… 지난해 100대 앱 매출, 22조원 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202250011</link>
             <guid>https://www.bloter.net/newsView/blt202202250011</guid>
-            <pubDate>Fri, 25 Feb 2022 03:19:07 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 03:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-25 10:29:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250020.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -588,22 +604,6 @@ LG유플러스는 양자 컴퓨터의 공격을 직접 막아낼 수 있는 양�
             <pubDate>Thu, 24 Feb 2022 02:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-24 10:32:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자컴퓨터 안 두려워…사업화 앞둔 KT·SKT·LGU+ 양자암호 기술 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202230150</link>
-            <guid>https://www.bloter.net/newsView/blt202202230150</guid>
-            <pubDate>Thu, 24 Feb 2022 02:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-24 10:31:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]LG전자는 왜 사업을 접을 때마다 주가가 오르나요? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240007</link>
-            <guid>https://www.bloter.net/newsView/blt202202240007</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-24 09:41:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -882,6 +882,14 @@ LG유플러스는 양자 컴퓨터의 공격을 직접 막아낼 수 있는 양�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240020.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독]넷마블F&C, '골든브로스' 플레이어·코인 홀더 보상체계 확립 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250050</link>
+            <guid>https://www.bloter.net/newsView/blt202202250050</guid>
+            <pubDate>Fri, 25 Feb 2022 04:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블에프앤씨(F&amp;C)의 블록체인 게임 사업이 서서히 윤곽을 드러내고 있다. '아이텀큐브'를 기축통화로 사용하는 첫 번째 블록체인 게임 '골든브로스'(GOLDEN BROS)의 비즈니스 모델(BM)이 공개되며, 다음달 '얼리액세스' 준비에 만전을 기하는 모습이다. 특히 넷마블]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250022.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[메타버스용 AI 번역 기술 개발나선 메타 "비인기 언어도 아우를 것" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202202240012</link>
             <guid>https://www.bloter.net/newsView/blt202202240012</guid>
@@ -968,14 +976,6 @@ LG유플러스는 양자 컴퓨터의 공격을 직접 막아낼 수 있는 양�
             <pubDate>Mon, 21 Feb 2022 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[·키다리스튜디오가 중국 바이트댄스로부터 약 240억원(주당 발행가액 1만7290원) 규모의 투자를 유치했다. 바이트댄스는 키다리스튜디오의 100% 자회사인 레진엔터테인먼트에도 약 240억원 규모의 제3자배정 유상증자에 참여해 총 투자규모는 약 480억원에 이른다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]네이버웹툰 '이두나', OTT 콘텐츠로 영상화…"편성 채널 협의 중" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210078</link>
-            <guid>https://www.bloter.net/newsView/blt202202210078</guid>
-            <pubDate>Mon, 21 Feb 2022 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰에서 연재중인 웹툰 '이두나'가 드라마로 제작된다. 최근 웹툰 IP를 기반으로 한 콘텐츠 제작이 트렌드로 떠오른 가운데 '러브 코미디' 장르의 '이두나'도 관련 대열에 동참하는 것으로 알려졌다. 21일 &lt;블로터&gt; 취재 결과, 웹툰 '이두나' IP를 기반으로]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/21/blt202202210014.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"20년 지나도 포기 못해"…웹젠표 '뮤' IP, '생명 연장의 꿈' 이룰까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
