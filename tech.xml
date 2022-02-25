@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250245</link>
+            <guid>https://www.bloter.net/newsView/blt202202250245</guid>
+            <pubDate>Fri, 25 Feb 2022 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-25 17:46:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250049.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 트위터 이용자, 대선 관심 공약 1위는 '젠더' 정책]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250154</link>
+            <guid>https://www.bloter.net/newsView/blt202202250154</guid>
+            <pubDate>Fri, 25 Feb 2022 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-25 17:01:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250044.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한전선, 연이은 신사업 계획...로봇 시장 진출 검토]]></title>
             <link>https://www.bloter.net/newsView/blt202202250120</link>
             <guid>https://www.bloter.net/newsView/blt202202250120</guid>
             <pubDate>Fri, 25 Feb 2022 07:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-02-25 15:48:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전기 MLCC, 외형 커졌지만 아쉬움 남는 ‘이익률’]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 24 Feb 2022 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-24 16:21:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240027.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]"20년 지나도 포기 못해"…웹젠표 '뮤' IP, '생명 연장의 꿈' 이룰까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240056</link>
-            <guid>https://www.bloter.net/newsView/blt202202240056</guid>
-            <pubDate>Thu, 24 Feb 2022 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-02-24 15:45:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 5G 사업 확대 신호탄 쐈다…SA 옵션4·드론관제 솔루션 선봬]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240032</link>
-            <guid>https://www.bloter.net/newsView/blt202202240032</guid>
-            <pubDate>Thu, 24 Feb 2022 06:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-24 13:31:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
