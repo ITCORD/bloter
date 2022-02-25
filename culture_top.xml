@@ -4,9 +4,27 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 06:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생태계 성장의 딜레마?…'위믹스 소각'을 바라보는 두 가지 시선]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250054</link>
+            <guid>https://www.bloter.net/newsView/blt202202250054</guid>
+            <pubDate>Fri, 25 Feb 2022 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-02-25 13:25:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250025.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]넷마블F&C, '골든브로스' 플레이어·코인 홀더 보상체계 확립]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250050</link>
+            <guid>https://www.bloter.net/newsView/blt202202250050</guid>
+            <pubDate>Fri, 25 Feb 2022 06:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-02-25 12:43:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250022.282x159.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['무신사' 보란 듯 '영업기밀' 공개한 '크림'…"가품 판정, 브랜드 고유 권한 아냐"]]></title>
             <link>https://www.bloter.net/newsView/blt202202240239</link>
@@ -14,7 +32,7 @@
             <pubDate>Thu, 24 Feb 2022 10:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>
                         <span class="date">2022-02-24 19:14:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240050.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240050.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현실과 마주한 카카오엔터 IP, '팬덤 트렌드' 바꿀까]]></title>
@@ -24,24 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-24 19:12:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240044.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]"20년 지나도 포기 못해"…웹젠표 '뮤' IP, '생명 연장의 꿈' 이룰까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240056</link>
-            <guid>https://www.bloter.net/newsView/blt202202240056</guid>
-            <pubDate>Thu, 24 Feb 2022 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-02-24 15:45:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240026.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'열혈강호' IP, 엠게임 '효자' 입증…"올해도 잘 부탁해"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240029</link>
-            <guid>https://www.bloter.net/newsView/blt202202240029</guid>
-            <pubDate>Thu, 24 Feb 2022 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-02-24 11:44:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240020.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
