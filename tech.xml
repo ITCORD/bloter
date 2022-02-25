@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 10:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 11:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['본업 잘하고도'...‘2세 경영’ 한글과컴퓨터, 영업익 ‘뚝’]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250291</link>
+            <guid>https://www.bloter.net/newsView/blt202202250291</guid>
+            <pubDate>Fri, 25 Feb 2022 11:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-25 19:32:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250065.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’]]></title>
             <link>https://www.bloter.net/newsView/blt202202250245</link>
             <guid>https://www.bloter.net/newsView/blt202202250245</guid>
             <pubDate>Fri, 25 Feb 2022 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-25 17:46:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250049.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250049.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Z세대 트위터 이용자, 대선 관심 공약 1위는 '젠더' 정책]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 24 Feb 2022 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-24 17:19:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남궁훈표 카카오 메타버스란?…"관심사 기반 오픈채팅과 글로벌"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240106</link>
-            <guid>https://www.bloter.net/newsView/blt202202240106</guid>
-            <pubDate>Thu, 24 Feb 2022 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-24 16:21:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240027.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
