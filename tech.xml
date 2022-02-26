@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 01:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 침공이 미국과 러시아의 ‘우주협력’에 미치는 영향]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250288</link>
+            <guid>https://www.bloter.net/newsView/blt202202250288</guid>
+            <pubDate>Sat, 26 Feb 2022 00:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-26 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250064.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[함께 쓰는 풀리퀘]지금 하는 크롤링, 혹시 ‘디도스’는 아닌가요]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250117</link>
+            <guid>https://www.bloter.net/newsView/blt202202250117</guid>
+            <pubDate>Sat, 26 Feb 2022 00:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-26 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250045.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['본업 잘하고도'...‘2세 경영’ 한글과컴퓨터, 영업익 ‘뚝’]]></title>
             <link>https://www.bloter.net/newsView/blt202202250291</link>
             <guid>https://www.bloter.net/newsView/blt202202250291</guid>
             <pubDate>Fri, 25 Feb 2022 11:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-25 19:32:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250065.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250065.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 24 Feb 2022 10:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-24 18:25:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240043.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모바일히어로즈를만나다]"제품 거래 고집하던 시대 끝났다"…소비가치에 눈 뜨다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240158</link>
-            <guid>https://www.bloter.net/newsView/blt202202240158</guid>
-            <pubDate>Thu, 24 Feb 2022 09:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-24 17:23:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]3수 끝 화려한 성적표...삼성 폴더블폰, 갤럭시 노트 대체할 만했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240122</link>
-            <guid>https://www.bloter.net/newsView/blt202202240122</guid>
-            <pubDate>Thu, 24 Feb 2022 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-02-24 17:19:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
