@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 05:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 06:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,12 +429,20 @@ LG전자의 태양광 사업 실패 원인은 크게 두 가지가 보입니다.
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[스타트업 돋보기]'핏펫'이 반려동물 시장 밸류체인을 구축한 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230160</link>
+            <guid>https://www.bloter.net/newsView/blt202202230160</guid>
+            <pubDate>Sat, 26 Feb 2022 06:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-26 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/23/blt202202230036.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[대웅제약, 2년 연속 신약 출시 ‘대기록’ 가시화 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202220149</link>
             <guid>https://www.bloter.net/newsView/blt202202220149</guid>
             <pubDate>Sat, 26 Feb 2022 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-26 12:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220041.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/22/blt202202220041.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 침공이 미국과 러시아의 ‘우주협력’에 미치는 영향 (블로터 ─ 테크)]]></title>
@@ -563,14 +571,6 @@ LG전자의 태양광 사업 실패 원인은 크게 두 가지가 보입니다.
             <pubDate>Thu, 24 Feb 2022 10:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-02-24 19:14:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240050.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실과 마주한 카카오엔터 IP, '팬덤 트렌드' 바꿀까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240237</link>
-            <guid>https://www.bloter.net/newsView/blt202202240237</guid>
-            <pubDate>Thu, 24 Feb 2022 10:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-02-24 19:12:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
