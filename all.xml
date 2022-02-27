@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 08:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 09:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -305,7 +305,7 @@ SK스퀘어는 2022년 장밋빛 성장을 기대했다. 핵심은 우량 자회
             <title><![CDATA['시선 추적' 가능한 플스·애플 VR 헤드셋 향한 기대와 우려의 시선 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202202250287</link>
             <guid>https://www.bloter.net/newsView/blt202202250287</guid>
-            <pubDate>Sun, 27 Feb 2022 08:18:56 GMT</pubDate>
+            <pubDate>Sun, 27 Feb 2022 08:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-27 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250063.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -336,6 +336,14 @@ SK스퀘어는 2022년 장밋빛 성장을 기대했다. 핵심은 우량 자회
             <guid>https://www.bloter.net/newsView/blt202112220054</guid>
             <pubDate>Sun, 27 Feb 2022 08:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[택시동승 합법화 이끌어 낸 '코나투스'…목표는 'MaaS' (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250177</link>
+            <guid>https://www.bloter.net/newsView/blt202202250177</guid>
+            <pubDate>Sun, 27 Feb 2022 02:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-27 11:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250046.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 침공이 미국과 러시아의 ‘우주협력’에 미치는 영향 (블로터 ─ 비즈니스)]]></title>
@@ -378,14 +386,6 @@ SK스퀘어는 2022년 장밋빛 성장을 기대했다. 핵심은 우량 자회
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250029.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[양향자 의원 “러시아 우크라 침공 규탄…반도체 수출 제재 동참해야” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250066</link>
-            <guid>https://www.bloter.net/newsView/blt202202250066</guid>
-            <pubDate>Fri, 25 Feb 2022 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-25 14:22:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -425,7 +425,7 @@ SK스퀘어는 2022년 장밋빛 성장을 기대했다. 핵심은 우량 자회
             <title><![CDATA['시선 추적' 가능한 플스·애플 VR 헤드셋 향한 기대와 우려의 시선 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202250287</link>
             <guid>https://www.bloter.net/newsView/blt202202250287</guid>
-            <pubDate>Sun, 27 Feb 2022 08:20:13 GMT</pubDate>
+            <pubDate>Sun, 27 Feb 2022 08:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-27 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250063.620x344.0.jpeg" length="0" type="image/jpeg"/>
         </item>
