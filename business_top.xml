@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 05:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 06:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[택시동승 합법화 이끌어 낸 '코나투스'…목표는 'MaaS']]></title>
-            <link>https://www.bloter.net/newsView/blt202202250177</link>
-            <guid>https://www.bloter.net/newsView/blt202202250177</guid>
-            <pubDate>Sun, 27 Feb 2022 02:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-27 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250046.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[남극 관광과 연구로 발생하는 ‘블랙카본’…눈 빨리 녹였다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250271</link>
+            <guid>https://www.bloter.net/newsView/blt202202250271</guid>
+            <pubDate>Sun, 27 Feb 2022 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-27 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250055.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["승객 골라태우기? 일반택시 승차거부가 문제"...카카오, 서울시 발표에 '발끈']]></title>
-            <link>https://www.bloter.net/newsView/blt202202240034</link>
-            <guid>https://www.bloter.net/newsView/blt202202240034</guid>
-            <pubDate>Sun, 27 Feb 2022 02:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[구글·애플의 '탄소중립' 점수는...독일 NCI "실효성 미미"]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110324</link>
+            <guid>https://www.bloter.net/newsView/blt202202110324</guid>
+            <pubDate>Sun, 27 Feb 2022 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['카카오택시' 승객 골라태우기 정황 포착…가맹택시 콜 몰아주기도?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202230011</link>
-            <guid>https://www.bloter.net/newsView/blt202202230011</guid>
-            <pubDate>Sun, 27 Feb 2022 02:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자, CDP 기후변화 대응 등급 'A-' → 'B' 한 단계 하락]]></title>
+            <link>https://www.bloter.net/newsView/blt202112090023</link>
+            <guid>https://www.bloter.net/newsView/blt202112090023</guid>
+            <pubDate>Sun, 27 Feb 2022 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오T '평점 5.0'인 택시 기사는 왜 뿔이 났을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210104</link>
-            <guid>https://www.bloter.net/newsView/blt202202210104</guid>
-            <pubDate>Sun, 27 Feb 2022 02:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[구글, ‘기후변화’ 부정하면 유튜브 수익창출 막기로]]></title>
+            <link>https://www.bloter.net/newsView/blt202110080002</link>
+            <guid>https://www.bloter.net/newsView/blt202110080002</guid>
+            <pubDate>Sun, 27 Feb 2022 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KT, 민·관·국제기구 3자 협력으로 기후변화 대응...'그린뉴딜' 스타트]]></title>
+            <link>https://www.bloter.net/newsView/blt202007290013</link>
+            <guid>https://www.bloter.net/newsView/blt202007290013</guid>
+            <pubDate>Sun, 27 Feb 2022 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김효정</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

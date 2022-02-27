@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 05:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 06:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HJ중공업·포스코, 시민단체 막무가내 요구에 발목 잡혔다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250015</link>
+            <guid>https://www.bloter.net/newsView/blt202202250015</guid>
+            <pubDate>Sun, 27 Feb 2022 06:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-25 18:41:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250056.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스뱅크, 카카오뱅크·케이뱅크보다 중저신용자 잘 포용했다]]></title>
             <link>https://www.bloter.net/newsView/blt202202250281</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 25 Feb 2022 10:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-25 10:29:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250020.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 규제당국, 머스크 형제 테슬라 '내부자거래' 위반 혐의 조사]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250006</link>
-            <guid>https://www.bloter.net/newsView/blt202202250006</guid>
-            <pubDate>Fri, 25 Feb 2022 07:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-25 09:48:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
