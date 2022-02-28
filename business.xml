@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 10:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘FC-BGA’ 힘 더 주는 삼성전기, 베트남법인 3200억원 보완투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202202280134</link>
+            <guid>https://www.bloter.net/newsView/blt202202280134</guid>
+            <pubDate>Mon, 28 Feb 2022 11:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-28 16:49:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스·노·태' 사용 경험 일원화...'갤럭시 생태계' 힘 싣는 삼성전자]]></title>
             <link>https://www.bloter.net/newsView/blt202202280080</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 28 Feb 2022 10:18:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-28 09:56:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가챠 없이 동등한 보상…'더 샌드박스'에 한국인 몰리는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280003</link>
-            <guid>https://www.bloter.net/newsView/blt202202280003</guid>
-            <pubDate>Mon, 28 Feb 2022 10:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-28 09:22:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
