@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 01:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한전선, 캐나다 초고압 전선 프로젝트 처음 따냈다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202280014</link>
+            <guid>https://www.bloter.net/newsView/blt202202280014</guid>
+            <pubDate>Mon, 28 Feb 2022 02:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-02-28 10:52:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 '민감 콘텐츠 경고’ 셀프 체크, 모든 사용자로 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202202280007</link>
+            <guid>https://www.bloter.net/newsView/blt202202280007</guid>
+            <pubDate>Mon, 28 Feb 2022 02:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-28 10:14:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280004.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, "우크라이나 내 '러시아 국영언론' 등 계정 차단"]]></title>
             <link>https://www.bloter.net/newsView/blt202202280004</link>
             <guid>https://www.bloter.net/newsView/blt202202280004</guid>
             <pubDate>Mon, 28 Feb 2022 00:59:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-28 09:56:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가챠 없이 동등한 보상…'더 샌드박스'에 한국인 몰리는 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 26 Feb 2022 00:55:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-26 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250045.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['본업 잘하고도'...‘2세 경영’ 한글과컴퓨터, 영업익 ‘뚝’]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250291</link>
-            <guid>https://www.bloter.net/newsView/blt202202250291</guid>
-            <pubDate>Fri, 25 Feb 2022 11:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-02-25 19:32:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250065.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250245</link>
-            <guid>https://www.bloter.net/newsView/blt202202250245</guid>
-            <pubDate>Fri, 25 Feb 2022 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-02-25 17:46:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250049.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

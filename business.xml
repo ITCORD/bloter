@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 01:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년 만에 돌아온 MWC…삼성 갤럭시북·중국 스마트폰 신작 '주목']]></title>
+            <link>https://www.bloter.net/newsView/blt202202280002</link>
+            <guid>https://www.bloter.net/newsView/blt202202280002</guid>
+            <pubDate>Mon, 28 Feb 2022 02:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-28 08:39:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['시선 추적' 가능한 플스·애플 VR 헤드셋 향한 기대와 우려의 시선]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250287</link>
+            <guid>https://www.bloter.net/newsView/blt202202250287</guid>
+            <pubDate>Mon, 28 Feb 2022 02:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-27 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250063.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[뿌리 깊은 통신사업자 LG유플러스...탈통신 문제 없나]]></title>
             <link>https://www.bloter.net/newsView/blt202202210152</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 27 Feb 2022 09:17:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-02-27 11:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250046.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 침공이 미국과 러시아의 ‘우주협력’에 미치는 영향]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250288</link>
-            <guid>https://www.bloter.net/newsView/blt202202250288</guid>
-            <pubDate>Sun, 27 Feb 2022 07:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-26 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250064.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HJ중공업·포스코, 시민단체 막무가내 요구에 발목 잡혔다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250015</link>
-            <guid>https://www.bloter.net/newsView/blt202202250015</guid>
-            <pubDate>Sun, 27 Feb 2022 06:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-02-25 18:41:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250056.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
