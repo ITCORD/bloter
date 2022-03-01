@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 10:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 11:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['넥슨 창업주' 김정주 NXC 이사, 미국서 별세]]></title>
+            <link>https://www.bloter.net/newsView/blt202203010004</link>
+            <guid>https://www.bloter.net/newsView/blt202203010004</guid>
+            <pubDate>Tue, 01 Mar 2022 11:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨 창업주인 김정주 NXC 이사(54)가 유명을 달리한 것으로 알려졌다.  1일 NXC에 따르면 김정주 이사가 지난달 말 미국에서 별세했다. 고인은 이전부터 우울증 치료를 받아왔으며, 최근 들어 증세가 악화됐던 것으로 알려졌다.NXC 관계자는 "현재 유가족 모두 황망한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/01/blt202203010006.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌서 통한 '건쉽배틀'…조이시티, 북미·동남아 양갈래 출항]]></title>
             <link>https://www.bloter.net/newsView/blt202202280144</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Feb 2022 06:21:38 GMT</pubDate>
             <content:encoded><![CDATA[지난해 '엠게임'은 창사 이래 최고 영업이익과 당기순이익을 달성하며 최고의 한 해를 보냈다. 실적 개선의 큰 축은 '중국'과 '열혈강호 온라인'이다. 만화 '열혈강호' IP를 기반으로 만든 PC 온라인 게임이 중국에서 큰 호응을 받으며 엠게임의 실적을 견인하고 있다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스용 AI 번역 기술 개발나선 메타 "비인기 언어도 아우를 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240012</link>
-            <guid>https://www.bloter.net/newsView/blt202202240012</guid>
-            <pubDate>Thu, 24 Feb 2022 02:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 메타버스에서 활용 가능한 인공지능(AI) 기반의 번역 서비스 개발에 나선다. 23일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 이날 온라인 생중계된 ‘인사이드 더 랩’ 행사에서 마크 저커버그 메타 최고경영자(CEO)는 메타버스에서 이용할 수 있는 여]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
