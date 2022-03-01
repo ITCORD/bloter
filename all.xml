@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 06:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 07:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,12 +393,20 @@ CNN 등 외신은 조 바이든 미국 대통령이 러시아의 우크라이나
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[테크쑤다]"더 사람같은 AI"...SaaS형태 '챗봇 솔루션' 내놓은 카카오엔터프라이즈 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202280068</link>
+            <guid>https://www.bloter.net/newsView/blt202202280068</guid>
+            <pubDate>Tue, 01 Mar 2022 07:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-01 16:04:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280010.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]챗봇 필요한 분, 우리 클라우드로 오세요…카카오·네이버·KT의 '플랫폼' 전략 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202202280221</link>
             <guid>https://www.bloter.net/newsView/blt202202280221</guid>
-            <pubDate>Tue, 01 Mar 2022 06:21:48 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 06:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-01 15:05:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280057.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280057.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[OTT오리지널]'웨이브'가 선택한 '약한영웅', 웹툰 IP 흥행 이어갈까 (블로터 ─ 테크)]]></title>
@@ -527,14 +535,6 @@ CNN 등 외신은 조 바이든 미국 대통령이 러시아의 우크라이나
             <pubDate>Mon, 28 Feb 2022 00:57:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-02-28 09:22:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 돌아온 MWC…삼성 갤럭시북·중국 스마트폰 신작 '주목' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280002</link>
-            <guid>https://www.bloter.net/newsView/blt202202280002</guid>
-            <pubDate>Mon, 28 Feb 2022 00:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-02-28 08:39:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -813,14 +813,6 @@ CNN 등 외신은 조 바이든 미국 대통령이 러시아의 우크라이나
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250025.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[숏폼 플랫폼 '틱톡', 영상 길이 최대 10분까지 늘린다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203010003</link>
-            <guid>https://www.bloter.net/newsView/blt202203010003</guid>
-            <pubDate>Tue, 01 Mar 2022 02:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 모바일 동영상 플랫폼 '틱톡'이 업로드할 수 있는 동영상의 길이를 10분으로 늘린다.  28일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면, 틱톡은 지난 몇 달간 영상 길이를 늘리는 방안을 시험해왔고 최대 10분까지 허용하기로 결정했다. 틱톡은 영상의 길이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/01/blt202203010004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[글로벌서 통한 '건쉽배틀'…조이시티, 북미·동남아 양갈래 출항 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202202280144</link>
             <guid>https://www.bloter.net/newsView/blt202202280144</guid>
@@ -851,6 +843,22 @@ CNN 등 외신은 조 바이든 미국 대통령이 러시아의 우크라이나
             <pubDate>Mon, 28 Feb 2022 00:57:56 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 게임 플랫폼인 '더 샌드박스(The Sandbox)'에서 국내 유저들의 비중은 세계 최고 수준이다. 한국형 게임에 보편적으로 적용되는 '가챠(무작위 뽑기 방식의 랜덤박스)' 시스템을 채택하지 않았다. 유저가 직접 아이템을 제작하고 현금적 보상을 획득할 수 있다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위믹스 게임 'ROS', 글로벌서 통했나?…'실더리움' 토큰 600% 상승 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202270002</link>
+            <guid>https://www.bloter.net/newsView/blt202202270002</guid>
+            <pubDate>Sun, 27 Feb 2022 12:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드의 블록체인 게임 차기작인 '라이즈 오브 스타즈'(ROS)가 출시 초기 글로벌 시장에서 핫한 반응을 이끌어내고 있다. ROS의 게임 토큰 '실더리움' 가격이 출시 이틀 만에 약 600% 상승한 것이 결정적인 근거다. ROS가 전략 시뮬레이션(SLG) 장르인 만큼, 핵심 콘텐츠]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/27/blt202202270012.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[생태계 성장의 딜레마?…'위믹스 소각'을 바라보는 두 가지 시선 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250054</link>
+            <guid>https://www.bloter.net/newsView/blt202202250054</guid>
+            <pubDate>Fri, 25 Feb 2022 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드가 암호화폐 '위믹스'를 소각해 관련 생태계와 커뮤니티 성장을 도모한다. 다만 업계에서는 '실효성이 미미하다'며 위메이드와는 상반된 반응을 보이고 있다. 2000만개 위믹스 소각…1300억원 규모  25일 위메이드는 1차 위믹스 소각을 단행하기로 했다. 이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250025.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]넷마블F&C, '골든브로스' 플레이어·코인 홀더 보상체계 확립 (블로터 ─ 컬처)]]></title>
@@ -899,14 +907,6 @@ CNN 등 외신은 조 바이든 미국 대통령이 러시아의 우크라이나
             <pubDate>Thu, 24 Feb 2022 02:11:10 GMT</pubDate>
             <content:encoded><![CDATA[메타가 메타버스에서 활용 가능한 인공지능(AI) 기반의 번역 서비스 개발에 나선다. 23일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 이날 온라인 생중계된 ‘인사이드 더 랩’ 행사에서 마크 저커버그 메타 최고경영자(CEO)는 메타버스에서 이용할 수 있는 여]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240015.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 우크라이나 사태  영상 공유한 일부 계정 정지..."실수였다" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240003</link>
-            <guid>https://www.bloter.net/newsView/blt202202240003</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:48 GMT</pubDate>
-            <content:encoded><![CDATA[러시아군이 우크라이나 동부 돈바스 지역에 진입하며 군사적 긴장이 고조되고 있는 가운데 이와 관련된 정보를 공유한 일부 소셜미디어미디어(SNS) 계정이 정지된 것으로 확인됐다. 23일(현지시간) IT 전문매체 &lt;더버지&gt;는 SNS가 러시아·우크라이나 사태에 대]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240001.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"20년 지나도 포기 못해"…웹젠표 '뮤' IP, '생명 연장의 꿈' 이룰까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
