@@ -4,9 +4,27 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 07:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 08:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]'웨이브'가 선택한 '약한영웅', 웹툰 IP 흥행 이어갈까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250279</link>
+            <guid>https://www.bloter.net/newsView/blt202202250279</guid>
+            <pubDate>Tue, 01 Mar 2022 08:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-03-01 14:05:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280005.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숏폼 플랫폼 '틱톡', 영상 길이 최대 10분까지 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203010003</link>
+            <guid>https://www.bloter.net/newsView/blt202203010003</guid>
+            <pubDate>Tue, 01 Mar 2022 08:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+                        <span class="date">2022-03-01 10:39:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/01/blt202203010004.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼굴없던 LF표 가상인간, '3D 버추얼' 입고 '헤지스 프렌즈'로 레벨업]]></title>
             <link>https://www.bloter.net/newsView/blt202202280216</link>
@@ -14,7 +32,7 @@
             <pubDate>Mon, 28 Feb 2022 11:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>
                         <span class="date">2022-02-28 19:35:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280049.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280049.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["2골 먹히면 압박능력 향상?"…피파4 모멘텀 의혹, 밝혀질까]]></title>
@@ -24,24 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-02-28 16:14:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280020.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 게임 'ROS', 글로벌서 통했나?…'실더리움' 토큰 600% 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202202270002</link>
-            <guid>https://www.bloter.net/newsView/blt202202270002</guid>
-            <pubDate>Sun, 27 Feb 2022 13:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-02-27 20:26:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/27/blt202202270012.282x159.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생태계 성장의 딜레마?…'위믹스 소각'을 바라보는 두 가지 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250054</link>
-            <guid>https://www.bloter.net/newsView/blt202202250054</guid>
-            <pubDate>Fri, 25 Feb 2022 06:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-02-25 13:25:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250025.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
