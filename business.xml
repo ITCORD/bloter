@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 12:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 13:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[①'조 단위' M&A 시동걸까...HMM 유력한 인수후보]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020057</link>
+            <guid>https://www.bloter.net/newsView/blt202203020057</guid>
+            <pubDate>Wed, 02 Mar 2022 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-02 15:36:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년희망적금 대상자 아니라면…인터넷은행·저축은행이 대안]]></title>
             <link>https://www.bloter.net/newsView/blt202203020075</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 02 Mar 2022 06:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 08:53:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 사이버 공격으로 일부 ‘자료 도난’ 인정]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020001</link>
-            <guid>https://www.bloter.net/newsView/blt202203020001</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 08:11:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
