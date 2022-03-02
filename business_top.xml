@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 01:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 02:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[챗봇 필요한 분, 우리 클라우드로 오세요…카카오·네이버·KT의 '플랫폼' 전략]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280221</link>
-            <guid>https://www.bloter.net/newsView/blt202202280221</guid>
-            <pubDate>Tue, 01 Mar 2022 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-01 15:05:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280057.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG이노텍, 전장 사업부 조직개편...옅어지는 존재감]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020005</link>
+            <guid>https://www.bloter.net/newsView/blt202203020005</guid>
+            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-02 11:01:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020005.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[물류·바이오부터 마이데이터까지…'디지코' KT의 변신은 계속된다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220120</link>
-            <guid>https://www.bloter.net/newsView/blt202202220120</guid>
-            <pubDate>Tue, 01 Mar 2022 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[광학솔루션 힘 주는 LG이노텍, 단일 사업부 첫 1조원 투자 계획]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260161</link>
+            <guid>https://www.bloter.net/newsView/blt202201260161</guid>
+            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[AMD '자일링스' 손잡은 카카오엔터프라이즈…"클라우드 비용 2배 절감"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180011</link>
-            <guid>https://www.bloter.net/newsView/blt202202180011</guid>
-            <pubDate>Tue, 01 Mar 2022 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘경쟁사 부진’ 호재 LG이노텍, 애플 매출 2배 가까이 늘었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202111150028</link>
+            <guid>https://www.bloter.net/newsView/blt202111150028</guid>
+            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 '하이퍼클로바'에 예제 넣으니…'원데이 클래스 알차요' 키워드 리뷰 탄생했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202112310091</link>
-            <guid>https://www.bloter.net/newsView/blt202112310091</guid>
-            <pubDate>Tue, 01 Mar 2022 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오엔터프라이즈, 출범 1년 만에 '1조 가치'...왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202101060007</link>
-            <guid>https://www.bloter.net/newsView/blt202101060007</guid>
-            <pubDate>Tue, 01 Mar 2022 06:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG이노텍 '탈(脫)희토류' 본격화...전장부품 수익성 개선될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202109130008</link>
+            <guid>https://www.bloter.net/newsView/blt202109130008</guid>
+            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
