@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020092</link>
+            <guid>https://www.bloter.net/newsView/blt202203020092</guid>
+            <pubDate>Wed, 02 Mar 2022 07:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드가 글로벌 투자 전문가 허석준 부사장을 영입하며 투자 영역을 글로벌 영역으로 확대한다. 앞서 위메이드는 게임 개발사 등에 꾸준한 투자 행보를 이어온 바 있는데, 블록체인 플랫폼 '위믹스' 및 플레이 투 언(P2E) 게임 사업에 본격적으로 진출하면서 이와]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['넥슨 창업주' 김정주 NXC 이사, 미국서 별세]]></title>
             <link>https://www.bloter.net/newsView/blt202203010004</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Feb 2022 06:21:38 GMT</pubDate>
             <content:encoded><![CDATA[지난 23일 출시한 '뮤 오리진3'는 모바일 게임 시장의 선택을 받을 수 있을까. 뮤 오리진3는 모바일 게임으로는 최초로 세 번째 넘버링을 단 타이틀이다. 그만큼 웹젠의 기대치가 대폭 투영된 모바일 MMORPG로 풀이된다. 다만, 업계에서는 '20여년이 지난 IP를 활용하는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240026.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'열혈강호' IP, 엠게임 '효자' 입증…"올해도 잘 부탁해"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240029</link>
-            <guid>https://www.bloter.net/newsView/blt202202240029</guid>
-            <pubDate>Fri, 25 Feb 2022 06:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 '엠게임'은 창사 이래 최고 영업이익과 당기순이익을 달성하며 최고의 한 해를 보냈다. 실적 개선의 큰 축은 '중국'과 '열혈강호 온라인'이다. 만화 '열혈강호' IP를 기반으로 만든 PC 온라인 게임이 중국에서 큰 호응을 받으며 엠게임의 실적을 견인하고 있다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
