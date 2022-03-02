@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG이노텍, 전장 사업부 조직개편...옅어지는 존재감]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020005</link>
-            <guid>https://www.bloter.net/newsView/blt202203020005</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-02 11:01:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020005.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[청년희망적금 대상자 아니라면…인터넷은행·저축은행이 대안]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020075</link>
+            <guid>https://www.bloter.net/newsView/blt202203020075</guid>
+            <pubDate>Wed, 02 Mar 2022 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-02 15:04:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020021.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[광학솔루션 힘 주는 LG이노텍, 단일 사업부 첫 1조원 투자 계획]]></title>
-            <link>https://www.bloter.net/newsView/blt202201260161</link>
-            <guid>https://www.bloter.net/newsView/blt202201260161</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[토스뱅크, 카카오뱅크·케이뱅크보다 중저신용자 잘 포용했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250281</link>
+            <guid>https://www.bloter.net/newsView/blt202202250281</guid>
+            <pubDate>Wed, 02 Mar 2022 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘경쟁사 부진’ 호재 LG이노텍, 애플 매출 2배 가까이 늘었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202111150028</link>
-            <guid>https://www.bloter.net/newsView/blt202111150028</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[2030이 가입할 수 있는 최강의 금융상품…'청년희망적금' 나온다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202070158</link>
+            <guid>https://www.bloter.net/newsView/blt202202070158</guid>
+            <pubDate>Wed, 02 Mar 2022 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG이노텍 '탈(脫)희토류' 본격화...전장부품 수익성 개선될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202109130008</link>
-            <guid>https://www.bloter.net/newsView/blt202109130008</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[케이뱅크 첫 흑자달성…꼭 업비트 때문은 아니다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202030129</link>
+            <guid>https://www.bloter.net/newsView/blt202202030129</guid>
+            <pubDate>Wed, 02 Mar 2022 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2030 실수요자 흡수한 케이뱅크, 전세대출 취급 두 달만에 1천억 넘었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202111170004</link>
+            <guid>https://www.bloter.net/newsView/blt202111170004</guid>
+            <pubDate>Wed, 02 Mar 2022 06:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
