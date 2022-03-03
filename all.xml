@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 12:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 13:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,12 +393,20 @@ LG이노텍은 3개 사업부(광학솔루션·기판소재·전장부품)로 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[“블랙리스트·슬레이브...차별적 용어 퇴출했죠” 세계 여성의 날 맞은 AWS (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030165</link>
+            <guid>https://www.bloter.net/newsView/blt202203030165</guid>
+            <pubDate>Thu, 03 Mar 2022 13:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-03 21:33:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030059.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[김정주, 별이 지다]②'게임 천재'가 바라본 '변화의 물결' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203030167</link>
             <guid>https://www.bloter.net/newsView/blt202203030167</guid>
-            <pubDate>Thu, 03 Mar 2022 12:26:43 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 12:25:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-03 19:21:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030061.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030061.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]아모레퍼시픽은 어떻게 유튜브 100만 구독자를 모았나 (블로터 ─ 테크)]]></title>
@@ -527,14 +535,6 @@ LG이노텍은 3개 사업부(광학솔루션·기판소재·전장부품)로 �
             <pubDate>Wed, 02 Mar 2022 10:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-02 18:17:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020042.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[K바이오의 엔데믹 비전]④로직스 ‘생산’·에피스 ‘개발’…삼성의 빅파마 도약 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020205</link>
-            <guid>https://www.bloter.net/newsView/blt202203020205</guid>
-            <pubDate>Wed, 02 Mar 2022 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-02 18:06:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
