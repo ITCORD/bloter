@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 11:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 12:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김정주, 별이 지다]①NXC·넥슨의 미래는]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020204</link>
+            <guid>https://www.bloter.net/newsView/blt202203020204</guid>
+            <pubDate>Thu, 03 Mar 2022 12:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최초 MMORPG '바람의나라'에 이어 다양한 히트작을 배출하며, 넥슨을 글로벌 기업으로 성장시킨 김정주 창업주가 지난달 말 세상을 떠났습니다. &lt;블로터&gt;는 김정주 넥슨 창업주의 일생을 통해 지주사 NXC와 핵심 계열사인 넥슨의 현재와 미래를 다양한 시각에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020055.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202203020092</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 01 Mar 2022 07:21:34 GMT</pubDate>
             <content:encoded><![CDATA[위메이드의 블록체인 게임 차기작인 '라이즈 오브 스타즈'(ROS)가 출시 초기 글로벌 시장에서 핫한 반응을 이끌어내고 있다. ROS의 게임 토큰 '실더리움' 가격이 출시 이틀 만에 약 600% 상승한 것이 결정적인 근거다. ROS가 전략 시뮬레이션(SLG) 장르인 만큼, 핵심 콘텐츠]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/27/blt202202270012.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생태계 성장의 딜레마?…'위믹스 소각'을 바라보는 두 가지 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250054</link>
-            <guid>https://www.bloter.net/newsView/blt202202250054</guid>
-            <pubDate>Tue, 01 Mar 2022 07:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 암호화폐 '위믹스'를 소각해 관련 생태계와 커뮤니티 성장을 도모한다. 다만 업계에서는 '실효성이 미미하다'며 위메이드와는 상반된 반응을 보이고 있다. 2000만개 위믹스 소각…1300억원 규모  25일 위메이드는 1차 위믹스 소각을 단행하기로 했다. 이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250025.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
