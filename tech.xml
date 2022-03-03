@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 04:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 대리노조와 첫 상견례…유료멤버십 폐지될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030032</link>
+            <guid>https://www.bloter.net/newsView/blt202203030032</guid>
+            <pubDate>Thu, 03 Mar 2022 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-03 12:54:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퇴직한 고경력 과학기술인 노하우로 ‘중소기업 애로’ 해결]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030023</link>
+            <guid>https://www.bloter.net/newsView/blt202203030023</guid>
+            <pubDate>Thu, 03 Mar 2022 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-03 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030016.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 '5G 가상 기지국', MWC서 통신사 CTO들 선택 받았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030021</link>
+            <guid>https://www.bloter.net/newsView/blt202203030021</guid>
+            <pubDate>Thu, 03 Mar 2022 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-03 11:51:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
             <link>https://www.bloter.net/newsView/blt202203030020</link>
             <guid>https://www.bloter.net/newsView/blt202203030020</guid>
             <pubDate>Thu, 03 Mar 2022 02:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-03 11:23:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 이어 LG CNS도 '5G 특화망' 입는다…스마트팩토리 차별화]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 02 Mar 2022 03:17:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-02 11:46:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 전장 사업부 조직개편...옅어지는 존재감]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020005</link>
-            <guid>https://www.bloter.net/newsView/blt202203020005</guid>
-            <pubDate>Wed, 02 Mar 2022 02:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-02 11:01:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]곧 '좋은 날' 온다...삼성전자가 메모리시장 낙관하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020020</link>
-            <guid>https://www.bloter.net/newsView/blt202203020020</guid>
-            <pubDate>Wed, 02 Mar 2022 02:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-02 10:46:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 러시아인 가상자산 계정 동결 요청…코인베이스·바이낸스 ‘거부’]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020004</link>
-            <guid>https://www.bloter.net/newsView/blt202203020004</guid>
-            <pubDate>Wed, 02 Mar 2022 01:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 09:27:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
