@@ -4,17 +4,9 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030020</link>
-            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
-            <pubDate>Thu, 03 Mar 2022 02:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[드림어스컴퍼니의 오디오 플랫폼 '플로'(FLO)가 크리에이터 이코노미 구축을 본격화한다. '크리에이터 오픈플랫폼'을 내세운 플로는 첫 번째 단계로 크리에이터와 팬이 콘텐츠에 대한 의견을 나누는 '소통'에 집중할 계획이다.  3일 드림어스컴퍼니는 "플로 애플리케]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202203020092</link>
@@ -32,6 +24,14 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/01/blt202203010006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숏폼 플랫폼 '틱톡', 영상 길이 최대 10분까지 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203010003</link>
+            <guid>https://www.bloter.net/newsView/blt202203010003</guid>
+            <pubDate>Thu, 03 Mar 2022 06:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[숏폼 모바일 동영상 플랫폼 '틱톡'이 업로드할 수 있는 동영상의 길이를 10분으로 늘린다.  28일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면, 틱톡은 지난 몇 달간 영상 길이를 늘리는 방안을 시험해왔고 최대 10분까지 허용하기로 결정했다. 틱톡은 영상의 길이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/01/blt202203010004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[얼굴없던 LF표 가상인간, '3D 버추얼' 입고 '헤지스 프렌즈'로 레벨업]]></title>
             <link>https://www.bloter.net/newsView/blt202202280216</link>
             <guid>https://www.bloter.net/newsView/blt202202280216</guid>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 28 Feb 2022 09:23:40 GMT</pubDate>
             <content:encoded><![CDATA['건쉽배틀' 타이틀의 글로벌, 특히 일본과 북미 시장에서의 인기를 확인한 조이시티가 이번엔 동남아시아, 남미 시장 개척에 나선다. 글로벌 시장에서 부는 플레이 투 언(P2E) 상승세를 타고 동남아 및 남미 시장을 향해 자사 첫 P2E 게임 '건쉽배틀 크립토 컨플릭트'를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2골 먹히면 압박능력 향상?"…피파4 모멘텀 의혹, 밝혀질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202280105</link>
+            <guid>https://www.bloter.net/newsView/blt202202280105</guid>
+            <pubDate>Thu, 03 Mar 2022 06:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[-"2대0으로 이기고 있다가 순식간에 2대3으로 역전당했다"-"90분대에 골을 허용하는 상황이 빈번하다. 만나는 상대가 다르고 계정도 번갈아 사용하는데 실점하는 타이밍은 늘 비슷한 것 같다"축구 게임 '피파온라인4'를 자주 하는 유저라면 이런 기현상을 종종 겪어본]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터 '민감 콘텐츠 경고’ 셀프 체크, 모든 사용자로 확대]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Feb 2022 11:18:03 GMT</pubDate>
             <content:encoded><![CDATA[넷마블에프앤씨(F&amp;C)의 블록체인 게임 사업이 서서히 윤곽을 드러내고 있다. '아이텀큐브'를 기축통화로 사용하는 첫 번째 블록체인 게임 '골든브로스'(GOLDEN BROS)의 비즈니스 모델(BM)이 공개되며, 다음달 '얼리액세스' 준비에 만전을 기하는 모습이다. 특히 넷마블]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/25/blt202202250022.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['무신사' 보란 듯 '영업기밀' 공개한 '크림'…"가품 판정, 브랜드 고유 권한 아냐"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240239</link>
-            <guid>https://www.bloter.net/newsView/blt202202240239</guid>
-            <pubDate>Mon, 28 Feb 2022 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA['가품 판정 논란'으로 불거진 '무신사'와 '크림'의 갈등이 장기화 국면으로 치닫는 모습이다. 리셀 플랫폼에 있어 가품 판단 기준은 '영업기밀'이지만, 크림은 관련 사항을 구체적으로 공개하며 "가품을 가릴 수 있는 근거는 브랜드에만 있다"는 무신사의 주장을 정면]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240050.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
