@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[①NXC·넥슨의 미래는]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020204</link>
-            <guid>https://www.bloter.net/newsView/blt202203020204</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-02 21:38:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020055.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[IT폐기물社 '테스' 인수한 SK에코플랜트, 조단위 비용 걱정없는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030017</link>
+            <guid>https://www.bloter.net/newsView/blt202203030017</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-03 11:02:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030009.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['넥슨 창업주' 김정주 NXC 이사, 미국서 별세]]></title>
-            <link>https://www.bloter.net/newsView/blt202203010004</link>
-            <guid>https://www.bloter.net/newsView/blt202203010004</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['태양광 발전', SK건설에 문의하세요]]></title>
+            <link>https://www.bloter.net/newsView/blt202104020020</link>
+            <guid>https://www.bloter.net/newsView/blt202104020020</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['아시아의 디즈니' 꿈꾸는 넥슨…AGBO 6000억 베팅 의미는]]></title>
-            <link>https://www.bloter.net/newsView/blt202201060025</link>
-            <guid>https://www.bloter.net/newsView/blt202201060025</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK건설, '친환경 회사'로 불러주세요]]></title>
+            <link>https://www.bloter.net/newsView/blt202103260009</link>
+            <guid>https://www.bloter.net/newsView/blt202103260009</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NXC 김정주…베일에 싸인 '모빌리티 기업' 942억에 인수?]]></title>
-            <link>https://www.bloter.net/newsView/blt202104210022</link>
-            <guid>https://www.bloter.net/newsView/blt202104210022</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김정주의 '아퀴스', 암호화폐 35억 사들인 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202102190012</link>
-            <guid>https://www.bloter.net/newsView/blt202102190012</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[최태원 SK 회장 "폐기물도 돈", SK건설 환경 투자 득될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202101190002</link>
+            <guid>https://www.bloter.net/newsView/blt202101190002</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

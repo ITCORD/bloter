@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030020</link>
+            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
+            <pubDate>Thu, 03 Mar 2022 02:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[드림어스컴퍼니의 오디오 플랫폼 '플로'(FLO)가 크리에이터 이코노미 구축을 본격화한다. '크리에이터 오픈플랫폼'을 내세운 플로는 첫 번째 단계로 크리에이터와 팬이 콘텐츠에 대한 의견을 나누는 '소통'에 집중할 계획이다.  3일 드림어스컴퍼니는 "플로 애플리케]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202203020092</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Feb 2022 09:23:40 GMT</pubDate>
             <content:encoded><![CDATA['가품 판정 논란'으로 불거진 '무신사'와 '크림'의 갈등이 장기화 국면으로 치닫는 모습이다. 리셀 플랫폼에 있어 가품 판단 기준은 '영업기밀'이지만, 크림은 관련 사항을 구체적으로 공개하며 "가품을 가릴 수 있는 근거는 브랜드에만 있다"는 무신사의 주장을 정면]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240050.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실과 마주한 카카오엔터 IP, '팬덤 트렌드' 바꿀까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240237</link>
-            <guid>https://www.bloter.net/newsView/blt202202240237</guid>
-            <pubDate>Sun, 27 Feb 2022 12:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[·웹툰 '사내맞선' 캐릭터인 '강태무'와 '차성훈'의 공식 인스타그램 팔로워는 각각 2만6000명과 1만9000여명에 달한다. ·백덕수 작가의 '데뷔 못하면 죽는 병 걸림'의 굿즈 펀딩에는 당초 목표 금액의 4693%인 약 4억7000만원이 모였다. 카카오엔터테인먼트의 웹]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

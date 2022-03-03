@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,40 +284,65 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020014.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[①NXC·넥슨의 미래는 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <title><![CDATA[IT폐기물社 '테스' 인수한 SK에코플랜트, 조단위 비용 걱정없는 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030017</link>
+            <guid>https://www.bloter.net/newsView/blt202203030017</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-03 11:02:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030009.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['태양광 발전', SK건설에 문의하세요 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202104020020</link>
+            <guid>https://www.bloter.net/newsView/blt202104020020</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK건설, '친환경 회사'로 불러주세요 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202103260009</link>
+            <guid>https://www.bloter.net/newsView/blt202103260009</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최태원 SK 회장 "폐기물도 돈", SK건설 환경 투자 득될까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202101190002</link>
+            <guid>https://www.bloter.net/newsView/blt202101190002</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[①NXC·넥슨의 미래는 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202203020204</link>
             <guid>https://www.bloter.net/newsView/blt202203020204</guid>
             <pubDate>Wed, 02 Mar 2022 13:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-02 21:38:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020055.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020055.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA['넥슨 창업주' 김정주 NXC 이사, 미국서 별세 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203010004</link>
-            <guid>https://www.bloter.net/newsView/blt202203010004</guid>
-            <pubDate>Tue, 01 Mar 2022 11:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LX홀딩스, 사업목적에 ‘금융업’ 추가...CVC 만드나 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020218</link>
+            <guid>https://www.bloter.net/newsView/blt202203020218</guid>
+            <pubDate>Wed, 02 Mar 2022 10:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-02 18:17:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020042.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['아시아의 디즈니' 꿈꾸는 넥슨…AGBO 6000억 베팅 의미는 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201060025</link>
-            <guid>https://www.bloter.net/newsView/blt202201060025</guid>
-            <pubDate>Wed, 12 Jan 2022 20:00:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[러시아 진출한 한국 금융사, 피해 미미한 이유는? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020177</link>
+            <guid>https://www.bloter.net/newsView/blt202203020177</guid>
+            <pubDate>Wed, 02 Mar 2022 09:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-02 17:39:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020029.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NXC 김정주…베일에 싸인 '모빌리티 기업' 942억에 인수? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202104210022</link>
-            <guid>https://www.bloter.net/newsView/blt202104210022</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김정주의 '아퀴스', 암호화폐 35억 사들인 이유는 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202102190012</link>
-            <guid>https://www.bloter.net/newsView/blt202102190012</guid>
-            <pubDate>Wed, 02 Mar 2022 14:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020092</link>
+            <guid>https://www.bloter.net/newsView/blt202203020092</guid>
+            <pubDate>Wed, 02 Mar 2022 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-02 16:13:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[①'조 단위' M&A 시동걸까...HMM 유력한 인수후보 (블로터 ─ 비즈니스)]]></title>
@@ -334,38 +359,6 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <pubDate>Wed, 02 Mar 2022 06:21:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-02 15:04:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, 전장 사업부 조직개편...옅어지는 존재감 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020005</link>
-            <guid>https://www.bloter.net/newsView/blt202203020005</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-02 11:01:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[곧 '좋은 날' 온다...삼성전자가 메모리시장 낙관하는 이유 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020020</link>
-            <guid>https://www.bloter.net/newsView/blt202203020020</guid>
-            <pubDate>Wed, 02 Mar 2022 02:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-02 10:46:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 러시아인 가상자산 계정 동결 요청…코인베이스·바이낸스 ‘거부’ (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020004</link>
-            <guid>https://www.bloter.net/newsView/blt202203020004</guid>
-            <pubDate>Wed, 02 Mar 2022 01:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 09:27:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 러시아서 제품 판매 전면 중단…“우크라 침공 대응 취지” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020002</link>
-            <guid>https://www.bloter.net/newsView/blt202203020002</guid>
-            <pubDate>Wed, 02 Mar 2022 01:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 08:53:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -404,12 +397,28 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030020</link>
+            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-03 11:23:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 이어 LG CNS도 '5G 특화망' 입는다…스마트팩토리 차별화 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030011</link>
+            <guid>https://www.bloter.net/newsView/blt202203030011</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-03 11:04:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030007.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국제적 고립 뿔난 러시아 "위키피디아, 전쟁 내용 당장 수정해" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203030005</link>
             <guid>https://www.bloter.net/newsView/blt202203030005</guid>
             <pubDate>Thu, 03 Mar 2022 01:06:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-03 10:03:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030004.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030004.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[트렌드리포트]'글로벌+서비스', MWC 2022로 본 SKT·KT·LGU+의 미래 (블로터 ─ 테크)]]></title>
@@ -449,7 +458,7 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <guid>https://www.bloter.net/newsView/blt202203020218</guid>
             <pubDate>Wed, 02 Mar 2022 10:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-02 18:17:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020041.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[K바이오의 엔데믹 비전]④로직스 ‘생산’·에피스 ‘개발’…삼성의 빅파마 도약 (블로터 ─ 테크)]]></title>
@@ -530,22 +539,6 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <pubDate>Wed, 02 Mar 2022 01:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 09:27:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020003.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 러시아서 제품 판매 전면 중단…“우크라 침공 대응 취지” (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020002</link>
-            <guid>https://www.bloter.net/newsView/blt202203020002</guid>
-            <pubDate>Wed, 02 Mar 2022 01:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 08:53:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아, 사이버 공격으로 일부 ‘자료 도난’ 인정 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020001</link>
-            <guid>https://www.bloter.net/newsView/blt202203020001</guid>
-            <pubDate>Tue, 01 Mar 2022 23:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-02 08:11:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -823,6 +816,14 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280020.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030020</link>
+            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
+            <pubDate>Thu, 03 Mar 2022 02:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[드림어스컴퍼니의 오디오 플랫폼 '플로'(FLO)가 크리에이터 이코노미 구축을 본격화한다. '크리에이터 오픈플랫폼'을 내세운 플로는 첫 번째 단계로 크리에이터와 팬이 콘텐츠에 대한 의견을 나누는 '소통'에 집중할 계획이다.  3일 드림어스컴퍼니는 "플로 애플리케]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203020092</link>
             <guid>https://www.bloter.net/newsView/blt202203020092</guid>
@@ -909,14 +910,6 @@ MS·한국IBM 출신 장화진 사장, 구글클라우드로
             <pubDate>Thu, 24 Feb 2022 10:19:19 GMT</pubDate>
             <content:encoded><![CDATA['가품 판정 논란'으로 불거진 '무신사'와 '크림'의 갈등이 장기화 국면으로 치닫는 모습이다. 리셀 플랫폼에 있어 가품 판단 기준은 '영업기밀'이지만, 크림은 관련 사항을 구체적으로 공개하며 "가품을 가릴 수 있는 근거는 브랜드에만 있다"는 무신사의 주장을 정면]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240050.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실과 마주한 카카오엔터 IP, '팬덤 트렌드' 바꿀까 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240237</link>
-            <guid>https://www.bloter.net/newsView/blt202202240237</guid>
-            <pubDate>Thu, 24 Feb 2022 10:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[·웹툰 '사내맞선' 캐릭터인 '강태무'와 '차성훈'의 공식 인스타그램 팔로워는 각각 2만6000명과 1만9000여명에 달한다. ·백덕수 작가의 '데뷔 못하면 죽는 병 걸림'의 굿즈 펀딩에는 당초 목표 금액의 4693%인 약 4억7000만원이 모였다. 카카오엔터테인먼트의 웹]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/24/blt202202240044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"20년 지나도 포기 못해"…웹젠표 '뮤' IP, '생명 연장의 꿈' 이룰까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
