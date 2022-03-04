@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Mar 2022 01:07:38 GMT</pubDate>
             <content:encoded><![CDATA[숏폼 모바일 동영상 플랫폼 ‘틱톡’이 어린이와 청소년의 정신건강에 부정적인 영향을 미친다는 의혹에 대해 미국에서 조사를 받는다. 3일(현지시간) 정보기술(IT) 전문매체 &lt;테크크런치&gt;는 틱톡이 8개 미국 주 법무부 장관이 주도하는 합동조사를 받는다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030020</link>
+            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[드림어스컴퍼니의 오디오 플랫폼 '플로'(FLO)가 크리에이터 이코노미 구축을 본격화한다. '크리에이터 오픈플랫폼'을 내세운 플로는 첫 번째 단계로 크리에이터와 팬이 콘텐츠에 대한 의견을 나누는 '소통'에 집중할 계획이다.  3일 드림어스컴퍼니는 "플로 애플리케]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김정주, 별이 지다]①NXC·넥슨의 미래는]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Feb 2022 01:02:11 GMT</pubDate>
             <content:encoded><![CDATA[메타가 러시아의 침공을 받은 우크라이나 내 다수 페이스북 계정을 차단했다. 여기에는 러시아 국영 언론 매체 등의 계정이 포함된 것으로 알려졌다.27일(현지시간) 미국 IT 전문매체 &lt;더버지&gt;에 따르면 페이스북의 모기업 메타 사장 닉 클레그는 트위터를 통해 &amp;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가챠 없이 동등한 보상…'더 샌드박스'에 한국인 몰리는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280003</link>
-            <guid>https://www.bloter.net/newsView/blt202202280003</guid>
-            <pubDate>Mon, 28 Feb 2022 01:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 게임 플랫폼인 '더 샌드박스(The Sandbox)'에서 국내 유저들의 비중은 세계 최고 수준이다. 한국형 게임에 보편적으로 적용되는 '가챠(무작위 뽑기 방식의 랜덤박스)' 시스템을 채택하지 않았다. 유저가 직접 아이템을 제작하고 현금적 보상을 획득할 수 있다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
