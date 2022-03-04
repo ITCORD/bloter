@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 05:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강검진 결과 받았더니 악성파일이...北 연계 해킹 '주의']]></title>
+            <link>https://www.bloter.net/newsView/blt202203040038</link>
+            <guid>https://www.bloter.net/newsView/blt202203040038</guid>
+            <pubDate>Fri, 04 Mar 2022 05:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-04 14:00:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040013.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 이어 인텔도 러시아·벨라루스 판매 중단]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040039</link>
+            <guid>https://www.bloter.net/newsView/blt202203040039</guid>
+            <pubDate>Fri, 04 Mar 2022 05:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-04 13:50:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040009.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가입자 3억명 달성한 '제페토'...해외 이용자가 95%, 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202203040023</link>
             <guid>https://www.bloter.net/newsView/blt202203040023</guid>
             <pubDate>Fri, 04 Mar 2022 03:23:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-04 11:58:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가격 올리려다 뭇매 맞은 리비안, 하루 만에 계획 철회]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 03 Mar 2022 04:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-03 11:51:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030020</link>
-            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
-            <pubDate>Thu, 03 Mar 2022 02:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-03 11:23:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 이어 LG CNS도 '5G 특화망' 입는다…스마트팩토리 차별화]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030011</link>
-            <guid>https://www.bloter.net/newsView/blt202203030011</guid>
-            <pubDate>Thu, 03 Mar 2022 02:44:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-03 11:04:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
