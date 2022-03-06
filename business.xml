@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 23:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 01:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['리테일 테크' 강자 신세계아이앤씨, 800억원 실탄 어디로?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040108</link>
+            <guid>https://www.bloter.net/newsView/blt202203040108</guid>
+            <pubDate>Sun, 06 Mar 2022 01:00:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-04 17:25:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040021.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 유럽공략 가속화…독일, 기가팩토리 승인]]></title>
             <link>https://www.bloter.net/newsView/blt202203040043</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 04 Mar 2022 08:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-04 08:37:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[②'사사건건' 간섭, 지주사 체제선 정치권 '외풍' 없을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030099</link>
-            <guid>https://www.bloter.net/newsView/blt202203030099</guid>
-            <pubDate>Fri, 04 Mar 2022 05:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-03 18:05:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030045.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
