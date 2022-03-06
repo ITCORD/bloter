@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉬운 이자장사는 하기 싫다…제도권 진입한 온투업체의 '반란']]></title>
+            <link>https://www.bloter.net/newsView/blt202203030140</link>
+            <guid>https://www.bloter.net/newsView/blt202203030140</guid>
+            <pubDate>Sun, 06 Mar 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-06 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라에 팀 쿡과 같은 인물이 필요한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040181</link>
+            <guid>https://www.bloter.net/newsView/blt202203040181</guid>
+            <pubDate>Sun, 06 Mar 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-06 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040036.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]삼바·셀트·SK바사, 엔데믹 전환에 ‘새 판짜기’…재무적 여력은?]]></title>
             <link>https://www.bloter.net/newsView/blt202203030153</link>
             <guid>https://www.bloter.net/newsView/blt202203030153</guid>
             <pubDate>Sun, 06 Mar 2022 01:01:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-06 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030040.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나의 ‘딥 페이크’ 앱, 전쟁 참상 전하기 위해 탈바꿈하다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 04 Mar 2022 01:06:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-04 09:55:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 8개주, 틱톡 합동조사 나서…”미성년자 정신건강 해친다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040001</link>
-            <guid>https://www.bloter.net/newsView/blt202203040001</guid>
-            <pubDate>Fri, 04 Mar 2022 01:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-04 08:37:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“블랙리스트·슬레이브...차별적 용어 퇴출했죠” 세계 여성의 날 맞은 AWS]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030165</link>
-            <guid>https://www.bloter.net/newsView/blt202203030165</guid>
-            <pubDate>Thu, 03 Mar 2022 13:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-03 21:33:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030059.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

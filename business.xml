@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ESG 분야로 기업금융 확장하는 한국씨티은행]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040182</link>
+            <guid>https://www.bloter.net/newsView/blt202203040182</guid>
+            <pubDate>Sun, 06 Mar 2022 06:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-04 19:18:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[③'비상장 약속'에 좁아진 포스코케미칼 자금조달 플랜]]></title>
             <link>https://www.bloter.net/newsView/blt202203040030</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 04 Mar 2022 10:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-04 11:04:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 러시아 침공 이후 최대 규모 통신 장애 겪어]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040002</link>
-            <guid>https://www.bloter.net/newsView/blt202203040002</guid>
-            <pubDate>Fri, 04 Mar 2022 10:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-04 10:09:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
