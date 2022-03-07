@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[애플의 두둑한 '신제품 보따리'...9일, 신형 모니터 공개 전망]]></title>
-            <link>https://www.bloter.net/newsView/blt202203070002</link>
-            <guid>https://www.bloter.net/newsView/blt202203070002</guid>
-            <pubDate>Mon, 07 Mar 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-07 09:25:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['콜 몰아주기 논란' 카카오모빌리티, 외부 전문가와 배차시스템 검토]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070005</link>
+            <guid>https://www.bloter.net/newsView/blt202203070005</guid>
+            <pubDate>Mon, 07 Mar 2022 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-07 10:30:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070005.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["아이폰SE2, 24만원도 가능"…애플, 얼마나 깎을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030082</link>
-            <guid>https://www.bloter.net/newsView/blt202203030082</guid>
-            <pubDate>Mon, 07 Mar 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오모빌리티, 대리노조와 첫 상견례…유료멤버십 폐지될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030032</link>
+            <guid>https://www.bloter.net/newsView/blt202203030032</guid>
+            <pubDate>Mon, 07 Mar 2022 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플 이어 인텔도 러시아·벨라루스 판매 중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040039</link>
-            <guid>https://www.bloter.net/newsView/blt202203040039</guid>
-            <pubDate>Mon, 07 Mar 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["승객 골라태우기? 일반택시 승차거부가 문제"...카카오, 서울시 발표에 '발끈']]></title>
+            <link>https://www.bloter.net/newsView/blt202202240034</link>
+            <guid>https://www.bloter.net/newsView/blt202202240034</guid>
+            <pubDate>Mon, 07 Mar 2022 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, 3월 이벤트 임박…신형 아이폰SE·아이패드 에어 공개 유력]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030002</link>
-            <guid>https://www.bloter.net/newsView/blt202203030002</guid>
-            <pubDate>Mon, 07 Mar 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플, ‘폴더블폰' 출시 미루나…"2025년 폴더블 맥북 공개 유력"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220004</link>
-            <guid>https://www.bloter.net/newsView/blt202202220004</guid>
-            <pubDate>Mon, 07 Mar 2022 01:01:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['카카오택시' 승객 골라태우기 정황 포착…가맹택시 콜 몰아주기도?]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230011</link>
+            <guid>https://www.bloter.net/newsView/blt202202230011</guid>
+            <pubDate>Mon, 07 Mar 2022 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
