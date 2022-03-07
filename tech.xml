@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시S22 'GOS 논란' 부른 발열...안 잡나, 못 잡나?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070111</link>
+            <guid>https://www.bloter.net/newsView/blt202203070111</guid>
+            <pubDate>Mon, 07 Mar 2022 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-07 18:25:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]조이시티 자회사 모히또게임즈, NFT·메타버스 R&D조직 신설]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070120</link>
+            <guid>https://www.bloter.net/newsView/blt202203070120</guid>
+            <pubDate>Mon, 07 Mar 2022 10:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-07 17:37:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070037.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알츠하이머 등 6개 질병 물질 ‘한 번에’ 검출하는 국내 기술 나왔다]]></title>
             <link>https://www.bloter.net/newsView/blt202203070104</link>
             <guid>https://www.bloter.net/newsView/blt202203070104</guid>
             <pubDate>Mon, 07 Mar 2022 08:21:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-07 16:53:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ESG 해부]'SDG' 강조한 삼성전자, ISS 평가에선 마이너스 받았다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 06 Mar 2022 06:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-06 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]삼바·셀트·SK바사, 엔데믹 전환에 ‘새 판짜기’…재무적 여력은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030153</link>
-            <guid>https://www.bloter.net/newsView/blt202203030153</guid>
-            <pubDate>Sun, 06 Mar 2022 01:01:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-06 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나의 ‘딥 페이크’ 앱, 전쟁 참상 전하기 위해 탈바꿈하다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040107</link>
-            <guid>https://www.bloter.net/newsView/blt202203040107</guid>
-            <pubDate>Sat, 05 Mar 2022 07:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-05 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040016.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
