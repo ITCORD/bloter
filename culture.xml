@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]카카오엔터 제작 자회사, 콘텐츠로 뭉친다…'최악의 악' 공동제작]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070061</link>
+            <guid>https://www.bloter.net/newsView/blt202203070061</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:47 GMT</pubDate>
+            <content:encoded><![CDATA['카카오엔터테인먼트'가 제작 자회사간 공동 프로젝트를 통해 콘텐츠 경쟁력을 제고한다. 영화와 OTT 콘텐츠를 제작했던 두 회사가 힘을 합쳐 콘텐츠 시장을 겨냥할 것으로 알려졌다.   7일 &lt;블로터&gt; 취재 결과, '바람픽쳐스'와 '사나이픽처스'가 드라마 콘텐츠인]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070018.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가짜뉴스법' 제정 후폭풍...틱톡, 러시아 사용자 영상 업로드 차단]]></title>
             <link>https://www.bloter.net/newsView/blt202203070001</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Mar 2022 13:25:25 GMT</pubDate>
             <content:encoded><![CDATA[LF가 자사 브랜드 '헤지스'를 대표할 3D 버추얼 캐릭터 '헤지스 프렌즈'를 공개했다. 국내 패션업계에서 '3D 버추얼 시스템'을 선제적으로 도입했던 LF 헤지스가 버추얼(가상) 제품 제작, 런웨이 등의 단계를 거쳐 버추얼 휴먼(가상 인간)을 탄생시켰다. 28일 LF 헤지스는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280049.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌서 통한 '건쉽배틀'…조이시티, 북미·동남아 양갈래 출항]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280144</link>
-            <guid>https://www.bloter.net/newsView/blt202202280144</guid>
-            <pubDate>Mon, 28 Feb 2022 09:23:40 GMT</pubDate>
-            <content:encoded><![CDATA['건쉽배틀' 타이틀의 글로벌, 특히 일본과 북미 시장에서의 인기를 확인한 조이시티가 이번엔 동남아시아, 남미 시장 개척에 나선다. 글로벌 시장에서 부는 플레이 투 언(P2E) 상승세를 타고 동남아 및 남미 시장을 향해 자사 첫 P2E 게임 '건쉽배틀 크립토 컨플릭트'를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/02/28/blt202202280026.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

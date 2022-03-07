@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알츠하이머 등 6개 질병 물질 ‘한 번에’ 검출하는 국내 기술 나왔다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070104</link>
+            <guid>https://www.bloter.net/newsView/blt202203070104</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-07 16:53:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ESG 해부]'SDG' 강조한 삼성전자, ISS 평가에선 마이너스 받았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070053</link>
+            <guid>https://www.bloter.net/newsView/blt202203070053</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-07 15:46:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070020.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]카카오엔터 제작 자회사, 콘텐츠로 뭉친다…'최악의 악' 공동제작]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070061</link>
+            <guid>https://www.bloter.net/newsView/blt202203070061</guid>
+            <pubDate>Mon, 07 Mar 2022 08:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-07 15:33:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070018.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]'카비'는 AI 기술로 어떻게 자동차 보험료를 줄여줄까]]></title>
             <link>https://www.bloter.net/newsView/blt202203070028</link>
             <guid>https://www.bloter.net/newsView/blt202203070028</guid>
             <pubDate>Mon, 07 Mar 2022 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-07 15:01:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LGU+, 중기와 '건설현장 추락 방지' 스마트 안전고리 만든다]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Sat, 05 Mar 2022 07:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-05 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]"피파4, 모멘텀 없다"…본질 놓친 해명]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040184</link>
-            <guid>https://www.bloter.net/newsView/blt202203040184</guid>
-            <pubDate>Sat, 05 Mar 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-05 14:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/05/blt202203050001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안전과 성능 사이…갤노트7 잊지 않은 삼성의 고민 'GOS']]></title>
-            <link>https://www.bloter.net/newsView/blt202203040183</link>
-            <guid>https://www.bloter.net/newsView/blt202203040183</guid>
-            <pubDate>Sat, 05 Mar 2022 04:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-05 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아이폰SE2, 24만원도 가능"…애플, 얼마나 깎을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030082</link>
-            <guid>https://www.bloter.net/newsView/blt202203030082</guid>
-            <pubDate>Sat, 05 Mar 2022 01:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-05 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
