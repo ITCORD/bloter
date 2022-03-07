@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 01:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 02:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대형사고 친 HDC현산의 신사업 진출 계획, 신뢰할 수 있나?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203060003</link>
+            <guid>https://www.bloter.net/newsView/blt202203060003</guid>
+            <pubDate>Mon, 07 Mar 2022 02:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-06 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/06/blt202203060002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기·내연기관차 사업 분리하는 포드…해외 전문가 반응은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040179</link>
+            <guid>https://www.bloter.net/newsView/blt202203040179</guid>
+            <pubDate>Mon, 07 Mar 2022 02:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-06 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040035.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쉬운 이자장사는 하기 싫다…제도권 진입한 온투업체의 '반란']]></title>
             <link>https://www.bloter.net/newsView/blt202203030140</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 06 Mar 2022 08:22:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-05 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040016.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ESG 분야로 기업금융 확장하는 한국씨티은행]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040182</link>
-            <guid>https://www.bloter.net/newsView/blt202203040182</guid>
-            <pubDate>Sun, 06 Mar 2022 06:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-04 19:18:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040037.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[③'비상장 약속'에 좁아진 포스코케미칼 자금조달 플랜]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040030</link>
-            <guid>https://www.bloter.net/newsView/blt202203040030</guid>
-            <pubDate>Sun, 06 Mar 2022 05:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-04 17:39:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
