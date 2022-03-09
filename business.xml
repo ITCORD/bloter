@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국 매출 늘어난 LX세미콘, 거래처 다변화 신호탄?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203080066</link>
+            <guid>https://www.bloter.net/newsView/blt202203080066</guid>
+            <pubDate>Wed, 09 Mar 2022 01:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-08 15:54:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080010.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 “해킹으로 일부 소스코드 유출...고객 정보는 포함 안 돼”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203080006</link>
+            <guid>https://www.bloter.net/newsView/blt202203080006</guid>
+            <pubDate>Wed, 09 Mar 2022 01:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-08 10:43:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080006.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[워키토키 앱 ‘젤로’ 막은 러시아…“우크라이나 침공 관련 허위정보 유포해”]]></title>
             <link>https://www.bloter.net/newsView/blt202203080003</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 08 Mar 2022 02:13:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-07 17:57:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070039.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘승계 구도 굳히기’…김동관 ㈜한화 사내이사 오른다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203070086</link>
-            <guid>https://www.bloter.net/newsView/blt202203070086</guid>
-            <pubDate>Tue, 08 Mar 2022 02:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-07 16:02:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SDG' 강조한 삼성전자, ISS 평가에선 마이너스 받았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203070053</link>
-            <guid>https://www.bloter.net/newsView/blt202203070053</guid>
-            <pubDate>Tue, 08 Mar 2022 02:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-07 15:46:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070020.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
