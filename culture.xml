@@ -4,17 +4,9 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 09:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 10:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[오~컬쳐]'JYP'는 '메타버스'가 하고 싶어서]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090011</link>
-            <guid>https://www.bloter.net/newsView/blt202203090011</guid>
-            <pubDate>Wed, 09 Mar 2022 09:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[JYP엔터테인먼트(이하 JYP)의 메타버스 사업 전략이 윤곽을 드러냈다. 앞서 JYP는 메타버스 사업 분야에 투자를 아끼지 않았지만, 뚜렷한 계획이 나오지 않아 시장의 궁금증을 유발했다. 개별 아티스트 세계관에 메타버스 스토리를 가미하는 정도의 관심을 넘어 파트]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202203090009</link>
@@ -24,20 +16,20 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090016.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BTS 서울 콘서트, 관람 전 알아두면 쓸모있는 'ICT' 이야기]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090012</link>
-            <guid>https://www.bloter.net/newsView/blt202203090012</guid>
-            <pubDate>Wed, 09 Mar 2022 05:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단의 서울 콘서트 'BTS PERMISSION TO DANCE ON STAGE - SEOUL'이 하루 앞으로 다가왔다. 방탄소년단의 소속사 하이브는 이번 서울 대면 콘서트에서 사용될 모든 온·오프라인에 기술을 방탄소년단 7명의 멤버를 돋보이게 하는 데 총력을 기울이겠다는 목표다. 2년]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090019.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[게임인사이드]'서머너즈 워: 백년전쟁', C2X 생태계서 부활할까]]></title>
             <link>https://www.bloter.net/newsView/blt202203080237</link>
             <guid>https://www.bloter.net/newsView/blt202203080237</guid>
             <pubDate>Tue, 08 Mar 2022 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]조이시티 자회사 모히또게임즈, NFT·메타버스 R&D조직 신설]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070120</link>
+            <guid>https://www.bloter.net/newsView/blt202203070120</guid>
+            <pubDate>Wed, 09 Mar 2022 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[조이시티 자회사 '모히또게임즈'가 독자적인 '대체 불가능한 토큰'(NFT) 사업에 나선다. 모히또게임즈는 이달 신작 게임 '크립토볼Z'를 위메이드의 블록체인 플랫폼 '위믹스'를 통해 출시하기로 하며, 블록체인 게임 시장에 막 발을 들인 상태다.  7일 &lt;블로터&gt; 취]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070037.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가짜뉴스법' 제정 후폭풍...틱톡, 러시아 사용자 영상 업로드 차단]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 07 Mar 2022 01:03:21 GMT</pubDate>
             <content:encoded><![CDATA[조이시티가 올 하반기 출시 라인업으로 예고한 '프리스타일풋볼2' 개발을 위해 전담 자회사를 꾸린 것으로 확인됐다. 3일 &lt;블로터&gt; 취재 결과, 조이시티가 프리스타일풋볼 시리즈 신작 '프리스타일풋볼2' 개발을 전담하는 자회사 '우레'를 신설했다.   우레는 그]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030018.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030020</link>
+            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
+            <pubDate>Wed, 09 Mar 2022 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[드림어스컴퍼니의 오디오 플랫폼 '플로'(FLO)가 크리에이터 이코노미 구축을 본격화한다. '크리에이터 오픈플랫폼'을 내세운 플로는 첫 번째 단계로 크리에이터와 팬이 콘텐츠에 대한 의견을 나누는 '소통'에 집중할 계획이다.  3일 드림어스컴퍼니는 "플로 애플리케]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
