@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 04:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 05:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,12 +421,20 @@ KT SAT가 운영 중인 무궁화위성 6호(왼쪽)과 KOREASAT 8의 커버리�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BTS 서울 콘서트, 관람 전 알아두면 쓸모있는 'ICT' 이야기 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203090012</link>
+            <guid>https://www.bloter.net/newsView/blt202203090012</guid>
+            <pubDate>Wed, 09 Mar 2022 05:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-09 13:45:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업계 3위 LG유플러스 '돈 안되는' 알뜰폰에 공 들이는 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203090001</link>
             <guid>https://www.bloter.net/newsView/blt202203090001</guid>
             <pubDate>Wed, 09 Mar 2022 03:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-09 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 클라우드, 보안 업체 ‘맨디언트’ 6조6700억원에 인수 (블로터 ─ 테크)]]></title>
@@ -555,14 +563,6 @@ KT SAT가 운영 중인 무궁화위성 6호(왼쪽)과 KOREASAT 8의 커버리�
             <pubDate>Tue, 08 Mar 2022 01:03:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-08 09:44:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080001.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성D 'QD디스플레이', 삼성전자 아닌 델에서 첫 발 뗀다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080004</link>
-            <guid>https://www.bloter.net/newsView/blt202203080004</guid>
-            <pubDate>Tue, 08 Mar 2022 01:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-08 09:34:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -841,6 +841,14 @@ KT SAT가 운영 중인 무궁화위성 6호(왼쪽)과 KOREASAT 8의 커버리�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070018.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BTS 서울 콘서트, 관람 전 알아두면 쓸모있는 'ICT' 이야기 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203090012</link>
+            <guid>https://www.bloter.net/newsView/blt202203090012</guid>
+            <pubDate>Wed, 09 Mar 2022 05:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단의 서울 콘서트 'BTS PERMISSION TO DANCE ON STAGE - SEOUL'이 하루 앞으로 다가왔다. 방탄소년단의 소속사 하이브는 이번 서울 대면 콘서트에서 사용될 모든 온·오프라인에 기술을 방탄소년단 7명의 멤버를 돋보이게 하는 데 총력을 기울이겠다는 목표다. 2년]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[게임인사이드]'서머너즈 워: 백년전쟁', C2X 생태계서 부활할까 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203080237</link>
             <guid>https://www.bloter.net/newsView/blt202203080237</guid>
@@ -927,14 +935,6 @@ KT SAT가 운영 중인 무궁화위성 6호(왼쪽)과 KOREASAT 8의 커버리�
             <pubDate>Wed, 02 Mar 2022 13:21:04 GMT</pubDate>
             <content:encoded><![CDATA[국내 최초 MMORPG '바람의나라'에 이어 다양한 히트작을 배출하며, 넥슨을 글로벌 기업으로 성장시킨 김정주 창업주가 지난달 말 세상을 떠났습니다. &lt;블로터&gt;는 김정주 넥슨 창업주의 일생을 통해 지주사 NXC와 핵심 계열사인 넥슨의 현재와 미래를 다양한 시각에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020055.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 허석준 부사장 영입…플랫폼·가상자산 '글로벌 투자' 확대 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020092</link>
-            <guid>https://www.bloter.net/newsView/blt202203020092</guid>
-            <pubDate>Wed, 02 Mar 2022 07:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 글로벌 투자 전문가인 허석준 부사장을 영입하며 투자 영역을 글로벌로 확대한다. 앞서 위메이드는 게임 개발사 등에 꾸준한 투자 행보를 이어온 바 있는데, 블록체인 플랫폼 '위믹스' 및 플레이 투 언(P2E) 게임 사업에 진출한 만큼 관련 투자 영역을 넓]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/02/blt202203020022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"피파4, 모멘텀 없다"…본질 놓친 해명 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
