@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 07:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 08:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GC녹십자 EMR기업 ‘유비케어’가 그리는 ‘토탈 헬스케어’ 미래]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070172</link>
+            <guid>https://www.bloter.net/newsView/blt202203070172</guid>
+            <pubDate>Wed, 09 Mar 2022 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-09 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070042.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202203090009</link>
             <guid>https://www.bloter.net/newsView/blt202203090009</guid>
             <pubDate>Wed, 09 Mar 2022 07:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-09 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090016.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090016.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[BTS 서울 콘서트, 관람 전 알아두면 쓸모있는 'ICT' 이야기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 08 Mar 2022 02:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-08 10:43:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[워키토키 앱 ‘젤로’ 막은 러시아…“우크라이나 침공 관련 허위정보 유포해”]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080003</link>
-            <guid>https://www.bloter.net/newsView/blt202203080003</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-08 10:40:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
