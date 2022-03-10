@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -337,7 +337,7 @@ ICT 기술 집약체 '콘서트', 그동안은 어땠을까
             <title><![CDATA[두산중공업의 새 이름 '두산에너빌리티'...지속가능한 에너지서 고안 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100036</link>
             <guid>https://www.bloter.net/newsView/blt202203100036</guid>
-            <pubDate>Thu, 10 Mar 2022 07:15:27 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 07:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-10 15:40:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100015.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -454,12 +454,20 @@ ICT 기술 집약체 '콘서트', 그동안은 어땠을까
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[오~컬쳐]"100만 구독자 눈 앞"…음원큐레이팅 채널 에센셜, '벅스'가 키웠다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100101</link>
+            <guid>https://www.bloter.net/newsView/blt202203100101</guid>
+            <pubDate>Thu, 10 Mar 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-10 17:12:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열표 ICT]①과기정통부·방통위 운명은?…미디어 전담 부처 탄생하나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100094</link>
             <guid>https://www.bloter.net/newsView/blt202203100094</guid>
-            <pubDate>Thu, 10 Mar 2022 07:15:54 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 07:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-10 16:06:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드+]잡음 계속되는 NHN클라우드 (블로터 ─ 테크)]]></title>
@@ -588,14 +596,6 @@ ICT 기술 집약체 '콘서트', 그동안은 어땠을까
             <pubDate>Wed, 09 Mar 2022 01:02:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-09 08:33:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'서머너즈 워: 백년전쟁', C2X 생태계서 부활할까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080237</link>
-            <guid>https://www.bloter.net/newsView/blt202203080237</guid>
-            <pubDate>Tue, 08 Mar 2022 11:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-08 19:45:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -838,13 +838,22 @@ ICT 기술 집약체 '콘서트', 그동안은 어땠을까
             <enclosure url="https://www.bloter.net/data/blt/image/2021/11/08/blt202111080012.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[오~컬쳐]"100만 구독자 눈 앞"…음원큐레이팅 채널 에센셜, '벅스'가 키웠다 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100101</link>
+            <guid>https://www.bloter.net/newsView/blt202203100101</guid>
+            <pubDate>Thu, 10 Mar 2022 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-03-10 17:12:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100010.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT오리지널]'칸'으로 가는 K-콘텐츠…글로벌 경쟁력 입증할까 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100031</link>
             <guid>https://www.bloter.net/newsView/blt202203100031</guid>
             <pubDate>Thu, 10 Mar 2022 03:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-03-10 11:57:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100007.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100007.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'JYP'는 '메타버스'가 하고 싶어서 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
@@ -863,15 +872,6 @@ ICT 기술 집약체 '콘서트', 그동안은 어땠을까
             <content:encoded><![CDATA[<span class="writer">안신혜</span>
                         <span class="date">2022-03-09 13:45:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090019.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일게이트, 북미 신생 개발사에 42억 투자한 이유는 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080044</link>
-            <guid>https://www.bloter.net/newsView/blt202203080044</guid>
-            <pubDate>Tue, 08 Mar 2022 05:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-03-08 13:48:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080007.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공" (블로터 ─ 컬처)]]></title>
