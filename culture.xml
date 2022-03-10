@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 08 Mar 2022 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마일게이트, 북미 신생 개발사에 42억 투자한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202203080044</link>
+            <guid>https://www.bloter.net/newsView/blt202203080044</guid>
+            <pubDate>Thu, 10 Mar 2022 09:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[스마일게이트가 북미 신생 개발사인 '포스트카드 게임 스튜디오'(이하 포스트카드)에 약 350만달러(약 42억원) 규모 전략적 투자를 단행했다.지난해 유명 개발자 '테일러 쿠로사키', '제이콥 밍코프' 등이 설립한 '댓츠 노 문'에 1200억원 규모의 전략적 투자를 단행한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080007.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]조이시티 자회사 모히또게임즈, NFT·메타버스 R&D조직 신설]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Mar 2022 01:03:21 GMT</pubDate>
             <content:encoded><![CDATA[국내 최초 MMORPG '바람의나라'에 이어 다양한 히트작을 배출하며, 넥슨을 글로벌 기업으로 성장시킨 김정주 창업주가 지난달 말 세상을 떠났습니다. &lt;블로터&gt;는 김정주 넥슨 창업주의 일생을 통해 지주사 NXC와 핵심 계열사인 넥슨의 현재와 미래를 다양한 시각에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030061.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]아모레퍼시픽은 어떻게 유튜브 100만 구독자를 모았나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030101</link>
-            <guid>https://www.bloter.net/newsView/blt202203030101</guid>
-            <pubDate>Tue, 08 Mar 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[틴트 5개의 뚜껑을 잘라 공기놀이를 한다. 아이섀도우 팔레트를 부수고, 액체 화장품을 플라스틱 스틱에 짜 넣어 추억의 간식 '아폴로'를 만든다. 스틱형 아이섀도우를 녹여 만든 '발바닥 캔디'도 있다. 크레용, 아이펜슬을 연필깎이로 깎아 시험문제를 풀고 채점을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030028.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
