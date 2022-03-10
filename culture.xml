@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 23:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 01:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100003</link>
+            <guid>https://www.bloter.net/newsView/blt202203100003</guid>
+            <pubDate>Thu, 10 Mar 2022 01:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 우크라이나 이용자들이 의료 지원 등 필요한 도움을 즉시 받을 수 있도록 ‘커뮤니티 헬프(Community Help)’ 페이지를 업데이트했다. 9일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 페이스북은 커뮤니티 헬프 페이지에 우크라이나 및 인근 국가에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202203090009</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Mar 2022 01:03:21 GMT</pubDate>
             <content:encoded><![CDATA[조이시티가 올 하반기 출시 라인업으로 예고한 '프리스타일풋볼2' 개발을 위해 전담 자회사를 꾸린 것으로 확인됐다. 3일 &lt;블로터&gt; 취재 결과, 조이시티가 프리스타일풋볼 시리즈 신작 '프리스타일풋볼2' 개발을 전담하는 자회사 '우레'를 신설했다.   우레는 그]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로, 크리에이터 오픈플랫폼 시동…소통 창구부터 연다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030020</link>
-            <guid>https://www.bloter.net/newsView/blt202203030020</guid>
-            <pubDate>Wed, 09 Mar 2022 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[드림어스컴퍼니의 오디오 플랫폼 '플로'(FLO)가 크리에이터 이코노미 구축을 본격화한다. '크리에이터 오픈플랫폼'을 내세운 플로는 첫 번째 단계로 크리에이터와 팬이 콘텐츠에 대한 의견을 나누는 '소통'에 집중할 계획이다.  3일 드림어스컴퍼니는 "플로 애플리케]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
