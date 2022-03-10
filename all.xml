@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 20:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 21:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,12 +310,12 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100031.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[②‘과학적 판단’ 중시 정부 약속…과기 거버넌스 변화는? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203100239</link>
-            <guid>https://www.bloter.net/newsView/blt202203100239</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-10 18:15:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100025.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[④"규제냐 진흥이냐"…기로에 선 게임산업, 그리고 P2E (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100272</link>
+            <guid>https://www.bloter.net/newsView/blt202203100272</guid>
+            <pubDate>Thu, 10 Mar 2022 21:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-11 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100028.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[①과기정통부·방통위 운명은?…미디어 전담 부처 탄생하나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
@@ -325,6 +325,20 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[조이시티 자회사 모히또게임즈, NFT·메타버스 R&D조직 신설 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070120</link>
+            <guid>https://www.bloter.net/newsView/blt202203070120</guid>
+            <pubDate>Mon, 07 Mar 2022 09:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[넷마블F&C, '골든브로스' 플레이어·코인 홀더 보상체계 확립 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250050</link>
+            <guid>https://www.bloter.net/newsView/blt202202250050</guid>
+            <pubDate>Thu, 10 Mar 2022 21:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[차기 정권, 과학기술 부처 손댄다…이재명·윤석열·안철수 '이구동성' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202202080407</link>
             <guid>https://www.bloter.net/newsView/blt202202080407</guid>
@@ -332,18 +346,12 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[③과학기술, 관심 높아졌지만 ‘속 빈 강정’ 우려…진정성도 물음표 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201220001</link>
-            <guid>https://www.bloter.net/newsView/blt202201220001</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스타트업 만난 윤석열 “당선되면 원격의료 도입...확실한 혁신 보여달라” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112020162</link>
-            <guid>https://www.bloter.net/newsView/blt202112020162</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[바이든, 첫 연방정부 차원 '가상자산 연구' 행정명령 발표 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100017</link>
+            <guid>https://www.bloter.net/newsView/blt202203100017</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-10 10:37:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공" (블로터 ─ 비즈니스)]]></title>
@@ -386,14 +394,6 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090009.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배민 현대카드? 나는 ‘땡겨요 신한카드!’…형보다 나은 신상카드는 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080086</link>
-            <guid>https://www.bloter.net/newsView/blt202203080086</guid>
-            <pubDate>Tue, 08 Mar 2022 08:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-08 16:59:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -430,12 +430,20 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열표 ICT]④"규제냐 진흥이냐"…기로에 선 게임산업, 그리고 P2E (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100272</link>
+            <guid>https://www.bloter.net/newsView/blt202203100272</guid>
+            <pubDate>Thu, 10 Mar 2022 21:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-11 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열표 ICT]③'민간중심·자율규제'에 기대감 커진 플랫폼...네이버·카카오는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100223</link>
             <guid>https://www.bloter.net/newsView/blt202203100223</guid>
             <pubDate>Thu, 10 Mar 2022 10:17:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-10 18:37:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열표 ICT]②‘과학적 판단’ 중시 정부 약속…과기 거버넌스 변화는? (블로터 ─ 테크)]]></title>
@@ -564,14 +572,6 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <pubDate>Wed, 09 Mar 2022 01:02:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-09 09:00:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070034.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰13 성능+홈버튼+59만원...애플 '아이폰SE 3' 공개, 가격은 올랐다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090007</link>
-            <guid>https://www.bloter.net/newsView/blt202203090007</guid>
-            <pubDate>Wed, 09 Mar 2022 01:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-09 08:40:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -850,6 +850,14 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090019.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열표 ICT]④"규제냐 진흥이냐"…기로에 선 게임산업, 그리고 P2E (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100272</link>
+            <guid>https://www.bloter.net/newsView/blt202203100272</guid>
+            <pubDate>Thu, 10 Mar 2022 21:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 제20대 대통령 당선인의 공약 및 철학이 정보통신기술(ICT)·과학 관련 부처 및 기업에 미칠 영향에 대해 진단해본다.&lt;편집자주&gt; 국내 게임산업이 모바일 중심에서 블록체인 기반 '플레이 투 언'(P2E) 비즈니스 모델로 향하는 과도기에 접어들었다. 현]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100003</link>
             <guid>https://www.bloter.net/newsView/blt202203100003</guid>
@@ -936,14 +944,6 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <pubDate>Fri, 04 Mar 2022 01:05:12 GMT</pubDate>
             <content:encoded><![CDATA[숏폼 모바일 동영상 플랫폼 ‘틱톡’이 어린이와 청소년의 정신건강에 부정적인 영향을 미친다는 의혹에 대해 미국에서 조사를 받는다. 3일(현지시간) 정보기술(IT) 전문매체 &lt;테크크런치&gt;는 틱톡이 8개 미국 주 법무부 장관이 주도하는 합동조사를 받는다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/04/blt202203040001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김정주, 별이 지다]②'게임 천재'가 바라본 '변화의 물결' (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030167</link>
-            <guid>https://www.bloter.net/newsView/blt202203030167</guid>
-            <pubDate>Thu, 03 Mar 2022 12:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최초 MMORPG '바람의나라'에 이어 다양한 히트작을 배출하며, 넥슨을 글로벌 기업으로 성장시킨 김정주 창업주가 지난달 말 세상을 떠났습니다. &lt;블로터&gt;는 김정주 넥슨 창업주의 일생을 통해 지주사 NXC와 핵심 계열사인 넥슨의 현재와 미래를 다양한 시각에]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030061.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"100만 구독자 눈 앞"…음원큐레이팅 채널 에센셜, '벅스'가 키웠다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
