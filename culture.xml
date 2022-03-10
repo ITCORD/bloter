@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 02:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 03:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]'칸'으로 가는 K-콘텐츠…글로벌 경쟁력 입증할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100031</link>
+            <guid>https://www.bloter.net/newsView/blt202203100031</guid>
+            <pubDate>Thu, 10 Mar 2022 03:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[국내 OTT 플랫폼의 오리지널 콘텐츠가 세계 무대의 검증을 받는다. '왓챠'와 '티빙'의 오리지널 콘텐츠들이 다음달 열리는 '칸 국제 시리즈 페스티벌'에 초청된 것. 최근 넷플릭스 등 글로벌 OTT 플랫폼을 통해 한국 오리지널 콘텐츠들이 전 세계에서 호평받은 데 이어,]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공"]]></title>
             <link>https://www.bloter.net/newsView/blt202203100003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Mar 2022 05:17:55 GMT</pubDate>
             <content:encoded><![CDATA[틴트 5개의 뚜껑을 잘라 공기놀이를 한다. 아이섀도우 팔레트를 부수고, 액체 화장품을 플라스틱 스틱에 짜 넣어 추억의 간식 '아폴로'를 만든다. 스틱형 아이섀도우를 녹여 만든 '발바닥 캔디'도 있다. 크레용, 아이펜슬을 연필깎이로 깎아 시험문제를 풀고 채점을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030028.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]조이시티, '프리스타일풋볼 후속작' 전담조직 '우레'서 이끈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030057</link>
-            <guid>https://www.bloter.net/newsView/blt202203030057</guid>
-            <pubDate>Mon, 07 Mar 2022 01:03:21 GMT</pubDate>
-            <content:encoded><![CDATA[조이시티가 올 하반기 출시 라인업으로 예고한 '프리스타일풋볼2' 개발을 위해 전담 자회사를 꾸린 것으로 확인됐다. 3일 &lt;블로터&gt; 취재 결과, 조이시티가 프리스타일풋볼 시리즈 신작 '프리스타일풋볼2' 개발을 전담하는 자회사 '우레'를 신설했다.   우레는 그]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/03/blt202203030018.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
