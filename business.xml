@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 10:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100003</link>
+            <guid>https://www.bloter.net/newsView/blt202203100003</guid>
+            <pubDate>Thu, 10 Mar 2022 10:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-10 09:17:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202203090009</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 09 Mar 2022 07:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-08 16:59:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 대리노조에 '배차 알고리즘' 공개할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080063</link>
-            <guid>https://www.bloter.net/newsView/blt202203080063</guid>
-            <pubDate>Wed, 09 Mar 2022 02:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-08 16:54:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/08/blt202203080009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
