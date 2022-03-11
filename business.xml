@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 01:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두산중공업의 새 이름 '두산에너빌리티'...지속가능한 에너지서 고안]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100036</link>
+            <guid>https://www.bloter.net/newsView/blt202203100036</guid>
+            <pubDate>Fri, 11 Mar 2022 01:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-10 15:40:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘친환경’ 강조하는 SK하이닉스, 직원들은 어떻게 동참할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100030</link>
+            <guid>https://www.bloter.net/newsView/blt202203100030</guid>
+            <pubDate>Fri, 11 Mar 2022 01:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-10 12:00:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100008.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[바이든, 첫 연방정부 차원 '가상자산 연구' 행정명령 발표]]></title>
             <link>https://www.bloter.net/newsView/blt202203100017</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 10 Mar 2022 03:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-09 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090015.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[총알 장전한 네이버, 글로벌 공략 준비됐나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203070119</link>
-            <guid>https://www.bloter.net/newsView/blt202203070119</guid>
-            <pubDate>Thu, 10 Mar 2022 03:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-09 09:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070034.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 실시간 오디오 방송 서비스 ‘앰프’ 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090005</link>
-            <guid>https://www.bloter.net/newsView/blt202203090005</guid>
-            <pubDate>Thu, 10 Mar 2022 01:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-09 08:36:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090009.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
