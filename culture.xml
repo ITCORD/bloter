@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 08:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 09:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['속도전 돌입' 네오플라이…'네오핀 토큰', 빗썸 상장]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110191</link>
+            <guid>https://www.bloter.net/newsView/blt202203110191</guid>
+            <pubDate>Fri, 11 Mar 2022 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[네오위즈홀딩스의 블록체인 자회사 네오플라이가 자체 암호화폐인 '네오핀 토큰'(NPT·이하 네오핀) 상장에 속도를 내고 있다. 클레이튼 네트워크 기반 플레이앤언(P&amp;E) 게임 3종 출시라는 계획을 기반으로 국내와 글로벌 가상자산 거래소 상장을 서두르는 모]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닌텐도 테마파크, 2023년 미국서 개장…‘슈퍼마리오’ 곳곳에]]></title>
             <link>https://www.bloter.net/newsView/blt202203110006</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 07 Mar 2022 01:03:21 GMT</pubDate>
             <content:encoded><![CDATA[틱톡이 러시아 이용자들의 라이브 방송과 동영상 업로드를 금지했다. 이 조치로 러시아 이용자들은 앱 내 메시징 기능만 사용할 수 있게 됐다.6일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 틱톡은 최근 러시아에서 제정된 ‘가짜뉴스법’에 대응하기 위해]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/07/blt202203070002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]넷플릭스, 소년범죄의 이면을 보다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203060004</link>
-            <guid>https://www.bloter.net/newsView/blt202203060004</guid>
-            <pubDate>Tue, 08 Mar 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[14세 미만 '촉법소년'이 초등생을 유괴 후 살해, 시신을 훼손하고 조현병 진단 기록을 제출했다. 형사책임 능력이 없는 촉법소년은 형벌이 아닌 보호처분을 받을 사실에 내심 안도하는 분위기다. 하지만 소년법원 소년형사합의부의 '심은석' 판사는 공범 여부와 둘]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/06/blt202203060005.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
