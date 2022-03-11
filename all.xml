@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 07:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 08:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -313,7 +313,7 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <title><![CDATA[SSG닷컴 쪼개기 상장…LG엔솔과 뭐가 달라? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202203110090</link>
             <guid>https://www.bloter.net/newsView/blt202203110090</guid>
-            <pubDate>Fri, 11 Mar 2022 07:17:09 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 07:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-11 16:09:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110015.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -346,6 +346,22 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[EU “구글, 러시아 국영 매체 유럽서 차단해야” (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110004</link>
+            <guid>https://www.bloter.net/newsView/blt202203110004</guid>
+            <pubDate>Fri, 11 Mar 2022 01:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-11 08:52:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[④"규제냐 진흥이냐"…기로에 선 게임산업, 그리고 P2E (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100272</link>
+            <guid>https://www.bloter.net/newsView/blt202203100272</guid>
+            <pubDate>Thu, 10 Mar 2022 21:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-11 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100028.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[②‘과학적 판단’ 중시 정부 약속…과기 거버넌스 변화는? (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100239</link>
             <guid>https://www.bloter.net/newsView/blt202203100239</guid>
@@ -376,22 +392,6 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <pubDate>Thu, 10 Mar 2022 02:45:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-10 10:37:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203100003</link>
-            <guid>https://www.bloter.net/newsView/blt202203100003</guid>
-            <pubDate>Thu, 10 Mar 2022 01:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-10 09:17:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090009</link>
-            <guid>https://www.bloter.net/newsView/blt202203090009</guid>
-            <pubDate>Wed, 09 Mar 2022 07:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-09 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090016.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -430,20 +430,20 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[신세계아이앤씨, 2021년 영업익 늘었지만 순익은 '뚝'…왜? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110076</link>
+            <guid>https://www.bloter.net/newsView/blt202203110076</guid>
+            <pubDate>Fri, 11 Mar 2022 08:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-11 16:39:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['GOS OFF' 허용한 삼성..."사용자 책임인가?" 논란 예상 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203110035</link>
             <guid>https://www.bloter.net/newsView/blt202203110035</guid>
-            <pubDate>Fri, 11 Mar 2022 07:18:31 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 07:15:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-11 14:25:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110004.620x344.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'위믹스' 개발사, 플랫폼·사명 통일…'리브랜딩'으로 글로벌 정조준 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110044</link>
-            <guid>https://www.bloter.net/newsView/blt202203110044</guid>
-            <pubDate>Fri, 11 Mar 2022 05:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-11 14:10:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110007.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美, 연방정부 차원 최초 ‘자율주행차’ 안전 규칙 마련…“사람 보호 우선” (블로터 ─ 테크)]]></title>
