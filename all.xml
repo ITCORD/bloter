@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 05:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 06:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,13 +814,29 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2021/11/08/blt202111080012.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더네이쳐홀딩스, 김효겸 前 골프존엔터 대표 사외이사 영입한 이유는 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110046</link>
+            <guid>https://www.bloter.net/newsView/blt202203110046</guid>
+            <pubDate>Fri, 11 Mar 2022 06:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110011.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]'위믹스' 개발사, 플랫폼·사명 통일…'리브랜딩'으로 글로벌 정조준 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110044</link>
+            <guid>https://www.bloter.net/newsView/blt202203110044</guid>
+            <pubDate>Fri, 11 Mar 2022 05:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110007.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열표 ICT]④"규제냐 진흥이냐"…기로에 선 게임산업, 그리고 P2E (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100272</link>
             <guid>https://www.bloter.net/newsView/blt202203100272</guid>
             <pubDate>Thu, 10 Mar 2022 21:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-03-11 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100028.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100028.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"100만 구독자 눈 앞"…음원큐레이팅 채널 에센셜, '벅스'가 키웠다 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
@@ -832,32 +848,6 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100010.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OTT오리지널]'칸'으로 가는 K-콘텐츠…글로벌 경쟁력 입증할까 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203100031</link>
-            <guid>https://www.bloter.net/newsView/blt202203100031</guid>
-            <pubDate>Thu, 10 Mar 2022 03:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-03-10 11:57:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100007.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'JYP'는 '메타버스'가 하고 싶어서 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090011</link>
-            <guid>https://www.bloter.net/newsView/blt202203090011</guid>
-            <pubDate>Wed, 09 Mar 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-03-09 18:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090020.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'위믹스' 개발사, 플랫폼·사명 통일…'리브랜딩'으로 글로벌 정조준 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110044</link>
-            <guid>https://www.bloter.net/newsView/blt202203110044</guid>
-            <pubDate>Fri, 11 Mar 2022 05:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 '위믹스'(WEMIX)의 글로벌 경쟁력을 제고하기 위해 리브랜딩을 본격화한다. 올해 '100개 게임 위믹스 온보딩'을 목표로 내세운 위메이드는 플랫폼 개발사의 사명과 서비스명을 통일시켜 보다 직관적으로 서비스 방향을 개편할 계획이다.11일 &lt;블로터&gt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110007.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[닌텐도 테마파크, 2023년 미국서 개장…‘슈퍼마리오’ 곳곳에 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203110006</link>
             <guid>https://www.bloter.net/newsView/blt202203110006</guid>
@@ -866,12 +856,28 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110002.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[OTT오리지널]'칸'으로 가는 K-콘텐츠…글로벌 경쟁력 입증할까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100031</link>
+            <guid>https://www.bloter.net/newsView/blt202203100031</guid>
+            <pubDate>Thu, 10 Mar 2022 03:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[국내 OTT 플랫폼의 오리지널 콘텐츠가 세계 무대의 검증을 받는다. '왓챠'와 '티빙'의 오리지널 콘텐츠들이 다음달 열리는 '칸 국제 시리즈 페스티벌'에 초청된 것. 최근 넷플릭스 등 글로벌 OTT 플랫폼을 통해 한국 오리지널 콘텐츠들이 전 세계에서 호평받은 데 이어,]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203100003</link>
             <guid>https://www.bloter.net/newsView/blt202203100003</guid>
             <pubDate>Thu, 10 Mar 2022 01:05:50 GMT</pubDate>
             <content:encoded><![CDATA[페이스북이 우크라이나 이용자들이 의료 지원 등 필요한 도움을 즉시 받을 수 있도록 ‘커뮤니티 헬프(Community Help)’ 페이지를 업데이트했다. 9일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 페이스북은 커뮤니티 헬프 페이지에 우크라이나 및 인근 국가에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100003.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]'JYP'는 '메타버스'가 하고 싶어서 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203090011</link>
+            <guid>https://www.bloter.net/newsView/blt202203090011</guid>
+            <pubDate>Wed, 09 Mar 2022 09:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[JYP엔터테인먼트(이하 JYP)의 메타버스 사업 전략이 윤곽을 드러냈다. 앞서 JYP는 메타버스 사업 분야에 투자를 아끼지 않았지만, 뚜렷한 계획이 나오지 않아 시장의 궁금증을 유발했다. 개별 아티스트 세계관에 메타버스 스토리를 가미하는 정도의 관심을 넘어 파트]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/09/blt202203090020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입 (블로터 ─ 컬처)]]></title>
@@ -936,14 +942,6 @@ M1으로 전작보다 2배 빨라졌다 '아이패드 에어 5세대'
             <pubDate>Sun, 06 Mar 2022 23:16:28 GMT</pubDate>
             <content:encoded><![CDATA[14세 미만 '촉법소년'이 초등생을 유괴 후 살해, 시신을 훼손하고 조현병 진단 기록을 제출했다. 형사책임 능력이 없는 촉법소년은 형벌이 아닌 보호처분을 받을 사실에 내심 안도하는 분위기다. 하지만 소년법원 소년형사합의부의 '심은석' 판사는 공범 여부와 둘]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/06/blt202203060005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]"피파4, 모멘텀 없다"…본질 놓친 해명 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040184</link>
-            <guid>https://www.bloter.net/newsView/blt202203040184</guid>
-            <pubDate>Sat, 05 Mar 2022 05:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 축구게임 '피파온라인4'에서 발생하는 '모멘텀' 현상에 대해 개발스튜디오 측이 공식입장을 표명했다. 모멘텀은 게임 내 인공지능(AI)이 스코어에 따라 비정상적으로 변하는 현상이다. 최근 피파온라인4 관련 커뮤니티에서는 '지고 있는 팀의 공격수가 상대를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/05/blt202203050001.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"100만 구독자 눈 앞"…음원큐레이팅 채널 에센셜, '벅스'가 키웠다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
