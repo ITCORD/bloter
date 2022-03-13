@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 08:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 09:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,12 +25,11 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110024.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[하이브랩소디]①BTS 콘서트, '아미봉·클래퍼'로 '재미·방역' 잡았다]]></title>
+            <title><![CDATA[[하이브랩소디]①BTS 콘서트, '아미밤·클래퍼'로 '재미·방역' 잡았다]]></title>
             <link>https://www.bloter.net/newsView/blt202203120006</link>
             <guid>https://www.bloter.net/newsView/blt202203120006</guid>
             <pubDate>Sun, 13 Mar 2022 06:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-03-13 13:01:01</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/12/blt202203120009.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
