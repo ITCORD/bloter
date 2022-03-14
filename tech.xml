@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG생활건강 디지털 신사업 NFT…왜 '빌리프'일까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203140118</link>
+            <guid>https://www.bloter.net/newsView/blt202203140118</guid>
+            <pubDate>Mon, 14 Mar 2022 08:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-14 16:52:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파운드리 전망 불확실한 삼성전자..DB하이텍은 10위권 밖으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202203140134</link>
+            <guid>https://www.bloter.net/newsView/blt202203140134</guid>
+            <pubDate>Mon, 14 Mar 2022 08:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-14 16:42:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140027.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘포스트 메모리’ 경쟁하는 SK하이닉스, 개발비 손상 3배 증가]]></title>
             <link>https://www.bloter.net/newsView/blt202203140076</link>
             <guid>https://www.bloter.net/newsView/blt202203140076</guid>
             <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-14 16:17:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140013.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“한류 열풍에 주목”...한컴·플레이댑, 한글 소재 NFT 게임 만든다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 12 Mar 2022 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-12 17:52:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/12/blt202203120007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이버스 마중물' SKT 이프랜드, NFT·VR 타고 해외로 간다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203100230</link>
-            <guid>https://www.bloter.net/newsView/blt202203100230</guid>
-            <pubDate>Sat, 12 Mar 2022 05:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-12 14:03:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/10/blt202203100016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크체인저]"요약·번역 기능까지"...네이버 '클로바노트'는 진화 중]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110047</link>
-            <guid>https://www.bloter.net/newsView/blt202203110047</guid>
-            <pubDate>Sat, 12 Mar 2022 03:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-12 12:02:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
