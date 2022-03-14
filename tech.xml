@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 01:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 아이폰14는 프로 모델만 최신 칩 쓴다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203140012</link>
+            <guid>https://www.bloter.net/newsView/blt202203140012</guid>
+            <pubDate>Mon, 14 Mar 2022 02:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-14 11:13:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, 실시간 방송 때 ‘시청자→매니저’ 임명 기능 추가]]></title>
+            <link>https://www.bloter.net/newsView/blt202203140007</link>
+            <guid>https://www.bloter.net/newsView/blt202203140007</guid>
+            <pubDate>Mon, 14 Mar 2022 02:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-14 10:27:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스타십'이 일론 머스크 '스페이스X'의 성배인 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202203140001</link>
             <guid>https://www.bloter.net/newsView/blt202203140001</guid>
             <pubDate>Sun, 13 Mar 2022 23:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-14 07:01:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스 2022]④'내사모남 스핀오프', 한국 올로케…"라라 진 동생 컴백"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 11 Mar 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-11 17:33:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계아이앤씨, 2021년 영업익 늘었지만 순익은 '뚝'…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110076</link>
-            <guid>https://www.bloter.net/newsView/blt202203110076</guid>
-            <pubDate>Fri, 11 Mar 2022 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-11 16:39:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['GOS OFF' 허용한 삼성..."사용자 책임인가?" 논란 예상]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110035</link>
-            <guid>https://www.bloter.net/newsView/blt202203110035</guid>
-            <pubDate>Fri, 11 Mar 2022 07:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-11 14:25:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
