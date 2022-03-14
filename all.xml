@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -353,6 +353,14 @@ NHN벅스 '뮤직 PD' 서비스. (사진=벅스 뮤직 PD 홈페이지 갈무리
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[美 바이든 행정부, '가상자산 연구' 행정명령…업계 지지받은 이유는? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110192</link>
+            <guid>https://www.bloter.net/newsView/blt202203110192</guid>
+            <pubDate>Sun, 13 Mar 2022 08:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-13 16:04:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/13/blt202203130008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OTT업계, 광고 붙인 저가요금제 출시 열풍…넷플릭스는? (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202203110224</link>
             <guid>https://www.bloter.net/newsView/blt202203110224</guid>
@@ -391,14 +399,6 @@ NHN벅스 '뮤직 PD' 서비스. (사진=벅스 뮤직 PD 홈페이지 갈무리
             <pubDate>Fri, 11 Mar 2022 14:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-11 22:37:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110029.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['속도전 돌입' 네오플라이…'네오핀 토큰', 빗썸 상장 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110191</link>
-            <guid>https://www.bloter.net/newsView/blt202203110191</guid>
-            <pubDate>Fri, 11 Mar 2022 09:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-11 17:33:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110023.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
