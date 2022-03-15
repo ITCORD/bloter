@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 21:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 22:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,12 +389,20 @@ LG생활건강 뷰티 브랜드 '빌리프'의 '빌리프 유니버스 디스월
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[테크쑤다]'챗봇'은 내 말을 '이해'하는 걸까?...네이버·카카오·KT에 물었더니 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150230</link>
+            <guid>https://www.bloter.net/newsView/blt202203150230</guid>
+            <pubDate>Tue, 15 Mar 2022 22:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-16 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 이음5G 정부지원, '공공+28GHz'에 올인 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203150380</link>
             <guid>https://www.bloter.net/newsView/blt202203150380</guid>
             <pubDate>Tue, 15 Mar 2022 21:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-16 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150034.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150034.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스카이레이크 품에 안긴 티맥스소프트, 새 이사회는 (블로터 ─ 테크)]]></title>
@@ -523,14 +531,6 @@ LG생활건강 뷰티 브랜드 '빌리프'의 '빌리프 유니버스 디스월
             <pubDate>Mon, 14 Mar 2022 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-14 17:38:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취임 직후 임직원에 편지 쓴 최수연 네이버 대표 "기업문화 회복" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140135</link>
-            <guid>https://www.bloter.net/newsView/blt202203140135</guid>
-            <pubDate>Mon, 14 Mar 2022 09:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-14 17:34:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
