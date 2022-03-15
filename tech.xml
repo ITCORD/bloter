@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스카이레이크 품에 안긴 티맥스소프트, 새 이사회는]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150367</link>
+            <guid>https://www.bloter.net/newsView/blt202203150367</guid>
+            <pubDate>Tue, 15 Mar 2022 10:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-15 18:37:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초록뱀미디어, NFT·메타버스 본격화…"콘텐츠 시너지 기대"]]></title>
             <link>https://www.bloter.net/newsView/blt202203150231</link>
             <guid>https://www.bloter.net/newsView/blt202203150231</guid>
             <pubDate>Tue, 15 Mar 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-15 16:56:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버가 MZ세대 최수연 대표에게 기대하는 것…'성장 엔진·조직 쇄신']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 14 Mar 2022 08:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-14 16:52:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파운드리 전망 불확실한 삼성전자..DB하이텍은 10위권 밖으로]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140134</link>
-            <guid>https://www.bloter.net/newsView/blt202203140134</guid>
-            <pubDate>Mon, 14 Mar 2022 08:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-14 16:42:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
