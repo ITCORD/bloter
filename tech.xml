@@ -4,16 +4,56 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버가 MZ세대 최수연 대표에게 기대하는 것…'성장 엔진·조직 쇄신']]></title>
+            <link>https://www.bloter.net/newsView/blt202203150069</link>
+            <guid>https://www.bloter.net/newsView/blt202203150069</guid>
+            <pubDate>Tue, 15 Mar 2022 07:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-15 15:16:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['네이버 모바일' 구버전 종료…"이용자 99%가 신버전 사용" 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150066</link>
+            <guid>https://www.bloter.net/newsView/blt202203150066</guid>
+            <pubDate>Tue, 15 Mar 2022 07:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-15 14:59:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주총 앞둔 삼성전자 경영진, 연이은 자사주 매입]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150060</link>
+            <guid>https://www.bloter.net/newsView/blt202203150060</guid>
+            <pubDate>Tue, 15 Mar 2022 07:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-15 14:56:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150016.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘서빙로봇’ 들고 나온 SK쉴더스...탈(脫)보안 전략 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150046</link>
+            <guid>https://www.bloter.net/newsView/blt202203150046</guid>
+            <pubDate>Tue, 15 Mar 2022 07:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-15 14:10:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴투스, '부동산 전문가' 사외이사 내정한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150028</link>
+            <guid>https://www.bloter.net/newsView/blt202203150028</guid>
+            <pubDate>Tue, 15 Mar 2022 07:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-15 13:44:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150007.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LGU+, 6G용 안테나 기술 검증..."5G 개선 효과도 기대"]]></title>
             <link>https://www.bloter.net/newsView/blt202203150013</link>
             <guid>https://www.bloter.net/newsView/blt202203150013</guid>
             <pubDate>Tue, 15 Mar 2022 02:44:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-15 11:18:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭스콘, 중국 내 코로나19 확산에 아이폰 공장 가동 멈췄다]]></title>
@@ -110,46 +150,6 @@
             <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-14 16:17:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“한류 열풍에 주목”...한컴·플레이댑, 한글 소재 NFT 게임 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140089</link>
-            <guid>https://www.bloter.net/newsView/blt202203140089</guid>
-            <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-14 15:52:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최수연 네이버 대표의 취임 일성 '글로벌']]></title>
-            <link>https://www.bloter.net/newsView/blt202203140066</link>
-            <guid>https://www.bloter.net/newsView/blt202203140066</guid>
-            <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-14 15:16:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김범수 카카오 의장, '글로벌' 집중…이사회서 빠진다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140045</link>
-            <guid>https://www.bloter.net/newsView/blt202203140045</guid>
-            <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-14 14:01:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트는 2D, 빗썸은 3D로 메타버스 만든다…차이 뭘까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140021</link>
-            <guid>https://www.bloter.net/newsView/blt202203140021</guid>
-            <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-14 13:46:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴라이프케어, 필리핀 법인에 쌓여가는 부채]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140023</link>
-            <guid>https://www.bloter.net/newsView/blt202203140023</guid>
-            <pubDate>Mon, 14 Mar 2022 07:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-14 13:27:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

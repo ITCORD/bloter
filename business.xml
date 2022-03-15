@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, iOS 15.4 출시…마스크 쓰고도 ‘아이폰 잠금해제’ 된다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150001</link>
+            <guid>https://www.bloter.net/newsView/blt202203150001</guid>
+            <pubDate>Tue, 15 Mar 2022 07:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-15 07:57:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/15/blt202203150001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기부 장관 하마평 신용현 “받은 연락 없다”…부총리 도입엔 ‘신중’]]></title>
+            <link>https://www.bloter.net/newsView/blt202203140242</link>
+            <guid>https://www.bloter.net/newsView/blt202203140242</guid>
+            <pubDate>Tue, 15 Mar 2022 07:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-14 23:50:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG생활건강 디지털 신사업 NFT…왜 '빌리프'일까?]]></title>
             <link>https://www.bloter.net/newsView/blt202203140118</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 14 Mar 2022 15:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-14 13:46:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴라이프케어, 필리핀 법인에 쌓여가는 부채]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140023</link>
-            <guid>https://www.bloter.net/newsView/blt202203140023</guid>
-            <pubDate>Mon, 14 Mar 2022 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-14 13:27:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스타십'이 일론 머스크 '스페이스X'의 성배인 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140001</link>
-            <guid>https://www.bloter.net/newsView/blt202203140001</guid>
-            <pubDate>Mon, 14 Mar 2022 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-14 07:01:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
