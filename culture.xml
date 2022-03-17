@@ -4,16 +4,24 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 01:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:53:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[넷플릭스, 계정 공유에 추가 요금 부과…중남미 3개국서 시범 운영]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170003</link>
-            <guid>https://www.bloter.net/newsView/blt202203170003</guid>
-            <pubDate>Wed, 16 Mar 2022 23:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 같은 가구 구성원이 아닌 이용자와 계정을 공유하는 가입자를 대상으로 추가 요금을 부과한다.16일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 넷플릭스는 웹사이트를 통해 새 요금제 정책을 먼저 칠레, 코스타리카, 페루에서 향후 몇 주에 걸쳐 시범]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170001.293x165.0.png" length="0" type="image/png"/>
+            <title><![CDATA[우크라 대통령의 자국군 항복 명령은 '딥페이크 가짜영상']]></title>
+            <link>https://www.bloter.net/newsView/blt202203170015</link>
+            <guid>https://www.bloter.net/newsView/blt202203170015</guid>
+            <pubDate>Thu, 17 Mar 2022 02:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[메타와 유튜브가 볼로드미르 젤렌스키 우크라이나 대통령이 자국 군에게 항복을 명령하는 ‘딥페이크’ 동영상을 삭제했다고 밝혔다. 16일(현지시간) IT 전문매체 &lt;테크크런치&gt; 등 주요 외신에 따르면 해당 영상은 젤렌스키 대통령이 평소 대통령 연설을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170003.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['한문일'호 무신사 출범…'인적 쇄신'으로 신사업 드라이브]]></title>
+            <link>https://www.bloter.net/newsView/blt202203160032</link>
+            <guid>https://www.bloter.net/newsView/blt202203160032</guid>
+            <pubDate>Thu, 17 Mar 2022 02:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[패션 플랫폼 무신사가 한문일 단독 대표 체제로 전환하며 새 시즌을 맞는다. 무신사는 한 단독 대표 체제에서 빠른 의사결정 구조를 기반으로 성장에 속도를 낸다는 방침이다.특히 한 대표 체제에서 무신사는 신사업에 드라이브를 걸 것으로 전망된다. 무신사 합류]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/16/blt202203160015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초록뱀미디어, NFT·메타버스 본격화…"콘텐츠 시너지 기대"]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 14 Mar 2022 10:24:12 GMT</pubDate>
             <content:encoded><![CDATA[인터넷동영상서비스(OTT)에서 공급하는 콘텐츠가 빠르게 확산되며 TV 드라마의 인기는 상대적으로 위축된 모습이다. 지상파 3사를 비롯한 방송사들은 다양한 OTT 업체와 협력하며 OTT와 방송사 동시 편성을 추진하는 형태로 돌파구를 찾아가기 시작했다. '넷플릭스', ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/13/blt202203130003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OTT업계, 광고 붙인 저가요금제 출시 열풍…넷플릭스는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110224</link>
-            <guid>https://www.bloter.net/newsView/blt202203110224</guid>
-            <pubDate>Sun, 13 Mar 2022 11:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[최근 글로벌 온라인 동영상 서비스(OTT) 디즈니플러스가 광고를 보면 저렴하게 이용 가능한 요금제를 출시하겠다고 발표했다. 디즈니플러스 외에도 여러 OTT가 광고 기반 요금제를 도입하고 있다. 이런 가운데 넷플릭스는 현재로서는 광고 기반 요금제를 도입할 계획]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/11/blt202203110024.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
