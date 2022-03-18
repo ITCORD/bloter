@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀트리온, 화이자 '팍스로비드'도 만든다…코로나19 ‘먹는 약’ 생산 2종으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180365</link>
+            <guid>https://www.bloter.net/newsView/blt202203180365</guid>
+            <pubDate>Fri, 18 Mar 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-18 17:08:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180045.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매출 1조원 앞둔 롯데정보통신, 영업이익률은 제자리…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180268</link>
+            <guid>https://www.bloter.net/newsView/blt202203180268</guid>
+            <pubDate>Fri, 18 Mar 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-18 16:40:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180043.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“통일부 문건 위장한 北 해킹 발견”]]></title>
             <link>https://www.bloter.net/newsView/blt202203180210</link>
             <guid>https://www.bloter.net/newsView/blt202203180210</guid>
             <pubDate>Fri, 18 Mar 2022 07:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-18 16:05:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180038.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180038.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["中시장 청신호·자산 매각"…곳간 늘린 '엠게임', 다음 행보는]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-17 13:09:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘로봇∙메타버스∙반도체’…저평가 주식만 쏙 찾아냈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170079</link>
-            <guid>https://www.bloter.net/newsView/blt202203170079</guid>
-            <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-17 12:36:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]명품플랫폼 '발란', 당일배송 특화 '발란 익스프레스' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170024</link>
-            <guid>https://www.bloter.net/newsView/blt202203170024</guid>
-            <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span><span class="writer">채성오</span>                        <span class="date">2022-03-17 10:43:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
