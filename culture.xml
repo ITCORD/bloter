@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스냅챗, 사이버 불링 방지 위해 익명 메시징 기능 금지한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180009</link>
+            <guid>https://www.bloter.net/newsView/blt202203180009</guid>
+            <pubDate>Fri, 18 Mar 2022 01:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[소셜미디어(SNS) 스냅챗이 익명 메시징 기능을 제공하는 제3의 앱이 사이버 불링(온라인 괴롭힘)에 악용될 수 있어 사용을 금지한다고 발표했다. 17일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 이번 조치는 지난해 스냅챗에서 제공되는 익명 메시징 앱에서 괴]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 대통령의 자국군 항복 명령은 '딥페이크 가짜영상']]></title>
             <link>https://www.bloter.net/newsView/blt202203170015</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 14 Mar 2022 12:33:32 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단이 코로나19 팬데믹으로 오프라인 공연을 잠시 멈춘 이후 약 2년 반만에 국내 대면 공연을 재개했습니다. 향후 더 많은 대면 콘서트가 개최될 것으로 전망되는 가운데, 방탄소년단의 오프라인 콘서트 재개가 국내 엔터테인먼트 산업에 어떤 의미를 가지는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/12/blt202203120017.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]드라마 '사내맞선' 원작웹툰 그림작가, NARAK을 만나다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203130001</link>
-            <guid>https://www.bloter.net/newsView/blt202203130001</guid>
-            <pubDate>Mon, 14 Mar 2022 10:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷동영상서비스(OTT)에서 공급하는 콘텐츠가 빠르게 확산되며 TV 드라마의 인기는 상대적으로 위축된 모습이다. 지상파 3사를 비롯한 방송사들은 다양한 OTT 업체와 협력하며 OTT와 방송사 동시 편성을 추진하는 형태로 돌파구를 찾아가기 시작했다. '넷플릭스', ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/13/blt202203130003.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
