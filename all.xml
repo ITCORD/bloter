@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 04:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 05:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -303,40 +303,40 @@ M8은 모니터를 넘어 '가구'라는 관점에서도 디자인적으로 매�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180043.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성SDI 헝가리법인, 이자에 벌어도 남는게 없다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180074</link>
-            <guid>https://www.bloter.net/newsView/blt202203180074</guid>
-            <pubDate>Fri, 18 Mar 2022 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-18 16:14:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180042.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[EU 제재 대상된 ‘러시아의 구글’ 얀덱스…”미디어 부문 매각 검토” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180595</link>
+            <guid>https://www.bloter.net/newsView/blt202203180595</guid>
+            <pubDate>Sat, 19 Mar 2022 03:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-19 12:05:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180059.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[삼성SDI, 미국 내 자체 공장 시사...USMCA 여파? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170387</link>
-            <guid>https://www.bloter.net/newsView/blt202203170387</guid>
-            <pubDate>Thu, 17 Mar 2022 22:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[우크라이나, 페이팔 통해 해외서 돈 받는다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180018</link>
+            <guid>https://www.bloter.net/newsView/blt202203180018</guid>
+            <pubDate>Fri, 18 Mar 2022 01:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이재용의 복심' 최윤호...삼성SDI의 '핸디캡'을 어떻게 극복할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112070069</link>
-            <guid>https://www.bloter.net/newsView/blt202112070069</guid>
-            <pubDate>Fri, 18 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[페이스북, '커뮤니티 헬프' 업데이트..."우크라이나 지원 정보 제공" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203100003</link>
+            <guid>https://www.bloter.net/newsView/blt202203100003</guid>
+            <pubDate>Sat, 19 Mar 2022 05:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘LG엔솔∙삼성SDI’ 고객사 둔 WCP, 헝가리 분리막 공장 설립 검토 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112030079</link>
-            <guid>https://www.bloter.net/newsView/blt202112030079</guid>
-            <pubDate>Fri, 18 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[워키토키 앱 ‘젤로’ 막은 러시아…“우크라이나 침공 관련 허위정보 유포해” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203080003</link>
+            <guid>https://www.bloter.net/newsView/blt202203080003</guid>
+            <pubDate>Sat, 19 Mar 2022 05:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국내 전지3사 '3Q 누적 성적표'...매출 성장은 SK온, 영업익은 삼성SDI 우수 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202111070001</link>
-            <guid>https://www.bloter.net/newsView/blt202111070001</guid>
-            <pubDate>Fri, 18 Mar 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[우크라이나의 ‘딥 페이크’ 앱, 전쟁 참상 전하기 위해 탈바꿈하다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040107</link>
+            <guid>https://www.bloter.net/newsView/blt202203040107</guid>
+            <pubDate>Sat, 19 Mar 2022 05:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마세라티, "2025년까지 전기차 라인업 완성" (블로터 ─ 비즈니스)]]></title>
@@ -423,12 +423,28 @@ M8은 모니터를 넘어 '가구'라는 관점에서도 디자인적으로 매�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[EU 제재 대상된 ‘러시아의 구글’ 얀덱스…”미디어 부문 매각 검토” (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180595</link>
+            <guid>https://www.bloter.net/newsView/blt202203180595</guid>
+            <pubDate>Sat, 19 Mar 2022 03:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-19 12:05:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180059.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 돋보기]EMR 연동으로 헬스케어 O2O 시장 잡은 '똑닥' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203170752</link>
+            <guid>https://www.bloter.net/newsView/blt202203170752</guid>
+            <pubDate>Sat, 19 Mar 2022 03:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-19 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/19/blt202203190003.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[폰SIGHT]옵션 하나로 달라지는 내 폰...'런처'를 아시나요? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203180505</link>
             <guid>https://www.bloter.net/newsView/blt202203180505</guid>
             <pubDate>Sat, 19 Mar 2022 00:58:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-19 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180047.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180047.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[셀트리온, 화이자 '팍스로비드'도 만든다…코로나19 ‘먹는 약’ 생산 2종으로 (블로터 ─ 테크)]]></title>
@@ -549,22 +565,6 @@ M8은 모니터를 넘어 '가구'라는 관점에서도 디자인적으로 매�
             <pubDate>Thu, 17 Mar 2022 08:21:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-17 17:07:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]LS전선아시아 '마이너스' 현금흐름, 소재 사업 본격화 신호탄? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170143</link>
-            <guid>https://www.bloter.net/newsView/blt202203170143</guid>
-            <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-17 14:47:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170012.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[명동에 둥지 튼 애플스토어 국내 3호점, 개장 임박 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170124</link>
-            <guid>https://www.bloter.net/newsView/blt202203170124</guid>
-            <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-17 14:21:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
