@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 01:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 02:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[폰SIGHT]옵션 하나로 달라지는 내 폰...'런처'를 아시나요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180505</link>
+            <guid>https://www.bloter.net/newsView/blt202203180505</guid>
+            <pubDate>Sat, 19 Mar 2022 02:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-19 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180047.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온, 화이자 '팍스로비드'도 만든다…코로나19 ‘먹는 약’ 생산 2종으로]]></title>
             <link>https://www.bloter.net/newsView/blt202203180365</link>
             <guid>https://www.bloter.net/newsView/blt202203180365</guid>
             <pubDate>Fri, 18 Mar 2022 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-18 17:08:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180045.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매출 1조원 앞둔 롯데정보통신, 영업이익률은 제자리…왜?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-17 14:21:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해만 140억원 투자한 '제페토'...포트폴리오는 '콘텐츠·게임·블록체인']]></title>
-            <link>https://www.bloter.net/newsView/blt202203170077</link>
-            <guid>https://www.bloter.net/newsView/blt202203170077</guid>
-            <pubDate>Thu, 17 Mar 2022 06:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-17 13:09:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
