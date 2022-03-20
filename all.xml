@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 01:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 02:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -875,6 +875,14 @@ EMR 프로그램 연동이 가능했던 건 비브로스가 현재 국내 14개 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/16/blt202203160006.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['선데이토즈'에서 '위메이드플레이'로…정체성·시너지 잡을까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180594</link>
+            <guid>https://www.bloter.net/newsView/blt202203180594</guid>
+            <pubDate>Sun, 20 Mar 2022 02:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[초창기 스마트폰 게임 시장을 휩쓴 '애니팡'으로 알려진 게임사 선데이토즈가 '위메이드플레이'로 사명을 변경한다. 지난해 말 위메이드가 선데이토즈를 인수, 최대주주로 올라서면서 블록체인 게임을 비롯한 신사업을 확장하겠다는 의지가 반영된 행보다. 다음달]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180057.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["中시장 청신호·자산 매각"…곳간 늘린 '엠게임', 다음 행보는 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203180196</link>
             <guid>https://www.bloter.net/newsView/blt202203180196</guid>
@@ -961,14 +969,6 @@ EMR 프로그램 연동이 가능했던 건 비브로스가 현재 국내 14개 
             <pubDate>Mon, 14 Mar 2022 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[한글과컴퓨터(이하 한컴)가 ‘한컴타자연습’을 소재로 NFT(Non-Fungible Token, 대체불가토큰) 게임을 개발한다.14일 한컴은 블록체인 게임 서비스 플랫폼 플레이댑과 전략적 파트너십을 체결하고, 글로벌을 겨냥한 NFT게임 사업을 추진한다고 밝혔다. 한컴 관계자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140016.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업비트는 2D, 빗썸은 3D로 메타버스 만든다…차이 뭘까? (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140021</link>
-            <guid>https://www.bloter.net/newsView/blt202203140021</guid>
-            <pubDate>Mon, 14 Mar 2022 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[국내 선두권 가상자산 거래소 빗썸이 포켓몬고(Pokemon Go), 폴가이즈(Fall Guys) 등 인기 게임의 뼈대가 된 글로벌 3D 엔진 개발사 유니티(Unity)와 협력해 메타버스(가상과 현실이 융합된 공간) 플랫폼을 구축한다. 경쟁사인 업비트가 2D로 메타버스를 구현한 것과는 상반되]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]"100만 구독자 눈 앞"…음원큐레이팅 채널 에센셜, '벅스'가 키웠다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
