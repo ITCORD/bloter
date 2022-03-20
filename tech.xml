@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 05:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 06:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프롭테크가 '리딩뱅크 하나은행' 이끌까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180562</link>
+            <guid>https://www.bloter.net/newsView/blt202203180562</guid>
+            <pubDate>Sun, 20 Mar 2022 06:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-20 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180054.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 연구진 “코로나19 사망률, 인터넷 접근성과 연관 있다”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180597</link>
+            <guid>https://www.bloter.net/newsView/blt202203180597</guid>
+            <pubDate>Sun, 20 Mar 2022 06:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-20 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180060.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기부, 성층권 드론 개발 총괄에 항우연 선정…“세계 최고 성능 목표”]]></title>
             <link>https://www.bloter.net/newsView/blt202203180553</link>
             <guid>https://www.bloter.net/newsView/blt202203180553</guid>
             <pubDate>Sun, 20 Mar 2022 04:25:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-20 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180053.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180053.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['선데이토즈'에서 '위메이드플레이'로…정체성·시너지 잡을까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 17 Mar 2022 23:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-18 06:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[59만원 중저가 대전…갤럭시A53 5G, 아이폰SE 3 차이는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170756</link>
-            <guid>https://www.bloter.net/newsView/blt202203170756</guid>
-            <pubDate>Thu, 17 Mar 2022 19:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-17 23:00:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170039.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, AI 카메라 강조한 중저가폰 '갤럭시A 33·53 5G' 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170755</link>
-            <guid>https://www.bloter.net/newsView/blt202203170755</guid>
-            <pubDate>Thu, 17 Mar 2022 19:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-17 23:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/17/blt202203170030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
