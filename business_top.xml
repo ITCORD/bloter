@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 09:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 10:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[다시 살아난 KCC...실리콘 사업의 대반전]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210250</link>
-            <guid>https://www.bloter.net/newsView/blt202203210250</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-21 15:56:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210018.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[SK온 '규모의 경제' 달성 가능할까...실적·재무·현금흐름 '3박자 악화']]></title>
+            <link>https://www.bloter.net/newsView/blt202203210188</link>
+            <guid>https://www.bloter.net/newsView/blt202203210188</guid>
+            <pubDate>Mon, 21 Mar 2022 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-21 17:06:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210027.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[KCC, 아직 불안한 'IT·반도체' 소재 업체의 꿈]]></title>
-            <link>https://www.bloter.net/newsView/blt202107060018</link>
-            <guid>https://www.bloter.net/newsView/blt202107060018</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:11 GMT</pubDate>
+            <title><![CDATA[SK온, IPO 천천히 해도 괜찮은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202201300003</link>
+            <guid>https://www.bloter.net/newsView/blt202201300003</guid>
+            <pubDate>Mon, 21 Mar 2022 10:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KCC, 실리콘 사업 통합…적자 모멘티브 도움 될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202101060011</link>
-            <guid>https://www.bloter.net/newsView/blt202101060011</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:11 GMT</pubDate>
+            <title><![CDATA[SK온, 배터리 생산부터 서비스까지...'생애주기 책임진다']]></title>
+            <link>https://www.bloter.net/newsView/blt202111270004</link>
+            <guid>https://www.bloter.net/newsView/blt202111270004</guid>
+            <pubDate>Mon, 21 Mar 2022 10:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[계열분리 KCC, 자투리 부동산도 나눈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202012300007</link>
-            <guid>https://www.bloter.net/newsView/blt202012300007</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KCC 승부수 모멘티브, 올해 손실만 1600억]]></title>
-            <link>https://www.bloter.net/newsView/blt202011160035</link>
-            <guid>https://www.bloter.net/newsView/blt202011160035</guid>
-            <pubDate>Mon, 21 Mar 2022 07:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[국내 전지3사 '3Q 누적 성적표'...매출 성장은 SK온, 영업익은 삼성SDI 우수]]></title>
+            <link>https://www.bloter.net/newsView/blt202111070001</link>
+            <guid>https://www.bloter.net/newsView/blt202111070001</guid>
+            <pubDate>Mon, 21 Mar 2022 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
