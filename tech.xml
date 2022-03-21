@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT·CJ ENM, 콘텐츠 동맹으로 무엇을 노리나…'유통 채널·IP' 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210681</link>
+            <guid>https://www.bloter.net/newsView/blt202203210681</guid>
+            <pubDate>Mon, 21 Mar 2022 09:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-21 18:08:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰]최성욱 넥슨 퍼블리싱라이브본부장 "던파모바일, 원작 손맛 제대로"]]></title>
             <link>https://www.bloter.net/newsView/blt202203210522</link>
             <guid>https://www.bloter.net/newsView/blt202203210522</guid>
             <pubDate>Mon, 21 Mar 2022 08:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-21 17:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘국산 1호’ 코로나19 백신 상용 가시화…SK바사, 질병청과 선구매 계약 체결]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 20 Mar 2022 06:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-20 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180054.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 연구진 “코로나19 사망률, 인터넷 접근성과 연관 있다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180597</link>
-            <guid>https://www.bloter.net/newsView/blt202203180597</guid>
-            <pubDate>Sun, 20 Mar 2022 06:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-20 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180060.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
