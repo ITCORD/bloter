@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 01:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210015</link>
+            <guid>https://www.bloter.net/newsView/blt202203210015</guid>
+            <pubDate>Mon, 21 Mar 2022 02:56:14 GMT</pubDate>
+            <content:encoded><![CDATA[에픽게임즈가 2주에 걸쳐 포트나이트에서 발생하는 수익금 전액을 우크라이나 구호 기금으로 기부한다.20일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 에픽게임은 오는 4월3일까지 포트나이트에서 발생한 인앱결제액을 유엔아동기금(UNICEF·유니세프) 등 총 4]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210006.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]'허진영'호 펄어비스 "중국 넘고 글로벌 노크"]]></title>
             <link>https://www.bloter.net/newsView/blt202203180021</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Mar 2022 10:20:55 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 스포츠 브랜드 '나이키'가 메타버스 게임 사업화에 나선다. 앞서 메타버스 플랫폼 '로블록스'에 '나이키랜드'를 만들며 메타버스 수요층을 공략했던 나이키는 지난해 인수한 패션 스타트업을 통해 관련 시장에 도전장을 던질 계획이다.14일 &lt;블로터&gt; 취재]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140031.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG생활건강 디지털 신사업 NFT…왜 '빌리프'일까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140118</link>
-            <guid>https://www.bloter.net/newsView/blt202203140118</guid>
-            <pubDate>Wed, 16 Mar 2022 10:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[LG생활건강이 올해 자사 화장품 브랜드 '빌리프'의 세계관 '빌리프 유니버스'를 공개한 데 이어 대체불가토큰(NFT)을 발행하기로 했다. 연초 밸류체인 전반에 걸친 '디지털 역량 강화'를 강조했던 LG생활건강이 NFT에서도 해답을 얻을 수 있을지 귀추가 주목된다.14일 LG]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/14/blt202203140022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
