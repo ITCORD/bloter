@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 16:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번엔 교육?…교과부 부활론에 과학기술계 “실패 정책, 회귀 안 돼”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210894</link>
+            <guid>https://www.bloter.net/newsView/blt202203210894</guid>
+            <pubDate>Mon, 21 Mar 2022 17:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-21 23:40:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210036.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT·CJ ENM, 콘텐츠 동맹으로 무엇을 노리나…'유통 채널·IP' 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202203210681</link>
             <guid>https://www.bloter.net/newsView/blt202203210681</guid>
             <pubDate>Mon, 21 Mar 2022 09:22:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-21 18:08:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210033.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]최성욱 넥슨 퍼블리싱라이브본부장 "던파모바일, 원작 손맛 제대로"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 20 Mar 2022 09:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-20 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프롭테크가 '리딩뱅크 하나은행' 이끌까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180562</link>
-            <guid>https://www.bloter.net/newsView/blt202203180562</guid>
-            <pubDate>Sun, 20 Mar 2022 06:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-20 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180054.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
