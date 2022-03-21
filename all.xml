@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,22 @@ LG유플러스와 LG헬로비전에서 기타비상무이사를 맡게 된 홍�
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[“흑인 직원 차별했다”…구글,  집단 소송 직면 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210002</link>
+            <guid>https://www.bloter.net/newsView/blt202203210002</guid>
+            <pubDate>Mon, 21 Mar 2022 01:03:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-21 08:22:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 코넬대, 최적의 구도로 사진 찍는 AI 로봇 개발 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180598</link>
+            <guid>https://www.bloter.net/newsView/blt202203180598</guid>
+            <pubDate>Sun, 20 Mar 2022 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-20 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/19/blt202203190004.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[프롭테크가 '리딩뱅크 하나은행' 이끌까 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202203180562</link>
             <guid>https://www.bloter.net/newsView/blt202203180562</guid>
@@ -352,22 +368,6 @@ LG유플러스와 LG헬로비전에서 기타비상무이사를 맡게 된 홍�
             <pubDate>Fri, 18 Mar 2022 07:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-18 16:14:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180042.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 페이팔 통해 해외서 돈 받는다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180018</link>
-            <guid>https://www.bloter.net/newsView/blt202203180018</guid>
-            <pubDate>Fri, 18 Mar 2022 01:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-18 10:00:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스냅챗, 사이버 불링 방지 위해 익명 메시징 기능 금지한다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180009</link>
-            <guid>https://www.bloter.net/newsView/blt202203180009</guid>
-            <pubDate>Fri, 18 Mar 2022 01:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-18 09:08:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -409,7 +409,7 @@ LG유플러스와 LG헬로비전에서 기타비상무이사를 맡게 된 홍�
             <title><![CDATA[네이버·카카오 유럽서 '웹툰 경쟁' 본격화한다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203210030</link>
             <guid>https://www.bloter.net/newsView/blt202203210030</guid>
-            <pubDate>Mon, 21 Mar 2022 02:54:42 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 02:50:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-21 11:20:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210010.620x344.0.png" length="0" type="image/png"/>
         </item>
@@ -417,7 +417,7 @@ LG유플러스와 LG헬로비전에서 기타비상무이사를 맡게 된 홍�
             <title><![CDATA[“100층 빌딩 기술력”...삼성전기 총 1.6조 투자 FC-BGA는 무엇 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203210020</link>
             <guid>https://www.bloter.net/newsView/blt202203210020</guid>
-            <pubDate>Mon, 21 Mar 2022 02:54:42 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 02:50:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-21 10:35:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -425,7 +425,7 @@ LG유플러스와 LG헬로비전에서 기타비상무이사를 맡게 된 홍�
             <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203210015</link>
             <guid>https://www.bloter.net/newsView/blt202203210015</guid>
-            <pubDate>Mon, 21 Mar 2022 02:54:42 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 02:50:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-21 10:20:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210006.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -829,7 +829,7 @@ LG유플러스와 LG헬로비전에서 기타비상무이사를 맡게 된 홍�
             <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203210015</link>
             <guid>https://www.bloter.net/newsView/blt202203210015</guid>
-            <pubDate>Mon, 21 Mar 2022 02:56:14 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 02:50:26 GMT</pubDate>
             <content:encoded><![CDATA[에픽게임즈가 2주에 걸쳐 포트나이트에서 발생하는 수익금 전액을 우크라이나 구호 기금으로 기부한다.20일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 에픽게임은 오는 4월3일까지 포트나이트에서 발생한 인앱결제액을 유엔아동기금(UNICEF·유니세프) 등 총 4]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210006.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>

@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“흑인 직원 차별했다”…구글,  집단 소송 직면]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210002</link>
+            <guid>https://www.bloter.net/newsView/blt202203210002</guid>
+            <pubDate>Mon, 21 Mar 2022 03:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-21 08:22:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 코넬대, 최적의 구도로 사진 찍는 AI 로봇 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180598</link>
+            <guid>https://www.bloter.net/newsView/blt202203180598</guid>
+            <pubDate>Mon, 21 Mar 2022 03:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-20 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/19/blt202203190004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[프롭테크가 '리딩뱅크 하나은행' 이끌까]]></title>
             <link>https://www.bloter.net/newsView/blt202203180562</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 20 Mar 2022 09:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-18 16:14:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180042.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 페이팔 통해 해외서 돈 받는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180018</link>
-            <guid>https://www.bloter.net/newsView/blt202203180018</guid>
-            <pubDate>Sun, 20 Mar 2022 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-18 10:00:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스냅챗, 사이버 불링 방지 위해 익명 메시징 기능 금지한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180009</link>
-            <guid>https://www.bloter.net/newsView/blt202203180009</guid>
-            <pubDate>Sun, 20 Mar 2022 05:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-18 09:08:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
