@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 11:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹 정부 과학기술 거버넌스, ICT 함께해야…“현행 유지 바람직”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220526</link>
+            <guid>https://www.bloter.net/newsView/blt202203220526</guid>
+            <pubDate>Tue, 22 Mar 2022 11:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-22 18:31:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인앱결제강제금지법' 시행에도 게임·웹툰업계 관망하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220302</link>
+            <guid>https://www.bloter.net/newsView/blt202203220302</guid>
+            <pubDate>Tue, 22 Mar 2022 11:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-22 18:25:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신한은행이 밀어주는 엠블 동남아 전기차사업]]></title>
             <link>https://www.bloter.net/newsView/blt202203220400</link>
             <guid>https://www.bloter.net/newsView/blt202203220400</guid>
             <pubDate>Tue, 22 Mar 2022 09:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-22 17:25:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220022.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DB하이텍, 보유 현금만 3700억원...신사업 속도낼까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 21 Mar 2022 08:24:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-21 15:39:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신제품 공개도 늦추고...'M세대'로 변모 중인 애플]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210078</link>
-            <guid>https://www.bloter.net/newsView/blt202203210078</guid>
-            <pubDate>Mon, 21 Mar 2022 06:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-21 14:11:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴 아로와나토큰, 美 가상자산 거래소 비트렉스 상장]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210066</link>
-            <guid>https://www.bloter.net/newsView/blt202203210066</guid>
-            <pubDate>Mon, 21 Mar 2022 06:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-21 13:23:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
