@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK E&S, 아모레퍼시픽에 재생에너지 직접 공급]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220146</link>
+            <guid>https://www.bloter.net/newsView/blt202203220146</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-22 15:19:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭스바겐, 북미 전기차 생산기지 8조 투입한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220005</link>
+            <guid>https://www.bloter.net/newsView/blt202203220005</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-22 11:31:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 올해 국내 TV 시장 전략은 '프리미엄 확대']]></title>
+            <link>https://www.bloter.net/newsView/blt202203220006</link>
+            <guid>https://www.bloter.net/newsView/blt202203220006</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-22 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 개발사 ‘헤이븐’ 인수…트리플A급 독점작 늘린다]]></title>
             <link>https://www.bloter.net/newsView/blt202203220004</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 22 Mar 2022 02:53:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-21 17:06:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210027.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 살아난 KCC...실리콘 사업의 대반전]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210250</link>
-            <guid>https://www.bloter.net/newsView/blt202203210250</guid>
-            <pubDate>Tue, 22 Mar 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-21 15:56:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210018.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 뒷좌석 화면에 광고 도입..."가맹택시와 수익 공유"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210045</link>
-            <guid>https://www.bloter.net/newsView/blt202203210045</guid>
-            <pubDate>Tue, 22 Mar 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-21 13:15:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“100층 빌딩 기술력”...삼성전기 총 1.6조 투자 FC-BGA는 무엇]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210020</link>
-            <guid>https://www.bloter.net/newsView/blt202203210020</guid>
-            <pubDate>Tue, 22 Mar 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-21 10:35:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

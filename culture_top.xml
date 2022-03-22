@@ -4,9 +4,27 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버 계열사 접점 넓히는 '플레이리스트'…웹툰 영상화 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220206</link>
+            <guid>https://www.bloter.net/newsView/blt202203220206</guid>
+            <pubDate>Tue, 22 Mar 2022 08:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-03-22 16:33:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220014.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소니, 개발사 ‘헤이븐’ 인수…트리플A급 독점작 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220004</link>
+            <guid>https://www.bloter.net/newsView/blt202203220004</guid>
+            <pubDate>Tue, 22 Mar 2022 08:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+                        <span class="date">2022-03-22 10:13:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220002.282x159.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰]최성욱 넥슨 퍼블리싱라이브본부장 "던파모바일, 원작 손맛 제대로"]]></title>
             <link>https://www.bloter.net/newsView/blt202203210522</link>
@@ -14,7 +32,7 @@
             <pubDate>Mon, 21 Mar 2022 09:23:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-03-21 17:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버·카카오 유럽서 '웹툰 경쟁' 본격화한다]]></title>
@@ -24,24 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">황금빛</span>
                         <span class="date">2022-03-21 11:20:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210010.282x159.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210015</link>
-            <guid>https://www.bloter.net/newsView/blt202203210015</guid>
-            <pubDate>Mon, 21 Mar 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>
-                        <span class="date">2022-03-21 10:20:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210006.282x159.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['선데이토즈'에서 '위메이드플레이'로…정체성·시너지 잡을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180594</link>
-            <guid>https://www.bloter.net/newsView/blt202203180594</guid>
-            <pubDate>Mon, 21 Mar 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-03-20 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180057.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

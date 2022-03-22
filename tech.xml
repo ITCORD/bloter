@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB하이텍, 보유 현금만 3700억원...신사업 속도낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220141</link>
+            <guid>https://www.bloter.net/newsView/blt202203220141</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-22 17:06:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220008.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, ‘자산 100조’ 턱밑...인텔 낸드 인수효과]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220342</link>
+            <guid>https://www.bloter.net/newsView/blt202203220342</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-22 17:03:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220021.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버 계열사 접점 넓히는 '플레이리스트'…웹툰 영상화 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220206</link>
+            <guid>https://www.bloter.net/newsView/blt202203220206</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-22 16:33:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭스바겐, 북미 전기차 생산기지 8조 투입한다]]></title>
             <link>https://www.bloter.net/newsView/blt202203220005</link>
             <guid>https://www.bloter.net/newsView/blt202203220005</guid>
             <pubDate>Tue, 22 Mar 2022 02:53:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-22 11:31:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자 올해 국내 TV 시장 전략은 '프리미엄 확대']]></title>
@@ -126,30 +150,6 @@
             <pubDate>Mon, 21 Mar 2022 04:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-21 13:15:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버·카카오 유럽서 '웹툰 경쟁' 본격화한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210030</link>
-            <guid>https://www.bloter.net/newsView/blt202203210030</guid>
-            <pubDate>Mon, 21 Mar 2022 02:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-21 11:20:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“100층 빌딩 기술력”...삼성전기 총 1.6조 투자 FC-BGA는 무엇]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210020</link>
-            <guid>https://www.bloter.net/newsView/blt202203210020</guid>
-            <pubDate>Mon, 21 Mar 2022 02:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-21 10:35:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210015</link>
-            <guid>https://www.bloter.net/newsView/blt202203210015</guid>
-            <pubDate>Mon, 21 Mar 2022 02:54:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-21 10:20:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210006.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
