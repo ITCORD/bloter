@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB하이텍, 보유 현금만 3700억원...신사업 속도낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220141</link>
+            <guid>https://www.bloter.net/newsView/blt202203220141</guid>
+            <pubDate>Wed, 23 Mar 2022 03:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-22 17:06:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220008.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, ‘자산 100조’ 턱밑...인텔 낸드 인수효과]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220342</link>
+            <guid>https://www.bloter.net/newsView/blt202203220342</guid>
+            <pubDate>Wed, 23 Mar 2022 03:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-22 17:03:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220021.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현대중공업그룹 '빨라진 승계시계'...정기선 사장 등기임원됐다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220152</link>
+            <guid>https://www.bloter.net/newsView/blt202203220152</guid>
+            <pubDate>Wed, 23 Mar 2022 03:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-22 16:39:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대백화점, 온라인 매트리스 업체 '지누스' 인수...자금조달 어떻게?]]></title>
             <link>https://www.bloter.net/newsView/blt202203220203</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 22 Mar 2022 08:23:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-22 11:31:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 올해 국내 TV 시장 전략은 '프리미엄 확대']]></title>
-            <link>https://www.bloter.net/newsView/blt202203220006</link>
-            <guid>https://www.bloter.net/newsView/blt202203220006</guid>
-            <pubDate>Tue, 22 Mar 2022 08:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-22 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 개발사 ‘헤이븐’ 인수…트리플A급 독점작 늘린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203220004</link>
-            <guid>https://www.bloter.net/newsView/blt202203220004</guid>
-            <pubDate>Tue, 22 Mar 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-22 10:13:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[궁지 몰린 러시아 은행…'신용등급 강등' 이어 '해킹 위협'까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202203220002</link>
-            <guid>https://www.bloter.net/newsView/blt202203220002</guid>
-            <pubDate>Tue, 22 Mar 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-22 09:17:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
