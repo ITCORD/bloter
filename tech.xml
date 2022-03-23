@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파트너사 집중 모색' 크래프톤…웹 3.0 생태계 밑그림 구상]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230046</link>
+            <guid>https://www.bloter.net/newsView/blt202203230046</guid>
+            <pubDate>Wed, 23 Mar 2022 04:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-23 12:39:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램 '제품 태그', 일반 이용자로도 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202203230022</link>
             <guid>https://www.bloter.net/newsView/blt202203230022</guid>
             <pubDate>Wed, 23 Mar 2022 02:59:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-23 10:22:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 최초 유럽 생산기지 베를린 ‘기가팩토리’ 본격 가동]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 21 Mar 2022 17:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-21 23:40:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT·CJ ENM, 콘텐츠 동맹으로 무엇을 노리나…'유통 채널·IP' 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210681</link>
-            <guid>https://www.bloter.net/newsView/blt202203210681</guid>
-            <pubDate>Mon, 21 Mar 2022 09:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-21 18:08:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
