@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 01:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램 '제품 태그', 일반 이용자로도 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230022</link>
+            <guid>https://www.bloter.net/newsView/blt202203230022</guid>
+            <pubDate>Wed, 23 Mar 2022 02:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-23 10:22:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230004.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라, 최초 유럽 생산기지 베를린 ‘기가팩토리’ 본격 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230021</link>
+            <guid>https://www.bloter.net/newsView/blt202203230021</guid>
+            <pubDate>Wed, 23 Mar 2022 02:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-23 09:38:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230003.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알파벳, 양자컴퓨팅 스타트업 '샌드박스' 분사]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230017</link>
+            <guid>https://www.bloter.net/newsView/blt202203230017</guid>
+            <pubDate>Wed, 23 Mar 2022 02:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-23 09:15:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230002.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[클라우드+]‘원로’ 쌍용정보통신도 클라우드 물적분할]]></title>
             <link>https://www.bloter.net/newsView/blt202203220605</link>
             <guid>https://www.bloter.net/newsView/blt202203220605</guid>
             <pubDate>Tue, 22 Mar 2022 21:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-23 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220029.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220028.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[尹 정부 과학기술 거버넌스, ICT 함께해야…“현행 유지 바람직”]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Mon, 21 Mar 2022 09:22:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-21 18:08:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210033.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]최성욱 넥슨 퍼블리싱라이브본부장 "던파모바일, 원작 손맛 제대로"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210522</link>
-            <guid>https://www.bloter.net/newsView/blt202203210522</guid>
-            <pubDate>Mon, 21 Mar 2022 08:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-21 17:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘국산 1호’ 코로나19 백신 상용 가시화…SK바사, 질병청과 선구매 계약 체결]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210364</link>
-            <guid>https://www.bloter.net/newsView/blt202203210364</guid>
-            <pubDate>Mon, 21 Mar 2022 08:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-21 16:33:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]다시 살아난 KCC...실리콘 사업의 대반전]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210250</link>
-            <guid>https://www.bloter.net/newsView/blt202203210250</guid>
-            <pubDate>Mon, 21 Mar 2022 08:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-03-21 15:56:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210018.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

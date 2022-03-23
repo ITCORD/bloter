@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 01:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램 '제품 태그', 일반 이용자로도 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230022</link>
+            <guid>https://www.bloter.net/newsView/blt202203230022</guid>
+            <pubDate>Wed, 23 Mar 2022 03:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 일반 이용자들을 대상으로 사진 속에 제품을 태그할 수 있는 기능을 확대한다. 22일(현지시간) 미국 정보기술(IT) 전문매체 &lt;더버지&gt;는 인스타그램에서 상품을 판매하는 비즈니스·크리에이터 계정에만 제공하던 ‘상품 태그’ 기능을 일]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230004.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달]]></title>
             <link>https://www.bloter.net/newsView/blt202203210015</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 17 Mar 2022 02:49:15 GMT</pubDate>
             <content:encoded><![CDATA[패션 플랫폼 무신사가 한문일 단독 대표 체제로 전환하며 새 시즌을 맞는다. 무신사는 한 단독 대표 체제에서 빠른 의사결정 구조를 기반으로 성장에 속도를 낸다는 방침이다.특히 한 대표 체제에서 무신사는 신사업에 드라이브를 걸 것으로 전망된다. 무신사 합류]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/16/blt202203160015.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 상장 후 첫 주주서한 내용은?…"미래사업, 팬 우선"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203160011</link>
-            <guid>https://www.bloter.net/newsView/blt202203160011</guid>
-            <pubDate>Mon, 21 Mar 2022 11:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[하이브(HYBE)가 유가증권시장 기업공개(IPO) 이후 첫 번째 주주서한을 발송했다. 주주서한에는 과거부터 현재까지 하이브 중심에 '팬'이 존재하며, 모든 미래 사업전략의 경우 궁극적으로 팬을 지향한다는 기조로 작성됐다. 주주서한 발송은 오는 30일 열릴 제 17기 정]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/16/blt202203160006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
