@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'던파 손맛' 살린 던파모바일, 앱마켓 인기 1위로 출발]]></title>
+            <link>https://www.bloter.net/newsView/blt202203240112</link>
+            <guid>https://www.bloter.net/newsView/blt202203240112</guid>
+            <pubDate>Thu, 24 Mar 2022 08:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 24일 출시한 '던전앤파이터(이하 던파) 모바일'이 양대 앱 마켓 인기순위 1위로 첫 발을 내디뎠다. 원작 '던전앤파이터'의 게임성을 모바일로 이식한 던파모바일은 자동 전투 기능을 배제해 모바일 특유의 손맛을 살렸다는 평가를 받고 있다. 이날 오전 8시부]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발란, '골프 전문관 오픈'…카테고리 재정비 나선 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202203240028</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 18 Mar 2022 06:27:54 GMT</pubDate>
             <content:encoded><![CDATA[더네이쳐홀딩스가 종합 온라인몰을 열고, 기존 운영해 오던 브랜드를 통합한다. 내셔널지오그래픽에 이어 NFL 등으로 라이센스 운영 의류 브랜드를 확장하면서 관리 통합의 필요성이 커진 탓이다. 여기에 명품 쇼핑몰 '끌루아'도 온라인몰에 동시 오픈하며 사업다각]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스냅챗, 사이버 불링 방지 위해 익명 메시징 기능 금지한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180009</link>
-            <guid>https://www.bloter.net/newsView/blt202203180009</guid>
-            <pubDate>Fri, 18 Mar 2022 01:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 스냅챗이 익명 메시징 기능을 제공하는 제3의 앱이 사이버 불링(온라인 괴롭힘)에 악용될 수 있어 사용을 금지한다고 발표했다. 17일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 이번 조치는 지난해 스냅챗에서 제공되는 익명 메시징 앱에서 괴]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
