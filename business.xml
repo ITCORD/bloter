@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 06:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화보다 드라마가 낫다...美 유튜브, TV 콘텐츠 4000편 무료 방영 개시]]></title>
+            <link>https://www.bloter.net/newsView/blt202203240008</link>
+            <guid>https://www.bloter.net/newsView/blt202203240008</guid>
+            <pubDate>Thu, 24 Mar 2022 07:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-24 09:18:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 해외에서 ‘제3자 결제’ 시범허용…스포티파이와 협력]]></title>
             <link>https://www.bloter.net/newsView/blt202203240006</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 24 Mar 2022 02:50:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-23 09:38:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알파벳, 양자컴퓨팅 스타트업 '샌드박스' 분사]]></title>
-            <link>https://www.bloter.net/newsView/blt202203230017</link>
-            <guid>https://www.bloter.net/newsView/blt202203230017</guid>
-            <pubDate>Thu, 24 Mar 2022 02:50:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-23 09:15:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
