@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 콘텐츠 모더레이터에 소송 당해…“유해 콘텐츠로 정신적 피해”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250013</link>
+            <guid>https://www.bloter.net/newsView/blt202203250013</guid>
+            <pubDate>Fri, 25 Mar 2022 05:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[틱톡과 모기업 바이트댄스가 콘텐츠 검열을 담당한 전 직원들로부터 소송을 당했다.24일(현지시간) 미국 공영방송은 틱톡에서 콘텐츠 모더레이터로 근무한 전 계약직 직원 애슐리 벨레즈와 리스 영이 틱톡과 바이트댄스를 상대로 소송을 제기했다고 보도했다. 이들]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[COWON, 사업다각화로 '상폐' 위기 탈출?…투자여력 '글쎄']]></title>
             <link>https://www.bloter.net/newsView/blt202203240163</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 22 Mar 2022 08:25:20 GMT</pubDate>
             <content:encoded><![CDATA[초창기 스마트폰 게임 시장을 휩쓴 '애니팡'으로 알려진 게임사 선데이토즈가 '위메이드플레이'로 사명을 변경한다. 지난해 말 위메이드가 선데이토즈를 인수, 최대주주로 올라서면서 블록체인 게임을 비롯한 신사업을 확장하겠다는 의지가 반영된 행보다. 다음달]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180057.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["中시장 청신호·자산 매각"…곳간 늘린 '엠게임', 다음 행보는]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180196</link>
-            <guid>https://www.bloter.net/newsView/blt202203180196</guid>
-            <pubDate>Fri, 18 Mar 2022 07:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[코스닥 상장사인 '엠게임'이 지난해 450억원이 넘는 현금을 확보하며, 모처럼 만에 여유있는 투자 여력을 갖췄다.  18일 공시된 엠게임의 연결감사보고서에 따르면 지난해 엠게임의 유동자산은 약 559억원으로 전년(약 274억원) 대비 두 배 가량 늘었다. 이는 엠게임이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/18/blt202203180029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
