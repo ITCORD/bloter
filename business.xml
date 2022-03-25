@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[②LG전자 NFT·블록체인은 어떤 모습일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203240089</link>
+            <guid>https://www.bloter.net/newsView/blt202203240089</guid>
+            <pubDate>Fri, 25 Mar 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-25 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가상자산거래소 트래블룰 연동 전까지 '잠시 여행 금지']]></title>
+            <link>https://www.bloter.net/newsView/blt202203240162</link>
+            <guid>https://www.bloter.net/newsView/blt202203240162</guid>
+            <pubDate>Fri, 25 Mar 2022 03:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-24 18:37:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박용만 전 회장, 두산과 결별...보유 지분 전량 매각]]></title>
             <link>https://www.bloter.net/newsView/blt202203240032</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 24 Mar 2022 10:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-24 10:03:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화보다 드라마가 낫다...美 유튜브, TV 콘텐츠 4000편 무료 방영 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240008</link>
-            <guid>https://www.bloter.net/newsView/blt202203240008</guid>
-            <pubDate>Thu, 24 Mar 2022 07:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-24 09:18:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 해외에서 ‘제3자 결제’ 시범허용…스포티파이와 협력]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240006</link>
-            <guid>https://www.bloter.net/newsView/blt202203240006</guid>
-            <pubDate>Thu, 24 Mar 2022 02:50:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-24 08:45:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
