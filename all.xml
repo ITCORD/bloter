@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 23:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 01:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,12 +401,20 @@ COWON 2021년 매출 비중. (사진=금융감독원 전자공시시스템 갈�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[생각만으로 기술을 제어한다…AR 글래스 개발과 함께 떠오르는 ‘뉴로테크’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250185</link>
+            <guid>https://www.bloter.net/newsView/blt202203250185</guid>
+            <pubDate>Sat, 26 Mar 2022 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-26 09:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250030.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]돈 잘 버는 KT, '3조원 현금' 행선지는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203250147</link>
             <guid>https://www.bloter.net/newsView/blt202203250147</guid>
             <pubDate>Fri, 25 Mar 2022 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-25 17:44:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250022.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘소방수’ 서정진 명예회장, 셀트리온 주총 ‘깜짝 등장’…“주주 원하는 합병 추진” (블로터 ─ 테크)]]></title>
@@ -535,14 +543,6 @@ COWON 2021년 매출 비중. (사진=금융감독원 전자공시시스템 갈�
             <pubDate>Thu, 24 Mar 2022 03:23:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-24 12:16:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["넷플릭스, 망 사용료 내야…" 해외 전문가가 말하는 3가지 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203230665</link>
-            <guid>https://www.bloter.net/newsView/blt202203230665</guid>
-            <pubDate>Thu, 24 Mar 2022 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-24 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/23/blt202203230038.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
