@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 03:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 04:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,33 +288,40 @@ COWON 2021년 매출 비중. (사진=금융감독원 전자공시시스템 갈�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250009.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장세욱 동국제강 부회장, '철근 담합' 감독 소홀로 국민연금서 '사내이사 부적합' 결정 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250166</link>
-            <guid>https://www.bloter.net/newsView/blt202203250166</guid>
-            <pubDate>Fri, 25 Mar 2022 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-25 18:14:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250026.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[생각만으로 기술을 제어한다…AR 글래스 개발과 함께 떠오르는 ‘뉴로테크’ (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250185</link>
+            <guid>https://www.bloter.net/newsView/blt202203250185</guid>
+            <pubDate>Sat, 26 Mar 2022 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-26 09:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250030.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[IT·중후장대 이종산업 뒤섞이는 격변기 시대, 장세욱 동국제강 부회장의 선택은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202111080029</link>
-            <guid>https://www.bloter.net/newsView/blt202111080029</guid>
-            <pubDate>Fri, 25 Mar 2022 10:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자, 독일 AR기업 인수의 의미...초대형 M&A ‘신호탄’? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202110299</link>
+            <guid>https://www.bloter.net/newsView/blt202202110299</guid>
+            <pubDate>Sat, 26 Mar 2022 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['철강도 e커머스서 산다'...B2C 온라인 플랫폼 오픈한 동국제강 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202105240016</link>
-            <guid>https://www.bloter.net/newsView/blt202105240016</guid>
-            <pubDate>Fri, 25 Mar 2022 10:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플, AR·VR 기기 출시 준비 ‘한창’…메타 임원 영입 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112270023</link>
+            <guid>https://www.bloter.net/newsView/blt202112270023</guid>
+            <pubDate>Sat, 26 Mar 2022 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[동국제강, '톱티어' 포스코보다 영업이익률 높은 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202102170010</link>
-            <guid>https://www.bloter.net/newsView/blt202102170010</guid>
-            <pubDate>Fri, 25 Mar 2022 10:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플 AR 헤드셋, 내년에는 베일 벗을까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112050004</link>
+            <guid>https://www.bloter.net/newsView/blt202112050004</guid>
+            <pubDate>Sat, 26 Mar 2022 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔리얼, 더 가벼워진 'AR 안경' 연내 한국 출시...대중화 성공할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202110010031</link>
+            <guid>https://www.bloter.net/newsView/blt202110010031</guid>
+            <pubDate>Sat, 26 Mar 2022 04:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최태원 회장, 국민연금서 '사내이사 부적합' 판단..."기업가치 훼손 이력" (블로터 ─ 비즈니스)]]></title>
