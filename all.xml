@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 04:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 05:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -311,6 +311,30 @@ KT의 OTT '시즌'이 선보이는 오리지널 콘텐츠 '소년비행' 포스�
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[생각만으로 기술을 제어한다…AR 글래스 개발과 함께 떠오르는 ‘뉴로테크’ (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250185</link>
+            <guid>https://www.bloter.net/newsView/blt202203250185</guid>
+            <pubDate>Sat, 26 Mar 2022 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-26 09:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250030.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[장세욱 동국제강 부회장, '철근 담합' 감독 소홀로 국민연금서 '사내이사 부적합' 결정 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250166</link>
+            <guid>https://www.bloter.net/newsView/blt202203250166</guid>
+            <pubDate>Fri, 25 Mar 2022 09:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-25 18:14:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250026.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈 잘 버는 KT, '3조원 현금' 행선지는? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250147</link>
+            <guid>https://www.bloter.net/newsView/blt202203250147</guid>
+            <pubDate>Fri, 25 Mar 2022 09:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-25 17:44:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘소방수’ 서정진 명예회장, 셀트리온 주총 ‘깜짝 등장’…“주주 원하는 합병 추진” (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202203250088</link>
             <guid>https://www.bloter.net/newsView/blt202203250088</guid>
@@ -333,30 +357,6 @@ KT의 OTT '시즌'이 선보이는 오리지널 콘텐츠 '소년비행' 포스�
             <pubDate>Fri, 25 Mar 2022 04:23:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-25 11:59:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 콘텐츠 모더레이터에 소송 당해…“유해 콘텐츠로 정신적 피해” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250013</link>
-            <guid>https://www.bloter.net/newsView/blt202203250013</guid>
-            <pubDate>Fri, 25 Mar 2022 04:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-25 11:49:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰·아이패드도 구독?…"애플, HW 구독 서비스 개발 중" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250003</link>
-            <guid>https://www.bloter.net/newsView/blt202203250003</guid>
-            <pubDate>Fri, 25 Mar 2022 01:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-25 09:26:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 “北 해커, 미국 기업 사이버 공격 시도” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250001</link>
-            <guid>https://www.bloter.net/newsView/blt202203250001</guid>
-            <pubDate>Fri, 25 Mar 2022 01:04:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-25 08:33:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -395,12 +395,28 @@ KT의 OTT '시즌'이 선보이는 오리지널 콘텐츠 '소년비행' 포스�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[함께 쓰는 풀리퀘]그 프로그래밍 언어에 담긴 이야기② (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203270003</link>
+            <guid>https://www.bloter.net/newsView/blt202203270003</guid>
+            <pubDate>Sun, 27 Mar 2022 05:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-27 13:10:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/27/blt202203270005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그 시절, 우리가 좋아했던 그 게임' 지킬 수 있을까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250190</link>
+            <guid>https://www.bloter.net/newsView/blt202203250190</guid>
+            <pubDate>Sun, 27 Mar 2022 05:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-27 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250043.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[엔씨, 변화를 말하다]③차세대 IP '프로젝트E'…"라이작에 주목하라" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203250075</link>
             <guid>https://www.bloter.net/newsView/blt202203250075</guid>
             <pubDate>Sun, 27 Mar 2022 01:07:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-27 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유튜브 ‘광고 수익 차단’ 정책, 혐오 콘텐츠 차단에 효과적일까? (블로터 ─ 테크)]]></title>
@@ -521,22 +537,6 @@ KT의 OTT '시즌'이 선보이는 오리지널 콘텐츠 '소년비행' 포스�
             <pubDate>Thu, 24 Mar 2022 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-24 17:13:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'던파 손맛' 살린 던파모바일, 앱마켓 인기 1위로 출발 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240112</link>
-            <guid>https://www.bloter.net/newsView/blt202203240112</guid>
-            <pubDate>Thu, 24 Mar 2022 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-24 16:44:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불편한 5G 요금]③같은 품질이라면? '알뜰폰'에 쏠리는 시선 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240084</link>
-            <guid>https://www.bloter.net/newsView/blt202203240084</guid>
-            <pubDate>Thu, 24 Mar 2022 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-24 16:31:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240018.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -814,6 +814,14 @@ KT의 OTT '시즌'이 선보이는 오리지널 콘텐츠 '소년비행' 포스�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220014.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['그 시절, 우리가 좋아했던 그 게임' 지킬 수 있을까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250190</link>
+            <guid>https://www.bloter.net/newsView/blt202203250190</guid>
+            <pubDate>Sun, 27 Mar 2022 05:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[닌텐도가 내년 3월부터 3DS 시리즈와 Wii U의 e숍 판매를 중단한다고 최근 밝혔다. 이미 스위치가 주력 콘솔로 자리 잡은 후 수년이 흘렀으며 9세대 콘솔 게임기 시대가 열렸기 때문에 당연한 수순이라는 의견도 있다. 하지만 이 발표는 해당 기기 사용자들로부터 강한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250043.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[엔씨, 변화를 말하다]③차세대 IP '프로젝트E'…"라이작에 주목하라" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203250075</link>
             <guid>https://www.bloter.net/newsView/blt202203250075</guid>
@@ -900,14 +908,6 @@ KT의 OTT '시즌'이 선보이는 오리지널 콘텐츠 '소년비행' 포스�
             <pubDate>Mon, 21 Mar 2022 08:21:14 GMT</pubDate>
             <content:encoded><![CDATA[지난해 8월 중국 서비스를 예고했던 '던전앤파이터 모바일'(이하 던파모바일)이 오는 24일 한국 시장에서 먼저 베일을 벗는다. 넥슨이 던파모바일을 출시하면서 가장 역점을 둔 것은 '원작의 손맛'이다. 현재 개발사 '네오플'과 퍼블리셔인 '넥슨'은 한 목소리로 "빠르]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 우크라 구호 위해 ‘포트나이트 2주 수익금’ 전달 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210015</link>
-            <guid>https://www.bloter.net/newsView/blt202203210015</guid>
-            <pubDate>Mon, 21 Mar 2022 02:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[에픽게임즈가 2주에 걸쳐 포트나이트에서 발생하는 수익금 전액을 우크라이나 구호 기금으로 기부한다.20일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 에픽게임은 오는 4월3일까지 포트나이트에서 발생한 인앱결제액을 유엔아동기금(UNICEF·유니세프) 등 총 4]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210006.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'던파 손맛' 살린 던파모바일, 앱마켓 인기 1위로 출발 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

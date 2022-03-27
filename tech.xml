@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 04:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 05:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[함께 쓰는 풀리퀘]그 프로그래밍 언어에 담긴 이야기②]]></title>
+            <link>https://www.bloter.net/newsView/blt202203270003</link>
+            <guid>https://www.bloter.net/newsView/blt202203270003</guid>
+            <pubDate>Sun, 27 Mar 2022 05:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-27 13:10:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/27/blt202203270005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그 시절, 우리가 좋아했던 그 게임' 지킬 수 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250190</link>
+            <guid>https://www.bloter.net/newsView/blt202203250190</guid>
+            <pubDate>Sun, 27 Mar 2022 05:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-27 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250043.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[엔씨, 변화를 말하다]③차세대 IP '프로젝트E'…"라이작에 주목하라"]]></title>
             <link>https://www.bloter.net/newsView/blt202203250075</link>
             <guid>https://www.bloter.net/newsView/blt202203250075</guid>
             <pubDate>Sun, 27 Mar 2022 01:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-27 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유튜브 ‘광고 수익 차단’ 정책, 혐오 콘텐츠 차단에 효과적일까?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 24 Mar 2022 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-24 17:13:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'던파 손맛' 살린 던파모바일, 앱마켓 인기 1위로 출발]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240112</link>
-            <guid>https://www.bloter.net/newsView/blt202203240112</guid>
-            <pubDate>Thu, 24 Mar 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-24 16:44:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불편한 5G 요금]③같은 품질이라면? '알뜰폰'에 쏠리는 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240084</link>
-            <guid>https://www.bloter.net/newsView/blt202203240084</guid>
-            <pubDate>Thu, 24 Mar 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-24 16:31:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240018.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
