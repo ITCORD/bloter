@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 23:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 01:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엔씨, 변화를 말하다]③차세대 IP '프로젝트E'…"라이작에 주목하라"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250075</link>
+            <guid>https://www.bloter.net/newsView/blt202203250075</guid>
+            <pubDate>Sun, 27 Mar 2022 01:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-27 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 ‘광고 수익 차단’ 정책, 혐오 콘텐츠 차단에 효과적일까?]]></title>
             <link>https://www.bloter.net/newsView/blt202203250187</link>
             <guid>https://www.bloter.net/newsView/blt202203250187</guid>
             <pubDate>Sat, 26 Mar 2022 06:20:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-26 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250032.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250032.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['중저가폰' 강자 삼성전자, 갤럭시A23 출시...국내에 '적수가 없네']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 24 Mar 2022 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-24 16:31:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240018.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 한국판 클럽하우스 '음mm' 4월29일 접는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240077</link>
-            <guid>https://www.bloter.net/newsView/blt202203240077</guid>
-            <pubDate>Thu, 24 Mar 2022 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-24 16:16:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240017.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
