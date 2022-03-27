@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 07:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 08:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['상장 추진' 스카이라이프TV 어떤 곳?…'강철부대2' 만든 이익률 20% 기업]]></title>
+            <link>https://www.bloter.net/newsView/blt202203260001</link>
+            <guid>https://www.bloter.net/newsView/blt202203260001</guid>
+            <pubDate>Sun, 27 Mar 2022 08:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 기업공개(IPO)를 추진 중인 스카이라이프TV는 영업이익률 20%의 알짜 기업으로 꼽힌다.KT의 위성방송 자회사인 KT스카이라이프의 자회사가 스카이라이프TV다. 이곳은 방송채널사용사업자(PP)로 △SKY △NQQ △ONCE △OLIFE △skyUHD △키즈톡톡플러스 △viki 등 7개의 채널]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/26/blt202203260001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그 시절, 우리가 좋아했던 그 게임' 지킬 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202203250190</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Mar 2022 08:26:06 GMT</pubDate>
             <content:encoded><![CDATA[소니가 게임 개발사 '헤이븐 엔터테인먼트 스튜디오'(이하 헤이븐)를 인수한다.   21일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면, 이번 발표는 헤이븐이 설립 이후 양사가 플레이스테이션의 오리지널 지식재산권(IP) 기반 게임 개발을 위해 협력한다고 밝힌지 약 1]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/22/blt202203220002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]최성욱 넥슨 퍼블리싱라이브본부장 "던파모바일, 원작 손맛 제대로"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210522</link>
-            <guid>https://www.bloter.net/newsView/blt202203210522</guid>
-            <pubDate>Wed, 23 Mar 2022 08:26:06 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 8월 중국 서비스를 예고했던 '던전앤파이터 모바일'(이하 던파모바일)이 오는 24일 한국 시장에서 먼저 베일을 벗는다. 넥슨이 던파모바일을 출시하면서 가장 역점을 둔 것은 '원작의 손맛'이다. 현재 개발사 '네오플'과 퍼블리셔인 '넥슨'은 한 목소리로 "빠르]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/21/blt202203210029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
