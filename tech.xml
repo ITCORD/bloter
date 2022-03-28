@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 01:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파티 게임 '어몽어스' 디도스 공격받아…"미국·유럽 서버 다운"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280015</link>
+            <guid>https://www.bloter.net/newsView/blt202203280015</guid>
+            <pubDate>Mon, 28 Mar 2022 01:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 10:02:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[“MS, 매년 2000억원 이상 해외뇌물 제공한다”…전 직원 폭로]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280003</link>
+            <guid>https://www.bloter.net/newsView/blt202203280003</guid>
+            <pubDate>Mon, 28 Mar 2022 01:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 08:39:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['상장 추진' 스카이라이프TV 어떤 곳?…'강철부대2' 만든 이익률 20% 기업]]></title>
             <link>https://www.bloter.net/newsView/blt202203260001</link>
             <guid>https://www.bloter.net/newsView/blt202203260001</guid>
             <pubDate>Sun, 27 Mar 2022 10:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-27 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/26/blt202203260001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/26/blt202203260001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘친절한 주주 소통’ 셀트리온, 상장 3사 합병 속도 붙나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 24 Mar 2022 13:26:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-24 20:25:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS·MBC도 인수위 업무보고?…"세금 투입처 파악" vs "방송 장악 시도"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240160</link>
-            <guid>https://www.bloter.net/newsView/blt202203240160</guid>
-            <pubDate>Thu, 24 Mar 2022 10:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-24 18:41:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240028.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘탈원전 5년’ 불만 드러낸 전문가들…尹 정부에 “하던 대로 하게 해 달라”]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240161</link>
-            <guid>https://www.bloter.net/newsView/blt202203240161</guid>
-            <pubDate>Thu, 24 Mar 2022 10:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-24 18:38:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
