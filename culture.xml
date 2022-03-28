@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 09:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 10:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'조계현 리더십' 믿는 카카오게임즈, 넘어야 할 두 가지 숙제]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280174</link>
+            <guid>https://www.bloter.net/newsView/blt202203280174</guid>
+            <pubDate>Mon, 28 Mar 2022 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈가 주주총회를 통해 조계현 대표를 사내이사로 재선임했다. 올 들어 조계현 대표 단독체제로 리더십을 개편한 카카오게임즈는 '글로벌 시장 공략'과 '2500억원 규모 전환사채(CB) 만기 도래에 따른 위험성' 등 크게 두 가지 숙제를 해소하는데 집중할 것]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280025.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG생건, '차석용 매직' 한번 더…중국·면세점 부진 '숙제'로]]></title>
             <link>https://www.bloter.net/newsView/blt202203280040</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Mar 2022 02:52:45 GMT</pubDate>
             <content:encoded><![CDATA[에버랜드가 가상세계에 등장한다면 어떨까. 삼성물산의 레저 인프라와 플레이댑의 블록체인 서비스를 결합한 '에버랜드 메타버스'(가칭)가 실제로 구현될 예정이다.   24일 플레이댑은 삼성물산 리조트부문과 전략적 비즈니스 협업을 위한 양해각서(MOU)를 체결했다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240008.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영화보다 드라마가 낫다...美 유튜브, TV 콘텐츠 4000편 무료 방영 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240008</link>
-            <guid>https://www.bloter.net/newsView/blt202203240008</guid>
-            <pubDate>Thu, 24 Mar 2022 02:52:45 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브가 광고가 포함된 TV 프로그램 4000여편을 미국에서 무료로 제공한다. 23일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 유튜브는 ‘헬스키친’, ‘안드로메다’, ‘하트랜드’를 포함해 4000개 이상의 TV 프로그램을 무료 방영하기 시작]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
