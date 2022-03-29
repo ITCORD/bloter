@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, 유인 우주선 ‘크루 드래곤’ 생산 중단]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290004</link>
+            <guid>https://www.bloter.net/newsView/blt202203290004</guid>
+            <pubDate>Tue, 29 Mar 2022 08:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-29 09:15:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290002.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 네덜란드서 10주 연속 벌금…”인앱결제 시정명령 이행 안 해”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290003</link>
+            <guid>https://www.bloter.net/newsView/blt202203290003</guid>
+            <pubDate>Tue, 29 Mar 2022 08:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-29 08:29:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KAI, 인도네시아 요청 맞춰 ‘고등훈련기 T-50i’ 공급 일정 연기]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280144</link>
+            <guid>https://www.bloter.net/newsView/blt202203280144</guid>
+            <pubDate>Tue, 29 Mar 2022 08:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-28 17:43:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한진칼 경영권분쟁 '끝'...호반건설, KCGI 보유 한진칼 지분 인수]]></title>
             <link>https://www.bloter.net/newsView/blt202203280059</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 29 Mar 2022 02:59:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-28 14:54:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주성엔지니어링, 매출 3배 급증 배경은]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280038</link>
-            <guid>https://www.bloter.net/newsView/blt202203280038</guid>
-            <pubDate>Mon, 28 Mar 2022 10:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-28 14:53:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파티 게임 '어몽어스' 디도스 공격받아…"미국·유럽 서버 다운"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280015</link>
-            <guid>https://www.bloter.net/newsView/blt202203280015</guid>
-            <pubDate>Mon, 28 Mar 2022 10:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 10:02:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플·구글 결제 서비스, 러시아 국영 ‘미르카드’ 지원 중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280009</link>
-            <guid>https://www.bloter.net/newsView/blt202203280009</guid>
-            <pubDate>Mon, 28 Mar 2022 10:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 09:24:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

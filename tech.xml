@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남궁훈號 출범 '카카오'…리더십 교체하고 글로벌 공략 나선다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290055</link>
+            <guid>https://www.bloter.net/newsView/blt202203290055</guid>
+            <pubDate>Tue, 29 Mar 2022 08:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-29 16:03:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인원, 현금영수증 발급 개시…투자자 주목해야 하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290042</link>
+            <guid>https://www.bloter.net/newsView/blt202203290042</guid>
+            <pubDate>Tue, 29 Mar 2022 08:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-29 15:31:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290010.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[존림 삼성바이오로직스 대표, 주주 앞에서 ‘3P 전략’ 선언]]></title>
             <link>https://www.bloter.net/newsView/blt202203290043</link>
             <guid>https://www.bloter.net/newsView/blt202203290043</guid>
             <pubDate>Tue, 29 Mar 2022 06:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-29 15:16:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, ‘비대면 바우처’ 공급기업 선정...매출 성장 마중물 될까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 28 Mar 2022 03:34:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-28 12:01:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파티 게임 '어몽어스' 디도스 공격받아…"미국·유럽 서버 다운"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280015</link>
-            <guid>https://www.bloter.net/newsView/blt202203280015</guid>
-            <pubDate>Mon, 28 Mar 2022 01:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 10:02:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280003.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“MS, 매년 2000억원 이상 해외뇌물 제공한다”…전 직원 폭로]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280003</link>
-            <guid>https://www.bloter.net/newsView/blt202203280003</guid>
-            <pubDate>Mon, 28 Mar 2022 01:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 08:39:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
