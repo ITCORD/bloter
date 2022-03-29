@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['님폰없' 밈 장본인 '디아블로 이모탈', iOS 사전예약 열었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290018</link>
+            <guid>https://www.bloter.net/newsView/blt202203290018</guid>
+            <pubDate>Tue, 29 Mar 2022 03:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-29 12:09:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 뉴 MSP' LG CNS에게 '죽전 데이터센터' 수주 의미는?]]></title>
             <link>https://www.bloter.net/newsView/blt202203290015</link>
             <guid>https://www.bloter.net/newsView/blt202203290015</guid>
             <pubDate>Tue, 29 Mar 2022 02:59:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-29 10:56:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스포티파이, 콘텐츠에 코로나19 경고 추가…’가짜뉴스 논란’ 대응]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 27 Mar 2022 07:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-27 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[함께 쓰는 풀리퀘]그 프로그래밍 언어에 담긴 이야기②]]></title>
-            <link>https://www.bloter.net/newsView/blt202203270003</link>
-            <guid>https://www.bloter.net/newsView/blt202203270003</guid>
-            <pubDate>Sun, 27 Mar 2022 05:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-27 13:10:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/27/blt202203270005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
