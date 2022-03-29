@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존림 삼성바이오로직스 대표, 주주 앞에서 ‘3P 전략’ 선언]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290043</link>
+            <guid>https://www.bloter.net/newsView/blt202203290043</guid>
+            <pubDate>Tue, 29 Mar 2022 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-29 15:16:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, ‘비대면 바우처’ 공급기업 선정...매출 성장 마중물 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290030</link>
+            <guid>https://www.bloter.net/newsView/blt202203290030</guid>
+            <pubDate>Tue, 29 Mar 2022 06:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-29 14:10:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['님폰없' 밈 장본인 '디아블로 이모탈', iOS 사전예약 열었다]]></title>
             <link>https://www.bloter.net/newsView/blt202203290018</link>
             <guid>https://www.bloter.net/newsView/blt202203290018</guid>
             <pubDate>Tue, 29 Mar 2022 03:33:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-29 12:09:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['더 뉴 MSP' LG CNS에게 '죽전 데이터센터' 수주 의미는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 28 Mar 2022 01:21:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-28 08:39:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['상장 추진' 스카이라이프TV 어떤 곳?…'강철부대2' 만든 이익률 20% 기업]]></title>
-            <link>https://www.bloter.net/newsView/blt202203260001</link>
-            <guid>https://www.bloter.net/newsView/blt202203260001</guid>
-            <pubDate>Sun, 27 Mar 2022 10:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-27 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/26/blt202203260001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘친절한 주주 소통’ 셀트리온, 상장 3사 합병 속도 붙나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250189</link>
-            <guid>https://www.bloter.net/newsView/blt202203250189</guid>
-            <pubDate>Sun, 27 Mar 2022 07:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-27 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
