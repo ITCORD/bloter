@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 12:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]T1·젠지 한 목소리 "스프링 결승? 퍼펙트 스코어 자신해"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300179</link>
+            <guid>https://www.bloter.net/newsView/blt202203300179</guid>
+            <pubDate>Wed, 30 Mar 2022 13:35:53 GMT</pubDate>
+            <content:encoded><![CDATA["1세트만 잡아내면 3대0으로 완승할 수 있다"'리그 오브 레전드 챔피언스코리아'(LCK) 결승전에 오른 'T1'과 '젠지'의 공통적인 생각이다. 다음달 2일 결승전을 앞두고 열린 'LCK 미디어데이'에서 만난 양측은 상대의 강력함을 인정하면서도 우승컵을 들어올릴 수 있다는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300051.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["올해는 다를거야"…'지스타', 팬데믹 이전 수준 개최 예고]]></title>
             <link>https://www.bloter.net/newsView/blt202203300156</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 01:11:44 GMT</pubDate>
             <content:encoded><![CDATA[최근 엔씨소프트가 개발중인 '쓰론 앤 리버티'(TL)과 '프로젝트E'의 미리보기 영상이 공개된 이후 다양한 평가가 이어지고 있다. '리니지' 이후 새로운 오리지널 IP라는 점과 두 게임의 세계관이 이어지는 '멀티 유니버스' 형태가 될 가능성에 주목하고 있는데, 프로젝]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 ‘광고 수익 차단’ 정책, 혐오 콘텐츠 차단에 효과적일까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250187</link>
-            <guid>https://www.bloter.net/newsView/blt202203250187</guid>
-            <pubDate>Sat, 26 Mar 2022 06:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브가 현재 시행하고 정책이 문제시되는 콘텐츠를 차단하는데 효과적이지 않다는 연구 결과가 나왔다. 유튜브는 자사 규정을 따르지 않는 유튜버가 광고 수익을 얻지 못하도록 차단하는 정책을 펼치고 있다. 지난해에는 기후변화와 지구온난화를 부정하는 콘텐]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250032.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
