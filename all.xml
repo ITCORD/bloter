@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 06:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 07:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,12 +403,36 @@ iOS 사전예약 시작과 함께 사전예약 보상도 공개됐다. 디아블
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[이지케어텍, 클라우드 EMR 시대 ‘본격화’…‘엣지앤넥스트’ 적용 병원 확대 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300065</link>
+            <guid>https://www.bloter.net/newsView/blt202203300065</guid>
+            <pubDate>Wed, 30 Mar 2022 07:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-30 15:38:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300017.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ARM 원하는 SK, 공동 인수 후보 누가 있을까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300055</link>
+            <guid>https://www.bloter.net/newsView/blt202203300055</guid>
+            <pubDate>Wed, 30 Mar 2022 07:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 14:22:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오모빌리티, 연내 '로봇배송' 서비스…'뉴빌리티'와 협력 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300041</link>
+            <guid>https://www.bloter.net/newsView/blt202203300041</guid>
+            <pubDate>Wed, 30 Mar 2022 07:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-30 13:21:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300011.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]넷마블F&C, P2E 통합런처 개발…"월렛부터 토큰 스왑까지 한 번에" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203300040</link>
             <guid>https://www.bloter.net/newsView/blt202203300040</guid>
             <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-30 11:51:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 분실된 아이폰 수리 서비스 중단하나 (블로터 ─ 테크)]]></title>
@@ -521,30 +545,6 @@ iOS 사전예약 시작과 함께 사전예약 보상도 공개됐다. 디아블
             <pubDate>Tue, 29 Mar 2022 06:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-29 15:16:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, ‘비대면 바우처’ 공급기업 선정...매출 성장 마중물 될까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290030</link>
-            <guid>https://www.bloter.net/newsView/blt202203290030</guid>
-            <pubDate>Tue, 29 Mar 2022 05:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-03-29 14:10:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['님폰없' 밈 장본인 '디아블로 이모탈', iOS 사전예약 열었다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290018</link>
-            <guid>https://www.bloter.net/newsView/blt202203290018</guid>
-            <pubDate>Tue, 29 Mar 2022 03:32:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-29 12:09:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 뉴 MSP' LG CNS에게 '죽전 데이터센터' 수주 의미는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290015</link>
-            <guid>https://www.bloter.net/newsView/blt202203290015</guid>
-            <pubDate>Tue, 29 Mar 2022 02:58:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-29 10:56:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
