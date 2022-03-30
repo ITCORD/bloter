@@ -4,16 +4,56 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]넷마블F&C, P2E 통합런처 개발…"월렛부터 토큰 스왑까지 한 번에"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300040</link>
+            <guid>https://www.bloter.net/newsView/blt202203300040</guid>
+            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-30 11:51:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 분실된 아이폰 수리 서비스 중단하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300009</link>
+            <guid>https://www.bloter.net/newsView/blt202203300009</guid>
+            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-30 10:43:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300009.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 법원 “블리자드, 사내 성차별·성희롱 문제 해결 기금 조성하라”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300005</link>
+            <guid>https://www.bloter.net/newsView/blt202203300005</guid>
+            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-30 10:02:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300006.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울반도체 '자동차 사업부', 독일로 옮겼다...유럽 시장 집중]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300008</link>
+            <guid>https://www.bloter.net/newsView/blt202203300008</guid>
+            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 09:35:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300007.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자·웨스턴디지털이 협업하는 '존 스토리지'란?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300004</link>
+            <guid>https://www.bloter.net/newsView/blt202203300004</guid>
+            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300005.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[P2E 게임 ‘엑시 인피니티’ 뚫렸다…7300억원대 이더리움 탈취]]></title>
             <link>https://www.bloter.net/newsView/blt202203300003</link>
             <guid>https://www.bloter.net/newsView/blt202203300003</guid>
             <pubDate>Tue, 29 Mar 2022 23:21:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-30 08:19:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[뼛속 깊은 '연구개발 DNA'...화웨이, 위기에 투자 늘렸다 "친환경이 해법"]]></title>
@@ -110,46 +150,6 @@
             <pubDate>Tue, 29 Mar 2022 02:59:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-29 10:56:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이, 콘텐츠에 코로나19 경고 추가…’가짜뉴스 논란’ 대응]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290008</link>
-            <guid>https://www.bloter.net/newsView/blt202203290008</guid>
-            <pubDate>Tue, 29 Mar 2022 02:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-29 10:32:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스X, 유인 우주선 ‘크루 드래곤’ 생산 중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290004</link>
-            <guid>https://www.bloter.net/newsView/blt202203290004</guid>
-            <pubDate>Tue, 29 Mar 2022 02:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-29 09:15:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290002.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 네덜란드서 10주 연속 벌금…”인앱결제 시정명령 이행 안 해”]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290003</link>
-            <guid>https://www.bloter.net/newsView/blt202203290003</guid>
-            <pubDate>Tue, 29 Mar 2022 02:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-29 08:29:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'조계현 리더십' 믿는 카카오게임즈, 넘어야 할 두 가지 숙제]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280174</link>
-            <guid>https://www.bloter.net/newsView/blt202203280174</guid>
-            <pubDate>Mon, 28 Mar 2022 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-28 18:19:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK스퀘어가 암호화폐 발행하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280166</link>
-            <guid>https://www.bloter.net/newsView/blt202203280166</guid>
-            <pubDate>Mon, 28 Mar 2022 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-03-28 17:55:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
