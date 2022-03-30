@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,40 +270,48 @@ ZNS는 솔리드 스테이트 드라이브(SSD)와 관련있다. 기존 SSD는 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290019.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SK하이닉스, 곽노정 사장 대표 선임..이석희 사장은 ‘솔리다임’으로 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300178</link>
-            <guid>https://www.bloter.net/newsView/blt202203300178</guid>
-            <pubDate>Wed, 30 Mar 2022 12:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-30 20:19:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300049.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310003</link>
+            <guid>https://www.bloter.net/newsView/blt202203310003</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 08:16:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SK하이닉스, ‘배당 정책’ 강화...필요 시 자사주 매입 검토 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280032</link>
-            <guid>https://www.bloter.net/newsView/blt202201280032</guid>
-            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[틱톡, 콘텐츠 모더레이터에 소송 당해…“유해 콘텐츠로 정신적 피해” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250013</link>
+            <guid>https://www.bloter.net/newsView/blt202203250013</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[中 공략 선봉 SK하이닉스, 이번엔 '인사이드 아메리카' 외쳤다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112020130</link>
-            <guid>https://www.bloter.net/newsView/blt202112020130</guid>
-            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[美 8개주, 틱톡 합동조사 나서…”미성년자 정신건강 해친다” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040001</link>
+            <guid>https://www.bloter.net/newsView/blt202203040001</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SK하이닉스 ‘제2의 도약’ 선언..사장 2명 선임·미주조직 신설 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112020065</link>
-            <guid>https://www.bloter.net/newsView/blt202112020065</guid>
-            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[메타, 또 내부고발…“투자자에 허위정보 대처 거짓된 내용 전달” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210001</link>
+            <guid>https://www.bloter.net/newsView/blt202202210001</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SK하이닉스, 인텔 낸드 인수 앞두고 15개 법인 세웠다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202111230042</link>
-            <guid>https://www.bloter.net/newsView/blt202111230042</guid>
-            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["젊은층 떠날라"...적신호 켜진 페이스북, 대변신 예고 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202110260063</link>
+            <guid>https://www.bloter.net/newsView/blt202110260063</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[③'마벨·파세토' 투자 사례로 살펴본 삼성전자의 미래 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300104</link>
+            <guid>https://www.bloter.net/newsView/blt202203300104</guid>
+            <pubDate>Wed, 30 Mar 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 16:55:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300035.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ARM 원하는 SK, 공동 인수 후보 누가 있을까 (블로터 ─ 비즈니스)]]></title>
@@ -346,14 +354,6 @@ ZNS는 솔리드 스테이트 드라이브(SSD)와 관련있다. 기존 SSD는 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300007.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자·웨스턴디지털이 협업하는 '존 스토리지'란? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300004</link>
-            <guid>https://www.bloter.net/newsView/blt202203300004</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -390,12 +390,20 @@ ZNS는 솔리드 스테이트 드라이브(SSD)와 관련있다. 기존 SSD는 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310003</link>
+            <guid>https://www.bloter.net/newsView/blt202203310003</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 08:16:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]T1·젠지 한 목소리 "스프링 결승? 퍼펙트 스코어 자신해" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203300179</link>
             <guid>https://www.bloter.net/newsView/blt202203300179</guid>
             <pubDate>Wed, 30 Mar 2022 13:32:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-30 21:36:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300051.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300051.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK하이닉스, 곽노정 사장 대표 선임..이석희 사장은 ‘솔리다임’으로 (블로터 ─ 테크)]]></title>
@@ -524,14 +532,6 @@ ZNS는 솔리드 스테이트 드라이브(SSD)와 관련있다. 기존 SSD는 �
             <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-30 10:43:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원 “블리자드, 사내 성차별·성희롱 문제 해결 기금 조성하라” (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300005</link>
-            <guid>https://www.bloter.net/newsView/blt202203300005</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-30 10:02:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300006.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -810,6 +810,14 @@ ZNS는 솔리드 스테이트 드라이브(SSD)와 관련있다. 기존 SSD는 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280025.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310003</link>
+            <guid>https://www.bloter.net/newsView/blt202203310003</guid>
+            <pubDate>Wed, 30 Mar 2022 23:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 자사 소셜미디어(SNS) 페이스북의 경쟁사인 틱톡에 대한 ‘비방 캠페인’을 벌였다는 의혹이 제기됐다.30일(현지시간) &lt;워싱턴포스트&gt;는 메타가 미국 최대 보수 정치 컨설팅 회사 중 하나인 ‘타게티드 빅토리(Targeted Victory)’에 의뢰해 대중이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]T1·젠지 한 목소리 "스프링 결승? 퍼펙트 스코어 자신해" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203300179</link>
             <guid>https://www.bloter.net/newsView/blt202203300179</guid>
@@ -896,14 +904,6 @@ ZNS는 솔리드 스테이트 드라이브(SSD)와 관련있다. 기존 SSD는 �
             <pubDate>Sun, 27 Mar 2022 05:18:55 GMT</pubDate>
             <content:encoded><![CDATA[닌텐도가 내년 3월부터 3DS 시리즈와 Wii U의 e숍 판매를 중단한다고 최근 밝혔다. 이미 스위치가 주력 콘솔로 자리 잡은 후 수년이 흘렀으며 9세대 콘솔 게임기 시대가 열렸기 때문에 당연한 수순이라는 의견도 있다. 하지만 이 발표는 해당 기기 사용자들로부터 강한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250043.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔씨, 변화를 말하다]③차세대 IP '프로젝트E'…"라이작에 주목하라" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250075</link>
-            <guid>https://www.bloter.net/newsView/blt202203250075</guid>
-            <pubDate>Sun, 27 Mar 2022 01:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[최근 엔씨소프트가 개발중인 '쓰론 앤 리버티'(TL)과 '프로젝트E'의 미리보기 영상이 공개된 이후 다양한 평가가 이어지고 있다. '리니지' 이후 새로운 오리지널 IP라는 점과 두 게임의 세계관이 이어지는 '멀티 유니버스' 형태가 될 가능성에 주목하고 있는데, 프로젝]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네오위즈표 블록체인 게임, '브라운더스트' 낙점한 이유는 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[③'마벨·파세토' 투자 사례로 살펴본 삼성전자의 미래]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300104</link>
+            <guid>https://www.bloter.net/newsView/blt202203300104</guid>
+            <pubDate>Wed, 30 Mar 2022 23:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 16:55:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300035.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ARM 원하는 SK, 공동 인수 후보 누가 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202203300055</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 30 Mar 2022 09:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 09:35:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300007.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자·웨스턴디지털이 협업하는 '존 스토리지'란?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300004</link>
-            <guid>https://www.bloter.net/newsView/blt202203300004</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

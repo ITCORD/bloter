@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310003</link>
+            <guid>https://www.bloter.net/newsView/blt202203310003</guid>
+            <pubDate>Wed, 30 Mar 2022 23:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 자사 소셜미디어(SNS) 페이스북의 경쟁사인 틱톡에 대한 ‘비방 캠페인’을 벌였다는 의혹이 제기됐다.30일(현지시간) &lt;워싱턴포스트&gt;는 메타가 미국 최대 보수 정치 컨설팅 회사 중 하나인 ‘타게티드 빅토리(Targeted Victory)’에 의뢰해 대중이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]T1·젠지 한 목소리 "스프링 결승? 퍼펙트 스코어 자신해"]]></title>
             <link>https://www.bloter.net/newsView/blt202203300179</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 05:22:30 GMT</pubDate>
             <content:encoded><![CDATA[닌텐도가 내년 3월부터 3DS 시리즈와 Wii U의 e숍 판매를 중단한다고 최근 밝혔다. 이미 스위치가 주력 콘솔로 자리 잡은 후 수년이 흘렀으며 9세대 콘솔 게임기 시대가 열렸기 때문에 당연한 수순이라는 의견도 있다. 하지만 이 발표는 해당 기기 사용자들로부터 강한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250043.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔씨, 변화를 말하다]③차세대 IP '프로젝트E'…"라이작에 주목하라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250075</link>
-            <guid>https://www.bloter.net/newsView/blt202203250075</guid>
-            <pubDate>Sun, 27 Mar 2022 01:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[최근 엔씨소프트가 개발중인 '쓰론 앤 리버티'(TL)과 '프로젝트E'의 미리보기 영상이 공개된 이후 다양한 평가가 이어지고 있다. '리니지' 이후 새로운 오리지널 IP라는 점과 두 게임의 세계관이 이어지는 '멀티 유니버스' 형태가 될 가능성에 주목하고 있는데, 프로젝]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250006.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
