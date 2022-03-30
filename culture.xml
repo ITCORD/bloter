@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네오위즈표 블록체인 게임, '브라운더스트' 낙점한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300103</link>
+            <guid>https://www.bloter.net/newsView/blt202203300103</guid>
+            <pubDate>Wed, 30 Mar 2022 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 NFT 기반 사업 속도를 내고 있는 네오위즈가 '브라운더스트'에 블록체인 기술을 적용해 'IP 살리기'에 나섰다. 개발비 700억원 투입에도 부진했던 '블레스'나 규제 장벽에 막혔던 웹보드 게임에 이르기까지 여러 요인으로 부침을 겪었던 네오위즈에게 블록체]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300033.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷마블F&C, P2E 통합런처 개발…"월렛부터 토큰 스왑까지 한 번에"]]></title>
             <link>https://www.bloter.net/newsView/blt202203300040</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Mar 2022 05:23:53 GMT</pubDate>
             <content:encoded><![CDATA[틱톡과 모기업 바이트댄스가 콘텐츠 검열을 담당한 전 직원들로부터 소송을 당했다.24일(현지시간) 미국 공영방송은 틱톡에서 콘텐츠 모더레이터로 근무한 전 계약직 직원 애슐리 벨레즈와 리스 영이 틱톡과 바이트댄스를 상대로 소송을 제기했다고 보도했다. 이들]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COWON, 사업다각화로 '상폐' 위기 탈출?…투자여력 '글쎄']]></title>
-            <link>https://www.bloter.net/newsView/blt202203240163</link>
-            <guid>https://www.bloter.net/newsView/blt202203240163</guid>
-            <pubDate>Thu, 24 Mar 2022 13:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[사명 변경 후 게임사업을 통해 재기를 꿈꿨던 '씨오더블유오엔(COWON)'의 도전이 좋지 못한 방향으로 흘러가고 있다. 게임 사업이 부진을 면치 못한 가운데 퍼블리싱 계약을 진행했던 일부 게임마저 계약해지 사유가 발생해 수익성 악화를 우려해야 할 처지가 됐다. 24]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/24/blt202203240034.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
