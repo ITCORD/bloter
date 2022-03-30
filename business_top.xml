@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 12:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[상장 앞둔 '오아시스'...'비식품군·퀵커머스'로 몸집 키운다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300084</link>
-            <guid>https://www.bloter.net/newsView/blt202203300084</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-30 17:44:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300028.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK하이닉스, 곽노정 사장 대표 선임..이석희 사장은 ‘솔리다임’으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300178</link>
+            <guid>https://www.bloter.net/newsView/blt202203300178</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-30 20:19:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300049.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컬리, '헤이조이스' 인수… '2040 여성' 공략 강화한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201210008</link>
-            <guid>https://www.bloter.net/newsView/blt202201210008</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK하이닉스, ‘배당 정책’ 강화...필요 시 자사주 매입 검토]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280032</link>
+            <guid>https://www.bloter.net/newsView/blt202201280032</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GS리테일, 새벽배송 영역 넓힌다...전용 물류센터 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202112300005</link>
-            <guid>https://www.bloter.net/newsView/blt202112300005</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[中 공략 선봉 SK하이닉스, 이번엔 '인사이드 아메리카' 외쳤다]]></title>
+            <link>https://www.bloter.net/newsView/blt202112020130</link>
+            <guid>https://www.bloter.net/newsView/blt202112020130</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스 ‘제2의 도약’ 선언..사장 2명 선임·미주조직 신설]]></title>
+            <link>https://www.bloter.net/newsView/blt202112020065</link>
+            <guid>https://www.bloter.net/newsView/blt202112020065</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 인텔 낸드 인수 앞두고 15개 법인 세웠다]]></title>
+            <link>https://www.bloter.net/newsView/blt202111230042</link>
+            <guid>https://www.bloter.net/newsView/blt202111230042</guid>
+            <pubDate>Wed, 30 Mar 2022 12:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
