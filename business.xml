@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['공항버스' 인수한 '티맵'…자율주행 시범 서비스한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310044</link>
+            <guid>https://www.bloter.net/newsView/blt202203310044</guid>
+            <pubDate>Thu, 31 Mar 2022 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-31 11:29:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DL이앤씨, CCUS 사업 박차…"2030년 연매출 2조 목표"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310030</link>
+            <guid>https://www.bloter.net/newsView/blt202203310030</guid>
+            <pubDate>Thu, 31 Mar 2022 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-31 10:34:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310009.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘e편한세상 시티 풍무역’ 분양… 2억대 후반 책정]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310026</link>
+            <guid>https://www.bloter.net/newsView/blt202203310026</guid>
+            <pubDate>Thu, 31 Mar 2022 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-31 10:32:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 단 103곳뿐...다보스포럼 ‘등대공장’ 꼽힌 LG전자 창원공장]]></title>
             <link>https://www.bloter.net/newsView/blt202203310019</link>
@@ -30,30 +54,6 @@
             <pubDate>Thu, 31 Mar 2022 02:54:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-30 20:19:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300049.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상장 앞둔 '오아시스'...'비식품군·퀵커머스'로 몸집 키운다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300084</link>
-            <guid>https://www.bloter.net/newsView/blt202203300084</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-30 17:44:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK의 ARM 지분인수 검토 의미는...'미래가치+인공지능']]></title>
-            <link>https://www.bloter.net/newsView/blt202203300119</link>
-            <guid>https://www.bloter.net/newsView/blt202203300119</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-30 17:03:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300038.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[③'마벨·파세토' 투자 사례로 살펴본 삼성전자의 미래]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300104</link>
-            <guid>https://www.bloter.net/newsView/blt202203300104</guid>
-            <pubDate>Wed, 30 Mar 2022 23:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 16:55:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300035.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
