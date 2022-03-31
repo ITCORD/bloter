@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 06:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[구글 AI 검색, 성폭행·가정폭력 상황 감지한다..."적절한 도움 제공할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310024</link>
-            <guid>https://www.bloter.net/newsView/blt202203310024</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 11:45:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310007.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA['HCA-팀 삼성' 키워드로 살펴본 삼성 가전 생태계]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310067</link>
+            <guid>https://www.bloter.net/newsView/blt202203310067</guid>
+            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-31 14:04:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310016.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검색에 진심인 네이버 “글로벌 경쟁서도 살아남겠다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202111240061</link>
-            <guid>https://www.bloter.net/newsView/blt202111240061</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[월풀 넘어선 LG전자, 새로운 가전 전략 제시했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201250050</link>
+            <guid>https://www.bloter.net/newsView/blt202201250050</guid>
+            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘구글I/O 2021’, 인공지능은 어디까지 왔을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202105230006</link>
-            <guid>https://www.bloter.net/newsView/blt202105230006</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 강화 나선 구글…‘15분 검색 기록 삭제’ 등 선보인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202105210001</link>
-            <guid>https://www.bloter.net/newsView/blt202105210001</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김명상</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 인공지능 '알렉사' 탑재된 안경 '에코프레임' 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202011200008</link>
-            <guid>https://www.bloter.net/newsView/blt202011200008</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:26 GMT</pubDate>
+            <title><![CDATA[삼성전자 '팀삼성'...'원팀'되려면 무엇이 필요할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201040022</link>
+            <guid>https://www.bloter.net/newsView/blt202201040022</guid>
+            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[비스포크로 존재감 키운 삼성전자 가전, ‘원가 절감’ 과제]]></title>
+            <link>https://www.bloter.net/newsView/blt202108020022</link>
+            <guid>https://www.bloter.net/newsView/blt202108020022</guid>
+            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
