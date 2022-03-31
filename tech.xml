@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안재용 SK바이오사이언스 사장의 ‘자신감’…IPO 1년, 다시 ‘차세대’ 강조]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310185</link>
+            <guid>https://www.bloter.net/newsView/blt202203310185</guid>
+            <pubDate>Thu, 31 Mar 2022 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-31 17:18:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주주 만난 장현국 대표 "위메이드, NFT·DAO 사업도 준비중"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310136</link>
+            <guid>https://www.bloter.net/newsView/blt202203310136</guid>
+            <pubDate>Thu, 31 Mar 2022 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-31 16:24:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['HCA-팀 삼성' 키워드로 살펴본 삼성 가전 생태계]]></title>
             <link>https://www.bloter.net/newsView/blt202203310067</link>
             <guid>https://www.bloter.net/newsView/blt202203310067</guid>
             <pubDate>Thu, 31 Mar 2022 05:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-31 14:04:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플·메타·디스코드, 해킹된 계정에 속아 개인정보 공유했다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 30 Mar 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-30 17:44:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK의 ARM 지분인수 검토 의미는...'미래가치+인공지능']]></title>
-            <link>https://www.bloter.net/newsView/blt202203300119</link>
-            <guid>https://www.bloter.net/newsView/blt202203300119</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-30 17:03:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[전자산업 DX 전략]③'마벨·파세토' 투자 사례로 살펴본 삼성전자의 미래]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300104</link>
-            <guid>https://www.bloter.net/newsView/blt202203300104</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 16:55:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300035.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

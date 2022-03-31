@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주주 만난 장현국 대표 "위메이드, NFT·DAO 사업도 준비중"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310136</link>
+            <guid>https://www.bloter.net/newsView/blt202203310136</guid>
+            <pubDate>Thu, 31 Mar 2022 08:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드가 블록체인 게임 플랫폼 '위믹스'(WEMIX)에 이어 탈중앙화 기반의 신규 사업을 강화한다. 게임으로 포문을 연 블록체인 사업에 '탈중앙금융'(DeFi, 디파이) 서비스와 '대체 불가능한 토큰'(NFT)·'탈중앙화 자율조직'(DAO)을 결합한 신규 영역을 추진한다는 계]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다]]></title>
             <link>https://www.bloter.net/newsView/blt202203310003</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 27 Mar 2022 08:23:31 GMT</pubDate>
             <content:encoded><![CDATA[KT가 기업공개(IPO)를 추진 중인 스카이라이프TV는 영업이익률 20%의 알짜 기업으로 꼽힌다.KT의 위성방송 자회사인 KT스카이라이프의 자회사가 스카이라이프TV다. 이곳은 방송채널사용사업자(PP)로 △SKY △NQQ △ONCE △OLIFE △skyUHD △키즈톡톡플러스 △viki 등 7개의 채널]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/26/blt202203260001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그 시절, 우리가 좋아했던 그 게임' 지킬 수 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203250190</link>
-            <guid>https://www.bloter.net/newsView/blt202203250190</guid>
-            <pubDate>Sun, 27 Mar 2022 05:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[닌텐도가 내년 3월부터 3DS 시리즈와 Wii U의 e숍 판매를 중단한다고 최근 밝혔다. 이미 스위치가 주력 콘솔로 자리 잡은 후 수년이 흘렀으며 9세대 콘솔 게임기 시대가 열렸기 때문에 당연한 수순이라는 의견도 있다. 하지만 이 발표는 해당 기기 사용자들로부터 강한]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/25/blt202203250043.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
