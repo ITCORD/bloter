@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 10:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 11:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['HCA-팀 삼성' 키워드로 살펴본 삼성 가전 생태계]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310067</link>
-            <guid>https://www.bloter.net/newsView/blt202203310067</guid>
-            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-31 14:04:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310016.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[금융주 통념 깬 김기홍 JB금융 회장 연임…'디지털 전환' 가속화]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310146</link>
+            <guid>https://www.bloter.net/newsView/blt202203310146</guid>
+            <pubDate>Thu, 31 Mar 2022 11:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-31 18:17:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310022.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[월풀 넘어선 LG전자, 새로운 가전 전략 제시했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201250050</link>
-            <guid>https://www.bloter.net/newsView/blt202201250050</guid>
-            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[광주은행은 핀다, 전북은행은 고팍스…핀테크 관심많은 JB금융]]></title>
+            <link>https://www.bloter.net/newsView/blt202203160551</link>
+            <guid>https://www.bloter.net/newsView/blt202203160551</guid>
+            <pubDate>Thu, 31 Mar 2022 11:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자 '팀삼성'...'원팀'되려면 무엇이 필요할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201040022</link>
-            <guid>https://www.bloter.net/newsView/blt202201040022</guid>
-            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[러시아 진출한 한국 금융사, 피해 미미한 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020177</link>
+            <guid>https://www.bloter.net/newsView/blt202203020177</guid>
+            <pubDate>Thu, 31 Mar 2022 11:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[비스포크로 존재감 키운 삼성전자 가전, ‘원가 절감’ 과제]]></title>
-            <link>https://www.bloter.net/newsView/blt202108020022</link>
-            <guid>https://www.bloter.net/newsView/blt202108020022</guid>
-            <pubDate>Thu, 31 Mar 2022 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[핀다의 혁신금융, 금융위에 '중금리대출' 박씨 물어다줬다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230143</link>
+            <guid>https://www.bloter.net/newsView/blt202202230143</guid>
+            <pubDate>Thu, 31 Mar 2022 11:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["우리가 배당 맛집"…호실적 낸 금융지주, 장기투자자 모시기]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100419</link>
+            <guid>https://www.bloter.net/newsView/blt202202100419</guid>
+            <pubDate>Thu, 31 Mar 2022 11:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
