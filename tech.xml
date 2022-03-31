@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['HCA-팀 삼성' 키워드로 살펴본 삼성 가전 생태계]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310067</link>
+            <guid>https://www.bloter.net/newsView/blt202203310067</guid>
+            <pubDate>Thu, 31 Mar 2022 05:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-31 14:04:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플·메타·디스코드, 해킹된 계정에 속아 개인정보 공유했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310011</link>
+            <guid>https://www.bloter.net/newsView/blt202203310011</guid>
+            <pubDate>Thu, 31 Mar 2022 05:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 14:00:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['타다' 떼어낸 '쏘카', 매출 늘었지만 여전히 적자]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310061</link>
+            <guid>https://www.bloter.net/newsView/blt202203310061</guid>
+            <pubDate>Thu, 31 Mar 2022 05:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-31 13:52:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310015.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지주형 전환에 관심있다"...KT, 사업구조 조정으로 주가 부양?]]></title>
             <link>https://www.bloter.net/newsView/blt202203310060</link>
             <guid>https://www.bloter.net/newsView/blt202203310060</guid>
-            <pubDate>Thu, 31 Mar 2022 04:24:43 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2022 05:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-31 12:57:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 AI 검색, 성폭행·가정폭력 상황 감지한다..."적절한 도움 제공할 것"]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 30 Mar 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 16:55:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300035.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국산 기후변화 대응 기술, 해외 시장 ‘노크’]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300097</link>
-            <guid>https://www.bloter.net/newsView/blt202203300097</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-30 16:30:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서비스 로봇을 '서비스'하다…AI방역로봇으로 플랫폼 전략 제시한 KT]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300069</link>
-            <guid>https://www.bloter.net/newsView/blt202203300069</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-30 16:23:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지케어텍, 클라우드 EMR 시대 ‘본격화’…‘엣지앤넥스트’ 적용 병원 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300065</link>
-            <guid>https://www.bloter.net/newsView/blt202203300065</guid>
-            <pubDate>Wed, 30 Mar 2022 07:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-30 15:38:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300017.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
