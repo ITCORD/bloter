@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 01:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 AI 검색, 성폭행·가정폭력 상황 감지한다..."적절한 도움 제공할 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310024</link>
+            <guid>https://www.bloter.net/newsView/blt202203310024</guid>
+            <pubDate>Thu, 31 Mar 2022 02:54:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 11:45:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310007.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['공항버스' 인수한 '티맵'…자율주행 시범 서비스한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310044</link>
+            <guid>https://www.bloter.net/newsView/blt202203310044</guid>
+            <pubDate>Thu, 31 Mar 2022 02:54:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-31 11:29:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310011.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 단 103곳뿐...다보스포럼 ‘등대공장’ 꼽힌 LG전자 창원공장]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310019</link>
+            <guid>https://www.bloter.net/newsView/blt202203310019</guid>
+            <pubDate>Thu, 31 Mar 2022 02:54:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-03-31 10:15:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310006.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다]]></title>
             <link>https://www.bloter.net/newsView/blt202203310003</link>
             <guid>https://www.bloter.net/newsView/blt202203310003</guid>
             <pubDate>Wed, 30 Mar 2022 23:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 08:16:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장+]T1·젠지 한 목소리 "스프링 결승? 퍼펙트 스코어 자신해"]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 30 Mar 2022 07:21:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-30 14:22:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 연내 '로봇배송' 서비스…'뉴빌리티'와 협력]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300041</link>
-            <guid>https://www.bloter.net/newsView/blt202203300041</guid>
-            <pubDate>Wed, 30 Mar 2022 07:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-30 13:21:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300011.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블F&C, P2E 통합런처 개발…"월렛부터 토큰 스왑까지 한 번에"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300040</link>
-            <guid>https://www.bloter.net/newsView/blt202203300040</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-03-30 11:51:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 분실된 아이폰 수리 서비스 중단하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300009</link>
-            <guid>https://www.bloter.net/newsView/blt202203300009</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-30 10:43:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
