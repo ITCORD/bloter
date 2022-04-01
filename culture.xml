@@ -4,33 +4,9 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[엔씨, 변화를 말하다]③금융투자로 '실탄' 확보…북미·인도 점 찍나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010128</link>
-            <guid>https://www.bloter.net/newsView/blt202204010128</guid>
-            <pubDate>Fri, 01 Apr 2022 07:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 30일, 엔씨소프트의 주주총회장에는 경영 행보에 의문을 품는 한 주주의 지적이 있었다. "회사가 2조원이 넘는 현금을 보유하고 있음에도 이를 몇 년째 제대로 사용하지 않는다"며 "주주들의 돈을 그냥 가지고만 있지 말고 기업 인수나 사업 확장에 써야 한다"]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무신사 vs 크림 갈등' 촉발한 '에센셜'…브랜드 본사는 '가품' 판정]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010118</link>
-            <guid>https://www.bloter.net/newsView/blt202204010118</guid>
-            <pubDate>Fri, 01 Apr 2022 07:18:47 GMT</pubDate>
-            <content:encoded><![CDATA['무신사'와 '크림'의 갈등이 새로운 국면으로 접어들게 될까. 갈등의 원인이 됐던 수입 브랜드 '피어 오브 갓 에센셜'(이하 에센셜) 티셔츠가 가품이라는 본사의 판정이 나와 업계의 관심이 집중되고 있다. 상품의 정·가품 판정 권한은 브랜드의 고유 권한이라는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 게임쇼 E3 개최 불발...'GDC 집단감염' 여파]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010035</link>
-            <guid>https://www.bloter.net/newsView/blt202204010035</guid>
-            <pubDate>Fri, 01 Apr 2022 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[올해 6월에 개최될 예정이었던 세계 최대 게임쇼인 'E3’가 전면 취소됐다고 31일(현지시간) IT 전문매체 &lt;더버지&gt;가 전했다. 이로써 지난해는 코로나19의 여파로 온라인 진행되었던 가운데 3년 연속 정상 개최되지 못하게 됐다. 1995년에 시작된 E3는 미국 엔터테]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010003.293x165.0.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증]]></title>
             <link>https://www.bloter.net/newsView/blt202204010013</link>
@@ -102,6 +78,30 @@
             <pubDate>Wed, 30 Mar 2022 03:03:47 GMT</pubDate>
             <content:encoded><![CDATA[넷마블에프엔씨가 자체 토큰 '아이텀큐브' 생태계 이용 편의성을 높이기 위해 통합 런처를 선보이는 것으로 확인됐다. 통합 PC 런처 안에는 넷마블에프앤씨의 '플레이 투 언'(P2E) 게임용 클라이언트 지원부터 지갑(월렛), 스테이킹, NFT 마켓플레이스, 탈중앙화금융(DeF]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美 법원 “블리자드, 사내 성차별·성희롱 문제 해결 기금 조성하라”]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300005</link>
+            <guid>https://www.bloter.net/newsView/blt202203300005</guid>
+            <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[사내 성차별·성희롱으로 소송 당한 '액티비전 블리자드'가 관련 문제 해결을 위해 1800만달러(약 219억4000만원) 규모의 기금을 조성해야 한다는 판결이 나왔다. 29일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면, 해당 기금은 블리자드에서 2016년 9월부터 근무한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300006.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[P2E 게임 ‘엑시 인피니티’ 뚫렸다…7300억원대 이더리움 탈취]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300003</link>
+            <guid>https://www.bloter.net/newsView/blt202203300003</guid>
+            <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA['엑시 인피니티'(Axie Infinity)에서 해킹으로 7300억원 규모의 손실이 발생했다. 이는 탈중앙화 금융(DeFi) 네트워크 해킹 중 역대 최대 규모다.29일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면, 엑시 인피니티 개발사인 '스카이 메이비스'는 17만3600이더리움(약 7300억원)]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNK "주총 후 상장폐지 신청할 것"…'탈코스닥' 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290121</link>
+            <guid>https://www.bloter.net/newsView/blt202203290121</guid>
+            <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[모하메드 빈 살만 사우디아라비아 왕세자가 보유한 법인을 새 주인으로 맞은 게임기업 'SNK'가 상장폐지를 위한 작업을 가속화한다. 일본에 본사를 두고 코스닥 시장에 상장했던 SNK는 지난해 말 상장폐지를 결정한 바 있다.  29일 SNK는 '상장폐지 승인을 위한 의안 상]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
