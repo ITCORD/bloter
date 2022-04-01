@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 06:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 07:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,18 +398,34 @@ SK텔레콤은 국내 첫 데이터센터용 인공지능 반도체 '사피온X2
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[엔씨, 변화를 말하다]③금융투자로 '실탄' 확보…북미·인도 점 찍나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010128</link>
+            <guid>https://www.bloter.net/newsView/blt202204010128</guid>
+            <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-01 16:07:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무신사 vs 크림 갈등' 촉발한 '에센셜'…브랜드 본사는 '가품' 판정 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010118</link>
+            <guid>https://www.bloter.net/newsView/blt202204010118</guid>
+            <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-01 16:05:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010004.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[테크쑤다]'SKT·KT·LGU+'알뜰폰 공세 속' 중가 요금제로 돌파구 마련한 프리텔레콤 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203300051</link>
             <guid>https://www.bloter.net/newsView/blt202203300051</guid>
-            <pubDate>Fri, 01 Apr 2022 06:22:04 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-01 14:37:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300013.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[테크쑤다]알뜰폰에는 '호구'가 없기를…'모요'는 다 모아 보여준다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203280177</link>
             <guid>https://www.bloter.net/newsView/blt202203280177</guid>
-            <pubDate>Fri, 01 Apr 2022 06:22:04 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-01 14:36:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -417,7 +433,7 @@ SK텔레콤은 국내 첫 데이터센터용 인공지능 반도체 '사피온X2
             <title><![CDATA[[테크쑤다]'가심비 브랜드' 노리는 '반값 알뜰폰' 원조 LG헬로비전 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203280128</link>
             <guid>https://www.bloter.net/newsView/blt202203280128</guid>
-            <pubDate>Fri, 01 Apr 2022 06:22:04 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-01 14:36:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -524,22 +540,6 @@ SK텔레콤은 국내 첫 데이터센터용 인공지능 반도체 '사피온X2
             <pubDate>Thu, 31 Mar 2022 05:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-03-31 12:57:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 AI 검색, 성폭행·가정폭력 상황 감지한다..."적절한 도움 제공할 것" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310024</link>
-            <guid>https://www.bloter.net/newsView/blt202203310024</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 11:45:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310007.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['공항버스' 인수한 '티맵'…자율주행 시범 서비스한다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310044</link>
-            <guid>https://www.bloter.net/newsView/blt202203310044</guid>
-            <pubDate>Thu, 31 Mar 2022 02:54:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-31 11:29:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -818,6 +818,22 @@ SK텔레콤은 국내 첫 데이터센터용 인공지능 반도체 '사피온X2
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280025.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[엔씨, 변화를 말하다]③금융투자로 '실탄' 확보…북미·인도 점 찍나 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010128</link>
+            <guid>https://www.bloter.net/newsView/blt202204010128</guid>
+            <pubDate>Fri, 01 Apr 2022 07:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 30일, 엔씨소프트의 주주총회장에는 경영 행보에 의문을 품는 한 주주의 지적이 있었다. "회사가 2조원이 넘는 현금을 보유하고 있음에도 이를 몇 년째 제대로 사용하지 않는다"며 "주주들의 돈을 그냥 가지고만 있지 말고 기업 인수나 사업 확장에 써야 한다"]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['무신사 vs 크림 갈등' 촉발한 '에센셜'…브랜드 본사는 '가품' 판정 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010118</link>
+            <guid>https://www.bloter.net/newsView/blt202204010118</guid>
+            <pubDate>Fri, 01 Apr 2022 07:18:47 GMT</pubDate>
+            <content:encoded><![CDATA['무신사'와 '크림'의 갈등이 새로운 국면으로 접어들게 될까. 갈등의 원인이 됐던 수입 브랜드 '피어 오브 갓 에센셜'(이하 에센셜) 티셔츠가 가품이라는 본사의 판정이 나와 업계의 관심이 집중되고 있다. 상품의 정·가품 판정 권한은 브랜드의 고유 권한이라는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세계 최대 게임쇼 E3 개최 불발...'GDC 집단감염' 여파 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204010035</link>
             <guid>https://www.bloter.net/newsView/blt202204010035</guid>
@@ -896,22 +912,6 @@ SK텔레콤은 국내 첫 데이터센터용 인공지능 반도체 '사피온X2
             <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
             <content:encoded><![CDATA[넷마블에프엔씨가 자체 토큰 '아이텀큐브' 생태계 이용 편의성을 높이기 위해 통합 런처를 선보이는 것으로 확인됐다. 통합 PC 런처 안에는 넷마블에프앤씨의 '플레이 투 언'(P2E) 게임용 클라이언트 지원부터 지갑(월렛), 스테이킹, NFT 마켓플레이스, 탈중앙화금융(DeF]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원 “블리자드, 사내 성차별·성희롱 문제 해결 기금 조성하라” (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300005</link>
-            <guid>https://www.bloter.net/newsView/blt202203300005</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[사내 성차별·성희롱으로 소송 당한 '액티비전 블리자드'가 관련 문제 해결을 위해 1800만달러(약 219억4000만원) 규모의 기금을 조성해야 한다는 판결이 나왔다. 29일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면, 해당 기금은 블리자드에서 2016년 9월부터 근무한]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300006.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[P2E 게임 ‘엑시 인피니티’ 뚫렸다…7300억원대 이더리움 탈취 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300003</link>
-            <guid>https://www.bloter.net/newsView/blt202203300003</guid>
-            <pubDate>Tue, 29 Mar 2022 23:19:38 GMT</pubDate>
-            <content:encoded><![CDATA['엑시 인피니티'(Axie Infinity)에서 해킹으로 7300억원 규모의 손실이 발생했다. 이는 탈중앙화 금융(DeFi) 네트워크 해킹 중 역대 최대 규모다.29일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면, 엑시 인피니티 개발사인 '스카이 메이비스'는 17만3600이더리움(약 7300억원)]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네오위즈표 블록체인 게임, '브라운더스트' 낙점한 이유는 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
