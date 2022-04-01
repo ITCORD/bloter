@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 21:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 22:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[폰SIGHT]쌍둥이 같은데…아이폰SE2·SE3, 뭐가 다르지?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310255</link>
+            <guid>https://www.bloter.net/newsView/blt202203310255</guid>
+            <pubDate>Fri, 01 Apr 2022 22:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-02 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이젠, 우주]‘한국판 NASA’ 항공우주청, 대전·경남 힘겨루기에 매몰…권한 축소 우려]]></title>
             <link>https://www.bloter.net/newsView/blt202204010324</link>
             <guid>https://www.bloter.net/newsView/blt202204010324</guid>
             <pubDate>Fri, 01 Apr 2022 10:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-01 18:47:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드+]KT와 NHN은 클라우드 사업을 왜 떼어내나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 31 Mar 2022 10:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-03-31 17:48:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안재용 SK바이오사이언스 사장의 ‘자신감’…IPO 1년, 다시 ‘차세대’ 강조]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310185</link>
-            <guid>https://www.bloter.net/newsView/blt202203310185</guid>
-            <pubDate>Thu, 31 Mar 2022 08:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-31 17:18:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
