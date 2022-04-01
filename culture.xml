@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 01:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 03:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최대 게임쇼 E3 개최 불발...'GDC 집단감염' 여파]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010035</link>
+            <guid>https://www.bloter.net/newsView/blt202204010035</guid>
+            <pubDate>Fri, 01 Apr 2022 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[올해 6월에 개최될 예정이었던 세계 최대 게임쇼인 'E3’가 전면 취소됐다고 31일(현지시간) IT 전문매체 &lt;더버지&gt;가 전했다. 이로써 지난해는 코로나19의 여파로 온라인 진행되었던 가운데 3년 연속 정상 개최되지 못하게 됐다. 1995년에 시작된 E3는 미국 엔터테]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010003.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010013</link>
+            <guid>https://www.bloter.net/newsView/blt202204010013</guid>
+            <pubDate>Fri, 01 Apr 2022 03:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북 뉴스피드 게시물에 랭킹을 매기는 알고리즘에 버그가 삽입돼 가짜뉴스 등의 유해한 콘텐츠가 급증했다는 사실이 내부 문건을 통해 드러났다. 31일(현지시간) IT 전문매체 &lt;더버지&gt;가 입수한 내부 문건에 따르면 해당 버그는 지난해 10월부터 약 6개월 동]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['Z세대 맞춤형' 브랜딩 스타일쉐어, 모바일 UI·UX 개편]]></title>
             <link>https://www.bloter.net/newsView/blt202203310244</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 30 Mar 2022 03:03:47 GMT</pubDate>
             <content:encoded><![CDATA['엑시 인피니티'(Axie Infinity)에서 해킹으로 7300억원 규모의 손실이 발생했다. 이는 탈중앙화 금융(DeFi) 네트워크 해킹 중 역대 최대 규모다.29일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면, 엑시 인피니티 개발사인 '스카이 메이비스'는 17만3600이더리움(약 7300억원)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이, 콘텐츠에 코로나19 경고 추가…’가짜뉴스 논란’ 대응]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290008</link>
-            <guid>https://www.bloter.net/newsView/blt202203290008</guid>
-            <pubDate>Tue, 29 Mar 2022 03:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 음악 스트리밍 서비스 ‘스포티파이’가 코로나19와 관련된 정보를 포함한 팟캐스트에 ‘콘텐츠 경고’ 탭을 추가했다. 28일(현지시간) 미국 경제전문매체 &lt;씨엔비씨(CNBC)&gt;는 스포티파이가 해당 기능을 추가하겠다고 발표한지 약 2달 만에]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG생건, '차석용 매직' 한번 더…중국·면세점 부진 '숙제'로]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280040</link>
-            <guid>https://www.bloter.net/newsView/blt202203280040</guid>
-            <pubDate>Mon, 28 Mar 2022 08:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[차석용 LG생활건강 부회장이 6연임에 성공하면서, 오는 2025년 정기주주총회까지 20년 간 LG생활건강을 이끌게 됐다. 2005년 LG생활건강 대표이사로 취임한 차석용 부회장은 '삼각 포트폴리오'를 도입하고 고가 화장품 판매를 확대한 바 있다. LG생활건강을 업계 1위로 성]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280007.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
