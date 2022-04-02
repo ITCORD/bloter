@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 05:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 06:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -404,12 +404,20 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장+]구름 인파 몰려든 킨텍스…'LCK 파이널'에 쏠리는 눈 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020003</link>
+            <guid>https://www.bloter.net/newsView/blt202204020003</guid>
+            <pubDate>Sat, 02 Apr 2022 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 15:14:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유니콘 '리디'…고평가받은 '만타'의 경쟁력은? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202203280044</link>
             <guid>https://www.bloter.net/newsView/blt202203280044</guid>
             <pubDate>Sat, 02 Apr 2022 04:20:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-02 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전기차'가 수만명 생명 구한다는 美폐협회의 자신감…근거는? (블로터 ─ 테크)]]></title>
@@ -538,14 +546,6 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <pubDate>Fri, 01 Apr 2022 01:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 09:27:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS가 프로세스 마이닝 기업 '미닛'을 인수하는 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010010</link>
-            <guid>https://www.bloter.net/newsView/blt202204010010</guid>
-            <pubDate>Fri, 01 Apr 2022 01:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 08:38:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
