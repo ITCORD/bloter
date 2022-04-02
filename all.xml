@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 07:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 08:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,6 +824,14 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010003.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장+]구름 인파 몰려든 킨텍스…'LCK 파이널'에 쏠리는 눈 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020003</link>
+            <guid>https://www.bloter.net/newsView/blt202204020003</guid>
+            <pubDate>Sat, 02 Apr 2022 06:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[2일 경기도 고양시 일산서구에 위치한 '킨텍스' 전시장은 '2022 LCK 스프링 결승전'을 보기 위한 관람객들로 북새통을 이뤘다. 2년 만에 유관중으로 열리는 만큼 본 경기가 시작(오후 5시)되기 전인 정오부터 관람 인파가 몰려들었다. 티켓 발권부터 이벤트 참여를 위해]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오~컬쳐]넷플릭스가 탐내는 웹툰 기반 한국 오리지널은 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202203280070</link>
             <guid>https://www.bloter.net/newsView/blt202203280070</guid>
@@ -910,14 +918,6 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[사내 성차별·성희롱으로 소송 당한 '액티비전 블리자드'가 관련 문제 해결을 위해 1800만달러(약 219억4000만원) 규모의 기금을 조성해야 한다는 판결이 나왔다. 29일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면, 해당 기금은 블리자드에서 2016년 9월부터 근무한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300006.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[P2E 게임 ‘엑시 인피니티’ 뚫렸다…7300억원대 이더리움 탈취 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300003</link>
-            <guid>https://www.bloter.net/newsView/blt202203300003</guid>
-            <pubDate>Tue, 29 Mar 2022 23:19:38 GMT</pubDate>
-            <content:encoded><![CDATA['엑시 인피니티'(Axie Infinity)에서 해킹으로 7300억원 규모의 손실이 발생했다. 이는 탈중앙화 금융(DeFi) 네트워크 해킹 중 역대 최대 규모다.29일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면, 엑시 인피니티 개발사인 '스카이 메이비스'는 17만3600이더리움(약 7300억원)]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]넷플릭스가 탐내는 웹툰 기반 한국 오리지널은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
