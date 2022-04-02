@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 03:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:28:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유니콘 '리디'…고평가받은 '만타'의 경쟁력은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280044</link>
+            <guid>https://www.bloter.net/newsView/blt202203280044</guid>
+            <pubDate>Sat, 02 Apr 2022 04:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-02 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전기차'가 수만명 생명 구한다는 美폐협회의 자신감…근거는?]]></title>
             <link>https://www.bloter.net/newsView/blt202204010222</link>
             <guid>https://www.bloter.net/newsView/blt202204010222</guid>
             <pubDate>Sat, 02 Apr 2022 02:54:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-02 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010015.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010015.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[테크체인저]'킥고잉'은 왜 '도시'에 전동킥보드가 필요하다고 할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Apr 2022 01:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 08:38:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK바사, 올해도 독감 백신 생산 중단 ‘공식화’…반사이익 기업은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310249</link>
-            <guid>https://www.bloter.net/newsView/blt202203310249</guid>
-            <pubDate>Thu, 31 Mar 2022 10:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-03-31 18:44:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
