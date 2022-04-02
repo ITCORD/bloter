@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 21:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 22:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]하이브, 콘서트 공백 채운 '콘텐츠' 성장 비결은]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280176</link>
+            <guid>https://www.bloter.net/newsView/blt202203280176</guid>
+            <pubDate>Sat, 02 Apr 2022 22:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 팬데믹 이후 하이브의 콘서트 공백을 채워준 효자 사업은 '콘텐츠'인 것으로 나타났다. 코로나19 팬데믹으로 대면 공연이 불가능한 상황에서 공연 실황 블루레이, 다큐멘터리, 예능, 영화 등 온라인 콘텐츠 역량을 키운 성과가 나타났다. 콘텐츠는 코로나19]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280031.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 스프링 결승]④최다우승팀 T1, 젠지 꺾고 V10 달성]]></title>
             <link>https://www.bloter.net/newsView/blt202204020007</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 30 Mar 2022 23:19:17 GMT</pubDate>
             <content:encoded><![CDATA[메타가 자사 소셜미디어(SNS) 페이스북의 경쟁사인 틱톡에 대한 ‘비방 캠페인’을 벌였다는 의혹이 제기됐다.30일(현지시간) &lt;워싱턴포스트&gt;는 메타가 미국 최대 보수 정치 컨설팅 회사 중 하나인 ‘타게티드 빅토리(Targeted Victory)’에 의뢰해 대중이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]T1·젠지 한 목소리 "스프링 결승? 퍼펙트 스코어 자신해"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300179</link>
-            <guid>https://www.bloter.net/newsView/blt202203300179</guid>
-            <pubDate>Wed, 30 Mar 2022 13:35:53 GMT</pubDate>
-            <content:encoded><![CDATA["1세트만 잡아내면 3대0으로 완승할 수 있다"'리그 오브 레전드 챔피언스코리아'(LCK) 결승전에 오른 'T1'과 '젠지'의 공통적인 생각이다. 다음달 2일 결승전을 앞두고 열린 'LCK 미디어데이'에서 만난 양측은 상대의 강력함을 인정하면서도 우승컵을 들어올릴 수 있다는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300051.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
