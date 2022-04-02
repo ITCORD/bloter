@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 23:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 01:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]넷플릭스가 탐내는 웹툰 기반 한국 오리지널은]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280070</link>
+            <guid>https://www.bloter.net/newsView/blt202203280070</guid>
+            <pubDate>Sat, 02 Apr 2022 01:10:07 GMT</pubDate>
+            <content:encoded><![CDATA['킹덤', '오징어게임', '지옥', '지금 우리 학교는' 등을 통해 글로벌 경쟁력을 확보한 넷플릭스가 올해도 어김없이 한국 오리지널을 확대한다. 앞서 지난 1월 공개한 '2022 신규 라인업'을 제외하고도 다양한 작품들이 오리지널 편성 물망에 오른 상황이다. 2일 &lt;블로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280019.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증]]></title>
             <link>https://www.bloter.net/newsView/blt202204010013</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA['엑시 인피니티'(Axie Infinity)에서 해킹으로 7300억원 규모의 손실이 발생했다. 이는 탈중앙화 금융(DeFi) 네트워크 해킹 중 역대 최대 규모다.29일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면, 엑시 인피니티 개발사인 '스카이 메이비스'는 17만3600이더리움(약 7300억원)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300001.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNK "주총 후 상장폐지 신청할 것"…'탈코스닥' 속도 낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290121</link>
-            <guid>https://www.bloter.net/newsView/blt202203290121</guid>
-            <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[모하메드 빈 살만 사우디아라비아 왕세자가 보유한 법인을 새 주인으로 맞은 게임기업 'SNK'가 상장폐지를 위한 작업을 가속화한다. 일본에 본사를 두고 코스닥 시장에 상장했던 SNK는 지난해 말 상장폐지를 결정한 바 있다.  29일 SNK는 '상장폐지 승인을 위한 의안 상]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/29/blt202203290030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 23:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 01:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융주 통념 깬 김기홍 JB금융 회장 연임…'디지털 전환' 가속화]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310146</link>
+            <guid>https://www.bloter.net/newsView/blt202203310146</guid>
+            <pubDate>Sat, 02 Apr 2022 01:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-31 18:17:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적자 2배로 확대된 '컬리'…연 거래액은 2조원 달성]]></title>
             <link>https://www.bloter.net/newsView/blt202203310231</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 31 Mar 2022 10:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-03-31 14:00:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타다' 떼어낸 '쏘카', 매출 늘었지만 여전히 적자]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310061</link>
-            <guid>https://www.bloter.net/newsView/blt202203310061</guid>
-            <pubDate>Thu, 31 Mar 2022 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-03-31 13:52:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310015.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
