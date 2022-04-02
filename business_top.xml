@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 01:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 02:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['킥고잉'은 왜 '도시'에 전동킥보드가 필요하다고 할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010325</link>
-            <guid>https://www.bloter.net/newsView/blt202204010325</guid>
-            <pubDate>Sat, 02 Apr 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-02 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010026.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['전기차'가 수만명 생명 구한다는 美폐협회의 자신감…근거는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010222</link>
+            <guid>https://www.bloter.net/newsView/blt202204010222</guid>
+            <pubDate>Sat, 02 Apr 2022 02:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-02 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010015.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["요약·번역 기능까지"...네이버 '클로바노트'는 진화 중]]></title>
-            <link>https://www.bloter.net/newsView/blt202203110047</link>
-            <guid>https://www.bloter.net/newsView/blt202203110047</guid>
-            <pubDate>Sat, 02 Apr 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[신한은행이 밀어주는 엠블 동남아 전기차사업]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220400</link>
+            <guid>https://www.bloter.net/newsView/blt202203220400</guid>
+            <pubDate>Sat, 02 Apr 2022 02:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대치동 학원선생님들은 왜 '매쓰플랫'을 선택했을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020167</link>
-            <guid>https://www.bloter.net/newsView/blt202203020167</guid>
-            <pubDate>Sat, 02 Apr 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공유킥보드 스윙, 300억 투자 유치…"일본 시장 뚫겠다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070011</link>
-            <guid>https://www.bloter.net/newsView/blt202202070011</guid>
-            <pubDate>Sat, 02 Apr 2022 01:06:54 GMT</pubDate>
+            <title><![CDATA[폭스바겐, 북미 전기차 생산기지 8조 투입한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220005</link>
+            <guid>https://www.bloter.net/newsView/blt202203220005</guid>
+            <pubDate>Sat, 02 Apr 2022 02:54:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[규제로 ‘골머리’ 앓는 공유킥보드, 기회 엿보는 전기자전거]]></title>
-            <link>https://www.bloter.net/newsView/blt202111110076</link>
-            <guid>https://www.bloter.net/newsView/blt202111110076</guid>
-            <pubDate>Sat, 02 Apr 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[마세라티, "2025년까지 전기차 라인업 완성"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203180005</link>
+            <guid>https://www.bloter.net/newsView/blt202203180005</guid>
+            <pubDate>Sat, 02 Apr 2022 02:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[롯데정보통신, 전기차 힘 싣는다…400억 추가 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202202070248</link>
+            <guid>https://www.bloter.net/newsView/blt202202070248</guid>
+            <pubDate>Sat, 02 Apr 2022 02:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
