@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 13:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -404,12 +404,44 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 스프링 결승]④최다우승팀 T1, 젠지 꺾고 V10 달성 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020007</link>
+            <guid>https://www.bloter.net/newsView/blt202204020007</guid>
+            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:51:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 스프링 결승]③T1, 탑 라인 집중공격…'매치포인트' 지름길로 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020005</link>
+            <guid>https://www.bloter.net/newsView/blt202204020005</guid>
+            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:21:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020011.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 스프링 결승]②끌려가던 젠지, '아리' 중심 팀플레이 통했다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020006</link>
+            <guid>https://www.bloter.net/newsView/blt202204020006</guid>
+            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:19:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 스프링 결승]①'구마유시' 쿼드라킬, T1이 먼저 웃었다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020004</link>
+            <guid>https://www.bloter.net/newsView/blt202204020004</guid>
+            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:17:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]구름 인파 몰려든 킨텍스…'LCK 파이널'에 쏠리는 눈 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204020003</link>
             <guid>https://www.bloter.net/newsView/blt202204020003</guid>
             <pubDate>Sat, 02 Apr 2022 06:22:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 15:14:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니콘 '리디'…고평가받은 '만타'의 경쟁력은? (블로터 ─ 테크)]]></title>
@@ -514,38 +546,6 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <pubDate>Fri, 01 Apr 2022 06:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-01 14:37:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크쑤다]알뜰폰에는 '호구'가 없기를…'모요'는 다 모아 보여준다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280177</link>
-            <guid>https://www.bloter.net/newsView/blt202203280177</guid>
-            <pubDate>Fri, 01 Apr 2022 06:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-01 14:36:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크쑤다]'가심비 브랜드' 노리는 '반값 알뜰폰' 원조 LG헬로비전 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280128</link>
-            <guid>https://www.bloter.net/newsView/blt202203280128</guid>
-            <pubDate>Fri, 01 Apr 2022 06:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-01 14:36:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 게임쇼 E3 개최 불발...'GDC 집단감염' 여파 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010035</link>
-            <guid>https://www.bloter.net/newsView/blt202204010035</guid>
-            <pubDate>Fri, 01 Apr 2022 03:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 10:27:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010013</link>
-            <guid>https://www.bloter.net/newsView/blt202204010013</guid>
-            <pubDate>Fri, 01 Apr 2022 01:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 09:27:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -824,6 +824,38 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010003.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[LCK 스프링 결승]④최다우승팀 T1, 젠지 꺾고 V10 달성 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020007</link>
+            <guid>https://www.bloter.net/newsView/blt202204020007</guid>
+            <pubDate>Sat, 02 Apr 2022 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA['2022 LCK 스프링 결승전'에서 젠지를 상대로 2승을 거둔 T1의 기세는 꺾일줄 몰랐다. 4세트 초반부터 거침없이 몰아친 T1은 끊임없이 젠지를 압박한 끝에 세트스코어 3대1로 10번쨰 우승을 달성했다.2일 킨텍스에서 진행된 '2022 LCK 스프링 결승전'에서 T1은 1세트, 3세트, 4]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020017.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 스프링 결승]③T1, 탑 라인 집중공격…'매치포인트' 지름길로 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020005</link>
+            <guid>https://www.bloter.net/newsView/blt202204020005</guid>
+            <pubDate>Sat, 02 Apr 2022 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[T1이 팽팽했던 분위기를 뒤집으며 승기를 뺴앗았다. 라인전에서 우위를 잡은 기세를 바탕으로 끊임없이 젠지를 괴롭히다 '구마유시' 이민형의 슈퍼플레이를 틈타 젠지의 저항을 무너뜨렸다.  2일 열린 '2022 LCK 스프링 결승전' 3세트에서 T1은 블루 진영을 선택하며 위]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 스프링 결승]②끌려가던 젠지, '아리' 중심 팀플레이 통했다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020006</link>
+            <guid>https://www.bloter.net/newsView/blt202204020006</guid>
+            <pubDate>Sat, 02 Apr 2022 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[T1에게 선취점을 내줬던 젠지가 경기를 원점으로 되돌렸다. 2세트에서 '쵸비' 정지훈의 '아리'가 빛을 발하며 팀워크를 살린 젠지가 승리를 따냈다.2일 킨텍스에서 열린 '2022 LCK 스프링 결승전' 2세트에서 젠지가 T1을 상대로 승리하며 게임 스코어를 1대1로 맞췄다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LCK 스프링 결승]①'구마유시' 쿼드라킬, T1이 먼저 웃었다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020004</link>
+            <guid>https://www.bloter.net/newsView/blt202204020004</guid>
+            <pubDate>Sat, 02 Apr 2022 15:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[T1이 한타 싸움에서 젠지를 누르며 '2022 LCK 스프링' 결승전에서 먼저 웃었다.  양팀은 밴픽에서부터 전략적으로 임했다. 블루 진영의 젠지는 '도란' 최현준, '피넛' 한왕호 '쵸비' 정지훈, '룰러' 박재혁, '리헨즈' 손시우가 각각 '오른', '볼리베어', '빅토르', '카르마', ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]구름 인파 몰려든 킨텍스…'LCK 파이널'에 쏠리는 눈 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204020003</link>
             <guid>https://www.bloter.net/newsView/blt202204020003</guid>
@@ -886,38 +918,6 @@ LG화학의 배터리 사업을 글로벌 '톱티어'로 키워낸 주역인 김
             <pubDate>Wed, 30 Mar 2022 13:32:18 GMT</pubDate>
             <content:encoded><![CDATA["1세트만 잡아내면 3대0으로 완승할 수 있다"'리그 오브 레전드 챔피언스코리아'(LCK) 결승전에 오른 'T1'과 '젠지'의 공통적인 생각이다. 다음달 2일 결승전을 앞두고 열린 'LCK 미디어데이'에서 만난 양측은 상대의 강력함을 인정하면서도 우승컵을 들어올릴 수 있다는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300051.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["올해는 다를거야"…'지스타', 팬데믹 이전 수준 개최 예고 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300156</link>
-            <guid>https://www.bloter.net/newsView/blt202203300156</guid>
-            <pubDate>Wed, 30 Mar 2022 11:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[지스타조직위원회(이하 조직위)가 국제게임전시회 '지스타 2022'를 코로나19 팬데믹(대유행) 이전 수준으로 개최한다고 선언했다. 올해 지스타를 '정상 개최의 원년'으로 삼아 오프라인 전시 규모를 예년 수준까지 회복하겠다는 계획이다. 조직위가 지스타 2022의 오프]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300044.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네오위즈표 블록체인 게임, '브라운더스트' 낙점한 이유는 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300103</link>
-            <guid>https://www.bloter.net/newsView/blt202203300103</guid>
-            <pubDate>Wed, 30 Mar 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 NFT 기반 사업 속도를 내고 있는 네오위즈가 '브라운더스트'에 블록체인 기술을 적용해 'IP 살리기'에 나섰다. 개발비 700억원 투입에도 부진했던 '블레스'나 규제 장벽에 막혔던 웹보드 게임에 이르기까지 여러 요인으로 부침을 겪었던 네오위즈에게 블록체]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300033.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블F&C, P2E 통합런처 개발…"월렛부터 토큰 스왑까지 한 번에" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300040</link>
-            <guid>https://www.bloter.net/newsView/blt202203300040</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블에프엔씨가 자체 토큰 '아이텀큐브' 생태계 이용 편의성을 높이기 위해 통합 런처를 선보이는 것으로 확인됐다. 통합 PC 런처 안에는 넷마블에프앤씨의 '플레이 투 언'(P2E) 게임용 클라이언트 지원부터 지갑(월렛), 스테이킹, NFT 마켓플레이스, 탈중앙화금융(DeF]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300010.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원 “블리자드, 사내 성차별·성희롱 문제 해결 기금 조성하라” (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300005</link>
-            <guid>https://www.bloter.net/newsView/blt202203300005</guid>
-            <pubDate>Fri, 01 Apr 2022 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[사내 성차별·성희롱으로 소송 당한 '액티비전 블리자드'가 관련 문제 해결을 위해 1800만달러(약 219억4000만원) 규모의 기금을 조성해야 한다는 판결이 나왔다. 29일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면, 해당 기금은 블리자드에서 2016년 9월부터 근무한]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300006.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]넷플릭스가 탐내는 웹툰 기반 한국 오리지널은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
