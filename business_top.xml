@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 22:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 23:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[순익 5배 늘어난 NHN, 무슨 일?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020001</link>
-            <guid>https://www.bloter.net/newsView/blt202204020001</guid>
-            <pubDate>Sun, 03 Apr 2022 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-03 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020003.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[테슬라 상하이 공장, 중국 봉쇄령으로 가동 중단 유지한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040001</link>
+            <guid>https://www.bloter.net/newsView/blt202204040001</guid>
+            <pubDate>Sun, 03 Apr 2022 23:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-04 08:09:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT와 NHN은 클라우드 사업을 왜 떼어내나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010219</link>
-            <guid>https://www.bloter.net/newsView/blt202204010219</guid>
-            <pubDate>Sun, 03 Apr 2022 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라, 최초 유럽 생산기지 베를린 ‘기가팩토리’ 본격 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230021</link>
+            <guid>https://www.bloter.net/newsView/blt202203230021</guid>
+            <pubDate>Sun, 03 Apr 2022 23:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[잡음 계속되는 NHN클라우드]]></title>
-            <link>https://www.bloter.net/newsView/blt202203080273</link>
-            <guid>https://www.bloter.net/newsView/blt202203080273</guid>
-            <pubDate>Sun, 03 Apr 2022 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라 유럽공략 가속화…독일, 기가팩토리 승인]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040043</link>
+            <guid>https://www.bloter.net/newsView/blt202203040043</guid>
+            <pubDate>Sun, 03 Apr 2022 23:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘쪼개기 상장’ 논란 빚은 NHN “자회사 상장하면 주주에 현물배당”]]></title>
-            <link>https://www.bloter.net/newsView/blt202203040106</link>
-            <guid>https://www.bloter.net/newsView/blt202203040106</guid>
-            <pubDate>Sun, 03 Apr 2022 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[미 규제당국, 머스크 형제 테슬라 '내부자거래' 위반 혐의 조사]]></title>
+            <link>https://www.bloter.net/newsView/blt202202250006</link>
+            <guid>https://www.bloter.net/newsView/blt202202250006</guid>
+            <pubDate>Sun, 03 Apr 2022 23:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클라우드 물적분할 앞둔 NHN...“3년간 주주환원 추진”]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090238</link>
-            <guid>https://www.bloter.net/newsView/blt202202090238</guid>
-            <pubDate>Sun, 03 Apr 2022 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라, 자율주행SW 결함…미국서 차량 5만4천대 리콜]]></title>
+            <link>https://www.bloter.net/newsView/blt202202020001</link>
+            <guid>https://www.bloter.net/newsView/blt202202020001</guid>
+            <pubDate>Sun, 03 Apr 2022 23:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
