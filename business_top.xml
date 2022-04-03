@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['패션공룡' 품에 안긴 콘텐츠제작사 '빅텐츠'의 운명은]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020002</link>
-            <guid>https://www.bloter.net/newsView/blt202204020002</guid>
-            <pubDate>Sun, 03 Apr 2022 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-03 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020004.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['배민' 손실 줄었지만, 매년 2배씩 증가한 '라이더 비용']]></title>
+            <link>https://www.bloter.net/newsView/blt202204010243</link>
+            <guid>https://www.bloter.net/newsView/blt202204010243</guid>
+            <pubDate>Sun, 03 Apr 2022 06:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-03 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010023.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[네이버 계열사 접점 넓히는 '플레이리스트'…웹툰 영상화 늘린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203220206</link>
-            <guid>https://www.bloter.net/newsView/blt202203220206</guid>
-            <pubDate>Sun, 03 Apr 2022 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[주성엔지니어링, 매출 3배 급증 배경은]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280038</link>
+            <guid>https://www.bloter.net/newsView/blt202203280038</guid>
+            <pubDate>Sun, 03 Apr 2022 06:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KT·CJ ENM, 콘텐츠 동맹으로 무엇을 노리나…'유통 채널·IP' 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210681</link>
-            <guid>https://www.bloter.net/newsView/blt202203210681</guid>
-            <pubDate>Sun, 03 Apr 2022 05:16:55 GMT</pubDate>
+            <title><![CDATA[돈 잘 버는 KT, '3조원 현금' 행선지는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250147</link>
+            <guid>https://www.bloter.net/newsView/blt202203250147</guid>
+            <pubDate>Sun, 03 Apr 2022 06:22:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오엔터 제작 자회사, 콘텐츠로 뭉친다…'최악의 악' 공동제작]]></title>
-            <link>https://www.bloter.net/newsView/blt202203070061</link>
-            <guid>https://www.bloter.net/newsView/blt202203070061</guid>
-            <pubDate>Sun, 03 Apr 2022 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버웹툰 '이두나', OTT 콘텐츠로 영상화…"편성 채널 협의 중"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202210078</link>
-            <guid>https://www.bloter.net/newsView/blt202202210078</guid>
-            <pubDate>Sun, 03 Apr 2022 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[다시 살아난 KCC...실리콘 사업의 대반전]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210250</link>
+            <guid>https://www.bloter.net/newsView/blt202203210250</guid>
+            <pubDate>Sun, 03 Apr 2022 06:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

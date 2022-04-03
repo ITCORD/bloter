@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'배민' 손실 줄었지만, 매년 2배씩 증가한 '라이더 비용']]></title>
+            <link>https://www.bloter.net/newsView/blt202204010243</link>
+            <guid>https://www.bloter.net/newsView/blt202204010243</guid>
+            <pubDate>Sun, 03 Apr 2022 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-03 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010023.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'패션공룡' 품에 안긴 콘텐츠제작사 '빅텐츠'의 운명은]]></title>
             <link>https://www.bloter.net/newsView/blt202204020002</link>
             <guid>https://www.bloter.net/newsView/blt202204020002</guid>
             <pubDate>Sun, 03 Apr 2022 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-03 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빅테크 ‘상호 운용 의무화’ EU 디지털시장법, 암호화 메신저에 독 되나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Apr 2022 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-01 17:36:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 고강도 조직개편…'게임플랫폼·퍼블릭체인' 구조 이원화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010272</link>
-            <guid>https://www.bloter.net/newsView/blt202204010272</guid>
-            <pubDate>Fri, 01 Apr 2022 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-01 17:35:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
