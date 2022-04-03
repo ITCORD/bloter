@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 04:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅테크 ‘상호 운용 의무화’ EU 디지털시장법, 암호화 메신저에 독 되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010205</link>
+            <guid>https://www.bloter.net/newsView/blt202204010205</guid>
+            <pubDate>Sun, 03 Apr 2022 04:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-03 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010011.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이젠, 우주]누리호, 두 번째 비행 준비 ‘착착’…성능검증위성 개발 ‘완료 단계’]]></title>
             <link>https://www.bloter.net/newsView/blt202204010326</link>
             <guid>https://www.bloter.net/newsView/blt202204010326</guid>
             <pubDate>Sun, 03 Apr 2022 03:29:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-03 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010028.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010028.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[비상장주식 시장서 일반투자자 보호받지만 자유도 줄어든다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Apr 2022 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-01 16:32:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔씨, 변화를 말하다]③금융투자로 '실탄' 확보…북미·인도 점 찍나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010128</link>
-            <guid>https://www.bloter.net/newsView/blt202204010128</guid>
-            <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-01 16:07:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
