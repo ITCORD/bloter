@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 04:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 05:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'패션공룡' 품에 안긴 콘텐츠제작사 '빅텐츠'의 운명은]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020002</link>
+            <guid>https://www.bloter.net/newsView/blt202204020002</guid>
+            <pubDate>Sun, 03 Apr 2022 05:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[시간이 없다면•패션기업 F&amp;F가 콘텐츠 제작사 빅텐츠의 지분 50.77%를 확보해 최대주주에 올랐습니다.•빅텐츠는 드라마 '달이 뜨는 강'을 통해 인지도를 높였고 현재 '대통령 정약용' 등 OTT용 콘텐츠 제작에 집중하고 있습니다.•다만 빅텐츠는 지난해 말]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 스프링 결승]①'구마유시' 쿼드라킬, T1이 먼저 웃었다]]></title>
             <link>https://www.bloter.net/newsView/blt202204020004</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 31 Mar 2022 08:26:46 GMT</pubDate>
             <content:encoded><![CDATA[위메이드가 블록체인 게임 플랫폼 '위믹스'(WEMIX)에 이어 탈중앙화 기반의 신규 사업을 강화한다. 게임으로 포문을 연 블록체인 사업에 '탈중앙금융'(DeFi, 디파이) 서비스와 '대체 불가능한 토큰'(NFT)·'탈중앙화 자율조직'(DAO)을 결합한 신규 영역을 추진한다는 계]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, '틱톡 비방 캠페인' 의혹...전문 컨설팅회사 동원했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310003</link>
-            <guid>https://www.bloter.net/newsView/blt202203310003</guid>
-            <pubDate>Wed, 30 Mar 2022 23:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 자사 소셜미디어(SNS) 페이스북의 경쟁사인 틱톡에 대한 ‘비방 캠페인’을 벌였다는 의혹이 제기됐다.30일(현지시간) &lt;워싱턴포스트&gt;는 메타가 미국 최대 보수 정치 컨설팅 회사 중 하나인 ‘타게티드 빅토리(Targeted Victory)’에 의뢰해 대중이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
