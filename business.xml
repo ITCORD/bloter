@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 23:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 01:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010013</link>
+            <guid>https://www.bloter.net/newsView/blt202204010013</guid>
+            <pubDate>Sun, 03 Apr 2022 01:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 09:27:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS가 프로세스 마이닝 기업 '미닛'을 인수하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202204010010</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 01 Apr 2022 03:15:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-03-31 16:41:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['HCA-팀 삼성' 키워드로 살펴본 삼성 가전 생태계]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310067</link>
-            <guid>https://www.bloter.net/newsView/blt202203310067</guid>
-            <pubDate>Thu, 31 Mar 2022 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-03-31 14:04:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

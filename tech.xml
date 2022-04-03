@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 23:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 01:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비상장주식 시장서 일반투자자 보호받지만 자유도 줄어든다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310248</link>
+            <guid>https://www.bloter.net/newsView/blt202203310248</guid>
+            <pubDate>Sun, 03 Apr 2022 01:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-03 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020013.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 스프링 결승]④최다우승팀 T1, 젠지 꺾고 V10 달성]]></title>
             <link>https://www.bloter.net/newsView/blt202204020007</link>
             <guid>https://www.bloter.net/newsView/blt202204020007</guid>
             <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:51:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LCK 스프링 결승]③T1, 탑 라인 집중공격…'매치포인트' 지름길로]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-01 16:05:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크쑤다]'SKT·KT·LGU+'알뜰폰 공세 속' 중가 요금제로 돌파구 마련한 프리텔레콤]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300051</link>
-            <guid>https://www.bloter.net/newsView/blt202203300051</guid>
-            <pubDate>Fri, 01 Apr 2022 06:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-01 14:37:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/30/blt202203300013.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
