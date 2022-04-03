@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 03:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이젠, 우주]누리호, 두 번째 비행 준비 ‘착착’…성능검증위성 개발 ‘완료 단계’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010326</link>
+            <guid>https://www.bloter.net/newsView/blt202204010326</guid>
+            <pubDate>Sun, 03 Apr 2022 03:29:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-03 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010028.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비상장주식 시장서 일반투자자 보호받지만 자유도 줄어든다]]></title>
             <link>https://www.bloter.net/newsView/blt202203310248</link>
             <guid>https://www.bloter.net/newsView/blt202203310248</guid>
             <pubDate>Sun, 03 Apr 2022 01:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-03 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020013.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LCK 스프링 결승]④최다우승팀 T1, 젠지 꺾고 V10 달성]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-01 16:07:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무신사 vs 크림 갈등' 촉발한 '에센셜'…브랜드 본사는 '가품' 판정]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010118</link>
-            <guid>https://www.bloter.net/newsView/blt202204010118</guid>
-            <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-01 16:05:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
