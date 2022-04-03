@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 09:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 10:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅테크 ‘상호 운용 의무화’ EU 디지털시장법, 암호화 메신저에 독 되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010205</link>
+            <guid>https://www.bloter.net/newsView/blt202204010205</guid>
+            <pubDate>Sun, 03 Apr 2022 10:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-03 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010011.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비상장주식 시장서 일반투자자 보호받지만 자유도 줄어든다]]></title>
             <link>https://www.bloter.net/newsView/blt202203310248</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 03 Apr 2022 01:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 09:27:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS가 프로세스 마이닝 기업 '미닛'을 인수하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010010</link>
-            <guid>https://www.bloter.net/newsView/blt202204010010</guid>
-            <pubDate>Sat, 02 Apr 2022 02:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 08:38:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
