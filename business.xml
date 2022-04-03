@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비상장주식 시장서 일반투자자 보호받지만 자유도 줄어든다]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310248</link>
+            <guid>https://www.bloter.net/newsView/blt202203310248</guid>
+            <pubDate>Sun, 03 Apr 2022 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-03 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020013.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['전기차'가 수만명 생명 구한다는 美폐협회의 자신감…근거는?]]></title>
             <link>https://www.bloter.net/newsView/blt202204010222</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 02 Apr 2022 02:54:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-01 08:38:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융주 통념 깬 김기홍 JB금융 회장 연임…'디지털 전환' 가속화]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310146</link>
-            <guid>https://www.bloter.net/newsView/blt202203310146</guid>
-            <pubDate>Sat, 02 Apr 2022 01:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-03-31 18:17:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

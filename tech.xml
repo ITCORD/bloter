@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주탐사 시대…'무중력' 상태서 신체는 '우주 적응 증후군' 겪는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010216</link>
+            <guid>https://www.bloter.net/newsView/blt202204010216</guid>
+            <pubDate>Sun, 03 Apr 2022 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-03 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010014.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'배민' 손실 줄었지만, 매년 2배씩 증가한 '라이더 비용']]></title>
             <link>https://www.bloter.net/newsView/blt202204010243</link>
             <guid>https://www.bloter.net/newsView/blt202204010243</guid>
             <pubDate>Sun, 03 Apr 2022 06:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-03 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010023.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010023.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]'패션공룡' 품에 안긴 콘텐츠제작사 '빅텐츠'의 운명은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Apr 2022 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-01 17:38:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하드웨어 명가 애플, '서비스' 사업에 눈독 들이는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010269</link>
-            <guid>https://www.bloter.net/newsView/blt202204010269</guid>
-            <pubDate>Fri, 01 Apr 2022 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-01 17:36:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
