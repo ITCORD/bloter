@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['임상유전체 전문' GC녹십자 지놈이 사명 변경으로 노리는 것]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040269</link>
+            <guid>https://www.bloter.net/newsView/blt202204040269</guid>
+            <pubDate>Mon, 04 Apr 2022 10:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-04 19:06:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마?]]></title>
             <link>https://www.bloter.net/newsView/blt202204040263</link>
             <guid>https://www.bloter.net/newsView/blt202204040263</guid>
             <pubDate>Mon, 04 Apr 2022 09:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-04 18:17:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:51:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 스프링 결승]③T1, 탑 라인 집중공격…'매치포인트' 지름길로]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020005</link>
-            <guid>https://www.bloter.net/newsView/blt202204020005</guid>
-            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:21:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
