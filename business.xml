@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 01:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 03:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[순익 5배 늘어난 NHN, 무슨 일?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204020001</link>
+            <guid>https://www.bloter.net/newsView/blt202204020001</guid>
+            <pubDate>Mon, 04 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-03 19:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우주탐사 시대…'무중력' 상태서 신체는 '우주 적응 증후군' 겪는다]]></title>
             <link>https://www.bloter.net/newsView/blt202204010216</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 03 Apr 2022 07:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-03 09:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020013.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['전기차'가 수만명 생명 구한다는 美폐협회의 자신감…근거는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010222</link>
-            <guid>https://www.bloter.net/newsView/blt202204010222</guid>
-            <pubDate>Sun, 03 Apr 2022 06:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-02 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010015.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
