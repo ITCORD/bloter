@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금']]></title>
+            <link>https://www.bloter.net/newsView/blt202204040161</link>
+            <guid>https://www.bloter.net/newsView/blt202204040161</guid>
+            <pubDate>Mon, 04 Apr 2022 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[시간이 없다면•지난해 CJ ENM의 현금및현금성자산이 최근 5년 새 가장 많은 1조2873억원을 기록했습니다.•현금성자산 증가의 배경은 올해 인수 절차를 완료한 헐리우드 제작사 '엔데버 콘텐트'에 있습니다.•'엔데버 콘텐트' 인수를 위해 현금이 필요했던 CJ EN]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 스프링 결승]②끌려가던 젠지, '아리' 중심 팀플레이 통했다]]></title>
             <link>https://www.bloter.net/newsView/blt202204020006</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 31 Mar 2022 10:24:51 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 최근 선보이는 신규 서비스를 모바일에 최적화하는 전략을 내세우고 있다. 주요 타켓층인 10~30대가 모바일을 통한 소비에 익숙한 연령층인 데다, 동영상이 모바일 플랫폼에 적합한 콘텐츠라는 점에 착안한 것이다. 무신사는 모바일 앱 내에서 짧은 동영상]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310029.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주주 만난 장현국 대표 "위메이드, NFT·DAO 사업도 준비중"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310136</link>
-            <guid>https://www.bloter.net/newsView/blt202203310136</guid>
-            <pubDate>Thu, 31 Mar 2022 08:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 블록체인 게임 플랫폼 '위믹스'(WEMIX)에 이어 탈중앙화 기반의 신규 사업을 강화한다. 게임으로 포문을 연 블록체인 사업에 '탈중앙금융'(DeFi, 디파이) 서비스와 '대체 불가능한 토큰'(NFT)·'탈중앙화 자율조직'(DAO)을 결합한 신규 영역을 추진한다는 계]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/31/blt202203310020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
