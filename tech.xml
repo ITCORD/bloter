@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040263</link>
+            <guid>https://www.bloter.net/newsView/blt202204040263</guid>
+            <pubDate>Mon, 04 Apr 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-04 18:17:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금']]></title>
             <link>https://www.bloter.net/newsView/blt202204040161</link>
             <guid>https://www.bloter.net/newsView/blt202204040161</guid>
             <pubDate>Mon, 04 Apr 2022 08:20:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-04 17:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배차시스템 공개한 카카오모빌리티, '콜 몰아주기' 의혹 여전…왜?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:21:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 스프링 결승]②끌려가던 젠지, '아리' 중심 팀플레이 통했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020006</link>
-            <guid>https://www.bloter.net/newsView/blt202204020006</guid>
-            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:19:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

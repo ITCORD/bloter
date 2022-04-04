@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -286,40 +286,56 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040003.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040161</link>
-            <guid>https://www.bloter.net/newsView/blt202204040161</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-04 17:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040263</link>
+            <guid>https://www.bloter.net/newsView/blt202204040263</guid>
+            <pubDate>Mon, 04 Apr 2022 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-04 18:17:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT·CJ ENM, 콘텐츠 동맹으로 무엇을 노리나…'유통 채널·IP' 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210681</link>
-            <guid>https://www.bloter.net/newsView/blt202203210681</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:22 GMT</pubDate>
+            <title><![CDATA[‘서빙로봇’ 들고 나온 SK쉴더스...탈(脫)보안 전략 통할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150046</link>
+            <guid>https://www.bloter.net/newsView/blt202203150046</guid>
+            <pubDate>Mon, 04 Apr 2022 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[상장 앞둔 SK쉴더스, ‘뷰티 스타트업’ 투자...이유 있네 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020053</link>
+            <guid>https://www.bloter.net/newsView/blt202203020053</guid>
+            <pubDate>Mon, 04 Apr 2022 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배민과 SK쉴더스가 손 잡은 이유…똑똑한 서빙 로봇 보급 확대한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210012</link>
+            <guid>https://www.bloter.net/newsView/blt202202210012</guid>
+            <pubDate>Mon, 04 Apr 2022 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스 '신사업 도전'의 원천은?…구독형 BM (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202110260018</link>
+            <guid>https://www.bloter.net/newsView/blt202110260018</guid>
+            <pubDate>Mon, 04 Apr 2022 09:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CJ ENM "엔터부문은 주 4.5일 근무"…목표는 "창의적 인재 양성" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201050172</link>
-            <guid>https://www.bloter.net/newsView/blt202201050172</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK온, 전기차 1대당 10개 들어가는 '배터리 칩' 자체 개발 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040015</link>
+            <guid>https://www.bloter.net/newsView/blt202204040015</guid>
+            <pubDate>Mon, 04 Apr 2022 03:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-04 10:48:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CJ ENM 첫 'ESG 리포트' 살펴보니… (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112220106</link>
-            <guid>https://www.bloter.net/newsView/blt202112220106</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['CJ ENM'은 왜 '바이아컴CBS'와 손 잡았나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112080112</link>
-            <guid>https://www.bloter.net/newsView/blt202112080112</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[美 하원, 토네이도로 붕괴한 '아마존 물류 창고' 조사한다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040009</link>
+            <guid>https://www.bloter.net/newsView/blt202204040009</guid>
+            <pubDate>Mon, 04 Apr 2022 01:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-04 10:07:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, '부스터샷 의무화 정책' 철회...글로벌 빅테크 "사무실로 복귀" (블로터 ─ 비즈니스)]]></title>
@@ -352,22 +368,6 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <pubDate>Sun, 03 Apr 2022 07:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-03 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010014.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['배민' 손실 줄었지만, 매년 2배씩 증가한 '라이더 비용' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010243</link>
-            <guid>https://www.bloter.net/newsView/blt202204010243</guid>
-            <pubDate>Sun, 03 Apr 2022 06:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-03 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010023.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['패션공룡' 품에 안긴 콘텐츠제작사 '빅텐츠'의 운명은 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020002</link>
-            <guid>https://www.bloter.net/newsView/blt202204020002</guid>
-            <pubDate>Sun, 03 Apr 2022 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-03 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -406,18 +406,26 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]'SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040263</link>
+            <guid>https://www.bloter.net/newsView/blt202204040263</guid>
+            <pubDate>Mon, 04 Apr 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-04 18:17:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204040161</link>
             <guid>https://www.bloter.net/newsView/blt202204040161</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:46 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-04 17:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배차시스템 공개한 카카오모빌리티, '콜 몰아주기' 의혹 여전…왜? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204040065</link>
             <guid>https://www.bloter.net/newsView/blt202204040065</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:46 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-04 17:15:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -425,7 +433,7 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <title><![CDATA[[이젠, 우주]韓 첫 ‘달 탐사선’ 이름은?…뉴스페이스 맞춰 우주로 향하는 눈 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204040110</link>
             <guid>https://www.bloter.net/newsView/blt202204040110</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:46 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-04 16:43:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -540,14 +548,6 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:21:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 스프링 결승]②끌려가던 젠지, '아리' 중심 팀플레이 통했다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020006</link>
-            <guid>https://www.bloter.net/newsView/blt202204020006</guid>
-            <pubDate>Sat, 02 Apr 2022 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-02 23:19:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -828,7 +828,7 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금' (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204040161</link>
             <guid>https://www.bloter.net/newsView/blt202204040161</guid>
-            <pubDate>Mon, 04 Apr 2022 08:22:22 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
             <content:encoded><![CDATA[시간이 없다면•지난해 CJ ENM의 현금및현금성자산이 최근 5년 새 가장 많은 1조2873억원을 기록했습니다.•현금성자산 증가의 배경은 올해 인수 절차를 완료한 헐리우드 제작사 '엔데버 콘텐트'에 있습니다.•'엔데버 콘텐트' 인수를 위해 현금이 필요했던 CJ EN]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
