@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 01:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닻 올린 세아베스틸지주, 신규투자 '발목' 잡는 빡빡한 유동성]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040193</link>
+            <guid>https://www.bloter.net/newsView/blt202204040193</guid>
+            <pubDate>Tue, 05 Apr 2022 01:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-04 17:36:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금']]></title>
+            <link>https://www.bloter.net/newsView/blt202204040161</link>
+            <guid>https://www.bloter.net/newsView/blt202204040161</guid>
+            <pubDate>Tue, 05 Apr 2022 01:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-04 17:17:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배차시스템 공개한 카카오모빌리티, '콜 몰아주기' 의혹 여전…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040065</link>
+            <guid>https://www.bloter.net/newsView/blt202204040065</guid>
+            <pubDate>Tue, 05 Apr 2022 01:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-04 17:15:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK온, 전기차 1대당 10개 들어가는 '배터리 칩' 자체 개발]]></title>
             <link>https://www.bloter.net/newsView/blt202204040015</link>
@@ -30,30 +54,6 @@
             <pubDate>Mon, 04 Apr 2022 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-04 09:05:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 상하이 공장, 중국 봉쇄령으로 가동 중단 유지한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040001</link>
-            <guid>https://www.bloter.net/newsView/blt202204040001</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-04 08:09:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순익 5배 늘어난 NHN, 무슨 일?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020001</link>
-            <guid>https://www.bloter.net/newsView/blt202204020001</guid>
-            <pubDate>Mon, 04 Apr 2022 03:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-03 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우주탐사 시대…'무중력' 상태서 신체는 '우주 적응 증후군' 겪는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010216</link>
-            <guid>https://www.bloter.net/newsView/blt202204010216</guid>
-            <pubDate>Mon, 04 Apr 2022 01:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-03 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010014.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
