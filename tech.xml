@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 10:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['점유율 2%' 한국 홀대에도..."샤오미=가성비 전략 안 바꾼다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050241</link>
+            <guid>https://www.bloter.net/newsView/blt202204050241</guid>
+            <pubDate>Tue, 05 Apr 2022 10:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-05 18:23:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성메디슨, 지난해 흑자전환·최대실적 비결은 ‘내부 거래’]]></title>
             <link>https://www.bloter.net/newsView/blt202204050267</link>
             <guid>https://www.bloter.net/newsView/blt202204050267</guid>
             <pubDate>Tue, 05 Apr 2022 09:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-05 18:08:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050035.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050035.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'CJ ENM 스튜디오스'는 어떻게 탄생했나]]></title>
@@ -32,7 +40,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상장 전 몸집 불려주기?…LG CNS 매출 64% 그룹서 나와]]></title>
+            <title><![CDATA['DX 전환 가속화' LG CNS, 매출 64% 그룹서 나와]]></title>
             <link>https://www.bloter.net/newsView/blt202204050152</link>
             <guid>https://www.bloter.net/newsView/blt202204050152</guid>
             <pubDate>Tue, 05 Apr 2022 07:17:55 GMT</pubDate>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 04 Apr 2022 03:03:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-04 10:48:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 하원, 토네이도로 붕괴한 '아마존 물류 창고' 조사한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040009</link>
-            <guid>https://www.bloter.net/newsView/blt202204040009</guid>
-            <pubDate>Mon, 04 Apr 2022 01:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-04 10:07:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
