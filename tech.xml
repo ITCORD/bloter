@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 06:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 07:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상장 전 몸집 불려주기?…LG CNS 매출 64% 그룹서 나와]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050152</link>
+            <guid>https://www.bloter.net/newsView/blt202204050152</guid>
+            <pubDate>Tue, 05 Apr 2022 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-05 16:05:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[S펜으로 웃고 GOS로 울고…삼성 '갤럭시S22' 美 판매량 살펴보니]]></title>
             <link>https://www.bloter.net/newsView/blt202204050039</link>
             <guid>https://www.bloter.net/newsView/blt202204050039</guid>
             <pubDate>Tue, 05 Apr 2022 05:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-05 14:06:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]미르4, '하이드라 결제' 오픈…인게임 이코노미 강화]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 03 Apr 2022 10:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-03 19:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[직장人]퇴근하고 클라우드 읽어주는 오라클 ‘곰돌스’]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280179</link>
-            <guid>https://www.bloter.net/newsView/blt202203280179</guid>
-            <pubDate>Sun, 03 Apr 2022 08:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date">2022-04-03 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280033.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
