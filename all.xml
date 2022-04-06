@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -792,12 +792,22 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <enclosure url="https://www.bloter.net/data/blt/image/2021/11/19/blt202111190029.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임인사이드]넥슨 히든카드 '프로젝트 DR', 4년 전 타이틀 그대로 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060029</link>
+            <guid>https://www.bloter.net/newsView/blt202204060029</guid>
+            <pubDate>Wed, 06 Apr 2022 07:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-04-06 13:53:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060011.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['러시아' 지우는 워게이밍, '매출 1위 시장' 포기한 사정은 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202204060014</link>
             <guid>https://www.bloter.net/newsView/blt202204060014</guid>
             <pubDate>Wed, 06 Apr 2022 02:57:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060009.601x301.0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-04-06 10:56:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060009.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'CJ ENM 스튜디오스'는 어떻게 탄생했나 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
@@ -818,21 +828,20 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050010.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금' (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040161</link>
-            <guid>https://www.bloter.net/newsView/blt202204040161</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-04-04 17:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['트위터' 최대주주된 일론 머스크, 이사회도 합류…인수 무게두나 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204060008</link>
             <guid>https://www.bloter.net/newsView/blt202204060008</guid>
             <pubDate>Wed, 06 Apr 2022 01:14:55 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 '트위터' 이사회에 합류했다. 이는 머스크가 트위터 지분 9.2%를 취득해 최대주주가 됐다는 소식이 전해진 지 하루 만에 공개된 사실이다.  5일(현지시간) IT 전문매체 &lt;더버지&gt;는 미국 증권거래위원회(SEC) 자료를 인용해 머스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060007.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금' (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040161</link>
+            <guid>https://www.bloter.net/newsView/blt202204040161</guid>
+            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[시간이 없다면•지난해 CJ ENM의 현금및현금성자산이 최근 5년 새 가장 많은 1조2873억원을 기록했습니다.•현금성자산 증가의 배경은 올해 인수 절차를 완료한 헐리우드 제작사 '엔데버 콘텐트'에 있습니다.•'엔데버 콘텐트' 인수를 위해 현금이 필요했던 CJ EN]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]'패션공룡' 품에 안긴 콘텐츠제작사 '빅텐츠'의 운명은 (블로터 ─ 컬처)]]></title>
@@ -913,14 +922,6 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
             <content:encoded><![CDATA[지난달 30일, 엔씨소프트의 주주총회장에는 경영 행보에 의문을 품는 한 주주의 지적이 있었다. "회사가 2조원이 넘는 현금을 보유하고 있음에도 이를 몇 년째 제대로 사용하지 않는다"며 "주주들의 돈을 그냥 가지고만 있지 말고 기업 인수나 사업 확장에 써야 한다"]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무신사 vs 크림 갈등' 촉발한 '에센셜'…브랜드 본사는 '가품' 판정 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010118</link>
-            <guid>https://www.bloter.net/newsView/blt202204010118</guid>
-            <pubDate>Fri, 01 Apr 2022 07:17:59 GMT</pubDate>
-            <content:encoded><![CDATA['무신사'와 '크림'의 갈등이 새로운 국면으로 접어들게 될까. 갈등의 원인이 됐던 수입 브랜드 '피어 오브 갓 에센셜'(이하 에센셜) 티셔츠가 가품이라는 본사의 판정이 나와 업계의 관심이 집중되고 있다. 상품의 정·가품 판정 권한은 브랜드의 고유 권한이라는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/01/blt202204010004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'CJ ENM 스튜디오스'는 어떻게 탄생했나 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
