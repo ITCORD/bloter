@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,40 +287,56 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050010.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['트위터' 최대주주된 일론 머스크, 이사회도 합류…인수 무게두나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060008</link>
-            <guid>https://www.bloter.net/newsView/blt202204060008</guid>
-            <pubDate>Wed, 06 Apr 2022 01:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-06 09:24:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060007.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[②정치와 과학 분리해야…부총리제, 선택 아닌 의무 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050024</link>
+            <guid>https://www.bloter.net/newsView/blt202204050024</guid>
+            <pubDate>Wed, 06 Apr 2022 02:56:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-06 10:30:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050008.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘표현의 자유’ 지적한 일론 머스크, 트위터 최대 주주 등극 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050001</link>
-            <guid>https://www.bloter.net/newsView/blt202204050001</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[①미래 판가름할 5년…‘과기 컨트롤타워’ 절실 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050004</link>
+            <guid>https://www.bloter.net/newsView/blt202204050004</guid>
+            <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[머스크의 중국 사업 활동, 미국 정치권 불안감 키운다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210005</link>
-            <guid>https://www.bloter.net/newsView/blt202203210005</guid>
-            <pubDate>Wed, 06 Apr 2022 01:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[尹 정부 과학기술 거버넌스, ICT 함께해야…“현행 유지 바람직” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220526</link>
+            <guid>https://www.bloter.net/newsView/blt202203220526</guid>
+            <pubDate>Wed, 06 Apr 2022 02:56:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['스타십'이 일론 머스크 '스페이스X'의 성배인 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140001</link>
-            <guid>https://www.bloter.net/newsView/blt202203140001</guid>
-            <pubDate>Wed, 06 Apr 2022 01:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이번엔 교육?…교과부 부활론에 과학기술계 “실패 정책, 회귀 안 돼” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210894</link>
+            <guid>https://www.bloter.net/newsView/blt202203210894</guid>
+            <pubDate>Wed, 06 Apr 2022 02:56:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미 규제당국, 머스크 형제 테슬라 '내부자거래' 위반 혐의 조사 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202250006</link>
-            <guid>https://www.bloter.net/newsView/blt202202250006</guid>
-            <pubDate>Wed, 06 Apr 2022 01:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성 출신 양향자 의원 “뉴 스페이스도 ‘반도체’처럼…대선 후보 ‘과학’ 논의해야” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202110280255</link>
+            <guid>https://www.bloter.net/newsView/blt202110280255</guid>
+            <pubDate>Wed, 06 Apr 2022 02:56:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오페이증권, 주식 선물하기 도입..."카카오톡 기프티콘 대신 우량주로 부탁해" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050294</link>
+            <guid>https://www.bloter.net/newsView/blt202204050294</guid>
+            <pubDate>Tue, 05 Apr 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-05 18:11:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050042.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연봉 예산 확대한 네이버·카카오…'인건비' 부담은? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050094</link>
+            <guid>https://www.bloter.net/newsView/blt202204050094</guid>
+            <pubDate>Tue, 05 Apr 2022 08:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-05 17:22:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포스코케미칼, 그린본드 1500억 최초 발행...유상증자금 활용한 '이자비용 절약법' (블로터 ─ 비즈니스)]]></title>
@@ -353,22 +369,6 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 09:53:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스-솔리다임, 첫 합작 제품은 '기업용 SSD' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050002</link>
-            <guid>https://www.bloter.net/newsView/blt202204050002</guid>
-            <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-05 08:55:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘표현의 자유’ 지적한 일론 머스크, 트위터 최대 주주 등극 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050001</link>
-            <guid>https://www.bloter.net/newsView/blt202204050001</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 08:44:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -407,12 +407,52 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['러시아' 지우는 워게이밍, '매출 1위 시장' 포기한 사정은 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060014</link>
+            <guid>https://www.bloter.net/newsView/blt202204060014</guid>
+            <pubDate>Wed, 06 Apr 2022 02:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-06 10:56:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[양향자의 과학기술패권국가] ②정치와 과학 분리해야…부총리제, 선택 아닌 의무 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050024</link>
+            <guid>https://www.bloter.net/newsView/blt202204050024</guid>
+            <pubDate>Wed, 06 Apr 2022 02:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-06 10:30:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국, 러시아 다크넷 암시장 폐쇄…300억 규모 비트코인 압류 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060011</link>
+            <guid>https://www.bloter.net/newsView/blt202204060011</guid>
+            <pubDate>Wed, 06 Apr 2022 02:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-06 10:28:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['트위터' 최대주주된 일론 머스크, 이사회도 합류…인수 무게두나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060008</link>
+            <guid>https://www.bloter.net/newsView/blt202204060008</guid>
+            <pubDate>Wed, 06 Apr 2022 01:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-06 09:24:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060007.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 'WWDC 2022' 6월 개최…'iOS 16' 공개하나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060001</link>
+            <guid>https://www.bloter.net/newsView/blt202204060001</guid>
+            <pubDate>Wed, 06 Apr 2022 02:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-06 08:31:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['점유율 2%' 한국 홀대에도..."샤오미=가성비 전략 안 바꾼다" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204050241</link>
             <guid>https://www.bloter.net/newsView/blt202204050241</guid>
             <pubDate>Tue, 05 Apr 2022 10:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-05 18:23:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성메디슨, 지난해 흑자전환·최대실적 비결은 ‘내부 거래’ (블로터 ─ 테크)]]></title>
@@ -509,46 +549,6 @@ NHN은 올해 클라우드를 비롯해 간편결제·광고·커머스·콘텐�
             <pubDate>Mon, 04 Apr 2022 10:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-04 19:06:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]'SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040263</link>
-            <guid>https://www.bloter.net/newsView/blt202204040263</guid>
-            <pubDate>Mon, 04 Apr 2022 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-04 18:17:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]CJ ENM, 현금성자산 1조 확보? 비결은 '인수 대금' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040161</link>
-            <guid>https://www.bloter.net/newsView/blt202204040161</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-04 17:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배차시스템 공개한 카카오모빌리티, '콜 몰아주기' 의혹 여전…왜? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040065</link>
-            <guid>https://www.bloter.net/newsView/blt202204040065</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-04 17:15:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이젠, 우주]韓 첫 ‘달 탐사선’ 이름은?…뉴스페이스 맞춰 우주로 향하는 눈 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040110</link>
-            <guid>https://www.bloter.net/newsView/blt202204040110</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-04 16:43:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 휴대폰 요금계산기 출시...복잡한 결합상품도 '한눈에' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040014</link>
-            <guid>https://www.bloter.net/newsView/blt202204040014</guid>
-            <pubDate>Mon, 04 Apr 2022 03:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-04 10:48:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

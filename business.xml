@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오페이증권, 주식 선물하기 도입..."카카오톡 기프티콘 대신 우량주로 부탁해"]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050294</link>
+            <guid>https://www.bloter.net/newsView/blt202204050294</guid>
+            <pubDate>Wed, 06 Apr 2022 02:56:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-05 18:11:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050042.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연봉 예산 확대한 네이버·카카오…'인건비' 부담은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050094</link>
+            <guid>https://www.bloter.net/newsView/blt202204050094</guid>
+            <pubDate>Wed, 06 Apr 2022 02:56:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-05 17:22:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코케미칼, 그린본드 1500억 최초 발행...유상증자금 활용한 '이자비용 절약법']]></title>
             <link>https://www.bloter.net/newsView/blt202204050016</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 05 Apr 2022 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 09:53:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스-솔리다임, 첫 합작 제품은 '기업용 SSD']]></title>
-            <link>https://www.bloter.net/newsView/blt202204050002</link>
-            <guid>https://www.bloter.net/newsView/blt202204050002</guid>
-            <pubDate>Tue, 05 Apr 2022 08:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-05 08:55:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘표현의 자유’ 지적한 일론 머스크, 트위터 최대 주주 등극]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050001</link>
-            <guid>https://www.bloter.net/newsView/blt202204050001</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 08:44:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
