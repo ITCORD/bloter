@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골목대장 카카오]②'글로벌 선봉장' 엔터테인먼트, 쥐꼬리 이익률 어쩌나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060209</link>
+            <guid>https://www.bloter.net/newsView/blt202204060209</guid>
+            <pubDate>Wed, 06 Apr 2022 10:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-06 18:35:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060030.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘원전 폐기물’ 10만년 안전 보관 길 열었다…이창수 박사, 과학기술인상 수상]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060211</link>
+            <guid>https://www.bloter.net/newsView/blt202204060211</guid>
+            <pubDate>Wed, 06 Apr 2022 10:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-06 18:34:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060025.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[골목대장 카카오]①로블록스·제페토 앞서가는데…구체적 그림없는 남궁훈표 '메타버스']]></title>
             <link>https://www.bloter.net/newsView/blt202204060079</link>
             <guid>https://www.bloter.net/newsView/blt202204060079</guid>
             <pubDate>Wed, 06 Apr 2022 08:24:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-06 17:21:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060019.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060019.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[게임인사이드]넥슨 히든카드 '프로젝트 DR', 4년 전 타이틀 그대로]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-05 10:30:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알파벳 자회사 ‘윙’이 선보인 美 대도시 ‘드론 배달’ 서비스 모습은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050005</link>
-            <guid>https://www.bloter.net/newsView/blt202204050005</guid>
-            <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 09:53:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스-솔리다임, 첫 합작 제품은 '기업용 SSD']]></title>
-            <link>https://www.bloter.net/newsView/blt202204050002</link>
-            <guid>https://www.bloter.net/newsView/blt202204050002</guid>
-            <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-05 08:55:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
