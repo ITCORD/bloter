@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[골목대장 카카오]①로블록스·제페토 앞서가는데…구체적 그림없는 남궁훈표 '메타버스']]></title>
+            <link>https://www.bloter.net/newsView/blt202204060079</link>
+            <guid>https://www.bloter.net/newsView/blt202204060079</guid>
+            <pubDate>Wed, 06 Apr 2022 08:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-06 17:21:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060019.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임인사이드]넥슨 히든카드 '프로젝트 DR', 4년 전 타이틀 그대로]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060029</link>
+            <guid>https://www.bloter.net/newsView/blt202204060029</guid>
+            <pubDate>Wed, 06 Apr 2022 08:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-06 13:53:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060011.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['러시아' 지우는 워게이밍, '매출 1위 시장' 포기한 사정은]]></title>
             <link>https://www.bloter.net/newsView/blt202204060014</link>
             <guid>https://www.bloter.net/newsView/blt202204060014</guid>
             <pubDate>Wed, 06 Apr 2022 02:57:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-06 10:56:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[양향자의 과학기술패권국가] ②정치와 과학 분리해야…부총리제, 선택 아닌 의무]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-05 08:55:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘표현의 자유’ 지적한 일론 머스크, 트위터 최대 주주 등극]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050001</link>
-            <guid>https://www.bloter.net/newsView/blt202204050001</guid>
-            <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 08:44:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['임상유전체 전문' GC녹십자 지놈이 사명 변경으로 노리는 것]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040269</link>
-            <guid>https://www.bloter.net/newsView/blt202204040269</guid>
-            <pubDate>Mon, 04 Apr 2022 10:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-04 19:06:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
