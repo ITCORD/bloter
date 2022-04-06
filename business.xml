@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 01:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코케미칼, 그린본드 1500억 최초 발행...유상증자금 활용한 '이자비용 절약법']]></title>
+            <link>https://www.bloter.net/newsView/blt202204050016</link>
+            <guid>https://www.bloter.net/newsView/blt202204050016</guid>
+            <pubDate>Wed, 06 Apr 2022 01:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-05 16:54:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050026.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 법무부, 다크웹 정보 판매자 400억원 가상자산 압수…‘역대 최대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050013</link>
+            <guid>https://www.bloter.net/newsView/blt202204050013</guid>
+            <pubDate>Wed, 06 Apr 2022 01:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 10:37:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050007.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[①미래 판가름할 5년…‘과기 컨트롤타워’ 절실]]></title>
             <link>https://www.bloter.net/newsView/blt202204050004</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 05 Apr 2022 02:56:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 08:44:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040263</link>
-            <guid>https://www.bloter.net/newsView/blt202204040263</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-04 18:17:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닻 올린 세아베스틸지주, 신규투자 '발목' 잡는 빡빡한 유동성]]></title>
-            <link>https://www.bloter.net/newsView/blt202204040193</link>
-            <guid>https://www.bloter.net/newsView/blt202204040193</guid>
-            <pubDate>Tue, 05 Apr 2022 01:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-04 17:36:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/04/blt202204040018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
