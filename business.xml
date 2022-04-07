@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소지품이 아닌 타인을 추적하는 애플 '에어태그'…미국서 스토킹에 활용]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070028</link>
+            <guid>https://www.bloter.net/newsView/blt202204070028</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-07 10:26:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼보컴퓨터, 관공서가 살려놨더니 ‘오너家’ 개인회사만 챙겼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060128</link>
+            <guid>https://www.bloter.net/newsView/blt202204060128</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 10:00:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060022.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[논란 휩싸인 삼성전자...'연간 이익률 20%' 회복 가능할까]]></title>
             <link>https://www.bloter.net/newsView/blt202204070013</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 07 Apr 2022 02:55:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-06 10:30:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 러시아 다크넷 암시장 폐쇄…300억 규모 비트코인 압류]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060011</link>
-            <guid>https://www.bloter.net/newsView/blt202204060011</guid>
-            <pubDate>Thu, 07 Apr 2022 02:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-06 10:28:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트위터' 최대주주된 일론 머스크, 이사회도 합류…인수 무게두나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060008</link>
-            <guid>https://www.bloter.net/newsView/blt202204060008</guid>
-            <pubDate>Thu, 07 Apr 2022 02:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-06 09:24:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
