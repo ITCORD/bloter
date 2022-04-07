@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 10:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KT 콘텐츠 볼륨업]③계열사 시너지, 밀리의서재 IPO로 이어질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070178</link>
+            <guid>https://www.bloter.net/newsView/blt202204070178</guid>
+            <pubDate>Thu, 07 Apr 2022 11:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070030.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KT 콘텐츠 볼륨업]②스튜디오지니·ENA 투트랙…OTT 시즌 매각하나]]></title>
             <link>https://www.bloter.net/newsView/blt202204070123</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 03 Apr 2022 11:17:12 GMT</pubDate>
             <content:encoded><![CDATA[T1에게 선취점을 내줬던 젠지가 경기를 원점으로 되돌렸다. 2세트에서 '쵸비' 정지훈의 '아리'가 빛을 발하며 팀워크를 살린 젠지가 승리를 따냈다.2일 킨텍스에서 열린 '2022 LCK 스프링 결승전' 2세트에서 젠지가 T1을 상대로 승리하며 게임 스코어를 1대1로 맞췄다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020014.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 스프링 결승]①'구마유시' 쿼드라킬, T1이 먼저 웃었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204020004</link>
-            <guid>https://www.bloter.net/newsView/blt202204020004</guid>
-            <pubDate>Sat, 02 Apr 2022 15:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[T1이 한타 싸움에서 젠지를 누르며 '2022 LCK 스프링' 결승전에서 먼저 웃었다.  양팀은 밴픽에서부터 전략적으로 임했다. 블루 진영의 젠지는 '도란' 최현준, '피넛' 한왕호 '쵸비' 정지훈, '룰러' 박재혁, '리헨즈' 손시우가 각각 '오른', '볼리베어', '빅토르', '카르마', ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
