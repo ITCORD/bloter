@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,12 +403,52 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[골목대장 카카오]③네이버 선점한 유럽 웹툰 시장서 '픽코마' 먹힐까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070006</link>
+            <guid>https://www.bloter.net/newsView/blt202204070006</guid>
+            <pubDate>Thu, 07 Apr 2022 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-07 10:07:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼보컴퓨터, 관공서가 살려놨더니 ‘오너家’ 개인회사만 챙겼다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060128</link>
+            <guid>https://www.bloter.net/newsView/blt202204060128</guid>
+            <pubDate>Thu, 07 Apr 2022 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 10:00:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060022.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[논란 휩싸인 삼성전자...'연간 이익률 20%' 회복 가능할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070013</link>
+            <guid>https://www.bloter.net/newsView/blt202204070013</guid>
+            <pubDate>Thu, 07 Apr 2022 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 09:50:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070004.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램, ‘크리에이터 지원금’ 줄였나…의혹 제기 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070005</link>
+            <guid>https://www.bloter.net/newsView/blt202204070005</guid>
+            <pubDate>Thu, 07 Apr 2022 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-07 09:13:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070002.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[해킹당한 엑시 인피니티…바이낸스서 투자 받아 보상금 낸다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070001</link>
+            <guid>https://www.bloter.net/newsView/blt202204070001</guid>
+            <pubDate>Thu, 07 Apr 2022 01:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-07 08:20:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[골목대장 카카오]②'글로벌 선봉장' 엔터테인먼트, 쥐꼬리 이익률 어쩌나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204060209</link>
             <guid>https://www.bloter.net/newsView/blt202204060209</guid>
             <pubDate>Wed, 06 Apr 2022 10:21:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-06 18:35:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060030.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘원전 폐기물’ 10만년 안전 보관 길 열었다…이창수 박사, 과학기술인상 수상 (블로터 ─ 테크)]]></title>
@@ -505,46 +545,6 @@
             <pubDate>Tue, 05 Apr 2022 08:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-05 17:22:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['DX 전환 가속화' LG CNS, 매출 64% 그룹서 나와 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050152</link>
-            <guid>https://www.bloter.net/newsView/blt202204050152</guid>
-            <pubDate>Tue, 05 Apr 2022 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-05 16:05:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S펜으로 웃고 GOS로 울고…삼성 '갤럭시S22' 美 판매량 살펴보니 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050039</link>
-            <guid>https://www.bloter.net/newsView/blt202204050039</guid>
-            <pubDate>Tue, 05 Apr 2022 05:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-05 14:06:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]미르4, '하이드라 결제' 오픈…인게임 이코노미 강화 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050035</link>
-            <guid>https://www.bloter.net/newsView/blt202204050035</guid>
-            <pubDate>Tue, 05 Apr 2022 05:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-05 13:43:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법무부, 다크웹 정보 판매자 400억원 가상자산 압수…‘역대 최대’ (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050013</link>
-            <guid>https://www.bloter.net/newsView/blt202204050013</guid>
-            <pubDate>Tue, 05 Apr 2022 02:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-05 10:37:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050007.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[양향자의 과학기술패권국가] ①미래 판가름할 5년…‘과기 컨트롤타워’ 절실 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050004</link>
-            <guid>https://www.bloter.net/newsView/blt202204050004</guid>
-            <pubDate>Tue, 05 Apr 2022 03:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-05 10:30:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
