@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,12 +400,20 @@ LG디스플레이는 OLED.EX 오는 2분기 자사 전체 라인업에 적용할
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['모바일·무인 세탁' 런드리고가 동네 세탁소와 상생하는 법 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080001</link>
+            <guid>https://www.bloter.net/newsView/blt202204080001</guid>
+            <pubDate>Thu, 07 Apr 2022 23:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-08 08:07:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일양약품, ‘요시케어’ 생동 임상 1상 승인…과민성방광약 경쟁력 확보 추진 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204070229</link>
             <guid>https://www.bloter.net/newsView/blt202204070229</guid>
             <pubDate>Thu, 07 Apr 2022 10:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-07 19:02:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT 콘텐츠 볼륨업]③계열사 시너지, 밀리의서재 IPO로 이어질까 (블로터 ─ 테크)]]></title>
@@ -534,14 +542,6 @@ LG디스플레이는 OLED.EX 오는 2분기 자사 전체 라인업에 적용할
             <pubDate>Thu, 07 Apr 2022 01:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-07 08:20:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[골목대장 카카오]②'글로벌 선봉장' 엔터테인먼트, 쥐꼬리 이익률 어쩌나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060209</link>
-            <guid>https://www.bloter.net/newsView/blt202204060209</guid>
-            <pubDate>Wed, 06 Apr 2022 10:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-06 18:35:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
