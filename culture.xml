@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 12:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 13:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]니트로·데브캣, 완전자본잠식?…지금은 투자 기간]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080454</link>
+            <guid>https://www.bloter.net/newsView/blt202204080454</guid>
+            <pubDate>Fri, 08 Apr 2022 13:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080024.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽게임즈·레고, '가족 친화적인' 어린이용 메타버스 구축한다]]></title>
             <link>https://www.bloter.net/newsView/blt202204080008</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 06 Apr 2022 04:27:18 GMT</pubDate>
             <content:encoded><![CDATA[시간이 없다면•패션기업 F&amp;F가 콘텐츠 제작사 빅텐츠의 지분 50.77%를 확보해 최대주주에 올랐습니다.•빅텐츠는 드라마 '달이 뜨는 강'을 통해 인지도를 높였고 현재 '대통령 정약용' 등 OTT용 콘텐츠 제작에 집중하고 있습니다.•다만 빅텐츠는 지난해 말]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/02/blt202204020004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]하이브, 콘서트 공백 채운 '콘텐츠' 성장 비결은]]></title>
-            <link>https://www.bloter.net/newsView/blt202203280176</link>
-            <guid>https://www.bloter.net/newsView/blt202203280176</guid>
-            <pubDate>Tue, 05 Apr 2022 15:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹 이후 하이브의 콘서트 공백을 채워준 효자 사업은 '콘텐츠'인 것으로 나타났다. 대면 공연이 불가능한 상황에서 공연 실황 블루레이, 다큐멘터리, 예능, 영화 등 온라인 콘텐츠 역량을 키운 성과가 나타났다. 콘텐츠는 코로나19 팬데믹 이전에 가장]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/03/28/blt202203280031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
