@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨라루스 해커 단체, 페이스북서 ‘우크라이나 항복’ 가짜 영상 확산시켜]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080004</link>
+            <guid>https://www.bloter.net/newsView/blt202204080004</guid>
+            <pubDate>Fri, 08 Apr 2022 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-08 08:39:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG엔솔, 수익성 악화…’인플레∙리콜∙전쟁’ 삼중고]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070172</link>
+            <guid>https://www.bloter.net/newsView/blt202204070172</guid>
+            <pubDate>Fri, 08 Apr 2022 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-07 17:04:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070029.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['일시 특허 수익' 더해진 LG전자, 1분기 최대 실적]]></title>
             <link>https://www.bloter.net/newsView/blt202204070164</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 07 Apr 2022 08:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-07 10:26:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼보컴퓨터, 관공서가 살려놨더니 ‘오너家’ 개인회사만 챙겼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060128</link>
-            <guid>https://www.bloter.net/newsView/blt202204060128</guid>
-            <pubDate>Thu, 07 Apr 2022 08:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 10:00:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060022.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[논란 휩싸인 삼성전자...'연간 이익률 20%' 회복 가능할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070013</link>
-            <guid>https://www.bloter.net/newsView/blt202204070013</guid>
-            <pubDate>Thu, 07 Apr 2022 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 09:50:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070004.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
