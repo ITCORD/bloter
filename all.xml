@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,14 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[블리자드, QA 직원 1100명 정규직 전환한다…"노조 결성과는 무관" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080005</link>
+            <guid>https://www.bloter.net/newsView/blt202204080005</guid>
+            <pubDate>Fri, 08 Apr 2022 01:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-08 09:22:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080003.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[벨라루스 해커 단체, 페이스북서 ‘우크라이나 항복’ 가짜 영상 확산시켜 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204080004</link>
             <guid>https://www.bloter.net/newsView/blt202204080004</guid>
@@ -370,14 +378,6 @@ T1 부스를 찾은 팬들이 차례를 기다리고 있다. (사진=채성오 �
             <pubDate>Thu, 07 Apr 2022 02:54:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-07 11:37:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소지품이 아닌 타인을 추적하는 애플 '에어태그'…미국서 스토킹에 활용 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070028</link>
-            <guid>https://www.bloter.net/newsView/blt202204070028</guid>
-            <pubDate>Thu, 07 Apr 2022 03:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-07 10:26:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
