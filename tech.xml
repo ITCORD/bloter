@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]하이브, '더 시티 프로젝트' 만든다…美 라스베이거스 중심]]></title>
+            <link>https://www.bloter.net/newsView/blt202204100002</link>
+            <guid>https://www.bloter.net/newsView/blt202204100002</guid>
+            <pubDate>Sun, 10 Apr 2022 06:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">미국 라스베이거스=안신혜</span>                        <span class="date">2022-04-10 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/10/blt202204100002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 탈출하는 IT 인재들…보안 당국에게 구금·심문 당해]]></title>
             <link>https://www.bloter.net/newsView/blt202204080453</link>
             <guid>https://www.bloter.net/newsView/blt202204080453</guid>
             <pubDate>Sun, 10 Apr 2022 05:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-10 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080022.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080022.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]NFT 진심인 샌드박스네트워크, '블록체인 전담조직' 만들까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 07 Apr 2022 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-07 17:07:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]애플스토어 3호점 명동의 키워드 '규모'와 '예술']]></title>
-            <link>https://www.bloter.net/newsView/blt202204070135</link>
-            <guid>https://www.bloter.net/newsView/blt202204070135</guid>
-            <pubDate>Thu, 07 Apr 2022 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-07 17:01:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
