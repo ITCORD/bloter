@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 03:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 04:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,7 +352,7 @@ TV 플랫폼별 K쇼핑 채널 번호 (자료=KT알파)
             <title><![CDATA[삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202204060002</link>
             <guid>https://www.bloter.net/newsView/blt202204060002</guid>
-            <pubDate>Sun, 10 Apr 2022 03:29:28 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2022 03:29:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-10 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060002.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -376,6 +376,14 @@ TV 플랫폼별 K쇼핑 채널 번호 (자료=KT알파)
             <guid>https://www.bloter.net/newsView/blt202108260022</guid>
             <pubDate>Sun, 10 Apr 2022 03:29:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[에픽게임즈·레고, '가족 친화적인' 어린이용 메타버스 구축한다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080008</link>
+            <guid>https://www.bloter.net/newsView/blt202204080008</guid>
+            <pubDate>Fri, 08 Apr 2022 01:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-08 10:00:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080004.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[블리자드, QA 직원 1100명 정규직 전환한다…"노조 결성과는 무관" (블로터 ─ 비즈니스)]]></title>
@@ -418,14 +426,6 @@ TV 플랫폼별 K쇼핑 채널 번호 (자료=KT알파)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070012.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[③과기부총리 도입 후 1호 과제 ‘인재 양성’ 삼아야 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204050028</link>
-            <guid>https://www.bloter.net/newsView/blt202204050028</guid>
-            <pubDate>Thu, 07 Apr 2022 02:54:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-07 11:37:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -465,7 +465,7 @@ TV 플랫폼별 K쇼핑 채널 번호 (자료=KT알파)
             <title><![CDATA[[넘버스]삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204060002</link>
             <guid>https://www.bloter.net/newsView/blt202204060002</guid>
-            <pubDate>Sun, 10 Apr 2022 03:31:48 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2022 03:29:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-10 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060002.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
