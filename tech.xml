@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 04:31:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 05:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 탈출하는 IT 인재들…보안 당국에게 구금·심문 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080453</link>
+            <guid>https://www.bloter.net/newsView/blt202204080453</guid>
+            <pubDate>Sun, 10 Apr 2022 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-10 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080022.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]NFT 진심인 샌드박스네트워크, '블록체인 전담조직' 만들까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060141</link>
+            <guid>https://www.bloter.net/newsView/blt202204060141</guid>
+            <pubDate>Sun, 10 Apr 2022 05:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-10 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060023.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는?]]></title>
             <link>https://www.bloter.net/newsView/blt202204060002</link>
             <guid>https://www.bloter.net/newsView/blt202204060002</guid>
             <pubDate>Sun, 10 Apr 2022 03:31:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-10 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[함께 쓰는 풀리퀘]그 비밀번호가 안전하지 않은 이유①]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 07 Apr 2022 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-07 17:01:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일시 특허 수익' 더해진 LG전자, 1분기 최대 실적]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070164</link>
-            <guid>https://www.bloter.net/newsView/blt202204070164</guid>
-            <pubDate>Thu, 07 Apr 2022 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 16:48:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070028.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT 콘텐츠 볼륨업]②스튜디오지니·ENA 투트랙…OTT 시즌 매각하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070123</link>
-            <guid>https://www.bloter.net/newsView/blt202204070123</guid>
-            <pubDate>Thu, 07 Apr 2022 07:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-07 15:54:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
