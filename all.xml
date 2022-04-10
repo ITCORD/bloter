@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 07:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 08:31:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@ LG전자 인포테인먼트 시스템이 탑재된 메르세데스 벤츠 2022�
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[샌드박스네트워크, 팬덤 기반 NFT 한다지만…팬 이끌 묘수 있나? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080274</link>
+            <guid>https://www.bloter.net/newsView/blt202204080274</guid>
+            <pubDate>Fri, 08 Apr 2022 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-08 17:35:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080013.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[물적분할 선언한 KT알파, 줄어든 영업이익 문제없나 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204080259</link>
             <guid>https://www.bloter.net/newsView/blt202204080259</guid>
@@ -412,14 +420,6 @@ LG전자 인포테인먼트 시스템이 탑재된 메르세데스 벤츠 2022�
             <pubDate>Thu, 07 Apr 2022 08:19:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-07 17:04:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070029.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일시 특허 수익' 더해진 LG전자, 1분기 최대 실적 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070164</link>
-            <guid>https://www.bloter.net/newsView/blt202204070164</guid>
-            <pubDate>Thu, 07 Apr 2022 08:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-07 16:48:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070028.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
