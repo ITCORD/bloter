@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]팬덤 플랫폼 '위버스'의 진화…BTS도 반했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110033</link>
+            <guid>https://www.bloter.net/newsView/blt202204110033</guid>
+            <pubDate>Mon, 11 Apr 2022 05:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 팬데믹이 장기화 되면서 공연 등 오프라인 콘서트 규모가 크게 위축됐다. 온라인을 통한 소통이 중요해지면서 '팬덤 플랫폼'은 단순히 팬과 아티스트를 이어주는 매개체를 넘어 일상을 함께 공유하는 '커뮤니케이션 플랫폼'으로 고도화되기 시작했다. 하이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110009.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]BORA 첫 P2E 골프 게임은 '버디샷'…'E&E'로 글로벌 정조준]]></title>
             <link>https://www.bloter.net/newsView/blt202204110030</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 22:17:48 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 게임 개발사 워게이밍이 러시아와 벨라루스 지역에서의 모든 사업을 철수하기로 했다. 해당 지역에서 진행하던 모든 사업에서 철수, 연결고리가 없는 레스타 스튜디오에 게임 사업을 넘긴다는 내용이 주요 골자다. 특히 주력 게임인 '월드 오브 탱크'의 경우]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060009.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트위터' 최대주주된 일론 머스크, 이사회도 합류…인수 무게두나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060008</link>
-            <guid>https://www.bloter.net/newsView/blt202204060008</guid>
-            <pubDate>Wed, 06 Apr 2022 04:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 '트위터' 이사회에 합류했다. 이는 머스크가 트위터 지분 9.2%를 취득해 최대주주가 됐다는 소식이 전해진 지 하루 만에 공개된 사실이다.  5일(현지시간) IT 전문매체 &lt;더버지&gt;는 미국 증권거래위원회(SEC) 자료를 인용해 머스]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
