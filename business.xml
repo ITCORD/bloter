@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브, 러시아 하원 의회 채널 폐쇄…‘반발’ 러, 차단 조치 확대하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110003</link>
+            <guid>https://www.bloter.net/newsView/blt202204110003</guid>
+            <pubDate>Mon, 11 Apr 2022 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 09:54:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110005.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 페이스북·인스타그램서 '개인 주거 정보' 공개 금지]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110001</link>
+            <guid>https://www.bloter.net/newsView/blt202204110001</guid>
+            <pubDate>Mon, 11 Apr 2022 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 09:00:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전장 강화하는 삼성전기, 파워트레인용 MLCC 라인업 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202204110002</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 11 Apr 2022 01:14:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-10 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050038.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 탈출하는 IT 인재들…보안 당국에게 구금·심문 당해]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080453</link>
-            <guid>https://www.bloter.net/newsView/blt202204080453</guid>
-            <pubDate>Mon, 11 Apr 2022 01:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-10 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080022.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060002</link>
-            <guid>https://www.bloter.net/newsView/blt202204060002</guid>
-            <pubDate>Sun, 10 Apr 2022 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-10 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
