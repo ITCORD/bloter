@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뉴욕 창고'서 시작된 '아마존 노조 설립' 움직임, '나비효과' 일으킬까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080458</link>
+            <guid>https://www.bloter.net/newsView/blt202204080458</guid>
+            <pubDate>Mon, 11 Apr 2022 01:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-10 18:05:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/10/blt202204100003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[수익사업 늘고 광고비 줄어든 SK브로드밴드, 지속성장 '청신호']]></title>
+            <link>https://www.bloter.net/newsView/blt202204040270</link>
+            <guid>https://www.bloter.net/newsView/blt202204040270</guid>
+            <pubDate>Mon, 11 Apr 2022 01:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-10 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050038.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 탈출하는 IT 인재들…보안 당국에게 구금·심문 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080453</link>
+            <guid>https://www.bloter.net/newsView/blt202204080453</guid>
+            <pubDate>Mon, 11 Apr 2022 01:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-10 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080022.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는?]]></title>
             <link>https://www.bloter.net/newsView/blt202204060002</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 10 Apr 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-08 17:35:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080013.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[물적분할 선언한 KT알파, 줄어든 영업이익 문제없나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080259</link>
-            <guid>https://www.bloter.net/newsView/blt202204080259</guid>
-            <pubDate>Sun, 10 Apr 2022 05:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-08 17:34:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈·레고, '가족 친화적인' 어린이용 메타버스 구축한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080008</link>
-            <guid>https://www.bloter.net/newsView/blt202204080008</guid>
-            <pubDate>Sun, 10 Apr 2022 04:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-08 10:00:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블리자드, QA 직원 1100명 정규직 전환한다…"노조 결성과는 무관"]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080005</link>
-            <guid>https://www.bloter.net/newsView/blt202204080005</guid>
-            <pubDate>Sat, 09 Apr 2022 04:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-08 09:22:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
