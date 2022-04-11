@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'당근마켓' 순손실이 3배 늘어난 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110265</link>
+            <guid>https://www.bloter.net/newsView/blt202204110265</guid>
+            <pubDate>Mon, 11 Apr 2022 10:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-11 18:47:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['반도체 전문가' 이종호 과기부 장관 후보자에 통신·인터넷·과학계가 바라는 것]]></title>
             <link>https://www.bloter.net/newsView/blt202204110130</link>
             <guid>https://www.bloter.net/newsView/blt202204110130</guid>
             <pubDate>Mon, 11 Apr 2022 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">정두용</span>                        <span class="date">2022-04-11 17:27:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후펀드 조성에 크래프톤·스타일쉐어 창업자 뭉친 사연은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 10 Apr 2022 05:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-10 14:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080022.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]NFT 진심인 샌드박스네트워크, '블록체인 전담조직' 만들까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060141</link>
-            <guid>https://www.bloter.net/newsView/blt202204060141</guid>
-            <pubDate>Sun, 10 Apr 2022 05:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-10 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
