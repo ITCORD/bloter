@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 01:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]BORA 첫 P2E 골프 게임은 '버디샷'…'E&E'로 글로벌 정조준]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110030</link>
+            <guid>https://www.bloter.net/newsView/blt202204110030</guid>
+            <pubDate>Mon, 11 Apr 2022 03:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-11 11:54:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 ‘N-ERP’, 데이터 처리·AI로 업무시간 5분의 4 줄였다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110027</link>
+            <guid>https://www.bloter.net/newsView/blt202204110027</guid>
+            <pubDate>Mon, 11 Apr 2022 03:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-11 11:49:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110007.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플은 신규 운영체제 ‘iOS16’서 무엇을 추가할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110006</link>
+            <guid>https://www.bloter.net/newsView/blt202204110006</guid>
+            <pubDate>Mon, 11 Apr 2022 03:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 10:23:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110006.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브, 러시아 하원 의회 채널 폐쇄…‘반발’ 러, 차단 조치 확대하나]]></title>
             <link>https://www.bloter.net/newsView/blt202204110003</link>
             <guid>https://www.bloter.net/newsView/blt202204110003</guid>
             <pubDate>Mon, 11 Apr 2022 01:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 09:54:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타, 페이스북·인스타그램서 '개인 주거 정보' 공개 금지]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Fri, 08 Apr 2022 10:23:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-08 18:32:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샌드박스네트워크, 팬덤 기반 NFT 한다지만…팬 이끌 묘수 있나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080274</link>
-            <guid>https://www.bloter.net/newsView/blt202204080274</guid>
-            <pubDate>Fri, 08 Apr 2022 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-08 17:35:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]물적분할 선언한 KT알파, 줄어든 영업이익 문제없나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080259</link>
-            <guid>https://www.bloter.net/newsView/blt202204080259</guid>
-            <pubDate>Fri, 08 Apr 2022 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-08 17:34:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 돋보기]코딩교육하다 메타버스 창작툴 만든 '레드브릭']]></title>
-            <link>https://www.bloter.net/newsView/blt202204080104</link>
-            <guid>https://www.bloter.net/newsView/blt202204080104</guid>
-            <pubDate>Fri, 08 Apr 2022 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-08 17:33:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080018.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
