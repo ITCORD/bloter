@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['당근마켓' 순손실이 3배 늘어난 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110265</link>
+            <guid>https://www.bloter.net/newsView/blt202204110265</guid>
+            <pubDate>Tue, 12 Apr 2022 06:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-11 18:47:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후펀드 조성에 크래프톤·스타일쉐어 창업자 뭉친 사연은?]]></title>
             <link>https://www.bloter.net/newsView/blt202204110045</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 11 Apr 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 09:54:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 페이스북·인스타그램서 '개인 주거 정보' 공개 금지]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110001</link>
-            <guid>https://www.bloter.net/newsView/blt202204110001</guid>
-            <pubDate>Mon, 11 Apr 2022 09:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 09:00:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

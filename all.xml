@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,40 +268,48 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110001.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타, VR 플랫폼서 디지털 상품 판매 개시…"메타버스 향한 발걸음" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120005</link>
-            <guid>https://www.bloter.net/newsView/blt202204120005</guid>
-            <pubDate>Tue, 12 Apr 2022 01:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-12 10:01:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120004.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[최태원 회장, 이혼 판결 전 일부 주식 처분 못 한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204120025</link>
+            <guid>https://www.bloter.net/newsView/blt202204120025</guid>
+            <pubDate>Tue, 12 Apr 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-12 15:09:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120009.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메타버스용 AI 번역 기술 개발나선 메타 "비인기 언어도 아우를 것" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240012</link>
-            <guid>https://www.bloter.net/newsView/blt202202240012</guid>
-            <pubDate>Tue, 12 Apr 2022 01:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[수익사업 늘고 광고비 줄어든 SK브로드밴드, 지속성장 '청신호' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040270</link>
+            <guid>https://www.bloter.net/newsView/blt202204040270</guid>
+            <pubDate>Tue, 12 Apr 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타버스 속 괴롭힘 막아라…MS, 아바타 대화공간 제거 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202170006</link>
-            <guid>https://www.bloter.net/newsView/blt202202170006</guid>
-            <pubDate>Tue, 12 Apr 2022 01:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK하이닉스-솔리다임, 첫 합작 제품은 '기업용 SSD' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050002</link>
+            <guid>https://www.bloter.net/newsView/blt202204050002</guid>
+            <pubDate>Tue, 12 Apr 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[메타, VR 광학기술 기업 이매진옵틱스 인수...“오큘러스 더 작게” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112220054</link>
-            <guid>https://www.bloter.net/newsView/blt202112220054</guid>
-            <pubDate>Tue, 12 Apr 2022 01:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['SK스퀘어 수혈'받은 SK쉴더스…몸값 얼마? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040263</link>
+            <guid>https://www.bloter.net/newsView/blt202204040263</guid>
+            <pubDate>Tue, 12 Apr 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북, 메타버스앱 '호라이즌 월드' 모두에게 개방 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202112100001</link>
-            <guid>https://www.bloter.net/newsView/blt202112100001</guid>
-            <pubDate>Tue, 12 Apr 2022 01:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK온, 전기차 1대당 10개 들어가는 '배터리 칩' 자체 개발 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204040015</link>
+            <guid>https://www.bloter.net/newsView/blt202204040015</guid>
+            <pubDate>Tue, 12 Apr 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['당근마켓' 순손실이 3배 늘어난 이유 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110265</link>
+            <guid>https://www.bloter.net/newsView/blt202204110265</guid>
+            <pubDate>Mon, 11 Apr 2022 10:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-11 18:47:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후펀드 조성에 크래프톤·스타일쉐어 창업자 뭉친 사연은? (블로터 ─ 비즈니스)]]></title>
@@ -344,14 +352,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110005.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타, 페이스북·인스타그램서 '개인 주거 정보' 공개 금지 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110001</link>
-            <guid>https://www.bloter.net/newsView/blt202204110001</guid>
-            <pubDate>Mon, 11 Apr 2022 01:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 09:00:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -391,7 +391,7 @@
             <title><![CDATA[유럽 외 '싹쓸이'…LG전자, 차량용 통신장비 글로벌 1위 탈환 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204120016</link>
             <guid>https://www.bloter.net/newsView/blt202204120016</guid>
-            <pubDate>Tue, 12 Apr 2022 05:17:32 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 05:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-12 14:12:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120006.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
