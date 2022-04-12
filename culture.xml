@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 23:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 01:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, VR 플랫폼서 디지털 상품 판매 개시…"메타버스 향한 발걸음"]]></title>
+            <link>https://www.bloter.net/newsView/blt202204120005</link>
+            <guid>https://www.bloter.net/newsView/blt202204120005</guid>
+            <pubDate>Tue, 12 Apr 2022 01:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 가상현실(VR) 플랫폼 '호라이즌 월드'에서 크리에이터를 대상으로 수익화 도구 시범 운영을 시작했다. 호라이즌 월드는 메타의 VR 기기인 '오큘러스' 기반의 소셜 플랫폼으로 아바타를 만들어 활동할 수 있다. 11일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 "이 날]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120004.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, '최고예요' 버튼 추가…큐레이션 서비스 고도화]]></title>
+            <link>https://www.bloter.net/newsView/blt202204120001</link>
+            <guid>https://www.bloter.net/newsView/blt202204120001</guid>
+            <pubDate>Tue, 12 Apr 2022 01:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 콘텐츠를 추천해 주는 큐레이션 서비스를 강화하기 위해 '최고예요'(Two Thumbs Up) 기능을 추가했다.  11일(현지시간) IT 전문매체 &lt;더버지&gt;는 넷플릭스가 기존의 '좋아요'와 '마음에 안 들어요' 버튼 옆에 '최고예요' 기능을 적용했다고 전했다. 최고예요]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]성장한 만큼 올려달라는 노조, 웹젠은 응답할까]]></title>
             <link>https://www.bloter.net/newsView/blt202204110288</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 07 Apr 2022 05:18:51 GMT</pubDate>
             <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, ‘크리에이터 지원금’ 줄였나…의혹 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070005</link>
-            <guid>https://www.bloter.net/newsView/blt202204070005</guid>
-            <pubDate>Thu, 07 Apr 2022 03:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램의 숏폼 콘텐츠인 ‘릴스’를 만드는 크리에이터들이 창작 활동으로 받는 지원금이 대폭 줄었다는 의혹을 제기했다.6일(현지시간) 영국 경제지 &lt;파이낸셜 타임즈&gt;에 따르면 최근 몇 주 동안 크리에이터들에게 지급되는 자금은 최대 70%가량 줄]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070002.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]넥슨 히든카드 '프로젝트 DR', 4년 전 타이틀 그대로]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060029</link>
-            <guid>https://www.bloter.net/newsView/blt202204060029</guid>
-            <pubDate>Fri, 08 Apr 2022 22:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
