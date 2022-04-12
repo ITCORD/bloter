@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라, 변전소 해킹 시도한 러시아 공격 차단]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130002</link>
+            <guid>https://www.bloter.net/newsView/blt202204130002</guid>
+            <pubDate>Tue, 12 Apr 2022 23:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-13 08:08:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방통위에 '법 준수'하겠단 구글…인앱결제 강제 철회할까]]></title>
             <link>https://www.bloter.net/newsView/blt202204120082</link>
             <guid>https://www.bloter.net/newsView/blt202204120082</guid>
             <pubDate>Tue, 12 Apr 2022 10:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-12 18:56:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티는 어떻게 '흑자 전환'했나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 11 Apr 2022 08:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-11 14:52:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]팬덤 플랫폼 '위버스'의 진화…BTS도 반했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110033</link>
-            <guid>https://www.bloter.net/newsView/blt202204110033</guid>
-            <pubDate>Mon, 11 Apr 2022 08:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">미국 라스베이거스=안신혜</span>                        <span class="date">2022-04-11 14:22:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

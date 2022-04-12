@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 23:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[카카오모빌리티는 어떻게 '흑자 전환'했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120077</link>
-            <guid>https://www.bloter.net/newsView/blt202204120077</guid>
-            <pubDate>Tue, 12 Apr 2022 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-12 18:06:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120016.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우크라, 변전소 해킹 시도한 러시아 공격 차단]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130002</link>
+            <guid>https://www.bloter.net/newsView/blt202204130002</guid>
+            <pubDate>Tue, 12 Apr 2022 23:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-13 08:08:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[택시단체, 카카오모빌리티에 '택시면허 전환사업' 중단 촉구...왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120023</link>
-            <guid>https://www.bloter.net/newsView/blt202204120023</guid>
-            <pubDate>Tue, 12 Apr 2022 08:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[유튜브, 러시아 하원 의회 채널 폐쇄…‘반발’ 러, 차단 조치 확대하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110003</link>
+            <guid>https://www.bloter.net/newsView/blt202204110003</guid>
+            <pubDate>Tue, 12 Apr 2022 23:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상생기금 집행 늦어지는 '카카오모빌리티', 상장은 언제?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070063</link>
-            <guid>https://www.bloter.net/newsView/blt202204070063</guid>
-            <pubDate>Tue, 12 Apr 2022 08:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[러시아 탈출하는 IT 인재들…보안 당국에게 구금·심문 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080453</link>
+            <guid>https://www.bloter.net/newsView/blt202204080453</guid>
+            <pubDate>Tue, 12 Apr 2022 23:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상장 시동 거는 '카카오모빌리티'...상생안·해외상장 검토 돌입]]></title>
-            <link>https://www.bloter.net/newsView/blt202203160396</link>
-            <guid>https://www.bloter.net/newsView/blt202203160396</guid>
-            <pubDate>Tue, 12 Apr 2022 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[미국, 러시아 다크넷 암시장 폐쇄…300억 규모 비트코인 압류]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060011</link>
+            <guid>https://www.bloter.net/newsView/blt202204060011</guid>
+            <pubDate>Tue, 12 Apr 2022 23:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나, 러시아 침공 이후 최대 규모 통신 장애 겪어]]></title>
+            <link>https://www.bloter.net/newsView/blt202203040002</link>
+            <guid>https://www.bloter.net/newsView/blt202203040002</guid>
+            <pubDate>Tue, 12 Apr 2022 23:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
