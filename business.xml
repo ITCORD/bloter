@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 인도서 '아이폰13' 생산 시작…공급망 다각화·현지제작 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202204120002</link>
+            <guid>https://www.bloter.net/newsView/blt202204120002</guid>
+            <pubDate>Tue, 12 Apr 2022 08:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-12 09:14:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, '최고예요' 버튼 추가…큐레이션 서비스 고도화]]></title>
             <link>https://www.bloter.net/newsView/blt202204120001</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 12 Apr 2022 01:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-11 11:49:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플은 신규 운영체제 ‘iOS16’서 무엇을 추가할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110006</link>
-            <guid>https://www.bloter.net/newsView/blt202204110006</guid>
-            <pubDate>Mon, 11 Apr 2022 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-11 10:23:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
