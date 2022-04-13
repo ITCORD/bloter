@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]카카오 미래 먹거리 '엔터프라이즈', 아직은 '수혈중']]></title>
+            <link>https://www.bloter.net/newsView/blt202204130028</link>
+            <guid>https://www.bloter.net/newsView/blt202204130028</guid>
+            <pubDate>Wed, 13 Apr 2022 07:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-13 16:00:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130030.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT, 원격의료 사업지로 베트남 낙점한 사연은?]]></title>
             <link>https://www.bloter.net/newsView/blt202204130026</link>
             <guid>https://www.bloter.net/newsView/blt202204130026</guid>
             <pubDate>Wed, 13 Apr 2022 05:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-13 14:09:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀트리온, 아바스틴 복제약 3상서 동등성 입증…항암제 경쟁력 강화]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 11 Apr 2022 11:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-11 19:27:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]'당근마켓' 순손실이 3배 늘어난 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110265</link>
-            <guid>https://www.bloter.net/newsView/blt202204110265</guid>
-            <pubDate>Mon, 11 Apr 2022 10:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-11 18:47:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
