@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 16:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 17:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,12 +378,20 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[국내 슈퍼컴퓨터로 찾은 ‘기후가 인류 진화에 미친 영향’…네이처 게재 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130134</link>
+            <guid>https://www.bloter.net/newsView/blt202204130134</guid>
+            <pubDate>Wed, 13 Apr 2022 17:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-14 01:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130043.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204130135</link>
             <guid>https://www.bloter.net/newsView/blt202204130135</guid>
             <pubDate>Wed, 13 Apr 2022 12:32:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-13 21:21:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130044.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임인사이드]'로스트아크' 어디까지 성장할까 (블로터 ─ 테크)]]></title>
@@ -512,14 +520,6 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <pubDate>Tue, 12 Apr 2022 07:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-12 15:50:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 35W 듀얼 충전어댑터 이미지 유출...'접이식·C타입' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120026</link>
-            <guid>https://www.bloter.net/newsView/blt202204120026</guid>
-            <pubDate>Tue, 12 Apr 2022 07:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-12 15:23:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -798,14 +798,6 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070014.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[게임인사이드]'로스트아크' 어디까지 성장할까 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130133</link>
-            <guid>https://www.bloter.net/newsView/blt202204130133</guid>
-            <pubDate>Wed, 13 Apr 2022 10:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130040.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[메타, VR 플랫폼서 디지털 상품 판매 개시…"메타버스 향한 발걸음" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204120005</link>
             <guid>https://www.bloter.net/newsView/blt202204120005</guid>
@@ -820,22 +812,6 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <pubDate>Tue, 12 Apr 2022 01:09:32 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 콘텐츠를 추천해 주는 큐레이션 서비스를 강화하기 위해 '최고예요'(Two Thumbs Up) 기능을 추가했다.  11일(현지시간) IT 전문매체 &lt;더버지&gt;는 넷플릭스가 기존의 '좋아요'와 '마음에 안 들어요' 버튼 옆에 '최고예요' 기능을 적용했다고 전했다. 최고예요]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]성장한 만큼 올려달라는 노조, 웹젠은 응답할까 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110288</link>
-            <guid>https://www.bloter.net/newsView/blt202204110288</guid>
-            <pubDate>Mon, 11 Apr 2022 11:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]팬덤 플랫폼 '위버스'의 진화…BTS도 반했다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110033</link>
-            <guid>https://www.bloter.net/newsView/blt202204110033</guid>
-            <pubDate>Mon, 11 Apr 2022 05:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 팬데믹이 장기화 되면서 공연 등 오프라인 콘서트 규모가 크게 위축됐다. 온라인을 통한 소통이 중요해지면서 '팬덤 플랫폼'은 단순히 팬과 아티스트를 이어주는 매개체를 넘어 일상을 함께 공유하는 '커뮤니케이션 플랫폼'으로 고도화되기 시작했다. 하이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110009.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]BORA 첫 P2E 골프 게임은 '버디샷'…'E&E'로 글로벌 정조준 (블로터 ─ 컬처)]]></title>
@@ -870,6 +846,14 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/06/blt202204060023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[게임인사이드]니트로·데브캣, 완전자본잠식?…지금은 투자 기간 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080454</link>
+            <guid>https://www.bloter.net/newsView/blt202204080454</guid>
+            <pubDate>Fri, 08 Apr 2022 10:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080024.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에픽게임즈·레고, '가족 친화적인' 어린이용 메타버스 구축한다 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204080008</link>
             <guid>https://www.bloter.net/newsView/blt202204080008</guid>
@@ -892,6 +876,22 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <pubDate>Fri, 08 Apr 2022 01:07:13 GMT</pubDate>
             <content:encoded><![CDATA[벨라루스와 연계된 해킹 단체가 우크라이나 군 관계자의 페이스북 계정을 해킹해 자국 군에 항복을 촉구하는 동영상을 올린 것으로 밝혀졌다.7일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 페이스북 운영사인 메타는 새로운 보안 보고서에서 벨라루스 정부와 연]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KT 콘텐츠 볼륨업]③계열사 시너지, 밀리의서재 IPO로 이어질까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070178</link>
+            <guid>https://www.bloter.net/newsView/blt202204070178</guid>
+            <pubDate>Thu, 07 Apr 2022 08:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070030.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KT 콘텐츠 볼륨업]②스튜디오지니·ENA 투트랙…OTT 시즌 매각하나 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070123</link>
+            <guid>https://www.bloter.net/newsView/blt202204070123</guid>
+            <pubDate>Thu, 07 Apr 2022 07:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]NFT 진심인 샌드박스네트워크, '블록체인 전담조직' 만들까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
