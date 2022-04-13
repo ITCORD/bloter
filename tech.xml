@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 11:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 12:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130135</link>
+            <guid>https://www.bloter.net/newsView/blt202204130135</guid>
+            <pubDate>Wed, 13 Apr 2022 12:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-13 21:21:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임인사이드]'로스트아크' 어디까지 성장할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130133</link>
+            <guid>https://www.bloter.net/newsView/blt202204130133</guid>
+            <pubDate>Wed, 13 Apr 2022 12:32:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-13 18:17:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130040.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[주담대는 은행서만 받는 게 아니다…삼성생명·화재까지 판 커지는 '담비']]></title>
             <link>https://www.bloter.net/newsView/blt202204130077</link>
             <guid>https://www.bloter.net/newsView/blt202204130077</guid>
             <pubDate>Wed, 13 Apr 2022 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-13 17:46:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130038.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[70대 2명 중 1명 인터넷 쓴다…TV·오프라인 만남 대안?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 12 Apr 2022 07:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-12 15:23:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽 외 '싹쓸이'…LG전자, 차량용 통신장비 글로벌 1위 탈환]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120016</link>
-            <guid>https://www.bloter.net/newsView/blt202204120016</guid>
-            <pubDate>Tue, 12 Apr 2022 05:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-12 14:12:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, VR 플랫폼서 디지털 상품 판매 개시…"메타버스 향한 발걸음"]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120005</link>
-            <guid>https://www.bloter.net/newsView/blt202204120005</guid>
-            <pubDate>Tue, 12 Apr 2022 01:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-12 10:01:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120004.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
