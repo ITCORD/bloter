@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 22:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,7 @@
             <link>https://www.bloter.net/newsView/blt202204140034</link>
             <guid>https://www.bloter.net/newsView/blt202204140034</guid>
             <pubDate>Thu, 14 Apr 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-04-14 17:20:04</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140045.601x301.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
