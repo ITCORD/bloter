@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[하이브랩소디]③김태호 COO, '엔터' 중심에서 'ICT'를 외치다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140034</link>
+            <guid>https://www.bloter.net/newsView/blt202204140034</guid>
+            <pubDate>Thu, 14 Apr 2022 08:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[엔터테인먼트 기업 '하이브'가 미국 라스베이거스에서 방탄소년단 콘서트와 이를 기반으로 한 '더 시티'(The CITY) 프로젝트를 진행 중인 가운데, 더 시티를 구현하는 과정에서 적용된 정보통신기술(ICT)을 꾸준히 선보이고 있다. 아티스트가 중심이 되는 엔터테인먼트]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140045.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷마블에프앤씨 가상자산 '큐브', 보안성 합격점 받았다]]></title>
             <link>https://www.bloter.net/newsView/blt202204140022</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 01:13:39 GMT</pubDate>
             <content:encoded><![CDATA[미국의 대형 게임회사 액티비전 블리자드(이하 블리자드)가 퍼블리싱과 사업부의 모든 비정규직 QA(품질향상) 직원을 정규직으로 전환한다고 발표했다. 7일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 이번 조치로 약 1100명의 직원은 4월 17일부로 최저 시급이 20달]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[벨라루스 해커 단체, 페이스북서 ‘우크라이나 항복’ 가짜 영상 확산시켜]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080004</link>
-            <guid>https://www.bloter.net/newsView/blt202204080004</guid>
-            <pubDate>Fri, 08 Apr 2022 01:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[벨라루스와 연계된 해킹 단체가 우크라이나 군 관계자의 페이스북 계정을 해킹해 자국 군에 항복을 촉구하는 동영상을 올린 것으로 밝혀졌다.7일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 페이스북 운영사인 메타는 새로운 보안 보고서에서 벨라루스 정부와 연]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
