@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 23:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 01:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오 미래 먹거리 '엔터프라이즈', 아직은 '수혈중']]></title>
+            <link>https://www.bloter.net/newsView/blt202204130028</link>
+            <guid>https://www.bloter.net/newsView/blt202204130028</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-13 16:00:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130030.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스타필드, 제페토에 메타버스 매장 열었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130015</link>
+            <guid>https://www.bloter.net/newsView/blt202204130015</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-13 10:33:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130023.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['CNN플러스' 초기 성적은 기대이하…일 이용자 수 1만명 미만]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130005</link>
+            <guid>https://www.bloter.net/newsView/blt202204130005</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-13 10:15:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터 주주, 일론 머스크 고소]]></title>
             <link>https://www.bloter.net/newsView/blt202204130003</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 13 Apr 2022 03:06:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-12 18:06:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택시단체, 카카오모빌리티에 '택시면허 전환사업' 중단 촉구...왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120023</link>
-            <guid>https://www.bloter.net/newsView/blt202204120023</guid>
-            <pubDate>Wed, 13 Apr 2022 03:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-12 16:31:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코스닥 설계자' 영입한 서울거래 비상장…'대체거래소' 설립 탄력]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120029</link>
-            <guid>https://www.bloter.net/newsView/blt202204120029</guid>
-            <pubDate>Wed, 13 Apr 2022 03:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-12 15:50:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태원 회장, 이혼 판결 전 일부 주식 처분 못 한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120025</link>
-            <guid>https://www.bloter.net/newsView/blt202204120025</guid>
-            <pubDate>Tue, 12 Apr 2022 23:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-12 15:09:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
