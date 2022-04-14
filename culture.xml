@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 러시아 서비스 중단했는데 ‘전쟁 찬성’ 콘텐츠 급증…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140004</link>
+            <guid>https://www.bloter.net/newsView/blt202204140004</guid>
+            <pubDate>Thu, 14 Apr 2022 03:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 바이트댄스가 운영하는 숏폼 플랫폼 틱톡이 러시아에서 서비스를 중단한다고 발표했지만 이 조치가 효과적이지 않다는 보고서 결과가 나왔다.13일(이하 현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 유럽 디지털 권리 단체인 ‘트래킹 익스포즈드(Tra]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140024.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, VR 플랫폼서 디지털 상품 판매 개시…"메타버스 향한 발걸음"]]></title>
             <link>https://www.bloter.net/newsView/blt202204120005</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Apr 2022 17:26:59 GMT</pubDate>
             <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT 콘텐츠 볼륨업]②스튜디오지니·ENA 투트랙…OTT 시즌 매각하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070123</link>
-            <guid>https://www.bloter.net/newsView/blt202204070123</guid>
-            <pubDate>Wed, 13 Apr 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

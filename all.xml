@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,7 +268,7 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <title><![CDATA[구글, 아이폰 유저 대상 ‘스위치 투 안드로이드’ 앱 출시 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202204140005</link>
             <guid>https://www.bloter.net/newsView/blt202204140005</guid>
-            <pubDate>Thu, 14 Apr 2022 01:17:47 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 09:51:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140025.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -299,6 +299,14 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <guid>https://www.bloter.net/newsView/blt202107060002</guid>
             <pubDate>Thu, 14 Apr 2022 01:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[주담대는 은행서만 받는 게 아니다…삼성생명·화재까지 판 커지는 '담비' (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130077</link>
+            <guid>https://www.bloter.net/newsView/blt202204130077</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-13 17:46:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130038.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오 미래 먹거리 '엔터프라이즈', 아직은 '수혈중' (블로터 ─ 비즈니스)]]></title>
@@ -341,14 +349,6 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티는 어떻게 '흑자 전환'했나 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120077</link>
-            <guid>https://www.bloter.net/newsView/blt202204120077</guid>
-            <pubDate>Tue, 12 Apr 2022 09:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-12 18:06:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -385,12 +385,76 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[LS전선아시아 최대 매출, 'UTP 사업'이 이끌었다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140009</link>
+            <guid>https://www.bloter.net/newsView/blt202204140009</guid>
+            <pubDate>Thu, 14 Apr 2022 03:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-14 11:23:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비전리스 삼성] ①삼성전자의 '세 가지 문제'와 '한 가지 이유' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140001</link>
+            <guid>https://www.bloter.net/newsView/blt202204140001</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-14 10:13:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140003.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 아이폰 유저 대상 ‘스위치 투 안드로이드’ 앱 출시 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140005</link>
+            <guid>https://www.bloter.net/newsView/blt202204140005</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 09:51:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140025.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]"커피 배달을 로봇이 한다고?"...로봇 실험실된 네이버 제2사옥 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140002</link>
+            <guid>https://www.bloter.net/newsView/blt202204140002</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-14 09:30:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140015.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]첨단 ICT와 휴머니즘의 공존...SKT 거점오피스 '스피어' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204120081</link>
+            <guid>https://www.bloter.net/newsView/blt202204120081</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-14 09:29:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[틱톡, 러시아 서비스 중단했는데 ‘전쟁 찬성’ 콘텐츠 급증…왜? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140004</link>
+            <guid>https://www.bloter.net/newsView/blt202204140004</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 09:12:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140024.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에 없던 ‘PTSD 치료제’…‘원리 규명’한 국내 연구진, 상용화 토대 마련 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204130063</link>
+            <guid>https://www.bloter.net/newsView/blt202204130063</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-14 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130036.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 노조 설립 투표 앞둔 창고서 '반노조 캠페인' 의혹 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140003</link>
+            <guid>https://www.bloter.net/newsView/blt202204140003</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 08:09:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140023.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[국내 슈퍼컴퓨터로 찾은 ‘기후가 인류 진화에 미친 영향’…네이처 게재 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204130134</link>
             <guid>https://www.bloter.net/newsView/blt202204130134</guid>
             <pubDate>Wed, 13 Apr 2022 17:23:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-14 01:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130043.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130043.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다 (블로터 ─ 테크)]]></title>
@@ -463,70 +527,6 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <pubDate>Wed, 13 Apr 2022 03:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-13 10:15:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 주주, 일론 머스크 고소 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130003</link>
-            <guid>https://www.bloter.net/newsView/blt202204130003</guid>
-            <pubDate>Wed, 13 Apr 2022 03:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-13 09:08:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라, 변전소 해킹 시도한 러시아 공격 차단 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130002</link>
-            <guid>https://www.bloter.net/newsView/blt202204130002</guid>
-            <pubDate>Tue, 12 Apr 2022 23:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-13 08:08:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위에 '법 준수'하겠다는 구글…인앱결제 강제 철회할까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120082</link>
-            <guid>https://www.bloter.net/newsView/blt202204120082</guid>
-            <pubDate>Tue, 12 Apr 2022 10:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-12 18:56:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티는 어떻게 '흑자 전환'했나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120077</link>
-            <guid>https://www.bloter.net/newsView/blt202204120077</guid>
-            <pubDate>Tue, 12 Apr 2022 09:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-12 18:06:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지쯔 '36 큐비트 양자 시뮬레이터'의 의미 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120078</link>
-            <guid>https://www.bloter.net/newsView/blt202204120078</guid>
-            <pubDate>Tue, 12 Apr 2022 09:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-12 17:55:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼바·대웅제약도 도입한 ‘오픈이노베이션’…AI로 ‘신약’ 찾고, 투자 활발 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120052</link>
-            <guid>https://www.bloter.net/newsView/blt202204120052</guid>
-            <pubDate>Tue, 12 Apr 2022 08:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-12 17:18:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택시단체, 카카오모빌리티에 '택시면허 전환사업' 중단 촉구...왜? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120023</link>
-            <guid>https://www.bloter.net/newsView/blt202204120023</guid>
-            <pubDate>Tue, 12 Apr 2022 08:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-12 16:31:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코스닥 설계자' 영입한 서울거래 비상장…'대체거래소' 설립 탄력 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120029</link>
-            <guid>https://www.bloter.net/newsView/blt202204120029</guid>
-            <pubDate>Tue, 12 Apr 2022 07:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-12 15:50:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -804,6 +804,14 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110009.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[틱톡, 러시아 서비스 중단했는데 ‘전쟁 찬성’ 콘텐츠 급증…왜? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140004</link>
+            <guid>https://www.bloter.net/newsView/blt202204140004</guid>
+            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 바이트댄스가 운영하는 숏폼 플랫폼 틱톡이 러시아에서 서비스를 중단한다고 발표했지만 이 조치가 효과적이지 않다는 보고서 결과가 나왔다.13일(이하 현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 유럽 디지털 권리 단체인 ‘트래킹 익스포즈드(Tra]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140024.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[메타, VR 플랫폼서 디지털 상품 판매 개시…"메타버스 향한 발걸음" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204120005</link>
             <guid>https://www.bloter.net/newsView/blt202204120005</guid>
@@ -890,14 +898,6 @@ LG전자가 2020년 전세계 '차량용 통신장비(TCU)' 시장에서 시장�
             <pubDate>Thu, 07 Apr 2022 08:19:50 GMT</pubDate>
             <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT 콘텐츠 볼륨업]②스튜디오지니·ENA 투트랙…OTT 시즌 매각하나 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070123</link>
-            <guid>https://www.bloter.net/newsView/blt202204070123</guid>
-            <pubDate>Thu, 07 Apr 2022 07:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
