@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 03:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]넷마블에프앤씨 가상자산 '큐브', 보안성 합격점 받았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140022</link>
+            <guid>https://www.bloter.net/newsView/blt202204140022</guid>
+            <pubDate>Thu, 14 Apr 2022 04:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블에프앤씨의 가상자산 '큐브'(CUBE, 구 아이텀 큐브)가 보안기업 '서틱'(CIRTIK)의 보안 안전성 검사에서 합격점을 받은 것으로 확인됐다.14일 &lt;블로터&gt; 취재 결과, 큐브는 서틱에서 진행한 보안 검사에서 92점(100점 만점 기준)을 받았다. 이번 보안 검사로 큐브]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140029.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 러시아 서비스 중단했는데 ‘전쟁 찬성’ 콘텐츠 급증…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202204140004</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 01:13:39 GMT</pubDate>
             <content:encoded><![CDATA[벨라루스와 연계된 해킹 단체가 우크라이나 군 관계자의 페이스북 계정을 해킹해 자국 군에 항복을 촉구하는 동영상을 올린 것으로 밝혀졌다.7일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 페이스북 운영사인 메타는 새로운 보안 보고서에서 벨라루스 정부와 연]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT 콘텐츠 볼륨업]③계열사 시너지, 밀리의서재 IPO로 이어질까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204070178</link>
-            <guid>https://www.bloter.net/newsView/blt202204070178</guid>
-            <pubDate>Wed, 13 Apr 2022 17:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 3월 'KT스튜디오지니' 출범을 알리며 콘텐츠 시장에 출사표를 던진 KT가 대대적인 변화를 예고했습니다. OTT 플랫폼 '시즌' 출범, KT스튜디오 지니 중심의 수직계열화, HCN·밀리의서재·미디어지니 인수 등 KT그룹은 콘텐츠 중심의 미디어 사업을 강화하]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
