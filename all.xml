@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 01:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -447,12 +447,52 @@ KT AICC 솔루션 리스트. (자료=디지털X 서밋 갈무리)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[ESG 해부]LG디스플레이, 애플 '탄소 중립화 계획' 참여 공식화 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150005</link>
+            <guid>https://www.bloter.net/newsView/blt202204150005</guid>
+            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-15 09:59:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150005.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[틱톡 대항마 '쇼츠'에 공들이는 유튜브…"타인 영상 리믹스 기능 도입" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150007</link>
+            <guid>https://www.bloter.net/newsView/blt202204150007</guid>
+            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 09:54:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150003.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 7천억 규모 '엑시 인피니티' 해킹 배후로 北 연계 '라자루스' 지목 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150002</link>
+            <guid>https://www.bloter.net/newsView/blt202204150002</guid>
+            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 08:49:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150002.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]전봇대에 갑자기 '쾅', 제주 기아 EV6 전기차 차주 "급발진" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204140025</link>
+            <guid>https://www.bloter.net/newsView/blt202204140025</guid>
+            <pubDate>Thu, 14 Apr 2022 23:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span><span class="writer">이일호</span>                        <span class="date">2022-04-15 08:06:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140034.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터에 인수 제안한 일론 머크스...왜? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150001</link>
+            <guid>https://www.bloter.net/newsView/blt202204150001</guid>
+            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 07:59:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130002.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[비전리스 삼성] ②“삼성전자 노트북, 스벅에서 못 쓰나요?”...입장권 '밈' 왜 생겼나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204050055</link>
             <guid>https://www.bloter.net/newsView/blt202204050055</guid>
             <pubDate>Thu, 14 Apr 2022 22:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-15 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050016.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050016.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[하이브랩소디]③김태호 COO, '엔터' 중심에서 'ICT'를 외치다 (블로터 ─ 테크)]]></title>
@@ -549,46 +589,6 @@ KT AICC 솔루션 리스트. (자료=디지털X 서밋 갈무리)
             <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 09:12:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140024.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에 없던 ‘PTSD 치료제’…‘원리 규명’한 국내 연구진, 상용화 토대 마련 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130063</link>
-            <guid>https://www.bloter.net/newsView/blt202204130063</guid>
-            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-14 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 노조 설립 투표 앞둔 창고서 '반노조 캠페인' 의혹 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140003</link>
-            <guid>https://www.bloter.net/newsView/blt202204140003</guid>
-            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 08:09:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140023.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 슈퍼컴퓨터로 찾은 ‘기후가 인류 진화에 미친 영향’…네이처 게재 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130134</link>
-            <guid>https://www.bloter.net/newsView/blt202204130134</guid>
-            <pubDate>Wed, 13 Apr 2022 17:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-14 01:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130043.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130135</link>
-            <guid>https://www.bloter.net/newsView/blt202204130135</guid>
-            <pubDate>Wed, 13 Apr 2022 12:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-13 21:21:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'로스트아크' 어디까지 성장할까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130133</link>
-            <guid>https://www.bloter.net/newsView/blt202204130133</guid>
-            <pubDate>Wed, 13 Apr 2022 10:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-13 18:17:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130040.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -866,6 +866,22 @@ KT AICC 솔루션 리스트. (자료=디지털X 서밋 갈무리)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130040.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[틱톡 대항마 '쇼츠'에 공들이는 유튜브…"타인 영상 리믹스 기능 도입" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150007</link>
+            <guid>https://www.bloter.net/newsView/blt202204150007</guid>
+            <pubDate>Fri, 15 Apr 2022 01:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 틱톡 대항마로 출시한 ‘유튜브 쇼츠(Shorts)’가 새 콘텐츠를 만들 때 타인의 영상을 사용할 수 있는 기능을 도입했다.14일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 유튜브는 기존의 ‘리믹스’ 기능을 확대해 크리에이터들이 새로운]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150003.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터에 인수 제안한 일론 머크스...왜? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150001</link>
+            <guid>https://www.bloter.net/newsView/blt202204150001</guid>
+            <pubDate>Fri, 15 Apr 2022 01:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[트위터에 인수·합병(M&amp;A)을 제안한 일론 머스크 테슬라 최고경영자 (CEO)가 제안 배경에 대해 트위터가 갖는 공익적 가치 때문이라고 주장했다.14일(현지시간) IT 전문매체 &lt;엔가젯&gt; 등에 따르면 머스크는 이날 캐나다 밴쿠버에서 열린 글로벌 강연 플랫폼]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130002.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[틱톡, 러시아 서비스 중단했는데 ‘전쟁 찬성’ 콘텐츠 급증…왜? (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204140004</link>
             <guid>https://www.bloter.net/newsView/blt202204140004</guid>
@@ -944,22 +960,6 @@ KT AICC 솔루션 리스트. (자료=디지털X 서밋 갈무리)
             <pubDate>Fri, 08 Apr 2022 10:23:04 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈·레고, '가족 친화적인' 어린이용 메타버스 구축한다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080008</link>
-            <guid>https://www.bloter.net/newsView/blt202204080008</guid>
-            <pubDate>Fri, 08 Apr 2022 01:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘포트나이트’ 개발사 에픽게임즈와 글로벌 완구 회사 레고가 어린이들을 위한 메타버스를 구축한다.  7일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 양사는 가족 친화적인 가상 세계를 구축해 “아이들과 가족들이 안전하고 재미있게 즐길 수 있는 메]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[블리자드, QA 직원 1100명 정규직 전환한다…"노조 결성과는 무관" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080005</link>
-            <guid>https://www.bloter.net/newsView/blt202204080005</guid>
-            <pubDate>Fri, 08 Apr 2022 01:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 대형 게임회사 액티비전 블리자드(이하 블리자드)가 퍼블리싱과 사업부의 모든 비정규직 QA(품질향상) 직원을 정규직으로 전환한다고 발표했다. 7일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 이번 조치로 약 1100명의 직원은 4월 17일부로 최저 시급이 20달]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/08/blt202204080003.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
