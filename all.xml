@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -886,8 +886,7 @@ KT AICC 솔루션 리스트. (자료=디지털X 서밋 갈무리)
             <link>https://www.bloter.net/newsView/blt202204130133</link>
             <guid>https://www.bloter.net/newsView/blt202204130133</guid>
             <pubDate>Wed, 13 Apr 2022 10:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-04-13 18:17:56</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130040.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
