@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 16:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,6 +352,14 @@ LS전선아시아가 올해 1분기 매출 1956억원, 영업이익 68억원을 
             <content:encoded><![CDATA[<span class="writer">박유진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[틱톡 대항마 '쇼츠'에 공들이는 유튜브…"타인 영상 리믹스 기능 도입" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150007</link>
+            <guid>https://www.bloter.net/newsView/blt202204150007</guid>
+            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 09:54:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150003.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[美, 7천억 규모 '엑시 인피니티' 해킹 배후로 北 연계 '라자루스' 지목 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204150002</link>
             <guid>https://www.bloter.net/newsView/blt202204150002</guid>
@@ -392,14 +400,6 @@ LS전선아시아가 올해 1분기 매출 1956억원, 영업이익 68억원을 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140043.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인텔 '순배출 제로' 선언...삼성전자 향하는 시선 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140041</link>
-            <guid>https://www.bloter.net/newsView/blt202204140041</guid>
-            <pubDate>Thu, 14 Apr 2022 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-14 15:51:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140041.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -436,12 +436,20 @@ LS전선아시아가 올해 1분기 매출 1956억원, 영업이익 68억원을 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[뱅크샐러드, '최고디자인책임자' 직책 신설하고 구글 출신 영입 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150115</link>
+            <guid>https://www.bloter.net/newsView/blt202204150115</guid>
+            <pubDate>Fri, 15 Apr 2022 15:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-15 23:31:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[거리두기도 해제…엔데믹 코앞인데, SK바사 ‘코로나19 백신’ 너무 늦었나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204150118</link>
             <guid>https://www.bloter.net/newsView/blt202204150118</guid>
             <pubDate>Fri, 15 Apr 2022 10:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-15 18:46:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150023.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]P2E 게임 '버디샷' 발표한 'BORA', 핵심은 따로 있었다? (블로터 ─ 테크)]]></title>
@@ -570,14 +578,6 @@ LS전선아시아가 올해 1분기 매출 1956억원, 영업이익 68억원을 
             <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-14 10:13:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 아이폰 유저 대상 ‘스위치 투 안드로이드’ 앱 출시 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140005</link>
-            <guid>https://www.bloter.net/newsView/blt202204140005</guid>
-            <pubDate>Thu, 14 Apr 2022 01:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 09:51:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140025.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

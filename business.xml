@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 16:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡 대항마 '쇼츠'에 공들이는 유튜브…"타인 영상 리믹스 기능 도입"]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150007</link>
+            <guid>https://www.bloter.net/newsView/blt202204150007</guid>
+            <pubDate>Fri, 15 Apr 2022 17:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 09:54:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 7천억 규모 '엑시 인피니티' 해킹 배후로 北 연계 '라자루스' 지목]]></title>
             <link>https://www.bloter.net/newsView/blt202204150002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 15 Apr 2022 03:28:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-14 15:59:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140043.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 '순배출 제로' 선언...삼성전자 향하는 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140041</link>
-            <guid>https://www.bloter.net/newsView/blt202204140041</guid>
-            <pubDate>Thu, 14 Apr 2022 23:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-14 15:51:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140041.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
