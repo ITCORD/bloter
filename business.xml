@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 10:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美, 7천억 규모 '엑시 인피니티' 해킹 배후로 北 연계 '라자루스' 지목]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150002</link>
+            <guid>https://www.bloter.net/newsView/blt202204150002</guid>
+            <pubDate>Fri, 15 Apr 2022 10:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 08:49:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전봇대에 갑자기 '쾅', 제주 기아 EV6 전기차 차주 "급발진"]]></title>
             <link>https://www.bloter.net/newsView/blt202204140025</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 14 Apr 2022 23:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-14 15:51:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140041.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LS전선아시아 최대 매출, 'UTP 사업'이 이끌었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140009</link>
-            <guid>https://www.bloter.net/newsView/blt202204140009</guid>
-            <pubDate>Thu, 14 Apr 2022 23:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-14 11:23:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140027.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
