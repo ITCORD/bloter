@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 12:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 13:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거리두기도 해제…엔데믹 코앞인데, SK바사 ‘코로나19 백신’ 너무 늦었나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150118</link>
+            <guid>https://www.bloter.net/newsView/blt202204150118</guid>
+            <pubDate>Fri, 15 Apr 2022 13:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-15 18:46:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]P2E 게임 '버디샷' 발표한 'BORA', 핵심은 따로 있었다?]]></title>
             <link>https://www.bloter.net/newsView/blt202204150114</link>
             <guid>https://www.bloter.net/newsView/blt202204150114</guid>
             <pubDate>Fri, 15 Apr 2022 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-15 18:06:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카톡서 등본 뗀다…네이버는 성적증명서도 발급]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 14 Apr 2022 03:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-14 09:51:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140025.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]"커피 배달을 로봇이 한다고?"...로봇 실험실된 네이버 제2사옥]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140002</link>
-            <guid>https://www.bloter.net/newsView/blt202204140002</guid>
-            <pubDate>Thu, 14 Apr 2022 03:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-14 09:30:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
