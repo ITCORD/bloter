@@ -4,42 +4,43 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 09:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]아직은 투자할 때?…토종 OTT 3사, 갈 길 멀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204160002</link>
+            <guid>https://www.bloter.net/newsView/blt202204160002</guid>
+            <pubDate>Sat, 16 Apr 2022 10:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/16/blt202204160005.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]P2E 게임 '버디샷' 발표한 'BORA', 핵심은 따로 있었다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150114</link>
+            <guid>https://www.bloter.net/newsView/blt202204150114</guid>
+            <pubDate>Sat, 16 Apr 2022 10:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2022-04-15 18:06:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150018.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내셔널지오그래픽, '거리두기 해제·온라인 쇼핑' 수혜로 리턴할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150104</link>
+            <guid>https://www.bloter.net/newsView/blt202204150104</guid>
+            <pubDate>Sat, 16 Apr 2022 10:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-04-15 18:05:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150016.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[하이브랩소디]③김태호 COO, '엔터' 중심에서 'ICT'를 외치다]]></title>
             <link>https://www.bloter.net/newsView/blt202204140034</link>
             <guid>https://www.bloter.net/newsView/blt202204140034</guid>
             <pubDate>Thu, 14 Apr 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140045.601x301.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블에프앤씨 가상자산 '큐브', 보안성 합격점 받았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140022</link>
-            <guid>https://www.bloter.net/newsView/blt202204140022</guid>
-            <pubDate>Thu, 14 Apr 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-04-14 12:51:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140029.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130135</link>
-            <guid>https://www.bloter.net/newsView/blt202204130135</guid>
-            <pubDate>Wed, 13 Apr 2022 18:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-04-13 21:21:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130044.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'로스트아크' 어디까지 성장할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130133</link>
-            <guid>https://www.bloter.net/newsView/blt202204130133</guid>
-            <pubDate>Wed, 13 Apr 2022 18:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130040.282x159.0.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-04-14 17:20:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140045.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
