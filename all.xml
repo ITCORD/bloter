@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 07:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 08:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -343,40 +343,48 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140054.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150121</link>
-            <guid>https://www.bloter.net/newsView/blt202204150121</guid>
-            <pubDate>Sun, 17 Apr 2022 01:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 10:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150028.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[아동 인플루언서 늘어나는데 보호 장치 없다…미 법안 발의 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150120</link>
+            <guid>https://www.bloter.net/newsView/blt202204150120</guid>
+            <pubDate>Sun, 17 Apr 2022 08:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150027.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[메타, 페이스북·인스타그램서 '개인 주거 정보' 공개 금지 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110001</link>
-            <guid>https://www.bloter.net/newsView/blt202204110001</guid>
-            <pubDate>Mon, 11 Apr 2022 01:12:44 GMT</pubDate>
+            <title><![CDATA[틱톡 대항마 '쇼츠'에 공들이는 유튜브…"타인 영상 리믹스 기능 도입" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150007</link>
+            <guid>https://www.bloter.net/newsView/blt202204150007</guid>
+            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, iOS 15.4 출시…마스크 쓰고도 ‘아이폰 잠금해제’ 된다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203150001</link>
-            <guid>https://www.bloter.net/newsView/blt202203150001</guid>
-            <pubDate>Sun, 17 Apr 2022 02:55:18 GMT</pubDate>
+            <title><![CDATA[유튜브, 러시아 하원 의회 채널 폐쇄…‘반발’ 러, 차단 조치 확대하나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110003</link>
+            <guid>https://www.bloter.net/newsView/blt202204110003</guid>
+            <pubDate>Sun, 17 Apr 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, 마스크 쓰고도 ‘아이폰 잠금해제’ 기능 추가 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280005</link>
-            <guid>https://www.bloter.net/newsView/blt202201280005</guid>
-            <pubDate>Sun, 17 Apr 2022 02:55:18 GMT</pubDate>
+            <title><![CDATA[유튜브 ‘광고 수익 차단’ 정책, 혐오 콘텐츠 차단에 효과적일까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203250187</link>
+            <guid>https://www.bloter.net/newsView/blt202203250187</guid>
+            <pubDate>Sun, 17 Apr 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페북 메신저도 이제 '얼굴로 잠금해제' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202007230015</link>
-            <guid>https://www.bloter.net/newsView/blt202007230015</guid>
-            <pubDate>Sun, 17 Apr 2022 02:55:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[영화보다 드라마가 낫다...美 유튜브, TV 콘텐츠 4000편 무료 방영 개시 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203240008</link>
+            <guid>https://www.bloter.net/newsView/blt202203240008</guid>
+            <pubDate>Sun, 17 Apr 2022 08:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뱅크샐러드, '최고디자인책임자' 직책 신설하고 구글 출신 영입 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150115</link>
+            <guid>https://www.bloter.net/newsView/blt202204150115</guid>
+            <pubDate>Fri, 15 Apr 2022 15:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-15 23:31:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BGF, 결국 이커머스 접었다…헬로네이처 영업정지 (블로터 ─ 비즈니스)]]></title>
@@ -419,14 +427,6 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150002.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[전봇대에 갑자기 '쾅', 제주 기아 EV6 전기차 차주 "급발진" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140025</link>
-            <guid>https://www.bloter.net/newsView/blt202204140025</guid>
-            <pubDate>Thu, 14 Apr 2022 23:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span><span class="writer">이일호</span>                        <span class="date">2022-04-15 08:06:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140034.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -463,12 +463,20 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[아동 인플루언서 늘어나는데 보호 장치 없다…미 법안 발의 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150120</link>
+            <guid>https://www.bloter.net/newsView/blt202204150120</guid>
+            <pubDate>Sun, 17 Apr 2022 08:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150027.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[트렌드리포트]외식업 '디지털전환' 주도하는 캐치테이블과 테이블매니저 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204150027</link>
             <guid>https://www.bloter.net/newsView/blt202204150027</guid>
-            <pubDate>Sun, 17 Apr 2022 07:16:47 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 07:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-17 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5G 3년] ②디지코 KT 일기예보, 5G '안개' DX '맑음' (블로터 ─ 테크)]]></title>
@@ -597,14 +605,6 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 08:49:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]전봇대에 갑자기 '쾅', 제주 기아 EV6 전기차 차주 "급발진" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140025</link>
-            <guid>https://www.bloter.net/newsView/blt202204140025</guid>
-            <pubDate>Thu, 14 Apr 2022 23:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span><span class="writer">이일호</span>                        <span class="date">2022-04-15 08:06:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140034.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -882,6 +882,14 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140045.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아동 인플루언서 늘어나는데 보호 장치 없다…미 법안 발의 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150120</link>
+            <guid>https://www.bloter.net/newsView/blt202204150120</guid>
+            <pubDate>Sun, 17 Apr 2022 08:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 출신의 8살 소녀 나스티야는 인기 키즈 유튜버다. 주로 아버지와 함께 놀거나 상황극을 하는 모습을 담은 영상을 업로드한다. 2021년에는 2800만달러(약 343억5000만원)를 벌며 전 세계 유튜버 수입 6위에 올랐다. 올해 10살인 라이언 카지는 4살부터 장난감으로 놀]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150027.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[오~컬쳐]KT·CJ ENM 콘텐츠 교류, OTT 통합으로 이어질까 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202204160001</link>
             <guid>https://www.bloter.net/newsView/blt202204160001</guid>
@@ -968,14 +976,6 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <pubDate>Wed, 13 Apr 2022 18:27:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 팬데믹이 장기화 되면서 공연 등 오프라인 콘서트 규모가 크게 위축됐다. 온라인을 통한 소통이 중요해지면서 '팬덤 플랫폼'은 단순히 팬과 아티스트를 이어주는 매개체를 넘어 일상을 함께 공유하는 '커뮤니케이션 플랫폼'으로 고도화되기 시작했다. 하이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110009.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]BORA 첫 P2E 골프 게임은 '버디샷'…'E&E'로 글로벌 정조준 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110030</link>
-            <guid>https://www.bloter.net/newsView/blt202204110030</guid>
-            <pubDate>Mon, 11 Apr 2022 03:09:41 GMT</pubDate>
-            <content:encoded><![CDATA['보라네트워크'의 첫 번째 블록체인 기술 기반 골프게임이 '버디샷'(BIRDIE SHOT)인 것으로 확인됐다. 11일 &lt;블로터&gt; 취재 결과, '메타보라'(구 프렌즈게임즈)가 '엔조이 앤 언'(E&amp;E) 기반 골프게임 '버디샷'을 선보일 예정이다.   앞서 메타보라 측은 사명 변경 전 가]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]P2E 게임 '버디샷' 발표한 'BORA', 핵심은 따로 있었다? (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
