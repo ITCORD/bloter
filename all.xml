@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 23:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 01:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -463,12 +463,20 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150121</link>
+            <guid>https://www.bloter.net/newsView/blt202204150121</guid>
+            <pubDate>Sun, 17 Apr 2022 01:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 10:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150028.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[폰SIGHT]레드미 노트11 프로, '샤오미=가성비' 이름값 했지만 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204140067</link>
             <guid>https://www.bloter.net/newsView/blt202204140067</guid>
             <pubDate>Sat, 16 Apr 2022 22:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-17 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140055.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140055.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]아직은 투자할 때?…토종 OTT 3사, 갈 길 멀다 (블로터 ─ 테크)]]></title>
@@ -597,14 +605,6 @@ SKT는 분할로 인해 몸집은 줄였지만 수익성은 향상됐다. 5G 상
             <pubDate>Thu, 14 Apr 2022 08:23:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-14 16:08:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140038.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['고급 대형택시'로 택시업계  문제 푼다는 '타다'...어떻게? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140040</link>
-            <guid>https://www.bloter.net/newsView/blt202204140040</guid>
-            <pubDate>Thu, 14 Apr 2022 08:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-14 15:59:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140043.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
