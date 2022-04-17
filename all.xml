@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 21:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 22:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -339,6 +339,14 @@ KT그룹 미디어데이를 통해 공개된 '아무것도 하고 싶지 않아'
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[의료기관 해킹 사고 비상…의료기기 이어 '병원 자율로봇'도 노출 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150119</link>
+            <guid>https://www.bloter.net/newsView/blt202204150119</guid>
+            <pubDate>Sat, 16 Apr 2022 01:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-16 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150026.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[뱅크샐러드, '최고디자인책임자' 직책 신설하고 구글 출신 영입 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204150115</link>
             <guid>https://www.bloter.net/newsView/blt202204150115</guid>
@@ -377,14 +385,6 @@ KT그룹 미디어데이를 통해 공개된 '아무것도 하고 싶지 않아'
             <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 09:54:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 7천억 규모 '엑시 인피니티' 해킹 배후로 北 연계 '라자루스' 지목 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150002</link>
-            <guid>https://www.bloter.net/newsView/blt202204150002</guid>
-            <pubDate>Fri, 15 Apr 2022 01:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 08:49:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150002.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
