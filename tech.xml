@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 04:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 05:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]KT·CJ ENM 콘텐츠 교류, OTT 통합으로 이어질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204160001</link>
+            <guid>https://www.bloter.net/newsView/blt202204160001</guid>
+            <pubDate>Sun, 17 Apr 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-17 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/16/blt202204160001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘바이오 톱2’ 삼성·셀트리온, 8조원 항암 시장서 격돌…아바스틴 시밀러 ‘주목’]]></title>
             <link>https://www.bloter.net/newsView/blt202204140064</link>
             <guid>https://www.bloter.net/newsView/blt202204140064</guid>
             <pubDate>Sun, 17 Apr 2022 04:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-17 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140049.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140049.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 14 Apr 2022 22:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-15 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/05/blt202204050016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이브랩소디]③김태호 COO, '엔터' 중심에서 'ICT'를 외치다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140034</link>
-            <guid>https://www.bloter.net/newsView/blt202204140034</guid>
-            <pubDate>Thu, 14 Apr 2022 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-14 17:20:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
