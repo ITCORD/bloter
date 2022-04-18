@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 01:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 국내 첫 블록체인 기반 공인전자문서센터 지정]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180008</link>
+            <guid>https://www.bloter.net/newsView/blt202204180008</guid>
+            <pubDate>Mon, 18 Apr 2022 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-18 11:45:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 NASA, '달 복귀 프로젝트' SLS 로켓 시험 잠정 연기]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180006</link>
+            <guid>https://www.bloter.net/newsView/blt202204180006</guid>
+            <pubDate>Mon, 18 Apr 2022 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-18 10:39:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美법원 "머스크 '테슬라 상장 폐지 자금 확보' 트윗은 거짓"]]></title>
             <link>https://www.bloter.net/newsView/blt202204180003</link>
             <guid>https://www.bloter.net/newsView/blt202204180003</guid>
             <pubDate>Mon, 18 Apr 2022 01:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-18 09:52:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플도 노조 설립 움직임…뉴욕 매장 직원 '서명 운동' 시작]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 16 Apr 2022 04:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-16 07:00:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱅크샐러드, '최고디자인책임자' 직책 신설하고 구글 출신 영입]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150115</link>
-            <guid>https://www.bloter.net/newsView/blt202204150115</guid>
-            <pubDate>Fri, 15 Apr 2022 17:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-15 23:31:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거리두기도 해제…엔데믹 코앞인데, SK바사 ‘코로나19 백신’ 너무 늦었나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150118</link>
-            <guid>https://www.bloter.net/newsView/blt202204150118</guid>
-            <pubDate>Fri, 15 Apr 2022 13:26:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-15 18:46:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

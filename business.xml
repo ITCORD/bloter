@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 01:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아동 인플루언서 늘어나는데 보호 장치 없다…미 법안 발의]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150120</link>
+            <guid>https://www.bloter.net/newsView/blt202204150120</guid>
+            <pubDate>Mon, 18 Apr 2022 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150027.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기]]></title>
             <link>https://www.bloter.net/newsView/blt202204150121</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Apr 2022 02:55:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-15 16:05:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150015.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[권영수 LG엔솔 부회장, 자사주 매입...주가 힘 받을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150009</link>
-            <guid>https://www.bloter.net/newsView/blt202204150009</guid>
-            <pubDate>Sat, 16 Apr 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-15 10:28:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
