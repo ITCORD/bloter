@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 20:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 22:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비전리스 삼성] ⑤한종희 부회장은 왜 2년 만에 말을 바꿨나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180010</link>
+            <guid>https://www.bloter.net/newsView/blt202204180010</guid>
+            <pubDate>Mon, 18 Apr 2022 22:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-19 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['배송 서비스' 세분화 나선 명품 커머스 시장, 각사 전략은]]></title>
             <link>https://www.bloter.net/newsView/blt202204180083</link>
             <guid>https://www.bloter.net/newsView/blt202204180083</guid>
             <pubDate>Mon, 18 Apr 2022 11:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-18 19:33:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180037.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180037.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[강원도 통합 앱 '나야나'에 녹아든 더존비즈온의 기술력은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 17 Apr 2022 04:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-17 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140049.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150121</link>
-            <guid>https://www.bloter.net/newsView/blt202204150121</guid>
-            <pubDate>Sun, 17 Apr 2022 01:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 10:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150028.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
