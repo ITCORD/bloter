@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 12:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 13:39:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배송 서비스' 세분화 나선 명품 커머스 시장, 각사 전략은]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180083</link>
+            <guid>https://www.bloter.net/newsView/blt202204180083</guid>
+            <pubDate>Mon, 18 Apr 2022 13:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[명품 커머스 업계의 배송 시스템이 세분화될 지 주목된다. 이달부터 빠른 배송 서비스를 시행 중인 '발란'이 배송 기간에 따른 이용 고객의 연령층이 상이하다는 결과를 내놓으면서다. 다만, 명품 커머스 업체들이 제품 유통 과정 등이 상이한 점을 고려하면 명품 커]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180037.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독]skyTV, 유빈·말왕 웹예능 'H클럽' 론칭…디지털 콘텐츠 강화]]></title>
             <link>https://www.bloter.net/newsView/blt202204180001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 12 Apr 2022 01:11:57 GMT</pubDate>
             <content:encoded><![CDATA[메타가 가상현실(VR) 플랫폼 '호라이즌 월드'에서 크리에이터를 대상으로 수익화 도구 시범 운영을 시작했다. 호라이즌 월드는 메타의 VR 기기인 '오큘러스' 기반의 소셜 플랫폼으로 아바타를 만들어 활동할 수 있다. 11일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 "이 날]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, '최고예요' 버튼 추가…큐레이션 서비스 고도화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120001</link>
-            <guid>https://www.bloter.net/newsView/blt202204120001</guid>
-            <pubDate>Tue, 12 Apr 2022 01:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 콘텐츠를 추천해 주는 큐레이션 서비스를 강화하기 위해 '최고예요'(Two Thumbs Up) 기능을 추가했다.  11일(현지시간) IT 전문매체 &lt;더버지&gt;는 넷플릭스가 기존의 '좋아요'와 '마음에 안 들어요' 버튼 옆에 '최고예요' 기능을 적용했다고 전했다. 최고예요]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
