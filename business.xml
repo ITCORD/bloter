@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 22:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 01:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150121</link>
+            <guid>https://www.bloter.net/newsView/blt202204150121</guid>
+            <pubDate>Mon, 18 Apr 2022 01:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 10:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150028.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아직은 투자할 때?…토종 OTT 3사, 갈 길 멀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204160002</link>
+            <guid>https://www.bloter.net/newsView/blt202204160002</guid>
+            <pubDate>Mon, 18 Apr 2022 01:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-16 17:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/16/blt202204160005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의료기관 해킹 사고 비상…의료기기 이어 '병원 자율로봇'도 노출]]></title>
             <link>https://www.bloter.net/newsView/blt202204150119</link>
@@ -38,22 +54,6 @@
             <pubDate>Sat, 16 Apr 2022 08:21:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-15 10:28:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, 애플 '탄소 중립화 계획' 참여 공식화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150005</link>
-            <guid>https://www.bloter.net/newsView/blt202204150005</guid>
-            <pubDate>Sat, 16 Apr 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-15 09:59:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡 대항마 '쇼츠'에 공들이는 유튜브…"타인 영상 리믹스 기능 도입"]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150007</link>
-            <guid>https://www.bloter.net/newsView/blt202204150007</guid>
-            <pubDate>Fri, 15 Apr 2022 17:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-15 09:54:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

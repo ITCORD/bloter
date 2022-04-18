@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 22:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 01:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]skyTV, 유빈·말왕 웹예능 'H클럽' 론칭…디지털 콘텐츠 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180001</link>
+            <guid>https://www.bloter.net/newsView/blt202204180001</guid>
+            <pubDate>Mon, 18 Apr 2022 01:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[skyTV가 웹예능을 통해 유튜브 채널을 강화한다. '원더걸스' 출신 유빈과 유튜버 '말왕'을 캐스팅한 웹예능을 론칭해 디지털 콘텐츠 경쟁력을 제고한다는 계획이다.18일 &lt;블로터&gt; 취재 결과, skyTV의 유튜브 채널 '덤덤스튜디오'가 유빈과 말왕을 MC로 내세운 연예 웹]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국세무학회는 왜 '콘텐츠 제작 세제지원'에 주목하나]]></title>
             <link>https://www.bloter.net/newsView/blt202204170001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 12 Apr 2022 01:11:57 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 콘텐츠를 추천해 주는 큐레이션 서비스를 강화하기 위해 '최고예요'(Two Thumbs Up) 기능을 추가했다.  11일(현지시간) IT 전문매체 &lt;더버지&gt;는 넷플릭스가 기존의 '좋아요'와 '마음에 안 들어요' 버튼 옆에 '최고예요' 기능을 적용했다고 전했다. 최고예요]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/12/blt202204120001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]성장한 만큼 올려달라는 노조, 웹젠은 응답할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110288</link>
-            <guid>https://www.bloter.net/newsView/blt202204110288</guid>
-            <pubDate>Thu, 14 Apr 2022 10:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/11/blt202204110021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
