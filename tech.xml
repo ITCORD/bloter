@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 03:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디스코드 해킹 피해 발생한 '메타콩즈', 79건 중 53건 보상 완료]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180012</link>
+            <guid>https://www.bloter.net/newsView/blt202204180012</guid>
+            <pubDate>Mon, 18 Apr 2022 05:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-18 12:35:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 국내 첫 블록체인 기반 공인전자문서센터 지정]]></title>
             <link>https://www.bloter.net/newsView/blt202204180008</link>
             <guid>https://www.bloter.net/newsView/blt202204180008</guid>
             <pubDate>Mon, 18 Apr 2022 03:14:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-18 11:45:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 NASA, '달 복귀 프로젝트' SLS 로켓 시험 잠정 연기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 16 Apr 2022 04:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-16 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150026.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[비전리스 삼성] ③'혁신없는 프리미엄' 갤럭시S의 퇴보…고객 반발 부른 노태문식 '원가 절감']]></title>
-            <link>https://www.bloter.net/newsView/blt202204070222</link>
-            <guid>https://www.bloter.net/newsView/blt202204070222</guid>
-            <pubDate>Sat, 16 Apr 2022 04:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-16 07:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/07/blt202204070034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
