@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 09:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5G 3년] ③LG유플러스, 알뜰폰 재미봤지만 여전한 '3위']]></title>
+            <link>https://www.bloter.net/newsView/blt202204180072</link>
+            <guid>https://www.bloter.net/newsView/blt202204180072</guid>
+            <pubDate>Mon, 18 Apr 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-18 17:52:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180032.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GC녹십자, 일반의약품 매출 2000억 돌파…라인업 강화로 성장세 ‘굳히기’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180069</link>
+            <guid>https://www.bloter.net/newsView/blt202204180069</guid>
+            <pubDate>Mon, 18 Apr 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-18 17:33:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180026.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디스코드 해킹 피해 발생한 '메타콩즈', 79건 중 53건 보상 완료]]></title>
             <link>https://www.bloter.net/newsView/blt202204180012</link>
             <guid>https://www.bloter.net/newsView/blt202204180012</guid>
             <pubDate>Mon, 18 Apr 2022 05:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-18 12:35:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, 국내 첫 블록체인 기반 공인전자문서센터 지정]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 16 Apr 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-16 17:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/16/blt202204160005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[5G 3년] ①SK스퀘어 떼어내고 몸집 줄인 SKT…수익성 잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140066</link>
-            <guid>https://www.bloter.net/newsView/blt202204140066</guid>
-            <pubDate>Sat, 16 Apr 2022 04:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-16 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140054.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료기관 해킹 사고 비상…의료기기 이어 '병원 자율로봇'도 노출]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150119</link>
-            <guid>https://www.bloter.net/newsView/blt202204150119</guid>
-            <pubDate>Sat, 16 Apr 2022 04:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-16 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150026.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
