@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 22:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 23:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,12 +423,20 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[5G 3년] ④화웨이, 장비 시장은 지켰다...친환경 띄우고 B2B 솔루션 확대 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190074</link>
+            <guid>https://www.bloter.net/newsView/blt202204190074</guid>
+            <pubDate>Tue, 19 Apr 2022 23:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-20 07:09:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]JTBC스튜디오, 'SLL'로 리뉴얼…연매출 2조 노린다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204190075</link>
             <guid>https://www.bloter.net/newsView/blt202204190075</guid>
             <pubDate>Tue, 19 Apr 2022 11:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-19 20:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190028.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글코리아의 매출은 해외로 통하는 이유 (블로터 ─ 테크)]]></title>
@@ -557,14 +565,6 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <pubDate>Mon, 18 Apr 2022 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-18 12:35:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 국내 첫 블록체인 기반 공인전자문서센터 지정 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180008</link>
-            <guid>https://www.bloter.net/newsView/blt202204180008</guid>
-            <pubDate>Mon, 18 Apr 2022 03:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-18 11:45:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
