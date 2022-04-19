@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 08:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]엔픽셀, 블록체인·메타버스 사업 고도화…'메타본부' 체제 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190070</link>
+            <guid>https://www.bloter.net/newsView/blt202204190070</guid>
+            <pubDate>Tue, 19 Apr 2022 09:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-19 17:44:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주·모빌리티·지능형 도시…‘선 넘는 과학자들’ 지구 위한 강연 펼친다]]></title>
             <link>https://www.bloter.net/newsView/blt202204190062</link>
             <guid>https://www.bloter.net/newsView/blt202204190062</guid>
             <pubDate>Tue, 19 Apr 2022 08:25:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-19 17:03:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VM웨어 "삼성SDS·LG CNS와 '크로스 클라우드' 연합하겠다"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 18 Apr 2022 01:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-18 09:52:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플도 노조 설립 움직임…뉴욕 매장 직원 '서명 운동' 시작]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180002</link>
-            <guid>https://www.bloter.net/newsView/blt202204180002</guid>
-            <pubDate>Mon, 18 Apr 2022 01:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-18 08:40:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
