@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 06:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 07:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 연구진이 개발한 면역항암제 ‘길잡이’ 기술…‘게임 체인저’ 상용화 기대]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190031</link>
+            <guid>https://www.bloter.net/newsView/blt202204190031</guid>
+            <pubDate>Tue, 19 Apr 2022 07:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-19 16:03:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알뜰폰도 인터넷 결합하면 할인된다…LG유플러스·모요 손잡은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202204190024</link>
             <guid>https://www.bloter.net/newsView/blt202204190024</guid>
             <pubDate>Tue, 19 Apr 2022 04:34:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-19 12:51:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상장 검토 '아이지에이웍스'...영업이익 3배 뛴 까닭]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 18 Apr 2022 01:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-18 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국세무학회는 왜 '콘텐츠 제작 세제지원'에 주목하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204170001</link>
-            <guid>https://www.bloter.net/newsView/blt202204170001</guid>
-            <pubDate>Sun, 17 Apr 2022 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-17 18:00:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/17/blt202204170001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
