@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글코리아의 매출은 해외로 통하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190073</link>
+            <guid>https://www.bloter.net/newsView/blt202204190073</guid>
+            <pubDate>Tue, 19 Apr 2022 10:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-19 18:21:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190024.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]엔픽셀, 블록체인·메타버스 사업 고도화…'메타본부' 체제 가동]]></title>
             <link>https://www.bloter.net/newsView/blt202204190070</link>
             <guid>https://www.bloter.net/newsView/blt202204190070</guid>
             <pubDate>Tue, 19 Apr 2022 09:20:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-19 17:44:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190020.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주·모빌리티·지능형 도시…‘선 넘는 과학자들’ 지구 위한 강연 펼친다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 18 Apr 2022 03:14:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-18 10:39:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美법원 "머스크 '테슬라 상장 폐지 자금 확보' 트윗은 거짓"]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180003</link>
-            <guid>https://www.bloter.net/newsView/blt202204180003</guid>
-            <pubDate>Mon, 18 Apr 2022 01:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-18 09:52:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
