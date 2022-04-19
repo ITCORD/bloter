@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 01:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기아차 마니아였던 제주 EV6 차주, '급발진' 주장하는 2가지 근거]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150069</link>
+            <guid>https://www.bloter.net/newsView/blt202204150069</guid>
+            <pubDate>Tue, 19 Apr 2022 01:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-18 15:53:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180020.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG컨소시엄, 니켈 직접 캔다…배터리 밸류체인 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202204180014</link>
+            <guid>https://www.bloter.net/newsView/blt202204180014</guid>
+            <pubDate>Tue, 19 Apr 2022 01:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-18 12:16:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 NASA, '달 복귀 프로젝트' SLS 로켓 시험 잠정 연기]]></title>
             <link>https://www.bloter.net/newsView/blt202204180006</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 18 Apr 2022 05:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-18 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동 인플루언서 늘어나는데 보호 장치 없다…미 법안 발의]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150120</link>
-            <guid>https://www.bloter.net/newsView/blt202204150120</guid>
-            <pubDate>Mon, 18 Apr 2022 03:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150027.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전 애플 직원 “페이스ID 개발에 생체자료 무단 도용했다”…의혹 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150121</link>
-            <guid>https://www.bloter.net/newsView/blt202204150121</guid>
-            <pubDate>Mon, 18 Apr 2022 01:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-17 10:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150028.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
