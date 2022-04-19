@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]JTBC스튜디오, 'SLL'로 리뉴얼…연매출 2조 노린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190075</link>
+            <guid>https://www.bloter.net/newsView/blt202204190075</guid>
+            <pubDate>Tue, 19 Apr 2022 11:17:49 GMT</pubDate>
+            <content:encoded><![CDATA["올해부터 2024년까지 누적 3조원을 투자할 예정입니다. 이를 통해 해외 매출 비중을 키워서 2024년에는 연매출 2조원 이상을 확보하는 것이 목표인데요. 이를 통해 SLL은 전세계 시청자를 사로잡는 프리미엄 콘텐츠 제작사로 자리매김할 것입니다. 이것이 국내를 뛰어]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]엔픽셀, 블록체인·메타버스 사업 고도화…'메타본부' 체제 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190070</link>
+            <guid>https://www.bloter.net/newsView/blt202204190070</guid>
+            <pubDate>Tue, 19 Apr 2022 11:17:49 GMT</pubDate>
+            <content:encoded><![CDATA['그랑사가' 개발사인 '엔픽셀'이 메타버스 전담 조직을 통해 프로젝트를 고도화한다. 앞서 그랑사가 IP를 활용해 블록체인 기반 신사업을 전개한다고 밝힌 엔픽셀은 전담 조직을 통해 프로젝트 전문성을 강화할 계획이다. 19일 &lt;블로터&gt; 취재 결과, 엔픽셀이 블록]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 법원 "웹 스크래핑은 합법"…링크드인, 불복하나]]></title>
             <link>https://www.bloter.net/newsView/blt202204190002</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 16 Apr 2022 10:21:45 GMT</pubDate>
             <content:encoded><![CDATA[넷마블에프앤씨의 가상자산 '큐브'(CUBE, 구 아이텀 큐브)가 보안기업 '서틱'(CIRTIK)의 보안 안전성 검사에서 합격점을 받은 것으로 확인됐다.14일 &lt;블로터&gt; 취재 결과, 큐브는 서틱에서 진행한 보안 검사에서 92점(100점 만점 기준)을 받았다. 이번 보안 검사로 큐브]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140029.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 러시아 서비스 중단했는데 ‘전쟁 찬성’ 콘텐츠 급증…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140004</link>
-            <guid>https://www.bloter.net/newsView/blt202204140004</guid>
-            <pubDate>Thu, 14 Apr 2022 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 바이트댄스가 운영하는 숏폼 플랫폼 틱톡이 러시아에서 서비스를 중단한다고 발표했지만 이 조치가 효과적이지 않다는 보고서 결과가 나왔다.13일(이하 현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 유럽 디지털 권리 단체인 ‘트래킹 익스포즈드(Tra]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/14/blt202204140024.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]급여·배당금 올인하는 장현국, '위믹스 살리기' 시동건다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130135</link>
-            <guid>https://www.bloter.net/newsView/blt202204130135</guid>
-            <pubDate>Sat, 16 Apr 2022 10:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[장현국 위메이드 대표가 자체 가상자산인 '위믹스'(WEMIX) 살리기에 나섰다. 자신의 급여와 주식 배당금을 모두 위믹스 코인 매입에 사용한다는 계획이다.  13일 위믹스네트워크는 홈페이지를 통해 "장현국 대표가 이 달부터 급여를 위믹스 매입에 활용하는 한편 회계]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
