@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,6 +316,14 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200003</link>
+            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
+            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-20 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 구독자 수 11년만에 20만명 감소…왜? (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204200002</link>
             <guid>https://www.bloter.net/newsView/blt202204200002</guid>
@@ -324,7 +332,7 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[VM웨어 "삼성SDS·LG CNS와 '크로스 클라우드' 연합하겠다" (블로터 ─ 비즈니스)]]></title>
+            <title><![CDATA[VM웨어가 토종 IT서비스 기업과 '크로스 클라우드' 연합 강조한 이유 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204190036</link>
             <guid>https://www.bloter.net/newsView/blt202204190036</guid>
             <pubDate>Tue, 19 Apr 2022 08:25:06 GMT</pubDate>
@@ -354,14 +362,6 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <pubDate>Tue, 19 Apr 2022 01:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-19 09:26:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사전예약자 애태운 휴대용 콘솔 '플레이데이트' 출시…지금 예약하면? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190001</link>
-            <guid>https://www.bloter.net/newsView/blt202204190001</guid>
-            <pubDate>Tue, 19 Apr 2022 01:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-19 08:27:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -400,12 +400,36 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]③연제길·김관우, '스파V' 국가대표 후보로 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200062</link>
+            <guid>https://www.bloter.net/newsView/blt202204200062</guid>
+            <pubDate>Wed, 20 Apr 2022 08:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-20 16:47:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개발작 재정비한 '데브시스터즈'…아시아·북미 정조준 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200057</link>
+            <guid>https://www.bloter.net/newsView/blt202204200057</guid>
+            <pubDate>Wed, 20 Apr 2022 08:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-20 16:38:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]KT·LG전자는 ‘로봇’, SKT는 AI반도체...삼성전자는 무엇? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200070</link>
+            <guid>https://www.bloter.net/newsView/blt202204200070</guid>
+            <pubDate>Wed, 20 Apr 2022 08:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 16:34:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200032.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오는 왜 '디지털 접근성 책임자' 직책을 만들었을까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204200044</link>
             <guid>https://www.bloter.net/newsView/blt202204200044</guid>
             <pubDate>Wed, 20 Apr 2022 07:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-20 15:40:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀트리온, 시밀러 경쟁력 강화…아일리아 복제약 3상 환자 모집 완료 (블로터 ─ 테크)]]></title>
@@ -518,30 +542,6 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <pubDate>Tue, 19 Apr 2022 08:25:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-19 17:03:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어가 토종 IT서비스 기업과 '크로스 클라우드' 연합 강조한 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190036</link>
-            <guid>https://www.bloter.net/newsView/blt202204190036</guid>
-            <pubDate>Tue, 19 Apr 2022 08:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-19 16:36:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 연구진이 개발한 면역항암제 ‘길잡이’ 기술…‘게임 체인저’ 상용화 기대 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190031</link>
-            <guid>https://www.bloter.net/newsView/blt202204190031</guid>
-            <pubDate>Tue, 19 Apr 2022 07:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-19 16:03:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알뜰폰도 인터넷 결합하면 할인된다…LG유플러스·모요 손잡은 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190024</link>
-            <guid>https://www.bloter.net/newsView/blt202204190024</guid>
-            <pubDate>Tue, 19 Apr 2022 04:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-19 12:51:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
