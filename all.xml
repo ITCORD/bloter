@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 01:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,6 +249,30 @@ LG디스플레이 주요 고객사별 공급량 전망. (자료=유비리서치)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180013.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내 연구진이 개발한 면역항암제 ‘길잡이’ 기술…‘게임 체인저’ 상용화 기대 (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204190031</link>
+            <guid>https://www.bloter.net/newsView/blt202204190031</guid>
+            <pubDate>Tue, 19 Apr 2022 07:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[의약화학분야 국제학술지 ‘저널 오브 메디시널 케미스트리’ 최신호 추가표지. 이상희 KIST 박사와 김혜진 KRICT 박사 연구팀이 개발한 물질이 면역세포를 자극시켜 암세포 사멸을 유도하는 모식도.(사진=한국과학기술연구원)
+
+국내 연구진이 ‘게임 체인저’로 불리는 면역항암제에 대한 핵심 기술을 개발했다. 현재 20% 안팎의 환자에게서만 치료 효과가 나타나는 면역항암제의 반응률을 높일 수 있는 기술로 기대된다.면역항암제는 암세포가 인체의 면역체계를 회피하지 못하도록 하거나 면역세포가 암세포를 더 잘 인식해 공격하도록 하는 약물이다. 국내 연구진은 면역세포를 암세포 근처로 이끌 것으로 기대되는 후보 물질을 발굴했다.한국과학기술연구원(KIST) 뇌과학창의연구단 소속 이상희 박사와 한국화학연구원(KRICT) 감염병치료제연구센터 소속 김혜진 박사 등으로 구성된 국내 연구팀은 19일 저분자화합물 기반의 새로운 STING(Stimulator of interferon genes) 작용제에 관한 연구 결과를 공개했다. STING은 DNA 병원체를 인지해 인터페론을 분비하고 선천면역 반응을 조절한다. 글로벌 제약사들은 해당 물질이 △암의 면역반응성 △암세포 주변의 면역세포 침투 등을 높이는데 작용할 수 있을 것으로 본다.이 박사는 기자와의 통화에서 암세포를 ‘범인’에 면역세포를 ‘경찰’로 비유했다. STING 작용제가 경찰을 범인이 있는 곳으로 안내해주는 역할을 한다는 설명이다. 그는 “면역항암제는 면역세포를 통해 암세포를 치료하는 게 핵심인데 이 작용이 이뤄지려면 면역세포가 암세포 주변까지 가야 한다”며 “STING 작용제를 사용하면 면역세포를 암세포 주변으로 올 수 있게 만들어 준다”고 설명했다.현재 항암제로 화학요법·표적치료제가 주로 사용되고 있다. 면역항암제는 이를 잇는 새로운 치료제로 각광 받는 추세다. 다양한 임상 시험에서 환자의 생존율을 획기적으로 증가시키는 결과를 냈기 때문이다. 그러나 면역항암제는 암세포의 낮은 면역반응성으로 인해 치료 효과가 일정 환자에게서만 나타나 상용화 확산에 걸림돌로 꼽혀왔다.이 박사는 “시중에 나와 있는 면역항암제의 효능은 15%~20% 수준의 환자들에게만 매우 뛰어난 치료 효과를 나타낸다”며 “이번에 발굴한 STING 작용제는 면역항암제의 반응률을 높일 수 있는 물질로 기대하고 있다”고 설명했다.면역항암제의 낮은 반응률은 암세포의 낮은 면역반응성 때문이다. 학계에선 암세포의 낮은 면역반응성이 면역관문억제제에 대한 반응률을 낮추는 원인으로 지목하고 있다. 선천면역 조절 단백질인 STING은 이 문제를 해결할 수 있는 물질로 주목받아 왔다.STING 작용제는 다만 아직 치료제 상용화에 이르지 못했다. 가장 먼저 임상이 진행됐던 STING 작용제인 ‘ADU-S100’ 물질도 지난 2020년 임상이 중단되면서 상용화 시점이 더욱 불투명해졌다.국내 연구진이 발굴한 작용제는 STING 단백질 활성화를 통해 인터페론 등 사이토카인(면역세포로부터 분비되는 단백질 면역조절제로 특정 수용체와 결합해 면역반응에 관여하는 물질)을 생성, 이를 통해 T세포를 매개로 한 선천면역 반응을 유도했다. 활성화된 선천면역 반응은 종양의 면역표현형을 바꿨다. T세포에 대한 반응성이 낮은 암(Cold tumor)을 반응성이 높은 암(Hot tumor)으로 변화시킨 점도 확인했다.이 박사는 “T세포가 암세포에 잘 침투할 수 있는 환경을 만들었고 그 결과 동물모델에서 암세포의 성장을 효과적으로 억제했다”며 “특히 투여군의 20%는 암세포가 완전히 사라졌고 암세포를 재이식하여 암이 재발하는 환경을 유도해 추가적인 약물 투여 없이 암세포 성장이 억제되거나 아예 자라지 않는 매우 우수한 항암 효능을 나타냈다”고 설명했다.
+
+이상희 KIST 박사와 김혜진 KRICT 박사 연구팀이 개발한 STING 작용제 4c의 화학적 구조 및 작용 기전(왼쪽)과 동물모델에서 항암 효능 결과(오른쪽) 등을 표현한 모식도.(자료=한국과학기술연구원)
+
+그간 발굴된 STING 작용제는 종양에 직접 투여하는 방법만 적용이 가능했다. 그러나 이 박사 연구팀이 개발한 물질은 정맥 내 투여로도 효과를 낼 수 있을 것으로 기대된다.이 박사는 발굴된 STING 작용제가 정맥 투여를 넘어 경구(먹는 약) 투여 방식으로도 사용할 수 있도록 연구를 지속할 방침이다. 또 해당 후보 물질이 단독 투여로 인한 치료는 물론 방사선치료·화학요법 등 기존 표준 치료와 연계할 수 있는 ‘병용 치료요법’이 가능한지도 살펴보고 있다.연구팀은 이번 연구 성과가 특히 면역관문억제제에 대한 반응률이 낮은 환자군에 대한 미충족 수요 해결에 기여할 수 있으리라고 봤다. 뇌종양 등 기존 면역항암제 전략이 어려운 암종에 대한 치료제 개발의 기반도 마련이 가능할 것으로 기대했다.이 박사 연구팀은 향후 다양한 제약·바이오 기업과의 기술 이전 등을 통한 협업으로 STING 작용제에 대한 연구가 지속되길 희망했다. 이번 연구 결과는 의약화학분야 세계 최고 권위 국제학술지인 ‘저널 오브 메디시널 케미스트리(Journal of Medicinal Chemistry)’ 최신호에 추가표지논문(Supplementary cover)으로 선정됐다. 논문명은 ‘Development of Potent Immune Modulators Targeting Stimulator of Interferon Genes Receptor’이다. 교신저자로 이 박사와 김 박사가, 제1 저자로는 전민재 한국화학연구원 학생과 이혜림 한국과학기술연구원 학생이 이름을 올렸다.이번 연구는 과학기술정보통신부 지원으로 수행됐다. 또 KIST 주요사업과 한국화학연구원 주요사업 등에도 선정됐다. 한국연구재단 신진연구자지원사업 및 인공지능신약개발사업의 지원도 받았다.이 박사는 “모두가 암의 정복을 꿈꾸고 있지만 아직도 항암제 개발이 제한적인 분야가 많다”며 “이 연구가 뇌종양 등 임상에서 면역항암제 적용이 제한적인 암에 대한 새로운 치료전략 개발의 기반이 되기를 바란다”고 강조했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190016.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BGF, 결국 이커머스 접었다…헬로네이처 영업정지 (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204150046</link>
+            <guid>https://www.bloter.net/newsView/blt202204150046</guid>
+            <pubDate>Fri, 15 Apr 2022 07:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[헬로네이처 배송 패키지.
+
+BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정지하기로 결정했다. 그동안 만년 적자를 벗어나지 못한 데다 최근 이커머스 시장 경쟁이 심화한데 따른 결정이다. 15일 BGF는 자회사 헬로네이처가 영위하는 B2C 온라인 판매사업을 중단한다고 공시했다. 영업정지 사유는 경쟁심화 및 사업부진으로 향후 선택과 집중을 통한 사업포트폴리오를 개선한다는 방침이다. 헬로네이처는 BGF의 자회사로 2012년 설립된 온라인 식품 판매업체다. 유기농·친환경 제품을 산지와 소비자간 직접 연결해 신선식품을 배달해주는 서비스가 주된 사업으로, 마켓컬리, 오아시스 등이 경쟁업체로 꼽힌다. 헬로네이처는 설립 이후 꾸준히 매출을 늘려왔으나 그동안 단 한 번도 흑자를 기록하지 못했다. 적자 규모는 매년 증가해 지난해에는 270억원의 손실을 기록했다. 최근 쿠팡을 중심으로 이커머스 시장 경쟁이 심화하며 치킨게임이 펼쳐진 결과다. BGF는 이번 사업중단으로 재무구조 개선을 기대한다고 밝혔다. 헬로네이처는 지속된 영업적자로 결손금이 발생해 지난해 자본금 규모가 전년 대비 절반 가까이 줄어들었다. 100% 수준이던 부채비율은 지난해 658%로 치솟았다. 헬로네이처의 최대주주는 BGF로 50.1%의 지분율 소유하고 있다. SK그룹 계열사 11번가가 49.9%의 지분을 차지해 2대 주주로 있다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150015.291x174.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[기아차 마니아였던 제주 EV6 차주, '급발진' 주장하는 2가지 근거 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202204150069</link>
             <guid>https://www.bloter.net/newsView/blt202204150069</guid>
@@ -277,30 +301,6 @@ EDR 데이터 중 일부. (자료=위 씨 제공)
 
 위 씨는 "똑같은 상황을 만들어 실험이라도 해보고 싶은 심정이다. 빌트인 캠에 녹화된 영상을 봐도 절대 15km/h로 볼 수 없다. 주변 상인들도 깜짝 놀랄만큼 충돌 소리가 컸는데, 어떻게 15km/h가 기록됐는지 EDR 데이터를 믿을 수가 없다"고 말했다. 전문가들의 의견은 갈린다. 익명을 요구한 교통 전문가는 "차량과 차량이 충돌하는 것보다 고정된 사물과 차량이 충돌할 때 차량 훼손 정도가 더 커질 수 있다. 반발력을 고려해야 하기 때문이다. 다만 이 경우 15km/h라고 확언하기는 힘들다"고 말했다. 김필수 교수는 "가속도를 고려해야겠지만, 차량 상태가 이 정도라면 30~40km/h 정도의 속력은 돼야 한다"고 설명했다. 위 씨는 "(급발진을 증명하는 건) 개인에게 힘든 일이라는 점을 잘 알고 있다. 경찰이라도 나서서 조사를 해준다면 좋겠지만, 할 수 있는 게 없다는 식으로 전달 받았다"면서 "어떤 식으로든 사람들에게 위험성을 알리고 싶다. 필요하다면 재판까지 하고 싶다"고 전했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180020.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BGF, 결국 이커머스 접었다…헬로네이처 영업정지 (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204150046</link>
-            <guid>https://www.bloter.net/newsView/blt202204150046</guid>
-            <pubDate>Fri, 15 Apr 2022 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[헬로네이처 배송 패키지.
-
-BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정지하기로 결정했다. 그동안 만년 적자를 벗어나지 못한 데다 최근 이커머스 시장 경쟁이 심화한데 따른 결정이다. 15일 BGF는 자회사 헬로네이처가 영위하는 B2C 온라인 판매사업을 중단한다고 공시했다. 영업정지 사유는 경쟁심화 및 사업부진으로 향후 선택과 집중을 통한 사업포트폴리오를 개선한다는 방침이다. 헬로네이처는 BGF의 자회사로 2012년 설립된 온라인 식품 판매업체다. 유기농·친환경 제품을 산지와 소비자간 직접 연결해 신선식품을 배달해주는 서비스가 주된 사업으로, 마켓컬리, 오아시스 등이 경쟁업체로 꼽힌다. 헬로네이처는 설립 이후 꾸준히 매출을 늘려왔으나 그동안 단 한 번도 흑자를 기록하지 못했다. 적자 규모는 매년 증가해 지난해에는 270억원의 손실을 기록했다. 최근 쿠팡을 중심으로 이커머스 시장 경쟁이 심화하며 치킨게임이 펼쳐진 결과다. BGF는 이번 사업중단으로 재무구조 개선을 기대한다고 밝혔다. 헬로네이처는 지속된 영업적자로 결손금이 발생해 지난해 자본금 규모가 전년 대비 절반 가까이 줄어들었다. 100% 수준이던 부채비율은 지난해 658%로 치솟았다. 헬로네이처의 최대주주는 BGF로 50.1%의 지분율 소유하고 있다. SK그룹 계열사 11번가가 49.9%의 지분을 차지해 2대 주주로 있다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150015.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 연구진이 개발한 면역항암제 ‘길잡이’ 기술…‘게임 체인저’ 상용화 기대 (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190031</link>
-            <guid>https://www.bloter.net/newsView/blt202204190031</guid>
-            <pubDate>Tue, 19 Apr 2022 07:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[의약화학분야 국제학술지 ‘저널 오브 메디시널 케미스트리’ 최신호 추가표지. 이상희 KIST 박사와 김혜진 KRICT 박사 연구팀이 개발한 물질이 면역세포를 자극시켜 암세포 사멸을 유도하는 모식도.(사진=한국과학기술연구원)
-
-국내 연구진이 ‘게임 체인저’로 불리는 면역항암제에 대한 핵심 기술을 개발했다. 현재 20% 안팎의 환자에게서만 치료 효과가 나타나는 면역항암제의 반응률을 높일 수 있는 기술로 기대된다.면역항암제는 암세포가 인체의 면역체계를 회피하지 못하도록 하거나 면역세포가 암세포를 더 잘 인식해 공격하도록 하는 약물이다. 국내 연구진은 면역세포를 암세포 근처로 이끌 것으로 기대되는 후보 물질을 발굴했다.한국과학기술연구원(KIST) 뇌과학창의연구단 소속 이상희 박사와 한국화학연구원(KRICT) 감염병치료제연구센터 소속 김혜진 박사 등으로 구성된 국내 연구팀은 19일 저분자화합물 기반의 새로운 STING(Stimulator of interferon genes) 작용제에 관한 연구 결과를 공개했다. STING은 DNA 병원체를 인지해 인터페론을 분비하고 선천면역 반응을 조절한다. 글로벌 제약사들은 해당 물질이 △암의 면역반응성 △암세포 주변의 면역세포 침투 등을 높이는데 작용할 수 있을 것으로 본다.이 박사는 기자와의 통화에서 암세포를 ‘범인’에 면역세포를 ‘경찰’로 비유했다. STING 작용제가 경찰을 범인이 있는 곳으로 안내해주는 역할을 한다는 설명이다. 그는 “면역항암제는 면역세포를 통해 암세포를 치료하는 게 핵심인데 이 작용이 이뤄지려면 면역세포가 암세포 주변까지 가야 한다”며 “STING 작용제를 사용하면 면역세포를 암세포 주변으로 올 수 있게 만들어 준다”고 설명했다.현재 항암제로 화학요법·표적치료제가 주로 사용되고 있다. 면역항암제는 이를 잇는 새로운 치료제로 각광 받는 추세다. 다양한 임상 시험에서 환자의 생존율을 획기적으로 증가시키는 결과를 냈기 때문이다. 그러나 면역항암제는 암세포의 낮은 면역반응성으로 인해 치료 효과가 일정 환자에게서만 나타나 상용화 확산에 걸림돌로 꼽혀왔다.이 박사는 “시중에 나와 있는 면역항암제의 효능은 15%~20% 수준의 환자들에게만 매우 뛰어난 치료 효과를 나타낸다”며 “이번에 발굴한 STING 작용제는 면역항암제의 반응률을 높일 수 있는 물질로 기대하고 있다”고 설명했다.면역항암제의 낮은 반응률은 암세포의 낮은 면역반응성 때문이다. 학계에선 암세포의 낮은 면역반응성이 면역관문억제제에 대한 반응률을 낮추는 원인으로 지목하고 있다. 선천면역 조절 단백질인 STING은 이 문제를 해결할 수 있는 물질로 주목받아 왔다.STING 작용제는 다만 아직 치료제 상용화에 이르지 못했다. 가장 먼저 임상이 진행됐던 STING 작용제인 ‘ADU-S100’ 물질도 지난 2020년 임상이 중단되면서 상용화 시점이 더욱 불투명해졌다.국내 연구진이 발굴한 작용제는 STING 단백질 활성화를 통해 인터페론 등 사이토카인(면역세포로부터 분비되는 단백질 면역조절제로 특정 수용체와 결합해 면역반응에 관여하는 물질)을 생성, 이를 통해 T세포를 매개로 한 선천면역 반응을 유도했다. 활성화된 선천면역 반응은 종양의 면역표현형을 바꿨다. T세포에 대한 반응성이 낮은 암(Cold tumor)을 반응성이 높은 암(Hot tumor)으로 변화시킨 점도 확인했다.이 박사는 “T세포가 암세포에 잘 침투할 수 있는 환경을 만들었고 그 결과 동물모델에서 암세포의 성장을 효과적으로 억제했다”며 “특히 투여군의 20%는 암세포가 완전히 사라졌고 암세포를 재이식하여 암이 재발하는 환경을 유도해 추가적인 약물 투여 없이 암세포 성장이 억제되거나 아예 자라지 않는 매우 우수한 항암 효능을 나타냈다”고 설명했다.
-
-이상희 KIST 박사와 김혜진 KRICT 박사 연구팀이 개발한 STING 작용제 4c의 화학적 구조 및 작용 기전(왼쪽)과 동물모델에서 항암 효능 결과(오른쪽) 등을 표현한 모식도.(자료=한국과학기술연구원)
-
-그간 발굴된 STING 작용제는 종양에 직접 투여하는 방법만 적용이 가능했다. 그러나 이 박사 연구팀이 개발한 물질은 정맥 내 투여로도 효과를 낼 수 있을 것으로 기대된다.이 박사는 발굴된 STING 작용제가 정맥 투여를 넘어 경구(먹는 약) 투여 방식으로도 사용할 수 있도록 연구를 지속할 방침이다. 또 해당 후보 물질이 단독 투여로 인한 치료는 물론 방사선치료·화학요법 등 기존 표준 치료와 연계할 수 있는 ‘병용 치료요법’이 가능한지도 살펴보고 있다.연구팀은 이번 연구 성과가 특히 면역관문억제제에 대한 반응률이 낮은 환자군에 대한 미충족 수요 해결에 기여할 수 있으리라고 봤다. 뇌종양 등 기존 면역항암제 전략이 어려운 암종에 대한 치료제 개발의 기반도 마련이 가능할 것으로 기대했다.이 박사 연구팀은 향후 다양한 제약·바이오 기업과의 기술 이전 등을 통한 협업으로 STING 작용제에 대한 연구가 지속되길 희망했다. 이번 연구 결과는 의약화학분야 세계 최고 권위 국제학술지인 ‘저널 오브 메디시널 케미스트리(Journal of Medicinal Chemistry)’ 최신호에 추가표지논문(Supplementary cover)으로 선정됐다. 논문명은 ‘Development of Potent Immune Modulators Targeting Stimulator of Interferon Genes Receptor’이다. 교신저자로 이 박사와 김 박사가, 제1 저자로는 전민재 한국화학연구원 학생과 이혜림 한국과학기술연구원 학생이 이름을 올렸다.이번 연구는 과학기술정보통신부 지원으로 수행됐다. 또 KIST 주요사업과 한국화학연구원 주요사업 등에도 선정됐다. 한국연구재단 신진연구자지원사업 및 인공지능신약개발사업의 지원도 받았다.이 박사는 “모두가 암의 정복을 꿈꾸고 있지만 아직도 항암제 개발이 제한적인 분야가 많다”며 “이 연구가 뇌종양 등 임상에서 면역항암제 적용이 제한적인 암에 대한 새로운 치료전략 개발의 기반이 되기를 바란다”고 강조했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190016.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VM웨어 "삼성SDS·LG CNS와 '크로스 클라우드' 연합하겠다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
@@ -423,12 +423,52 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우버·리프트, 美 연방법원 판결에 마스크 의무화 조치 폐지 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200011</link>
+            <guid>https://www.bloter.net/newsView/blt202204200011</guid>
+            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 10:00:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200006.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[WIS2022 개막...코로나19 이후 메타버스·디지털트윈·AI·자율주행 트렌드는? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200012</link>
+            <guid>https://www.bloter.net/newsView/blt202204200012</guid>
+            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 09:58:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200007.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 노사관계 기관, "아마존, 시위 참여해 해고당한 직원 복귀시켜야" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200006</link>
+            <guid>https://www.bloter.net/newsView/blt202204200006</guid>
+            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200003</link>
+            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
+            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-20 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 구독자 수 11년만에 20만명 감소…왜? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200002</link>
+            <guid>https://www.bloter.net/newsView/blt202204200002</guid>
+            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 08:20:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[5G 3년] ④화웨이, 장비 시장은 지켰다...친환경 띄우고 B2B 솔루션 확대 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204190074</link>
             <guid>https://www.bloter.net/newsView/blt202204190074</guid>
             <pubDate>Tue, 19 Apr 2022 23:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-20 07:09:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장+]JTBC스튜디오, 'SLL'로 리뉴얼…연매출 2조 노린다 (블로터 ─ 테크)]]></title>
@@ -525,46 +565,6 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <pubDate>Mon, 18 Apr 2022 22:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-19 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['배송 서비스' 세분화 나선 명품 커머스 시장, 각사 전략은 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180083</link>
-            <guid>https://www.bloter.net/newsView/blt202204180083</guid>
-            <pubDate>Mon, 18 Apr 2022 11:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-18 19:33:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180037.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도 통합 앱 '나야나'에 녹아든 더존비즈온의 기술력은? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180084</link>
-            <guid>https://www.bloter.net/newsView/blt202204180084</guid>
-            <pubDate>Mon, 18 Apr 2022 11:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-18 18:36:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[5G 3년] ③LG유플러스, 알뜰폰 재미봤지만 여전한 '3위' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180072</link>
-            <guid>https://www.bloter.net/newsView/blt202204180072</guid>
-            <pubDate>Mon, 18 Apr 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-18 17:52:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GC녹십자, 일반의약품 매출 2000억 돌파…라인업 강화로 성장세 ‘굳히기’ (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180069</link>
-            <guid>https://www.bloter.net/newsView/blt202204180069</guid>
-            <pubDate>Mon, 18 Apr 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-18 17:33:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디스코드 해킹 피해 발생한 '메타콩즈', 79건 중 53건 보상 완료 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180012</link>
-            <guid>https://www.bloter.net/newsView/blt202204180012</guid>
-            <pubDate>Mon, 18 Apr 2022 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-18 12:35:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
