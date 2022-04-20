@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]MBX 월렛 DEX, 26일 오픈…넷마블 블록체인 생태계 커진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200035</link>
+            <guid>https://www.bloter.net/newsView/blt202204200035</guid>
+            <pubDate>Wed, 20 Apr 2022 05:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-20 14:25:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 정부 인수위, ‘LG 클로이’ 사투리 인식여부 관심 가진 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202204200018</link>
             <guid>https://www.bloter.net/newsView/blt202204200018</guid>
             <pubDate>Wed, 20 Apr 2022 05:00:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 13:27:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세 번째 '갤럭시 퀀텀' 등장…SKT는 왜 양자 스마트폰에 공 들이나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 19 Apr 2022 03:24:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-19 10:48:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원 "웹 스크래핑은 합법"…링크드인, 불복하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190002</link>
-            <guid>https://www.bloter.net/newsView/blt202204190002</guid>
-            <pubDate>Tue, 19 Apr 2022 01:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-19 09:26:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
