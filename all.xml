@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,40 +280,64 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/15/blt202204150015.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[애플, 첫 노조 결성하나...애틀랜타 매장 "투표 공식 요청" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210001</link>
-            <guid>https://www.bloter.net/newsView/blt202204210001</guid>
-            <pubDate>Wed, 20 Apr 2022 23:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 07:38:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[GC셀, 美 바이오센트릭 인수…3.5% CDMO 매출 비중 얼마나 늘까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210005</link>
+            <guid>https://www.bloter.net/newsView/blt202204210005</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 10:54:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210005.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[美 노사관계 기관, "아마존, 시위 참여해 해고당한 직원 복귀시켜야" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200006</link>
-            <guid>https://www.bloter.net/newsView/blt202204200006</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK바사 독감 백신 생산 계획이 GC녹십자에 미치는 영향 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203150377</link>
+            <guid>https://www.bloter.net/newsView/blt202203150377</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플도 노조 설립 움직임…뉴욕 매장 직원 '서명 운동' 시작 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180002</link>
-            <guid>https://www.bloter.net/newsView/blt202204180002</guid>
-            <pubDate>Wed, 20 Apr 2022 23:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼바·셀트·SK바사, 엔데믹 전환에 ‘새 판짜기’…재무적 여력은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203030153</link>
+            <guid>https://www.bloter.net/newsView/blt202203030153</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아마존, 노조 설립 투표 앞둔 창고서 '반노조 캠페인' 의혹 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140003</link>
-            <guid>https://www.bloter.net/newsView/blt202204140003</guid>
-            <pubDate>Wed, 20 Apr 2022 23:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대웅제약, 개발비 자산화율 상승세…탄탄한 R&D로 실적도 ‘방긋’ (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202160205</link>
+            <guid>https://www.bloter.net/newsView/blt202202160205</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[블리자드, QA 직원 1100명 정규직 전환한다…"노조 결성과는 무관" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080005</link>
-            <guid>https://www.bloter.net/newsView/blt202204080005</guid>
-            <pubDate>Wed, 20 Apr 2022 23:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[코로나19 ‘엔데믹’ 전환 신호…‘백신 올인’ SK바사, 다음은 있을까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202130003</link>
+            <guid>https://www.bloter.net/newsView/blt202202130003</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG생건, 올해도 M&A는 계속...美 크렘샵 인수 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200105</link>
+            <guid>https://www.bloter.net/newsView/blt202204200105</guid>
+            <pubDate>Wed, 20 Apr 2022 13:36:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-20 18:17:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200038.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[순손실 6배 증가한 '제페토'는 성장 중 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200055</link>
+            <guid>https://www.bloter.net/newsView/blt202204200055</guid>
+            <pubDate>Wed, 20 Apr 2022 09:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-20 18:11:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT·LG전자는 ‘로봇’, SKT는 AI반도체...삼성전자는 무엇? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200070</link>
+            <guid>https://www.bloter.net/newsView/blt202204200070</guid>
+            <pubDate>Wed, 20 Apr 2022 08:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 16:34:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200032.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우버·리프트, 美 연방법원 판결에 마스크 의무화 조치 폐지 (블로터 ─ 비즈니스)]]></title>
@@ -338,30 +362,6 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200003</link>
-            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-20 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 구독자 수 11년만에 20만명 감소…왜? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200002</link>
-            <guid>https://www.bloter.net/newsView/blt202204200002</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 08:20:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어가 토종 IT서비스 기업과 '크로스 클라우드' 연합 강조한 이유 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190036</link>
-            <guid>https://www.bloter.net/newsView/blt202204190036</guid>
-            <pubDate>Tue, 19 Apr 2022 08:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-19 16:36:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -400,12 +400,36 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]GC셀, 美 바이오센트릭 인수…3.5% CDMO 매출 비중 얼마나 늘까? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210005</link>
+            <guid>https://www.bloter.net/newsView/blt202204210005</guid>
+            <pubDate>Thu, 21 Apr 2022 03:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 10:54:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210005.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘오리지널 콘텐츠’ 미는 인스타그램, 추천 알고리즘 변경한다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210006</link>
+            <guid>https://www.bloter.net/newsView/blt202204210006</guid>
+            <pubDate>Thu, 21 Apr 2022 03:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 10:02:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210008.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘어닝 서프라이즈’ 테슬라, 상하이 공장 중단에도 1Q 매출 23조원 돌파 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210004</link>
+            <guid>https://www.bloter.net/newsView/blt202204210004</guid>
+            <pubDate>Thu, 21 Apr 2022 03:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 09:09:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210002.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[애플, 첫 노조 결성하나...애틀랜타 매장 "투표 공식 요청" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204210001</link>
             <guid>https://www.bloter.net/newsView/blt202204210001</guid>
             <pubDate>Wed, 20 Apr 2022 23:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 07:38:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WIS 2022]②AI가 전화 받고 춤 실력 채점한다...KT의 '디지코 시티' (블로터 ─ 테크)]]></title>
@@ -518,30 +542,6 @@ BGF가 온라인 식품 판매 사업 자회사 헬로네이처의 영업을 정
             <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200003</link>
-            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-20 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 구독자 수 11년만에 20만명 감소…왜? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200002</link>
-            <guid>https://www.bloter.net/newsView/blt202204200002</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 08:20:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[5G 3년] ④화웨이, 장비 시장은 지켰다...친환경 띄우고 B2B 솔루션 확대 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190074</link>
-            <guid>https://www.bloter.net/newsView/blt202204190074</guid>
-            <pubDate>Tue, 19 Apr 2022 23:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-20 07:09:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

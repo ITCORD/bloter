@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG생건, 올해도 M&A는 계속...美 크렘샵 인수]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200105</link>
+            <guid>https://www.bloter.net/newsView/blt202204200105</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-20 18:17:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200038.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[순손실 6배 증가한 '제페토'는 성장 중]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200055</link>
+            <guid>https://www.bloter.net/newsView/blt202204200055</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-20 18:11:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT·LG전자는 ‘로봇’, SKT는 AI반도체...삼성전자는 무엇?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200070</link>
+            <guid>https://www.bloter.net/newsView/blt202204200070</guid>
+            <pubDate>Thu, 21 Apr 2022 03:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 16:34:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우버·리프트, 美 연방법원 판결에 마스크 의무화 조치 폐지]]></title>
             <link>https://www.bloter.net/newsView/blt202204200011</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 20 Apr 2022 11:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200003</link>
-            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
-            <pubDate>Wed, 20 Apr 2022 08:26:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-20 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 구독자 수 11년만에 20만명 감소…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200002</link>
-            <guid>https://www.bloter.net/newsView/blt202204200002</guid>
-            <pubDate>Wed, 20 Apr 2022 03:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 08:20:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어가 토종 IT서비스 기업과 '크로스 클라우드' 연합 강조한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190036</link>
-            <guid>https://www.bloter.net/newsView/blt202204190036</guid>
-            <pubDate>Wed, 20 Apr 2022 03:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-19 16:36:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
