@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 07:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 첫 노조 결성하나...애틀랜타 매장 "투표 공식 요청"]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210001</link>
+            <guid>https://www.bloter.net/newsView/blt202204210001</guid>
+            <pubDate>Thu, 21 Apr 2022 07:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 07:38:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG생건, 올해도 M&A는 계속...美 크렘샵 인수]]></title>
             <link>https://www.bloter.net/newsView/blt202204200105</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 20 Apr 2022 11:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 09:58:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 노사관계 기관, "아마존, 시위 참여해 해고당한 직원 복귀시켜야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200006</link>
-            <guid>https://www.bloter.net/newsView/blt202204200006</guid>
-            <pubDate>Wed, 20 Apr 2022 11:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

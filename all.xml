@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 07:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,6 +324,14 @@ LG마그나 이파워트레인이 멕시코에 전기차 부품 생산공장을 
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[애플, 첫 노조 결성하나...애틀랜타 매장 "투표 공식 요청" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210001</link>
+            <guid>https://www.bloter.net/newsView/blt202204210001</guid>
+            <pubDate>Wed, 20 Apr 2022 23:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 07:38:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG생건, 올해도 M&A는 계속...美 크렘샵 인수 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202204200105</link>
             <guid>https://www.bloter.net/newsView/blt202204200105</guid>
@@ -364,14 +372,6 @@ LG마그나 이파워트레인이 멕시코에 전기차 부품 생산공장을 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[美 노사관계 기관, "아마존, 시위 참여해 해고당한 직원 복귀시켜야" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200006</link>
-            <guid>https://www.bloter.net/newsView/blt202204200006</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -408,12 +408,44 @@ LG마그나 이파워트레인이 멕시코에 전기차 부품 생산공장을 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[외상값, 빠르게 현금으로…더존비즈온, '매출채권팩토링' 확산한다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210037</link>
+            <guid>https://www.bloter.net/newsView/blt202204210037</guid>
+            <pubDate>Thu, 21 Apr 2022 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-21 16:09:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210023.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG 공격한 '랩서스 해킹'에 SK쉴더스가 대응하는 법 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210025</link>
+            <guid>https://www.bloter.net/newsView/blt202204210025</guid>
+            <pubDate>Thu, 21 Apr 2022 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-21 15:50:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210017.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카페24·KT, 소상공인 디지털 전환 돕고 사업 '윈윈' 노린다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210026</link>
+            <guid>https://www.bloter.net/newsView/blt202204210026</guid>
+            <pubDate>Thu, 21 Apr 2022 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-21 15:48:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210018.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WIS 2022]③가상인간 유튜버 활동, 한 달에 4만원이라면? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210019</link>
+            <guid>https://www.bloter.net/newsView/blt202204210019</guid>
+            <pubDate>Thu, 21 Apr 2022 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-21 15:34:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210009.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]GC셀, 美 바이오센트릭 인수…3.5% CDMO 매출 비중 얼마나 늘까? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202204210005</link>
             <guid>https://www.bloter.net/newsView/blt202204210005</guid>
             <pubDate>Thu, 21 Apr 2022 03:29:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 10:54:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘오리지널 콘텐츠’ 미는 인스타그램, 추천 알고리즘 변경한다 (블로터 ─ 테크)]]></title>
@@ -518,38 +550,6 @@ LG마그나 이파워트레인이 멕시코에 전기차 부품 생산공장을 
             <pubDate>Wed, 20 Apr 2022 04:56:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 13:27:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세 번째 '갤럭시 퀀텀' 등장…SKT는 왜 양자 스마트폰에 공 들이나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200014</link>
-            <guid>https://www.bloter.net/newsView/blt202204200014</guid>
-            <pubDate>Wed, 20 Apr 2022 03:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-20 11:19:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우버·리프트, 美 연방법원 판결에 마스크 의무화 조치 폐지 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200011</link>
-            <guid>https://www.bloter.net/newsView/blt202204200011</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 10:00:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200006.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[WIS2022 개막...코로나19 이후 메타버스·디지털트윈·AI·자율주행 트렌드는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200012</link>
-            <guid>https://www.bloter.net/newsView/blt202204200012</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-20 09:58:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 노사관계 기관, "아마존, 시위 참여해 해고당한 직원 복귀시켜야" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200006</link>
-            <guid>https://www.bloter.net/newsView/blt202204200006</guid>
-            <pubDate>Wed, 20 Apr 2022 01:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-20 09:10:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
