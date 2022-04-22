@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:29:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]P2E 없이 NFT 앞세운 '플레이위드'…'신사업 투자' 변수는 부동산?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220141</link>
+            <guid>https://www.bloter.net/newsView/blt202204220141</guid>
+            <pubDate>Fri, 22 Apr 2022 10:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 읽고 가세요·'로한온라인'과 '씰온라인'의 IP를 보유한 게임사 플레이위드가 블록체인 신사업을 발표했습니다. 플레이위드는 '씰온라인'에 NFT를 더한 비즈니스 모델로 대만 등 글로벌 시장을 순차 공략할 계획입니다.·그러나 블록체인 게임 후발주자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220045.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷마블, 블록체인 자회사 '마브렉스' 출격…신임 대표 체제 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202204220042</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 19 Apr 2022 01:25:24 GMT</pubDate>
             <content:encoded><![CDATA[예약판매 시작 20분 만에 완판을 기록하며 화제를 모았던 휴대용 콘솔 게임기 '플레이데이트'(Playdate)가 정식 출시됐다.  18일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 플레이데이트 제조사인 '패닉'은 지난해 사전예약으로 게임기를 구매한 고객들에게 배송이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190001.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['배송 서비스' 세분화 나선 명품 커머스 시장, 각사 전략은]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180083</link>
-            <guid>https://www.bloter.net/newsView/blt202204180083</guid>
-            <pubDate>Mon, 18 Apr 2022 13:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[명품 커머스 업계의 배송 시스템이 세분화될 지 주목된다. 이달부터 빠른 배송 서비스를 시행 중인 '발란'이 배송 기간에 따른 이용 고객의 연령층이 상이하다는 결과를 내놓으면서다. 다만, 명품 커머스 업체들이 제품 유통 과정 등이 상이한 점을 고려하면 명품 커]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180037.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
