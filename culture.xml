@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 04:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 05:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]넷마블, 블록체인 자회사 '마브렉스' 출격…신임 대표 체제 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220042</link>
+            <guid>https://www.bloter.net/newsView/blt202204220042</guid>
+            <pubDate>Fri, 22 Apr 2022 05:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블이 지난 2월 예고한 블록체인 전담 신설 자회사가 프로젝트명과 동일한 '마브렉스'인 것으로 확인됐다. 앞서 지난 2월 28일 넷마블은 자체 블록체인 생태계 '마브렉스'(MABLEX)를 공개하며 신설 자회사 설립을 예고한 바 있다.22일 &lt;블로터&gt; 취재 결과, 지난 5]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220015.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지옥' 제작진 연상호·최규석, 카카오페이지 웹툰 '계시록'으로 재회]]></title>
             <link>https://www.bloter.net/newsView/blt202204220019</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Apr 2022 13:35:39 GMT</pubDate>
             <content:encoded><![CDATA[명품 커머스 업계의 배송 시스템이 세분화될 지 주목된다. 이달부터 빠른 배송 서비스를 시행 중인 '발란'이 배송 기간에 따른 이용 고객의 연령층이 상이하다는 결과를 내놓으면서다. 다만, 명품 커머스 업체들이 제품 유통 과정 등이 상이한 점을 고려하면 명품 커]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180037.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]skyTV, 유빈·말왕 웹예능 'H클럽' 론칭…디지털 콘텐츠 강화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204180001</link>
-            <guid>https://www.bloter.net/newsView/blt202204180001</guid>
-            <pubDate>Thu, 21 Apr 2022 12:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[skyTV가 웹예능을 통해 유튜브 채널을 강화한다. '원더걸스' 출신 유빈과 유튜버 '말왕'을 캐스팅한 웹예능을 론칭해 디지털 콘텐츠 경쟁력을 제고한다는 계획이다.18일 &lt;블로터&gt; 취재 결과, skyTV의 유튜브 채널 '덤덤스튜디오'가 유빈과 말왕을 MC로 내세운 연예 웹]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
