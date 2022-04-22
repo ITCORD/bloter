@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지옥' 제작진 연상호·최규석, 카카오페이지 웹툰 '계시록'으로 재회]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220019</link>
+            <guid>https://www.bloter.net/newsView/blt202204220019</guid>
+            <pubDate>Fri, 22 Apr 2022 03:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 오리지널 시리즈로 영상화 되며 화제를 모았던 웹툰 '지옥'의 제작진이 새로운 작품으로 돌아온다.   22일 카카오엔터테인먼트에 따르면, 연상호 감독과 최규석 작가가 오는 23일부터 카카오페이지에 신작 웹툰 '계시록'(글 연상호·그림 최규석·제]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220008.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잡음 많았던 ‘CNN플러스’, 한 달 만에 폐지]]></title>
             <link>https://www.bloter.net/newsView/blt202204220005</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 21 Apr 2022 12:37:00 GMT</pubDate>
             <content:encoded><![CDATA[skyTV가 웹예능을 통해 유튜브 채널을 강화한다. '원더걸스' 출신 유빈과 유튜버 '말왕'을 캐스팅한 웹예능을 론칭해 디지털 콘텐츠 경쟁력을 제고한다는 계획이다.18일 &lt;블로터&gt; 취재 결과, skyTV의 유튜브 채널 '덤덤스튜디오'가 유빈과 말왕을 MC로 내세운 연예 웹]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/18/blt202204180001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국세무학회는 왜 '콘텐츠 제작 세제지원'에 주목하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204170001</link>
-            <guid>https://www.bloter.net/newsView/blt202204170001</guid>
-            <pubDate>Thu, 21 Apr 2022 12:37:00 GMT</pubDate>
-            <content:encoded><![CDATA['오징어게임', '지옥', '지금 우리 학교는'의 공통점은 한국에서 제작한 글로벌 콘텐츠라는 점이다. 특히 오징어게임의 콘텐츠 파급력은 국내를 넘어 미국을 비롯한 전 세계로 뻗어나가며, 한국 제작자들의 창의성과 기획력을 재확인시킨 계기로 알려져 있다. 물론 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/17/blt202204170001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

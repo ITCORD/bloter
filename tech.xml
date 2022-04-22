@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 01:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 03:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지옥' 제작진 연상호·최규석, 카카오페이지 웹툰 '계시록'으로 재회]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220019</link>
+            <guid>https://www.bloter.net/newsView/blt202204220019</guid>
+            <pubDate>Fri, 22 Apr 2022 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-22 11:24:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['개방형 혁신' 외친 SK하이닉스, 반도체 연구 성과 공유한다]]></title>
             <link>https://www.bloter.net/newsView/blt202204220010</link>
             <guid>https://www.bloter.net/newsView/blt202204220010</guid>
             <pubDate>Fri, 22 Apr 2022 01:24:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 10:04:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타 COO, 남자친구 기사 막으려 英 매체에 외압...의혹 제기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 20 Apr 2022 23:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 07:38:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[WIS 2022]②AI가 전화 받고 춤 실력 채점한다...KT의 '디지코 시티']]></title>
-            <link>https://www.bloter.net/newsView/blt202204200106</link>
-            <guid>https://www.bloter.net/newsView/blt202204200106</guid>
-            <pubDate>Wed, 20 Apr 2022 12:37:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-20 19:23:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
