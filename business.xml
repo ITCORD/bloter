@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 07:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니도 게임에 광고 붙이나…“개발자 수익 창출 방안 검토 중”]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220001</link>
+            <guid>https://www.bloter.net/newsView/blt202204220001</guid>
+            <pubDate>Fri, 22 Apr 2022 08:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 07:57:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[과기부 1년 이끈 임혜숙 장관 “원자력 장기적 감축, 尹정부도 비슷할 듯”]]></title>
             <link>https://www.bloter.net/newsView/blt202204210066</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 21 Apr 2022 09:17:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 09:09:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 첫 노조 결성하나...애틀랜타 매장 "투표 공식 요청"]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210001</link>
-            <guid>https://www.bloter.net/newsView/blt202204210001</guid>
-            <pubDate>Thu, 21 Apr 2022 07:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 07:38:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

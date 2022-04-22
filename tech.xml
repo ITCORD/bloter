@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 07:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위생부터 세척까지, 살균해서 더 깨끗한 'LG 퓨리케어 오브제컬렉션 듀얼 정수기']]></title>
+            <link>https://www.bloter.net/newsView/blt202204220066</link>
+            <guid>https://www.bloter.net/newsView/blt202204220066</guid>
+            <pubDate>Fri, 22 Apr 2022 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 16:35:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["SM 지분 인수 안 한다" 못 박은 네이버...카카오-CJ 2파전]]></title>
             <link>https://www.bloter.net/newsView/blt202204220059</link>
             <guid>https://www.bloter.net/newsView/blt202204220059</guid>
             <pubDate>Fri, 22 Apr 2022 07:17:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-22 15:20:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공교육 시장 공략하는 네이버…웨일스페이스 계정으로 T셀파 쓴다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 21 Apr 2022 07:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-21 15:50:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페24·KT, 소상공인 디지털 전환 돕고 사업 '윈윈' 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210026</link>
-            <guid>https://www.bloter.net/newsView/blt202204210026</guid>
-            <pubDate>Thu, 21 Apr 2022 07:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-21 15:48:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
