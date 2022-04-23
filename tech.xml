@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 23:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 01:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이젠, 우주]일주일 뒤 펼쳐지는 ‘우주쇼’…금성·목성 겹친다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220145</link>
+            <guid>https://www.bloter.net/newsView/blt202204220145</guid>
+            <pubDate>Sat, 23 Apr 2022 01:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-23 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220053.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[폰SIGHT]갤럭시 '공시지원금' 올랐다는데...정말 싸졌을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220103</link>
+            <guid>https://www.bloter.net/newsView/blt202204220103</guid>
+            <pubDate>Sat, 23 Apr 2022 01:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-23 07:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220026.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]P2E 없이 NFT 앞세운 '플레이위드'…'신사업 투자' 변수는 부동산?]]></title>
             <link>https://www.bloter.net/newsView/blt202204220141</link>
             <guid>https://www.bloter.net/newsView/blt202204220141</guid>
             <pubDate>Fri, 22 Apr 2022 10:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-22 18:55:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220045.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 치료제 효과 끝?…셀트리온, 다시 바이오시밀러 집중]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 21 Apr 2022 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-21 18:02:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210033.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]왓챠 2.0 '김보통프로젝트', 시작은 OTT 영화 '사막의 왕']]></title>
-            <link>https://www.bloter.net/newsView/blt202204210036</link>
-            <guid>https://www.bloter.net/newsView/blt202204210036</guid>
-            <pubDate>Thu, 21 Apr 2022 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-21 17:36:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블에프앤씨, '큐브 허브' 오픈…히든 타이틀 대거 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210028</link>
-            <guid>https://www.bloter.net/newsView/blt202204210028</guid>
-            <pubDate>Thu, 21 Apr 2022 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-21 16:25:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
