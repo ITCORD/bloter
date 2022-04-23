@@ -1,40 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
+        <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 06:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[위생부터 세척까지, 살균해서 더 깨끗한 'LG 퓨리케어 오브제컬렉션 듀얼 정수기']]></title>
-            <link>https://www.bloter.net/newsView/blt202204220066</link>
-            <guid>https://www.bloter.net/newsView/blt202204220066</guid>
-            <pubDate>Fri, 22 Apr 2022 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 16:35:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220020.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[소니도 게임에 광고 붙이나…“개발자 수익 창출 방안 검토 중”]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220001</link>
+            <guid>https://www.bloter.net/newsView/blt202204220001</guid>
+            <pubDate>Fri, 22 Apr 2022 08:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 07:57:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220001.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[②LG전자 NFT·블록체인은 어떤 모습일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240089</link>
-            <guid>https://www.bloter.net/newsView/blt202203240089</guid>
-            <pubDate>Fri, 22 Apr 2022 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[과기부 1년 이끈 임혜숙 장관 “원자력 장기적 감축, 尹정부도 비슷할 듯”]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210066</link>
+            <guid>https://www.bloter.net/newsView/blt202204210066</guid>
+            <pubDate>Fri, 22 Apr 2022 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 18:08:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210031.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[①변화 외친 LG전자, 투자 방향 어떻게 달라졌나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203230384</link>
-            <guid>https://www.bloter.net/newsView/blt202203230384</guid>
-            <pubDate>Fri, 22 Apr 2022 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LS 구자은의 ‘에너지 솔루션’ 비전, ‘자체 포설선’의 역할은]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210022</link>
+            <guid>https://www.bloter.net/newsView/blt202204210022</guid>
+            <pubDate>Fri, 22 Apr 2022 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-21 15:32:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210015.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG전자는 왜 사업을 접을 때마다 주가가 오르나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240007</link>
-            <guid>https://www.bloter.net/newsView/blt202202240007</guid>
-            <pubDate>Fri, 22 Apr 2022 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[GC셀, 美 바이오센트릭 인수…3.5% CDMO 매출 비중 얼마나 늘까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210005</link>
+            <guid>https://www.bloter.net/newsView/blt202204210005</guid>
+            <pubDate>Fri, 22 Apr 2022 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 10:54:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210005.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘오리지널 콘텐츠’ 미는 인스타그램, 추천 알고리즘 변경한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210006</link>
+            <guid>https://www.bloter.net/newsView/blt202204210006</guid>
+            <pubDate>Fri, 22 Apr 2022 03:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 10:02:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210008.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘어닝 서프라이즈’ 테슬라, 상하이 공장 중단에도 1Q 매출 23조원 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202204210004</link>
+            <guid>https://www.bloter.net/newsView/blt202204210004</guid>
+            <pubDate>Thu, 21 Apr 2022 09:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 09:09:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
