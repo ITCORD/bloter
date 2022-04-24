@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 06:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 07:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[활성화되는 '크리에이터 경제', 소득 수준은 천차만별]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220143</link>
+            <guid>https://www.bloter.net/newsView/blt202204220143</guid>
+            <pubDate>Sun, 24 Apr 2022 07:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220050.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[러시아의 언론 통제, VPN으로 해결할 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202204220136</link>
             <guid>https://www.bloter.net/newsView/blt202204220136</guid>
             <pubDate>Sun, 24 Apr 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220034.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220034.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[테크체인저]'리틀피카소'는 아이들의 그림으로 뭘 하려는 걸까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-22 11:24:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['개방형 혁신' 외친 SK하이닉스, 반도체 연구 성과 공유한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220010</link>
-            <guid>https://www.bloter.net/newsView/blt202204220010</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 10:04:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220007.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
