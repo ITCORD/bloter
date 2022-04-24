@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[위생부터 세척까지, 살균해서 더 깨끗한 'LG 퓨리케어 오브제컬렉션 듀얼 정수기']]></title>
-            <link>https://www.bloter.net/newsView/blt202204220066</link>
-            <guid>https://www.bloter.net/newsView/blt202204220066</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 16:35:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220020.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세계 최대 OTT 넷플릭스 구독자 감소…업계 위기 신호탄?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220144</link>
+            <guid>https://www.bloter.net/newsView/blt202204220144</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[②LG전자 NFT·블록체인은 어떤 모습일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240089</link>
-            <guid>https://www.bloter.net/newsView/blt202203240089</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[넷플릭스 구독자 수 11년만에 20만명 감소…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200002</link>
+            <guid>https://www.bloter.net/newsView/blt202204200002</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[①변화 외친 LG전자, 투자 방향 어떻게 달라졌나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203230384</link>
-            <guid>https://www.bloter.net/newsView/blt202203230384</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["넷플릭스, 망 사용료 내야…" 해외 전문가가 말하는 3가지 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230665</link>
+            <guid>https://www.bloter.net/newsView/blt202203230665</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자는 왜 사업을 접을 때마다 주가가 오르나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240007</link>
-            <guid>https://www.bloter.net/newsView/blt202202240007</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[넷플릭스, 계정 공유에 추가 요금 부과…중남미 3개국서 시범 운영]]></title>
+            <link>https://www.bloter.net/newsView/blt202203170003</link>
+            <guid>https://www.bloter.net/newsView/blt202203170003</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OTT업계, 광고 붙인 저가요금제 출시 열풍…넷플릭스는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110224</link>
+            <guid>https://www.bloter.net/newsView/blt202203110224</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잡음 많았던 ‘CNN플러스’, 한 달 만에 폐지]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220005</link>
+            <guid>https://www.bloter.net/newsView/blt202204220005</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 08:35:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220002.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[소니도 게임에 광고 붙이나…“개발자 수익 창출 방안 검토 중”]]></title>
             <link>https://www.bloter.net/newsView/blt202204220001</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 10:02:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210008.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘어닝 서프라이즈’ 테슬라, 상하이 공장 중단에도 1Q 매출 23조원 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210004</link>
-            <guid>https://www.bloter.net/newsView/blt202204210004</guid>
-            <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 09:09:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

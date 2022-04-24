@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최대 OTT 넷플릭스 구독자 감소…업계 위기 신호탄?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220144</link>
+            <guid>https://www.bloter.net/newsView/blt202204220144</guid>
+            <pubDate>Sun, 24 Apr 2022 04:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[5G 3년]⑤매출 '제자리걸음'이지만 영업익 늘린 에릭슨엘지…무슨 일?]]></title>
             <link>https://www.bloter.net/newsView/blt202204220139</link>
             <guid>https://www.bloter.net/newsView/blt202204220139</guid>
             <pubDate>Sun, 24 Apr 2022 03:29:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-24 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220036.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220036.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[함께 쓰는 풀리퀘]그 비밀번호가 안전하지 않은 이유②]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 08:35:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220002.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니도 게임에 광고 붙이나…“개발자 수익 창출 방안 검토 중”]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220001</link>
-            <guid>https://www.bloter.net/newsView/blt202204220001</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 07:57:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
