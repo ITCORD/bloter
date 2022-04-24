@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 머스크 만난다…인수 제안 재검토]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250001</link>
+            <guid>https://www.bloter.net/newsView/blt202204250001</guid>
+            <pubDate>Sun, 24 Apr 2022 23:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 일론 머스크 테슬라 최고경영자(CEO)의 430억달러(약 53조4700억원) 인수 제안을 재검토 중이라는 보도가 나왔다.24일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt;은 소식통을 인용한 단독 보도에서 트위터 측이 머스크가 인수자금 조달 방안을 마련한 직후에 전]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]클라이맥스스튜디오는 왜 OSMU 전략을 택했을까]]></title>
             <link>https://www.bloter.net/newsView/blt202204240001</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
             <content:encoded><![CDATA[넷마블이 자체 블록체인 생태계인 '마브렉스'(MBX) 활성화를 위해 도입하기로 한 탈중앙화거래소(DEX)를 오는 26일 오픈한다. 이를 통해 지난달부터 시작한 넷마블의 자체 기축통화 기반 블록체인 생태계가 한층 활성화될 것으로 예상된다.20일 &lt;블로터&gt; 취재 결과,]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]JTBC스튜디오, 'SLL'로 리뉴얼…연매출 2조 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190075</link>
-            <guid>https://www.bloter.net/newsView/blt202204190075</guid>
-            <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA["올해부터 2024년까지 누적 3조원을 투자할 예정입니다. 이를 통해 해외 매출 비중을 키워서 2024년에는 연매출 2조원 이상을 확보하는 것이 목표인데요. 이를 통해 SLL은 전세계 시청자를 사로잡는 프리미엄 콘텐츠 제작사로 자리매김할 것입니다. 이것이 국내를 뛰어]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/19/blt202204190028.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

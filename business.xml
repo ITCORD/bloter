@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위생부터 세척까지, 살균해서 더 깨끗한 'LG 퓨리케어 오브제컬렉션 듀얼 정수기']]></title>
+            <link>https://www.bloter.net/newsView/blt202204220066</link>
+            <guid>https://www.bloter.net/newsView/blt202204220066</guid>
+            <pubDate>Sun, 24 Apr 2022 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 16:35:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['개방형 혁신' 외친 SK하이닉스, 반도체 연구 성과 공유한다]]></title>
             <link>https://www.bloter.net/newsView/blt202204220010</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 18:08:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LS 구자은의 ‘에너지 솔루션’ 비전, ‘자체 포설선’의 역할은]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210022</link>
-            <guid>https://www.bloter.net/newsView/blt202204210022</guid>
-            <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-21 15:32:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210015.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
