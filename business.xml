@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 05:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 06:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타 COO, 남자친구 기사 막으려 英 매체에 외압...의혹 제기]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220008</link>
+            <guid>https://www.bloter.net/newsView/blt202204220008</guid>
+            <pubDate>Sun, 24 Apr 2022 06:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 09:50:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[잡음 많았던 ‘CNN플러스’, 한 달 만에 폐지]]></title>
             <link>https://www.bloter.net/newsView/blt202204220005</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 10:54:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘오리지널 콘텐츠’ 미는 인스타그램, 추천 알고리즘 변경한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210006</link>
-            <guid>https://www.bloter.net/newsView/blt202204210006</guid>
-            <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-21 10:02:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210008.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
