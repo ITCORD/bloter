@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 02:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 03:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[5G 3년]⑤매출 '제자리걸음'이지만 영업익 늘린 에릭슨엘지…무슨 일?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220139</link>
+            <guid>https://www.bloter.net/newsView/blt202204220139</guid>
+            <pubDate>Sun, 24 Apr 2022 03:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-24 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220036.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[함께 쓰는 풀리퀘]그 비밀번호가 안전하지 않은 이유②]]></title>
             <link>https://www.bloter.net/newsView/blt202204220140</link>
             <guid>https://www.bloter.net/newsView/blt202204220140</guid>
             <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-23 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이젠, 우주]일주일 뒤 펼쳐지는 ‘우주쇼’…금성·목성 겹친다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 07:57:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기부 1년 이끈 임혜숙 장관 “원자력 장기적 감축, 尹정부도 비슷할 듯”]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210066</link>
-            <guid>https://www.bloter.net/newsView/blt202204210066</guid>
-            <pubDate>Sat, 23 Apr 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 18:08:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
