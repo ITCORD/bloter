@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 01:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아의 언론 통제, VPN으로 해결할 수 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220136</link>
+            <guid>https://www.bloter.net/newsView/blt202204220136</guid>
+            <pubDate>Mon, 25 Apr 2022 01:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220034.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 최대 OTT 넷플릭스 구독자 감소…업계 위기 신호탄?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220144</link>
+            <guid>https://www.bloter.net/newsView/blt202204220144</guid>
+            <pubDate>Mon, 25 Apr 2022 01:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위생부터 세척까지, 살균해서 더 깨끗한 'LG 퓨리케어 오브제컬렉션 듀얼 정수기']]></title>
             <link>https://www.bloter.net/newsView/blt202204220066</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 24 Apr 2022 04:22:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 08:35:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니도 게임에 광고 붙이나…“개발자 수익 창출 방안 검토 중”]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220001</link>
-            <guid>https://www.bloter.net/newsView/blt202204220001</guid>
-            <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 07:57:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과기부 1년 이끈 임혜숙 장관 “원자력 장기적 감축, 尹정부도 비슷할 듯”]]></title>
-            <link>https://www.bloter.net/newsView/blt202204210066</link>
-            <guid>https://www.bloter.net/newsView/blt202204210066</guid>
-            <pubDate>Sat, 23 Apr 2022 12:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-21 18:08:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210031.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
