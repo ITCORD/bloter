@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:31:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG화학, LG엔솔 서포터 역할 충실…열폭 방지 소재 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250007</link>
+            <guid>https://www.bloter.net/newsView/blt202204250007</guid>
+            <pubDate>Mon, 25 Apr 2022 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-25 09:40:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 오래된 앱 퇴출한다…개발자들 '반발']]></title>
+            <link>https://www.bloter.net/newsView/blt202204250003</link>
+            <guid>https://www.bloter.net/newsView/blt202204250003</guid>
+            <pubDate>Mon, 25 Apr 2022 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-25 09:08:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 머스크 만난다…인수 제안 재검토]]></title>
             <link>https://www.bloter.net/newsView/blt202204250001</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 25 Apr 2022 01:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위생부터 세척까지, 살균해서 더 깨끗한 'LG 퓨리케어 오브제컬렉션 듀얼 정수기']]></title>
-            <link>https://www.bloter.net/newsView/blt202204220066</link>
-            <guid>https://www.bloter.net/newsView/blt202204220066</guid>
-            <pubDate>Sun, 24 Apr 2022 23:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 16:35:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['개방형 혁신' 외친 SK하이닉스, 반도체 연구 성과 공유한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220010</link>
-            <guid>https://www.bloter.net/newsView/blt202204220010</guid>
-            <pubDate>Sun, 24 Apr 2022 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 10:04:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
