@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 08:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU, '구글·메타' 정조준…디지털서비스법 도입한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250012</link>
+            <guid>https://www.bloter.net/newsView/blt202204250012</guid>
+            <pubDate>Mon, 25 Apr 2022 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-25 10:27:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250004.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[LG화학, LG엔솔 서포터 역할 충실…열폭 방지 소재 개발]]></title>
             <link>https://www.bloter.net/newsView/blt202204250007</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 25 Apr 2022 01:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220034.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 OTT 넷플릭스 구독자 감소…업계 위기 신호탄?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220144</link>
-            <guid>https://www.bloter.net/newsView/blt202204220144</guid>
-            <pubDate>Mon, 25 Apr 2022 01:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
