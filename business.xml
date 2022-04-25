@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 03:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 머스크 만난다…인수 제안 재검토]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250001</link>
+            <guid>https://www.bloter.net/newsView/blt202204250001</guid>
+            <pubDate>Mon, 25 Apr 2022 04:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-25 08:13:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[활성화되는 '크리에이터 경제', 소득 수준은 천차만별]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220143</link>
+            <guid>https://www.bloter.net/newsView/blt202204220143</guid>
+            <pubDate>Mon, 25 Apr 2022 04:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-24 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220050.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[러시아의 언론 통제, VPN으로 해결할 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202204220136</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 24 Apr 2022 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-22 10:04:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타 COO, 남자친구 기사 막으려 英 매체에 외압...의혹 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220008</link>
-            <guid>https://www.bloter.net/newsView/blt202204220008</guid>
-            <pubDate>Sun, 24 Apr 2022 06:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 09:50:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잡음 많았던 ‘CNN플러스’, 한 달 만에 폐지]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220005</link>
-            <guid>https://www.bloter.net/newsView/blt202204220005</guid>
-            <pubDate>Sun, 24 Apr 2022 04:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-22 08:35:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220002.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
