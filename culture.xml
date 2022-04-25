@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]'게임인재단'은 왜 '미래콘텐츠재단'으로 바뀔까]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250044</link>
+            <guid>https://www.bloter.net/newsView/blt202204250044</guid>
+            <pubDate>Mon, 25 Apr 2022 07:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 머스크 만난다…인수 제안 재검토]]></title>
             <link>https://www.bloter.net/newsView/blt202204250001</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
             <content:encoded><![CDATA[소셜미디어(SNS) 인스타그램이 ‘오리지널 콘텐츠’가 보다 많이 노출되도록 게시물 노출 알고리즘을 변경한다.20일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 인스타그램은 오리지널 콘텐츠를 보다 많이 추천해서 인스타그램 피드나 릴스에 자주 노출되도]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/21/blt202204210008.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]MBX 월렛 DEX, 26일 오픈…넷마블 블록체인 생태계 커진다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200035</link>
-            <guid>https://www.bloter.net/newsView/blt202204200035</guid>
-            <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블이 자체 블록체인 생태계인 '마브렉스'(MBX) 활성화를 위해 도입하기로 한 탈중앙화거래소(DEX)를 오는 26일 오픈한다. 이를 통해 지난달부터 시작한 넷마블의 자체 기축통화 기반 블록체인 생태계가 한층 활성화될 것으로 예상된다.20일 &lt;블로터&gt; 취재 결과,]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
