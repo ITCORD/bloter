@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자 파운드리, 전문 기관도 '점유율 하락' 전망]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260063</link>
-            <guid>https://www.bloter.net/newsView/blt202204260063</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-26 16:16:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260023.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA['오늘의집', 손실 늘어도 '슈퍼앱' 진화는 계속]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260052</link>
+            <guid>https://www.bloter.net/newsView/blt202204260052</guid>
+            <pubDate>Tue, 26 Apr 2022 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-26 17:18:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260016.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파운드리 전망 불확실한 삼성전자..DB하이텍은 10위권 밖으로]]></title>
-            <link>https://www.bloter.net/newsView/blt202203140134</link>
-            <guid>https://www.bloter.net/newsView/blt202203140134</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['당근마켓' 순손실이 3배 늘어난 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110265</link>
+            <guid>https://www.bloter.net/newsView/blt202204110265</guid>
+            <pubDate>Tue, 26 Apr 2022 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파운드리 설비 투자 경쟁, 불확실한 삼성전자]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030081</link>
-            <guid>https://www.bloter.net/newsView/blt202203030081</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 54억달러에 ‘타워 세미컨덕터’ 인수...파운드리 경쟁력 제고]]></title>
-            <link>https://www.bloter.net/newsView/blt202202160010</link>
-            <guid>https://www.bloter.net/newsView/blt202202160010</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인텔, 파운드리 진출 선언...美 애리조나에 22조원 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202103240004</link>
-            <guid>https://www.bloter.net/newsView/blt202103240004</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204060002</link>
+            <guid>https://www.bloter.net/newsView/blt202204060002</guid>
+            <pubDate>Tue, 26 Apr 2022 08:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

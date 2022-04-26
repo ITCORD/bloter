@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['0.8%의 영향력'...포스코인터내셔널 '곡물 트레이딩' 비전 있을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260010</link>
+            <guid>https://www.bloter.net/newsView/blt202204260010</guid>
+            <pubDate>Tue, 26 Apr 2022 08:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-26 10:21:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 캘리포니아 캠퍼스에 오프라인 매장 오픈]]></title>
             <link>https://www.bloter.net/newsView/blt202204260006</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 26 Apr 2022 01:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-25 17:05:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250027.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데가 눈독 들이는 PI첨단소재, 매출 늘었지만 수익성 하락]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250028</link>
-            <guid>https://www.bloter.net/newsView/blt202204250028</guid>
-            <pubDate>Tue, 26 Apr 2022 01:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-25 11:34:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
