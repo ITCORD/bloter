@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 01:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LX세미콘, 역대급 실적에도 '현금흐름' 감소 배경은]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250084</link>
+            <guid>https://www.bloter.net/newsView/blt202204250084</guid>
+            <pubDate>Tue, 26 Apr 2022 04:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-25 18:12:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250039.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JY 향한 상반된 목소리...'사면' 요청한 경제계, '집 앞' 찾아간 삼성 직원]]></title>
             <link>https://www.bloter.net/newsView/blt202204250078</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 25 Apr 2022 08:23:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-25 09:40:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 오래된 앱 퇴출한다…개발자들 '반발']]></title>
-            <link>https://www.bloter.net/newsView/blt202204250003</link>
-            <guid>https://www.bloter.net/newsView/blt202204250003</guid>
-            <pubDate>Mon, 25 Apr 2022 08:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-25 09:08:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 01:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['0.8%의 영향력'...포스코인터내셔널 '곡물 트레이딩' 비전 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260010</link>
-            <guid>https://www.bloter.net/newsView/blt202204260010</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-26 10:21:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260005.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세계 1위 NFT 'BAYC' 인스타 해킹 피해…12억원 규모 NFT 도난]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260012</link>
+            <guid>https://www.bloter.net/newsView/blt202204260012</guid>
+            <pubDate>Tue, 26 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-26 10:24:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260008.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[‘종합상사의 생존법’…포스코인터, 친환경 모빌리티 사업 확장]]></title>
-            <link>https://www.bloter.net/newsView/blt202109060028</link>
-            <guid>https://www.bloter.net/newsView/blt202109060028</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[“버그 알고도 방치”...세계 최대 NFT 거래소 오픈씨, 100만달러 소송 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202202230005</link>
+            <guid>https://www.bloter.net/newsView/blt202202230005</guid>
+            <pubDate>Tue, 26 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코인터, 암바토비 악몽 계속…’3300억→310억’]]></title>
-            <link>https://www.bloter.net/newsView/blt202103070007</link>
-            <guid>https://www.bloter.net/newsView/blt202103070007</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[세계 최대 NFT 거래 플랫폼 오픈씨, 피싱 공격으로 20억원 피해]]></title>
+            <link>https://www.bloter.net/newsView/blt202202210008</link>
+            <guid>https://www.bloter.net/newsView/blt202202210008</guid>
+            <pubDate>Tue, 26 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘비상경영’ 포스코인터, 불황 속 재무개선 속도]]></title>
-            <link>https://www.bloter.net/newsView/blt202101280011</link>
-            <guid>https://www.bloter.net/newsView/blt202101280011</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[NFT 기반 불법 자금세탁 증가세...2021년 140만달러 규모 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202202030011</link>
+            <guid>https://www.bloter.net/newsView/blt202202030011</guid>
+            <pubDate>Tue, 26 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260025</link>
+            <guid>https://www.bloter.net/newsView/blt202201260025</guid>
+            <pubDate>Tue, 26 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
