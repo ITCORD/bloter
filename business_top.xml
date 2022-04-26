@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['오늘의집', 손실 늘어도 '슈퍼앱' 진화는 계속]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260052</link>
-            <guid>https://www.bloter.net/newsView/blt202204260052</guid>
-            <pubDate>Tue, 26 Apr 2022 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-26 17:18:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260016.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG화학이 ‘콕’ 집은 KIST 탄소중립 기술은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260083</link>
+            <guid>https://www.bloter.net/newsView/blt202204260083</guid>
+            <pubDate>Tue, 26 Apr 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-26 18:07:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260033.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['당근마켓' 순손실이 3배 늘어난 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110265</link>
-            <guid>https://www.bloter.net/newsView/blt202204110265</guid>
-            <pubDate>Tue, 26 Apr 2022 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG화학, LG엔솔 서포터 역할 충실…열폭 방지 소재 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250007</link>
+            <guid>https://www.bloter.net/newsView/blt202204250007</guid>
+            <pubDate>Tue, 26 Apr 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성SDS 홈IoT 인수자금 확보한 '직방'의 미래는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204060002</link>
-            <guid>https://www.bloter.net/newsView/blt202204060002</guid>
-            <pubDate>Tue, 26 Apr 2022 08:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘이제는 배터리 소재 업체’...LG화학 “버는 돈 다 투자에 쓸 것”]]></title>
+            <link>https://www.bloter.net/newsView/blt202202080210</link>
+            <guid>https://www.bloter.net/newsView/blt202202080210</guid>
+            <pubDate>Tue, 26 Apr 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG화학, LG엔솔 구주매출로 2.2조 확보…지분율 80%로 감소]]></title>
+            <link>https://www.bloter.net/newsView/blt202112070140</link>
+            <guid>https://www.bloter.net/newsView/blt202112070140</guid>
+            <pubDate>Tue, 26 Apr 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘친환경’에 진심인 LG화학, 쿠팡 이어 티케이케미칼과 협업]]></title>
+            <link>https://www.bloter.net/newsView/blt202109110001</link>
+            <guid>https://www.bloter.net/newsView/blt202109110001</guid>
+            <pubDate>Tue, 26 Apr 2022 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

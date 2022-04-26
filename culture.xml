@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['만리장성' 두드리는 '검은사막 모바일'…출발은 '청신호']]></title>
+            <link>https://www.bloter.net/newsView/blt202204260084</link>
+            <guid>https://www.bloter.net/newsView/blt202204260084</guid>
+            <pubDate>Tue, 26 Apr 2022 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 중국 판호(콘텐츠 유통 허가권)를 받은 펄어비스의 '검은사막 모바일'이 오늘부터 현지에서 공개테스트(OBT)를 시작했다. 앱마켓 인기순위 1위를 차지하며 청신호를 켠 검은사막 모바일은 현지화에 최적화된 콘텐츠를 기반으로 중국시장에서 수익성을 높여갈]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]캐시 체인 슬롯?…위믹스 소셜 카지노 게임 베일 벗나]]></title>
             <link>https://www.bloter.net/newsView/blt202204260014</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 오리지널 시리즈로 영상화 되며 화제를 모았던 웹툰 '지옥'의 제작진이 새로운 작품으로 돌아온다.   22일 카카오엔터테인먼트에 따르면, 연상호 감독과 최규석 작가가 오는 23일부터 카카오페이지에 신작 웹툰 '계시록'(글 연상호·그림 최규석·제]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220008.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잡음 많았던 ‘CNN플러스’, 한 달 만에 폐지]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220005</link>
-            <guid>https://www.bloter.net/newsView/blt202204220005</guid>
-            <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[미국 뉴스채널 CNN이 선보인 뉴스 전문 스트리밍 서비스 ‘CNN플러스’가 출시한지 불과 한 달 만에 폐지된다.21일(현지시간) CNN은 CNN플러스가 이달 말에 서비스를 종료한다고 보도했다. 이번 결정은 CNN의 모회사인 미디어 기업 ‘워너미디어’와 케이블]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220002.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
