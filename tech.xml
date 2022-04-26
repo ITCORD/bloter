@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 09:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 10:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]유통점은 '폰팔이' 오명 쓰는데..."이통사는 상황반으로 담합"]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260088</link>
+            <guid>https://www.bloter.net/newsView/blt202204260088</guid>
+            <pubDate>Tue, 26 Apr 2022 10:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-26 18:22:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260034.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG화학이 ‘콕’ 집은 KIST 탄소중립 기술은?]]></title>
             <link>https://www.bloter.net/newsView/blt202204260083</link>
             <guid>https://www.bloter.net/newsView/blt202204260083</guid>
             <pubDate>Tue, 26 Apr 2022 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-26 18:07:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260033.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기·ICT ‘뜨거운 감자’…대통령실 ‘과학기술 수석’ 신설, 전문가들 생각은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 25 Apr 2022 07:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-25 16:18:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT·KT·LGU+ 문자 커머스 입점, 열의 아홉은 '중소·소상공인']]></title>
-            <link>https://www.bloter.net/newsView/blt202204250059</link>
-            <guid>https://www.bloter.net/newsView/blt202204250059</guid>
-            <pubDate>Mon, 25 Apr 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-25 16:07:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
