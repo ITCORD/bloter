@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 10:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 11:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK, 예스파워테크닉스에 1200억 투자...SiC전력반도체 사업 가속화]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260106</link>
+            <guid>https://www.bloter.net/newsView/blt202204260106</guid>
+            <pubDate>Tue, 26 Apr 2022 11:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-26 19:54:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260039.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]유통점은 '폰팔이' 오명 쓰는데..."이통사는 상황반으로 담합"]]></title>
             <link>https://www.bloter.net/newsView/blt202204260088</link>
             <guid>https://www.bloter.net/newsView/blt202204260088</guid>
             <pubDate>Tue, 26 Apr 2022 10:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-26 18:22:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG화학이 ‘콕’ 집은 KIST 탄소중립 기술은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 25 Apr 2022 11:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-25 17:15:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘尹 방문’ SK바사, AZ보다 우수한 ‘국산 1호’ 백신 개발…3상 결과 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250060</link>
-            <guid>https://www.bloter.net/newsView/blt202204250060</guid>
-            <pubDate>Mon, 25 Apr 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-25 16:18:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
