@@ -4,11 +4,19 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 01:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[구하다, 기술을 말하다]①최대 난제 '결품율', 실시간 API 연동으로 잡았다]]></title>
+            <title><![CDATA[일론 머스크, 트위터 품는다…55조원에 인수 합의]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260004</link>
+            <guid>https://www.bloter.net/newsView/blt202204260004</guid>
+            <pubDate>Tue, 26 Apr 2022 01:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 세계에서 가장 영향력 있는 소셜미디어(SNS) 중 하나인 트위터를 440억 달러(약 55조1000억원)에 인수한다. 25일(현지시간) 미국 경제전문매체 &lt;씨엔비씨(CNBC)&gt; 등 주요 외신은 트위터가 자사를 머스크에게 주당 54.20달러, 총 440]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[구하다, 기술을 말하다]①최대 난제 '결품률', 실시간 API 연동으로 잡았다]]></title>
             <link>https://www.bloter.net/newsView/blt202204250023</link>
             <guid>https://www.bloter.net/newsView/blt202204250023</guid>
             <pubDate>Mon, 25 Apr 2022 11:17:10 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
             <content:encoded><![CDATA[소니가 자사 콘솔 플레이스테이션(PS)에 서비스 중인 무료 게임에 광고를 추가할 계획인 것으로 알려졌다.21일(현지시간) &lt;비지니스인사이더&gt;는 소식통을 인용해 소니가 PS용 ‘프리투플레이’ 게임에 광고를 삽입할 수 있는 ‘프라이빗 마켓플레이스&amp;rs]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴트로' 좋아하는 당신, LG전자 '금성오락실' 한 번 가보는 건 어때요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130006</link>
-            <guid>https://www.bloter.net/newsView/blt202204130006</guid>
-            <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[우리 유년기 역사 한 켠에는 오락실과 관련된 기억과 추억들이 있다. 옛날 오락실을 환기하기 시작하면 이미 골목길 한 곳에서 들려오는 ‘뿅뿅’ 소리가 먼저 떠오른다. 불투명한 문을 열고 들어가면 2열 종대로 등을 마주 대고 선 오락기들에서 뭔가 엄청나]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/13/blt202204130004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
