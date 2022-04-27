@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 01:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대제철, '비현대차' 비중 올해 20% 육박 전망...'전기차시대' 車 부품사 위상 제고]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260073</link>
+            <guid>https://www.bloter.net/newsView/blt202204260073</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-26 17:36:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오늘의집', 손실 늘어도 '슈퍼앱' 진화는 계속]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260052</link>
+            <guid>https://www.bloter.net/newsView/blt202204260052</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-26 17:18:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 파운드리, 전문 기관도 '점유율 하락' 전망]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260063</link>
+            <guid>https://www.bloter.net/newsView/blt202204260063</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-26 16:16:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260023.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[두산밥캣, 수소 지게차 파트너로 두산퓨얼셀 대신 '美 플러그·SK' 낙점했을까]]></title>
             <link>https://www.bloter.net/newsView/blt202204260040</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 26 Apr 2022 08:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-26 10:21:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 캘리포니아 캠퍼스에 오프라인 매장 오픈]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260006</link>
-            <guid>https://www.bloter.net/newsView/blt202204260006</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-26 09:27:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, 트위터 품는다…55조원에 인수 합의]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260004</link>
-            <guid>https://www.bloter.net/newsView/blt202204260004</guid>
-            <pubDate>Tue, 26 Apr 2022 05:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-26 08:44:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LX세미콘, 역대급 실적에도 '현금흐름' 감소 배경은]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250084</link>
-            <guid>https://www.bloter.net/newsView/blt202204250084</guid>
-            <pubDate>Tue, 26 Apr 2022 04:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-25 18:12:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250039.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

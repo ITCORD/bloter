@@ -4,16 +4,48 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 01:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 트위터 인수 못하면?…배상금만 1조]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270007</link>
+            <guid>https://www.bloter.net/newsView/blt202204270007</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 10:06:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270004.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, '어닝 서프라이즈'…'클라우드' 매출만 24조]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270006</link>
+            <guid>https://www.bloter.net/newsView/blt202204270006</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 09:33:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270003.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5G 3년] ⑥여전한 통신장비 '후발주자' 삼성전자]]></title>
+            <link>https://www.bloter.net/newsView/blt202204260103</link>
+            <guid>https://www.bloter.net/newsView/blt202204260103</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-27 09:26:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260038.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 모회사 알파벳, 계속된 성장세 속 웃지 못한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270001</link>
+            <guid>https://www.bloter.net/newsView/blt202204270001</guid>
+            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 08:44:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK, 예스파워테크닉스에 1200억 투자...SiC전력반도체 사업 가속화]]></title>
             <link>https://www.bloter.net/newsView/blt202204260106</link>
             <guid>https://www.bloter.net/newsView/blt202204260106</guid>
             <pubDate>Tue, 26 Apr 2022 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-26 19:54:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260039.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장+]유통점은 '폰팔이' 오명 쓰는데..."이통사는 상황반으로 담합"]]></title>
@@ -118,38 +150,6 @@
             <pubDate>Tue, 26 Apr 2022 01:23:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-26 08:44:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[구하다, 기술을 말하다]①최대 난제 '결품률', 실시간 API 연동으로 잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250023</link>
-            <guid>https://www.bloter.net/newsView/blt202204250023</guid>
-            <pubDate>Mon, 25 Apr 2022 11:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-25 19:22:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LX세미콘, 역대급 실적에도 '현금흐름' 감소 배경은]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250084</link>
-            <guid>https://www.bloter.net/newsView/blt202204250084</guid>
-            <pubDate>Mon, 25 Apr 2022 11:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-25 18:12:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250039.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['만보기 앱' 캐시워크, 영업이익률 두 자릿수 유지 비결은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250075</link>
-            <guid>https://www.bloter.net/newsView/blt202204250075</guid>
-            <pubDate>Mon, 25 Apr 2022 11:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-25 18:00:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JY 향한 상반된 목소리...'사면' 요청한 경제계, '집 앞' 찾아간 삼성 직원]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250078</link>
-            <guid>https://www.bloter.net/newsView/blt202204250078</guid>
-            <pubDate>Mon, 25 Apr 2022 11:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-25 17:15:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
