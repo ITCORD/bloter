@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 23:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 '셀프 수리' 가능해졌다...애플, 미국 내 부품 판매 개시]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280001</link>
+            <guid>https://www.bloter.net/newsView/blt202204280001</guid>
+            <pubDate>Wed, 27 Apr 2022 23:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:06:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘분기 최대 실적’ 삼성바이오로직스, 상승세 이어갈까]]></title>
             <link>https://www.bloter.net/newsView/blt202204270168</link>
             <guid>https://www.bloter.net/newsView/blt202204270168</guid>
             <pubDate>Wed, 27 Apr 2022 10:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-27 18:50:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270044.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG이노텍, '10%대 영업이익률' 회복 나선다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 08:44:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK, 예스파워테크닉스에 1200억 투자...SiC전력반도체 사업 가속화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260106</link>
-            <guid>https://www.bloter.net/newsView/blt202204260106</guid>
-            <pubDate>Tue, 26 Apr 2022 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-26 19:54:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

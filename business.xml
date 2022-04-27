@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 23:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘영업이익률 0.6%’ LG디스플레이, LCD 포트폴리오 재편 나선다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270147</link>
+            <guid>https://www.bloter.net/newsView/blt202204270147</guid>
+            <pubDate>Wed, 27 Apr 2022 23:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-27 17:23:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG화학, LG엔솔 제외한 실적은?]]></title>
             <link>https://www.bloter.net/newsView/blt202204270087</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 27 Apr 2022 08:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-27 10:57:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270006.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, 트위터 인수 못하면?…배상금만 1조]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270007</link>
-            <guid>https://www.bloter.net/newsView/blt202204270007</guid>
-            <pubDate>Wed, 27 Apr 2022 08:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 10:06:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270004.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
