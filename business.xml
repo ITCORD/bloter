@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG엔솔, 영업이익률 6%의 자신감]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270022</link>
+            <guid>https://www.bloter.net/newsView/blt202204270022</guid>
+            <pubDate>Wed, 27 Apr 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-27 12:19:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 팔리는 SK하이닉스, 고민거리는 '장비 리드타임']]></title>
+            <link>https://www.bloter.net/newsView/blt202204270019</link>
+            <guid>https://www.bloter.net/newsView/blt202204270019</guid>
+            <pubDate>Wed, 27 Apr 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-27 11:30:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270014.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 판관비 1조 증가...품질 저하 D램 '충당금' 반영]]></title>
             <link>https://www.bloter.net/newsView/blt202204270014</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 27 Apr 2022 03:43:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 08:44:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG화학이 ‘콕’ 집은 KIST 탄소중립 기술은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260083</link>
-            <guid>https://www.bloter.net/newsView/blt202204260083</guid>
-            <pubDate>Wed, 27 Apr 2022 03:43:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-26 18:07:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대제철, '비현대차' 비중 올해 20% 육박 전망...'전기차시대' 車 부품사 위상 제고]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260073</link>
-            <guid>https://www.bloter.net/newsView/blt202204260073</guid>
-            <pubDate>Wed, 27 Apr 2022 01:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-26 17:36:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260030.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
