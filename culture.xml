@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[구하다, 기술을 말하다]②블록체인 플랫폼 '블링크'로 사업 영역 확장]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250040</link>
+            <guid>https://www.bloter.net/newsView/blt202204250040</guid>
+            <pubDate>Wed, 27 Apr 2022 10:21:17 GMT</pubDate>
+            <content:encoded><![CDATA["명품 커머스 '구하다'는 IT 기술을 기반으로 한 기업이다. 블록체인 기술 접목을 통해 명품 커머스부터 신선식품까지 유통 과정에서의 신뢰도를 높여 외형 성장하겠다는 목표다."이근일 구하다 최고기술책임자(CTO)는 구하다를 IT 기업이라고 평가했다. 블록체인과 ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨, 격투·레이싱·루트슈터 신작 예열…글로벌 콘솔시장 정조준]]></title>
             <link>https://www.bloter.net/newsView/blt202204270018</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 24 Apr 2022 04:25:31 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 온라인 동영상 서비스(OTT) 넷플릭스가 1분기 실적 발표에서 유료 회원이 지난해 4분기보다 20만명 줄어들었다고 발표했다. 지난 2011년 이후 약 11년 만에 가입자 수가 감소세로 돌아선 것이다. 넷플릭스는 치열해지는 업계 내 경쟁과 우크라이나 침공으로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]P2E 없이 NFT 앞세운 '플레이위드'…'신사업 투자' 변수는 부동산?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220141</link>
-            <guid>https://www.bloter.net/newsView/blt202204220141</guid>
-            <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[먼저 읽고 가세요·'로한온라인'과 '씰온라인'의 IP를 보유한 게임사 플레이위드가 블록체인 신사업을 발표했습니다. 플레이위드는 '씰온라인'에 NFT를 더한 비즈니스 모델로 대만 등 글로벌 시장을 순차 공략할 계획입니다.·그러나 블록체인 게임 후발주자]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220045.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
