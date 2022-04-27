@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 01:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨, 격투·레이싱·루트슈터 신작 예열…글로벌 콘솔시장 정조준]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270018</link>
+            <guid>https://www.bloter.net/newsView/blt202204270018</guid>
+            <pubDate>Wed, 27 Apr 2022 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 신규 라인업을 바탕으로 글로벌 시장을 두드린다. 지난해까지 개발진 확보를 통해 게임 개발에 주력해온 만큼 올해는 다양한 신작으로 외연을 확장하는 모습이다. 특히 넥슨은 신작 개발의 한 축으로 콘솔용 콘텐츠에 힘을 주고 있다. 오랜 기간 개발 중인 ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크, 트위터 인수 못하면?…배상금만 1조]]></title>
             <link>https://www.bloter.net/newsView/blt202204270007</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
             <content:encoded><![CDATA[먼저 읽고 가세요·'로한온라인'과 '씰온라인'의 IP를 보유한 게임사 플레이위드가 블록체인 신사업을 발표했습니다. 플레이위드는 '씰온라인'에 NFT를 더한 비즈니스 모델로 대만 등 글로벌 시장을 순차 공략할 계획입니다.·그러나 블록체인 게임 후발주자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220045.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블, 블록체인 자회사 '마브렉스' 출격…신임 대표 체제 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220042</link>
-            <guid>https://www.bloter.net/newsView/blt202204220042</guid>
-            <pubDate>Sat, 23 Apr 2022 07:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블이 지난 2월 예고한 블록체인 전담 신설 자회사가 프로젝트명과 동일한 '마브렉스'인 것으로 확인됐다. 앞서 지난 2월 28일 넷마블은 자체 블록체인 생태계 '마브렉스'(MABLEX, 이하 MBX)를 공개하며 신설 자회사 설립을 예고한 바 있다.22일 &lt;블로터&gt; 취재 결과]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
