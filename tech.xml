@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 06:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 스피커와 대화하는 어르신들…KT가 '디지털 돌봄'에 주목한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270042</link>
+            <guid>https://www.bloter.net/newsView/blt202204270042</guid>
+            <pubDate>Wed, 27 Apr 2022 07:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-27 16:05:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[230억원 투자받은 뉴빌리티, 올해 자체 로봇 배달 앱 낸다]]></title>
             <link>https://www.bloter.net/newsView/blt202204270008</link>
             <guid>https://www.bloter.net/newsView/blt202204270008</guid>
             <pubDate>Wed, 27 Apr 2022 03:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-27 11:57:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥슨, 격투·레이싱·루트슈터 신작 예열…글로벌 콘솔시장 정조준]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 26 Apr 2022 07:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-26 16:03:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]캐시 체인 슬롯?…위믹스 소셜 카지노 게임 베일 벗나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260014</link>
-            <guid>https://www.bloter.net/newsView/blt202204260014</guid>
-            <pubDate>Tue, 26 Apr 2022 04:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-26 11:04:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
