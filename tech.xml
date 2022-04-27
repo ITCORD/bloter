@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성과 다른 셀트리온 협상력?…애브비와 소송 없이 시밀러 ‘특허 합의’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270089</link>
+            <guid>https://www.bloter.net/newsView/blt202204270089</guid>
+            <pubDate>Wed, 27 Apr 2022 08:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-27 17:08:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 스피커와 대화하는 어르신들…KT가 '디지털 돌봄'에 주목한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202204270042</link>
             <guid>https://www.bloter.net/newsView/blt202204270042</guid>
             <pubDate>Wed, 27 Apr 2022 07:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-27 16:05:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[230억원 투자받은 뉴빌리티, 올해 자체 로봇 배달 앱 낸다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 26 Apr 2022 07:17:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-26 16:16:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260023.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['증시 부진'속 IPO 추진하는 SK쉴더스의 자신감 원천은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260060</link>
-            <guid>https://www.bloter.net/newsView/blt202204260060</guid>
-            <pubDate>Tue, 26 Apr 2022 07:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-26 16:03:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
