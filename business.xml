@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 "12나노 스킵 사실 아니야"..파운드리 수율도 '안정화' 강조]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280063</link>
+            <guid>https://www.bloter.net/newsView/blt202204280063</guid>
+            <pubDate>Thu, 28 Apr 2022 07:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 14:30:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성SDI, "북미 단독공장 없다"...북미서 JV만 고집하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280030</link>
+            <guid>https://www.bloter.net/newsView/blt202204280030</guid>
+            <pubDate>Thu, 28 Apr 2022 07:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-28 13:30:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LS, 그룹 전기차 역량 집중할 ‘컨트롤 타워’ 세운다]]></title>
             <link>https://www.bloter.net/newsView/blt202204280033</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:44:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰 '셀프 수리' 가능해졌다...애플, 미국 내 부품 판매 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280001</link>
-            <guid>https://www.bloter.net/newsView/blt202204280001</guid>
-            <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:06:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, '10%대 영업이익률' 회복 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270165</link>
-            <guid>https://www.bloter.net/newsView/blt202204270165</guid>
-            <pubDate>Thu, 28 Apr 2022 04:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-27 18:37:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270040.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
