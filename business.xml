@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['슈퍼싸이클'에 불안한 한국조선해양이 꺼낸 카드...'사업형 지주사']]></title>
+            <link>https://www.bloter.net/newsView/blt202204280078</link>
+            <guid>https://www.bloter.net/newsView/blt202204280078</guid>
+            <pubDate>Thu, 28 Apr 2022 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-28 16:02:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3% 적금·무제한 캐시백 카드…해외여행 비용 '세이브' 방법 있다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280074</link>
+            <guid>https://www.bloter.net/newsView/blt202204280074</guid>
+            <pubDate>Thu, 28 Apr 2022 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-28 15:24:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘파운드리 초격차’ 노리는 삼성전자, GAA 3나노 칩 2분기 양산 선언]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280082</link>
+            <guid>https://www.bloter.net/newsView/blt202204280082</guid>
+            <pubDate>Thu, 28 Apr 2022 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 15:09:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한화솔루션, 태양광 사업 6분기 연속 적자…판매목표 9.2GW→8.2GW 하향조정]]></title>
             <link>https://www.bloter.net/newsView/blt202204280081</link>
@@ -30,30 +54,6 @@
             <pubDate>Thu, 28 Apr 2022 07:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-28 13:30:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LS, 그룹 전기차 역량 집중할 ‘컨트롤 타워’ 세운다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280033</link>
-            <guid>https://www.bloter.net/newsView/blt202204280033</guid>
-            <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 13:20:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직접 계산하는 'DSR 계산기' 버려도 된다…핀다는 '알아서 계산']]></title>
-            <link>https://www.bloter.net/newsView/blt202204280032</link>
-            <guid>https://www.bloter.net/newsView/blt202204280032</guid>
-            <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-28 11:32:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 1분기 사용자 수 다시 증가…매출은 예상 밑돌아]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280015</link>
-            <guid>https://www.bloter.net/newsView/blt202204280015</guid>
-            <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 09:43:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
