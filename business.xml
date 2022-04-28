@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화솔루션, 태양광 사업 6분기 연속 적자…판매목표 9.2GW→8.2GW 하향조정]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280081</link>
+            <guid>https://www.bloter.net/newsView/blt202204280081</guid>
+            <pubDate>Thu, 28 Apr 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-28 15:02:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "12나노 스킵 사실 아니야"..파운드리 수율도 '안정화' 강조]]></title>
             <link>https://www.bloter.net/newsView/blt202204280063</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 09:43:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코로나 허위정보 온상’ 비판받던 스포티파이, 1분기 구독자 수 15% 증가]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280007</link>
-            <guid>https://www.bloter.net/newsView/blt202204280007</guid>
-            <pubDate>Thu, 28 Apr 2022 06:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:44:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280002.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
