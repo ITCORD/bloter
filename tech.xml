@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 06:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘파운드리 초격차’ 노리는 삼성전자, GAA 3나노 칩 2분기 양산 선언]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280082</link>
+            <guid>https://www.bloter.net/newsView/blt202204280082</guid>
+            <pubDate>Thu, 28 Apr 2022 06:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 15:09:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 "12나노 스킵 사실 아니야"..파운드리 수율도 '안정화' 강조]]></title>
             <link>https://www.bloter.net/newsView/blt202204280063</link>
             <guid>https://www.bloter.net/newsView/blt202204280063</guid>
             <pubDate>Thu, 28 Apr 2022 05:41:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 14:30:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LS, 그룹 전기차 역량 집중할 ‘컨트롤 타워’ 세운다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 27 Apr 2022 03:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-27 11:57:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, 격투·레이싱·루트슈터 신작 예열…글로벌 콘솔시장 정조준]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270018</link>
-            <guid>https://www.bloter.net/newsView/blt202204270018</guid>
-            <pubDate>Wed, 27 Apr 2022 03:43:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-27 11:30:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
