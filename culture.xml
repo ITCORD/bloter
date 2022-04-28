@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 23:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 01:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 1분기 사용자 수 다시 증가…매출은 예상 밑돌아]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280015</link>
+            <guid>https://www.bloter.net/newsView/blt202204280015</guid>
+            <pubDate>Thu, 28 Apr 2022 01:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 올해 1분기 매출 성장이 기대에 못 미치고 영업이익은 줄었지만 대표 소셜미디어(SNS)인 페이스북 사용자가 다시 증가했다고 밝혔다.메타는 27일(현지시간) 1분기 실적발표를 통해 페이스북의 일일 활성 이용자(DAU) 수가 지난해 4분기보다 약 3000만명 증가한 19]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘코로나 허위정보 온상’ 비판받던 스포티파이, 1분기 구독자 수 15% 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280007</link>
+            <guid>https://www.bloter.net/newsView/blt202204280007</guid>
+            <pubDate>Thu, 28 Apr 2022 01:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 허위 정보의 온상으로 비판받았던 음원 스트리밍 플랫폼 스포티파이의 1분기 유료 구독자 수가 전 분기 대비 200만명(15%) 증가한 1억8200명으로 집계됐다. 스포티파이는 27일(현지시간) 1분기 실적 발표를 통해 유료 가입자 1억8300만명을 달성할 수 있을 것으로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280002.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[구하다, 기술을 말하다]②블록체인 플랫폼 '블링크'로 사업 영역 확장]]></title>
             <link>https://www.bloter.net/newsView/blt202204250040</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 24 Apr 2022 08:25:10 GMT</pubDate>
             <content:encoded><![CDATA["하나의 작품이 나와서 시장에 선보일 기간이 너무 짧습니다. 연관된 세계관 기반의 다양한 이야기로 이미 나왔던 작품이 재평가 받고 또 다른 해석으로 더 많은 스토리를 산출할 수 있는 방식을 고민했죠. 관객이나 시청자가 이야기를 더 오래 접하면서 우리 이야]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/24/blt202204240001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[활성화되는 '크리에이터 경제', 소득 수준은 천차만별]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220143</link>
-            <guid>https://www.bloter.net/newsView/blt202204220143</guid>
-            <pubDate>Sun, 24 Apr 2022 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[자신의 콘텐츠를 활용해 수익을 올리는 크리에이터들이 늘어나며 ‘크리에이터 경제’도 함께 급속도로 성장하고 있다. 포브스는 올해 크리에이터 이코노미의 시장가치가 1000억달러(약 124조원)에 달할 것으로 예상했다. 하지만 전업 크리에이터 10명 중 9명의]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/22/blt202204220050.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 OTT 넷플릭스 구독자 감소…업계 위기 신호탄?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220144</link>
-            <guid>https://www.bloter.net/newsView/blt202204220144</guid>
-            <pubDate>Sun, 24 Apr 2022 04:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 온라인 동영상 서비스(OTT) 넷플릭스가 1분기 실적 발표에서 유료 회원이 지난해 4분기보다 20만명 줄어들었다고 발표했다. 지난 2011년 이후 약 11년 만에 가입자 수가 감소세로 돌아선 것이다. 넷플릭스는 치열해지는 업계 내 경쟁과 우크라이나 침공으로]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

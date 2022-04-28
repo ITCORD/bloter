@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 23:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 01:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 1분기 사용자 수 다시 증가…매출은 예상 밑돌아]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280015</link>
+            <guid>https://www.bloter.net/newsView/blt202204280015</guid>
+            <pubDate>Thu, 28 Apr 2022 01:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 09:43:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘코로나 허위정보 온상’ 비판받던 스포티파이, 1분기 구독자 수 15% 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280007</link>
+            <guid>https://www.bloter.net/newsView/blt202204280007</guid>
+            <pubDate>Thu, 28 Apr 2022 01:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:44:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280002.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[아이폰 '셀프 수리' 가능해졌다...애플, 미국 내 부품 판매 개시]]></title>
             <link>https://www.bloter.net/newsView/blt202204280001</link>
             <guid>https://www.bloter.net/newsView/blt202204280001</guid>
             <pubDate>Wed, 27 Apr 2022 23:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:06:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘분기 최대 실적’ 삼성바이오로직스, 상승세 이어갈까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 09:33:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[5G 3년] ⑥여전한 통신장비 '후발주자' 삼성전자]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260103</link>
-            <guid>https://www.bloter.net/newsView/blt202204260103</guid>
-            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-27 09:26:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/26/blt202204260038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 모회사 알파벳, 계속된 성장세 속 웃지 못한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270001</link>
-            <guid>https://www.bloter.net/newsView/blt202204270001</guid>
-            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 08:44:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
