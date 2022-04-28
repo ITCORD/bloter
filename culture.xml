@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 01:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]컴투스그룹·위메이드·Z홀딩스, 日 '더블점프 도쿄' 투자 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280029</link>
+            <guid>https://www.bloter.net/newsView/blt202204280029</guid>
+            <pubDate>Thu, 28 Apr 2022 04:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[블록체인 사업을 영위하고 있는 '컴투스그룹'과 '위메이드'가 일본 블록체인 기업 '더블점프 도쿄' 투자를 단행했다. 이번 투자는 'Z홀딩스'의 연결 자회사 'YJ 캐피털'과 '라인(LINE)벤처스'의 합병으로 재출범한 'Z 벤처 캐피털 주식회사'(ZVC)도 참여했다. 28일 업계에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 1분기 사용자 수 다시 증가…매출은 예상 밑돌아]]></title>
             <link>https://www.bloter.net/newsView/blt202204280015</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 24 Apr 2022 23:19:07 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 일론 머스크 테슬라 최고경영자(CEO)의 430억달러(약 53조4700억원) 인수 제안을 재검토 중이라는 보도가 나왔다.24일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt;은 소식통을 인용한 단독 보도에서 트위터 측이 머스크가 인수자금 조달 방안을 마련한 직후에 전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]클라이맥스스튜디오는 왜 OSMU 전략을 택했을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204240001</link>
-            <guid>https://www.bloter.net/newsView/blt202204240001</guid>
-            <pubDate>Sun, 24 Apr 2022 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA["하나의 작품이 나와서 시장에 선보일 기간이 너무 짧습니다. 연관된 세계관 기반의 다양한 이야기로 이미 나왔던 작품이 재평가 받고 또 다른 해석으로 더 많은 스토리를 산출할 수 있는 방식을 고민했죠. 관객이나 시청자가 이야기를 더 오래 접하면서 우리 이야]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/24/blt202204240001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

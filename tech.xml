@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 01:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직접 계산하는 'DSR 계산기' 버려도 된다…핀다는 '알아서 계산']]></title>
+            <link>https://www.bloter.net/newsView/blt202204280032</link>
+            <guid>https://www.bloter.net/newsView/blt202204280032</guid>
+            <pubDate>Thu, 28 Apr 2022 04:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-28 11:32:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280006.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]컴투스그룹·위메이드·Z홀딩스, 日 '더블점프 도쿄' 투자 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280029</link>
+            <guid>https://www.bloter.net/newsView/blt202204280029</guid>
+            <pubDate>Thu, 28 Apr 2022 04:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-28 11:14:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280004.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 1분기 사용자 수 다시 증가…매출은 예상 밑돌아]]></title>
             <link>https://www.bloter.net/newsView/blt202204280015</link>
             <guid>https://www.bloter.net/newsView/blt202204280015</guid>
             <pubDate>Thu, 28 Apr 2022 01:55:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 09:43:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘코로나 허위정보 온상’ 비판받던 스포티파이, 1분기 구독자 수 15% 증가]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 27 Apr 2022 03:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-27 10:57:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, 트위터 인수 못하면?…배상금만 1조]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270007</link>
-            <guid>https://www.bloter.net/newsView/blt202204270007</guid>
-            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 10:06:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, '어닝 서프라이즈'…'클라우드' 매출만 24조]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270006</link>
-            <guid>https://www.bloter.net/newsView/blt202204270006</guid>
-            <pubDate>Wed, 27 Apr 2022 01:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-27 09:33:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
