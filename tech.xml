@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[하이브 랩소디]④'더 시티' 경제적 효과는?…국내 도입 초읽기]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280125</link>
+            <guid>https://www.bloter.net/newsView/blt202204280125</guid>
+            <pubDate>Thu, 28 Apr 2022 10:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-28 18:34:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OLED 경쟁력 옅어지는 LG전자, 차별화 전략은 ‘글쎄’]]></title>
             <link>https://www.bloter.net/newsView/blt202204280142</link>
             <guid>https://www.bloter.net/newsView/blt202204280142</guid>
             <pubDate>Thu, 28 Apr 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 18:02:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280040.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국 시장서 '나이키' 울고 '휠라' 웃은 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 27 Apr 2022 10:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-27 18:23:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전기, 외형 성장 속 '현금흐름' 절반 급감]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270158</link>
-            <guid>https://www.bloter.net/newsView/blt202204270158</guid>
-            <pubDate>Wed, 27 Apr 2022 09:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-27 17:57:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270030.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

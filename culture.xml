@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[하이브 랩소디]④'더 시티' 경제적 효과는?…국내 도입 초읽기]]></title>
+            <link>https://www.bloter.net/newsView/blt202204280125</link>
+            <guid>https://www.bloter.net/newsView/blt202204280125</guid>
+            <pubDate>Thu, 28 Apr 2022 10:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[하이브가 이달 미국 라스베이거스에서 진행한 '더 시티 프로젝트'의 경제적 효과를 공개하고 나섰다. 하이브는 더 시티 프로젝트를 K-콘텐츠의 새로운 산업 모델로 내세운 만큼, 실질적인 경제적 효과에 주목하는 분위기다. 더불어 국내 주요 도시를 더 시티 프로젝]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280031.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]컴투스그룹·위메이드·Z홀딩스, 日 '더블점프 도쿄' 투자 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202204280029</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 25 Apr 2022 07:22:03 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250010.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 머스크 만난다…인수 제안 재검토]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250001</link>
-            <guid>https://www.bloter.net/newsView/blt202204250001</guid>
-            <pubDate>Sun, 24 Apr 2022 23:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 일론 머스크 테슬라 최고경영자(CEO)의 430억달러(약 53조4700억원) 인수 제안을 재검토 중이라는 보도가 나왔다.24일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt;은 소식통을 인용한 단독 보도에서 트위터 측이 머스크가 인수자금 조달 방안을 마련한 직후에 전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
