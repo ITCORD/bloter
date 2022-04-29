@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한라그룹, 반도체 부품업체 인수 검토...'안정적' 사업 다각화 도모]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290031</link>
-            <guid>https://www.bloter.net/newsView/blt202204290031</guid>
-            <pubDate>Fri, 29 Apr 2022 05:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-29 13:53:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK온, 공격적 증설에도 1Q 적자 '역대급'...'규모의 경제' 효과 언제쯤]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290062</link>
+            <guid>https://www.bloter.net/newsView/blt202204290062</guid>
+            <pubDate>Fri, 29 Apr 2022 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-04-29 17:37:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290036.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SK, 예스파워테크닉스에 1200억 투자...SiC전력반도체 사업 가속화]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260106</link>
-            <guid>https://www.bloter.net/newsView/blt202204260106</guid>
-            <pubDate>Fri, 29 Apr 2022 05:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['규모의 경제'에 올인 SK이노베이션, 포드 합작사에 5조 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202109280004</link>
+            <guid>https://www.bloter.net/newsView/blt202109280004</guid>
+            <pubDate>Fri, 29 Apr 2022 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['개방형 혁신' 외친 SK하이닉스, 반도체 연구 성과 공유한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220010</link>
-            <guid>https://www.bloter.net/newsView/blt202204220010</guid>
-            <pubDate>Fri, 29 Apr 2022 05:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK이노베이션, 배터리 분사 통과...김준 "SK배터리 지분 높게 유지한다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202109160023</link>
+            <guid>https://www.bloter.net/newsView/blt202109160023</guid>
+            <pubDate>Fri, 29 Apr 2022 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원가 부담 높아진 서울반도체, 1분기 실적에도 반영됐나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110041</link>
-            <guid>https://www.bloter.net/newsView/blt202204110041</guid>
-            <pubDate>Fri, 29 Apr 2022 05:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK이노베이션, '전기차 시장'서 삼성SDI 추월...'침투가격 전략'의 힘]]></title>
+            <link>https://www.bloter.net/newsView/blt202109010019</link>
+            <guid>https://www.bloter.net/newsView/blt202109010019</guid>
+            <pubDate>Fri, 29 Apr 2022 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK이노베이션 "ESG 완성, 글로벌 모범 거버넌스 확보"]]></title>
+            <link>https://www.bloter.net/newsView/blt202108080003</link>
+            <guid>https://www.bloter.net/newsView/blt202108080003</guid>
+            <pubDate>Fri, 29 Apr 2022 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
