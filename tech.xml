@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 01:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리멤버가 '이안손앤컴퍼니' 인수로 노리는 신사업은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290021</link>
+            <guid>https://www.bloter.net/newsView/blt202204290021</guid>
+            <pubDate>Fri, 29 Apr 2022 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-04-29 11:34:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5G 3년] ⑦KT 알뜰폰, 엠모바일 끌고 스카이라이프 민다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270160</link>
+            <guid>https://www.bloter.net/newsView/blt202204270160</guid>
+            <pubDate>Fri, 29 Apr 2022 03:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-29 10:40:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270033.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀카 찍는 드론 나왔다…스냅, 미국·프랑스서 판매 개시]]></title>
             <link>https://www.bloter.net/newsView/blt202204290007</link>
             <guid>https://www.bloter.net/newsView/blt202204290007</guid>
             <pubDate>Fri, 29 Apr 2022 01:23:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 10:12:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290002.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290002.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트위터, 3년간 엉터리 이용자수 냈지만…2억2900만명 매일 썼다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 28 Apr 2022 01:55:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 09:43:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코로나 허위정보 온상’ 비판받던 스포티파이, 1분기 구독자 수 15% 증가]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280007</link>
-            <guid>https://www.bloter.net/newsView/blt202204280007</guid>
-            <pubDate>Thu, 28 Apr 2022 01:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:44:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280002.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰 '셀프 수리' 가능해졌다...애플, 미국 내 부품 판매 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280001</link>
-            <guid>https://www.bloter.net/newsView/blt202204280001</guid>
-            <pubDate>Wed, 27 Apr 2022 23:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:06:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
