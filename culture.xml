@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 23:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 01:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 3년간 엉터리 이용자수 냈지만…2억2900만명 매일 썼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290004</link>
+            <guid>https://www.bloter.net/newsView/blt202204290004</guid>
+            <pubDate>Fri, 29 Apr 2022 01:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 인수하기로 한 소셜미디어(SNS) 트위터가 지난 3년간 이용자 수를 잘못 집계했다고 실토했다. 28일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 트위터는 올해 1분기 실적을 발표하며 2019년 초부터 2021년 말까지 각 분기 당 일간]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290001.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[하이브 랩소디]④'더 시티' 경제적 효과는?…국내 도입 초읽기]]></title>
             <link>https://www.bloter.net/newsView/blt202204280125</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 25 Apr 2022 11:17:10 GMT</pubDate>
             <content:encoded><![CDATA[최근 1~2년 새 국내 명품 커머스 시장이 급격히 성장하고 있다. 오프라인 매장 구매 또는 해외 직구 외에도 온라인 플랫폼을 통한 명품 구매가 늘어나면서다. 명품 커머스 플랫폼을 통해 더 많은 판매자와 상품 및 가격을 비교할 수 있다는 게 장점으로 떠올랐다.다만]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250044.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'게임인재단'은 왜 '미래콘텐츠재단'으로 바뀔까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250044</link>
-            <guid>https://www.bloter.net/newsView/blt202204250044</guid>
-            <pubDate>Mon, 25 Apr 2022 07:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

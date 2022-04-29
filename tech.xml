@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 23:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 01:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀카 찍는 드론 나왔다…스냅, 미국·프랑스서 판매 개시]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290007</link>
+            <guid>https://www.bloter.net/newsView/blt202204290007</guid>
+            <pubDate>Fri, 29 Apr 2022 01:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 10:12:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 3년간 엉터리 이용자수 냈지만…2억2900만명 매일 썼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290004</link>
+            <guid>https://www.bloter.net/newsView/blt202204290004</guid>
+            <pubDate>Fri, 29 Apr 2022 01:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 09:16:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290001.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, '역대 최대' 1분기 매출 123조원…아이폰·구독 이끌었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290001</link>
+            <guid>https://www.bloter.net/newsView/blt202204290001</guid>
+            <pubDate>Fri, 29 Apr 2022 01:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 08:32:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[바이오 오픈이노베이션] SK케미칼이 ‘AI 신약 개발’로 노리는 것]]></title>
             <link>https://www.bloter.net/newsView/blt202204280140</link>
             <guid>https://www.bloter.net/newsView/blt202204280140</guid>
             <pubDate>Thu, 28 Apr 2022 22:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-29 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[하이브 랩소디]④'더 시티' 경제적 효과는?…국내 도입 초읽기]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 27 Apr 2022 23:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-28 08:06:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘분기 최대 실적’ 삼성바이오로직스, 상승세 이어갈까]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270168</link>
-            <guid>https://www.bloter.net/newsView/blt202204270168</guid>
-            <pubDate>Wed, 27 Apr 2022 10:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-27 18:50:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, '10%대 영업이익률' 회복 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270165</link>
-            <guid>https://www.bloter.net/newsView/blt202204270165</guid>
-            <pubDate>Wed, 27 Apr 2022 10:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-04-27 18:37:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270040.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['글로벌'에 사활건 네이버, 웹툰에 4000억원 쏟는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270164</link>
-            <guid>https://www.bloter.net/newsView/blt202204270164</guid>
-            <pubDate>Wed, 27 Apr 2022 10:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-04-27 18:24:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270036.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
