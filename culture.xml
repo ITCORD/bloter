@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 05:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 06:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]블록체인 더한 '크로매틱소울', 핵심은 'NFT 민팅']]></title>
+            <link>https://www.bloter.net/newsView/blt202204290046</link>
+            <guid>https://www.bloter.net/newsView/blt202204290046</guid>
+            <pubDate>Fri, 29 Apr 2022 06:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 3년간 엉터리 이용자수 냈지만…2억2900만명 매일 썼다]]></title>
             <link>https://www.bloter.net/newsView/blt202204290004</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 26 Apr 2022 01:24:58 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 세계에서 가장 영향력 있는 소셜미디어(SNS) 중 하나인 트위터를 440억 달러(약 55조1000억원)에 인수한다. 25일(현지시간) 미국 경제전문매체 &lt;씨엔비씨(CNBC)&gt; 등 주요 외신은 트위터가 자사를 머스크에게 주당 54.20달러, 총 440]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[구하다, 기술을 말하다]①최대 난제 '결품률', 실시간 API 연동으로 잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204250023</link>
-            <guid>https://www.bloter.net/newsView/blt202204250023</guid>
-            <pubDate>Mon, 25 Apr 2022 11:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[최근 1~2년 새 국내 명품 커머스 시장이 급격히 성장하고 있다. 오프라인 매장 구매 또는 해외 직구 외에도 온라인 플랫폼을 통한 명품 구매가 늘어나면서다. 명품 커머스 플랫폼을 통해 더 많은 판매자와 상품 및 가격을 비교할 수 있다는 게 장점으로 떠올랐다.다만]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
