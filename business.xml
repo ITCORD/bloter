@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 04:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 05:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀카 찍는 드론 나왔다…스냅, 미국·프랑스서 판매 개시]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290007</link>
+            <guid>https://www.bloter.net/newsView/blt202204290007</guid>
+            <pubDate>Sat, 30 Apr 2022 05:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 10:12:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 3년간 엉터리 이용자수 냈지만…2억2900만명 매일 썼다]]></title>
             <link>https://www.bloter.net/newsView/blt202204290004</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 29 Apr 2022 01:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-04-28 17:25:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데, ESG 경영 속도 낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280110</link>
-            <guid>https://www.bloter.net/newsView/blt202204280110</guid>
-            <pubDate>Fri, 29 Apr 2022 01:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-04-28 16:25:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
