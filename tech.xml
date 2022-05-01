@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 03:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 04:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]⑤차현우 '늪 축구' 통했다…4강 대진표 완성]]></title>
+            <link>https://www.bloter.net/newsView/blt202205010001</link>
+            <guid>https://www.bloter.net/newsView/blt202205010001</guid>
+            <pubDate>Sun, 01 May 2022 04:37:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">상암=채성오</span>                        <span class="date">2022-05-01 12:47:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비전리스 삼성] ⑥“삼성 파운드리, 2위 자리도 위태롭다”]]></title>
             <link>https://www.bloter.net/newsView/blt202204290142</link>
             <guid>https://www.bloter.net/newsView/blt202204290142</guid>
             <pubDate>Sun, 01 May 2022 03:43:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-01 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290038.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마존, '음성인식' 알렉사로 수집한 자료 '표적 광고'에 썼다]]></title>
@@ -44,7 +52,7 @@
             <link>https://www.bloter.net/newsView/blt202204290183</link>
             <guid>https://www.bloter.net/newsView/blt202204290183</guid>
             <pubDate>Fri, 29 Apr 2022 15:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-29 23:37:57</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="writer">상암=채성오</span>                        <span class="date">2022-04-29 23:37:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290051.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 28 Apr 2022 22:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-04-29 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이브 랩소디]④'더 시티' 경제적 효과는?…국내 도입 초읽기]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280125</link>
-            <guid>https://www.bloter.net/newsView/blt202204280125</guid>
-            <pubDate>Thu, 28 Apr 2022 10:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-04-28 18:34:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
