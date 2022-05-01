@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 11:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 12:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피파4 국대선발전]④김병권, '최강자' 등극…아시안게임 '신보석호' 시동]]></title>
+            <link>https://www.bloter.net/newsView/blt202205010005</link>
+            <guid>https://www.bloter.net/newsView/blt202205010005</guid>
+            <pubDate>Sun, 01 May 2022 12:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[김병권 선수가 '피파온라인4 항저우 아시안게임 국가대표 선발전'에서 '최강자' 자리에 올랐다. 준우승을 기록한 곽준혁 선수도 국가대표 후보 자격을 얻으며 신보석 감독이 이끄는 피파온라인4 드림팀에 합류했다.1일 서울 상암에 위치한 아프리카 콜로세움에서 열]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피파4 국대선발전]③곽준혁, 아시안게임 국대 후보 막차 탑승]]></title>
             <link>https://www.bloter.net/newsView/blt202205010004</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Apr 2022 01:56:19 GMT</pubDate>
             <content:encoded><![CDATA[메타가 올해 1분기 매출 성장이 기대에 못 미치고 영업이익은 줄었지만 대표 소셜미디어(SNS)인 페이스북 사용자가 다시 증가했다고 밝혔다.메타는 27일(현지시간) 1분기 실적발표를 통해 페이스북의 일일 활성 이용자(DAU) 수가 지난해 4분기보다 약 3000만명 증가한 19]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘코로나 허위정보 온상’ 비판받던 스포티파이, 1분기 구독자 수 15% 증가]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280007</link>
-            <guid>https://www.bloter.net/newsView/blt202204280007</guid>
-            <pubDate>Thu, 28 Apr 2022 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 허위 정보의 온상으로 비판받았던 음원 스트리밍 플랫폼 스포티파이의 1분기 유료 구독자 수가 전 분기 대비 200만명(15%) 증가한 1억8200명으로 집계됐다. 스포티파이는 27일(현지시간) 1분기 실적 발표를 통해 유료 가입자 1억8300만명을 달성할 수 있을 것으로]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280002.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
