@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 07:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 08:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피파4 국대선발전]①젊은 피 vs 관록…아시안게임 한국대표 누가 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205010002</link>
+            <guid>https://www.bloter.net/newsView/blt202205010002</guid>
+            <pubDate>Sun, 01 May 2022 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임'에서 '피파온라인4' e스포츠 국가대표로 활약할 선수는 누가 될까.1일 서울 상암에 위치한 아프리카 콜로세움에서 피파온라인4 e스포츠 국가대표 선발전이 진행될 예정이다. 본선과 결선을 거쳐 김병권, 곽준혁, 차현우, 박지]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠 아시안게임 가다]⑤차현우 '늪 축구' 통했다…4강 대진표 완성]]></title>
             <link>https://www.bloter.net/newsView/blt202205010001</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 27 Apr 2022 03:44:12 GMT</pubDate>
             <content:encoded><![CDATA[넥슨이 신규 라인업을 바탕으로 글로벌 시장을 두드린다. 지난해까지 개발진 확보를 통해 게임 개발에 주력해온 만큼 올해는 다양한 신작으로 외연을 확장하는 모습이다. 특히 넥슨은 신작 개발의 한 축으로 콘솔용 콘텐츠에 힘을 주고 있다. 오랜 기간 개발 중인 ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270010.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, 트위터 인수 못하면?…배상금만 1조]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270007</link>
-            <guid>https://www.bloter.net/newsView/blt202204270007</guid>
-            <pubDate>Wed, 27 Apr 2022 01:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 소셜미디어(SNS) 업체 트위터 인수 계약을 파기하면 트위터 측에 10억달러(약 1조2000억원)의 배상금을 지급해야 하는 것으로 확인됐다.26일(이하 현지시간) &lt;로이터&gt; 등 주요 외신은 "머스크가 인수를 위한 자금을 확보하지 못]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270004.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
