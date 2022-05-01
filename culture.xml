@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 23:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아, 우크라 전쟁 여론 조작 위해 ‘트롤 부대’ 운영]]></title>
+            <link>https://www.bloter.net/newsView/blt202205020003</link>
+            <guid>https://www.bloter.net/newsView/blt202205020003</guid>
+            <pubDate>Sun, 01 May 2022 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[러시아가 댓글 부대를 동원해 주요 소셜미디어(SNS) 플랫폼에서 여론조작 활동을 펼치고 있다는 영국 정부의 조사 결과가 공개됐다.1일(현지시간) &lt;비즈니스 인사이더&gt;는 러시아가 틱톡, 트위터, 페이스북 등과 같은 주요 SNS에서 자국에 유리한 여론을 조성하기]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020001.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[피파4 국대선발전]④김병권, '최강자' 등극…아시안게임 '신보석호' 시동]]></title>
             <link>https://www.bloter.net/newsView/blt202205010005</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Apr 2022 04:12:17 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 사업을 영위하고 있는 '컴투스그룹'과 '위메이드'가 일본 블록체인 기업 '더블점프 도쿄' 투자를 단행했다. 이번 투자는 'Z홀딩스'의 연결 자회사 'YJ 캐피털'과 '라인(LINE)벤처스'의 합병으로 재출범한 'Z 벤처 캐피털 주식회사'(ZVC)도 참여했다. 28일 업계에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 1분기 사용자 수 다시 증가…매출은 예상 밑돌아]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280015</link>
-            <guid>https://www.bloter.net/newsView/blt202204280015</guid>
-            <pubDate>Thu, 28 Apr 2022 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 올해 1분기 매출 성장이 기대에 못 미치고 영업이익은 줄었지만 대표 소셜미디어(SNS)인 페이스북 사용자가 다시 증가했다고 밝혔다.메타는 27일(현지시간) 1분기 실적발표를 통해 페이스북의 일일 활성 이용자(DAU) 수가 지난해 4분기보다 약 3000만명 증가한 19]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280003.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

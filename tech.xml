@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 23:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아, 우크라 전쟁 여론 조작 위해 ‘트롤 부대’ 운영]]></title>
+            <link>https://www.bloter.net/newsView/blt202205020003</link>
+            <guid>https://www.bloter.net/newsView/blt202205020003</guid>
+            <pubDate>Sun, 01 May 2022 23:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-02 08:14:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[피파4 국대선발전]④김병권, '최강자' 등극…아시안게임 '신보석호' 시동]]></title>
             <link>https://www.bloter.net/newsView/blt202205010005</link>
             <guid>https://www.bloter.net/newsView/blt202205010005</guid>
             <pubDate>Sun, 01 May 2022 12:29:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-01 20:20:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[피파4 국대선발전]③곽준혁, 아시안게임 국대 후보 막차 탑승]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 29 Apr 2022 06:22:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-04-29 15:00:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한라그룹, 반도체 부품업체 인수 검토...'안정적' 사업 다각화 도모]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290031</link>
-            <guid>https://www.bloter.net/newsView/blt202204290031</guid>
-            <pubDate>Fri, 29 Apr 2022 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-29 13:53:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

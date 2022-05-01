@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 23:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘디트로이트 빅3’ GM·포드·크라이슬러, 전기차 성적은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290178</link>
+            <guid>https://www.bloter.net/newsView/blt202204290178</guid>
+            <pubDate>Sun, 01 May 2022 23:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-30 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290045.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK온, 공격적 증설에도 1Q 적자 '역대급'...'규모의 경제' 효과 언제쯤]]></title>
             <link>https://www.bloter.net/newsView/blt202204290062</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 29 Apr 2022 09:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 08:32:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OLED 경쟁력 옅어지는 LG전자, 차별화 전략은 ‘글쎄’]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280142</link>
-            <guid>https://www.bloter.net/newsView/blt202204280142</guid>
-            <pubDate>Fri, 29 Apr 2022 05:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-28 18:02:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280040.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
