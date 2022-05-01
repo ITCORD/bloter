@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 08:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 09:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종잇장같이 얇은 스피커 탄생…MIT가 개발한 ‘초박막 스피커’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290181</link>
+            <guid>https://www.bloter.net/newsView/blt202204290181</guid>
+            <pubDate>Sun, 01 May 2022 09:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-01 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290047.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피파4 국대선발전]②김병권, 박지민 꺾고 국가대표 후보 합류]]></title>
+            <link>https://www.bloter.net/newsView/blt202205010003</link>
+            <guid>https://www.bloter.net/newsView/blt202205010003</guid>
+            <pubDate>Sun, 01 May 2022 09:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-01 17:45:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010006.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]나만의 굿즈 주문 제작해주는 '마플코퍼레이션']]></title>
             <link>https://www.bloter.net/newsView/blt202204270146</link>
             <guid>https://www.bloter.net/newsView/blt202204270146</guid>
             <pubDate>Sun, 01 May 2022 07:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-01 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[바이오 오픈이노베이션] 고통 큰 ‘희귀질환’…GC녹십자가 팔 걷어붙인 방법]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 29 Apr 2022 03:25:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-04-29 10:40:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/27/blt202204270033.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀카 찍는 드론 나왔다…스냅, 미국·프랑스서 판매 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290007</link>
-            <guid>https://www.bloter.net/newsView/blt202204290007</guid>
-            <pubDate>Fri, 29 Apr 2022 01:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 10:12:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 3년간 엉터리 이용자수 냈지만…2억2900만명 매일 썼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290004</link>
-            <guid>https://www.bloter.net/newsView/blt202204290004</guid>
-            <pubDate>Fri, 29 Apr 2022 01:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 09:16:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
