@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펄어비스, 주가 반등 가능할까…자사주 소각·중국 반등 쌍끌이]]></title>
+            <link>https://www.bloter.net/newsView/blt202205020054</link>
+            <guid>https://www.bloter.net/newsView/blt202205020054</guid>
+            <pubDate>Mon, 02 May 2022 07:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[펄어비스가 자사주 소각을 통해 주주환원정책을 예고한 가운데, 주가 부진의 원인이 된 중국시장 사업도 청신호가 켜질 것이라는 분석이 제기됐다.  2일 펄어비스는 보통주 198만6645주를 오는 11일 소각할 예정이라고 공시했다. 장부상 소각예정금액은 244억원 규모로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아, 우크라 전쟁 여론 조작 위해 ‘트롤 부대’ 운영]]></title>
             <link>https://www.bloter.net/newsView/blt202205020003</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Apr 2022 10:20:18 GMT</pubDate>
             <content:encoded><![CDATA[하이브가 이달 미국 라스베이거스에서 진행한 '더 시티 프로젝트'의 경제적 효과를 공개하고 나섰다. 하이브는 더 시티 프로젝트를 K-콘텐츠의 새로운 산업 모델로 내세운 만큼, 실질적인 경제적 효과에 주목하는 분위기다. 더불어 국내 주요 도시를 더 시티 프로젝]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280031.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]컴투스그룹·위메이드·Z홀딩스, 日 '더블점프 도쿄' 투자 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202204280029</link>
-            <guid>https://www.bloter.net/newsView/blt202204280029</guid>
-            <pubDate>Thu, 28 Apr 2022 04:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 사업을 영위하고 있는 '컴투스그룹'과 '위메이드'가 일본 블록체인 기업 '더블점프 도쿄' 투자를 단행했다. 이번 투자는 'Z홀딩스'의 연결 자회사 'YJ 캐피털'과 '라인(LINE)벤처스'의 합병으로 재출범한 'Z 벤처 캐피털 주식회사'(ZVC)도 참여했다. 28일 업계에]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/28/blt202204280004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
