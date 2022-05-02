@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 22:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 23:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스뱅크, '해외송금' 진출 앞서 외국인 계좌 손쉽게 터준다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205020032</link>
+            <guid>https://www.bloter.net/newsView/blt202205020032</guid>
+            <pubDate>Mon, 02 May 2022 23:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 13:37:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020007.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, 해리왕자 부인 마클 애니 제작 취소...비용 절감?]]></title>
             <link>https://www.bloter.net/newsView/blt202205020013</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 02 May 2022 01:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-01 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290038.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, '음성인식' 알렉사로 수집한 자료 '표적 광고'에 썼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290176</link>
-            <guid>https://www.bloter.net/newsView/blt202204290176</guid>
-            <pubDate>Mon, 02 May 2022 01:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-30 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290043.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
