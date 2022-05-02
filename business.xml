@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 03:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 04:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종잇장같이 얇은 스피커 탄생…MIT가 개발한 ‘초박막 스피커’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204290181</link>
+            <guid>https://www.bloter.net/newsView/blt202204290181</guid>
+            <pubDate>Mon, 02 May 2022 04:51:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-01 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290047.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[⑥“삼성 파운드리, 2위 자리도 위태롭다”]]></title>
             <link>https://www.bloter.net/newsView/blt202204290142</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 01 May 2022 03:42:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-04-29 13:53:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀카 찍는 드론 나왔다…스냅, 미국·프랑스서 판매 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290007</link>
-            <guid>https://www.bloter.net/newsView/blt202204290007</guid>
-            <pubDate>Sat, 30 Apr 2022 05:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-04-29 10:12:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
