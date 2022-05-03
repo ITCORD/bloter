@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사부터 TF 신설까지...삼성전자, M&A 속도 내나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030025</link>
+            <guid>https://www.bloter.net/newsView/blt202205030025</guid>
+            <pubDate>Tue, 03 May 2022 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-03 10:46:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 차세대 AR·VR 헤드셋 출시하나…“9월 공개 예정”]]></title>
             <link>https://www.bloter.net/newsView/blt202205030009</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 03 May 2022 01:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-02 17:04:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 "우리는 테크기업"…상시 재택 근무 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020055</link>
-            <guid>https://www.bloter.net/newsView/blt202205020055</guid>
-            <pubDate>Tue, 03 May 2022 01:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 15:42:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
