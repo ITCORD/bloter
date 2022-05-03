@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 01:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 두 번째 노조 결성 무산…사측 ‘방해 공작’ 의혹]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030003</link>
+            <guid>https://www.bloter.net/newsView/blt202205030003</guid>
+            <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 08:55:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 페이만 되는 아이폰…EU, 반독점법 위반 혐의 조사]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030001</link>
+            <guid>https://www.bloter.net/newsView/blt202205030001</guid>
+            <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 07:58:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오페이, 여전한 물량부담 우려…"알리페이 처분 가능성, 답변 어려워"]]></title>
+            <link>https://www.bloter.net/newsView/blt202205020128</link>
+            <guid>https://www.bloter.net/newsView/blt202205020128</guid>
+            <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 18:52:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두산에너빌리티 부채비율 18년 만에 '두 자리'...경영 위기 끝났나?]]></title>
             <link>https://www.bloter.net/newsView/blt202205020048</link>
@@ -30,30 +54,6 @@
             <pubDate>Mon, 02 May 2022 23:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 13:37:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 해리왕자 부인 마클 애니 제작 취소...비용 절감?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020013</link>
-            <guid>https://www.bloter.net/newsView/blt202205020013</guid>
-            <pubDate>Mon, 02 May 2022 10:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-02 09:40:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕서 물류창고 직원 '노동 쿼터제' 제한법 발의…아마존 겨냥]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020009</link>
-            <guid>https://www.bloter.net/newsView/blt202205020009</guid>
-            <pubDate>Mon, 02 May 2022 08:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-02 09:12:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아, 우크라 전쟁 여론 조작 위해 ‘트롤 부대’ 운영]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020003</link>
-            <guid>https://www.bloter.net/newsView/blt202205020003</guid>
-            <pubDate>Mon, 02 May 2022 07:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-02 08:14:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
