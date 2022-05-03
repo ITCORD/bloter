@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 04:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 05:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 차세대 AR·VR 헤드셋 출시하나…“9월 공개 예정”]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030009</link>
+            <guid>https://www.bloter.net/newsView/blt202205030009</guid>
+            <pubDate>Tue, 03 May 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 09:30:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030002.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 두 번째 노조 결성 무산…사측 ‘방해 공작’ 의혹]]></title>
             <link>https://www.bloter.net/newsView/blt202205030003</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 03 May 2022 01:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 15:42:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, '해외송금' 진출 앞서 외국인 계좌 손쉽게 터준다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020032</link>
-            <guid>https://www.bloter.net/newsView/blt202205020032</guid>
-            <pubDate>Mon, 02 May 2022 23:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 13:37:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
