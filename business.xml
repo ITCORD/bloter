@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CATL, 헝가리에 공장 설립 추진…韓∙中 배터리 전쟁 불붙나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030067</link>
+            <guid>https://www.bloter.net/newsView/blt202205030067</guid>
+            <pubDate>Tue, 03 May 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-03 15:16:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030028.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['미등기임원' 뺀 삼성 평균 임금 인상률, LG·SK와 비교하면?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205020127</link>
+            <guid>https://www.bloter.net/newsView/blt202205020127</guid>
+            <pubDate>Tue, 03 May 2022 08:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-03 14:17:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030010.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[DB의 지주전환…DB하이텍 잘 품는 방법은?]]></title>
             <link>https://www.bloter.net/newsView/blt202205030040</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 03 May 2022 05:19:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 09:30:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 두 번째 노조 결성 무산…사측 ‘방해 공작’ 의혹]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030003</link>
-            <guid>https://www.bloter.net/newsView/blt202205030003</guid>
-            <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 08:55:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 페이만 되는 아이폰…EU, 반독점법 위반 혐의 조사]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030001</link>
-            <guid>https://www.bloter.net/newsView/blt202205030001</guid>
-            <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 07:58:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

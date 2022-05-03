@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]넷마블에프앤씨, 게임 '아스달 연대기'에 블록체인 붙인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030171</link>
+            <guid>https://www.bloter.net/newsView/blt202205030171</guid>
+            <pubDate>Tue, 03 May 2022 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블의 개발 자회사인 넷마블에프앤씨가 '아스달 연대기' IP를 활용한 신작 게임에 블록체인 기술을 접목하는 것으로 확인됐다. 앞서 지난 1월 진행한 '제5회 NTP'를 통해 신작 라인업으로 소개된 '아스달 연대기'는 영상 콘텐츠 제작사 스튜디오 드래곤과 넷마블이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한항공, 미주 취항 50주년...연간 수송인원 69배 늘었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030151</link>
+            <guid>https://www.bloter.net/newsView/blt202205030151</guid>
+            <pubDate>Tue, 03 May 2022 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[대한항공이 미주 취항 50주년을 맞았다. 대한항공은 지난 1972년 4월 19일 서울~미국 로스앤젤리스(LA) 노선 운항을 시작으로 50년 동안 미주 주요 도시를 취항했다. 이에 에릭 가세티 LA 시장은 지난달 18일(현지시간) 대한항공에 감사패를 전달했다. 50년 간의 공로에 감]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넥슨, 'AI' 기반 게임 데이터 분석 고도화…'NIA' 가동]]></title>
             <link>https://www.bloter.net/newsView/blt202205030042</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 01 May 2022 04:38:12 GMT</pubDate>
             <content:encoded><![CDATA['2022 항저우 아시안게임' 피파온라인4 e스포츠 국가대표 후보의 윤곽이 드러났다. 국가대표 선발전에서 김병권, 곽준혁, 차현우, 박지민 선수가 4강에 이름을 올리며 최종 후보 2인의 옥석을 가리는 경기만을 남겨두게 됐다.지난달 30일 아프리카 콜로세움에서 열린 ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠 아시안게임 가다]④김병권·곽준혁, '피파4 국대선발전' 4강 진출]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290183</link>
-            <guid>https://www.bloter.net/newsView/blt202204290183</guid>
-            <pubDate>Fri, 29 Apr 2022 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[김병권·곽준혁 선수가 중국 항저우로 가는 길목에 한 발짝 다가섰다. '2022 항저우 아시안게임' 피파온라인4 e스포츠 국가대표로 뛸 선수를 뽑는 대회에서 두 선수는 각각 4강에 안착했다. 준결승에 오른 두 선수의 온도차는 사뭇 달랐다. 천국과 지옥을 오간 곽]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290051.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'서버 오류' 해명한 발란, '네고왕' 업데이트 이전 가격 인상]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290063</link>
-            <guid>https://www.bloter.net/newsView/blt202204290063</guid>
-            <pubDate>Fri, 29 Apr 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[국내 명품 커머스 업체 '발란'이 유튜브 방송 '네고왕' 방송과 관련한 할인 쿠폰을 적용하기 전 미리 상품 가격을 인상했다는 의혹이 제기된 가운데, 웹 및 애플리케이션 등 업데이트 과정에서 오류가 발생한 것이라고 해명했다. 하지만 &lt;블로터&gt; 취재 결과, 발란]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/29/blt202204290017.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

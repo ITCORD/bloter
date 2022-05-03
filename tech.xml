@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]넷마블에프앤씨, 게임 '아스달 연대기'에 블록체인 붙인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030171</link>
+            <guid>https://www.bloter.net/newsView/blt202205030171</guid>
+            <pubDate>Tue, 03 May 2022 08:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-03 17:18:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달앱 트래픽에 알아서 대응…관리형 클라우드로 스타트업부터 대기업까지 공략하는 AWS]]></title>
             <link>https://www.bloter.net/newsView/blt202205030064</link>
             <guid>https://www.bloter.net/newsView/blt202205030064</guid>
             <pubDate>Tue, 03 May 2022 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-03 16:04:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030032.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오뱅크, 가상자산거래소 제휴에 자신감...'윈윈'할 거래소는 어디?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 02 May 2022 03:54:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-02 11:31:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 해리왕자 부인 마클 애니 제작 취소...비용 절감?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020013</link>
-            <guid>https://www.bloter.net/newsView/blt202205020013</guid>
-            <pubDate>Mon, 02 May 2022 01:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-02 09:40:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
