@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 09:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 10:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이종호 과기 장관 후보자, 尹 원전 활성화 ‘지원사격’…“탄소중립 유일 대안”]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030190</link>
+            <guid>https://www.bloter.net/newsView/blt202205030190</guid>
+            <pubDate>Tue, 03 May 2022 10:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-03 18:54:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030049.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이종호 과기 장관 후보자, 5G 중간 요금제 '긍정적'...망 이용대가는 '신중']]></title>
+            <link>https://www.bloter.net/newsView/blt202205030189</link>
+            <guid>https://www.bloter.net/newsView/blt202205030189</guid>
+            <pubDate>Tue, 03 May 2022 10:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-03 18:36:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030046.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['캠핑' 검색하면 '차박·카라반' 보여준다…네이버가 통합검색→스마트블록으로 가는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202205030181</link>
             <guid>https://www.bloter.net/newsView/blt202205030181</guid>
             <pubDate>Tue, 03 May 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-03 17:56:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030045.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030045.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["4시간 전에 만든 초코파이, 집으로"...카카오표 물류 디지털전환은?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 02 May 2022 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">상암=안신혜</span>                        <span class="date">2022-05-02 17:27:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020019.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['33%+3000억원'...소상공인·매출 모두 잡겠다는 LG유플러스]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020058</link>
-            <guid>https://www.bloter.net/newsView/blt202205020058</guid>
-            <pubDate>Mon, 02 May 2022 08:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-02 16:28:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[펄어비스, 주가 반등 가능할까…자사주 소각·중국 반등 쌍끌이]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020054</link>
-            <guid>https://www.bloter.net/newsView/blt202205020054</guid>
-            <pubDate>Mon, 02 May 2022 07:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-02 15:34:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
