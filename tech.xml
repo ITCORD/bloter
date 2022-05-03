@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 08:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['캠핑' 검색하면 '차박·카라반' 보여준다…네이버가 통합검색→스마트블록으로 가는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030181</link>
+            <guid>https://www.bloter.net/newsView/blt202205030181</guid>
+            <pubDate>Tue, 03 May 2022 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-03 17:56:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030045.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["4시간 전에 만든 초코파이, 집으로"...카카오표 물류 디지털전환은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030167</link>
+            <guid>https://www.bloter.net/newsView/blt202205030167</guid>
+            <pubDate>Tue, 03 May 2022 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-03 17:53:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030038.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷마블에프앤씨, 게임 '아스달 연대기'에 블록체인 붙인다]]></title>
             <link>https://www.bloter.net/newsView/blt202205030171</link>
             <guid>https://www.bloter.net/newsView/blt202205030171</guid>
             <pubDate>Tue, 03 May 2022 08:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-03 17:18:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배달앱 트래픽에 알아서 대응…관리형 클라우드로 스타트업부터 대기업까지 공략하는 AWS]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 02 May 2022 07:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-02 15:34:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분사 5년 '네이버웹툰'…MAU 1억8000만명 달성 비결 3가지]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020021</link>
-            <guid>https://www.bloter.net/newsView/blt202205020021</guid>
-            <pubDate>Mon, 02 May 2022 03:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-02 11:40:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이음5G' 특화 장비 내놓은 삼성전자…한국서 에릭슨·노키아 벽 넘을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020023</link>
-            <guid>https://www.bloter.net/newsView/blt202205020023</guid>
-            <pubDate>Mon, 02 May 2022 03:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-02 11:31:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
