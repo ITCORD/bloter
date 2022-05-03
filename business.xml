@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DB의 지주전환…DB하이텍 잘 품는 방법은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030040</link>
+            <guid>https://www.bloter.net/newsView/blt202205030040</guid>
+            <pubDate>Tue, 03 May 2022 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-03 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대무벡스, 2차전지 물류 솔루션 시장 진출...그룹 재건의 '밀알'될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030016</link>
+            <guid>https://www.bloter.net/newsView/blt202205030016</guid>
+            <pubDate>Tue, 03 May 2022 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-03 11:44:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030014.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인사부터 TF 신설까지...삼성전자, M&A 속도 내나]]></title>
             <link>https://www.bloter.net/newsView/blt202205030025</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 07:58:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이, 여전한 물량부담 우려…"알리페이 처분 가능성, 답변 어려워"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020128</link>
-            <guid>https://www.bloter.net/newsView/blt202205020128</guid>
-            <pubDate>Tue, 03 May 2022 03:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-02 18:52:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두산에너빌리티 부채비율 18년 만에 '두 자리'...경영 위기 끝났나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020048</link>
-            <guid>https://www.bloter.net/newsView/blt202205020048</guid>
-            <pubDate>Tue, 03 May 2022 01:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-02 17:04:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
