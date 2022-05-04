@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 04:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포티파이, 로블록스 내 '케이팝 테마공원' 조성]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040016</link>
+            <guid>https://www.bloter.net/newsView/blt202205040016</guid>
+            <pubDate>Wed, 04 May 2022 05:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 음원 스트리밍 플랫폼 스포티파이가 메타버스 플랫폼 '로블록스'에 '스포티파이 아일랜드'를 출시했다. 조만간 케이팝 테마의 가상 공원도 선보일 예정이다.3일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 스포티파이는 음원 스트리밍 플랫폼 최초로 로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷마블에프앤씨, 게임 '아스달 연대기'에 블록체인 붙인다]]></title>
             <link>https://www.bloter.net/newsView/blt202205030171</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 01 May 2022 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임'에서 '피파온라인4' e스포츠 국가대표로 활약할 선수는 누가 될까.1일 서울 상암에 위치한 아프리카 콜로세움에서 피파온라인4 e스포츠 국가대표 선발전이 진행될 예정이다. 본선과 결선을 거쳐 김병권, 곽준혁, 차현우, 박지]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠 아시안게임 가다]⑤차현우 '늪 축구' 통했다…4강 대진표 완성]]></title>
-            <link>https://www.bloter.net/newsView/blt202205010001</link>
-            <guid>https://www.bloter.net/newsView/blt202205010001</guid>
-            <pubDate>Sun, 01 May 2022 04:38:12 GMT</pubDate>
-            <content:encoded><![CDATA['2022 항저우 아시안게임' 피파온라인4 e스포츠 국가대표 후보의 윤곽이 드러났다. 국가대표 선발전에서 김병권, 곽준혁, 차현우, 박지민 선수가 4강에 이름을 올리며 최종 후보 2인의 옥석을 가리는 경기만을 남겨두게 됐다.지난달 30일 아프리카 콜로세움에서 열린 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 04:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 금융당국, 가상자산 감독 강화한다…부서 인력 보강, 명칭 변경]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040007</link>
+            <guid>https://www.bloter.net/newsView/blt202205040007</guid>
+            <pubDate>Wed, 04 May 2022 05:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 10:00:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한화호텔 손 잡은 LG전자, '클로이 로봇' 공급 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040011</link>
+            <guid>https://www.bloter.net/newsView/blt202205040011</guid>
+            <pubDate>Wed, 04 May 2022 05:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-04 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 애플스토어 노조 결성 움직임 확산...총 3곳으로 늘어]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040001</link>
+            <guid>https://www.bloter.net/newsView/blt202205040001</guid>
+            <pubDate>Wed, 04 May 2022 05:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 09:24:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두산그룹, 부채비율 2000년 이후 첫 100%대 진입...경영난 후 재무성과 '가시화']]></title>
             <link>https://www.bloter.net/newsView/blt202205030127</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 04 May 2022 01:23:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-03 16:36:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오뱅크, 가상자산거래소 제휴에 자신감...'윈윈'할 거래소는 어디?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030074</link>
-            <guid>https://www.bloter.net/newsView/blt202205030074</guid>
-            <pubDate>Wed, 04 May 2022 01:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-03 15:54:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과학기술 수석 없지만…이종호 과기 장관 후보자, 尹 당선인과 소통 자신]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030066</link>
-            <guid>https://www.bloter.net/newsView/blt202205030066</guid>
-            <pubDate>Tue, 03 May 2022 09:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-03 15:29:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030029.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CATL, 헝가리에 공장 설립 추진…韓∙中 배터리 전쟁 불붙나]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030067</link>
-            <guid>https://www.bloter.net/newsView/blt202205030067</guid>
-            <pubDate>Tue, 03 May 2022 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-03 15:16:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030028.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

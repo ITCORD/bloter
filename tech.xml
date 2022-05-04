@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 04:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 05:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['상장 초읽기' SK쉴더스, 보안 시장 구원투수 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040044</link>
+            <guid>https://www.bloter.net/newsView/blt202205040044</guid>
+            <pubDate>Wed, 04 May 2022 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-04 14:13:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스포티파이, 로블록스 내 '케이팝 테마공원' 조성]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040016</link>
+            <guid>https://www.bloter.net/newsView/blt202205040016</guid>
+            <pubDate>Wed, 04 May 2022 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 13:50:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040005.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 7월부터 '재택·출근' 선택한다]]></title>
             <link>https://www.bloter.net/newsView/blt202205040031</link>
             <guid>https://www.bloter.net/newsView/blt202205040031</guid>
             <pubDate>Wed, 04 May 2022 04:31:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-04 13:08:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040013.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소비자 불만 많았던 코인원 "달라지고 있어요"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 03 May 2022 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-03 15:29:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030029.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]'미등기임원' 뺀 삼성 평균 임금 인상률, LG·SK와 비교하면?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020127</link>
-            <guid>https://www.bloter.net/newsView/blt202205020127</guid>
-            <pubDate>Tue, 03 May 2022 05:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-03 14:17:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스] DB의 지주전환…DB하이텍 잘 품는 방법은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030040</link>
-            <guid>https://www.bloter.net/newsView/blt202205030040</guid>
-            <pubDate>Tue, 03 May 2022 03:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-03 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
