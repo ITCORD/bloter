@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 10:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크체인저] 상장 앞둔 에이피알, 뷰티업계 '애플' 꿈꾼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040144</link>
+            <guid>https://www.bloter.net/newsView/blt202205040144</guid>
+            <pubDate>Wed, 04 May 2022 10:20:26 GMT</pubDate>
+            <content:encoded><![CDATA['보라색 트랙 수트'로 MZ세대에게 잘 알려진 스트리트 패션 브랜드 '널디'. 널디는 자사몰에서 직접 제품을 판매하는 ‘D2C’(다이렉트 투 컨슈머) 방식으로 운영 중인 브랜드다. 널디는 유통사에 입점하지 않고 SNS 마케팅 등을 통해 유입된 고객과 자사몰에서]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040037.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포티파이, 로블록스 내 '케이팝 테마공원' 조성]]></title>
             <link>https://www.bloter.net/newsView/blt202205040016</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 01 May 2022 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[김병권 선수가 박지민 선수를 제압하고 '2022 항저우 아시안게임' 피파온라인4 국가대표 후보에 이름을 올렸다.1일 아프리카 콜로세움에서 열린 피파온라인4 항저우 아시안게임 국가대표 선발전에서 김병권 선수는 박지민 선수에게 세트스코어 2대0으로 승리하며 최]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010006.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피파4 국대선발전]①젊은 피 vs 관록…아시안게임 한국대표 누가 될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205010002</link>
-            <guid>https://www.bloter.net/newsView/blt202205010002</guid>
-            <pubDate>Sun, 01 May 2022 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임'에서 '피파온라인4' e스포츠 국가대표로 활약할 선수는 누가 될까.1일 서울 상암에 위치한 아프리카 콜로세움에서 피파온라인4 e스포츠 국가대표 선발전이 진행될 예정이다. 본선과 결선을 거쳐 김병권, 곽준혁, 차현우, 박지]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010005.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
