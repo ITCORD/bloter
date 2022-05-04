@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 01:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 03:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두산그룹, 부채비율 2000년 이후 첫 100%대 진입...경영난 후 재무성과 '가시화']]></title>
+            <link>https://www.bloter.net/newsView/blt202205030127</link>
+            <guid>https://www.bloter.net/newsView/blt202205030127</guid>
+            <pubDate>Wed, 04 May 2022 03:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-03 17:56:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030040.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대한항공, 미주 취항 50주년...연간 수송인원 69배 늘었다]]></title>
             <link>https://www.bloter.net/newsView/blt202205030151</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 03 May 2022 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-03 15:16:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030028.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['미등기임원' 뺀 삼성 평균 임금 인상률, LG·SK와 비교하면?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020127</link>
-            <guid>https://www.bloter.net/newsView/blt202205020127</guid>
-            <pubDate>Tue, 03 May 2022 08:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-03 14:17:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030010.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
