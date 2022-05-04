@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 06:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘규제자유특구 2.0’, 신사업 인큐베이팅 강화 ‘시동’]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040030</link>
+            <guid>https://www.bloter.net/newsView/blt202205040030</guid>
+            <pubDate>Wed, 04 May 2022 07:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-04 12:25:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040011.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미국 금융당국, 가상자산 감독 강화한다…부서 인력 보강, 명칭 변경]]></title>
             <link>https://www.bloter.net/newsView/blt202205040007</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 04 May 2022 01:23:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-03 16:48:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030036.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코오롱인더, 위기 속 버팀목 된 ‘아라미드∙타이어코드’]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030144</link>
-            <guid>https://www.bloter.net/newsView/blt202205030144</guid>
-            <pubDate>Wed, 04 May 2022 01:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-03 16:36:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 06:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 07:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이산화탄소로 ‘개미산’ 만든다…효율성 높인 국산 ‘탄소중립 기술’]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040057</link>
+            <guid>https://www.bloter.net/newsView/blt202205040057</guid>
+            <pubDate>Wed, 04 May 2022 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-04 15:39:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 매출 31% 늘었는데 영업이익 제자리...이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202205040050</link>
             <guid>https://www.bloter.net/newsView/blt202205040050</guid>
             <pubDate>Wed, 04 May 2022 06:24:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-04 15:19:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['상장 초읽기' SK쉴더스, 보안 시장 구원투수 될까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 03 May 2022 07:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-03 15:44:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 새 클래스 3배 성장…클래스101, 강남에서 재도약 꿈꾼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030027</link>
-            <guid>https://www.bloter.net/newsView/blt202205030027</guid>
-            <pubDate>Tue, 03 May 2022 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-03 15:42:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
