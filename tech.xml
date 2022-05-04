@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 11:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 12:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]⑥PUBG M 국대, 예비후보 26인 결정]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040161</link>
+            <guid>https://www.bloter.net/newsView/blt202205040161</guid>
+            <pubDate>Wed, 04 May 2022 12:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-04 20:22:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040042.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이젠, 우주]과학계 우려에도…항공우주청, 경남 사천 간다]]></title>
             <link>https://www.bloter.net/newsView/blt202205040160</link>
             <guid>https://www.bloter.net/newsView/blt202205040160</guid>
             <pubDate>Wed, 04 May 2022 10:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-04 19:10:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040040.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크체인저] 상장 앞둔 에이피알, 뷰티업계 '애플' 꿈꾼다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 03 May 2022 09:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-03 17:56:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030045.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["4시간 전에 만든 초코파이, 집으로"...카카오표 물류 디지털전환은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030167</link>
-            <guid>https://www.bloter.net/newsView/blt202205030167</guid>
-            <pubDate>Tue, 03 May 2022 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-03 17:53:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 11:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 12:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]⑥PUBG M 국대, 예비후보 26인 결정]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040161</link>
+            <guid>https://www.bloter.net/newsView/blt202205040161</guid>
+            <pubDate>Wed, 04 May 2022 12:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임' e스포츠에서 '배틀그라운드 모바일'(PUBG M) 국가대표로 뛸 선수는 누가 될까.  4일 한국e스포츠협회(KeSPA)는 PUBG M 국가대표 예비명단 26인을 대한체육회에 제출했다고 밝혔다. PUBG M 예비명단 26인을 결정하기까지 다양한 과정을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040042.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크체인저] 상장 앞둔 에이피알, 뷰티업계 '애플' 꿈꾼다]]></title>
             <link>https://www.bloter.net/newsView/blt202205040144</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 01 May 2022 10:21:14 GMT</pubDate>
             <content:encoded><![CDATA[곽준혁 선수가 대선배 차현우 선수를 제압하고 '2022 항저우 아시안게임' 피파온라인4 국가대표 후보에 이름을 올렸다.1일 아프리카 콜로세움에서 열린 피파온라인4 항저우 아시안게임 국가대표 선발전에서 곽준혁 선수는 차현우 선수에게 세트스코어 2대0으로 승리]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010008.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피파4 국대선발전]②김병권, 박지민 꺾고 국가대표 후보 합류]]></title>
-            <link>https://www.bloter.net/newsView/blt202205010003</link>
-            <guid>https://www.bloter.net/newsView/blt202205010003</guid>
-            <pubDate>Sun, 01 May 2022 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[김병권 선수가 박지민 선수를 제압하고 '2022 항저우 아시안게임' 피파온라인4 국가대표 후보에 이름을 올렸다.1일 아프리카 콜로세움에서 열린 피파온라인4 항저우 아시안게임 국가대표 선발전에서 김병권 선수는 박지민 선수에게 세트스코어 2대0으로 승리하며 최]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
