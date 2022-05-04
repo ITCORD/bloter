@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 01:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화호텔 손 잡은 LG전자, '클로이 로봇' 공급 늘린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040011</link>
+            <guid>https://www.bloter.net/newsView/blt202205040011</guid>
+            <pubDate>Wed, 04 May 2022 01:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-04 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 애플스토어 노조 결성 움직임 확산...총 3곳으로 늘어]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040001</link>
+            <guid>https://www.bloter.net/newsView/blt202205040001</guid>
+            <pubDate>Wed, 04 May 2022 01:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 09:24:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이종호 과기 장관 후보자, 尹 원전 활성화 ‘지원사격’…“탄소중립 유일 대안”]]></title>
             <link>https://www.bloter.net/newsView/blt202205030190</link>
             <guid>https://www.bloter.net/newsView/blt202205030190</guid>
             <pubDate>Tue, 03 May 2022 10:22:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-03 18:54:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030049.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030049.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이종호 과기 장관 후보자, 5G 중간 요금제 '긍정적'...망 이용대가는 '신중']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 03 May 2022 01:24:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 08:55:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 페이만 되는 아이폰…EU, 반독점법 위반 혐의 조사]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030001</link>
-            <guid>https://www.bloter.net/newsView/blt202205030001</guid>
-            <pubDate>Mon, 02 May 2022 23:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-03 07:58:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피파4 국대선발전]⑤신보석 감독 "목표는 금메달, 과정·결과 다 잡을 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020094</link>
-            <guid>https://www.bloter.net/newsView/blt202205020094</guid>
-            <pubDate>Mon, 02 May 2022 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">상암=안신혜</span>                        <span class="date">2022-05-02 17:27:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020019.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

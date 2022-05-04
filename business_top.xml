@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 01:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[두산그룹, 부채비율 2000년 이후 첫 100%대 진입...경영난 후 재무성과 '가시화']]></title>
-            <link>https://www.bloter.net/newsView/blt202205030127</link>
-            <guid>https://www.bloter.net/newsView/blt202205030127</guid>
-            <pubDate>Tue, 03 May 2022 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-03 17:56:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030040.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[미국 금융당국, 가상자산 감독 강화한다…부서 인력 보강, 명칭 변경]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040007</link>
+            <guid>https://www.bloter.net/newsView/blt202205040007</guid>
+            <pubDate>Wed, 04 May 2022 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 10:00:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두산에너빌리티 부채비율 18년 만에 '두 자리'...경영 위기 끝났나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020048</link>
-            <guid>https://www.bloter.net/newsView/blt202205020048</guid>
-            <pubDate>Tue, 03 May 2022 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[美 법무부, 다크웹 정보 판매자 400억원 가상자산 압수…‘역대 최대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202204050013</link>
+            <guid>https://www.bloter.net/newsView/blt202204050013</guid>
+            <pubDate>Wed, 04 May 2022 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두산퓨얼셀, 발주 시장 침체로 7개 분기 만에 적자...국내 시장 점유율도 하락세]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270148</link>
-            <guid>https://www.bloter.net/newsView/blt202204270148</guid>
-            <pubDate>Tue, 03 May 2022 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[가상자산거래소 트래블룰 연동 전까지 '잠시 여행 금지']]></title>
+            <link>https://www.bloter.net/newsView/blt202203240162</link>
+            <guid>https://www.bloter.net/newsView/blt202203240162</guid>
+            <pubDate>Wed, 04 May 2022 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박용만 전 회장, 두산과 결별...보유 지분 전량 매각]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240032</link>
-            <guid>https://www.bloter.net/newsView/blt202203240032</guid>
-            <pubDate>Tue, 03 May 2022 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[美 바이든 행정부, '가상자산 연구' 행정명령…업계 지지받은 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203110192</link>
+            <guid>https://www.bloter.net/newsView/blt202203110192</guid>
+            <pubDate>Wed, 04 May 2022 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나, 러시아인 가상자산 계정 동결 요청…코인베이스·바이낸스 ‘거부’]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020004</link>
+            <guid>https://www.bloter.net/newsView/blt202203020004</guid>
+            <pubDate>Wed, 04 May 2022 01:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
