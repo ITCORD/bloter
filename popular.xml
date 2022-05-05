@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 08:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 09:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -123,6 +123,23 @@ OM은 화주는 상품등록부터 주문·재고 등 물류관리를, 회원사
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040022.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050005</link>
+            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
+            <pubDate>Thu, 05 May 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자 SIC센터장 김진경 상무(왼쪽)가 TUV 라인란드 코리아 프랭크 주트너(Frank Juettner) 대표와 함께 기념촬영을 하고 있다. (사진=LG전자)
+
+LG전자가 차량용 반도체 설계, 구현, 검증 등 개발 프로세스 전반에 대한 기술을 확보했다고 5일 밝혔다. 차량용 반도체 개발 계획을 공식화했다. LG전자는 지난해까지 차량용 반도체 개발을 검토 중이라고 밝혔다. LG전자에 따르면, 최근 독일 인증 전문기관 TUV 라인란드(TÜV Rheinland)는 LG전자 차량용 반도체 개발 프로세스에 'ISO 26262' 인증을 부여했다. ISO 26262는 국제표준화기구(ISO)가 제정한 자동차 기능안전 국제표준규격이다.이번 인증으로 LG전자는 마이크로컨트롤러유닛(MCU), 전력관리반도체(PMIC) 등 차량용 반도체 관련 개발 프로세스를 구축할 수 있게 됐다.&nbsp;
+
+쉽게 알아보기· MCU: 엔진 컨트롤부터 창문 및 와이퍼 조작 등 모든 편의 기능을 제어하는 반도체입니다. 차량 전장시스템 전반을 제어하는 반도체입니다. 전기차·자율주행차 생산이 늘면서 중요성이 커지고 있습니다.&nbsp;· PMIC: 전력 관리 역할을 맡고 있습니다. 기존에는 스마트폰 등에서 많이 쓰였는데요. 전기차에서도 각 기능에 꼭 필요한 만큼만 배터리 전력이 공급되도록 돕는 반도체입니다.&nbsp;
+LG전자가 차량용 반도체 개발에 나선 건 안정적인 공급망 확보와 원가 경쟁력 강화 차원으로 보인다. LG전자는 VS사업부, ZKW, LG마그나이파워트레인에서 전장 사업을 진행하고 있다.&nbsp;이들 사업부는 최근 차량용 반도체 부족으로 사업에 어려움을 겪고 있다. LG전자는 올해 1분기 실적 설명회에서 "자동차 부품업계에 지속되고 있는 반도체 공급 이슈 및 원자재값 상승 등으로 매출과 원가 변동성이 매우 큰 상황"이라고 밝혔다.&nbsp;
+
+(자료=IC인사이츠)
+
+실제 차량용 반도체 핵심 MCU 평균 판매 가격(ASP) 추이는 2020년 파운드리 공급 부족을 기점으로 상승세가 이어지고 있다. 반도체 시장 조사기관 IC인사이츠는 지난 3월 발표한 리포트에서 "MCU 평균 판매 가격(ASP)은 2026년까지 상승할 것"이라고 전망했다. 김진경 LG전자 SIC센터장 상무는 “자동차 핵심 부품인 차량용 반도체의 기능 안전성을 세계 최고 수준으로 개발할 수 있도록 체계와 역량을 확보해 나가겠다"고 강조했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현대백화점이 품은 지누스, 역대 분기 최대 실적]]></title>
             <link>https://www.bloter.net/newsView/blt202205040073</link>
             <guid>https://www.bloter.net/newsView/blt202205040073</guid>
@@ -159,23 +176,6 @@ OM은 화주는 상품등록부터 주문·재고 등 물류관리를, 회원사
 
 한편 카카오의 1분기 매출은 △플랫폼(8860억원·전년동기대비 27% 증가)과 △콘텐츠(7657억원·36% 증가) 부문 모두에서 고르게 성장했다. 배재현 카카오 공동체얼라인먼트센터(CAC) 투자총괄(수석부사장)은 컨콜에서 “올해 전체적으로도 플랫폼과 콘텐츠 전 영역이 고른 성장을 할 것으로 예상된다”면서 “특히 주요 사업 부문의 성장 속도가 높아 올해 내부적으로 영업이익률 두 자릿수를 유지하면서 성장할 수 있을 것으로 내다보고 있다”고 전했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040017.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050005</link>
-            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
-            <pubDate>Thu, 05 May 2022 08:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[LG전자 SIC센터장 김진경 상무(왼쪽)가 TUV 라인란드 코리아 프랭크 주트너(Frank Juettner) 대표와 함께 기념촬영을 하고 있다. (사진=LG전자)
-
-LG전자가 차량용 반도체 설계, 구현, 검증 등 개발 프로세스 전반에 대한 기술을 확보했다고 5일 밝혔다. 차량용 반도체 개발 계획을 공식화했다. LG전자는 지난해까지 차량용 반도체 개발을 검토 중이라고 밝혔다. LG전자에 따르면, 최근 독일 인증 전문기관 TUV 라인란드(TÜV Rheinland)는 LG전자 차량용 반도체 개발 프로세스에 'ISO 26262' 인증을 부여했다. ISO 26262는 국제표준화기구(ISO)가 제정한 자동차 기능안전 국제표준규격이다.이번 인증으로 LG전자는 마이크로컨트롤러유닛(MCU), 전력관리반도체(PMIC) 등 차량용 반도체 관련 개발 프로세스를 구축할 수 있게 됐다.&nbsp;
-
-쉽게 알아보기· MCU: 엔진 컨트롤부터 창문 및 와이퍼 조작 등 모든 편의 기능을 제어하는 반도체입니다. 차량 전장시스템 전반을 제어하는 반도체입니다. 전기차·자율주행차 생산이 늘면서 중요성이 커지고 있습니다.&nbsp;· PMIC: 전력 관리 역할을 맡고 있습니다. 기존에는 스마트폰 등에서 많이 쓰였는데요. 전기차에서도 각 기능에 꼭 필요한 만큼만 배터리 전력이 공급되도록 돕는 반도체입니다.&nbsp;
-LG전자가 차량용 반도체 개발에 나선 건 안정적인 공급망 확보와 원가 경쟁력 강화 차원으로 보인다. LG전자는 VS사업부, ZKW, LG마그나이파워트레인에서 전장 사업을 진행하고 있다.&nbsp;이들 사업부는 최근 차량용 반도체 부족으로 사업에 어려움을 겪고 있다. LG전자는 올해 1분기 실적 설명회에서 "자동차 부품업계에 지속되고 있는 반도체 공급 이슈 및 원자재값 상승 등으로 매출과 원가 변동성이 매우 큰 상황"이라고 밝혔다.&nbsp;
-
-(자료=IC인사이츠)
-
-실제 차량용 반도체 핵심 MCU 평균 판매 가격(ASP) 추이는 2020년 파운드리 공급 부족을 기점으로 상승세가 이어지고 있다. 반도체 시장 조사기관 IC인사이츠는 지난 3월 발표한 리포트에서 "MCU 평균 판매 가격(ASP)은 2026년까지 상승할 것"이라고 전망했다. 김진경 LG전자 SIC센터장 상무는 “자동차 핵심 부품인 차량용 반도체의 기능 안전성을 세계 최고 수준으로 개발할 수 있도록 체계와 역량을 확보해 나가겠다"고 강조했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
