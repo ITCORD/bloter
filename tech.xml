@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 05:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 06:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡도 유튜브처럼 광고 도입한다…6월 미국부터 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050004</link>
+            <guid>https://www.bloter.net/newsView/blt202205050004</guid>
+            <pubDate>Thu, 05 May 2022 06:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050004.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202205050005</link>
             <guid>https://www.bloter.net/newsView/blt202205050005</guid>
             <pubDate>Thu, 05 May 2022 03:23:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-05 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 이어 구글도 네덜란드서 ‘인앱결제 강제’ 조사받는다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 04 May 2022 01:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 09:24:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/25/blt202204250002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이종호 과기 장관 후보자, 尹 원전 활성화 ‘지원사격’…“탄소중립 유일 대안”]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030190</link>
-            <guid>https://www.bloter.net/newsView/blt202205030190</guid>
-            <pubDate>Tue, 03 May 2022 10:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-03 18:54:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030049.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
