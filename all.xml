@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 01:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 03:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자 장비 공급받는 美 디시 네트워크...5G 서비스 개시 (블로터 ─ 최신기사)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050002</link>
-            <guid>https://www.bloter.net/newsView/blt202205050002</guid>
-            <pubDate>Thu, 05 May 2022 01:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[미국 4위 이동통신사인 ‘디시 네트워크(Dish Network)’가 5G세대 이동통신(5G) 서비스를 개시했다. 앞서 삼성전자는 디시 네트워크의 미국 5G 전국망 구축을 위한 대규모 장비 공급 계약을 체결했다고 밝혀 주목받은 바 있다. 4일(현지시간) 미국 인터넷매체인 &lt;악시오스&gt;에 따르면 디시 네트워크는 이날 라스베가스에서 서비스를 시작했다고 발표했다. 또 오는 6월까지 미국 인구의 20%에 해당되는 125개 도시로 서비스를 확대할 계획이라고 밝혔다. 디시 네트워크는 이미 5G 서비스에 필요한 셀룰러 타워가 설치돼 있고, 서비스 지원을 위한 전산 인프라가 아마존의 클라우드에서 운영되기 때문에 빠른 확장이 가능하다고 설명했다. 현재 디시 네트워크의 5G 지원 단말기는 ‘모토로라 에지 플러스’ 스마트폰이 유일하지만 점차 종류를 늘려나간다는 계획이다. 디시 네트워크는 현재 3위 사업자인 티모바일(T-Mobile)의 통신망을 이용해 서비스를 제공 중이다. 2020년 버라이즌, AT&amp;T, T 모바일에 이어 미국의 제4 이동통신사로 선정됐다. 디시 네트워크는 2023년까지 미국의 70%를 커버하는 자체 5G 전국망을 구축하기로 미국 연방통신위원회(FCC)와 협의해 투자를 진행하고 있다.앞서 디시 네트워크는 지난해 5G 상용 서비스를 제공한다는 계획이었으나 장비 테스트가 지연되며 계획에 차질이 발생했다. 다른 이통사의 경우 5G 서비스를 제공하기 위해 기존의 인프라를 업그레이드해왔으나 디시 네트워크는 처음부터 독자적 5G 네트워크를 선보인다고 밝혔다. 디시 네트워크는 5G 네트워크 구축을 위해 이동통신 기지국을 구현하는 소프트웨어(SW)인 ‘오픈 랜(RAN, Radio Access Network)’을 적극 활용 중이다. 오픈랜은 개방형 표준 네트워크로 이를 사용해 이통사는 특정 네트워크 장비 제조사에 대한 종속성을 탈피할 수 있다. 삼성전자는 디시네트워크에 5G 가상화 기지국(vRAN) 등의 통신장비를 공급할 예정이다. 양사의 구체적인 계약 규모는 알려지지 않았으나 업계에 따르면 1조원 이상으로 추정된다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050003.291x174.0.png" length="0" type="image/png"/>
+            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화 (블로터 ─ 최신기사)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050005</link>
+            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
+            <pubDate>Thu, 05 May 2022 03:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[LG전자가 차량용 반도체 설계, 구현, 검증 등 개발 프로세스 전반에 대한 기술을 확보했다고 5일 밝혔다. 차량용 반도체 개발 계획을 공식화했다. LG전자는 지난해까지 차량용 반도체 개발을 검토 중이라고 밝혔다. LG전자에 따르면, 최근 독일 인증 전문기관 TUV 라인란드(TÜV Rheinland)는 LG전자 차량용 반도체 개발 프로세스에 'ISO 26262' 인증을 부여했다. ISO 26262는 국제표준화기구(ISO)가 제정한 자동차 기능안전 국제표준규격이다.이번 인증으로 LG전자는 마이크로컨트롤러유닛(MCU), 전력관리반도체(PMIC) 등 차량용 반도체 관련 개발 프로세스를 구축할 수 있게 됐다.   쉽게 알아보기· MCU: 엔진 컨트롤부터 창문 및 와이퍼 조작 등 모든 편의 기능을 제어하는 반도체입니다. 차량 전장시스템 전반을 제어하는 반도체입니다. 전기차·자율주행차 생산이 늘면서 중요성이 커지고 있습니다. · PMIC: 전력 관리 역할을 맡고 있습니다. 기존에는 스마트폰 등에서 많이 쓰였는데요. 전기차에서도 각 기능에 꼭 필요한 만큼만 배터리 전력이 공급되도록 돕는 반도체입니다.  LG전자가 차량용 반도체 개발에 나선 건 안정적인 공급망 확보와 원가 경쟁력 강화 차원으로 보인다. LG전자는 VS사업부, ZKW, LG마그나이파워트레인에서 전장 사업을 진행하고 있다. 이들 사업부는 최근 차량용 반도체 부족으로 사업에 어려움을 겪고 있다. LG전자는 올해 1분기 실적 설명회에서 "자동차 부품업계에 지속되고 있는 반도체 공급 이슈 및 원자재값 상승 등으로 매출과 원가 변동성이 매우 큰 상황"이라고 밝혔다.   실제 차량용 반도체 핵심 MCU 평균 판매 가격(ASP) 추이는 2020년 파운드리 공급 부족을 기점으로 상승세가 이어지고 있다. 반도체 시장 조사기관 IC인사이츠는 지난 3월 발표한 리포트에서 "MCU 평균 판매 가격(ASP)은 2026년까지 상승할 것"이라고 전망했다. 김진경 LG전자 SIC센터장 상무는 “자동차 핵심 부품인 차량용 반도체의 기능 안전성을 세계 최고 수준으로 개발할 수 있도록 체계와 역량을 확보해 나가겠다"고 강조했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 이어 구글도 네덜란드서 ‘인앱결제 강제’ 조사받는다 (블로터 ─ 최신기사)]]></title>
@@ -229,6 +229,20 @@ OM은 화주는 상품등록부터 주문·재고 등 물류관리를, 회원사
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040013.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이산화탄소로 ‘개미산’ 만든다…효율성 높인 국산 ‘탄소중립 기술’ (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040057</link>
+            <guid>https://www.bloter.net/newsView/blt202205040057</guid>
+            <pubDate>Wed, 04 May 2022 07:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[불소 도핑 산화주석 촉매가 적용된 이산화탄소 전환 개미산 생산 및 활용을 설명한 모식도.(자료=한국과학기술연구원)
+
+대기 중 이산화탄소(CO2)의 증가는 지구온난화의 주원인으로 지목받고 있다. 이산화탄소의 포집 기술만큼이나 중요한 부분이 ‘포집된 CO2를 어떻게 경제적으로 활용하는가’이다. 포집된 CO2의 활용방안이 뚜렷해야 해당 산업의 활성화로 이어질 수 있기 때문이다.국내 연구팀은 포집된 CO2를 산업적 활용성이 높은 ‘개미산(포름산)’으로 전환할 수 있는 원천 기술을 개발했다. 식품가공·보존제 등으로 사용되는 개미산은 수소저장체로도 활용이 가능할 것으로 기대되는 물질이다.한국과학기술연구원(KIST) 청정에너지연구센터 소속 오형석 박사는 4일 장시간 안정적으로 이산화탄소를 유용한 액상화합물(개미산)로 전환하는 기술을 개발한 성과를 공개했다. 불소 도핑 산화주석 촉매의 대용량 합성법을 통해 포집된 이산화탄소를 개미산으로 전환하는 게 핵심이다. 연구팀이 개발한 기술은 기존 생산 방식보다 효율성·내구성이 높아 다양한 산업적 형태로 사용이 가능할 것으로 평가받고 있다.오 박사는 기자와의 통화에서 “이산화탄소를 포집하더라도 저장 용량이 한계가 있기 때문에 이를 ‘어떻게 사용할까’는 점이 학계 화두 중 하나”라며 “이산화탄소 자원화가 경제성을 갖춰야 포집기술 개발의 활성화도 이뤄질 수 있을 텐데, 이번 기술은 개미산 생성 효율을 높이는 데 초점이 맞춰져 있어 활용도가 높다”고 말했다.이산화탄소 자원화와 수소에너지 활용은 탄소중립 실현의 가장 실질적인 대책으로 주목받고 있다. 이산화탄소를 개미산으로 효율적으로 전환하는 기술은 두 분야 모두 활용이 가능해 상용화 시 많은 경제적 효과를 창출할 수 있다는 설명이다.오 박사 연구팀이 개발한 기술로 생성되는 개미산은 특유의 신맛을 내는 기초 화학원료다. 세균억제·수소이온지수 조절 효과를 지닌 물질이라 △식품가공 △보존제 △염색제 △가소제 △제설제 △경화지연제 등 다양한 산업에서 활용된다. 최근에는 친환경 생분해성 플라스틱의 원료로도 주목받고 있다.개미산은 또 수소를 고가의 대형 특수용기가 아닌 제3의 물질과 결합해 저장·수송하는 LOHC(Liquid Organic Hydrogen Carrier)에도 활용이 가능할 것으로 주목받고 있다. 수소 저장물질의 유력한 후보군에 포함돼 향후 높은 사업성을 창출할 수 있는 분야로 꼽힌다. LOHC 기술의 핵심은 대용량의 수소를 저장하면서도 외부 자극에도 안정성이 유지되는 액상화합물의 확보인데, 개미산은 이런 특성이 있다.개미산을 생성하는 과정은 대부분 화석연료의 열화학반응을 이용한다. 이산화탄소 배출이 불가피하다는 의미다. 전기화학 반응을 통해 이산화탄소를 직접 개미산으로 전환하게 되면 친환경적으로 생산이 가능하지만, 이를 위해 기체 상태의 이산화탄소를 액체로 전환하기 위한 액상 전환용 전극 물질의 성능을 높이고 장시간 안정적으로 전극이 구동할 수 있도록 하는 내구성 확보가 필수적이다.연구팀은 불소가 도핑된 산화주석이 일반 산화주석보다 이산화탄소 전환 촉매의 활성을 떨어뜨리는 금속화 경향이 낮다는 사실에 주목했다. 주석에 불소를 도핑하는 비교적 간단한 방법으로 높은 개미산 전환 활성을 안정적으로 유지하는 전극을 개발했다. 이런 방법으로 제작된 불소 도핑 산화주석 전극은 기존 상용 산화주석 전극에 비해 4배 이상 많은 개미산 생산량을 보였고, 일주일 이상의 장시간 반응에도 성능이 잘 유지돼 기존 전극대비 반응 내구성도 100배 이상 개선됐다. 연구팀은 “이번에 개발한 기술을 적용하면 그간 약점으로 여겨졌던 친환경성과 경제성 문제를 한 번에 해결할 수 있다”며 “암모니아 등 타 후보물질 대비 경쟁력을 재평가 받을 수 있을 것으로 기대된다”고 전했다.
+
+불소 도핑 산화주석과 산화주속의 이산화탄소 전환 반응 중 구조변화 모형.(자료=한국과학기술연구원)
+
+다양한 장점이 있는 기술이지만 상용화까지는 넘어야 할 산이 많다. 오 박사는 ‘산업의 규모 확대’를 꼽았다. 그는 “수소에너지와 연관된 물질이라 기대는 받고 있지만 현재 개미산을 활용하는 시장 자체가 크지 않다”며 “개발한 기술이 산업현장에 적용이 가능한지에 대한 실증 연구를 진행하기 위해선 결국 관련 기업들이 관심을 가져야 하는데 아직 산업 자체가 규모가 작아 어려운 점이 많다”고 말했다.오 박사팀의 이번 연구는 과학기술정보통신부의 지원을 받아 수행됐다. △KIST 주요사업 △Carbon to X 사업 △국가과학기술연구회의 ‘창의형 융합연구사업’ 등으로도 선정됐다. 연구 성과는 국제 학술지 ‘네이처 커뮤니케이션즈(Nature Communications·IF 14.919·JCR 분야 상위 4.861%)’ 최신 호에 게재됐다. 논문명은 ‘Exploring dopant effects in stannic oxide nanoparticles for CO2 electro-reduction to formate’이다. 제1 저자로는 이웅희 KIST 선임연구원과 고영진 KIST 박사 후 연구원이 이름을 올렸다.오 박사는 “효율이 높은 전극을 개발함으로써 이산화탄소를 이용한 개미산의 대량생산이 지속해서 가능한 생산 시스템을 구축할 수 있게 됐다”며 “이산화탄소 포집 및 활용 기술(CCUS)로서의 가능성뿐만 아니라 수소 저장체로도 가능성이 높은 개미산을 대량 생산할 수 있는 일석이조의 기술”이라고 말했다. 이어 “재생에너지 보급률이 높아지고 수소 기반 사회가 가속화될수록 경제성이 충분히 확보될 수 있으며, 향후 국가적 의무인 탄소중립에도 크게 기여할 것으로 기대하고 있다”고 덧붙였다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040022.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카카오, 매출 31% 늘었는데 영업이익 제자리...이유는? (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202205040050</link>
             <guid>https://www.bloter.net/newsView/blt202205040050</guid>
@@ -245,20 +259,6 @@ OM은 화주는 상품등록부터 주문·재고 등 물류관리를, 회원사
 
 한편 카카오의 1분기 매출은 △플랫폼(8860억원·전년동기대비 27% 증가)과 △콘텐츠(7657억원·36% 증가) 부문 모두에서 고르게 성장했다. 배재현 카카오 공동체얼라인먼트센터(CAC) 투자총괄(수석부사장)은 컨콜에서 “올해 전체적으로도 플랫폼과 콘텐츠 전 영역이 고른 성장을 할 것으로 예상된다”면서 “특히 주요 사업 부문의 성장 속도가 높아 올해 내부적으로 영업이익률 두 자릿수를 유지하면서 성장할 수 있을 것으로 내다보고 있다”고 전했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040017.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이산화탄소로 ‘개미산’ 만든다…효율성 높인 국산 ‘탄소중립 기술’ (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040057</link>
-            <guid>https://www.bloter.net/newsView/blt202205040057</guid>
-            <pubDate>Wed, 04 May 2022 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[불소 도핑 산화주석 촉매가 적용된 이산화탄소 전환 개미산 생산 및 활용을 설명한 모식도.(자료=한국과학기술연구원)
-
-대기 중 이산화탄소(CO2)의 증가는 지구온난화의 주원인으로 지목받고 있다. 이산화탄소의 포집 기술만큼이나 중요한 부분이 ‘포집된 CO2를 어떻게 경제적으로 활용하는가’이다. 포집된 CO2의 활용방안이 뚜렷해야 해당 산업의 활성화로 이어질 수 있기 때문이다.국내 연구팀은 포집된 CO2를 산업적 활용성이 높은 ‘개미산(포름산)’으로 전환할 수 있는 원천 기술을 개발했다. 식품가공·보존제 등으로 사용되는 개미산은 수소저장체로도 활용이 가능할 것으로 기대되는 물질이다.한국과학기술연구원(KIST) 청정에너지연구센터 소속 오형석 박사는 4일 장시간 안정적으로 이산화탄소를 유용한 액상화합물(개미산)로 전환하는 기술을 개발한 성과를 공개했다. 불소 도핑 산화주석 촉매의 대용량 합성법을 통해 포집된 이산화탄소를 개미산으로 전환하는 게 핵심이다. 연구팀이 개발한 기술은 기존 생산 방식보다 효율성·내구성이 높아 다양한 산업적 형태로 사용이 가능할 것으로 평가받고 있다.오 박사는 기자와의 통화에서 “이산화탄소를 포집하더라도 저장 용량이 한계가 있기 때문에 이를 ‘어떻게 사용할까’는 점이 학계 화두 중 하나”라며 “이산화탄소 자원화가 경제성을 갖춰야 포집기술 개발의 활성화도 이뤄질 수 있을 텐데, 이번 기술은 개미산 생성 효율을 높이는 데 초점이 맞춰져 있어 활용도가 높다”고 말했다.이산화탄소 자원화와 수소에너지 활용은 탄소중립 실현의 가장 실질적인 대책으로 주목받고 있다. 이산화탄소를 개미산으로 효율적으로 전환하는 기술은 두 분야 모두 활용이 가능해 상용화 시 많은 경제적 효과를 창출할 수 있다는 설명이다.오 박사 연구팀이 개발한 기술로 생성되는 개미산은 특유의 신맛을 내는 기초 화학원료다. 세균억제·수소이온지수 조절 효과를 지닌 물질이라 △식품가공 △보존제 △염색제 △가소제 △제설제 △경화지연제 등 다양한 산업에서 활용된다. 최근에는 친환경 생분해성 플라스틱의 원료로도 주목받고 있다.개미산은 또 수소를 고가의 대형 특수용기가 아닌 제3의 물질과 결합해 저장·수송하는 LOHC(Liquid Organic Hydrogen Carrier)에도 활용이 가능할 것으로 주목받고 있다. 수소 저장물질의 유력한 후보군에 포함돼 향후 높은 사업성을 창출할 수 있는 분야로 꼽힌다. LOHC 기술의 핵심은 대용량의 수소를 저장하면서도 외부 자극에도 안정성이 유지되는 액상화합물의 확보인데, 개미산은 이런 특성이 있다.개미산을 생성하는 과정은 대부분 화석연료의 열화학반응을 이용한다. 이산화탄소 배출이 불가피하다는 의미다. 전기화학 반응을 통해 이산화탄소를 직접 개미산으로 전환하게 되면 친환경적으로 생산이 가능하지만, 이를 위해 기체 상태의 이산화탄소를 액체로 전환하기 위한 액상 전환용 전극 물질의 성능을 높이고 장시간 안정적으로 전극이 구동할 수 있도록 하는 내구성 확보가 필수적이다.연구팀은 불소가 도핑된 산화주석이 일반 산화주석보다 이산화탄소 전환 촉매의 활성을 떨어뜨리는 금속화 경향이 낮다는 사실에 주목했다. 주석에 불소를 도핑하는 비교적 간단한 방법으로 높은 개미산 전환 활성을 안정적으로 유지하는 전극을 개발했다. 이런 방법으로 제작된 불소 도핑 산화주석 전극은 기존 상용 산화주석 전극에 비해 4배 이상 많은 개미산 생산량을 보였고, 일주일 이상의 장시간 반응에도 성능이 잘 유지돼 기존 전극대비 반응 내구성도 100배 이상 개선됐다. 연구팀은 “이번에 개발한 기술을 적용하면 그간 약점으로 여겨졌던 친환경성과 경제성 문제를 한 번에 해결할 수 있다”며 “암모니아 등 타 후보물질 대비 경쟁력을 재평가 받을 수 있을 것으로 기대된다”고 전했다.
-
-불소 도핑 산화주석과 산화주속의 이산화탄소 전환 반응 중 구조변화 모형.(자료=한국과학기술연구원)
-
-다양한 장점이 있는 기술이지만 상용화까지는 넘어야 할 산이 많다. 오 박사는 ‘산업의 규모 확대’를 꼽았다. 그는 “수소에너지와 연관된 물질이라 기대는 받고 있지만 현재 개미산을 활용하는 시장 자체가 크지 않다”며 “개발한 기술이 산업현장에 적용이 가능한지에 대한 실증 연구를 진행하기 위해선 결국 관련 기업들이 관심을 가져야 하는데 아직 산업 자체가 규모가 작아 어려운 점이 많다”고 말했다.오 박사팀의 이번 연구는 과학기술정보통신부의 지원을 받아 수행됐다. △KIST 주요사업 △Carbon to X 사업 △국가과학기술연구회의 ‘창의형 융합연구사업’ 등으로도 선정됐다. 연구 성과는 국제 학술지 ‘네이처 커뮤니케이션즈(Nature Communications·IF 14.919·JCR 분야 상위 4.861%)’ 최신 호에 게재됐다. 논문명은 ‘Exploring dopant effects in stannic oxide nanoparticles for CO2 electro-reduction to formate’이다. 제1 저자로는 이웅희 KIST 선임연구원과 고영진 KIST 박사 후 연구원이 이름을 올렸다.오 박사는 “효율이 높은 전극을 개발함으로써 이산화탄소를 이용한 개미산의 대량생산이 지속해서 가능한 생산 시스템을 구축할 수 있게 됐다”며 “이산화탄소 포집 및 활용 기술(CCUS)로서의 가능성뿐만 아니라 수소 저장체로도 가능성이 높은 개미산을 대량 생산할 수 있는 일석이조의 기술”이라고 말했다. 이어 “재생에너지 보급률이 높아지고 수소 기반 사회가 가속화될수록 경제성이 충분히 확보될 수 있으며, 향후 국가적 의무인 탄소중립에도 크게 기여할 것으로 기대하고 있다”고 덧붙였다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040022.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대백화점이 품은 지누스, 역대 분기 최대 실적 (블로터 ─ 실시간 랭킹)]]></title>
@@ -295,40 +295,33 @@ SK쉴더스 대표 이미지. (사진=SK쉴더스)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040015.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자 장비 공급받는 美 디시 네트워크...5G 서비스 개시 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050002</link>
-            <guid>https://www.bloter.net/newsView/blt202205050002</guid>
-            <pubDate>Thu, 05 May 2022 01:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 09:36:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050003.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050005</link>
+            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
+            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-05 11:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네트워크 매출 5조원 청신호? 삼성전자, 美 제4이통사에 5G 장비 공급 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040024</link>
-            <guid>https://www.bloter.net/newsView/blt202205040024</guid>
-            <pubDate>Wed, 04 May 2022 03:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204200003</link>
+            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
+            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[5G 주파수 회수 면했나...이통3사, 망 공동 구축으로 '의무' 달성 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030015</link>
-            <guid>https://www.bloter.net/newsView/blt202205030015</guid>
-            <pubDate>Thu, 05 May 2022 01:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자 전장사업, ‘보안’ 경쟁력 높이는 배경은 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202150013</link>
+            <guid>https://www.bloter.net/newsView/blt202202150013</guid>
+            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['이음5G' 특화 장비 내놓은 삼성전자…한국서 에릭슨·노키아 벽 넘을까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020023</link>
-            <guid>https://www.bloter.net/newsView/blt202205020023</guid>
-            <pubDate>Thu, 05 May 2022 01:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성 '5G 가상 기지국', MWC서 통신사 CTO들 선택 받았다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203030021</link>
-            <guid>https://www.bloter.net/newsView/blt202203030021</guid>
-            <pubDate>Thu, 05 May 2022 01:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자 전장사업 변화 시동, ‘효율성’에 방점 찍는다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112030084</link>
+            <guid>https://www.bloter.net/newsView/blt202112030084</guid>
+            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카톡 선물은 스타벅스? 주식 선물은 삼성전자! (블로터 ─ 비즈니스)]]></title>
@@ -415,18 +408,18 @@ SK쉴더스 대표 이미지. (사진=SK쉴더스)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자 장비 공급받는 美 디시 네트워크...5G 서비스 개시 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050002</link>
-            <guid>https://www.bloter.net/newsView/blt202205050002</guid>
-            <pubDate>Thu, 05 May 2022 01:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 09:36:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050003.620x344.0.png" length="0" type="image/png"/>
+            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050005</link>
+            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
+            <pubDate>Thu, 05 May 2022 03:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-05 11:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 이어 구글도 네덜란드서 ‘인앱결제 강제’ 조사받는다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205050001</link>
             <guid>https://www.bloter.net/newsView/blt202205050001</guid>
-            <pubDate>Thu, 05 May 2022 01:20:19 GMT</pubDate>
+            <pubDate>Thu, 05 May 2022 01:19:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 08:50:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050001.290x163.0.png" length="0" type="image/png"/>
         </item>
