@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050005</link>
-            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
-            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-05 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[틱톡도 유튜브처럼 광고 도입한다…6월 미국부터 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050004</link>
+            <guid>https://www.bloter.net/newsView/blt202205050004</guid>
+            <pubDate>Thu, 05 May 2022 07:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050004.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LG마그나, 첫 해외공장은 멕시코...GM 전기차용 부품 생산]]></title>
-            <link>https://www.bloter.net/newsView/blt202204200003</link>
-            <guid>https://www.bloter.net/newsView/blt202204200003</guid>
-            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[활성화되는 '크리에이터 경제', 소득 수준은 천차만별]]></title>
+            <link>https://www.bloter.net/newsView/blt202204220143</link>
+            <guid>https://www.bloter.net/newsView/blt202204220143</guid>
+            <pubDate>Thu, 05 May 2022 07:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자 전장사업, ‘보안’ 경쟁력 높이는 배경은]]></title>
-            <link>https://www.bloter.net/newsView/blt202202150013</link>
-            <guid>https://www.bloter.net/newsView/blt202202150013</guid>
-            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[인스타그램, ‘크리에이터 지원금’ 줄였나…의혹 제기]]></title>
+            <link>https://www.bloter.net/newsView/blt202204070005</link>
+            <guid>https://www.bloter.net/newsView/blt202204070005</guid>
+            <pubDate>Thu, 05 May 2022 07:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자 전장사업 변화 시동, ‘효율성’에 방점 찍는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202112030084</link>
-            <guid>https://www.bloter.net/newsView/blt202112030084</guid>
-            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[틱톡 '크리에이터 펀드', 정말 크리에이터를 위한 걸까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202201280122</link>
+            <guid>https://www.bloter.net/newsView/blt202201280122</guid>
+            <pubDate>Thu, 05 May 2022 07:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브, 크리에이터 NFT 활용 방안 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201260025</link>
+            <guid>https://www.bloter.net/newsView/blt202201260025</guid>
+            <pubDate>Thu, 05 May 2022 07:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
