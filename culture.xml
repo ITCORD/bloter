@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 22:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 23:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터 품는 일론 머스크, 9조원 투자 유치 성공]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060001</link>
+            <guid>https://www.bloter.net/newsView/blt202205060001</guid>
+            <pubDate>Thu, 05 May 2022 23:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[트위터를 인수하기로 한 일론 머스크 테슬라 최고경영자(CEO)가 71억4000만달러(약 9조원)의 투자를 유치하는데 성공했다.   5일(현지시간) 미국 경제전문매체 &lt;CNBC(씨엔비씨)&gt;에 따르면 머스크는 미국 증권거래위원회(SEC)에 제출한 서류를 통해 총 19명의 투자자가]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틱톡도 유튜브처럼 광고 도입한다…6월 미국부터 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202205050004</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 01 May 2022 23:17:33 GMT</pubDate>
             <content:encoded><![CDATA[러시아가 댓글 부대를 동원해 주요 소셜미디어(SNS) 플랫폼에서 여론조작 활동을 펼치고 있다는 영국 정부의 조사 결과가 공개됐다.1일(현지시간) &lt;비즈니스 인사이더&gt;는 러시아가 틱톡, 트위터, 페이스북 등과 같은 주요 SNS에서 자국에 유리한 여론을 조성하기]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020001.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피파4 국대선발전]④김병권, '최강자' 등극…아시안게임 '신보석호' 시동]]></title>
-            <link>https://www.bloter.net/newsView/blt202205010005</link>
-            <guid>https://www.bloter.net/newsView/blt202205010005</guid>
-            <pubDate>Sun, 01 May 2022 12:30:12 GMT</pubDate>
-            <content:encoded><![CDATA[김병권 선수가 '피파온라인4 항저우 아시안게임 국가대표 선발전'에서 '최강자' 자리에 등극했다. 준우승을 기록한 곽준혁 선수도 국가대표 후보 자격을 얻으며 신보석 감독이 이끄는 피파온라인4 드림팀에 합류했다.1일 아프리카 콜로세움에서 열린 국가대표 선발]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/01/blt202205010010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

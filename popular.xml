@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 22:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 23:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,22 +112,6 @@ OM은 화주는 상품등록부터 주문·재고 등 물류관리를, 회원사
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030038.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[e스포츠 아시안게임 가다]⑥PUBG M 국대, 예비후보 26인 결정]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040161</link>
-            <guid>https://www.bloter.net/newsView/blt202205040161</guid>
-            <pubDate>Thu, 05 May 2022 20:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임' e스포츠에서 '배틀그라운드 모바일'(PUBG M) 국가대표로 뛸 선수는 누가 될까.
-
-(사진=PUBG M 페이스북 갈무리)
-
-4일 한국e스포츠협회(KeSPA)는 PUBG M 국가대표 예비명단 26인을 대한체육회에 제출했다고 밝혔다.&nbsp;PUBG M 예비명단 26인을 결정하기까지 다양한 과정을 거쳤다. 지난 3월 18일과 4월 27일 &nbsp;두 차례에 걸쳐 아시안게임 버전 시연영상 통해 선수 세부 선발기준 수립한 후 소위원회를 대상으로 아시안게임 버전 테스트를 진행했다. 이어 'PUBG M PRO SERIES(PMPS) 2022 시즌1'을 통해 선발기준을 공개한 후 지난달 27일 소위원회에서 예비명단 30인을 선정했다.이번 예비명단의 주요 선발기준은 PMPS 시즌1 2주차 상위 4팀 소속 15인(1인 징계이력으로 제외)과 PMPS 시즌1 및 PUBG M 재팬 리그(PMJL)의 지표를 바탕으로 소위원회가 추천 15인을 더했다. 이 중 기권자 1명과 필요서류 미체출 3명을 제외한 총 26명이 예비명단으로 결정됐다.
-
-2022 항저우 아시안게임 PUBG M 국가대표 예비명단. (사진=한국e스포츠협회)
-
-1차 데이터의 경우 경기 수, 전체 킬, 평균 킬, 헤드샷, 데미지, 평균 데미지, 소생시킨 횟수, 기절 시킨 횟수, 투척 무기 사용 횟수 등을 고려했다. 특히 소위원회는 아시안게임 버전 빌드를 시연한 결과 전체 킬, 데미지, 헤드샷 지표가 가장 중요하다고 보고 있다. 최종 선발은 소위원회가 경기결과와 선수 개인 기량 평가 등을 종합검토한 후 5명을 확정할 계획이다.한편 이번 아시안게임 PUBG M 한국 국가대표 사령탑은 윤상훈 감독이 맡았다. 윤상훈 감독은 2018년부터 선수로 활약하며 2019년 PMSC 시즌4 국가대표 선발전에서 준우승을 차지한 경력이 있다. 지도자로는 지난 2020년 T! PUBG M 팀 감독 겸 코치로 활약했고 현재는 DS 게이밍 PUBG M 팀 감독직을 수행하고 있다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040042.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크체인저]"챗봇을 더 똑똑하게"...카카오엔터프라이즈 AI어시스턴트팀]]></title>
             <link>https://www.bloter.net/newsView/blt202205020130</link>
             <guid>https://www.bloter.net/newsView/blt202205020130</guid>
@@ -145,6 +129,22 @@ OM은 화주는 상품등록부터 주문·재고 등 물류관리를, 회원사
 
 이러한 대회에 참여해 좋은 성과를 내는 건 어떤 의미가 있을까. 신 팀장은 “현업에서 모델을 개선하기에 적합한 대회들에 참여하는 것이고, 좋은 성과를 내면 서비스도 좋은 방향으로 개선할 수 있다”면서 “대외적으로 효과도 있겠지만, 그보다 궁극적으로 기술 발전의 로드맵 가운데 그런 데이터를 활용하는 게 필요하기 때문에 참여하는 것”이라고 말했다. 이어 “오픈 도메인 QA 영역에 많은 대회가 있는데, 문제를 해결하기 위해 공략해야 할 부분이 다 다르다”면서 “하나하나 공략하고 나면 오픈 도메인 QA라는 거대한 영역을 조금씩 정복할 수 있지 않을까 생각한다”고 덧붙였다. 이 연구원은 “사실 기계가 자연어처리로 이해를 하고 분석하고 추론한다는 게 사람이 하는 것과는 질적으로 다르다고 생각한다”면서 “대회에서 1위를 한 건 그냥 시험을 잘 본 거고, 더 발전시켜서 실제로 사람이 일을 할 때 더 도움이 되는 서비스가 되게 하려면 앞으로 갈 길이 멀다”고 전했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020027.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]⑥PUBG M 국대, 예비후보 26인 결정]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040161</link>
+            <guid>https://www.bloter.net/newsView/blt202205040161</guid>
+            <pubDate>Thu, 05 May 2022 20:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임' e스포츠에서 '배틀그라운드 모바일'(PUBG M) 국가대표로 뛸 선수는 누가 될까.
+
+(사진=PUBG M 페이스북 갈무리)
+
+4일 한국e스포츠협회(KeSPA)는 PUBG M 국가대표 예비명단 26인을 대한체육회에 제출했다고 밝혔다.&nbsp;PUBG M 예비명단 26인을 결정하기까지 다양한 과정을 거쳤다. 지난 3월 18일과 4월 27일 &nbsp;두 차례에 걸쳐 아시안게임 버전 시연영상 통해 선수 세부 선발기준 수립한 후 소위원회를 대상으로 아시안게임 버전 테스트를 진행했다. 이어 'PUBG M PRO SERIES(PMPS) 2022 시즌1'을 통해 선발기준을 공개한 후 지난달 27일 소위원회에서 예비명단 30인을 선정했다.이번 예비명단의 주요 선발기준은 PMPS 시즌1 2주차 상위 4팀 소속 15인(1인 징계이력으로 제외)과 PMPS 시즌1 및 PUBG M 재팬 리그(PMJL)의 지표를 바탕으로 소위원회가 추천 15인을 더했다. 이 중 기권자 1명과 필요서류 미체출 3명을 제외한 총 26명이 예비명단으로 결정됐다.
+
+2022 항저우 아시안게임 PUBG M 국가대표 예비명단. (사진=한국e스포츠협회)
+
+1차 데이터의 경우 경기 수, 전체 킬, 평균 킬, 헤드샷, 데미지, 평균 데미지, 소생시킨 횟수, 기절 시킨 횟수, 투척 무기 사용 횟수 등을 고려했다. 특히 소위원회는 아시안게임 버전 빌드를 시연한 결과 전체 킬, 데미지, 헤드샷 지표가 가장 중요하다고 보고 있다. 최종 선발은 소위원회가 경기결과와 선수 개인 기량 평가 등을 종합검토한 후 5명을 확정할 계획이다.한편 이번 아시안게임 PUBG M 한국 국가대표 사령탑은 윤상훈 감독이 맡았다. 윤상훈 감독은 2018년부터 선수로 활약하며 2019년 PMSC 시즌4 국가대표 선발전에서 준우승을 차지한 경력이 있다. 지도자로는 지난 2020년 T! PUBG M 팀 감독 겸 코치로 활약했고 현재는 DS 게이밍 PUBG M 팀 감독직을 수행하고 있다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040042.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 투자 유치한 NHN두레이, 200억원 어디에 쓰나]]></title>
