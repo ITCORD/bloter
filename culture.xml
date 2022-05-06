@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 01:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+ 한국 론칭 이끈 김소연 총괄, 디즈니코리아 대표로]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060012</link>
+            <guid>https://www.bloter.net/newsView/blt202205060012</guid>
+            <pubDate>Fri, 06 May 2022 03:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[월트디즈니컴퍼니(이하 디즈니)가 '디즈니 플러스'(+)의 한국 론칭을 이끈 김소연 DTC 사업부 전무를 디즈니코리아 대표이사로 선임했다. 6일 디즈니 아시아태평양 지역(APAC) 측은 "김소연 전무를 디즈니코리아 대표로 임명했다"며 "후임이 결정되기 전까지 한국 DTC 사]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 페이스북 오디오 콘텐츠 개편…인스타 '릴스' 힘 주나]]></title>
             <link>https://www.bloter.net/newsView/blt202205060005</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 May 2022 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA["그 어떤 때보다 책임감을 느끼고 있고, 동시에 욕심도 납니다. 다시 오지 않을 기회라고 생각하고 선수·스태프들과 준비해 좋은 성적을 내고 국민들에게 피파온라인4가 아주 재미있는 게임이라는 인상을 심어줄 수 있도록 내용적인 측면도 잘 준비하겠습니다"]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020019.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[펄어비스, 주가 반등 가능할까…자사주 소각·중국 반등 쌍끌이]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020054</link>
-            <guid>https://www.bloter.net/newsView/blt202205020054</guid>
-            <pubDate>Mon, 02 May 2022 07:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[펄어비스가 자사주 소각을 통해 주주환원정책을 예고한 가운데, 주가 부진의 원인이 된 중국시장 사업도 청신호가 켜질 것이라는 분석이 제기됐다.  2일 펄어비스는 보통주 198만6645주를 오는 11일 소각할 예정이라고 공시했다. 장부상 소각예정금액은 244억원 규모로]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

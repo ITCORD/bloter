@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 01:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목소리 찾은 가상인간 '로지'…네이버 클로바 기술로 만들었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060015</link>
+            <guid>https://www.bloter.net/newsView/blt202205060015</guid>
+            <pubDate>Fri, 06 May 2022 03:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-06 11:28:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060006.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스, 미국 연준 '빅스텝' 직격탄…투자 심리 위축에 '상장 철회']]></title>
+            <link>https://www.bloter.net/newsView/blt202205060008</link>
+            <guid>https://www.bloter.net/newsView/blt202205060008</guid>
+            <pubDate>Fri, 06 May 2022 03:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-06 10:36:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060005.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니+ 한국 론칭 이끈 김소연 총괄, 디즈니코리아 대표로]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060012</link>
+            <guid>https://www.bloter.net/newsView/blt202205060012</guid>
+            <pubDate>Fri, 06 May 2022 03:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-06 10:24:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060004.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 페이스북 오디오 콘텐츠 개편…인스타 '릴스' 힘 주나]]></title>
             <link>https://www.bloter.net/newsView/blt202205060005</link>
             <guid>https://www.bloter.net/newsView/blt202205060005</guid>
             <pubDate>Fri, 06 May 2022 01:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:44:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플·구글·MS 맞손…'패스워드리스' 구현한다]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 04 May 2022 05:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-04 14:13:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이, 로블록스 내 '케이팝 테마공원' 조성]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040016</link>
-            <guid>https://www.bloter.net/newsView/blt202205040016</guid>
-            <pubDate>Wed, 04 May 2022 05:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-04 13:50:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 7월부터 '재택·출근' 선택한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040031</link>
-            <guid>https://www.bloter.net/newsView/blt202205040031</guid>
-            <pubDate>Wed, 04 May 2022 04:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-04 13:08:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소비자 불만 많았던 코인원 "달라지고 있어요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040029</link>
-            <guid>https://www.bloter.net/newsView/blt202205040029</guid>
-            <pubDate>Wed, 04 May 2022 04:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-04 13:02:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040010.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
