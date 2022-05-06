@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 01:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 페이스북 오디오 콘텐츠 개편…인스타 '릴스' 힘 주나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060005</link>
+            <guid>https://www.bloter.net/newsView/blt202205060005</guid>
+            <pubDate>Fri, 06 May 2022 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:44:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플·구글·MS 맞손…'패스워드리스' 구현한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060003</link>
+            <guid>https://www.bloter.net/newsView/blt202205060003</guid>
+            <pubDate>Fri, 06 May 2022 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:09:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060002.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터 품는 일론 머스크, 9조원 투자 유치 성공]]></title>
             <link>https://www.bloter.net/newsView/blt202205060001</link>
             <guid>https://www.bloter.net/newsView/blt202205060001</guid>
             <pubDate>Thu, 05 May 2022 23:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 07:48:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[테크체인저]"챗봇을 더 똑똑하게"...카카오엔터프라이즈 AI어시스턴트팀]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 04 May 2022 04:31:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-04 13:02:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘규제자유특구 2.0’, 신사업 인큐베이팅 강화 ‘시동’]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040030</link>
-            <guid>https://www.bloter.net/newsView/blt202205040030</guid>
-            <pubDate>Wed, 04 May 2022 03:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-04 12:25:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네트워크 매출 5조원 청신호? 삼성전자, 美 제4이통사에 5G 장비 공급]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040024</link>
-            <guid>https://www.bloter.net/newsView/blt202205040024</guid>
-            <pubDate>Wed, 04 May 2022 03:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-04 11:56:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

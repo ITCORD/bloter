@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 01:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 페이스북 오디오 콘텐츠 개편…인스타 '릴스' 힘 주나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060005</link>
+            <guid>https://www.bloter.net/newsView/blt202205060005</guid>
+            <pubDate>Fri, 06 May 2022 01:12:53 GMT</pubDate>
+            <content:encoded><![CDATA['메타'가 '페이스북'에서 제공하는 팟캐스트 포함한 다수의 오디오 서비스를 종료하는 한편 관련 기능을 새롭게 재편한다.   5일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 페이스북은 팟캐스트 서비스인 '라이브 오디오 룸즈'를 6월 3일부로 종료한다. 이 외]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터 품는 일론 머스크, 9조원 투자 유치 성공]]></title>
             <link>https://www.bloter.net/newsView/blt202205060001</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 May 2022 07:20:47 GMT</pubDate>
             <content:encoded><![CDATA[펄어비스가 자사주 소각을 통해 주주환원정책을 예고한 가운데, 주가 부진의 원인이 된 중국시장 사업도 청신호가 켜질 것이라는 분석이 제기됐다.  2일 펄어비스는 보통주 198만6645주를 오는 11일 소각할 예정이라고 공시했다. 장부상 소각예정금액은 244억원 규모로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아, 우크라 전쟁 여론 조작 위해 ‘트롤 부대’ 운영]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020003</link>
-            <guid>https://www.bloter.net/newsView/blt202205020003</guid>
-            <pubDate>Sun, 01 May 2022 23:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[러시아가 댓글 부대를 동원해 주요 소셜미디어(SNS) 플랫폼에서 여론조작 활동을 펼치고 있다는 영국 정부의 조사 결과가 공개됐다.1일(현지시간) &lt;비즈니스 인사이더&gt;는 러시아가 틱톡, 트위터, 페이스북 등과 같은 주요 SNS에서 자국에 유리한 여론을 조성하기]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020001.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
