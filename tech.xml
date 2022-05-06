@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아이버스'는 재미있게...SKT·SK스퀘어, '해긴' 투자한 3가지 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060104</link>
+            <guid>https://www.bloter.net/newsView/blt202205060104</guid>
+            <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-06 16:09:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 연준에 IPO 발목잡힌 SK쉴더스…원스토어·11번가·웨이브는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060074</link>
+            <guid>https://www.bloter.net/newsView/blt202205060074</guid>
+            <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-06 15:58:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060015.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GSK 백신 공급 중단 장기화, '싱그릭스' 때문?]]></title>
             <link>https://www.bloter.net/newsView/blt202205060058</link>
             <guid>https://www.bloter.net/newsView/blt202205060058</guid>
             <pubDate>Fri, 06 May 2022 05:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-06 13:50:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[목소리 찾은 가상인간 '로지'…네이버 클로바 기술로 만들었다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 04 May 2022 08:23:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-04 16:50:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040027.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이산화탄소로 ‘개미산’ 만든다…효율성 높인 국산 ‘탄소중립 기술’]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040057</link>
-            <guid>https://www.bloter.net/newsView/blt202205040057</guid>
-            <pubDate>Wed, 04 May 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-04 15:39:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 매출 31% 늘었는데 영업이익 제자리...이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040050</link>
-            <guid>https://www.bloter.net/newsView/blt202205040050</guid>
-            <pubDate>Wed, 04 May 2022 06:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-04 15:19:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
