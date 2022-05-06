@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:31:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성에피스 제품, 1Q에만 해외서 3500억원 팔렸다…로직스 실적 ‘기대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060139</link>
+            <guid>https://www.bloter.net/newsView/blt202205060139</guid>
+            <pubDate>Fri, 06 May 2022 08:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-06 16:58:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스타트업판 쇼미더머니"…토스, 자체 제작 콘텐츠 '파운드' 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060111</link>
+            <guid>https://www.bloter.net/newsView/blt202205060111</guid>
+            <pubDate>Fri, 06 May 2022 08:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-06 16:47:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아이버스'는 재미있게...SKT·SK스퀘어, '해긴' 투자한 3가지 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202205060104</link>
             <guid>https://www.bloter.net/newsView/blt202205060104</guid>
             <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-06 16:09:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 연준에 IPO 발목잡힌 SK쉴더스…원스토어·11번가·웨이브는?]]></title>
@@ -21,7 +37,7 @@
             <guid>https://www.bloter.net/newsView/blt202205060074</guid>
             <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-06 15:58:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060015.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060022.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[GSK 백신 공급 중단 장기화, '싱그릭스' 때문?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 04 May 2022 10:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span><span class="writer">이일호</span>                        <span class="date">2022-05-04 18:52:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 투자 유치한 NHN두레이, 200억원 어디에 쓰나]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040149</link>
-            <guid>https://www.bloter.net/newsView/blt202205040149</guid>
-            <pubDate>Wed, 04 May 2022 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-04 18:02:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진화하는 남궁훈표 카카오톡…방장이 유료 오픈채팅방 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040097</link>
-            <guid>https://www.bloter.net/newsView/blt202205040097</guid>
-            <pubDate>Wed, 04 May 2022 08:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-04 16:50:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040027.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
