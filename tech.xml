@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트렌드리포트]'홍카페·천명' 점술 스타트업으로 가는 투자...왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060071</link>
+            <guid>https://www.bloter.net/newsView/blt202205060071</guid>
+            <pubDate>Sun, 08 May 2022 08:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-08 17:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석유기업들은 왜 비트코인에 꽂혔나]]></title>
             <link>https://www.bloter.net/newsView/blt202205060077</link>
             <guid>https://www.bloter.net/newsView/blt202205060077</guid>
             <pubDate>Sun, 08 May 2022 07:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[e스포츠 아시안게임 가다]⑦국내선 변방 '스파V', 공략법은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 06 May 2022 03:07:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-06 10:36:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+ 한국 론칭 이끈 김소연 총괄, 디즈니코리아 대표로]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060012</link>
-            <guid>https://www.bloter.net/newsView/blt202205060012</guid>
-            <pubDate>Fri, 06 May 2022 03:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-06 10:24:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
