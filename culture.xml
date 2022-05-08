@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 05:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 06:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]⑦국내선 변방 '스파V', 공략법은]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060129</link>
+            <guid>https://www.bloter.net/newsView/blt202205060129</guid>
+            <pubDate>Sun, 08 May 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA['2022 항저우 아시안게임'에 8개 e스포츠 게임이 정식 종목으로 채택되면서 치열한 '메달 경쟁'에 돌입할 예정이다. '리그 오브 레전드'(LoL) 등 국내 인기 e스포츠 종목으로 꼽히는 게임뿐만 아니라, '스트리트 파이터V'와 같이 프로 리그가 없는 게임도 국가대표를 선발]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060041.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]파라마운트+ 韓 진출, OTT 지형도 변화는 '글쎄']]></title>
             <link>https://www.bloter.net/newsView/blt202205060017</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 03 May 2022 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[넥슨이 개인 맞춤형 게임데이터 분석 서비스 '넥슨 이노베이티브 AI'(NIA·니아)를 론칭한 것으로 확인됐다. 3일 &lt;블로터&gt; 취재 결과, 넥슨이 인텔리전스랩스가 기획한 인공지능(AI) 기반 개인 맞춤형 서비스 '니아'를 지난 3월 말 론칭했다. 넥슨 내 인텔리전스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 새 클래스 3배 성장…클래스101, 강남에서 재도약 꿈꾼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030027</link>
-            <guid>https://www.bloter.net/newsView/blt202205030027</guid>
-            <pubDate>Tue, 03 May 2022 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 강남으로 사옥 이전을 마치고 두 번째 도약에 나선다. 코로나19 팬데믹 이후 국내외 온라인 클래스 및 취미 활동이 인구가 급증한 가운데 IT, 콘텐츠 기반 인력 및 인프라가 구축돼 있는 강남 지역에서 사업을 확대한다는 계획이다]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

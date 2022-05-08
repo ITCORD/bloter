@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 05:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 06:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[e스포츠 아시안게임 가다]⑦국내선 변방 '스파V', 공략법은]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060129</link>
+            <guid>https://www.bloter.net/newsView/blt202205060129</guid>
+            <pubDate>Sun, 08 May 2022 06:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-08 15:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060041.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]파라마운트+ 韓 진출, OTT 지형도 변화는 '글쎄']]></title>
             <link>https://www.bloter.net/newsView/blt202205060017</link>
             <guid>https://www.bloter.net/newsView/blt202205060017</guid>
             <pubDate>Sun, 08 May 2022 05:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-08 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[바이오 오픈이노베이션] R&D 폐쇄성 벗은 대웅제약, 제한두지 않는 혁신]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 06 May 2022 01:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:44:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플·구글·MS 맞손…'패스워드리스' 구현한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060003</link>
-            <guid>https://www.bloter.net/newsView/blt202205060003</guid>
-            <pubDate>Fri, 06 May 2022 01:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:09:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
