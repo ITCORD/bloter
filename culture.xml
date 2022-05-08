@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 04:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 05:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]파라마운트+ 韓 진출, OTT 지형도 변화는 '글쎄']]></title>
+            <link>https://www.bloter.net/newsView/blt202205060017</link>
+            <guid>https://www.bloter.net/newsView/blt202205060017</guid>
+            <pubDate>Sun, 08 May 2022 05:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 미디어그룹 '파라마운트글로벌'의 OTT 플랫폼 '파라마운트+'가 이르면 다음달 한국 서비스를 오픈한다고 알려지자, 관련업계도 이를 예의주시하는 모습이다. 이미 일부 미디어에서는 '넷플릭스·디즈니+의 대항마'나 '한국 OTT 시장 춘추전국시대' 같은 자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 한국 론칭 이끈 김소연 총괄, 디즈니코리아 대표로]]></title>
             <link>https://www.bloter.net/newsView/blt202205060012</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 03 May 2022 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 강남으로 사옥 이전을 마치고 두 번째 도약에 나선다. 코로나19 팬데믹 이후 국내외 온라인 클래스 및 취미 활동이 인구가 급증한 가운데 IT, 콘텐츠 기반 인력 및 인프라가 구축돼 있는 강남 지역에서 사업을 확대한다는 계획이다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피파4 국대선발전]⑤신보석 감독 "목표는 금메달, 과정·결과 다 잡을 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020094</link>
-            <guid>https://www.bloter.net/newsView/blt202205020094</guid>
-            <pubDate>Mon, 02 May 2022 09:18:26 GMT</pubDate>
-            <content:encoded><![CDATA["그 어떤 때보다 책임감을 느끼고 있고, 동시에 욕심도 납니다. 다시 오지 않을 기회라고 생각하고 선수·스태프들과 준비해 좋은 성적을 내고 국민들에게 피파온라인4가 아주 재미있는 게임이라는 인상을 심어줄 수 있도록 내용적인 측면도 잘 준비하겠습니다"]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/02/blt202205020019.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
