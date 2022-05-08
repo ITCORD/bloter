@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 09:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 10:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테스나에 베팅한 두산, '반도체 왕관' 무게 견딜까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060161</link>
+            <guid>https://www.bloter.net/newsView/blt202205060161</guid>
+            <pubDate>Sun, 08 May 2022 10:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-07 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060045.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스타트업판 쇼미더머니"…토스, 자체 제작 콘텐츠 '파운드' 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060111</link>
+            <guid>https://www.bloter.net/newsView/blt202205060111</guid>
+            <pubDate>Sun, 08 May 2022 10:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-06 16:47:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 페이스북 오디오 콘텐츠 개편…인스타 '릴스' 힘 주나]]></title>
             <link>https://www.bloter.net/newsView/blt202205060005</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 06 May 2022 09:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050005</link>
-            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
-            <pubDate>Fri, 06 May 2022 01:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-05 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 이어 구글도 네덜란드서 ‘인앱결제 강제’ 조사받는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050001</link>
-            <guid>https://www.bloter.net/newsView/blt202205050001</guid>
-            <pubDate>Fri, 06 May 2022 01:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 08:50:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
