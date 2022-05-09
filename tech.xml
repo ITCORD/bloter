@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 01:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유럽판 ‘구글 갑질 방지법’ 온다…매출 10% 벌금 때리는 DMA 시행 임박]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090004</link>
+            <guid>https://www.bloter.net/newsView/blt202205090004</guid>
+            <pubDate>Mon, 09 May 2022 01:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 09:22:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연기됐던 美 공항 5G 개통, 재개 어려운 '변수' 생기나]]></title>
             <link>https://www.bloter.net/newsView/blt202205060066</link>
             <guid>https://www.bloter.net/newsView/blt202205060066</guid>
             <pubDate>Sun, 08 May 2022 10:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060011.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060011.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[반독점법 이용자 보안 해칠 수 있다는 애플…현실은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-06 15:58:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060022.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GSK 백신 공급 중단 장기화, '싱그릭스' 때문?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060058</link>
-            <guid>https://www.bloter.net/newsView/blt202205060058</guid>
-            <pubDate>Fri, 06 May 2022 05:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-06 13:50:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
