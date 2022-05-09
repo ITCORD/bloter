@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 10:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK쉴더스 상장 철회에도 원스토어는 자신만만, 근거는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090124</link>
+            <guid>https://www.bloter.net/newsView/blt202205090124</guid>
+            <pubDate>Mon, 09 May 2022 10:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-09 18:21:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임 출시 전 NFT부터?…알피오엔터, RPG '도사'로 승부수]]></title>
             <link>https://www.bloter.net/newsView/blt202205090131</link>
             <guid>https://www.bloter.net/newsView/blt202205090131</guid>
             <pubDate>Mon, 09 May 2022 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-09 18:15:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090028.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당근마켓, '전직원에 평균 5000만원' 주식 쏜 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 07 May 2022 01:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-07 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[폰SIGHT]SKT 양자보안 스마트폰, 정말 유용할까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040141</link>
-            <guid>https://www.bloter.net/newsView/blt202205040141</guid>
-            <pubDate>Fri, 06 May 2022 23:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-07 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
