@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임 출시 전 NFT부터?…알피오엔터, RPG '도사'로 승부수]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090131</link>
+            <guid>https://www.bloter.net/newsView/blt202205090131</guid>
+            <pubDate>Mon, 09 May 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내 신재생에너지 기업인 '알피오'(RP5)가 '대체 불가능한 토큰'(NFT) 관련 사업에 뛰어든다. 올 들어 콘텐츠 자회사 '알피오엔터테인먼트'를 설립하고 모바일 게임 개발을 공식화했던 만큼 관련 NFT를 발행해 인지도를 제고한다는 계획이다.  9일 &lt;블로터&gt; 취재 결]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[e스포츠 아시안게임 가다]⑦국내선 변방 '스파V', 공략법은]]></title>
             <link>https://www.bloter.net/newsView/blt202205060129</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 03 May 2022 08:22:22 GMT</pubDate>
             <content:encoded><![CDATA[대한항공이 미주 취항 50주년을 맞았다. 대한항공은 지난 1972년 4월 19일 서울~미국 로스앤젤리스(LA) 노선 운항을 시작으로 50년 동안 미주 주요 도시를 취항했다. 이에 에릭 가세티 LA 시장은 지난달 18일(현지시간) 대한항공에 감사패를 전달했다. 50년 간의 공로에 감]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030036.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넥슨, 'AI' 기반 게임 데이터 분석 고도화…'NIA' 가동]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030042</link>
-            <guid>https://www.bloter.net/newsView/blt202205030042</guid>
-            <pubDate>Tue, 03 May 2022 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨이 개인 맞춤형 게임데이터 분석 서비스 '넥슨 이노베이티브 AI'(NIA·니아)를 론칭한 것으로 확인됐다. 3일 &lt;블로터&gt; 취재 결과, 넥슨이 인텔리전스랩스가 기획한 인공지능(AI) 기반 개인 맞춤형 서비스 '니아'를 지난 3월 말 론칭했다. 넥슨 내 인텔리전스]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030024.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
