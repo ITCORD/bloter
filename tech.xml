@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울바이오시스, 원가율 99.8%...팔아도 남는 게 없다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090070</link>
+            <guid>https://www.bloter.net/newsView/blt202205090070</guid>
+            <pubDate>Mon, 09 May 2022 07:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-09 15:53:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090018.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[누리호 다음 발사체, 화성 간다…산업체 공동 개발 사업 ‘예타 조사’]]></title>
             <link>https://www.bloter.net/newsView/blt202205090055</link>
             <guid>https://www.bloter.net/newsView/blt202205090055</guid>
             <pubDate>Mon, 09 May 2022 06:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 15:21:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ISS에서 175일…NASA 우주인들, 스페이스X 우주선타고 지구 무사 귀환]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 06 May 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-06 17:27:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성에피스 제품, 1Q에만 해외서 3500억원 팔렸다…로직스 실적 ‘기대’]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060139</link>
-            <guid>https://www.bloter.net/newsView/blt202205060139</guid>
-            <pubDate>Fri, 06 May 2022 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-06 16:58:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
