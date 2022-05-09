@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ISS에서 175일…NASA 우주인들, 스페이스X 우주선타고 지구 무사 귀환]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090027</link>
+            <guid>https://www.bloter.net/newsView/blt202205090027</guid>
+            <pubDate>Mon, 09 May 2022 04:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 12:40:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["메타버스서 원하는 얼굴, 더 자연스럽게 바꾼다"...카카오브레인 '페이스 스와핑' 기술 고도화]]></title>
             <link>https://www.bloter.net/newsView/blt202205090017</link>
             <guid>https://www.bloter.net/newsView/blt202205090017</guid>
             <pubDate>Mon, 09 May 2022 03:23:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-09 11:39:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유럽판 ‘구글 갑질 방지법’ 온다…매출 10% 벌금 때리는 DMA 시행 임박]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 06 May 2022 08:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-06 16:47:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이버스'는 재미있게...SKT·SK스퀘어, '해긴' 투자한 3가지 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060104</link>
-            <guid>https://www.bloter.net/newsView/blt202205060104</guid>
-            <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-06 16:09:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
