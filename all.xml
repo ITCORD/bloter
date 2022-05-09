@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,7 +319,7 @@ QRNG 보안이 지원되는 SKT 전용앱 목록. (자료=갤럭시 퀀텀3 갈�
             <title><![CDATA[유럽판 ‘구글 갑질 방지법’ 온다…매출 10% 벌금 때리는 DMA 시행 임박 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202205090004</link>
             <guid>https://www.bloter.net/newsView/blt202205090004</guid>
-            <pubDate>Mon, 09 May 2022 01:22:48 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 01:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 09:22:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -352,6 +352,22 @@ QRNG 보안이 지원되는 SKT 전용앱 목록. (자료=갤럭시 퀀텀3 갈�
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[석유기업들은 왜 비트코인에 꽂혔나 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060077</link>
+            <guid>https://www.bloter.net/newsView/blt202205060077</guid>
+            <pubDate>Sun, 08 May 2022 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['IPO 시동' 이스트시큐리티, 낮은 이익률 어쩌나 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060163</link>
+            <guid>https://www.bloter.net/newsView/blt202205060163</guid>
+            <pubDate>Sun, 08 May 2022 03:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-08 11:50:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/07/blt202205070001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[테스나에 베팅한 두산, '반도체 왕관' 무게 견딜까 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202205060161</link>
             <guid>https://www.bloter.net/newsView/blt202205060161</guid>
@@ -382,22 +398,6 @@ QRNG 보안이 지원되는 SKT 전용앱 목록. (자료=갤럭시 퀀텀3 갈�
             <pubDate>Fri, 06 May 2022 01:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:09:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 품는 일론 머스크, 9조원 투자 유치 성공 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060001</link>
-            <guid>https://www.bloter.net/newsView/blt202205060001</guid>
-            <pubDate>Thu, 05 May 2022 23:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 07:48:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡도 유튜브처럼 광고 도입한다…6월 미국부터 도입 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050004</link>
-            <guid>https://www.bloter.net/newsView/blt202205050004</guid>
-            <pubDate>Thu, 05 May 2022 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050004.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -436,12 +436,20 @@ QRNG 보안이 지원되는 SKT 전용앱 목록. (자료=갤럭시 퀀텀3 갈�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA["메타버스서 원하는 얼굴, 더 자연스럽게 바꾼다"...카카오브레인 '페이스 스와핑' 기술 고도화 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090017</link>
+            <guid>https://www.bloter.net/newsView/blt202205090017</guid>
+            <pubDate>Mon, 09 May 2022 03:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-09 11:39:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유럽판 ‘구글 갑질 방지법’ 온다…매출 10% 벌금 때리는 DMA 시행 임박 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205090004</link>
             <guid>https://www.bloter.net/newsView/blt202205090004</guid>
-            <pubDate>Mon, 09 May 2022 01:24:11 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 01:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 09:22:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연기됐던 美 공항 5G 개통, 재개 어려운 '변수' 생기나 (블로터 ─ 테크)]]></title>
@@ -570,14 +578,6 @@ QRNG 보안이 지원되는 SKT 전용앱 목록. (자료=갤럭시 퀀텀3 갈�
             <pubDate>Fri, 06 May 2022 07:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-06 16:09:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 연준에 IPO 발목잡힌 SK쉴더스…원스토어·11번가·웨이브는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060074</link>
-            <guid>https://www.bloter.net/newsView/blt202205060074</guid>
-            <pubDate>Fri, 06 May 2022 07:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-06 15:58:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060022.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석유기업들은 왜 비트코인에 꽂혔나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060077</link>
+            <guid>https://www.bloter.net/newsView/blt202205060077</guid>
+            <pubDate>Mon, 09 May 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['IPO 시동' 이스트시큐리티, 낮은 이익률 어쩌나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205060163</link>
+            <guid>https://www.bloter.net/newsView/blt202205060163</guid>
+            <pubDate>Mon, 09 May 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-08 11:50:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/07/blt202205070001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테스나에 베팅한 두산, '반도체 왕관' 무게 견딜까]]></title>
             <link>https://www.bloter.net/newsView/blt202205060161</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 08 May 2022 03:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 09:09:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 품는 일론 머스크, 9조원 투자 유치 성공]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060001</link>
-            <guid>https://www.bloter.net/newsView/blt202205060001</guid>
-            <pubDate>Sat, 07 May 2022 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-06 07:48:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡도 유튜브처럼 광고 도입한다…6월 미국부터 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202205050004</link>
-            <guid>https://www.bloter.net/newsView/blt202205050004</guid>
-            <pubDate>Fri, 06 May 2022 09:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-05 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050004.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
