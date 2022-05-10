@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,7 +263,7 @@
             <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202205100113</link>
             <guid>https://www.bloter.net/newsView/blt202205100113</guid>
-            <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 07:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 15:38:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100016.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -294,6 +294,14 @@
             <guid>https://www.bloter.net/newsView/blt202201080002</guid>
             <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["테슬라 잡아라"…글로벌 전기차 경쟁, '플랫폼·인프라'로 확전 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100024</link>
+            <guid>https://www.bloter.net/newsView/blt202205100024</guid>
+            <pubDate>Tue, 10 May 2022 01:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-10 09:47:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100009.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[롯데온, 거래액 늘어났지만…매출 훌쩍 웃도는 손실규모 (블로터 ─ 비즈니스)]]></title>
@@ -336,14 +344,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연기됐던 美 공항 5G 개통, 재개 어려운 '변수' 생기나 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060066</link>
-            <guid>https://www.bloter.net/newsView/blt202205060066</guid>
-            <pubDate>Sun, 08 May 2022 10:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060011.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -380,18 +380,26 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[대표 이어 창업자까지…박관호 의장, 위믹스 300억 매입 추진 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100171</link>
+            <guid>https://www.bloter.net/newsView/blt202205100171</guid>
+            <pubDate>Tue, 10 May 2022 08:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-10 17:10:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1Q 영업익 '뒷걸음질' NHN…영업비용 뜯어보니 인건비·광고비가 발목 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205100111</link>
             <guid>https://www.bloter.net/newsView/blt202205100111</guid>
-            <pubDate>Tue, 10 May 2022 07:17:25 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 07:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-10 15:41:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205100113</link>
             <guid>https://www.bloter.net/newsView/blt202205100113</guid>
-            <pubDate>Tue, 10 May 2022 07:17:25 GMT</pubDate>
+            <pubDate>Tue, 10 May 2022 07:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 15:38:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100016.290x163.0.png" length="0" type="image/png"/>
         </item>
@@ -514,14 +522,6 @@
             <pubDate>Sun, 08 May 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 18:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드리포트]'홍카페·천명' 점술 스타트업으로 가는 투자...왜? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060071</link>
-            <guid>https://www.bloter.net/newsView/blt202205060071</guid>
-            <pubDate>Sun, 08 May 2022 08:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-08 17:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -799,6 +799,14 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/04/20/blt202204200020.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대표 이어 창업자까지…박관호 의장, 위믹스 300억 매입 추진 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100171</link>
+            <guid>https://www.bloter.net/newsView/blt202205100171</guid>
+            <pubDate>Tue, 10 May 2022 08:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[박관호 위메이드 의장이 향후 6개월 동안 '위믹스'(WEMIX) 토큰 구매에 300억원 가량을 투자할 예정이다.10일 위믹스팀은 이 날 위믹스네트워크 홈페이지를 통해 박관호 의장의 위믹스 토큰 구매 계획을 공지했다.   박관호 의장이 구매하는 위믹스 토큰은 1년간 '락업']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100021.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[게임 출시 전 NFT부터?…알피오엔터, RPG '도사'로 승부수 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202205090131</link>
             <guid>https://www.bloter.net/newsView/blt202205090131</guid>
@@ -885,14 +893,6 @@
             <pubDate>Tue, 03 May 2022 08:20:57 GMT</pubDate>
             <content:encoded><![CDATA[넷마블의 개발 자회사인 넷마블에프앤씨가 '아스달 연대기' IP를 활용한 신작 게임에 블록체인 기술을 접목하는 것으로 확인됐다. 앞서 지난 1월 진행한 '제5회 NTP'를 통해 신작 라인업으로 소개된 '아스달 연대기'는 스튜디오 드래곤과 넷마블이 IP 공동 개발을 통해]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한항공, 미주 취항 50주년...연간 수송인원 69배 늘었다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030151</link>
-            <guid>https://www.bloter.net/newsView/blt202205030151</guid>
-            <pubDate>Tue, 03 May 2022 08:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[대한항공이 미주 취항 50주년을 맞았다. 대한항공은 지난 1972년 4월 19일 서울~미국 로스앤젤리스(LA) 노선 운항을 시작으로 50년 동안 미주 주요 도시를 취항했다. 이에 에릭 가세티 LA 시장은 지난달 18일(현지시간) 대한항공에 감사패를 전달했다. 50년 간의 공로에 감]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030036.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]파라마운트+ 韓 진출, OTT 지형도 변화는 '글쎄' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

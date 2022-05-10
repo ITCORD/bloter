@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대표 이어 창업자까지…박관호 의장, 위믹스 300억 매입 추진]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100171</link>
+            <guid>https://www.bloter.net/newsView/blt202205100171</guid>
+            <pubDate>Tue, 10 May 2022 08:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[박관호 위메이드 의장이 향후 6개월 동안 '위믹스'(WEMIX) 토큰 구매에 300억원 가량을 투자할 예정이다.10일 위믹스팀은 이 날 위믹스네트워크 홈페이지를 통해 박관호 의장의 위믹스 토큰 구매 계획을 공지했다.   박관호 의장이 구매하는 위믹스 토큰은 1년간 '락업']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100021.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임 출시 전 NFT부터?…알피오엔터, RPG '도사'로 승부수]]></title>
             <link>https://www.bloter.net/newsView/blt202205090131</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 03 May 2022 08:22:22 GMT</pubDate>
             <content:encoded><![CDATA[넷마블의 개발 자회사인 넷마블에프앤씨가 '아스달 연대기' IP를 활용한 신작 게임에 블록체인 기술을 접목하는 것으로 확인됐다. 앞서 지난 1월 진행한 '제5회 NTP'를 통해 신작 라인업으로 소개된 '아스달 연대기'는 스튜디오 드래곤과 넷마블이 IP 공동 개발을 통해]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한항공, 미주 취항 50주년...연간 수송인원 69배 늘었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030151</link>
-            <guid>https://www.bloter.net/newsView/blt202205030151</guid>
-            <pubDate>Tue, 03 May 2022 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[대한항공이 미주 취항 50주년을 맞았다. 대한항공은 지난 1972년 4월 19일 서울~미국 로스앤젤리스(LA) 노선 운항을 시작으로 50년 동안 미주 주요 도시를 취항했다. 이에 에릭 가세티 LA 시장은 지난달 18일(현지시간) 대한항공에 감사패를 전달했다. 50년 간의 공로에 감]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030036.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
