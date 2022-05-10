@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 23:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 01:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코윈테크, 배터리 물류업의 'LG엔솔'...'1등은 이유가 있다']]></title>
+            <link>https://www.bloter.net/newsView/blt202205090014</link>
+            <guid>https://www.bloter.net/newsView/blt202205090014</guid>
+            <pubDate>Tue, 10 May 2022 01:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-09 10:45:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유럽판 ‘구글 갑질 방지법’ 온다…매출 10% 벌금 때리는 DMA 시행 임박]]></title>
             <link>https://www.bloter.net/newsView/blt202205090004</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 09 May 2022 03:23:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-08 11:50:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/07/blt202205070001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테스나에 베팅한 두산, '반도체 왕관' 무게 견딜까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060161</link>
-            <guid>https://www.bloter.net/newsView/blt202205060161</guid>
-            <pubDate>Sun, 08 May 2022 10:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-07 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060045.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
