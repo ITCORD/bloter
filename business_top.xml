@@ -4,29 +4,43 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 06:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자, CXL 생태계 확장...하반기 고용량 샘플 공급 계획]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100010</link>
-            <guid>https://www.bloter.net/newsView/blt202205100010</guid>
-            <pubDate>Tue, 10 May 2022 02:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100113</link>
+            <guid>https://www.bloter.net/newsView/blt202205100113</guid>
+            <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 15:38:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100016.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자 '개방형 혁신', CXL 메모리에도 적용한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202110070004</link>
-            <guid>https://www.bloter.net/newsView/blt202110070004</guid>
-            <pubDate>Tue, 10 May 2022 02:49:57 GMT</pubDate>
+            <title><![CDATA[서울바이오시스, 원가율 99.8%...팔아도 남는 게 없다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090070</link>
+            <guid>https://www.bloter.net/newsView/blt202205090070</guid>
+            <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자, ‘CXL D램’으로 데이터센터 공략 가속화]]></title>
-            <link>https://www.bloter.net/newsView/blt202105110006</link>
-            <guid>https://www.bloter.net/newsView/blt202105110006</guid>
-            <pubDate>Tue, 10 May 2022 02:49:57 GMT</pubDate>
+            <title><![CDATA[원가 부담 높아진 서울반도체, 1분기 실적에도 반영됐나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110041</link>
+            <guid>https://www.bloter.net/newsView/blt202204110041</guid>
+            <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울반도체 '자동차 사업부', 독일로 옮겼다...유럽 시장 집중]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300008</link>
+            <guid>https://www.bloter.net/newsView/blt202203300008</guid>
+            <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울반도체 전장 부품용 LED, 납품처 다각화]]></title>
+            <link>https://www.bloter.net/newsView/blt202201080002</link>
+            <guid>https://www.bloter.net/newsView/blt202201080002</guid>
+            <pubDate>Tue, 10 May 2022 07:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>

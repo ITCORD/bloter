@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 06:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데온, 거래액 늘어났지만…매출 훌쩍 웃도는 손실규모]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090084</link>
+            <guid>https://www.bloter.net/newsView/blt202205090084</guid>
+            <pubDate>Tue, 10 May 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-09 16:29:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울바이오시스, 원가율 99.8%...팔아도 남는 게 없다]]></title>
             <link>https://www.bloter.net/newsView/blt202205090070</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 09 May 2022 07:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 19:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060011.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[반독점법 이용자 보안 해칠 수 있다는 애플…현실은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060068</link>
-            <guid>https://www.bloter.net/newsView/blt202205060068</guid>
-            <pubDate>Mon, 09 May 2022 07:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 18:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
