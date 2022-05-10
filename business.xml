@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이산화탄소도 '재활용'을?...LG화학, 세계 최고 수준 전기화학 반응기 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202205090050</link>
+            <guid>https://www.bloter.net/newsView/blt202205090050</guid>
+            <pubDate>Tue, 10 May 2022 03:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-09 15:44:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코윈테크, 배터리 물류업의 'LG엔솔'...'1등은 이유가 있다']]></title>
             <link>https://www.bloter.net/newsView/blt202205090014</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 09 May 2022 03:23:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-05-08 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['IPO 시동' 이스트시큐리티, 낮은 이익률 어쩌나]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060163</link>
-            <guid>https://www.bloter.net/newsView/blt202205060163</guid>
-            <pubDate>Mon, 09 May 2022 03:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-08 11:50:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/07/blt202205070001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
