@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, CXL 생태계 확장...하반기 고용량 샘플 공급 계획]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100010</link>
+            <guid>https://www.bloter.net/newsView/blt202205100010</guid>
+            <pubDate>Tue, 10 May 2022 02:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["테슬라 잡아라"…글로벌 전기차 경쟁, '플랫폼·인프라'로 확전]]></title>
             <link>https://www.bloter.net/newsView/blt202205100024</link>
             <guid>https://www.bloter.net/newsView/blt202205100024</guid>
             <pubDate>Tue, 10 May 2022 01:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-10 09:47:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100009.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100009.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["난임 시술에 두세 번 없도록"…클라우드서 열쇠 구하는 '카이헬스']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 08 May 2022 05:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-08 14:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[바이오 오픈이노베이션] R&D 폐쇄성 벗은 대웅제약, 제한두지 않는 혁신]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060162</link>
-            <guid>https://www.bloter.net/newsView/blt202205060162</guid>
-            <pubDate>Sun, 08 May 2022 04:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-08 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/06/blt202205060053.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
