@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 04:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[암젠과 삼성바이오로직스도 도입한 ESG 경영, 제약업계 확산 더딘 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110080</link>
+            <guid>https://www.bloter.net/newsView/blt202205110080</guid>
+            <pubDate>Wed, 11 May 2022 05:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-11 13:39:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 인기게임, 아직도 적다…원스토어 청사진은]]></title>
             <link>https://www.bloter.net/newsView/blt202205110068</link>
             <guid>https://www.bloter.net/newsView/blt202205110068</guid>
             <pubDate>Wed, 11 May 2022 04:36:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-11 12:48:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터 인수 일론 머스크 "트럼프 계정 영구정지 철회할 것"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 09 May 2022 06:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 15:21:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ISS에서 175일…NASA 우주인들, 스페이스X 우주선타고 지구 무사 귀환]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090027</link>
-            <guid>https://www.bloter.net/newsView/blt202205090027</guid>
-            <pubDate>Mon, 09 May 2022 04:30:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-09 12:40:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
