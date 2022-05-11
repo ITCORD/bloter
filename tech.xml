@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 10:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 서울에 UAM 띄우는 '볼로콥터'...법인 설립하고 한국 진출]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110191</link>
+            <guid>https://www.bloter.net/newsView/blt202205110191</guid>
+            <pubDate>Wed, 11 May 2022 10:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-11 18:49:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110032.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상장 철회 없다더니...이틀 만에 돌변한 '원스토어']]></title>
+            <link>https://www.bloter.net/newsView/blt202205110189</link>
+            <guid>https://www.bloter.net/newsView/blt202205110189</guid>
+            <pubDate>Wed, 11 May 2022 10:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-11 18:25:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110030.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]앞차 급정지, '지능형 도로'가 먼저 알고 알려준다… KT·울산시의 'C-ITS']]></title>
+            <link>https://www.bloter.net/newsView/blt202205110167</link>
+            <guid>https://www.bloter.net/newsView/blt202205110167</guid>
+            <pubDate>Wed, 11 May 2022 10:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-11 18:21:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110025.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]VR로 CPR 훈련했더니 금세 땀이 송글송글…바이오 코리아에 스며든 ‘메타버스’]]></title>
             <link>https://www.bloter.net/newsView/blt202205110164</link>
             <guid>https://www.bloter.net/newsView/blt202205110164</guid>
             <pubDate>Wed, 11 May 2022 09:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-11 17:58:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['UAM' 노리는 LGU+와 제주항공이 카카오모빌리티와 손잡은 이유]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Mon, 09 May 2022 23:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-10 07:47:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커지는 독감 유행 가능성…GC·보령·일양, SK '빈자리' 메워라]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090020</link>
-            <guid>https://www.bloter.net/newsView/blt202205090020</guid>
-            <pubDate>Mon, 09 May 2022 11:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-09 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스 상장 철회에도 원스토어는 자신만만, 근거는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090124</link>
-            <guid>https://www.bloter.net/newsView/blt202205090124</guid>
-            <pubDate>Mon, 09 May 2022 10:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-09 18:21:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 출시 전 NFT부터?…알피오엔터, RPG '도사'로 승부수]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090131</link>
-            <guid>https://www.bloter.net/newsView/blt202205090131</guid>
-            <pubDate>Mon, 09 May 2022 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-09 18:15:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,36 +4,29 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 10:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 서울에 UAM 띄우는 '볼로콥터'...법인 설립하고 한국 진출]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110191</link>
+            <guid>https://www.bloter.net/newsView/blt202205110191</guid>
+            <pubDate>Wed, 11 May 2022 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-11 18:49:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110032.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['UAM' 노리는 LGU+와 제주항공이 카카오모빌리티와 손잡은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202205110102</link>
             <guid>https://www.bloter.net/newsView/blt202205110102</guid>
             <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-11 17:33:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110013.570x320.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티는 어떻게 '흑자 전환'했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202204120077</link>
-            <guid>https://www.bloter.net/newsView/blt202204120077</guid>
-            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티, 연내 '로봇배송' 서비스…'뉴빌리티'와 협력]]></title>
-            <link>https://www.bloter.net/newsView/blt202203300041</link>
-            <guid>https://www.bloter.net/newsView/blt202203300041</guid>
-            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 뒷좌석 화면에 광고 도입..."가맹택시와 수익 공유"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203210045</link>
-            <guid>https://www.bloter.net/newsView/blt202203210045</guid>
-            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
+            <title><![CDATA[카카오모빌리티, 'LG·볼로콥터·오로라' 한자리에 불러 모은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202202100416</link>
+            <guid>https://www.bloter.net/newsView/blt202202100416</guid>
+            <pubDate>Wed, 11 May 2022 10:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 09:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 10:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터 인수 일론 머스크 "트럼프 계정 영구정지 철회할 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110045</link>
+            <guid>https://www.bloter.net/newsView/blt202205110045</guid>
+            <pubDate>Wed, 11 May 2022 10:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-11 10:06:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110009.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대그룹 '뿌리' 현대아산 13년 만에 '흑자 전환'...'대북 사업' 없이 건설업만으로 적자 탈출]]></title>
             <link>https://www.bloter.net/newsView/blt202205100096</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 11 May 2022 01:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["테슬라 잡아라"…글로벌 전기차 경쟁, '플랫폼·인프라'로 확전]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100024</link>
-            <guid>https://www.bloter.net/newsView/blt202205100024</guid>
-            <pubDate>Tue, 10 May 2022 08:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-10 09:47:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100009.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
