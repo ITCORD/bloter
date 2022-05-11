@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100113</link>
+            <guid>https://www.bloter.net/newsView/blt202205100113</guid>
+            <pubDate>Wed, 11 May 2022 06:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 15:38:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100016.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[코빗이 선행하는 방법…넥슨어린이재활병원에 비트코인 기부]]></title>
             <link>https://www.bloter.net/newsView/blt202205100100</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 10 May 2022 06:22:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-09 15:53:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090018.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이산화탄소도 '재활용'을?...LG화학, 세계 최고 수준 전기화학 반응기 개발]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090050</link>
-            <guid>https://www.bloter.net/newsView/blt202205090050</guid>
-            <pubDate>Tue, 10 May 2022 03:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-09 15:44:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090015.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
