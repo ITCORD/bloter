@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]VR로 CPR 훈련했더니 금세 땀이 송글송글…바이오 코리아에 스며든 ‘메타버스’]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110164</link>
+            <guid>https://www.bloter.net/newsView/blt202205110164</guid>
+            <pubDate>Wed, 11 May 2022 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-11 17:58:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110024.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['UAM' 노리는 LGU+와 제주항공이 카카오모빌리티와 손잡은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110102</link>
+            <guid>https://www.bloter.net/newsView/blt202205110102</guid>
+            <pubDate>Wed, 11 May 2022 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-11 17:33:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110013.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크체인저]퍼포먼스바이TBWA, '애드테크 다크호스'로 급부상 이유는②]]></title>
             <link>https://www.bloter.net/newsView/blt202205110108</link>
             <guid>https://www.bloter.net/newsView/blt202205110108</guid>
             <pubDate>Wed, 11 May 2022 08:24:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-11 17:17:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암젠과 삼성바이오로직스도 도입한 ESG 경영, 제약업계 확산 더딘 이유는]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 09 May 2022 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-09 18:15:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓, '전직원에 평균 5000만원' 주식 쏜 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090058</link>
-            <guid>https://www.bloter.net/newsView/blt202205090058</guid>
-            <pubDate>Mon, 09 May 2022 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-09 17:32:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울바이오시스, 원가율 99.8%...팔아도 남는 게 없다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090070</link>
-            <guid>https://www.bloter.net/newsView/blt202205090070</guid>
-            <pubDate>Mon, 09 May 2022 07:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-09 15:53:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090018.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

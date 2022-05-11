@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[대출이자 낮추고 투자수익 높이는 핀테크]]></title>
-            <link>https://www.bloter.net/newsView/blt202205110153</link>
-            <guid>https://www.bloter.net/newsView/blt202205110153</guid>
-            <pubDate>Wed, 11 May 2022 08:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-11 16:54:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110019.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['UAM' 노리는 LGU+와 제주항공이 카카오모빌리티와 손잡은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110102</link>
+            <guid>https://www.bloter.net/newsView/blt202205110102</guid>
+            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-11 17:33:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110013.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[직접 계산하는 'DSR 계산기' 버려도 된다…핀다는 '알아서 계산']]></title>
-            <link>https://www.bloter.net/newsView/blt202204280032</link>
-            <guid>https://www.bloter.net/newsView/blt202204280032</guid>
-            <pubDate>Wed, 11 May 2022 08:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오모빌리티는 어떻게 '흑자 전환'했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204120077</link>
+            <guid>https://www.bloter.net/newsView/blt202204120077</guid>
+            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[광주은행은 핀다, 전북은행은 고팍스…핀테크 관심많은 JB금융]]></title>
-            <link>https://www.bloter.net/newsView/blt202203160551</link>
-            <guid>https://www.bloter.net/newsView/blt202203160551</guid>
-            <pubDate>Wed, 11 May 2022 08:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오모빌리티, 연내 '로봇배송' 서비스…'뉴빌리티'와 협력]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300041</link>
+            <guid>https://www.bloter.net/newsView/blt202203300041</guid>
+            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉬운 이자장사는 하기 싫다…제도권 진입한 온투업체의 '반란']]></title>
-            <link>https://www.bloter.net/newsView/blt202203030140</link>
-            <guid>https://www.bloter.net/newsView/blt202203030140</guid>
-            <pubDate>Wed, 11 May 2022 08:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['한국판 펀딩소사이어티스' 윙크스톤파트너스, 자영업자 대출 돕는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202112110004</link>
-            <guid>https://www.bloter.net/newsView/blt202112110004</guid>
-            <pubDate>Wed, 11 May 2022 08:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유경아</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오모빌리티, 뒷좌석 화면에 광고 도입..."가맹택시와 수익 공유"]]></title>
+            <link>https://www.bloter.net/newsView/blt202203210045</link>
+            <guid>https://www.bloter.net/newsView/blt202203210045</guid>
+            <pubDate>Wed, 11 May 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
