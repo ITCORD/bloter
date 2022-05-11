@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 주가 ‘10달러’ 밑으로 폭락…컬리, 떨고 있니?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100155</link>
+            <guid>https://www.bloter.net/newsView/blt202205100155</guid>
+            <pubDate>Wed, 11 May 2022 08:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-10 16:42:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100019.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다]]></title>
             <link>https://www.bloter.net/newsView/blt202205100113</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 10 May 2022 07:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-09 16:29:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울바이오시스, 원가율 99.8%...팔아도 남는 게 없다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090070</link>
-            <guid>https://www.bloter.net/newsView/blt202205090070</guid>
-            <pubDate>Tue, 10 May 2022 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-09 15:53:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/09/blt202205090018.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
