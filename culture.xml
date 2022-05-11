@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 03:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 04:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 인기게임, 아직도 적다…원스토어 청사진은]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110068</link>
+            <guid>https://www.bloter.net/newsView/blt202205110068</guid>
+            <pubDate>Wed, 11 May 2022 04:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[원스토어가 오는 23일 IPO를 앞두고, 핵심 비즈니스인 게임 사업이 다시 한 번 성장 원동력이 돼줄 것이라는 기대감을 나타냈다. 국내 앱 마켓 후발주자로서 수수료율 인하, 개발자 친화 정책으로 사세를 확장해 온 원스토어는 향후 국내 대형 인기 게임의 구체적인]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대표 이어 창업자까지…박관호 의장, 위믹스 300억 매입 추진]]></title>
             <link>https://www.bloter.net/newsView/blt202205100171</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 04 May 2022 05:20:56 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 음원 스트리밍 플랫폼 스포티파이가 메타버스 플랫폼 '로블록스'에 '스포티파이 아일랜드'를 출시했다. 조만간 케이팝 테마의 가상 공원도 선보일 예정이다.3일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 스포티파이는 음원 스트리밍 플랫폼 최초로 로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블에프앤씨, 게임 '아스달 연대기'에 블록체인 붙인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205030171</link>
-            <guid>https://www.bloter.net/newsView/blt202205030171</guid>
-            <pubDate>Tue, 03 May 2022 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블의 개발 자회사인 넷마블에프앤씨가 '아스달 연대기' IP를 활용한 신작 게임에 블록체인 기술을 접목하는 것으로 확인됐다. 앞서 지난 1월 진행한 '제5회 NTP'를 통해 신작 라인업으로 소개된 '아스달 연대기'는 스튜디오 드래곤과 넷마블이 IP 공동 개발을 통해]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/03/blt202205030042.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
