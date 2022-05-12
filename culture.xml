@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 01:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'커머스' 약해진 CJ ENM, '콘텐츠'는 집중 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202205120060</link>
+            <guid>https://www.bloter.net/newsView/blt202205120060</guid>
+            <pubDate>Thu, 12 May 2022 03:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM이 콘텐츠를 기반으로 한 엔터테인먼트 분야의 투자를 대폭 강화하고 있다. 올 들어 미국 헐리우드 제작사 '엔데버 콘텐트' 인수절차를 마무리 한 후 신규 제작사 'CJ ENM 스튜디오스'까지 설립하며 '멀티 스튜디오' 체제를 가동하는 등 전사 역량을 콘텐츠에 집중]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/12/blt202205120013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데브시스터즈, 2분기 더 어렵다?…신작 '마케팅비' 변수]]></title>
             <link>https://www.bloter.net/newsView/blt202205110192</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 04 May 2022 12:35:05 GMT</pubDate>
             <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임' e스포츠에서 '배틀그라운드 모바일'(PUBG M) 국가대표로 뛸 선수는 누가 될까.  4일 한국e스포츠협회(KeSPA)는 PUBG M 국가대표 예비명단 26인을 대한체육회에 제출했다고 밝혔다. PUBG M 예비명단 26인을 결정하기까지 다양한 과정을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040042.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크체인저] 상장 앞둔 에이피알, 뷰티업계 '애플' 꿈꾼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040144</link>
-            <guid>https://www.bloter.net/newsView/blt202205040144</guid>
-            <pubDate>Wed, 04 May 2022 10:20:26 GMT</pubDate>
-            <content:encoded><![CDATA['보라색 트랙 수트'로 MZ세대에게 잘 알려진 스트리트 패션 브랜드 '널디'. 널디는 자사몰에서 직접 제품을 판매하는 ‘D2C’(다이렉트 투 컨슈머) 방식으로 운영 중인 브랜드다. 널디는 유통사에 입점하지 않고 SNS 마케팅 등을 통해 유입된 고객과 자사몰에서]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040037.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
