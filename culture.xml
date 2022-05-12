@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]'사상 최초 적자' 넷마블, '북미·캐주얼 비중 확대'에 숨겨진 이면]]></title>
+            <link>https://www.bloter.net/newsView/blt202205120231</link>
+            <guid>https://www.bloter.net/newsView/blt202205120231</guid>
+            <pubDate>Thu, 12 May 2022 09:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/12/blt202205120038.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'커머스' 약해진 CJ ENM, '콘텐츠'는 집중 투자]]></title>
             <link>https://www.bloter.net/newsView/blt202205120060</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 05 May 2022 06:26:26 GMT</pubDate>
             <content:encoded><![CDATA[틱톡이 광고 수익을 크리에이터와 나눠 갖는 프로그램을 도입한다. 4일(현지시간) IT 전문매체 &lt;테크크런치&gt;에 따르면 틱톡은 크리에이터가 올린 영상에 광고를 달아 광고로 발생한 수익을 크리에이터와 배분하는 ‘틱톡 펄스’ 프로그램을 운영한다고 발]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/05/blt202205050004.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[e스포츠 아시안게임 가다]⑥PUBG M 국대, 예비후보 26인 결정]]></title>
-            <link>https://www.bloter.net/newsView/blt202205040161</link>
-            <guid>https://www.bloter.net/newsView/blt202205040161</guid>
-            <pubDate>Wed, 04 May 2022 12:35:05 GMT</pubDate>
-            <content:encoded><![CDATA[오는 9월 열리는 '2022 항저우 아시안게임' e스포츠에서 '배틀그라운드 모바일'(PUBG M) 국가대표로 뛸 선수는 누가 될까.  4일 한국e스포츠협회(KeSPA)는 PUBG M 국가대표 예비명단 26인을 대한체육회에 제출했다고 밝혔다. PUBG M 예비명단 26인을 결정하기까지 다양한 과정을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/04/blt202205040042.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
