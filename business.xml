@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 03:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 04:32:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['UAM' 노리는 LGU+와 제주항공이 카카오모빌리티와 손잡은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110102</link>
+            <guid>https://www.bloter.net/newsView/blt202205110102</guid>
+            <pubDate>Thu, 12 May 2022 04:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-11 17:33:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대출이자 낮추고 투자수익 높이는 핀테크]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110153</link>
+            <guid>https://www.bloter.net/newsView/blt202205110153</guid>
+            <pubDate>Thu, 12 May 2022 04:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-11 16:54:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신세계, 역대급 실적 쓴 작년보다 더 좋다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110112</link>
+            <guid>https://www.bloter.net/newsView/blt202205110112</guid>
+            <pubDate>Thu, 12 May 2022 04:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-11 15:26:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터 인수 일론 머스크 "트럼프 계정 영구정지 철회할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202205110045</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 11 May 2022 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-10 16:42:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100019.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100113</link>
-            <guid>https://www.bloter.net/newsView/blt202205100113</guid>
-            <pubDate>Wed, 11 May 2022 06:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 15:38:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100016.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코빗이 선행하는 방법…넥슨어린이재활병원에 비트코인 기부]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100100</link>
-            <guid>https://www.bloter.net/newsView/blt202205100100</guid>
-            <pubDate>Wed, 11 May 2022 01:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-10 15:06:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, CXL 생태계 확장...하반기 고용량 샘플 공급 계획]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100010</link>
-            <guid>https://www.bloter.net/newsView/blt202205100010</guid>
-            <pubDate>Wed, 11 May 2022 01:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-10 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
