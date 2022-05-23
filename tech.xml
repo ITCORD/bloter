@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 09:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 10:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤’s 뉴스페이스]③한미 정상회담으로 힘 받은 韓 달 탐사…다누리, 8월 ‘우주로’]]></title>
+            <link>https://www.bloter.net/newsView/blt202205230065</link>
+            <guid>https://www.bloter.net/newsView/blt202205230065</guid>
+            <pubDate>Mon, 23 May 2022 10:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-23 18:35:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 아닌 언론사 홈페이지서 뉴스를 본다면 독자는 좋을까]]></title>
             <link>https://www.bloter.net/newsView/blt202205230058</link>
             <guid>https://www.bloter.net/newsView/blt202205230058</guid>
             <pubDate>Mon, 23 May 2022 09:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-23 17:55:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GC녹십자·대웅제약이 디지털헬스케어서 새 먹거리 찾는 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-20 17:36:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온, 에피스 이어 아바스틴 시밀러 출시 ‘초읽기’…적응증 분쟁 ‘변수’]]></title>
-            <link>https://www.bloter.net/newsView/blt202205200034</link>
-            <guid>https://www.bloter.net/newsView/blt202205200034</guid>
-            <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-20 16:10:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
