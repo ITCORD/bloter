@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 23:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 01:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브, '우크라이나 전쟁' 관련 영상 7만여편 삭제...왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205230004</link>
+            <guid>https://www.bloter.net/newsView/blt202205230004</guid>
+            <pubDate>Mon, 23 May 2022 01:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-23 09:34:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[코로나 엑소더스] ②큐라티스, '적자 행진'속 지속가능성 희망적인 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202205200002</link>
             <guid>https://www.bloter.net/newsView/blt202205200002</guid>
             <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-22 17:04:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['성수'에 힘 싣는 무신사…브랜드·사업부와의 '상생', 어떻게 다를까?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-19 18:03:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/19/blt202205190024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LS, 니꼬동제련 지분 전량 인수...상장도 검토]]></title>
-            <link>https://www.bloter.net/newsView/blt202205190071</link>
-            <guid>https://www.bloter.net/newsView/blt202205190071</guid>
-            <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-19 17:48:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/19/blt202205190026.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
