@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 01:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 03:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'위믹스'로 큰 위메이드…'성장 착시효과' 보이나요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205200082</link>
+            <guid>https://www.bloter.net/newsView/blt202205200082</guid>
+            <pubDate>Mon, 23 May 2022 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[먼저 읽고 가세요·최근 테라·루나 코인 사태가 발생하며 가상자산 시장이 크게 위축됐습니다. 게이밍 블록체인 플랫폼과 자체 코인을 발행한 위메이드 역시 시장 침체기를 피해갈 순 없었는데요.·지난해 4분기 위믹스 코인 유동화 금액을 매출에 반]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['성수'에 힘 싣는 무신사…브랜드·사업부와의 '상생', 어떻게 다를까?]]></title>
             <link>https://www.bloter.net/newsView/blt202205210002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 11 May 2022 04:37:25 GMT</pubDate>
             <content:encoded><![CDATA[원스토어가 오는 23일 IPO를 앞두고, 핵심 비즈니스인 게임 사업이 다시 한 번 성장 원동력이 돼줄 것이라는 기대감을 나타냈다. 국내 앱 마켓 후발주자로서 수수료율 인하, 개발자 친화 정책으로 사세를 확장해 온 원스토어는 향후 국내 대형 인기 게임의 구체적인]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110010.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대표 이어 창업자까지…박관호 의장, 위믹스 300억 매입 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100171</link>
-            <guid>https://www.bloter.net/newsView/blt202205100171</guid>
-            <pubDate>Tue, 10 May 2022 08:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[박관호 위메이드 의장이 향후 6개월 동안 '위믹스'(WEMIX) 토큰 구매에 300억원 가량을 투자할 예정이다.10일 위믹스팀은 이 날 위믹스네트워크 홈페이지를 통해 박관호 의장의 위믹스 토큰 구매 계획을 공지했다.   박관호 의장이 구매하는 위믹스 토큰은 1년간 '락업']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/10/blt202205100021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

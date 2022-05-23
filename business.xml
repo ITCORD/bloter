@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 01:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 03:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[㈜두산, 분기 매출 1조 축소...두산인프라코어의 '빈자리' 경영정상화에 영향은]]></title>
+            <link>https://www.bloter.net/newsView/blt202205200013</link>
+            <guid>https://www.bloter.net/newsView/blt202205200013</guid>
+            <pubDate>Mon, 23 May 2022 03:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-20 16:10:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어릴수록 어려운 금융앱…눈높이 맞추는 신한은행]]></title>
+            <link>https://www.bloter.net/newsView/blt202205190072</link>
+            <guid>https://www.bloter.net/newsView/blt202205190072</guid>
+            <pubDate>Mon, 23 May 2022 03:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-19 18:15:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/19/blt202205190028.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LS, 니꼬동제련 지분 전량 인수...상장도 검토]]></title>
             <link>https://www.bloter.net/newsView/blt202205190071</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 22 May 2022 17:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-19 09:40:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/19/blt202205190005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LX그룹, '조 단위' 매그나칩 인수의향서 제출...M&A '가속도']]></title>
-            <link>https://www.bloter.net/newsView/blt202205180060</link>
-            <guid>https://www.bloter.net/newsView/blt202205180060</guid>
-            <pubDate>Sun, 22 May 2022 17:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-18 23:37:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/18/blt202205180029.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KG그룹, 쌍용차와 투자계약 체결...보유 현금만 7000억 '현금 부자' 계열사 총출동]]></title>
-            <link>https://www.bloter.net/newsView/blt202205180058</link>
-            <guid>https://www.bloter.net/newsView/blt202205180058</guid>
-            <pubDate>Sun, 22 May 2022 17:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-18 17:54:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/18/blt202205180027.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
