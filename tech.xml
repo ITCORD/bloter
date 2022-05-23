@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 06:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 07:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]넷플릭스 '사냥개들', 김새론 하차…제작 연기 불가피]]></title>
+            <link>https://www.bloter.net/newsView/blt202205200014</link>
+            <guid>https://www.bloter.net/newsView/blt202205200014</guid>
+            <pubDate>Mon, 23 May 2022 07:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-23 16:11:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'위믹스'로 큰 위메이드…'성장 착시효과' 보이나요?]]></title>
             <link>https://www.bloter.net/newsView/blt202205200082</link>
             <guid>https://www.bloter.net/newsView/blt202205200082</guid>
             <pubDate>Mon, 23 May 2022 03:21:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-23 10:51:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜브, '우크라이나 전쟁' 관련 영상 7만여편 삭제...왜?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-20 11:01:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드엑스, '젤라또랩' 잠재력 끌어낼 처방전은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205190063</link>
-            <guid>https://www.bloter.net/newsView/blt202205190063</guid>
-            <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-19 18:06:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/19/blt202205190017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
