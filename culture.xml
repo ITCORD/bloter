@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 09:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 10:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]"국내 팬도 있어요"…C2X 케이팝 NFT 보는 韓 팬덤 시선은]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240059</link>
+            <guid>https://www.bloter.net/newsView/blt202205240059</guid>
+            <pubDate>Tue, 24 May 2022 10:22:09 GMT</pubDate>
+            <content:encoded><![CDATA["베리베리의 NFT를 구매하려면 VPN을 통해 접근해야 합니다."지난 23일 컴투스홀딩스의 'C2X NFT 마켓플레이스'를 통해 케이팝 그룹 '베리베리'의 첫 미국투어 기념 영상 NFT(대체 불가능한 토큰) 판매가 시작된 가운데, 일부 국내 팬들은 트위터 등 인터넷 커뮤니티를 통]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷플릭스 '사냥개들', 김새론 추가 촬영 취소…제작 지연 불가피]]></title>
             <link>https://www.bloter.net/newsView/blt202205200014</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 May 2022 03:16:33 GMT</pubDate>
             <content:encoded><![CDATA[CJ ENM이 콘텐츠를 기반으로 한 엔터테인먼트 분야의 투자를 대폭 강화하고 있다. 올 들어 미국 헐리우드 제작사 '엔데버 콘텐트' 인수절차를 마무리 한 후 신규 제작사 'CJ ENM 스튜디오스'까지 설립하며 '멀티 스튜디오' 체제를 가동하는 등 전사 역량을 콘텐츠에 집중]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/12/blt202205120013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데브시스터즈, 2분기 더 어렵다?…신작 '마케팅비' 변수]]></title>
-            <link>https://www.bloter.net/newsView/blt202205110192</link>
-            <guid>https://www.bloter.net/newsView/blt202205110192</guid>
-            <pubDate>Wed, 11 May 2022 23:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[데브시스터즈가 1분기 매출과 영업이익이 반토막되며 어닝쇼크를 기록했다. 지난해 출시한 이후 메가히트를 기록한 '쿠키런: 킹덤'이 국내와 더불어 글로벌 시장까지 하향 안정화 시기에 접어들었기 때문이다. 이 같은 요인으로 인한 매출 감소는 오는 하반기 진행]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/11/blt202205110034.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

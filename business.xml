@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 09:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 10:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성, 향후 5년 간 450조원 투자 집행 발표...예년 대비 30% 증액]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240024</link>
+            <guid>https://www.bloter.net/newsView/blt202205240024</guid>
+            <pubDate>Tue, 24 May 2022 10:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-24 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240012.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데, 5년간 37조 쏟아붓는다]]></title>
             <link>https://www.bloter.net/newsView/blt202205240020</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 May 2022 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-23 21:17:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230024.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기업대출 노리는 인터넷은행, 기업은행 이길 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205230063</link>
-            <guid>https://www.bloter.net/newsView/blt202205230063</guid>
-            <pubDate>Tue, 24 May 2022 03:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-23 19:05:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230019.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
