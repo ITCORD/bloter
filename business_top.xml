@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성, 향후 5년 간 450조원 투자 집행 발표...예년 대비 30% 증액]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240023</link>
-            <guid>https://www.bloter.net/newsView/blt202205240023</guid>
-            <pubDate>Tue, 24 May 2022 04:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-24 12:42:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240012.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[카카오·티맵 '전화콜 대리운전 시장' 진출 확장 어려워진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240021</link>
+            <guid>https://www.bloter.net/newsView/blt202205240021</guid>
+            <pubDate>Tue, 24 May 2022 05:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-24 14:06:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240011.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[⑥“삼성 파운드리, 2위 자리도 위태롭다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202204290142</link>
-            <guid>https://www.bloter.net/newsView/blt202204290142</guid>
-            <pubDate>Tue, 24 May 2022 04:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["카카오 상생안은 면피용"...대리운전·택시·소상공인업계 반발]]></title>
+            <link>https://www.bloter.net/newsView/blt202109280077</link>
+            <guid>https://www.bloter.net/newsView/blt202109280077</guid>
+            <pubDate>Tue, 24 May 2022 05:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[⑥여전한 통신장비 '후발주자' 삼성전자]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260103</link>
-            <guid>https://www.bloter.net/newsView/blt202204260103</guid>
-            <pubDate>Tue, 24 May 2022 04:35:00 GMT</pubDate>
+            <title><![CDATA[카카오, 모빌리티 확장 속 이어지는 '택시·대리운전' 충돌]]></title>
+            <link>https://www.bloter.net/newsView/blt202108230019</link>
+            <guid>https://www.bloter.net/newsView/blt202108230019</guid>
+            <pubDate>Tue, 24 May 2022 05:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[①삼성전자의 '세 가지 문제'와 '한 가지 이유']]></title>
-            <link>https://www.bloter.net/newsView/blt202204140001</link>
-            <guid>https://www.bloter.net/newsView/blt202204140001</guid>
-            <pubDate>Tue, 24 May 2022 04:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성의 ‘3년 240조 투자’는 어떻게 이뤄질까]]></title>
-            <link>https://www.bloter.net/newsView/blt202108240026</link>
-            <guid>https://www.bloter.net/newsView/blt202108240026</guid>
-            <pubDate>Tue, 24 May 2022 04:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대리운전 진출한 티맵모빌리티, '운전대행' 발 뻗는다..."여성·노약자·골프족 공략"]]></title>
+            <link>https://www.bloter.net/newsView/blt202108100019</link>
+            <guid>https://www.bloter.net/newsView/blt202108100019</guid>
+            <pubDate>Tue, 24 May 2022 05:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
