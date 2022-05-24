@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 01:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 03:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대변혁 앞둔 삼성전자 '위기의 엑시노스' 운명은]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240014</link>
+            <guid>https://www.bloter.net/newsView/blt202205240014</guid>
+            <pubDate>Tue, 24 May 2022 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-24 10:41:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[31% 폭락한 스냅, 5% 상승한 줌…희비 엇갈리는 기술주]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240008</link>
+            <guid>https://www.bloter.net/newsView/blt202205240008</guid>
+            <pubDate>Tue, 24 May 2022 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-24 10:35:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, '올레드 TV' 판가 19% 하락...현금흐름에 부정적 영향 미칠 듯]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240013</link>
+            <guid>https://www.bloter.net/newsView/blt202205240013</guid>
+            <pubDate>Tue, 24 May 2022 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-24 10:33:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240005.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 기한 맞춰 챕터 313 신청...추가 투자 가능성 열었다]]></title>
             <link>https://www.bloter.net/newsView/blt202205230067</link>
             <guid>https://www.bloter.net/newsView/blt202205230067</guid>
             <pubDate>Mon, 23 May 2022 12:36:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-23 21:17:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230024.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230024.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[윤’s 뉴스페이스]③한미 정상회담으로 힘 받은 韓 달 탐사…다누리, 8월 ‘우주로’]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-21 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[함께 쓰는 풀리퀘]‘그 이름’은 유니코드로 쓸 수 있을까②]]></title>
-            <link>https://www.bloter.net/newsView/blt202205200075</link>
-            <guid>https://www.bloter.net/newsView/blt202205200075</guid>
-            <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-21 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤's BT·IT]⑤정보보안, 국가 안보 직결되지만…기업들, '인력 부족' 아우성]]></title>
-            <link>https://www.bloter.net/newsView/blt202205210001</link>
-            <guid>https://www.bloter.net/newsView/blt202205210001</guid>
-            <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-21 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/21/blt202205210002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한글과컴퓨터가 한컴MDS 매각한 이유…데이터·서비스로 글로벌 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205200078</link>
-            <guid>https://www.bloter.net/newsView/blt202205200078</guid>
-            <pubDate>Sun, 22 May 2022 17:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-20 18:03:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
