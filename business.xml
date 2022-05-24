@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 11:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["3나노 조기 양산"...삼성, 여전한 '파운드리 1위' 의지]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240029</link>
+            <guid>https://www.bloter.net/newsView/blt202205240029</guid>
+            <pubDate>Tue, 24 May 2022 12:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-24 14:04:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240013.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성, 향후 5년 간 450조원 투자 집행 발표...예년 대비 30% 증액]]></title>
             <link>https://www.bloter.net/newsView/blt202205240024</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 May 2022 04:35:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-24 10:33:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, 기한 맞춰 챕터 313 신청...추가 투자 가능성 열었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205230067</link>
-            <guid>https://www.bloter.net/newsView/blt202205230067</guid>
-            <pubDate>Tue, 24 May 2022 03:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-23 21:17:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230024.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

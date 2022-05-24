@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 11:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[현대차그룹, 국내에 63조 투자...전동화 밸류체인 강화에 '올인']]></title>
-            <link>https://www.bloter.net/newsView/blt202205240092</link>
-            <guid>https://www.bloter.net/newsView/blt202205240092</guid>
-            <pubDate>Tue, 24 May 2022 10:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-24 17:25:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240029.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[업비트·빗썸의 간단한 루나 상장심사…하버드 학벌 믿고, 보고서는 3쪽]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240129</link>
+            <guid>https://www.bloter.net/newsView/blt202205240129</guid>
+            <pubDate>Tue, 24 May 2022 12:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-24 20:37:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240040.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG에너지솔루션·폭스바겐, 현대차의 '신기록'을 깼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240006</link>
-            <guid>https://www.bloter.net/newsView/blt202205240006</guid>
-            <pubDate>Tue, 24 May 2022 10:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[③토스·업비트 있지만 센드버드 없는 한국…B2B 키워야 산다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205180061</link>
+            <guid>https://www.bloter.net/newsView/blt202205180061</guid>
+            <pubDate>Tue, 24 May 2022 12:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['전동화 올인' 현대차, 국내에 21조 투자...노사갈등 잦지만 국내 경제에 기여]]></title>
-            <link>https://www.bloter.net/newsView/blt202205180029</link>
-            <guid>https://www.bloter.net/newsView/blt202205180029</guid>
-            <pubDate>Tue, 24 May 2022 10:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[미국 금융당국, 가상자산 감독 강화한다…부서 인력 보강, 명칭 변경]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040007</link>
+            <guid>https://www.bloter.net/newsView/blt202205040007</guid>
+            <pubDate>Tue, 24 May 2022 12:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오뱅크, 가상자산거래소 제휴에 자신감...'윈윈'할 거래소는 어디?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030074</link>
+            <guid>https://www.bloter.net/newsView/blt202205030074</guid>
+            <pubDate>Tue, 24 May 2022 12:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[업비트는 2D, 빗썸은 3D로 메타버스 만든다…차이 뭘까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203140021</link>
+            <guid>https://www.bloter.net/newsView/blt202203140021</guid>
+            <pubDate>Tue, 24 May 2022 12:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
