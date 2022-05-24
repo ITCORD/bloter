@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 07:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 08:31:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데, 5년간 37조 쏟아붓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240020</link>
+            <guid>https://www.bloter.net/newsView/blt202205240020</guid>
+            <pubDate>Tue, 24 May 2022 08:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-24 11:32:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG에너지솔루션·폭스바겐, 현대차의 '신기록'을 깼다]]></title>
             <link>https://www.bloter.net/newsView/blt202205240006</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 May 2022 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-23 19:05:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230019.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[㈜두산, 이자보상배율 간신히 '턱걸이'...美 빅스텝 예고에 이자부담 커져]]></title>
-            <link>https://www.bloter.net/newsView/blt202205230023</link>
-            <guid>https://www.bloter.net/newsView/blt202205230023</guid>
-            <pubDate>Tue, 24 May 2022 03:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-23 17:46:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
