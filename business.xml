@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹, 국내에 63조 투자...전동화 밸류체인 강화에 '올인']]></title>
+            <link>https://www.bloter.net/newsView/blt202205240092</link>
+            <guid>https://www.bloter.net/newsView/blt202205240092</guid>
+            <pubDate>Wed, 25 May 2022 08:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-24 17:25:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240029.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한화그룹 '탄소중립 비즈니스' 37조 투자...'재무구조 열악'한데 투자금 조달은?]]></title>
             <link>https://www.bloter.net/newsView/blt202205240036</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 May 2022 08:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-24 11:32:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG에너지솔루션·폭스바겐, 현대차의 '신기록'을 깼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240006</link>
-            <guid>https://www.bloter.net/newsView/blt202205240006</guid>
-            <pubDate>Tue, 24 May 2022 05:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-24 11:06:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
