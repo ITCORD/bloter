@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화그룹 '탄소중립 비즈니스' 37조 투자...'재무구조 열악'한데 투자금 조달은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240036</link>
+            <guid>https://www.bloter.net/newsView/blt202205240036</guid>
+            <pubDate>Wed, 25 May 2022 03:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-24 16:51:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240026.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오·티맵 '전화콜 대리운전 시장' 진출 확장 어려워진다]]></title>
             <link>https://www.bloter.net/newsView/blt202205240021</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 May 2022 05:24:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-24 11:06:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[31% 폭락한 스냅, 5% 상승한 줌…희비 엇갈리는 기술주]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240008</link>
-            <guid>https://www.bloter.net/newsView/blt202205240008</guid>
-            <pubDate>Tue, 24 May 2022 05:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-24 10:35:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
