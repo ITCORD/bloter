@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디아블로 이모탈]①시리즈 최초 모바일 게임, PC 버전도 챙긴다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260066</link>
+            <guid>https://www.bloter.net/newsView/blt202205260066</guid>
+            <pubDate>Thu, 26 May 2022 08:26:02 GMT</pubDate>
+            <content:encoded><![CDATA["여러분은 핸드폰이 없나요?"한 때 디아블로팬들의 공분을 샀던 이 발언은 2018년 11월 열린 블리자드의 게임쇼 블리즈컨에서 비롯됐다. 당시 디아블로 프랜차이즈의 신작 '디아블로IV' 공개를 기다리던 팬들의 바람과는 달리, 블리자드는 모바일 게임 '디아블로 이모]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260015.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'구필수는 없다', OTT 동반 상승…'킬러콘텐츠' 자리잡나]]></title>
             <link>https://www.bloter.net/newsView/blt202205260028</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/13/blt202205130025.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, '트리플A' 신작에 강한 자신감 내비친 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202205130001</link>
-            <guid>https://www.bloter.net/newsView/blt202205130001</guid>
-            <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
-            <content:encoded><![CDATA["서구권에서 '트리플A' 게임 출시를 지향하는 게임사들이 다수 있지만, 크래프톤은 '지향'이 아니라 실제 트리플A 스튜디오에서 개발한 신작 2종 출시를 앞두고 있다"배동근 크래프톤 최고재무책임자(CFO)는 지난 12일 크래프톤 1분기 실적 발표 컨퍼런스콜에서 신작]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/13/blt202205130006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
