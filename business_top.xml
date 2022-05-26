@@ -4,37 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[서울대생 어니스트펀드서 인공지능 기술 익힌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260075</link>
-            <guid>https://www.bloter.net/newsView/blt202205260075</guid>
-            <pubDate>Thu, 26 May 2022 08:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-26 17:04:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260022.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["동박으로 삼성, SK 도전한다"던 허진규 회장...일진머티리얼즈 매각의 '속사정']]></title>
+            <link>https://www.bloter.net/newsView/blt202205260019</link>
+            <guid>https://www.bloter.net/newsView/blt202205260019</guid>
+            <pubDate>Thu, 26 May 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-26 17:49:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260023.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대출이자 낮추고 투자수익 높이는 핀테크]]></title>
-            <link>https://www.bloter.net/newsView/blt202205110153</link>
-            <guid>https://www.bloter.net/newsView/blt202205110153</guid>
-            <pubDate>Thu, 26 May 2022 08:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[일진머티리얼즈, 유럽 동박 가공공장 건설 보류…생산공장 설립 탓?]]></title>
+            <link>https://www.bloter.net/newsView/blt202107120020</link>
+            <guid>https://www.bloter.net/newsView/blt202107120020</guid>
+            <pubDate>Thu, 26 May 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[핀테크업계 "尹 정부, 가상자산 전담할 장관급 부처 만들어야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202203170493</link>
-            <guid>https://www.bloter.net/newsView/blt202203170493</guid>
-            <pubDate>Thu, 26 May 2022 08:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쉬운 이자장사는 하기 싫다…제도권 진입한 온투업체의 '반란']]></title>
-            <link>https://www.bloter.net/newsView/blt202203030140</link>
-            <guid>https://www.bloter.net/newsView/blt202203030140</guid>
-            <pubDate>Thu, 26 May 2022 08:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[일진머티리얼즈 등 기대감만 큰 '동박 3사']]></title>
+            <link>https://www.bloter.net/newsView/blt202105060014</link>
+            <guid>https://www.bloter.net/newsView/blt202105060014</guid>
+            <pubDate>Thu, 26 May 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
