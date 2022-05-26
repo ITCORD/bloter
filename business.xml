@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 01:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트·빗썸의 간단한 루나 상장심사…하버드 학벌 믿고, 보고서는 3쪽]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240129</link>
+            <guid>https://www.bloter.net/newsView/blt202205240129</guid>
+            <pubDate>Thu, 26 May 2022 01:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-24 20:37:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240040.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹, 국내에 63조 투자...전동화 밸류체인 강화에 '올인']]></title>
             <link>https://www.bloter.net/newsView/blt202205240092</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 24 May 2022 10:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-24 14:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240012.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데, 5년간 37조 쏟아붓는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240020</link>
-            <guid>https://www.bloter.net/newsView/blt202205240020</guid>
-            <pubDate>Tue, 24 May 2022 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-24 11:32:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
