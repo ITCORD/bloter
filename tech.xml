@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 09:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 10:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변협의 로톡 변호사 징계 '위헌'…'로톡' 리스크 사라질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260078</link>
+            <guid>https://www.bloter.net/newsView/blt202205260078</guid>
+            <pubDate>Thu, 26 May 2022 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-26 17:55:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260026.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스-키옥시아, '낸드 2위' 경쟁 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202205260072</link>
             <guid>https://www.bloter.net/newsView/blt202205260072</guid>
             <pubDate>Thu, 26 May 2022 08:25:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-26 16:54:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[디아블로 이모탈]①시리즈 최초 모바일 게임, PC 버전도 챙긴다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 24 May 2022 10:20:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-24 18:36:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온, 왜 헬스케어에 허가 안 난 ‘아바스틴 시밀러’ 팔았나]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240114</link>
-            <guid>https://www.bloter.net/newsView/blt202205240114</guid>
-            <pubDate>Tue, 24 May 2022 10:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-24 18:25:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240030.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
