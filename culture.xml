@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 03:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드플레이, 해외 매출 추이로 보는 정체성 변화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260082</link>
+            <guid>https://www.bloter.net/newsView/blt202205260082</guid>
+            <pubDate>Fri, 27 May 2022 03:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드플레이(구 선데이토즈)의 분기 해외 매출 규모가 처음으로 국내 실적을 역전했다. 위메이드에 인수되기 전 선데이토즈 시절에도 위메이드플레이는 '소셜 카지노 게임'의 역량을 키워온 데다, 위메이드플레이로의 사명 변경 후 첫 실적 발표에서 나온 의미]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[디아블로 이모탈]①시리즈 최초 모바일 게임, PC 버전도 챙긴다]]></title>
             <link>https://www.bloter.net/newsView/blt202205260066</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/18/blt202205180016.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]C2X 생태계, 세 번째 블록체인 게임은 '크리티카']]></title>
-            <link>https://www.bloter.net/newsView/blt202205130751</link>
-            <guid>https://www.bloter.net/newsView/blt202205130751</guid>
-            <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/13/blt202205130025.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
