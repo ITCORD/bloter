@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한 푼이라도 더'...투자역량 끌어모으는 롯데케미칼]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270009</link>
+            <guid>https://www.bloter.net/newsView/blt202205270009</guid>
+            <pubDate>Fri, 27 May 2022 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-27 12:00:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크론, 1δ D램에 EUV 도입...삼성전자·SK하이닉스와 경쟁 격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270010</link>
+            <guid>https://www.bloter.net/newsView/blt202205270010</guid>
+            <pubDate>Fri, 27 May 2022 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-27 11:27:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["동박으로 삼성, SK 도전한다"던 허진규 회장...일진머티리얼즈 매각의 '속사정']]></title>
             <link>https://www.bloter.net/newsView/blt202205260019</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 27 May 2022 04:34:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-26 16:54:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[파이크가 주는 캐시백…신한카드 '롤 체크카드' 출시한 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260011</link>
-            <guid>https://www.bloter.net/newsView/blt202205260011</guid>
-            <pubDate>Thu, 26 May 2022 09:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-26 13:39:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, 트위터 인수 가격 삭감 제안..."테슬라 주식 담보 대출 없다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260004</link>
-            <guid>https://www.bloter.net/newsView/blt202205260004</guid>
-            <pubDate>Thu, 26 May 2022 09:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-26 10:35:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
