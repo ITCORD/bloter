@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,26 +294,65 @@ WWDC는 개발자, 소프트웨어 중심 행사다. 이를 통해 애플은 전
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250012.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[수소보다 ‘핫’해진 SMR…SK·GS·두산은 왜 ‘눈독’들일까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270012</link>
-            <guid>https://www.bloter.net/newsView/blt202205270012</guid>
-            <pubDate>Fri, 27 May 2022 03:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-27 12:15:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270007.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[카카오모빌리티 손잡은 'a2z', 여객·물류 자율주행 서비스 실증한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270017</link>
+            <guid>https://www.bloter.net/newsView/blt202205270017</guid>
+            <pubDate>Fri, 27 May 2022 04:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-27 12:47:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270011.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두산에너빌리티 부채비율 18년 만에 '두 자리'...경영 위기 끝났나? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205020048</link>
-            <guid>https://www.bloter.net/newsView/blt202205020048</guid>
-            <pubDate>Fri, 27 May 2022 03:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['UAM' 노리는 LGU+와 제주항공이 카카오모빌리티와 손잡은 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110102</link>
+            <guid>https://www.bloter.net/newsView/blt202205110102</guid>
+            <pubDate>Fri, 27 May 2022 04:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두산중공업의 새 이름 '두산에너빌리티'...지속가능한 에너지서 고안 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203100036</link>
-            <guid>https://www.bloter.net/newsView/blt202203100036</guid>
-            <pubDate>Fri, 27 May 2022 03:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[230억원 투자받은 뉴빌리티, 올해 자체 로봇 배달 앱 낸다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270008</link>
+            <guid>https://www.bloter.net/newsView/blt202204270008</guid>
+            <pubDate>Fri, 27 May 2022 04:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['공항버스' 인수한 '티맵'…자율주행 시범 서비스한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203310044</link>
+            <guid>https://www.bloter.net/newsView/blt202203310044</guid>
+            <pubDate>Fri, 27 May 2022 04:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["동박으로 삼성, SK 도전한다"던 허진규 회장...일진머티리얼즈 매각의 '속사정' (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260019</link>
+            <guid>https://www.bloter.net/newsView/blt202205260019</guid>
+            <pubDate>Thu, 26 May 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-26 17:49:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG, 2026년까지 106조원 투자해 '신사업' 챙긴다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260080</link>
+            <guid>https://www.bloter.net/newsView/blt202205260080</guid>
+            <pubDate>Thu, 26 May 2022 10:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-26 17:48:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260029.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대생 어니스트펀드서 인공지능 기술 익힌다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260075</link>
+            <guid>https://www.bloter.net/newsView/blt202205260075</guid>
+            <pubDate>Thu, 26 May 2022 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-26 17:04:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스-키옥시아, '낸드 2위' 경쟁 본격화 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260072</link>
+            <guid>https://www.bloter.net/newsView/blt202205260072</guid>
+            <pubDate>Thu, 26 May 2022 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-26 16:54:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파이크가 주는 캐시백…신한카드 '롤 체크카드' 출시한 이유는? (블로터 ─ 비즈니스)]]></title>
@@ -330,38 +369,6 @@ WWDC는 개발자, 소프트웨어 중심 행사다. 이를 통해 애플은 전
             <pubDate>Thu, 26 May 2022 03:23:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-26 10:35:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK도 투자행렬 동참…'BBC'에 247조 투자 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260006</link>
-            <guid>https://www.bloter.net/newsView/blt202205260006</guid>
-            <pubDate>Thu, 26 May 2022 01:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-26 10:03:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이, 샤프 '손해배상금' 1200억원 받는다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205250051</link>
-            <guid>https://www.bloter.net/newsView/blt202205250051</guid>
-            <pubDate>Wed, 25 May 2022 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-25 16:10:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250014.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세아그룹은 왜 'ESG'를 주목할까...지배구조·신사업까지 확정한 중견그룹의 고민은 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205250007</link>
-            <guid>https://www.bloter.net/newsView/blt202205250007</guid>
-            <pubDate>Wed, 25 May 2022 03:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-25 11:34:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDI와 공장짓는 스텔란티스 “전기차 원재료 부족할 것” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205250004</link>
-            <guid>https://www.bloter.net/newsView/blt202205250004</guid>
-            <pubDate>Wed, 25 May 2022 01:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-25 09:52:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -400,18 +407,42 @@ WWDC는 개발자, 소프트웨어 중심 행사다. 이를 통해 애플은 전
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[롯데정보통신이 '임상 데이터 분석'으로 신사업 발굴하는 법 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270021</link>
+            <guid>https://www.bloter.net/newsView/blt202205270021</guid>
+            <pubDate>Fri, 27 May 2022 04:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-27 13:20:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오모빌리티 손잡은 'a2z', 여객·물류 자율주행 서비스 실증한다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270017</link>
+            <guid>https://www.bloter.net/newsView/blt202205270017</guid>
+            <pubDate>Fri, 27 May 2022 04:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-27 12:47:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270011.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["올해 아이폰 생산량 기대 못 미칠 것"…생산 차질·수요 감소 '이중고' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270016</link>
+            <guid>https://www.bloter.net/newsView/blt202205270016</guid>
+            <pubDate>Fri, 27 May 2022 04:35:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-27 12:42:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대기업 바이오 ‘각양각색’…사업 강화 삼성, 다시 뛰는 CJ, 돌아선 한화 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205260060</link>
             <guid>https://www.bloter.net/newsView/blt202205260060</guid>
-            <pubDate>Fri, 27 May 2022 03:27:17 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 03:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-27 12:03:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크론, 1δ D램에 EUV 도입...삼성전자·SK하이닉스와 경쟁 격화 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205270010</link>
             <guid>https://www.bloter.net/newsView/blt202205270010</guid>
-            <pubDate>Fri, 27 May 2022 03:27:17 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 03:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-27 11:27:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -419,7 +450,7 @@ WWDC는 개발자, 소프트웨어 중심 행사다. 이를 통해 애플은 전
             <title><![CDATA[[한미 경제동맹 과제]①정부만 바라보는 韓 우주 산업…“올드 스페이스 벗어나야” (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205260088</link>
             <guid>https://www.bloter.net/newsView/blt202205260088</guid>
-            <pubDate>Fri, 27 May 2022 03:27:17 GMT</pubDate>
+            <pubDate>Fri, 27 May 2022 03:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-27 10:20:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -518,30 +549,6 @@ WWDC는 개발자, 소프트웨어 중심 행사다. 이를 통해 애플은 전
             <pubDate>Wed, 25 May 2022 07:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-25 16:10:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블 P2E 게임 '골든브로스', 7월 글로벌 그랜드론칭 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205250008</link>
-            <guid>https://www.bloter.net/newsView/blt202205250008</guid>
-            <pubDate>Wed, 25 May 2022 01:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-25 10:18:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크쑤다]'친환경 비누' 동구밭에 투자한 소풍벤처스...기후위기·양극화 해결할 스타트업에 꽂힌 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240130</link>
-            <guid>https://www.bloter.net/newsView/blt202205240130</guid>
-            <pubDate>Wed, 25 May 2022 01:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-25 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크쑤다]HGI "대기업, ESG스타트업 투자로 '탄소국경세' 줄인다" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205230069</link>
-            <guid>https://www.bloter.net/newsView/blt202205230069</guid>
-            <pubDate>Wed, 25 May 2022 01:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-25 09:30:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
