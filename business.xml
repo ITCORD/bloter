@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 23:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 01:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수소보다 ‘핫’해진 SMR…SK·GS·두산은 왜 ‘눈독’들일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270012</link>
+            <guid>https://www.bloter.net/newsView/blt202205270012</guid>
+            <pubDate>Sat, 28 May 2022 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-27 12:15:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한 푼이라도 더'...투자역량 끌어모으는 롯데케미칼]]></title>
             <link>https://www.bloter.net/newsView/blt202205270009</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 27 May 2022 04:34:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-05-26 17:04:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스-키옥시아, '낸드 2위' 경쟁 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260072</link>
-            <guid>https://www.bloter.net/newsView/blt202205260072</guid>
-            <pubDate>Fri, 27 May 2022 04:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-26 16:54:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
