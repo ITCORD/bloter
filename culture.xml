@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 15:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 16:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MSI 2022]클래스는 영원하다…T1, 한 수 아래 G2 제대로 눌렀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280007</link>
+            <guid>https://www.bloter.net/newsView/blt202205280007</guid>
+            <pubDate>Sat, 28 May 2022 16:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[LCK를 대표하는 'T1'이 28일 부산에서 열린 '미드 시즌 인비테이셔널'(MSI)에서 한 차원 높은 경기력을 선보이며 유럽 LEC 팀 'G2 e스포츠'(이하 G2)를 잠재웠다.   최근까지 T1은 G2를 상대로 21전 11승 10패의 상대 전적을 기록하며 막상막하의 경기력을 보였다. 'MSI 2022' 럼블]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 2022]'부산' 대신 '안방 플레이' 택한 中 'RNG', 결승 진출]]></title>
             <link>https://www.bloter.net/newsView/blt202205270105</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
             <content:encoded><![CDATA[롯데가 광고대행 계열사 '엠허브'와 '모비쟆미디어'의 합병을 통해 관련 사업 역량을 확대한다. 이를 통해 종합 광고대행사인 '대홍기획'의 역량을 한층 고도화할 것으로 예상된다.  20일 엠허브는 회사합병 공시를 통해 모비쟆미디어를 흡수합병한다고 밝혔다. 합병]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200010.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드엑스, '젤라또랩' 잠재력 끌어낼 처방전은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205190063</link>
-            <guid>https://www.bloter.net/newsView/blt202205190063</guid>
-            <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[셀프 네일 브랜드 '젤라또팩토리'를 운영하고 있는 젤라또랩이 지난해 브랜드엑스코퍼레이션에 인수된 이후 좀처럼 기지개를 펴지 못하는 모습이다. 성공적인 일본 진출에 국내 셀프 네일 시장에서도 점유율을 높이고 있는 만큼 브랜드엑스 핵심 자회사로 기대되]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/19/blt202205190017.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
