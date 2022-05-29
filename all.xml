@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 04:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,7 +331,7 @@ T1에게는 분위기 반전이 필요했다. 여전히 타워 갯수는 앞섰�
             <title><![CDATA['택시' 왜 안 잡힐까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202205270104</link>
             <guid>https://www.bloter.net/newsView/blt202205270104</guid>
-            <pubDate>Sun, 29 May 2022 04:31:37 GMT</pubDate>
+            <pubDate>Sun, 29 May 2022 04:31:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -444,7 +444,7 @@ T1에게는 분위기 반전이 필요했다. 여전히 타워 갯수는 앞섰�
             <title><![CDATA['택시' 왜 안 잡힐까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202205270104</link>
             <guid>https://www.bloter.net/newsView/blt202205270104</guid>
-            <pubDate>Sun, 29 May 2022 04:32:06 GMT</pubDate>
+            <pubDate>Sun, 29 May 2022 04:31:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
