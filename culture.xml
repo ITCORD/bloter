@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 14:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 15:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MSI 2022]졌지만 잘 싸운 T1, 우승컵 다음 기회에]]></title>
+            <link>https://www.bloter.net/newsView/blt202205290003</link>
+            <guid>https://www.bloter.net/newsView/blt202205290003</guid>
+            <pubDate>Sun, 29 May 2022 15:21:33 GMT</pubDate>
+            <content:encoded><![CDATA['미드 시즌 인비테이셔널'(MSI) 결승에 오른 LCK 팀 'T1'이 명경기를 펼쳤지만, 아쉽게 우승컵을 들어올리진 못했다. LPL 팀 '로얄 네버 기브업'(RNG)에게 세트스코어 2대2까지 따라가며 마지막 5세트까지 가는 접전을 이어갔지만, 전략적 움직임에 변수가 생기면서 준우승]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 2022]T1 vs RNG, '밴픽'이 승부수…세트스코어 원점으로]]></title>
             <link>https://www.bloter.net/newsView/blt202205290002</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 23 May 2022 07:21:23 GMT</pubDate>
             <content:encoded><![CDATA[음주운전 혐의로 경찰 조사를 받고 있는 배우 김새론이 SBS 드라마 '트롤리'에서 하차한 데 이어 넷플릭스 오리지널 시리즈 '사냥개들'의 추가 촬영분을 찍지 않는 것으로 알려졌다.   23일 &lt;블로터&gt; 취재 결과, 김새론이 넷플릭스 오리지널 시리즈로 제작중인 OTT]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]'위믹스'로 큰 위메이드…'성장 착시효과' 보이나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205200082</link>
-            <guid>https://www.bloter.net/newsView/blt202205200082</guid>
-            <pubDate>Mon, 23 May 2022 03:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[먼저 읽고 가세요·최근 테라·루나 코인 사태가 발생하며 가상자산 시장이 크게 위축됐습니다. 게이밍 블록체인 플랫폼과 자체 코인을 발행한 위메이드 역시 시장 침체기를 피해갈 순 없었는데요.·지난해 4분기 위믹스 코인 유동화 금액을 매출에 반]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
