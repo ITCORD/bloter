@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 08:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['같은 듯 다른' 플레이링스-플라이셔…'완전체' 시너지는 어떤 모습일까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280005</link>
+            <guid>https://www.bloter.net/newsView/blt202205280005</guid>
+            <pubDate>Sun, 29 May 2022 08:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-29 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]삼성D 'LCD 사업 철수'로 돌아본 韓디스플레이 위기]]></title>
             <link>https://www.bloter.net/newsView/blt202205280003</link>
             <guid>https://www.bloter.net/newsView/blt202205280003</guid>
             <pubDate>Sun, 29 May 2022 06:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-29 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['택시' 왜 안 잡힐까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 27 May 2022 03:27:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-27 10:20:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드플레이, 해외 매출 추이로 보는 정체성 변화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260082</link>
-            <guid>https://www.bloter.net/newsView/blt202205260082</guid>
-            <pubDate>Fri, 27 May 2022 03:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-27 09:54:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

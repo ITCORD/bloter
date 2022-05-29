@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 08:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['같은 듯 다른' 플레이링스-플라이셔…'완전체' 시너지는 어떤 모습일까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280005</link>
+            <guid>https://www.bloter.net/newsView/blt202205280005</guid>
+            <pubDate>Sun, 29 May 2022 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드플레이의 자회사 플레이링스와 플라이셔가 오는 7월 1일부로 합병된다. 웹보드 및 페이스북 소셜 카지노 게임사 '플레이링스'와 소셜 카지노 게임사 '플라이셔'의 만남이다. 두 게임사는 '소셜 카지노'라는 장르에서 공통점을 가지고 있지만, 상이한 부분도]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 2022]현장 응원받는 T1 vs 방플하는 RNG…우승팀은?]]></title>
             <link>https://www.bloter.net/newsView/blt202205290001</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 서울 '성수동'을 거점으로 연 거래액 3조원 시대를 향한 채비를 서두르고 있다. 입점 브랜드 및 신진 디자이너, 패션 스타트업과의 상생의 상징으로 자리잡은 '무신사 스튜디오'의 3호점을 이달 초 성수역 인근에 오픈한 데 이어 올 여름 성수 신사옥에 스타]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/21/blt202205210003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이피알, '메디큐브 에이지알' 올해 40만대 판매 자신한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202205210003</link>
-            <guid>https://www.bloter.net/newsView/blt202205210003</guid>
-            <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[D2C 기업 에이피알의 뷰티 솔루션 브랜드 '메디큐브'가 올해 뷰티 디바이스 '에이지알' 40만대 판매라는 목표를 세웠다. 에이피알 1분기 매출 763억원의 일등 공신으로 메디큐브가 꼽히는 가운데, 뷰티 디바이스를 판매하는 메디큐브의 서브 브랜드 '메디큐드 에이지알]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/21/blt202205210008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
