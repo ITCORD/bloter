@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 03:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 04:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['만년 저평가' LG, 자사주 5000억 매입...배당 환원 한도 없애기로]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270082</link>
+            <guid>https://www.bloter.net/newsView/blt202205270082</guid>
+            <pubDate>Sun, 29 May 2022 04:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-27 17:46:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티 손잡은 'a2z', 여객·물류 자율주행 서비스 실증한다]]></title>
             <link>https://www.bloter.net/newsView/blt202205270017</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 27 May 2022 04:34:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-26 17:49:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 2026년까지 106조원 투자해 '신사업' 챙긴다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260080</link>
-            <guid>https://www.bloter.net/newsView/blt202205260080</guid>
-            <pubDate>Fri, 27 May 2022 04:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-26 17:48:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260029.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 03:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 04:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['택시' 왜 안 잡힐까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270104</link>
+            <guid>https://www.bloter.net/newsView/blt202205270104</guid>
+            <pubDate>Sun, 29 May 2022 04:32:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 2022]현장 응원받는 T1 vs 방플하는 RNG…우승팀은?]]></title>
             <link>https://www.bloter.net/newsView/blt202205290001</link>
             <guid>https://www.bloter.net/newsView/blt202205290001</guid>
             <pubDate>Sun, 29 May 2022 03:28:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-05-29 12:23:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[한미 경제동맹 과제]②원전 협력 순풍…두산, '한미 파트너십' 추진할 기초체력 충분할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 26 May 2022 10:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-26 17:55:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260026.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스-키옥시아, '낸드 2위' 경쟁 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260072</link>
-            <guid>https://www.bloter.net/newsView/blt202205260072</guid>
-            <pubDate>Thu, 26 May 2022 08:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-26 16:54:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
