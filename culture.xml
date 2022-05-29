@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 01:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 03:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MSI 2022]현장 응원받는 T1 vs 방플하는 RNG…우승팀은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205290001</link>
+            <guid>https://www.bloter.net/newsView/blt202205290001</guid>
+            <pubDate>Sun, 29 May 2022 03:29:09 GMT</pubDate>
+            <content:encoded><![CDATA["수많은 관중의 응원과 함성을 못 듣는 것은 불리하다고 생각합니다"LCK 팀 T1의 '구마유시' 이민형 선수는 지난 28일 진행한 '미드 시즌 인비테이셔널'(MSI) 녹아웃 스테이지에서 승리한 후 가진 인터뷰에서 이같이 말했다.   해당 인터뷰에서 한 매체는 "(결승전은)두]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 2022]클래스는 영원하다…T1, 한 수 아래 G2 제대로 눌렀다]]></title>
             <link>https://www.bloter.net/newsView/blt202205280007</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
             <content:encoded><![CDATA[D2C 기업 에이피알의 뷰티 솔루션 브랜드 '메디큐브'가 올해 뷰티 디바이스 '에이지알' 40만대 판매라는 목표를 세웠다. 에이피알 1분기 매출 763억원의 일등 공신으로 메디큐브가 꼽히는 가운데, 뷰티 디바이스를 판매하는 메디큐브의 서브 브랜드 '메디큐드 에이지알]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/21/blt202205210008.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠허브·모비쟆미디어 합병…롯데, 대홍기획 영향력 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202205200007</link>
-            <guid>https://www.bloter.net/newsView/blt202205200007</guid>
-            <pubDate>Sun, 22 May 2022 17:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[롯데가 광고대행 계열사 '엠허브'와 '모비쟆미디어'의 합병을 통해 관련 사업 역량을 확대한다. 이를 통해 종합 광고대행사인 '대홍기획'의 역량을 한층 고도화할 것으로 예상된다.  20일 엠허브는 회사합병 공시를 통해 모비쟆미디어를 흡수합병한다고 밝혔다. 합병]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/20/blt202205200010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

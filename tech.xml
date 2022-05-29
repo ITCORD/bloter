@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 01:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 03:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MSI 2022]현장 응원받는 T1 vs 방플하는 RNG…우승팀은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205290001</link>
+            <guid>https://www.bloter.net/newsView/blt202205290001</guid>
+            <pubDate>Sun, 29 May 2022 03:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-05-29 12:23:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한미 경제동맹 과제]②원전 협력 순풍…두산, '한미 파트너십' 추진할 기초체력 충분할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280006</link>
+            <guid>https://www.bloter.net/newsView/blt202205280006</guid>
+            <pubDate>Sun, 29 May 2022 03:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-29 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280017.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]VR로 숙련공을 양성한다고?...'불만 제로'가 목표인 LGU+의 'IT 활용법']]></title>
             <link>https://www.bloter.net/newsView/blt202205270047</link>
             <guid>https://www.bloter.net/newsView/blt202205270047</guid>
             <pubDate>Sun, 29 May 2022 01:25:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-29 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MSI 2022]클래스는 영원하다…T1, 한 수 아래 G2 제대로 눌렀다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 26 May 2022 08:25:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-26 16:54:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260021.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디아블로 이모탈]①시리즈 최초 모바일 게임, PC 버전도 챙긴다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260066</link>
-            <guid>https://www.bloter.net/newsView/blt202205260066</guid>
-            <pubDate>Thu, 26 May 2022 08:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-05-26 16:26:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버클라우드, 유전체 분석 시장 노리는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260022</link>
-            <guid>https://www.bloter.net/newsView/blt202205260022</guid>
-            <pubDate>Thu, 26 May 2022 07:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-26 15:35:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
