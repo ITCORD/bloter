@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]삼성D 'LCD 사업 철수'로 돌아본 韓디스플레이 위기]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280003</link>
+            <guid>https://www.bloter.net/newsView/blt202205280003</guid>
+            <pubDate>Sun, 29 May 2022 06:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-29 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['택시' 왜 안 잡힐까]]></title>
             <link>https://www.bloter.net/newsView/blt202205270104</link>
             <guid>https://www.bloter.net/newsView/blt202205270104</guid>
             <pubDate>Sun, 29 May 2022 04:32:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MSI 2022]현장 응원받는 T1 vs 방플하는 RNG…우승팀은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 27 May 2022 03:27:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-05-27 09:54:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[변협의 변호사 광고규정 일부조항 위헌, 로톡 광고금지 조항은 합헌]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260078</link>
-            <guid>https://www.bloter.net/newsView/blt202205260078</guid>
-            <pubDate>Thu, 26 May 2022 10:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-26 17:55:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260026.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
