@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 08:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 09:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘반도체 전문가’ 이종호 장관이 그리는 인재 양성…4대 과기원으로 구체화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300083</link>
+            <guid>https://www.bloter.net/newsView/blt202205300083</guid>
+            <pubDate>Mon, 30 May 2022 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">대전=정두용</span>                        <span class="date">2022-05-30 17:37:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스가 창출한 사회적 가치 9.4조...'환경 부문' 아쉬워]]></title>
             <link>https://www.bloter.net/newsView/blt202205300013</link>
             <guid>https://www.bloter.net/newsView/blt202205300013</guid>
             <pubDate>Mon, 30 May 2022 01:27:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-30 09:56:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300006.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300006.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 증권거래위, 머스크 '늑장 공시' 조사 착수]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 27 May 2022 09:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-27 16:21:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정보통신이 '임상 데이터 분석'으로 신사업 발굴하는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270021</link>
-            <guid>https://www.bloter.net/newsView/blt202205270021</guid>
-            <pubDate>Fri, 27 May 2022 04:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-27 13:20:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
