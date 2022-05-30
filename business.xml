@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 03:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 04:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['택시' 왜 안 잡힐까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270104</link>
+            <guid>https://www.bloter.net/newsView/blt202205270104</guid>
+            <pubDate>Mon, 30 May 2022 04:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[②원전 협력 순풍…두산, '한미 파트너십' 추진할 기초체력 충분할까]]></title>
             <link>https://www.bloter.net/newsView/blt202205280006</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 29 May 2022 03:28:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-27 12:47:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수소보다 ‘핫’해진 SMR…SK·GS·두산은 왜 ‘눈독’들일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270012</link>
-            <guid>https://www.bloter.net/newsView/blt202205270012</guid>
-            <pubDate>Sat, 28 May 2022 01:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-27 12:15:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
