@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[②원전 협력 순풍…두산, '한미 파트너십' 추진할 기초체력 충분할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280006</link>
+            <guid>https://www.bloter.net/newsView/blt202205280006</guid>
+            <pubDate>Mon, 30 May 2022 01:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-29 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유럽서 '안정성 최고등급' 받은 국산 전기차는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205280001</link>
+            <guid>https://www.bloter.net/newsView/blt202205280001</guid>
+            <pubDate>Mon, 30 May 2022 01:26:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-28 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코케미칼·GM 합작사 '얼티엄캠' 출범...2025년 GM EV 생산량의 22% 소화]]></title>
             <link>https://www.bloter.net/newsView/blt202205270101</link>
@@ -38,22 +54,6 @@
             <pubDate>Sat, 28 May 2022 01:22:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-27 12:15:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한 푼이라도 더'...투자역량 끌어모으는 롯데케미칼]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270009</link>
-            <guid>https://www.bloter.net/newsView/blt202205270009</guid>
-            <pubDate>Fri, 27 May 2022 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-05-27 12:00:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크론, 1δ D램에 EUV 도입...삼성전자·SK하이닉스와 경쟁 격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270010</link>
-            <guid>https://www.bloter.net/newsView/blt202205270010</guid>
-            <pubDate>Fri, 27 May 2022 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-27 11:27:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,36 +4,43 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 23:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 01:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성D 'LCD 사업 철수'로 돌아본 韓디스플레이 위기]]></title>
-            <link>https://www.bloter.net/newsView/blt202205280003</link>
-            <guid>https://www.bloter.net/newsView/blt202205280003</guid>
-            <pubDate>Sun, 29 May 2022 06:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-29 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280012.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK하이닉스가 창출한 사회적 가치 9.7조...'환경 부문' 아쉬워]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300013</link>
+            <guid>https://www.bloter.net/newsView/blt202205300013</guid>
+            <pubDate>Mon, 30 May 2022 01:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-30 09:56:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300004.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270081</link>
-            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
-            <pubDate>Sun, 29 May 2022 06:23:10 GMT</pubDate>
+            <title><![CDATA[SK하이닉스-키옥시아, '낸드 2위' 경쟁 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260072</link>
+            <guid>https://www.bloter.net/newsView/blt202205260072</guid>
+            <pubDate>Mon, 30 May 2022 01:26:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성디스플레이, 'OLED의 보편화' 꿈꾼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202111220028</link>
-            <guid>https://www.bloter.net/newsView/blt202111220028</guid>
-            <pubDate>Sun, 29 May 2022 06:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK하이닉스, D램 3사 중 유일한 '점유율 하락']]></title>
+            <link>https://www.bloter.net/newsView/blt202205190058</link>
+            <guid>https://www.bloter.net/newsView/blt202205190058</guid>
+            <pubDate>Mon, 30 May 2022 01:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[리지드 OLED 출하량 감소...삼성디스플레이, 노트북으로 눈길 돌린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202111190070</link>
-            <guid>https://www.bloter.net/newsView/blt202111190070</guid>
-            <pubDate>Sun, 29 May 2022 06:23:10 GMT</pubDate>
+            <title><![CDATA[잘 팔리는 SK하이닉스, 고민거리는 '장비 리드타임']]></title>
+            <link>https://www.bloter.net/newsView/blt202204270019</link>
+            <guid>https://www.bloter.net/newsView/blt202204270019</guid>
+            <pubDate>Mon, 30 May 2022 01:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, 판관비 1조 증가...품질 저하 D램 '충당금' 반영]]></title>
+            <link>https://www.bloter.net/newsView/blt202204270014</link>
+            <guid>https://www.bloter.net/newsView/blt202204270014</guid>
+            <pubDate>Mon, 30 May 2022 01:26:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
