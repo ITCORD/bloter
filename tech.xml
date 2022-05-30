@@ -4,16 +4,56 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 10:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['테슬라 상장' 도전 밀리의 서재, 'KT 시너지' 맛볼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300129</link>
+            <guid>https://www.bloter.net/newsView/blt202205300129</guid>
+            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-30 19:00:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["음성으로 소통한다"…'메타버스 근무제' 들어가는 카카오]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300112</link>
+            <guid>https://www.bloter.net/newsView/blt202205300112</guid>
+            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-30 18:52:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300024.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥스트 팬데믹, 국내 mRNA 콤보 백신이 막는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300016</link>
+            <guid>https://www.bloter.net/newsView/blt202205300016</guid>
+            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-30 18:42:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300005.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에릭슨엘지가 이음5G 시장서 노키아·삼성전자와 차별화하는 법]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300131</link>
+            <guid>https://www.bloter.net/newsView/blt202205300131</guid>
+            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-30 18:39:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300023.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인텔 팻 겔싱어, 방한해 삼성 이재용과 대담...무슨 이야기 나눴나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300130</link>
+            <guid>https://www.bloter.net/newsView/blt202205300130</guid>
+            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-30 18:21:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘반도체 전문가’ 이종호 장관이 그리는 인재 양성…4대 과기원으로 구체화]]></title>
             <link>https://www.bloter.net/newsView/blt202205300083</link>
             <guid>https://www.bloter.net/newsView/blt202205300083</guid>
             <pubDate>Mon, 30 May 2022 09:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">대전=정두용</span>                        <span class="date">2022-05-30 17:37:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK하이닉스가 창출한 사회적 가치 9.4조...'환경 부문' 아쉬워]]></title>
@@ -110,46 +150,6 @@
             <pubDate>Sat, 28 May 2022 15:20:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-05-28 23:36:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크체인저] 의무화된 '의약품 콜드체인' 구현, 윌로그가 해결]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240033</link>
-            <guid>https://www.bloter.net/newsView/blt202205240033</guid>
-            <pubDate>Sat, 28 May 2022 04:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-28 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[폰SIGHT]애플의 라이트닝 케이블 고집, 소비자 실익은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205230070</link>
-            <guid>https://www.bloter.net/newsView/blt202205230070</guid>
-            <pubDate>Fri, 27 May 2022 22:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-05-28 07:16:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MSI 2022]'부산' 대신 '안방 플레이' 택한 中 'RNG', 결승 진출]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270105</link>
-            <guid>https://www.bloter.net/newsView/blt202205270105</guid>
-            <pubDate>Fri, 27 May 2022 15:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-05-27 23:21:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹십자가 KT 인공지능 원팀에?…‘이색 만남’으로 시너지 창출]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270098</link>
-            <guid>https://www.bloter.net/newsView/blt202205270098</guid>
-            <pubDate>Fri, 27 May 2022 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-27 17:51:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법에 이름표 새긴 OTT…웨이브·티빙·왓챠 지원 밑거름될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270053</link>
-            <guid>https://www.bloter.net/newsView/blt202205270053</guid>
-            <pubDate>Fri, 27 May 2022 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-27 16:21:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
