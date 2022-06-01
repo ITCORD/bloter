@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 09:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 10:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성SDS·더존비즈온은 파견 나간 직원들을 왜 불러들이나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206010002</link>
+            <guid>https://www.bloter.net/newsView/blt202206010002</guid>
+            <pubDate>Wed, 01 Jun 2022 10:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-01 19:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법 없이도 안전하게…올라케어가 직고용 약 배달 도입한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202206010001</link>
             <guid>https://www.bloter.net/newsView/blt202206010001</guid>
-            <pubDate>Wed, 01 Jun 2022 09:29:15 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2022 10:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-01 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['우마무스메', 카카오게임즈 모바일 하락세 막을 '구원투수'될까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-30 18:21:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘반도체 전문가’ 이종호 장관이 그리는 인재 양성…4대 과기원으로 구체화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205300083</link>
-            <guid>https://www.bloter.net/newsView/blt202205300083</guid>
-            <pubDate>Mon, 30 May 2022 09:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">대전=정두용</span>                        <span class="date">2022-05-30 17:37:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
