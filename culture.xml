@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 07:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 08:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우마무스메', 카카오게임즈 모바일 하락세 막을 '구원투수'될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205310069</link>
+            <guid>https://www.bloter.net/newsView/blt202205310069</guid>
+            <pubDate>Wed, 01 Jun 2022 08:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈가 올해 기대작으로 꼽았던 모바일 게임 신작 '우마무스메: 프리티 더비'(이하 우마무스메)의 정식 출시 일정을 확정했다. 카카오게임즈의 연 매출을 두 배 이상, 1조 이상으로 이끈 모바일 게임 '오딘: 발할라 라이징' 출시 약 1년 만이다. 특히 카카오게]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310011.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]넷플릭스, '더 테러 라이브' 사단 손 잡나…"대홍수, 편성 논의 중"]]></title>
             <link>https://www.bloter.net/newsView/blt202205310038</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 25 May 2022 01:27:14 GMT</pubDate>
             <content:encoded><![CDATA[넷마블의 개발자회사 넷마블에프앤씨가 개발한 P2E 게임 '골든브로스'(Golden Bros)가 오는 3분기에 정식 출시되는 것으로 확인됐다. 25일 &lt;블로터&gt; 취재 결과, 넷마블에프앤씨의 골든브로스팀은 오는 7월 쯤 글로벌 시장에 골든브로스를 선보일 계획이다.   앞서 넷]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250006.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]"국내 팬도 있어요"…C2X 케이팝 NFT 보는 韓 팬덤 시선은]]></title>
-            <link>https://www.bloter.net/newsView/blt202205240059</link>
-            <guid>https://www.bloter.net/newsView/blt202205240059</guid>
-            <pubDate>Tue, 24 May 2022 10:22:09 GMT</pubDate>
-            <content:encoded><![CDATA["베리베리의 NFT를 구매하려면 VPN을 통해 접근해야 합니다."지난 23일 컴투스홀딩스의 'C2X NFT 마켓플레이스'를 통해 케이팝 그룹 '베리베리'의 첫 미국투어 기념 영상 NFT(대체 불가능한 토큰) 판매가 시작된 가운데, 일부 국내 팬들은 트위터 등 인터넷 커뮤니티를 통]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
