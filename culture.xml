@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 01:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]넷플릭스, '더 테러 라이브' 사단 손 잡나…"대홍수, 편성 논의 중"]]></title>
+            <link>https://www.bloter.net/newsView/blt202205310038</link>
+            <guid>https://www.bloter.net/newsView/blt202205310038</guid>
+            <pubDate>Wed, 01 Jun 2022 01:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 영화 '더 테러 라이브'를 만들었던 제작진과 의기투합할 가능성을 내비쳤다.1일 &lt;블로터&gt; 취재 결과, 넷플릭스가 영화 '대홍수'의 오리지널 편성 여부를 논의하고 있다. 대홍수는 영화 '더 테러 라이브'를 연출한 김병우 감독과 프로듀싱에 참여했던]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310007.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MSI 2022]졌지만 잘 싸운 T1, 우승컵 다음 기회에]]></title>
             <link>https://www.bloter.net/newsView/blt202205290003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 May 2022 10:22:09 GMT</pubDate>
             <content:encoded><![CDATA["베리베리의 NFT를 구매하려면 VPN을 통해 접근해야 합니다."지난 23일 컴투스홀딩스의 'C2X NFT 마켓플레이스'를 통해 케이팝 그룹 '베리베리'의 첫 미국투어 기념 영상 NFT(대체 불가능한 토큰) 판매가 시작된 가운데, 일부 국내 팬들은 트위터 등 인터넷 커뮤니티를 통]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/24/blt202205240022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷플릭스 '사냥개들', 김새론 추가 촬영 취소…제작 지연 불가피]]></title>
-            <link>https://www.bloter.net/newsView/blt202205200014</link>
-            <guid>https://www.bloter.net/newsView/blt202205200014</guid>
-            <pubDate>Mon, 23 May 2022 07:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[음주운전 혐의로 경찰 조사를 받고 있는 배우 김새론이 SBS 드라마 '트롤리'에서 하차한 데 이어 넷플릭스 오리지널 시리즈 '사냥개들'의 추가 촬영분을 찍지 않는 것으로 알려졌다.   23일 &lt;블로터&gt; 취재 결과, 김새론이 넷플릭스 오리지널 시리즈로 제작중인 OTT]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/23/blt202205230012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
