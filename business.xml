@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 05:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘반도체 전문가’ 이종호 장관이 그리는 인재 양성…4대 과기원으로 구체화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300083</link>
+            <guid>https://www.bloter.net/newsView/blt202205300083</guid>
+            <pubDate>Wed, 01 Jun 2022 06:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">대전=정두용</span>                        <span class="date">2022-05-30 17:37:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['빅데이터'로 소비습관 봤더니...미세먼지 나쁘면 주말도 '집콕']]></title>
             <link>https://www.bloter.net/newsView/blt202205300034</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 30 May 2022 04:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[②원전 협력 순풍…두산, '한미 파트너십' 추진할 기초체력 충분할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205280006</link>
-            <guid>https://www.bloter.net/newsView/blt202205280006</guid>
-            <pubDate>Mon, 30 May 2022 01:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-05-29 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
