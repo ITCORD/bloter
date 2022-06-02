@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 06:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 07:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['재활용 고수' 영풍, '대세 배터리' LFP 리싸이클링에 진출]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020038</link>
-            <guid>https://www.bloter.net/newsView/blt202206020038</guid>
-            <pubDate>Thu, 02 Jun 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-02 14:51:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020011.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[이랜드월드의 '슈펜' 양수…하반기 '온라인 개편' 향해 '가속 페달']]></title>
+            <link>https://www.bloter.net/newsView/blt202206020045</link>
+            <guid>https://www.bloter.net/newsView/blt202206020045</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-02 15:24:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020012.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[슬림해진 SK이노베이션, 리싸이클링 사업은 배터리를 대체할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202108040021</link>
-            <guid>https://www.bloter.net/newsView/blt202108040021</guid>
-            <pubDate>Thu, 02 Jun 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카페24 쇼핑몰에 상품 올리면 이랜드몰 자동 등록]]></title>
+            <link>https://www.bloter.net/newsView/blt202105270007</link>
+            <guid>https://www.bloter.net/newsView/blt202105270007</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[환경 오염시킨 영풍…매출 40%의 공장이 멈춘다]]></title>
-            <link>https://www.bloter.net/newsView/blt202101040025</link>
-            <guid>https://www.bloter.net/newsView/blt202101040025</guid>
-            <pubDate>Thu, 02 Jun 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이랜드그룹, 콘텐츠·IT 역량 키운다…이랜드시스템스·올리브스튜디오 합병]]></title>
+            <link>https://www.bloter.net/newsView/blt202105030020</link>
+            <guid>https://www.bloter.net/newsView/blt202105030020</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오・이랜드 '맞손', 카톡 쇼핑 키운다]]></title>
+            <link>https://www.bloter.net/newsView/blt202011020004</link>
+            <guid>https://www.bloter.net/newsView/blt202011020004</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이랜드, 유통·패션 특화 모바일 오피스 구축...'안드로이드' OS 선택]]></title>
+            <link>https://www.bloter.net/newsView/blt201005090002</link>
+            <guid>https://www.bloter.net/newsView/blt201005090002</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">도안구</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

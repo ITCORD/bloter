@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 06:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 07:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이랜드월드의 '슈펜' 양수…하반기 '온라인 개편' 향해 '가속 페달']]></title>
+            <link>https://www.bloter.net/newsView/blt202206020045</link>
+            <guid>https://www.bloter.net/newsView/blt202206020045</guid>
+            <pubDate>Thu, 02 Jun 2022 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[이랜드월드가 슈즈 SPA(기획・생산・유통을 모두 담당하는) 브랜드 '슈펜' 사업을 품고 그룹사의 사업부문별 전문화 전략에 드라이브를 걸고 있다. 이랜드 그룹사 패션 브랜드가 한 곳에 모이고 있는 것은 '사업 포트폴리오 조정' 계획의 일환으로, 이랜드월드는 그]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020012.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['우마무스메', 카카오게임즈 모바일 하락세 막을 '구원투수'될까]]></title>
             <link>https://www.bloter.net/newsView/blt202205310069</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 May 2022 07:19:11 GMT</pubDate>
             <content:encoded><![CDATA[KT스튜디오지니의 오리지널 콘텐츠인 '구필수는 없다'가 인터넷동영상서비스(OTT) 플랫폼에서 꾸준한 상승세를 보이고 있다. 이는 KT그룹의 OTT 플랫폼인 '시즌'(Seezn) 뿐 아니라 글로벌 서비스인 '넷플릭스'(Netflix)에서도 마찬가지다.26일 콘텐츠 업계에 따르면, 구필수]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블 P2E 게임 '골든브로스', 7월 글로벌 그랜드론칭]]></title>
-            <link>https://www.bloter.net/newsView/blt202205250008</link>
-            <guid>https://www.bloter.net/newsView/blt202205250008</guid>
-            <pubDate>Wed, 25 May 2022 01:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블의 개발자회사 넷마블에프앤씨가 개발한 P2E 게임 '골든브로스'(Golden Bros)가 오는 3분기에 정식 출시되는 것으로 확인됐다. 25일 &lt;블로터&gt; 취재 결과, 넷마블에프앤씨의 골든브로스팀은 오는 7월 쯤 글로벌 시장에 골든브로스를 선보일 계획이다.   앞서 넷]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
