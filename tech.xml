@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 03:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 04:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔데믹서 필요한 AZ ‘이부실드’…재정 허들 넘고 도입 ‘가시화’]]></title>
+            <link>https://www.bloter.net/newsView/blt202206020017</link>
+            <guid>https://www.bloter.net/newsView/blt202206020017</guid>
+            <pubDate>Thu, 02 Jun 2022 04:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-02 12:43:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020004.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SME 주목하는 네이버, 창업 플랫폼 '마이프차' 후속 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202206020008</link>
+            <guid>https://www.bloter.net/newsView/blt202206020008</guid>
+            <pubDate>Thu, 02 Jun 2022 04:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-02 10:37:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020003.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크 "사무실 출근 안 하면 퇴사로 간주"]]></title>
             <link>https://www.bloter.net/newsView/blt202206020003</link>
             <guid>https://www.bloter.net/newsView/blt202206020003</guid>
             <pubDate>Thu, 02 Jun 2022 01:26:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-02 09:36:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성SDS·더존비즈온은 파견 나간 직원들을 왜 불러들이나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-30 18:52:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥스트 팬데믹, 국내 mRNA 콤보 백신이 막는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205300016</link>
-            <guid>https://www.bloter.net/newsView/blt202205300016</guid>
-            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-30 18:42:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭슨엘지가 이음5G 시장서 노키아·삼성전자와 차별화하는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202205300131</link>
-            <guid>https://www.bloter.net/newsView/blt202205300131</guid>
-            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-30 18:39:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
