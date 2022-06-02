@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 04:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주담대 부실채권 캠코에 넘기는 카카오뱅크, 리스크 털어내기?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205310112</link>
+            <guid>https://www.bloter.net/newsView/blt202205310112</guid>
+            <pubDate>Thu, 02 Jun 2022 05:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-01 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG에너지솔루션, '중국 덕'에 양극재 내재화...화유코발트·LG '파트너십' 국내로 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202205310008</link>
+            <guid>https://www.bloter.net/newsView/blt202205310008</guid>
+            <pubDate>Thu, 02 Jun 2022 05:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-31 16:29:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인텔 팻 겔싱어, 방한해 삼성 이재용과 대담...무슨 이야기 나눴나]]></title>
             <link>https://www.bloter.net/newsView/blt202205300130</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 31 May 2022 08:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-30 09:56:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300006.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 증권거래위, 머스크 '늑장 공시' 조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202205300002</link>
-            <guid>https://www.bloter.net/newsView/blt202205300002</guid>
-            <pubDate>Mon, 30 May 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-30 08:56:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성D 'LCD 사업 철수'로 돌아본 韓디스플레이 위기]]></title>
-            <link>https://www.bloter.net/newsView/blt202205280003</link>
-            <guid>https://www.bloter.net/newsView/blt202205280003</guid>
-            <pubDate>Mon, 30 May 2022 09:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-29 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
