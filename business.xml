@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔 팻 겔싱어, 방한해 삼성 이재용과 대담...무슨 이야기 나눴나]]></title>
+            <link>https://www.bloter.net/newsView/blt202205300130</link>
+            <guid>https://www.bloter.net/newsView/blt202205300130</guid>
+            <pubDate>Thu, 02 Jun 2022 01:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-30 18:21:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘반도체 전문가’ 이종호 장관이 그리는 인재 양성…4대 과기원으로 구체화]]></title>
             <link>https://www.bloter.net/newsView/blt202205300083</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 30 May 2022 09:20:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-05-29 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['택시' 왜 안 잡힐까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270104</link>
-            <guid>https://www.bloter.net/newsView/blt202205270104</guid>
-            <pubDate>Mon, 30 May 2022 04:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-05-29 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270028.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

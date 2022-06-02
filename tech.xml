@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 01:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크 "사무실 출근 안 하면 퇴사로 간주"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206020003</link>
+            <guid>https://www.bloter.net/newsView/blt202206020003</guid>
+            <pubDate>Thu, 02 Jun 2022 01:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-02 09:36:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS·더존비즈온은 파견 나간 직원들을 왜 불러들이나]]></title>
             <link>https://www.bloter.net/newsView/blt202206010002</link>
             <guid>https://www.bloter.net/newsView/blt202206010002</guid>
             <pubDate>Wed, 01 Jun 2022 10:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-01 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법 없이도 안전하게…올라케어가 직고용 약 배달 도입한 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-30 18:39:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔 팻 겔싱어, 방한해 삼성 이재용과 대담...무슨 이야기 나눴나]]></title>
-            <link>https://www.bloter.net/newsView/blt202205300130</link>
-            <guid>https://www.bloter.net/newsView/blt202205300130</guid>
-            <pubDate>Mon, 30 May 2022 11:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-05-30 18:21:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
