@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 10:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 11:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5G 주파수 추가 경매 확정됐지만...LG유플러스 ‘쓴웃음’]]></title>
+            <link>https://www.bloter.net/newsView/blt202206020116</link>
+            <guid>https://www.bloter.net/newsView/blt202206020116</guid>
+            <pubDate>Thu, 02 Jun 2022 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-02 19:21:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디아블로 이모탈]②출시 전 사전오픈, 모바일 판도 흔들까]]></title>
             <link>https://www.bloter.net/newsView/blt202206020117</link>
             <guid>https://www.bloter.net/newsView/blt202206020117</guid>
             <pubDate>Thu, 02 Jun 2022 10:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-02 19:19:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['LG유플러스 요청' 5G 주파수 조건 '신규 1.5만국' 어떻게 나왔나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 31 May 2022 08:25:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-05-31 16:42:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[코로나 엑소더스]③제일제당 종합기술원부터 이어진 아이진의 '관록']]></title>
-            <link>https://www.bloter.net/newsView/blt202205300132</link>
-            <guid>https://www.bloter.net/newsView/blt202205300132</guid>
-            <pubDate>Tue, 31 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-05-31 15:21:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/30/blt202205300026.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
