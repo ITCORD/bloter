@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 04:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['재활용 고수' 영풍, '대세 배터리' LFP 리싸이클링에 진출]]></title>
+            <link>https://www.bloter.net/newsView/blt202206020038</link>
+            <guid>https://www.bloter.net/newsView/blt202206020038</guid>
+            <pubDate>Fri, 03 Jun 2022 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-02 14:51:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020011.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대중공업그룹 LNG선, 자율운항 대양횡단 성공 '세계 최초'...'AI로 태평양 건넜다']]></title>
             <link>https://www.bloter.net/newsView/blt202206020019</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 02 Jun 2022 05:30:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-01 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310032.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG에너지솔루션, '중국 덕'에 양극재 내재화...화유코발트·LG '파트너십' 국내로 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202205310008</link>
-            <guid>https://www.bloter.net/newsView/blt202205310008</guid>
-            <pubDate>Thu, 02 Jun 2022 05:30:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-05-31 16:29:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

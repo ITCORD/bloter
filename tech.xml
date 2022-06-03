@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 04:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한컴위드가 '금·주얼리'로 노리는 것…'블록체인' 사업 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030043</link>
+            <guid>https://www.bloter.net/newsView/blt202206030043</guid>
+            <pubDate>Fri, 03 Jun 2022 05:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-03 13:25:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창업 3년차 리벨리온 ‘몸값 3500억’...VC 끌어들인 매력은 ‘이것’]]></title>
             <link>https://www.bloter.net/newsView/blt202206030020</link>
             <guid>https://www.bloter.net/newsView/blt202206030020</guid>
             <pubDate>Fri, 03 Jun 2022 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-06-03 10:37:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, WWDC서 iOS16·맥OS13 공개하나…AR·VR 헤드셋은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Jun 2022 04:03:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-01 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]넷플릭스, '더 테러 라이브' 사단 손 잡나…"대홍수, 편성 논의 중"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205310038</link>
-            <guid>https://www.bloter.net/newsView/blt202205310038</guid>
-            <pubDate>Wed, 01 Jun 2022 01:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-01 09:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310007.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
