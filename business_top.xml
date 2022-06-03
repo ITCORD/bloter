@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 01:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG화학, '니켈 전쟁'에 뛰어들다...中 기업 이어 고려아연 계열사와 합작사 설립]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020053</link>
-            <guid>https://www.bloter.net/newsView/blt202206020053</guid>
-            <pubDate>Thu, 02 Jun 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-02 17:49:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020020.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애플, WWDC서 iOS16·맥OS13 공개하나…AR·VR 헤드셋은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030003</link>
+            <guid>https://www.bloter.net/newsView/blt202206030003</guid>
+            <pubDate>Fri, 03 Jun 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-03 10:09:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030002.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG에너지솔루션, '중국 덕'에 양극재 내재화...화유코발트·LG '파트너십' 국내로 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202205310008</link>
-            <guid>https://www.bloter.net/newsView/blt202205310008</guid>
-            <pubDate>Thu, 02 Jun 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플의 라이트닝 케이블 고집, 소비자 실익은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202205230070</link>
+            <guid>https://www.bloter.net/newsView/blt202205230070</guid>
+            <pubDate>Fri, 03 Jun 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이산화탄소도 '재활용'을?...LG화학, 세계 최고 수준 전기화학 반응기 개발]]></title>
-            <link>https://www.bloter.net/newsView/blt202205090050</link>
-            <guid>https://www.bloter.net/newsView/blt202205090050</guid>
-            <pubDate>Thu, 02 Jun 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[MR헤드셋, 신형 맥 공개? 애플 'WWDC 22' 앞두고 높아진 기대]]></title>
+            <link>https://www.bloter.net/newsView/blt202205250096</link>
+            <guid>https://www.bloter.net/newsView/blt202205250096</guid>
+            <pubDate>Fri, 03 Jun 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG화학, LG엔솔 제외한 실적은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270087</link>
-            <guid>https://www.bloter.net/newsView/blt202204270087</guid>
-            <pubDate>Thu, 02 Jun 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘소문 무성’한 애플판 VR·AR 기기, 출시 임박?…이사회 테스트 진행]]></title>
+            <link>https://www.bloter.net/newsView/blt202205200005</link>
+            <guid>https://www.bloter.net/newsView/blt202205200005</guid>
+            <pubDate>Fri, 03 Jun 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플, iOS 15.5서 어떤 기능 선보이나…'클래식·애플페이 캐시' 관심]]></title>
+            <link>https://www.bloter.net/newsView/blt202205160054</link>
+            <guid>https://www.bloter.net/newsView/blt202205160054</guid>
+            <pubDate>Fri, 03 Jun 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
