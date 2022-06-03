@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 07:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 08:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대리운전연합, 카카오모빌리티 '탁송 콜' 동반위 제재 요청]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030078</link>
+            <guid>https://www.bloter.net/newsView/blt202206030078</guid>
+            <pubDate>Fri, 03 Jun 2022 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-03 17:07:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성바이오에피스, 1.8조원 美 루센티스 시밀러 시장 업계 첫 진출]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030098</link>
+            <guid>https://www.bloter.net/newsView/blt202206030098</guid>
+            <pubDate>Fri, 03 Jun 2022 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-03 16:35:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030025.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이음5G 주파수 할당 간소화된다...LG CNS는 두 번째 확보]]></title>
             <link>https://www.bloter.net/newsView/blt202206030070</link>
             <guid>https://www.bloter.net/newsView/blt202206030070</guid>
             <pubDate>Fri, 03 Jun 2022 06:22:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-03 15:21:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박윤규 과기정통부 신임 2차관은 누구?…거시정책·추진력 강점]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 02 Jun 2022 01:26:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-02 09:36:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDS·더존비즈온은 파견 나간 직원들을 왜 불러들이나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206010002</link>
-            <guid>https://www.bloter.net/newsView/blt202206010002</guid>
-            <pubDate>Wed, 01 Jun 2022 10:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-01 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법 없이도 안전하게…올라케어가 직고용 약 배달 도입한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202206010001</link>
-            <guid>https://www.bloter.net/newsView/blt202206010001</guid>
-            <pubDate>Wed, 01 Jun 2022 10:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-01 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/01/blt202206010001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
