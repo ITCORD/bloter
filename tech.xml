@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 01:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 재택근무와 '전쟁' 선포...인력 구조조정 '엄포'도]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030151</link>
+            <guid>https://www.bloter.net/newsView/blt202206030151</guid>
+            <pubDate>Sat, 04 Jun 2022 03:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-04 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030038.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]텔레콤은 거들 뿐…유영상이 그린 ‘미래지향 SKT’]]></title>
             <link>https://www.bloter.net/newsView/blt202206030135</link>
             <guid>https://www.bloter.net/newsView/blt202206030135</guid>
             <pubDate>Fri, 03 Jun 2022 22:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-04 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대리운전연합, 카카오모빌리티 '탁송 콜' 동반위 제재 요청]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 02 Jun 2022 04:47:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-02 12:43:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SME 주목하는 네이버, 창업 플랫폼 '마이프차' 후속 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020008</link>
-            <guid>https://www.bloter.net/newsView/blt202206020008</guid>
-            <pubDate>Thu, 02 Jun 2022 04:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-02 10:37:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
