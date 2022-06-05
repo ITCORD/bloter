@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 01:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 03:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]마블 새 히어로 '미즈 마블', 디즈니+ 성장 이끌까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030147</link>
+            <guid>https://www.bloter.net/newsView/blt202206030147</guid>
+            <pubDate>Sun, 05 Jun 2022 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA['어벤져스' 이후 솔로 무비로 라인업을 확대했던 마블이 새로운 히어로물로 시장 공략에 나선다. 디즈니는 새로운 마블 히어로 시리즈를 디즈니+에 편성해 OTT 사용층을 확대한다는 계획이다.  이집트 신화→무슬림 히어로로 바톤 터치 디즈니에 따르면 오는 8일]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030031.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[디아블로 이모탈]②출시 전 사전오픈, 모바일 판도 흔들까]]></title>
             <link>https://www.bloter.net/newsView/blt202206020117</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 27 May 2022 03:27:54 GMT</pubDate>
             <content:encoded><![CDATA[위메이드플레이(구 선데이토즈)의 분기 해외 매출 규모가 처음으로 국내 실적을 역전했다. 위메이드에 인수되기 전 선데이토즈 시절에도 위메이드플레이는 '소셜 카지노 게임'의 역량을 키워온 데다, 위메이드플레이로의 사명 변경 후 첫 실적 발표에서 나온 의미]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디아블로 이모탈]①시리즈 최초 모바일 게임, PC 버전도 챙긴다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260066</link>
-            <guid>https://www.bloter.net/newsView/blt202205260066</guid>
-            <pubDate>Thu, 26 May 2022 08:26:02 GMT</pubDate>
-            <content:encoded><![CDATA["여러분은 핸드폰이 없나요?"한 때 디아블로팬들의 공분을 샀던 이 발언은 2018년 11월 열린 블리자드의 게임쇼 블리즈컨에서 비롯됐다. 당시 디아블로 프랜차이즈의 신작 '디아블로IV' 공개를 기다리던 팬들의 바람과는 달리, 블리자드는 모바일 게임 '디아블로 이모]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/26/blt202205260015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
