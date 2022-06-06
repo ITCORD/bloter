@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[B마트 고민거리 '물류센터' 파고든 요마트]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030004</link>
-            <guid>https://www.bloter.net/newsView/blt202206030004</guid>
-            <pubDate>Sun, 05 Jun 2022 01:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-05 09:04:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030003.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[일진머티리얼즈에 '1조 투자한' 스틱인베스트먼트...매각 대응책은]]></title>
+            <link>https://www.bloter.net/newsView/blt202206050001</link>
+            <guid>https://www.bloter.net/newsView/blt202206050001</guid>
+            <pubDate>Mon, 06 Jun 2022 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-06 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/05/blt202206050001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6년간 요기요 기술 책임진 조현준 CTO 퇴임 결정]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170080</link>
-            <guid>https://www.bloter.net/newsView/blt202201170080</guid>
-            <pubDate>Sun, 05 Jun 2022 01:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["동박으로 삼성, SK 도전한다"던 허진규 회장...일진머티리얼즈 매각의 '속사정']]></title>
+            <link>https://www.bloter.net/newsView/blt202205260019</link>
+            <guid>https://www.bloter.net/newsView/blt202205260019</guid>
+            <pubDate>Mon, 06 Jun 2022 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요기요, 직원들에게 매각 위로금 '200%+α' 쏜다]]></title>
-            <link>https://www.bloter.net/newsView/blt202110290132</link>
-            <guid>https://www.bloter.net/newsView/blt202110290132</guid>
-            <pubDate>Sun, 05 Jun 2022 01:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주인 바뀌는 요기요, ‘셰플리’ 떼내고 사명 변경도 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202110050034</link>
-            <guid>https://www.bloter.net/newsView/blt202110050034</guid>
-            <pubDate>Sun, 05 Jun 2022 01:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GS리테일, 요기요 인수 ‘퀵커머스’ 승부수?]]></title>
-            <link>https://www.bloter.net/newsView/blt202107160008</link>
-            <guid>https://www.bloter.net/newsView/blt202107160008</guid>
-            <pubDate>Sun, 05 Jun 2022 01:26:46 GMT</pubDate>
+            <title><![CDATA[일진머티리얼즈, 유럽 동박 가공공장 건설 보류…생산공장 설립 탓?]]></title>
+            <link>https://www.bloter.net/newsView/blt202107120020</link>
+            <guid>https://www.bloter.net/newsView/blt202107120020</guid>
+            <pubDate>Mon, 06 Jun 2022 03:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일진머티리얼즈 등 기대감만 큰 '동박 3사']]></title>
+            <link>https://www.bloter.net/newsView/blt202105060014</link>
+            <guid>https://www.bloter.net/newsView/blt202105060014</guid>
+            <pubDate>Mon, 06 Jun 2022 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
