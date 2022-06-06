@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 03:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 04:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디아블로 이모탈]③상승세 탔지만 웃지 못한다? '그래픽 오류' 변수]]></title>
+            <link>https://www.bloter.net/newsView/blt202206060002</link>
+            <guid>https://www.bloter.net/newsView/blt202206060002</guid>
+            <pubDate>Mon, 06 Jun 2022 04:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-06 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이젠, 우주]‘다누리’ 美 이송 전 공개…우리는 ‘왜, 지금’ 달을 탐사하나]]></title>
             <link>https://www.bloter.net/newsView/blt202206050002</link>
             <guid>https://www.bloter.net/newsView/blt202206050002</guid>
             <pubDate>Mon, 06 Jun 2022 03:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">대전=정두용 기자</span>                        <span class="date">2022-06-06 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/05/blt202206050007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/05/blt202206050007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[친절한B씨]'인앱결제 갈등' 구글은 어쩌다 공공의 적이 됐을까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 02 Jun 2022 10:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-02 19:19:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['LG유플러스 요청' 5G 주파수 조건 '신규 1.5만국' 어떻게 나왔나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020096</link>
-            <guid>https://www.bloter.net/newsView/blt202206020096</guid>
-            <pubDate>Thu, 02 Jun 2022 10:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-02 19:15:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 03:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 04:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디아블로 이모탈]③상승세 탔지만 웃지 못한다? '그래픽 오류' 변수]]></title>
+            <link>https://www.bloter.net/newsView/blt202206060002</link>
+            <guid>https://www.bloter.net/newsView/blt202206060002</guid>
+            <pubDate>Mon, 06 Jun 2022 04:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[블리자드와 넷이즈가 공동 개발한 '디아블로 이모탈'(Diablo Immortal)이 앱마켓 매출 상위권에 안착했다. 글로벌 사전예약자만 3500만명이 넘을 만큼 높은 존재감을 보여주더니, 국내에서만 100만회 이상의 다운로드를 기록하며 매출도 꾸준히 상승하고 있다.6일 오전 기]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]마블 새 히어로 '미즈 마블', 디즈니+ 성장 이끌까]]></title>
             <link>https://www.bloter.net/newsView/blt202206030147</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 27 May 2022 15:26:50 GMT</pubDate>
             <content:encoded><![CDATA['리그 오브 레전드'(LoL) e스포츠 지역 강자 간 최고를 가리는 '미드 시즌 인비테이셔널'(MSI)에서 중국 LPL 소속 '로얄 네버 기브업'(RNG)가 북미 LCS 팀 '이블 지니어스'(EG)를 꺾고 결승에 진출했다. 27일 부산 벡스코에서 열린 'MSI 2022' 4강 첫 경기에서 RNG는 EG를 상대로 세]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드플레이, 해외 매출 추이로 보는 정체성 변화]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260082</link>
-            <guid>https://www.bloter.net/newsView/blt202205260082</guid>
-            <pubDate>Fri, 27 May 2022 03:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드플레이(구 선데이토즈)의 분기 해외 매출 규모가 처음으로 국내 실적을 역전했다. 위메이드에 인수되기 전 선데이토즈 시절에도 위메이드플레이는 '소셜 카지노 게임'의 역량을 키워온 데다, 위메이드플레이로의 사명 변경 후 첫 실적 발표에서 나온 의미]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
