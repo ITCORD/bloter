@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 06:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 07:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두산퓨얼셀, CCU 기술개발 추진...연료전지용 수소 '깨끗하게 쓴다']]></title>
+            <link>https://www.bloter.net/newsView/blt202206040001</link>
+            <guid>https://www.bloter.net/newsView/blt202206040001</guid>
+            <pubDate>Mon, 06 Jun 2022 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-04 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/04/blt202206040001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텔레콤은 거들 뿐…유영상이 그린 ‘미래지향 SKT’]]></title>
             <link>https://www.bloter.net/newsView/blt202206030135</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 03 Jun 2022 22:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-03 10:09:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG화학, '니켈 전쟁'에 뛰어들다...中 기업 이어 고려아연 계열사와 합작사 설립]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020053</link>
-            <guid>https://www.bloter.net/newsView/blt202206020053</guid>
-            <pubDate>Fri, 03 Jun 2022 08:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-02 17:49:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
