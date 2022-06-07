@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블루홀스튜디오 임직원, 크래프톤 주식 받는다…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070087</link>
+            <guid>https://www.bloter.net/newsView/blt202206070087</guid>
+            <pubDate>Tue, 07 Jun 2022 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[크래프톤이 자회사 블루홀스튜디오에 소속된 임직원에게 주식을 나눠주기로 결정했다. 특히 주식 교부 방식이 주식매수청구권(스톡옵션)이 아닌 양도제한 조건부 주식(RSU)이라는 점에서 주목할 만하다.  2.5억 규모 RSU…3년간 계획 7일 블루홀스튜디오는 '특수관]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디아블로 이모탈]③상승세 탔지만 웃지 못한다? '그래픽 오류' 변수]]></title>
             <link>https://www.bloter.net/newsView/blt202206060002</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 28 May 2022 16:27:59 GMT</pubDate>
             <content:encoded><![CDATA[LCK를 대표하는 'T1'이 28일 부산에서 열린 '미드 시즌 인비테이셔널'(MSI)에서 한 차원 높은 경기력을 선보이며 유럽 LEC 팀 'G2 e스포츠'(이하 G2)를 잠재웠다.   최근까지 T1은 G2를 상대로 21전 11승 10패의 상대 전적을 기록하며 막상막하의 경기력을 보였다. 'MSI 2022' 럼블]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280019.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MSI 2022]'부산' 대신 '안방 플레이' 택한 中 'RNG', 결승 진출]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270105</link>
-            <guid>https://www.bloter.net/newsView/blt202205270105</guid>
-            <pubDate>Fri, 27 May 2022 15:26:50 GMT</pubDate>
-            <content:encoded><![CDATA['리그 오브 레전드'(LoL) e스포츠 지역 강자 간 최고를 가리는 '미드 시즌 인비테이셔널'(MSI)에서 중국 LPL 소속 '로얄 네버 기브업'(RNG)가 북미 LCS 팀 '이블 지니어스'(EG)를 꺾고 결승에 진출했다. 27일 부산 벡스코에서 열린 'MSI 2022' 4강 첫 경기에서 RNG는 EG를 상대로 세]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/27/blt202205270030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

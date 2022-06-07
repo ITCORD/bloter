@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북코리아 이끌 김진아 대표는 누구?…중기 사업 총괄한 광고전략 전문가]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070091</link>
+            <guid>https://www.bloter.net/newsView/blt202206070091</guid>
+            <pubDate>Tue, 07 Jun 2022 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-07 17:35:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070041.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블루홀스튜디오 임직원, 크래프톤 주식 받는다…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070087</link>
+            <guid>https://www.bloter.net/newsView/blt202206070087</guid>
+            <pubDate>Tue, 07 Jun 2022 09:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-07 17:29:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070036.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암젠·노바티스가 국내 스타트업 찾는 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202206070039</link>
             <guid>https://www.bloter.net/newsView/blt202206070039</guid>
             <pubDate>Tue, 07 Jun 2022 08:21:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-07 16:50:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070031.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070031.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카카오 유니버스, 생소한 '텍스트 중심' 메타버스]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 05 Jun 2022 01:27:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-05 09:04:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, 재택근무와 '전쟁' 선포...인력 구조조정 '엄포'도]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030151</link>
-            <guid>https://www.bloter.net/newsView/blt202206030151</guid>
-            <pubDate>Sat, 04 Jun 2022 03:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-04 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030038.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]텔레콤은 거들 뿐…유영상이 그린 ‘미래지향 SKT’]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030135</link>
-            <guid>https://www.bloter.net/newsView/blt202206030135</guid>
-            <pubDate>Fri, 03 Jun 2022 22:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-04 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

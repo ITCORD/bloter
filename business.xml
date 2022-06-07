@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['카본 네거티브' 바라보는 네이버, 현재 지표는]]></title>
+            <link>https://www.bloter.net/newsView/blt202206060001</link>
+            <guid>https://www.bloter.net/newsView/blt202206060001</guid>
+            <pubDate>Tue, 07 Jun 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-06 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일진머티리얼즈에 '1조 투자한' 스틱인베스트먼트...매각 대응책은]]></title>
             <link>https://www.bloter.net/newsView/blt202206050001</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 06 Jun 2022 01:26:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-03 17:07:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 제페토, 카카오 닮은 확장 전략 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030062</link>
-            <guid>https://www.bloter.net/newsView/blt202206030062</guid>
-            <pubDate>Sun, 05 Jun 2022 01:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-03 14:49:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030016.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
