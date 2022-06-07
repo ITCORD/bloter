@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 01:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT·AWS는 클라우드 거점을 왜 확장하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070012</link>
+            <guid>https://www.bloter.net/newsView/blt202206070012</guid>
+            <pubDate>Tue, 07 Jun 2022 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-07 11:39:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070024.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버는 어떻게 '유료 구독 서비스'를 키웠나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070009</link>
+            <guid>https://www.bloter.net/newsView/blt202206070009</guid>
+            <pubDate>Tue, 07 Jun 2022 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-07 10:49:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070019.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NASA, 유인 달 탐사 때 쓸 ‘초강력’ 로켓 최종 점검…6월 발사?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070010</link>
+            <guid>https://www.bloter.net/newsView/blt202206070010</guid>
+            <pubDate>Tue, 07 Jun 2022 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-07 10:45:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070018.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[잠금화면 세대 교체 ‘iOS16’, 차세대 ‘카플레이’…애플 최신OS 특징은?]]></title>
             <link>https://www.bloter.net/newsView/blt202206070002</link>
             <guid>https://www.bloter.net/newsView/blt202206070002</guid>
             <pubDate>Mon, 06 Jun 2022 23:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-07 08:01:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 빠르고 오래가는 'M2' 맥북에어·프로 등장...가격도 올랐다]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Fri, 03 Jun 2022 06:22:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-03 15:21:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박윤규 과기정통부 신임 2차관은 누구?…거시정책·추진력 강점]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030067</link>
-            <guid>https://www.bloter.net/newsView/blt202206030067</guid>
-            <pubDate>Fri, 03 Jun 2022 06:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-03 15:20:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]네이버 제페토, 카카오 닮은 확장 전략 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030062</link>
-            <guid>https://www.bloter.net/newsView/blt202206030062</guid>
-            <pubDate>Fri, 03 Jun 2022 06:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-03 14:49:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한컴위드가 '금·주얼리'로 노리는 것…'블록체인' 사업 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030043</link>
-            <guid>https://www.bloter.net/newsView/blt202206030043</guid>
-            <pubDate>Fri, 03 Jun 2022 05:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-03 13:25:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
