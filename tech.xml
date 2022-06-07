@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 05:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 06:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차 '전기차 충전'도 테스트→시장 출시 가능해진다…'정보통신법 개정안' 국무회의 의결]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070028</link>
+            <guid>https://www.bloter.net/newsView/blt202206070028</guid>
+            <pubDate>Tue, 07 Jun 2022 06:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-07 14:58:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT·AWS는 클라우드 거점을 왜 확장하나]]></title>
             <link>https://www.bloter.net/newsView/blt202206070012</link>
             <guid>https://www.bloter.net/newsView/blt202206070012</guid>
             <pubDate>Tue, 07 Jun 2022 03:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-07 11:39:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버는 어떻게 '유료 구독 서비스'를 키웠나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 03 Jun 2022 08:20:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-03 16:35:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이음5G 주파수 할당 간소화된다...LG CNS는 두 번째 확보]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030070</link>
-            <guid>https://www.bloter.net/newsView/blt202206030070</guid>
-            <pubDate>Fri, 03 Jun 2022 06:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-03 15:21:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
