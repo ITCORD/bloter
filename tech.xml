@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 우주 기업이 ‘돈’ 벌 수 있는 개정안 국무회의 의결]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070098</link>
+            <guid>https://www.bloter.net/newsView/blt202206070098</guid>
+            <pubDate>Tue, 07 Jun 2022 10:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-07 18:23:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]열흘 만에 110만뷰 기록한 숏폼 애니…알고보니?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070099</link>
+            <guid>https://www.bloter.net/newsView/blt202206070099</guid>
+            <pubDate>Tue, 07 Jun 2022 10:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-07 18:21:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070045.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페이스북코리아 이끌 김진아 대표는 누구?…중기 사업 총괄한 광고전략 전문가]]></title>
             <link>https://www.bloter.net/newsView/blt202206070091</link>
             <guid>https://www.bloter.net/newsView/blt202206070091</guid>
             <pubDate>Tue, 07 Jun 2022 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-07 17:35:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070041.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070041.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블루홀스튜디오 임직원, 크래프톤 주식 받는다…왜?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 05 Jun 2022 06:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-05 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]마블 새 히어로 '미즈 마블', 디즈니+ 성장 이끌까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030147</link>
-            <guid>https://www.bloter.net/newsView/blt202206030147</guid>
-            <pubDate>Sun, 05 Jun 2022 03:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-05 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030031.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]B마트 고민거리 '물류센터' 파고든 요마트]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030004</link>
-            <guid>https://www.bloter.net/newsView/blt202206030004</guid>
-            <pubDate>Sun, 05 Jun 2022 01:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-05 09:04:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]열흘 만에 110만뷰 기록한 숏폼 애니…알고보니?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070099</link>
+            <guid>https://www.bloter.net/newsView/blt202206070099</guid>
+            <pubDate>Tue, 07 Jun 2022 10:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 27일 공개된 로봇 레이싱 애니메이션 'Dead Or Arrive'이 공개 열흘 만에 110만뷰를 돌파했다. 11분 남짓한 분량의 숏폼 애니메이션은 어떻게 빠른 시간 내 100만뷰를 넘어섰을까. 어떤 내용이길래 Dead Or Arrive는 '레이서의 심장이 결승선을 통과하면 우승'이라는 룰]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070045.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블루홀스튜디오 임직원, 크래프톤 주식 받는다…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202206070087</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 29 May 2022 03:29:09 GMT</pubDate>
             <content:encoded><![CDATA["수많은 관중의 응원과 함성을 못 듣는 것은 불리하다고 생각합니다"LCK 팀 T1의 '구마유시' 이민형 선수는 지난 28일 진행한 '미드 시즌 인비테이셔널'(MSI) 녹아웃 스테이지에서 승리한 후 가진 인터뷰에서 이같이 말했다.   해당 인터뷰에서 한 매체는 "(결승전은)두]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MSI 2022]클래스는 영원하다…T1, 한 수 아래 G2 제대로 눌렀다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205280007</link>
-            <guid>https://www.bloter.net/newsView/blt202205280007</guid>
-            <pubDate>Sat, 28 May 2022 16:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[LCK를 대표하는 'T1'이 28일 부산에서 열린 '미드 시즌 인비테이셔널'(MSI)에서 한 차원 높은 경기력을 선보이며 유럽 LEC 팀 'G2 e스포츠'(이하 G2)를 잠재웠다.   최근까지 T1은 G2를 상대로 21전 11승 10패의 상대 전적을 기록하며 막상막하의 경기력을 보였다. 'MSI 2022' 럼블]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280019.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
