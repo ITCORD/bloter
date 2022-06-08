@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 10:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 연구진, 선천·적응 지닌 완전히 새로운 면역세포 발견…“통념 깼다”]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080118</link>
+            <guid>https://www.bloter.net/newsView/blt202206080118</guid>
+            <pubDate>Wed, 08 Jun 2022 10:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-08 18:23:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080040.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오프렌즈 골프, 어패럴에 '라이언' 뺀 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080117</link>
+            <guid>https://www.bloter.net/newsView/blt202206080117</guid>
+            <pubDate>Wed, 08 Jun 2022 10:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-08 17:57:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080035.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘제2 반도체’ 노리는 삼성바이오로직스, 대규모 투자에 수주로 화답]]></title>
             <link>https://www.bloter.net/newsView/blt202206080075</link>
             <guid>https://www.bloter.net/newsView/blt202206080075</guid>
             <pubDate>Wed, 08 Jun 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-08 17:08:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 S22울트라, GOS 이슈 속 삼성 구한 효자폰]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 07 Jun 2022 03:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-07 10:49:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070019.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA, 유인 달 탐사 때 쓸 ‘초강력’ 로켓 최종 점검…6월 발사?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070010</link>
-            <guid>https://www.bloter.net/newsView/blt202206070010</guid>
-            <pubDate>Tue, 07 Jun 2022 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-07 10:45:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070018.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠금화면 세대 교체 ‘iOS16’, 차세대 ‘카플레이’…애플 최신OS 특징은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070002</link>
-            <guid>https://www.bloter.net/newsView/blt202206070002</guid>
-            <pubDate>Mon, 06 Jun 2022 23:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-07 08:01:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
