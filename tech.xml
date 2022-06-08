@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 06:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배민 '자율주행 배달로봇', 강남 한복판 달린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080039</link>
+            <guid>https://www.bloter.net/newsView/blt202206080039</guid>
+            <pubDate>Wed, 08 Jun 2022 06:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-08 15:12:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["디지털 인재, 5년간 100만명 부족" 업계 절규…고민 커지는 이종호 과기정통부 장관]]></title>
             <link>https://www.bloter.net/newsView/blt202206080019</link>
             <guid>https://www.bloter.net/newsView/blt202206080019</guid>
             <pubDate>Wed, 08 Jun 2022 05:17:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-08 14:15:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["로봇 언제 파냐고요?"...네이버는 'ARC'를 판다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 06 Jun 2022 08:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-06 17:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030036.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ESG 해부]'카본 네거티브' 바라보는 네이버, 현재 지표는]]></title>
-            <link>https://www.bloter.net/newsView/blt202206060001</link>
-            <guid>https://www.bloter.net/newsView/blt202206060001</guid>
-            <pubDate>Mon, 06 Jun 2022 06:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-06 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060004.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
