@@ -4,23 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[반도건설, 태화강 조망 4만 유동인구 품은 주상복합타운 분양]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080040</link>
-            <guid>https://www.bloter.net/newsView/blt202206080040</guid>
-            <pubDate>Wed, 08 Jun 2022 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-08 15:59:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080022.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG전자·LG화학, 고객가치 경영 집중해 "일냈다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080052</link>
+            <guid>https://www.bloter.net/newsView/blt202206080052</guid>
+            <pubDate>Wed, 08 Jun 2022 08:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-08 16:42:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080023.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반도건설, 내포신도시 '반도유보라 마크에디션' 분양]]></title>
-            <link>https://www.bloter.net/newsView/blt202111300051</link>
-            <guid>https://www.bloter.net/newsView/blt202111300051</guid>
-            <pubDate>Wed, 08 Jun 2022 07:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자, '올레드 TV' 판가 19% 하락...현금흐름에 부정적 영향 미칠 듯]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240013</link>
+            <guid>https://www.bloter.net/newsView/blt202205240013</guid>
+            <pubDate>Wed, 08 Jun 2022 08:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050005</link>
+            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
+            <pubDate>Wed, 08 Jun 2022 08:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

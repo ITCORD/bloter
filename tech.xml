@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘제2 반도체’ 노리는 삼성바이오로직스, 대규모 투자에 수주로 화답]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080075</link>
+            <guid>https://www.bloter.net/newsView/blt202206080075</guid>
+            <pubDate>Wed, 08 Jun 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-08 17:08:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갤럭시 S22울트라, GOS 이슈 속 삼성 구한 효자폰]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080076</link>
+            <guid>https://www.bloter.net/newsView/blt202206080076</guid>
+            <pubDate>Wed, 08 Jun 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-08 17:05:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080032.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배민 '자율주행 배달로봇', 강남 한복판 달린다]]></title>
             <link>https://www.bloter.net/newsView/blt202206080039</link>
             <guid>https://www.bloter.net/newsView/blt202206080039</guid>
             <pubDate>Wed, 08 Jun 2022 06:21:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-08 15:12:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["디지털 인재, 5년간 100만명 부족" 업계 절규…고민 커지는 이종호 과기정통부 장관]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 06 Jun 2022 23:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-07 08:01:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 빠르고 오래가는 'M2' 맥북에어·프로 등장...가격도 올랐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070001</link>
-            <guid>https://www.bloter.net/newsView/blt202206070001</guid>
-            <pubDate>Mon, 06 Jun 2022 21:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-07 05:25:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열표 '제약바이오혁신위', '강력한 권한' 필요]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030150</link>
-            <guid>https://www.bloter.net/newsView/blt202206030150</guid>
-            <pubDate>Mon, 06 Jun 2022 08:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-06 17:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030036.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
