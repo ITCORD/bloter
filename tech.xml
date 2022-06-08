@@ -4,16 +4,48 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 04:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 05:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["디지털 인재, 5년간 100만명 부족" 업계 절규…고민 커지는 이종호 과기정통부 장관]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080019</link>
+            <guid>https://www.bloter.net/newsView/blt202206080019</guid>
+            <pubDate>Wed, 08 Jun 2022 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-08 14:15:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["로봇 언제 파냐고요?"...네이버는 'ARC'를 판다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080015</link>
+            <guid>https://www.bloter.net/newsView/blt202206080015</guid>
+            <pubDate>Wed, 08 Jun 2022 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-08 13:26:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080009.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플이 선보인 후불결제, '핀테크' 기업에 직격탄 전망]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080010</link>
+            <guid>https://www.bloter.net/newsView/blt202206080010</guid>
+            <pubDate>Wed, 08 Jun 2022 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-08 11:48:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKB, 국가융합망에 세계 최초 양자암호 기술 적용…해킹 불가 인프라 완성]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080005</link>
+            <guid>https://www.bloter.net/newsView/blt202206080005</guid>
+            <pubDate>Wed, 08 Jun 2022 05:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-08 11:19:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 우주 기업이 ‘돈’ 벌 수 있는 개정안 국무회의 의결]]></title>
             <link>https://www.bloter.net/newsView/blt202206070098</link>
             <guid>https://www.bloter.net/newsView/blt202206070098</guid>
             <pubDate>Tue, 07 Jun 2022 10:24:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-07 18:23:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070044.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]열흘 만에 110만뷰 기록한 숏폼 애니…알고보니?]]></title>
@@ -118,38 +150,6 @@
             <pubDate>Mon, 06 Jun 2022 06:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-06 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[함께 쓰는 풀리퀘]기계도, 사람도 읽을 수 있는 문서는?①]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030152</link>
-            <guid>https://www.bloter.net/newsView/blt202206030152</guid>
-            <pubDate>Mon, 06 Jun 2022 05:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-06 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030039.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디아블로 이모탈]③상승세 탔지만 웃지 못한다? '그래픽 오류' 변수]]></title>
-            <link>https://www.bloter.net/newsView/blt202206060002</link>
-            <guid>https://www.bloter.net/newsView/blt202206060002</guid>
-            <pubDate>Mon, 06 Jun 2022 04:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-06 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이젠, 우주]‘다누리’ 美 이송 전 공개…우리는 ‘왜, 지금’ 달을 탐사하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206050002</link>
-            <guid>https://www.bloter.net/newsView/blt202206050002</guid>
-            <pubDate>Mon, 06 Jun 2022 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">대전=정두용 기자</span>                        <span class="date">2022-06-06 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/05/blt202206050007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한B씨]'인앱결제 갈등' 구글은 어쩌다 공공의 적이 됐을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030149</link>
-            <guid>https://www.bloter.net/newsView/blt202206030149</guid>
-            <pubDate>Sun, 05 Jun 2022 06:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-05 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030034.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
