@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 08:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악으로 돈 버는 서비스 M2E, 위메이드·BORA도 반했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206090069</link>
+            <guid>https://www.bloter.net/newsView/blt202206090069</guid>
+            <pubDate>Thu, 09 Jun 2022 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드와 카카오게임즈 BORA가 음악으로 돈 버는 서비스(뮤직 투 언·M2E) 플랫폼인 '케이든버스'에 전략적 투자를 단행했다.  케이든버스는 베트남의 대형 게임 기업이자 전세계 1위 음악게임 퍼블리셔인 아마노츠(Amanotes)에서 스핀오프 형태로 개발 중인 M2E 플]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090016.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임인사이드]'아이들 루카', C2X 생태계 합류…P2O 라인업 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202206090085</link>
+            <guid>https://www.bloter.net/newsView/blt202206090085</guid>
+            <pubDate>Thu, 09 Jun 2022 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090029.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오프렌즈 골프, 어패럴에 '라이언' 뺀 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202206080117</link>
@@ -86,22 +102,6 @@
             <pubDate>Sun, 29 May 2022 15:21:33 GMT</pubDate>
             <content:encoded><![CDATA['미드 시즌 인비테이셔널'(MSI) 결승에 오른 LCK 팀 'T1'이 명경기를 펼쳤지만, 아쉽게 우승컵을 들어올리진 못했다. LPL 팀 '로얄 네버 기브업'(RNG)에게 세트스코어 2대2까지 따라가며 마지막 5세트까지 가는 접전을 이어갔지만, 전략적 움직임에 변수가 생기면서 준우승]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MSI 2022]T1 vs RNG, '밴픽'이 승부수…세트스코어 원점으로]]></title>
-            <link>https://www.bloter.net/newsView/blt202205290002</link>
-            <guid>https://www.bloter.net/newsView/blt202205290002</guid>
-            <pubDate>Sun, 29 May 2022 10:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[1세트에서 돌격 진형 픽에 당했던 'T1'이 2세트를 맞아 'RNG'에 완벽한 승리를 거두며 '미드 시즌 인비테이셔널'(MSI) 우승에 한 발 다가섰다.  29일 열린 MSI 2022 결승에서 T1은 △갱플랭크 △오공 △리산드라 △징크스 △탐 켄치를 픽하며 아리·자야를 고른 RNG에 맞섰]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['같은 듯 다른' 플레이링스-플라이셔…'완전체' 시너지는 어떤 모습일까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202205280005</link>
-            <guid>https://www.bloter.net/newsView/blt202205280005</guid>
-            <pubDate>Sun, 29 May 2022 08:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드플레이의 자회사 플레이링스와 플라이셔가 오는 7월 1일부로 합병된다. 웹보드 및 페이스북 소셜 카지노 게임사 '플레이링스'와 소셜 카지노 게임사 '플라이셔'의 만남이다. 두 게임사는 '소셜 카지노'라는 장르에서 공통점을 가지고 있지만, 상이한 부분도]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/28/blt202205280013.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
