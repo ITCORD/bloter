@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 10:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LCK 서머에 온 '변화'…최대 흥행 기록 이끌 요인은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206090156</link>
+            <guid>https://www.bloter.net/newsView/blt202206090156</guid>
+            <pubDate>Thu, 09 Jun 2022 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-09 19:42:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지방 발전 vs 산업 육성…의료기기 교육센터 '수도권 유치' 갑론을박]]></title>
             <link>https://www.bloter.net/newsView/blt202206090131</link>
             <guid>https://www.bloter.net/newsView/blt202206090131</guid>
             <pubDate>Thu, 09 Jun 2022 09:19:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-09 17:38:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090032.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버제트, 2달 전 설립된 회사 지분 '주당 40만원'에 사들인 배경은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 08 Jun 2022 10:25:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-08 17:57:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘제2 반도체’ 노리는 삼성바이오로직스, 대규모 투자에 수주로 화답]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080075</link>
-            <guid>https://www.bloter.net/newsView/blt202206080075</guid>
-            <pubDate>Wed, 08 Jun 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-08 17:08:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

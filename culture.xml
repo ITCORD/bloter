@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 10:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LCK 서머에 온 '변화'…최대 흥행 기록 이끌 요인은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206090156</link>
+            <guid>https://www.bloter.net/newsView/blt202206090156</guid>
+            <pubDate>Thu, 09 Jun 2022 11:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[오는 15일 2022 리그 오브 레전드 챔피언스 코리아(LCK) 서머가 개막하는 가운데, 이번 시즌에서 최대 흥행 기록을 세울 수 있을지 주목된다. 코로나19 여파로 팬들을 수용하지 못했던 롤파크가 전면 개방되는 데다 '너구리' 선수의 복귀로 우승 후보로 꼽힌 '담원 기아'(]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090033.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악으로 돈 버는 서비스 M2E, 위메이드·BORA도 반했다]]></title>
             <link>https://www.bloter.net/newsView/blt202206090069</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Jun 2022 01:47:01 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 영화 '더 테러 라이브'를 만들었던 제작진과 의기투합할 가능성을 내비쳤다.1일 &lt;블로터&gt; 취재 결과, 넷플릭스가 영화 '대홍수'의 오리지널 편성 여부를 논의하고 있다. 대홍수는 영화 '더 테러 라이브'를 연출한 김병우 감독과 프로듀싱에 참여했던]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310007.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MSI 2022]졌지만 잘 싸운 T1, 우승컵 다음 기회에]]></title>
-            <link>https://www.bloter.net/newsView/blt202205290003</link>
-            <guid>https://www.bloter.net/newsView/blt202205290003</guid>
-            <pubDate>Sun, 29 May 2022 15:21:33 GMT</pubDate>
-            <content:encoded><![CDATA['미드 시즌 인비테이셔널'(MSI) 결승에 오른 LCK 팀 'T1'이 명경기를 펼쳤지만, 아쉽게 우승컵을 들어올리진 못했다. LPL 팀 '로얄 네버 기브업'(RNG)에게 세트스코어 2대2까지 따라가며 마지막 5세트까지 가는 접전을 이어갔지만, 전략적 움직임에 변수가 생기면서 준우승]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/29/blt202205290005.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
