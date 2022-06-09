@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도건설, 태화강 조망 '4만 유동인구' 품은 주상복합타운 분양]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080040</link>
+            <guid>https://www.bloter.net/newsView/blt202206080040</guid>
+            <pubDate>Thu, 09 Jun 2022 03:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-08 15:59:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일진머티리얼즈 인수전...'캡티브 마켓' 확실한 LG·SK 움직일까]]></title>
             <link>https://www.bloter.net/newsView/blt202206080012</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 08 Jun 2022 06:21:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-07 16:23:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070026.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 급속히 늘어나는 '위험가중자산'…경제위기 걱정 없나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070006</link>
-            <guid>https://www.bloter.net/newsView/blt202206070006</guid>
-            <pubDate>Wed, 08 Jun 2022 06:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-07 10:04:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070014.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

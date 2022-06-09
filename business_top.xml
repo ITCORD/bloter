@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘출근 불발’ 강석훈 신임 산업은행장, 대우조선·KDB생명까지 "갈길 구만리"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080120</link>
-            <guid>https://www.bloter.net/newsView/blt202206080120</guid>
-            <pubDate>Wed, 08 Jun 2022 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-08 19:22:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080041.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG, 3년 간 1500억원 들여 스타트업 지원한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206090030</link>
+            <guid>https://www.bloter.net/newsView/blt202206090030</guid>
+            <pubDate>Thu, 09 Jun 2022 03:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 11:41:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090004.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[③산업은행·현대중공업, 대우조선 정상화의 '싹을 잘랐다']]></title>
-            <link>https://www.bloter.net/newsView/blt202201190011</link>
-            <guid>https://www.bloter.net/newsView/blt202201190011</guid>
-            <pubDate>Wed, 08 Jun 2022 11:14:03 GMT</pubDate>
+            <title><![CDATA[암젠·노바티스가 국내 스타트업 찾는 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070039</link>
+            <guid>https://www.bloter.net/newsView/blt202206070039</guid>
+            <pubDate>Thu, 09 Jun 2022 03:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["요즘 테크 스타트업 '인재'가 원하는 건 '재택근무'죠"]]></title>
+            <link>https://www.bloter.net/newsView/blt202205310004</link>
+            <guid>https://www.bloter.net/newsView/blt202205310004</guid>
+            <pubDate>Thu, 09 Jun 2022 03:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['만년 저평가' LG, 자사주 5000억 매입...배당 환원 한도 없애기로]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270082</link>
+            <guid>https://www.bloter.net/newsView/blt202205270082</guid>
+            <pubDate>Thu, 09 Jun 2022 03:24:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[②대우조선 인수 실패 '일장일단'은?...현대중공업 IPO로 1조 조달]]></title>
-            <link>https://www.bloter.net/newsView/blt202201170015</link>
-            <guid>https://www.bloter.net/newsView/blt202201170015</guid>
-            <pubDate>Wed, 08 Jun 2022 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[①현대중공업그룹, 대우조선 '딜브레이크' 택한 현실적 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202201140028</link>
-            <guid>https://www.bloter.net/newsView/blt202201140028</guid>
-            <pubDate>Wed, 08 Jun 2022 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[산업은행, 스타트업에 ‘데이터 담보’ 금융 지원]]></title>
-            <link>https://www.bloter.net/newsView/blt202107060015</link>
-            <guid>https://www.bloter.net/newsView/blt202107060015</guid>
-            <pubDate>Wed, 08 Jun 2022 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박유진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
