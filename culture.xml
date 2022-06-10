@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['취향' 정체성 구축…'팔방미인' 최재화 번개장터 신임 대표 과제는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100211</link>
+            <guid>https://www.bloter.net/newsView/blt202206100211</guid>
+            <pubDate>Fri, 10 Jun 2022 11:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[중고거래 애플리케이션(앱) 기업 '번개장터'가 최재화 최고운영책임자(COO)를 신임 대표이사로 선임했다. 2020년 3월 마케팅 총괄(CMO)로 번개장터에 합류한 지 2년 만으로, 향후 '리커머스'(Re-commerce) 테크 선도 기업으로 도약하겠다는 목표다.  변화보다는 고도화, '취향]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100031.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ ENM, 중동 시장 정조준…사우디 문화부 맞손]]></title>
             <link>https://www.bloter.net/newsView/blt202206100195</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Jun 2022 07:19:51 GMT</pubDate>
             <content:encoded><![CDATA[이랜드월드가 슈즈 SPA(기획・생산・유통을 모두 담당하는) 브랜드 '슈펜' 사업을 품고 그룹사의 사업부문별 전문화 전략에 드라이브를 걸고 있다. 이랜드 그룹사 패션 브랜드가 한 곳에 모이고 있는 것은 '사업 포트폴리오 조정' 계획의 일환으로, 이랜드월드는 그]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020012.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['우마무스메', 카카오게임즈 모바일 하락세 막을 '구원투수'될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205310069</link>
-            <guid>https://www.bloter.net/newsView/blt202205310069</guid>
-            <pubDate>Wed, 01 Jun 2022 08:28:05 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈가 올해 기대작으로 꼽았던 모바일 게임 신작 '우마무스메: 프리티 더비'(이하 우마무스메)의 정식 출시 일정을 확정했다. 카카오게임즈의 연 매출을 두 배 이상, 1조 이상으로 이끈 모바일 게임 '오딘: 발할라 라이징' 출시 약 1년 만이다. 특히 카카오게]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310011.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
