@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 23:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 01:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美, 테슬라 '오토파일럿' 조사 강화...리콜 직전 단계]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100005</link>
+            <guid>https://www.bloter.net/newsView/blt202206100005</guid>
+            <pubDate>Fri, 10 Jun 2022 01:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-10 10:17:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LCK 서머에 온 '변화'…최대 흥행 기록 이끌 요인은?]]></title>
             <link>https://www.bloter.net/newsView/blt202206090156</link>
             <guid>https://www.bloter.net/newsView/blt202206090156</guid>
             <pubDate>Thu, 09 Jun 2022 11:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-09 19:42:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090033.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지방 발전 vs 산업 육성…의료기기 교육센터 '수도권 유치' 갑론을박]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 08 Jun 2022 10:25:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-08 18:23:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080040.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오프렌즈 골프, 어패럴에 '라이언' 뺀 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080117</link>
-            <guid>https://www.bloter.net/newsView/blt202206080117</guid>
-            <pubDate>Wed, 08 Jun 2022 10:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-08 17:57:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

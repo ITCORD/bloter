@@ -4,30 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 23:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 01:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[네이버제트, 2달 전 설립된 회사 지분 '주당 40만원'에 사들인 배경은]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090093</link>
-            <guid>https://www.bloter.net/newsView/blt202206090093</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 17:21:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030016.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[美, 테슬라 '오토파일럿' 조사 강화...리콜 직전 단계]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100005</link>
+            <guid>https://www.bloter.net/newsView/blt202206100005</guid>
+            <pubDate>Fri, 10 Jun 2022 01:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-10 10:17:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이버 제페토, 카카오 닮은 확장 전략 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030062</link>
-            <guid>https://www.bloter.net/newsView/blt202206030062</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[일론 머스크, 트위터 인수 가격 삭감 제안..."테슬라 주식 담보 대출 없다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202205260004</link>
+            <guid>https://www.bloter.net/newsView/blt202205260004</guid>
+            <pubDate>Fri, 10 Jun 2022 01:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[본격적인 미션 돌입, 네이버 제페토 '하나부터 열까지' ②]]></title>
-            <link>https://www.bloter.net/newsView/blt202104240001</link>
-            <guid>https://www.bloter.net/newsView/blt202104240001</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김주리</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라가 'S&P ESG 지수'에서 퇴출된 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202205190004</link>
+            <guid>https://www.bloter.net/newsView/blt202205190004</guid>
+            <pubDate>Fri, 10 Jun 2022 01:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["테슬라 잡아라"…글로벌 전기차 경쟁, '플랫폼·인프라'로 확전]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100024</link>
+            <guid>https://www.bloter.net/newsView/blt202205100024</guid>
+            <pubDate>Fri, 10 Jun 2022 01:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
