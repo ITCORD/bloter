@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실명퇴치운동본부, 휴먼스케이프와 실명 유전자 찾기 연구비 지원 나서]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100015</link>
+            <guid>https://www.bloter.net/newsView/blt202206100015</guid>
+            <pubDate>Fri, 10 Jun 2022 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-10 11:58:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美, 테슬라 '오토파일럿' 조사 강화...리콜 직전 단계]]></title>
             <link>https://www.bloter.net/newsView/blt202206100005</link>
             <guid>https://www.bloter.net/newsView/blt202206100005</guid>
             <pubDate>Fri, 10 Jun 2022 01:23:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-10 10:17:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LCK 서머에 온 '변화'…최대 흥행 기록 이끌 요인은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 09 Jun 2022 01:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 09:19:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 연구진, 선천·적응 지닌 완전히 새로운 면역세포 발견…“통념 깼다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080118</link>
-            <guid>https://www.bloter.net/newsView/blt202206080118</guid>
-            <pubDate>Wed, 08 Jun 2022 10:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-08 18:23:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080040.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
