@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 10:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ ENM, 중동 시장 정조준…사우디 문화부 맞손]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100195</link>
+            <guid>https://www.bloter.net/newsView/blt202206100195</guid>
+            <pubDate>Fri, 10 Jun 2022 10:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM이 사우디아라비아(이하 사우디) 문화부와 문화적 교류 및 협업을 강화하는 업무협약(MOU)을 체결했다. 협약 체결은 CJ ENM센터를 방문한 하메드 빈 모함마드 파예즈 사우디 문화부 차관과 강호성 CJ ENM 대표가 참석한 가운데 진행됐다.  이번 협약에 따라 CJ ENM과]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100028.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LCK 서머에 온 '변화'…최대 흥행 기록 이끌 요인은?]]></title>
             <link>https://www.bloter.net/newsView/blt202206090156</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Jun 2022 08:28:05 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈가 올해 기대작으로 꼽았던 모바일 게임 신작 '우마무스메: 프리티 더비'(이하 우마무스메)의 정식 출시 일정을 확정했다. 카카오게임즈의 연 매출을 두 배 이상, 1조 이상으로 이끈 모바일 게임 '오딘: 발할라 라이징' 출시 약 1년 만이다. 특히 카카오게]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310011.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]넷플릭스, '더 테러 라이브' 사단 손 잡나…"대홍수, 편성 논의 중"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205310038</link>
-            <guid>https://www.bloter.net/newsView/blt202205310038</guid>
-            <pubDate>Wed, 01 Jun 2022 01:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 영화 '더 테러 라이브'를 만들었던 제작진과 의기투합할 가능성을 내비쳤다.1일 &lt;블로터&gt; 취재 결과, 넷플릭스가 영화 '대홍수'의 오리지널 편성 여부를 논의하고 있다. 대홍수는 영화 '더 테러 라이브'를 연출한 김병우 감독과 프로듀싱에 참여했던]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/05/31/blt202205310007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
