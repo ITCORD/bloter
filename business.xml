@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티 '시너지'와 '문어발' 사이]]></title>
+            <link>https://www.bloter.net/newsView/blt202206090071</link>
+            <guid>https://www.bloter.net/newsView/blt202206090071</guid>
+            <pubDate>Fri, 10 Jun 2022 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 17:13:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090018.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대제철, EV에 적합 감속기 기어용 합금강 개발...기존 제품 대비 내구성 2배]]></title>
             <link>https://www.bloter.net/newsView/blt202206090070</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 09 Jun 2022 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-08 18:11:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080037.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG전자·LG화학, 고객가치 경영 집중해 "일냈다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080052</link>
-            <guid>https://www.bloter.net/newsView/blt202206080052</guid>
-            <pubDate>Thu, 09 Jun 2022 05:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-08 16:42:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080023.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

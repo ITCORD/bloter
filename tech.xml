@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 원스톱 서비스, 팍스로비드에 날개 달까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100036</link>
+            <guid>https://www.bloter.net/newsView/blt202206100036</guid>
+            <pubDate>Fri, 10 Jun 2022 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-10 14:51:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["SKB에 망 이용대가 줄 수 없다는 넷플릭스, 이율배반"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100023</link>
+            <guid>https://www.bloter.net/newsView/blt202206100023</guid>
+            <pubDate>Fri, 10 Jun 2022 06:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-10 14:38:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100008.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[실명퇴치운동본부, 휴먼스케이프와 실명 유전자 찾기 연구비 지원 나서]]></title>
             <link>https://www.bloter.net/newsView/blt202206100015</link>
             <guid>https://www.bloter.net/newsView/blt202206100015</guid>
             <pubDate>Fri, 10 Jun 2022 03:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-10 11:58:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美, 테슬라 '오토파일럿' 조사 강화...리콜 직전 단계]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 09 Jun 2022 03:25:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 11:41:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴리 고소한 내부고발자 "제조문제 지적하고 해고됐다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090013</link>
-            <guid>https://www.bloter.net/newsView/blt202206090013</guid>
-            <pubDate>Thu, 09 Jun 2022 01:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-09 10:13:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오 의사 결정, 직원 평가는 '극과 극']]></title>
-            <link>https://www.bloter.net/newsView/blt202206090001</link>
-            <guid>https://www.bloter.net/newsView/blt202206090001</guid>
-            <pubDate>Thu, 09 Jun 2022 01:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 09:19:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
