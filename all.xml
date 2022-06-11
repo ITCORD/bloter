@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 17:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 18:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,19 @@ iOS16에 도입될 예정인 후불결제 서비스 '애플 페이 레이터'. (
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080002.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성바이오에피스 '루센티스 바이오시밀러', 국내외 환자 모두 '동등성 입증' (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100213</link>
+            <guid>https://www.bloter.net/newsView/blt202206100213</guid>
+            <pubDate>Sat, 11 Jun 2022 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[삼성바이오에피스(대표이사 고한승 사장, 이하 에피스)가 개발한 황반변성 치료제 ‘루센티스(성분명 라니비주맙) 바이오시밀러 국내외 환자 투약 결과 오리지널과 동등하다는 연구가 발표됐다.
+
+인천광역시 연수구(송도)에 위치한 삼성바이오에피스 신사옥 전경.(사진=삼성바이오에피스)
+
+
+삼성바이오에피스는 11일 온라인으로 개최된 '2022 한국망막학회 (The Korean Retina Society, KRS) 하계학술대회'에서 SB11(에피스가 개발한 루센티스 바이오시밀러) 임상 3상 결과를 발표했다. 회사는 습성 연령관련 황반변성(nAMD: Neovascular age-related macular degeneration) 환자들을 대상으로 한 글로벌 임상3상을 통해 SB11과 오리지널 의약품 간의 비교 연구를 진행했다.이번 학술대회에서 SB11 임상에 책임연구자로 참여한 분당서울대병원 우세준 안과 교수는 국내를 포함, 임상 시험에 참여한 705명 중 52주 동안 처방을 지속한 환자 634명의 데이터를 발표했다. 우 교수가 제시한 자료에 따르면 1차 유효성 평가 지표(primary endpoint)로서 의약품 처방 후 8주간의 최대 교정시력(BCVA: Best corrected visual acuity)과 4주간의 황반 중심부 두께(CST: Central subfield thickness) 모두 사전에 수립한 동등성 범위를 충족했다. 또한, 2차 유효성 평가 지표(secondary endpoint)로서 의약품 처방 후 52주까지의 BCVA과 CST의 변화량에서도 두 군 간의 차이가 없었으며 안전성, 약동학적 특성, 면역원성이 동등한 것으로 나타났다.쉽게 말하면 SB11를 투여한 환자군은 투여 후 단기적 효과와 장기적 효과 모두 루센티스와 똑같다는 의미다.우 교수는 “임상 시험 결과 SB11과 오리지널 의약품 간의 약효, 안전성, 면역원성, 약동학에 있어서 동등함을 확인했으며 이를 바탕으로 미국과 유럽 등에서 승인을 받을 수 있었다”고 설명했다.현재 SB11은 미국과 유럽, 국내서 품목 허가를 받은 상태다. 루센티스의 글로벌 연 매출 규모는 작년 기준 약 4조4000억원으로 SB11의 국내 판매사는 아직 정해지지 않았다. 에피스 관계자는 “이번 발표를 통해 국내에서도 SB11의 효능과 안전성을 알릴 수 있는 계기가 됐으며, 보다 많은 환자들에게 치료 혜택을 제공할 수 있을 것으로 기대한다”고 전했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100033.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LGU+ 'CDO' 조직의 KPI가 매출 아닌 '조직 변화'인 이유 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202206090074</link>
             <guid>https://www.bloter.net/newsView/blt202206090074</guid>
@@ -254,19 +267,6 @@ LG유플러스가 개편한 AI/Data 조직 구조도. (사진=LGU+)
 매출은 후순위...조직문화, 사고방식부터 바꾼다
 LG유플러스는 이 같은 프로덕트 중심 문화를 뿌리내리는 한편, 외주와 제휴에 의존하던 개발역량 내재화에도 집중할 계획이다. 이에 2024년까지 AI/데이터 사이언티스트, 데이터/플랫폼 엔지니어, SW/ML-Ops(소프트웨어/기계학습 상용 적용) 엔지니어 등 200여명의 우수 개발인력을 채용하고 현재 인원의 두 배 수준인 400명까지 인력을 확대할 예정이다. CDO 조직은 현재 20여개 팀, 200여명의 인력으로 구성돼 있다.다만 공격적인 조직개편과 일하는 방식의 변화가 실제 사업 성과로 이어지기까지 상당한 시간이 소요될 전망이다. 이날 회사가 예시로 제시한 AICC 서비스만 하더라도 8월경에나 공개될 예정이다. 그러나 AICC 시장은 이미 KT 등 쟁쟁한 경쟁업체들이 선점하고 있다. LG유플러스는 우선 급하게 접근하지 않겠단 입장이다. 전성혜 AI/Data 프로덕트 담당 상무는 “LG유플러스가 데이터 사업을 경쟁사들 대비 늦게 시작한 건 맞다”면서도 “올해는 우선 시장의 상품성과 확장성, 그리고 후발주자로서 어떤 경쟁력을 갖출 수 있을지 고민하는 시기”라고 말했다. 황 CDO도 “데이터나 AI 상품은 결과적으로 고객의 필요성을 아는 게 중요하다. 경쟁자가 있더라도 못 들어가는 게 아니라, 누가 고객의 필요를 제대로 알고 시장에 제시할 수 있는지가 중요하다"며 "그것이 바로 LG유플러스의 차별화 지점이 될 것”이라고 부연했다. 즉, 당장의 매출이나 성과 창출을 기대하기보다는 철저한 데이터, AI 중심의 고객 개인화 서비스로 '질'을 높여 승부하겠단 전략이다.&nbsp;황 CDO에 따르면 이는 회사가 데이터 중심으로 변하길 원하는 황 사장의 기대와도 일치한다. 황 CDO는 “LG유플러스의 장점은 우리가 그동안 데이터에 약했다는 점을 잘 알고 있다는 것이고 회사가 CDO 조직을 신설한 이유”라고 말했다. 이어 “누군가는 데이터와 AI를 흔들기만 하면 되는 마법봉으로 생각하지만 그보다 앞서 필요한 건 조직문화와 일하는 사람들의 사고 방식 변화"라고 강조했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090023.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성바이오에피스 '루센티스 바이오시밀러', 국내외 환자 모두 '동등성 입증' (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100213</link>
-            <guid>https://www.bloter.net/newsView/blt202206100213</guid>
-            <pubDate>Sat, 11 Jun 2022 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[삼성바이오에피스(대표이사 고한승 사장, 이하 에피스)가 개발한 황반변성 치료제 ‘루센티스(성분명 라니비주맙) 바이오시밀러 국내외 환자 투약 결과 오리지널과 동등하다는 연구가 발표됐다.
-
-인천광역시 연수구(송도)에 위치한 삼성바이오에피스 신사옥 전경.(사진=삼성바이오에피스)
-
-
-삼성바이오에피스는 11일 온라인으로 개최된 '2022 한국망막학회 (The Korean Retina Society, KRS) 하계학술대회'에서 SB11(에피스가 개발한 루센티스 바이오시밀러) 임상 3상 결과를 발표했다. 회사는 습성 연령관련 황반변성(nAMD: Neovascular age-related macular degeneration) 환자들을 대상으로 한 글로벌 임상3상을 통해 SB11과 오리지널 의약품 간의 비교 연구를 진행했다.이번 학술대회에서 SB11 임상에 책임연구자로 참여한 분당서울대병원 우세준 안과 교수는 국내를 포함, 임상 시험에 참여한 705명 중 52주 동안 처방을 지속한 환자 634명의 데이터를 발표했다. 우 교수가 제시한 자료에 따르면 1차 유효성 평가 지표(primary endpoint)로서 의약품 처방 후 8주간의 최대 교정시력(BCVA: Best corrected visual acuity)과 4주간의 황반 중심부 두께(CST: Central subfield thickness) 모두 사전에 수립한 동등성 범위를 충족했다. 또한, 2차 유효성 평가 지표(secondary endpoint)로서 의약품 처방 후 52주까지의 BCVA과 CST의 변화량에서도 두 군 간의 차이가 없었으며 안전성, 약동학적 특성, 면역원성이 동등한 것으로 나타났다.쉽게 말하면 SB11를 투여한 환자군은 투여 후 단기적 효과와 장기적 효과 모두 루센티스와 똑같다는 의미다.우 교수는 “임상 시험 결과 SB11과 오리지널 의약품 간의 약효, 안전성, 면역원성, 약동학에 있어서 동등함을 확인했으며 이를 바탕으로 미국과 유럽 등에서 승인을 받을 수 있었다”고 설명했다.현재 SB11은 미국과 유럽, 국내서 품목 허가를 받은 상태다. 루센티스의 글로벌 연 매출 규모는 작년 기준 약 4조4000억원으로 SB11의 국내 판매사는 아직 정해지지 않았다. 에피스 관계자는 “이번 발표를 통해 국내에서도 SB11의 효능과 안전성을 알릴 수 있는 계기가 됐으며, 보다 많은 환자들에게 치료 혜택을 제공할 수 있을 것으로 기대한다”고 전했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100033.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북코리아 이끌 김진아 대표는 누구?…중기 사업 총괄한 광고전략 전문가 (블로터 ─ 실시간 랭킹)]]></title>
