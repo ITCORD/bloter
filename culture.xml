@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 05:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 06:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]블리츠웨이는 왜 유명 디자인스튜디오를 합병할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100210</link>
+            <guid>https://www.bloter.net/newsView/blt202206100210</guid>
+            <pubDate>Sat, 11 Jun 2022 06:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[종합 콘텐츠 기업을 표방하는 '블리츠웨이'가 유명 디자인스튜디오인 '스티키몬스터랩'을 온전히 품기로 결정했다. 지난달 스티키몬스터랩 지분 80%를 인수한 블리츠웨이는 약 한 달만인 10일 흡수합병을 결정하며 경영효율성을 제고하기로 결정했다.  지난 10일 블]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100029.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['취향' 정체성 구축…'팔방미인' 최재화 번개장터 신임 대표 과제는?]]></title>
             <link>https://www.bloter.net/newsView/blt202206100211</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Jun 2022 10:21:35 GMT</pubDate>
             <content:encoded><![CDATA['디아블로 이모탈'(Diablo Immortal)은 모바일 게임계의 새로운 강자가 될 수 있을까. 서비스사인 블리자드엔터테인먼트도 앱 마켓 사전 오픈을 진행하며 정식 출시 전 본격적인 수요층 확보에 나섰다. 출시일 1~2일 전 사전 다운로드를 제공하는 기존 모바일 게임과 달리]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이랜드월드의 '슈펜' 양수…하반기 '온라인 개편' 향해 '가속 페달']]></title>
-            <link>https://www.bloter.net/newsView/blt202206020045</link>
-            <guid>https://www.bloter.net/newsView/blt202206020045</guid>
-            <pubDate>Thu, 02 Jun 2022 07:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[이랜드월드가 슈즈 SPA(기획・생산・유통을 모두 담당하는) 브랜드 '슈펜' 사업을 품고 그룹사의 사업부문별 전문화 전략에 드라이브를 걸고 있다. 이랜드 그룹사 패션 브랜드가 한 곳에 모이고 있는 것은 '사업 포트폴리오 조정' 계획의 일환으로, 이랜드월드는 그]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/02/blt202206020012.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
