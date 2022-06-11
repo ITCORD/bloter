@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성바이오에피스 '루센티스 바이오시밀러', 국내외 환자 모두 '동등성 입증']]></title>
+            <link>https://www.bloter.net/newsView/blt202206100213</link>
+            <guid>https://www.bloter.net/newsView/blt202206100213</guid>
+            <pubDate>Sat, 11 Jun 2022 09:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-11 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]블리츠웨이는 왜 유명 디자인스튜디오를 합병할까]]></title>
             <link>https://www.bloter.net/newsView/blt202206100210</link>
             <guid>https://www.bloter.net/newsView/blt202206100210</guid>
             <pubDate>Sat, 11 Jun 2022 04:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-11 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100029.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100029.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[바이오 오픈이노베이션]한올바이오파마, 폐쇄성 벗은 7년…R&D 시너지 ‘뚜렷’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 09 Jun 2022 08:24:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-09 17:13:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090018.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LGU+ 'CDO' 조직의 KPI가 매출 아닌 '조직 변화'인 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090074</link>
-            <guid>https://www.bloter.net/newsView/blt202206090074</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-09 17:08:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
