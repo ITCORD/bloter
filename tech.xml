@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 03:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 04:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]블리츠웨이는 왜 유명 디자인스튜디오를 합병할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100210</link>
+            <guid>https://www.bloter.net/newsView/blt202206100210</guid>
+            <pubDate>Sat, 11 Jun 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-11 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100029.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[바이오 오픈이노베이션]한올바이오파마, 폐쇄성 벗은 7년…R&D 시너지 ‘뚜렷’]]></title>
             <link>https://www.bloter.net/newsView/blt202206070071</link>
             <guid>https://www.bloter.net/newsView/blt202206070071</guid>
             <pubDate>Sat, 11 Jun 2022 01:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-11 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[218개국에서 쓰는 알약 카운팅 앱 '필아이'는 어떻게 만들어졌을까[넘버스]]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 09 Jun 2022 08:24:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-09 17:08:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 돈 버는 서비스 M2E, 위메이드·BORA도 반했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090069</link>
-            <guid>https://www.bloter.net/newsView/blt202206090069</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-09 15:54:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090016.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
