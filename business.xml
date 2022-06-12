@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 05:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 06:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[㈜한화, 올해도 경영은 'ESG'로...하반기 주주가치 초점]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100032</link>
+            <guid>https://www.bloter.net/newsView/blt202206100032</guid>
+            <pubDate>Sun, 12 Jun 2022 06:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-10 14:34:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG화학, 일진머티리얼즈 정말 탐낼까...'현금부자'의 현실적 고민은]]></title>
             <link>https://www.bloter.net/newsView/blt202206100002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 10 Jun 2022 04:24:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-09 15:12:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090020.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최정우 포스코 회장 "일진머티리얼즈 인수, 계획 없다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090051</link>
-            <guid>https://www.bloter.net/newsView/blt202206090051</guid>
-            <pubDate>Fri, 10 Jun 2022 01:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-09 14:01:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
