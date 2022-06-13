@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]넥슨표 블록체인 게임, '메이플코인'은 '메소'로?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206130049</link>
+            <guid>https://www.bloter.net/newsView/blt202206130049</guid>
+            <pubDate>Mon, 13 Jun 2022 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130020.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]넥슨이 장애 아동·청소년 돕는 법은?]]></title>
             <link>https://www.bloter.net/newsView/blt202206120001</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Jun 2022 04:32:59 GMT</pubDate>
             <content:encoded><![CDATA[블리자드와 넷이즈가 공동 개발한 '디아블로 이모탈'(Diablo Immortal)이 앱마켓 매출 상위권에 안착했다. 글로벌 사전예약자만 3500만명이 넘을 만큼 높은 존재감을 보여주더니, 국내에서만 100만회 이상의 다운로드를 기록하며 매출도 꾸준히 상승하고 있다.6일 오전 기]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/06/blt202206060005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]마블 새 히어로 '미즈 마블', 디즈니+ 성장 이끌까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206030147</link>
-            <guid>https://www.bloter.net/newsView/blt202206030147</guid>
-            <pubDate>Sun, 05 Jun 2022 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA['어벤져스' 이후 솔로 무비로 라인업을 확대했던 마블이 새로운 히어로물로 시장 공략에 나선다. 디즈니는 새로운 마블 히어로 시리즈를 디즈니+에 편성해 OTT 사용층을 확대한다는 계획이다.  이집트 신화→무슬림 히어로로 바톤 터치 디즈니에 따르면 오는 8일]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/03/blt202206030031.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
