@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 23:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 01:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['글로벌 모빌리티' 강조한 카카오, 항공 서비스 국제선까지 확장]]></title>
+            <link>https://www.bloter.net/newsView/blt202206130002</link>
+            <guid>https://www.bloter.net/newsView/blt202206130002</guid>
+            <pubDate>Mon, 13 Jun 2022 01:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-13 10:06:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130001.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크, 테슬라 임직원에게 이메일 보낸 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202206130003</link>
+            <guid>https://www.bloter.net/newsView/blt202206130003</guid>
+            <pubDate>Mon, 13 Jun 2022 01:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-13 10:04:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130003.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]비대면 세탁 '런드리고'는 어떻게 일상이 됐나]]></title>
             <link>https://www.bloter.net/newsView/blt202206100039</link>
             <guid>https://www.bloter.net/newsView/blt202206100039</guid>
             <pubDate>Sun, 12 Jun 2022 08:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-12 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100011.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100011.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[친절한B씨]LTE는 좋은데 5G는 왜 싫어요?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 10 Jun 2022 06:20:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-10 14:51:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["SKB에 망 이용대가 줄 수 없다는 넷플릭스, 이율배반"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100023</link>
-            <guid>https://www.bloter.net/newsView/blt202206100023</guid>
-            <pubDate>Fri, 10 Jun 2022 06:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-10 14:38:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100008.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[실명퇴치운동본부, 휴먼스케이프와 실명 유전자 찾기 연구비 지원 나서]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100015</link>
-            <guid>https://www.bloter.net/newsView/blt202206100015</guid>
-            <pubDate>Fri, 10 Jun 2022 03:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-10 11:58:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
