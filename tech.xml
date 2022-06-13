@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 20:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 21:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OS 없는 삼성 갤럭시 생태계…애플 추격하려면?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206130050</link>
+            <guid>https://www.bloter.net/newsView/blt202206130050</guid>
+            <pubDate>Mon, 13 Jun 2022 21:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-14 06:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘변수’ 만난 누리호, 발사장 이송 ‘판단 보류’…14일 오전 고흥 기상 관건]]></title>
             <link>https://www.bloter.net/newsView/blt202206130052</link>
             <guid>https://www.bloter.net/newsView/blt202206130052</guid>
             <pubDate>Mon, 13 Jun 2022 12:32:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-13 20:56:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[게임인사이드]넥슨표 블록체인 게임, '메이플코인'은 '메소'로?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 11 Jun 2022 01:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-11 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[218개국에서 쓰는 알약 카운팅 앱 '필아이'는 어떻게 만들어졌을까[넘버스]]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100010</link>
-            <guid>https://www.bloter.net/newsView/blt202206100010</guid>
-            <pubDate>Fri, 10 Jun 2022 23:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-11 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
