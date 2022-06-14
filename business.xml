@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 22:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 23:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금호석유화학그룹, R&D로 사업기회 발굴...미래 모빌리티 변화도 준비]]></title>
+            <link>https://www.bloter.net/newsView/blt202206140008</link>
+            <guid>https://www.bloter.net/newsView/blt202206140008</guid>
+            <pubDate>Tue, 14 Jun 2022 23:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-14 14:01:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['넥스트커머스'가 말하는 팬데믹 이후의 '커머스'는]]></title>
             <link>https://www.bloter.net/newsView/blt202206140003</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 14 Jun 2022 01:45:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-13 15:10:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130013.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 속도내는 LG화학, GS EPS와 손잡고 바이오매스 생산]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130007</link>
-            <guid>https://www.bloter.net/newsView/blt202206130007</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-13 10:38:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
