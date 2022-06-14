@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제일약품, 도입 품목 판매사서 신약 개발사로 거듭나나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206140009</link>
+            <guid>https://www.bloter.net/newsView/blt202206140009</guid>
+            <pubDate>Tue, 14 Jun 2022 06:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-14 15:07:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140010.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['앱 신규 설치' 야놀자 추월한 여기어때, 일회성 지표 아니었다]]></title>
             <link>https://www.bloter.net/newsView/blt202206140010</link>
             <guid>https://www.bloter.net/newsView/blt202206140010</guid>
             <pubDate>Tue, 14 Jun 2022 05:30:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-14 14:19:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140011.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140011.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[6G 위성통신에 양자컴퓨터 쓰인다...'초공간성' 구현 전망]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 12 Jun 2022 06:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-12 15:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/11/blt202206110002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]‘이음5G 오픈랩’ 개소한 노키아의 큰 그림]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100215</link>
-            <guid>https://www.bloter.net/newsView/blt202206100215</guid>
-            <pubDate>Sun, 12 Jun 2022 04:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-12 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
