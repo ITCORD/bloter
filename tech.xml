@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 06:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 정부가 '글로벌 비즈니스 네트워크' 보유한 SAP에 손 내민 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202206140013</link>
+            <guid>https://www.bloter.net/newsView/blt202206140013</guid>
+            <pubDate>Tue, 14 Jun 2022 08:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-14 16:41:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘기상 변수’ 만난 누리호, 결함 우려보단 ‘작업자 안전’ 고려해 발사 순연]]></title>
+            <link>https://www.bloter.net/newsView/blt202206140011</link>
+            <guid>https://www.bloter.net/newsView/blt202206140011</guid>
+            <pubDate>Tue, 14 Jun 2022 08:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-14 15:39:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제일약품, 도입 품목 판매사서 신약 개발사로 거듭나나]]></title>
             <link>https://www.bloter.net/newsView/blt202206140009</link>
             <guid>https://www.bloter.net/newsView/blt202206140009</guid>
             <pubDate>Tue, 14 Jun 2022 06:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-14 15:07:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['앱 신규 설치' 야놀자 추월한 여기어때, 일회성 지표 아니었다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 13 Jun 2022 01:27:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-13 10:04:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 돋보기]비대면 세탁 '런드리고'는 어떻게 일상이 됐나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100039</link>
-            <guid>https://www.bloter.net/newsView/blt202206100039</guid>
-            <pubDate>Sun, 12 Jun 2022 08:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-12 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/10/blt202206100011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한B씨]LTE는 좋은데 5G는 왜 싫어요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100214</link>
-            <guid>https://www.bloter.net/newsView/blt202206100214</guid>
-            <pubDate>Sun, 12 Jun 2022 06:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-12 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/11/blt202206110002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
