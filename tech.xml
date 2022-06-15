@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위치, 상위 스트리머가 광고수익 쓸어가는 방식 바꾼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150007</link>
+            <guid>https://www.bloter.net/newsView/blt202206150007</guid>
+            <pubDate>Wed, 15 Jun 2022 03:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-15 11:58:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT 후원 블록체인과 플랫폼·데이터법 세미나, 17일 개최]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150006</link>
+            <guid>https://www.bloter.net/newsView/blt202206150006</guid>
+            <pubDate>Wed, 15 Jun 2022 03:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-15 10:40:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150015.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['육성하고 협업까지'...네이버식 자율주행 시장 공략법]]></title>
             <link>https://www.bloter.net/newsView/blt202206150005</link>
             <guid>https://www.bloter.net/newsView/blt202206150005</guid>
             <pubDate>Wed, 15 Jun 2022 01:26:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-15 10:11:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[누리호 D-1]문제없이 끝난 발사장 이송…남은 준비 절차는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 14 Jun 2022 01:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-14 08:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OS 없는 삼성 갤럭시 생태계…애플 추격하려면?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130050</link>
-            <guid>https://www.bloter.net/newsView/blt202206130050</guid>
-            <pubDate>Mon, 13 Jun 2022 21:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-14 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘변수’ 만난 누리호, 발사장 이송 ‘판단 보류’…14일 오전 고흥 기상 관건]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130052</link>
-            <guid>https://www.bloter.net/newsView/blt202206130052</guid>
-            <pubDate>Mon, 13 Jun 2022 12:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-13 20:56:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
