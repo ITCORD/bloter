@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[누리호 D-1]16일 발사 취소…'산화제 탱크 레벨 센서 신호 이상' 발견]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150019</link>
+            <guid>https://www.bloter.net/newsView/blt202206150019</guid>
+            <pubDate>Wed, 15 Jun 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-15 17:47:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150045.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]오늘의집 자체 배송 1년, '고객경험'과 맞바꾼 출혈]]></title>
             <link>https://www.bloter.net/newsView/blt202206150018</link>
             <guid>https://www.bloter.net/newsView/blt202206150018</guid>
             <pubDate>Wed, 15 Jun 2022 08:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-15 17:14:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150044.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드+]'인프라 없는' 레드햇이 MS에저와 클라우드 시장 공략하는 법]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 14 Jun 2022 09:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-14 17:29:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 정부가 '글로벌 비즈니스 네트워크' 보유한 SAP에 손 내민 사연]]></title>
-            <link>https://www.bloter.net/newsView/blt202206140013</link>
-            <guid>https://www.bloter.net/newsView/blt202206140013</guid>
-            <pubDate>Tue, 14 Jun 2022 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-14 16:41:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

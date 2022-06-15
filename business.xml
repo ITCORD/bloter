@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK그룹과 포스코그룹의 '배터리 협력'...포스코케미칼에 이익일까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150008</link>
+            <guid>https://www.bloter.net/newsView/blt202206150008</guid>
+            <pubDate>Wed, 15 Jun 2022 09:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-15 15:49:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제일기획, NFT 아티스트 그룹 맞손...마케팅·IP사업 추진]]></title>
             <link>https://www.bloter.net/newsView/blt202206150010</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 15 Jun 2022 06:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-14 16:54:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계, 미디어 콘텐츠 사업 강화...마인드마크 200억 출자]]></title>
-            <link>https://www.bloter.net/newsView/blt202206140015</link>
-            <guid>https://www.bloter.net/newsView/blt202206140015</guid>
-            <pubDate>Wed, 15 Jun 2022 03:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-14 16:37:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
