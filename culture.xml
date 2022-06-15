@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[발란, 성장 혹은 위기]②'벼랑 끝' 발란, 최형록 대표 직속 'ESG 경영' 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150021</link>
+            <guid>https://www.bloter.net/newsView/blt202206150021</guid>
+            <pubDate>Wed, 15 Jun 2022 10:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[명품 커머스 플랫폼 '발란'이 반품비 정책 개선에 발벗고 나섰다. 올 상반기 개인정보 유출부터 과도한 반품비, 가품 판매까지 연이어 발생한 악재와 관련해, 근본적인 정책 개선을 통한 문제해결에 나선 것이다. 특히 최근 발란은 최형록 발란 대표 직속의 ESG 경영]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150050.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]코인도 간편결제로…넷마블F&C '큐브', 바이낸스 커넥트 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202206150011</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 Jun 2022 09:19:58 GMT</pubDate>
             <content:encoded><![CDATA[카카오 VX가 '라이언'없는 카카오프렌즈 골프웨어를 내놨다. 카카오프렌즈 골프가 '어패럴'을 론칭하며 의류로 라인업을 확장한 것인데, 카카오프렌즈 캐릭터를 완전히 빼는 선택을 하며 골프웨어 업계에 입지를 굳히는 데 주력한다는 계획이다.  귀여움 내세운 골]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]열흘 만에 110만뷰 기록한 숏폼 애니…알고보니?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070099</link>
-            <guid>https://www.bloter.net/newsView/blt202206070099</guid>
-            <pubDate>Tue, 07 Jun 2022 10:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 27일 공개된 로봇 레이싱 애니메이션 'Dead Or Arrive'이 공개 열흘 만에 110만뷰를 돌파했다. 11분 남짓한 분량의 숏폼 애니메이션은 어떻게 빠른 시간 내 100만뷰를 넘어섰을까. 어떤 내용이길래 Dead Or Arrive는 '레이서의 심장이 결승선을 통과하면 우승'이라는 룰]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070045.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

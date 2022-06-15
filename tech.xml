@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시스코가 네트워크 감시하는 '천개의 눈'으로 노리는 것]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150022</link>
+            <guid>https://www.bloter.net/newsView/blt202206150022</guid>
+            <pubDate>Wed, 15 Jun 2022 10:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-15 18:39:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150053.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[발란, 성장 혹은 위기]②'벼랑 끝' 발란, 최형록 대표 직속 'ESG 경영' 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150021</link>
+            <guid>https://www.bloter.net/newsView/blt202206150021</guid>
+            <pubDate>Wed, 15 Jun 2022 10:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-15 18:20:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150050.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[누리호 D-1]16일 발사 취소…'산화제 탱크 레벨 센서 신호 이상' 발견]]></title>
             <link>https://www.bloter.net/newsView/blt202206150019</link>
             <guid>https://www.bloter.net/newsView/blt202206150019</guid>
             <pubDate>Wed, 15 Jun 2022 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-15 17:47:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150045.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]오늘의집 자체 배송 1년, '고객경험'과 맞바꾼 출혈]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 14 Jun 2022 09:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-14 17:55:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 플랫폼 캐치패션, '경쟁 심화'에도 '느린 성장' 외친 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202206140017</link>
-            <guid>https://www.bloter.net/newsView/blt202206140017</guid>
-            <pubDate>Tue, 14 Jun 2022 09:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-14 17:51:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버파이낸셜, 사업자대출 '포털' 역할 하나…핀테크업계 파장 예고]]></title>
-            <link>https://www.bloter.net/newsView/blt202206140018</link>
-            <guid>https://www.bloter.net/newsView/blt202206140018</guid>
-            <pubDate>Tue, 14 Jun 2022 09:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-14 17:29:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
