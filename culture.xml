@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]코인도 간편결제로…넷마블F&C '큐브', 바이낸스 커넥트 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150011</link>
+            <guid>https://www.bloter.net/newsView/blt202206150011</guid>
+            <pubDate>Wed, 15 Jun 2022 06:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블 자회사 넷마블에프앤씨의 블록체인 플랫폼 '큐브'(CUBE)에 간편결제 시스템이 도입된다. 최근 웹툰·웹 3.0·크립토·엔터테인먼트·게임·이노베이션·커머스 분야에 걸친 '에코시스템 파트너'를 공개한 만큼 간편결제 시스템이 도입]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명품 플랫폼 캐치패션, '경쟁 심화'에도 '느린 성장' 외친 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202206140017</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Jun 2022 10:24:44 GMT</pubDate>
             <content:encoded><![CDATA[지난달 27일 공개된 로봇 레이싱 애니메이션 'Dead Or Arrive'이 공개 열흘 만에 110만뷰를 돌파했다. 11분 남짓한 분량의 숏폼 애니메이션은 어떻게 빠른 시간 내 100만뷰를 넘어섰을까. 어떤 내용이길래 Dead Or Arrive는 '레이서의 심장이 결승선을 통과하면 우승'이라는 룰]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070045.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루홀스튜디오 임직원, 크래프톤 주식 받는다…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070087</link>
-            <guid>https://www.bloter.net/newsView/blt202206070087</guid>
-            <pubDate>Tue, 07 Jun 2022 09:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤이 자회사 블루홀스튜디오에 소속된 임직원에게 주식을 나눠주기로 결정했다. 특히 주식 교부 방식이 주식매수청구권(스톡옵션)이 아닌 양도제한 조건부 주식(RSU)이라는 점에서 주목할 만하다.  2.5억 규모 RSU…3년간 계획 7일 블루홀스튜디오는 '특수관]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/07/blt202206070036.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

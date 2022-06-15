@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이수화학, 겨우 급여 줄였더니…회복 길에 마주친 임단협 파업]]></title>
+            <link>https://www.bloter.net/newsView/blt202206140016</link>
+            <guid>https://www.bloter.net/newsView/blt202206140016</guid>
+            <pubDate>Wed, 15 Jun 2022 06:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-14 16:54:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계, 미디어 콘텐츠 사업 강화...마인드마크 200억 출자]]></title>
             <link>https://www.bloter.net/newsView/blt202206140015</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 14 Jun 2022 08:22:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-13 18:05:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 파업 악재 하이트진로, 운반비 부담 늘어나나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130031</link>
-            <guid>https://www.bloter.net/newsView/blt202206130031</guid>
-            <pubDate>Tue, 14 Jun 2022 05:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-13 15:50:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130019.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

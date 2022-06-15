@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]코인도 간편결제로…넷마블F&C '큐브', 바이낸스 커넥트 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150011</link>
+            <guid>https://www.bloter.net/newsView/blt202206150011</guid>
+            <pubDate>Wed, 15 Jun 2022 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-15 15:11:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제일기획, NFT 아티스트 그룹 맞손...마케팅·IP사업 추진]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150010</link>
+            <guid>https://www.bloter.net/newsView/blt202206150010</guid>
+            <pubDate>Wed, 15 Jun 2022 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-15 15:03:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150022.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위치, 상위 스트리머가 광고수익 쓸어가는 방식 바꾼다]]></title>
             <link>https://www.bloter.net/newsView/blt202206150007</link>
             <guid>https://www.bloter.net/newsView/blt202206150007</guid>
             <pubDate>Wed, 15 Jun 2022 03:39:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-15 11:58:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT 후원 블록체인과 플랫폼·데이터법 세미나, 17일 개최]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 14 Jun 2022 01:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-14 09:55:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호, 강풍에 두 번째 도전 순연…16일 ‘우주로’]]></title>
-            <link>https://www.bloter.net/newsView/blt202206140001</link>
-            <guid>https://www.bloter.net/newsView/blt202206140001</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-14 08:15:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한B씨]달라진 구글, '인앱결제 이슈'로 뚜렷해진 전략 변화]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130051</link>
-            <guid>https://www.bloter.net/newsView/blt202206130051</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-14 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
