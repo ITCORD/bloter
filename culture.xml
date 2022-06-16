@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+ in 티빙]①게임 원작 '헤일로', 한국에서도 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160014</link>
+            <guid>https://www.bloter.net/newsView/blt202206160014</guid>
+            <pubDate>Thu, 16 Jun 2022 08:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[국내 OTT 플랫폼 '티빙'이 16일부터 플랫폼 내 '파라마운트 플러스(+)' 상영관을 론칭했다. 파라마운트+의 오리지널 콘텐츠를 티빙 플랫폼 안에서 시청할 수 있어 '하나의 구독료로 두 개의 스트리밍을 이용할 수 있다'는 명제가 실현된 셈이다. 여기에 티빙과 파라마운]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[발란, 성장 혹은 위기]②'벼랑 끝' 발란, 최형록 대표 직속 'ESG 경영' 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202206150021</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Jun 2022 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090029.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오프렌즈 골프, 어패럴에 '라이언' 뺀 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080117</link>
-            <guid>https://www.bloter.net/newsView/blt202206080117</guid>
-            <pubDate>Wed, 08 Jun 2022 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[카카오 VX가 '라이언'없는 카카오프렌즈 골프웨어를 내놨다. 카카오프렌즈 골프가 '어패럴'을 론칭하며 의류로 라인업을 확장한 것인데, 카카오프렌즈 캐릭터를 완전히 빼는 선택을 하며 골프웨어 업계에 입지를 굳히는 데 주력한다는 계획이다.  귀여움 내세운 골]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/08/blt202206080035.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

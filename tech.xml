@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파라마운트+ in 티빙]①게임 원작 '헤일로', 한국에서도 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160014</link>
+            <guid>https://www.bloter.net/newsView/blt202206160014</guid>
+            <pubDate>Thu, 16 Jun 2022 08:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-16 16:53:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방통위, SKT·KT·LGU+ 불법 '온라인 성지' 찾는다…사실조사 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160012</link>
+            <guid>https://www.bloter.net/newsView/blt202206160012</guid>
+            <pubDate>Thu, 16 Jun 2022 08:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-16 16:21:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160018.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지지부진 SKB-넷플릭스 망 대가 소송..法 "계약서 부재가 원인"]]></title>
             <link>https://www.bloter.net/newsView/blt202206160008</link>
             <guid>https://www.bloter.net/newsView/blt202206160008</guid>
             <pubDate>Thu, 16 Jun 2022 07:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-16 14:52:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누리호, 오작동 발견 24시간 지났지만  ‘점검창’도 못 열었다…이유는?]]></title>
@@ -24,7 +40,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인터넷 익스플로러 '보안 업데이트' 15일 종료…크롬·에지·사파리로 갈아타세요]]></title>
+            <title><![CDATA[인터넷 익스플로러 '보안 업데이트' 종료…크롬·에지·사파리로 갈아타세요]]></title>
             <link>https://www.bloter.net/newsView/blt202206160002</link>
             <guid>https://www.bloter.net/newsView/blt202206160002</guid>
             <pubDate>Thu, 16 Jun 2022 03:23:38 GMT</pubDate>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 15 Jun 2022 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-15 15:11:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제일기획, NFT 아티스트 그룹 맞손...마케팅·IP사업 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150010</link>
-            <guid>https://www.bloter.net/newsView/blt202206150010</guid>
-            <pubDate>Wed, 15 Jun 2022 06:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-15 15:03:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위치, 상위 스트리머가 광고수익 쓸어가는 방식 바꾼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150007</link>
-            <guid>https://www.bloter.net/newsView/blt202206150007</guid>
-            <pubDate>Wed, 15 Jun 2022 03:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-15 11:58:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

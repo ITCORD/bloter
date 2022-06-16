@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 상장나선 액셀러레이터 '블루포인트·퓨처플레이', 성적 들여다보니]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150025</link>
+            <guid>https://www.bloter.net/newsView/blt202206150025</guid>
+            <pubDate>Thu, 16 Jun 2022 08:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-15 20:10:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150061.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소액투자자서 '큰손'들로...무게중심 확 바뀐 온투업]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150023</link>
+            <guid>https://www.bloter.net/newsView/blt202206150023</guid>
+            <pubDate>Thu, 16 Jun 2022 08:32:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-15 18:35:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150052.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자·삼성SDI, '전기차 공동 개발' TF 발족..."테슬라 모델Y 분해했다"]]></title>
             <link>https://www.bloter.net/newsView/blt202206150016</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 15 Jun 2022 10:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-15 16:27:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150034.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK그룹과 포스코그룹의 '배터리 협력'...포스코케미칼에 이익일까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150008</link>
-            <guid>https://www.bloter.net/newsView/blt202206150008</guid>
-            <pubDate>Wed, 15 Jun 2022 09:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-15 15:49:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제일기획, NFT 아티스트 그룹 맞손...마케팅·IP사업 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150010</link>
-            <guid>https://www.bloter.net/newsView/blt202206150010</guid>
-            <pubDate>Wed, 15 Jun 2022 08:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-15 15:03:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
