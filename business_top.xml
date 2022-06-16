@@ -4,16 +4,23 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[S&P·나스닥 올랐는데 코스피·코스닥은 왜 멈췄을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160020</link>
+            <guid>https://www.bloter.net/newsView/blt202206160020</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-16 18:31:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160034.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['빚잔치는 끝났다'...두산그룹, 신사업보다 '빚갚기' 주력]]></title>
             <link>https://www.bloter.net/newsView/blt202206160009</link>
             <guid>https://www.bloter.net/newsView/blt202206160009</guid>
             <pubDate>Thu, 16 Jun 2022 08:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-16 16:40:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160019.570x320.0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다]]></title>
@@ -23,25 +30,18 @@
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박정원 두산 회장 "두산테스나 글로벌 5위로"...'꿩 대신 닭' 전략 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150004</link>
-            <guid>https://www.bloter.net/newsView/blt202206150004</guid>
-            <pubDate>Thu, 16 Jun 2022 08:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[인터넷전문은행 '금리인하요구권'의 양면성…'신청'도 '컷'도 많았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202204080016</link>
+            <guid>https://www.bloter.net/newsView/blt202204080016</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두산퓨얼셀, CCU 기술개발 추진...연료전지용 수소 '깨끗하게 쓴다']]></title>
-            <link>https://www.bloter.net/newsView/blt202206040001</link>
-            <guid>https://www.bloter.net/newsView/blt202206040001</guid>
-            <pubDate>Thu, 16 Jun 2022 08:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수소보다 ‘핫’해진 SMR…SK·GS·두산은 왜 ‘눈독’들일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270012</link>
-            <guid>https://www.bloter.net/newsView/blt202205270012</guid>
-            <pubDate>Thu, 16 Jun 2022 08:32:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[우리은행 '저금리로 돈 못 번다'…직접투자로 '대박' 기회를]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010011</link>
+            <guid>https://www.bloter.net/newsView/blt202202010011</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

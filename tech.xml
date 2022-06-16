@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유재성 퓨어스토리지 코리아 사장이 회사명서 '스토리지' 빼고 말한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160017</link>
+            <guid>https://www.bloter.net/newsView/blt202206160017</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-16 18:35:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160038.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“누리호 2차 발사, 가을 지연 상상 싫다…3차엔 영향 없을 듯”]]></title>
             <link>https://www.bloter.net/newsView/blt202206160019</link>
             <guid>https://www.bloter.net/newsView/blt202206160019</guid>
             <pubDate>Thu, 16 Jun 2022 09:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-16 18:18:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160035.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160035.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[파라마운트+ in 티빙]①게임 원작 '헤일로', 한국에서도 통할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 15 Jun 2022 07:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">고흥=정두용</span>                        <span class="date">2022-06-15 15:43:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결합상품 '우대' 장기가입자 ‘홀대’…방통위, 7개 방송·통신사 과징금 철퇴]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150013</link>
-            <guid>https://www.bloter.net/newsView/blt202206150013</guid>
-            <pubDate>Wed, 15 Jun 2022 07:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-15 15:38:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
