@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 01:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자·삼성SDI, '전기차 공동 개발' TF 발족..."테슬라 모델Y 분해했다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150016</link>
+            <guid>https://www.bloter.net/newsView/blt202206150016</guid>
+            <pubDate>Thu, 16 Jun 2022 03:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-15 18:07:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150046.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의집 자체 배송 1년, '고객경험'과 맞바꾼 출혈]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150018</link>
+            <guid>https://www.bloter.net/newsView/blt202206150018</guid>
+            <pubDate>Thu, 16 Jun 2022 03:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-15 17:14:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150044.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘중국∙러시아∙베트남’ 다 통했다…오리온, 올해 최대 실적 낼까]]></title>
             <link>https://www.bloter.net/newsView/blt202206150017</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 15 Jun 2022 08:23:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-15 15:03:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박정원 두산 회장 "두산테스나 글로벌 5위로"...'꿩 대신 닭' 전략 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150004</link>
-            <guid>https://www.bloter.net/newsView/blt202206150004</guid>
-            <pubDate>Wed, 15 Jun 2022 08:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-15 11:09:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고민 많은 카카오, 매각설 휩싸인 '모빌리티']]></title>
-            <link>https://www.bloter.net/newsView/blt202206150001</link>
-            <guid>https://www.bloter.net/newsView/blt202206150001</guid>
-            <pubDate>Wed, 15 Jun 2022 08:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-15 07:17:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150006.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
