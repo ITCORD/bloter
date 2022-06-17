@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 22:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 23:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[폰SIGHT]뒷자리 '7777', ‘1004' 골드번호...왜 추첨제로 바뀌었을까요]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160016</link>
+            <guid>https://www.bloter.net/newsView/blt202206160016</guid>
+            <pubDate>Fri, 17 Jun 2022 23:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-18 07:59:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나]]></title>
             <link>https://www.bloter.net/newsView/blt202206170011</link>
             <guid>https://www.bloter.net/newsView/blt202206170011</guid>
             <pubDate>Fri, 17 Jun 2022 11:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-17 20:10:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세븐나이츠 레볼루션'으로 본 넷마블표 청사진은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Jun 2022 03:23:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-16 11:18:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티 광고 생태계, '오픈형 플랫폼' 제시한 배경은]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160003</link>
-            <guid>https://www.bloter.net/newsView/blt202206160003</guid>
-            <pubDate>Thu, 16 Jun 2022 03:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-16 10:46:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
