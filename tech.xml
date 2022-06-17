@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT로 고독사 방지]①복지부 종합계획, 기술과의 협력 기대되는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160001</link>
+            <guid>https://www.bloter.net/newsView/blt202206160001</guid>
+            <pubDate>Fri, 17 Jun 2022 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-17 16:28:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임인사이드]'라그나로크' 의존도 줄이는 그라비티?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170006</link>
+            <guid>https://www.bloter.net/newsView/blt202206170006</guid>
+            <pubDate>Fri, 17 Jun 2022 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-17 16:19:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티, 매각 시 경쟁력 악화?..."핵심 데이터 모빌리티 소유"]]></title>
             <link>https://www.bloter.net/newsView/blt202206170003</link>
             <guid>https://www.bloter.net/newsView/blt202206170003</guid>
             <pubDate>Fri, 17 Jun 2022 03:24:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-17 11:22:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[자이언트 스텝에 밟힌다]투자환경 바뀐 제약바이오...'긴축과 생존'을 고민할 때]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 15 Jun 2022 10:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-15 18:39:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150053.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[발란, 성장 혹은 위기]②'벼랑 끝' 발란, 최형록 대표 직속 'ESG 경영' 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150021</link>
-            <guid>https://www.bloter.net/newsView/blt202206150021</guid>
-            <pubDate>Wed, 15 Jun 2022 10:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-15 18:20:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150050.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[누리호 D-1]16일 발사 취소…'산화제 탱크 레벨 센서 신호 이상' 발견]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150019</link>
-            <guid>https://www.bloter.net/newsView/blt202206150019</guid>
-            <pubDate>Wed, 15 Jun 2022 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-15 17:47:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

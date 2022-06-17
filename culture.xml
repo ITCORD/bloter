@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]'라그나로크' 의존도 줄이는 그라비티?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170006</link>
+            <guid>https://www.bloter.net/newsView/blt202206170006</guid>
+            <pubDate>Fri, 17 Jun 2022 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170012.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+ in 티빙]①게임 원작 '헤일로', 한국에서도 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202206160014</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Jun 2022 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[위메이드와 메타보라(BORA)가 음악으로 돈 버는 서비스(뮤직 투 언·M2E) 플랫폼인 '케이든버스'에 전략적 투자를 단행했다.  케이든버스는 베트남의 대형 게임 기업이자 전세계 1위 음악게임 퍼블리셔인 아마노츠(Amanotes)에서 스핀오프 형태로 개발 중인 M2E 플랫폼]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090016.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'아이들 루카', C2X 생태계 합류…P2O 라인업 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090085</link>
-            <guid>https://www.bloter.net/newsView/blt202206090085</guid>
-            <pubDate>Thu, 09 Jun 2022 08:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 조명하겠습니다. &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
