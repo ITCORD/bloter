@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 01:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['빚잔치는 끝났다'...두산그룹, 신사업보다 '빚갚기' 주력]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160009</link>
+            <guid>https://www.bloter.net/newsView/blt202206160009</guid>
+            <pubDate>Fri, 17 Jun 2022 03:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-16 16:40:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다]]></title>
             <link>https://www.bloter.net/newsView/blt202206160010</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 16 Jun 2022 08:32:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-15 18:35:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150052.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자·삼성SDI, '전기차 공동 개발' TF 발족..."테슬라 모델Y 분해했다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150016</link>
-            <guid>https://www.bloter.net/newsView/blt202206150016</guid>
-            <pubDate>Thu, 16 Jun 2022 03:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-15 18:07:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150046.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
