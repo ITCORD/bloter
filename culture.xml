@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세븐나이츠 레볼루션'으로 본 넷마블표 청사진은]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170008</link>
+            <guid>https://www.bloter.net/newsView/blt202206170008</guid>
+            <pubDate>Fri, 17 Jun 2022 10:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블이 다음달 출시할 '세븐나이츠 레볼루션'에게 거는 기대는 남다르다. 지난 1분기 기준 적자를 기록하며 부진한 성적표를 거둔 넷마블에게 신작 세븐나이츠 레볼루션은 '구원투수' 그 이상의 의미가 필요한 타이틀이다. '장기간에 걸친 자체 지식재산권(IP) 비]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]'라그나로크' 의존도 줄이는 그라비티?]]></title>
             <link>https://www.bloter.net/newsView/blt202206170006</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Jun 2022 11:15:30 GMT</pubDate>
             <content:encoded><![CDATA[오는 15일 2022 리그 오브 레전드 챔피언스 코리아(LCK) 서머가 개막하는 가운데, 이번 시즌에서 최대 흥행 기록을 세울 수 있을지 주목된다. 코로나19 여파로 팬들을 수용하지 못했던 롤파크가 전면 개방되는 데다 '너구리' 선수의 복귀로 우승 후보로 꼽힌 '담원 기아'(]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090033.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 돈 버는 서비스 M2E, 위메이드·BORA도 반했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090069</link>
-            <guid>https://www.bloter.net/newsView/blt202206090069</guid>
-            <pubDate>Thu, 09 Jun 2022 08:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드와 메타보라(BORA)가 음악으로 돈 버는 서비스(뮤직 투 언·M2E) 플랫폼인 '케이든버스'에 전략적 투자를 단행했다.  케이든버스는 베트남의 대형 게임 기업이자 전세계 1위 음악게임 퍼블리셔인 아마노츠(Amanotes)에서 스핀오프 형태로 개발 중인 M2E 플랫폼]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/09/blt202206090016.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
