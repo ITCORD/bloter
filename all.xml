@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 01:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,40 +317,56 @@ KT엠모바일은 16일 신규 배달 구독형 요금제 ‘모두다 맘껏 11
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150050.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[S&P·나스닥 올랐는데 코스피·코스닥은 왜 멈췄을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160020</link>
-            <guid>https://www.bloter.net/newsView/blt202206160020</guid>
-            <pubDate>Thu, 16 Jun 2022 10:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-16 18:31:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160034.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[현업 전문가들이 본 '데이터 드리븐 마케팅'은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170002</link>
+            <guid>https://www.bloter.net/newsView/blt202206170002</guid>
+            <pubDate>Fri, 17 Jun 2022 01:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-17 10:06:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170004.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['빚잔치는 끝났다'...두산그룹, 신사업보다 '빚갚기' 주력 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160009</link>
-            <guid>https://www.bloter.net/newsView/blt202206160009</guid>
-            <pubDate>Thu, 16 Jun 2022 08:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[제일기획, NFT 아티스트 그룹 맞손...마케팅·IP사업 추진 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150010</link>
+            <guid>https://www.bloter.net/newsView/blt202206150010</guid>
+            <pubDate>Fri, 17 Jun 2022 01:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <title><![CDATA[챗봇상담부터 마케팅까지…고객관리 한 곳에서 '채널톡' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100008</link>
+            <guid>https://www.bloter.net/newsView/blt202205100008</guid>
+            <pubDate>Fri, 17 Jun 2022 01:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고도화되는 앱 마케팅 전략…"메타버스 키워드는 필수" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202040011</link>
+            <guid>https://www.bloter.net/newsView/blt202202040011</guid>
+            <pubDate>Fri, 17 Jun 2022 01:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털마케팅 최신 트렌드 공유 콘퍼런스 열린다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202111240032</link>
+            <guid>https://www.bloter.net/newsView/blt202111240032</guid>
+            <pubDate>Fri, 17 Jun 2022 01:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202206160010</link>
             <guid>https://www.bloter.net/newsView/blt202206160010</guid>
             <pubDate>Thu, 16 Jun 2022 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-16 15:13:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인터넷전문은행 '금리인하요구권'의 양면성…'신청'도 '컷'도 많았다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204080016</link>
-            <guid>https://www.bloter.net/newsView/blt202204080016</guid>
-            <pubDate>Thu, 16 Jun 2022 10:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리은행 '저금리로 돈 못 번다'…직접투자로 '대박' 기회를 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202010011</link>
-            <guid>https://www.bloter.net/newsView/blt202202010011</guid>
-            <pubDate>Thu, 16 Jun 2022 10:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[일론 머스크 "리비안·루시드 파산할 것"...테슬라·포드 외 "공동묘지행" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160005</link>
+            <guid>https://www.bloter.net/newsView/blt202206160005</guid>
+            <pubDate>Thu, 16 Jun 2022 03:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-16 11:19:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오모빌리티 광고 생태계, '오픈형 플랫폼' 제시한 배경은 (블로터 ─ 비즈니스)]]></title>
@@ -383,22 +399,6 @@ KT엠모바일은 16일 신규 배달 구독형 요금제 ‘모두다 맘껏 11
             <pubDate>Wed, 15 Jun 2022 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-15 18:07:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150046.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의집 자체 배송 1년, '고객경험'과 맞바꾼 출혈 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150018</link>
-            <guid>https://www.bloter.net/newsView/blt202206150018</guid>
-            <pubDate>Wed, 15 Jun 2022 08:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-15 17:14:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150044.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘중국∙러시아∙베트남’ 다 통했다…오리온, 올해 최대 실적 낼까 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150017</link>
-            <guid>https://www.bloter.net/newsView/blt202206150017</guid>
-            <pubDate>Wed, 15 Jun 2022 08:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-15 16:58:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150036.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
