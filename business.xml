@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[S&P·나스닥 올랐는데 코스피·코스닥은 왜 멈췄을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160020</link>
+            <guid>https://www.bloter.net/newsView/blt202206160020</guid>
+            <pubDate>Fri, 17 Jun 2022 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-16 18:31:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['빚잔치는 끝났다'...두산그룹, 신사업보다 '빚갚기' 주력]]></title>
             <link>https://www.bloter.net/newsView/blt202206160009</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 16 Jun 2022 08:32:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-15 20:10:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150061.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소액투자자서 '큰손'들로...무게중심 확 바뀐 온투업]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150023</link>
-            <guid>https://www.bloter.net/newsView/blt202206150023</guid>
-            <pubDate>Thu, 16 Jun 2022 08:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-15 18:35:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150052.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
