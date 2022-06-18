@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 01:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데케미칼 신사업 투자...깊어지는 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170005</link>
+            <guid>https://www.bloter.net/newsView/blt202206170005</guid>
+            <pubDate>Sat, 18 Jun 2022 01:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-17 15:41:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오모빌리티, 매각 시 경쟁력 악화?..."핵심 데이터 모빌리티 소유"]]></title>
             <link>https://www.bloter.net/newsView/blt202206170003</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 17 Jun 2022 03:24:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-16 16:40:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160010</link>
-            <guid>https://www.bloter.net/newsView/blt202206160010</guid>
-            <pubDate>Fri, 17 Jun 2022 01:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-16 15:13:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

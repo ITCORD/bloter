@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 01:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부실에 둔감한 시중은행…위기 시 최종 리스크 누가 지나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170010</link>
+            <guid>https://www.bloter.net/newsView/blt202206170010</guid>
+            <pubDate>Sat, 18 Jun 2022 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-18 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170024.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HMM, 잔치 끝났다...'긴 불황'을 준비할 때]]></title>
             <link>https://www.bloter.net/newsView/blt202206170004</link>
             <guid>https://www.bloter.net/newsView/blt202206170004</guid>
             <pubDate>Fri, 17 Jun 2022 09:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-17 18:00:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170016.570x320.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[①'조 단위' M&A 시동걸까...HMM 유력한 인수후보]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020057</link>
-            <guid>https://www.bloter.net/newsView/blt202203020057</guid>
-            <pubDate>Fri, 17 Jun 2022 09:22:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[IT 강조한 HMM...'민영화보다 경쟁력이 우선']]></title>
-            <link>https://www.bloter.net/newsView/blt202201020001</link>
-            <guid>https://www.bloter.net/newsView/blt202201020001</guid>
-            <pubDate>Fri, 17 Jun 2022 09:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[롯데케미칼 신사업 투자...깊어지는 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170005</link>
+            <guid>https://www.bloter.net/newsView/blt202206170005</guid>
+            <pubDate>Sat, 18 Jun 2022 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[HMM, 4년 만에 자본잠식 해소...재도약 '청신호']]></title>
-            <link>https://www.bloter.net/newsView/blt202102160007</link>
-            <guid>https://www.bloter.net/newsView/blt202102160007</guid>
-            <pubDate>Fri, 17 Jun 2022 09:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[투자환경 바뀐 제약바이오...'긴축과 생존'을 고민할 때]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160013</link>
+            <guid>https://www.bloter.net/newsView/blt202206160013</guid>
+            <pubDate>Sat, 18 Jun 2022 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[S&P·나스닥 올랐는데 코스피·코스닥은 왜 멈췄을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160020</link>
+            <guid>https://www.bloter.net/newsView/blt202206160020</guid>
+            <pubDate>Sat, 18 Jun 2022 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
