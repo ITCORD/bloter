@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 04:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[함께 쓰는 풀리퀘]기계도, 사람도 읽을 수 있는 문서는?②]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170014</link>
+            <guid>https://www.bloter.net/newsView/blt202206170014</guid>
+            <pubDate>Sat, 18 Jun 2022 05:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-18 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170034.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[파라마운트+ in 티빙]②욘더, 과학적 상상력으로 '삶'을 바라보다]]></title>
             <link>https://www.bloter.net/newsView/blt202206170012</link>
             <guid>https://www.bloter.net/newsView/blt202206170012</guid>
             <pubDate>Sat, 18 Jun 2022 03:22:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-18 12:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170030.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[폰SIGHT]뒷자리 '7777', ‘1004' 골드번호...왜 추첨제로 바뀌었을까요]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Jun 2022 07:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-16 14:15:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터넷 익스플로러 '보안 업데이트' 종료…크롬·에지·사파리로 갈아타세요]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160002</link>
-            <guid>https://www.bloter.net/newsView/blt202206160002</guid>
-            <pubDate>Thu, 16 Jun 2022 03:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-16 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
