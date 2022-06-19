@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 09:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 10:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HMM, 잔치 끝났다...'긴 불황'을 준비할 때]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170004</link>
+            <guid>https://www.bloter.net/newsView/blt202206170004</guid>
+            <pubDate>Sun, 19 Jun 2022 10:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-17 18:00:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 격주 주 4일 근무제 시범 도입한다]]></title>
             <link>https://www.bloter.net/newsView/blt202206170009</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 17 Jun 2022 09:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-17 10:06:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['도지파더 자칭' 일론 머스크, 도지코인 투자자로부터 300조원대 피소]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170001</link>
-            <guid>https://www.bloter.net/newsView/blt202206170001</guid>
-            <pubDate>Fri, 17 Jun 2022 08:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-17 09:30:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 09:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 10:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진 보여주자 LG ‘엑사원’이 설명한다...세상 바꿀 ‘초거대AI’ 무엇?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206190001</link>
+            <guid>https://www.bloter.net/newsView/blt202206190001</guid>
+            <pubDate>Sun, 19 Jun 2022 10:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-06-19 19:01:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/19/blt202206190002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['메가 생태계' 꿈꾸는 위메이드, '위믹스 3.0'의 무기는 '안정적 사용처']]></title>
+            <link>https://www.bloter.net/newsView/blt202206180003</link>
+            <guid>https://www.bloter.net/newsView/blt202206180003</guid>
+            <pubDate>Sun, 19 Jun 2022 10:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-19 18:00:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/18/blt202206180002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔씨소프트의 R&D 투자, '프로젝트M' 영상 몰입도로 '결실']]></title>
+            <link>https://www.bloter.net/newsView/blt202206180004</link>
+            <guid>https://www.bloter.net/newsView/blt202206180004</guid>
+            <pubDate>Sun, 19 Jun 2022 10:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-19 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/18/blt202206180005.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[클라우드+]AWS의 파트너가 되면 우리 회사는 무엇이 좋은가요?]]></title>
             <link>https://www.bloter.net/newsView/blt202206180001</link>
             <guid>https://www.bloter.net/newsView/blt202206180001</guid>
             <pubDate>Sun, 19 Jun 2022 07:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-19 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/18/blt202206180001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/18/blt202206180001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인재 채용 고민하는 스타트업, GP가 제시한 해법 'EOR']]></title>
@@ -126,30 +150,6 @@
             <pubDate>Fri, 17 Jun 2022 03:24:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-17 10:56:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현업 전문가들이 본 '데이터 드리븐 마케팅'은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170002</link>
-            <guid>https://www.bloter.net/newsView/blt202206170002</guid>
-            <pubDate>Fri, 17 Jun 2022 03:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-17 10:06:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['도지파더 자칭' 일론 머스크, 도지코인 투자자로부터 300조원대 피소]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170001</link>
-            <guid>https://www.bloter.net/newsView/blt202206170001</guid>
-            <pubDate>Fri, 17 Jun 2022 03:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-17 09:30:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유재성 퓨어스토리지 코리아 사장이 회사명서 '스토리지' 빼고 말한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160017</link>
-            <guid>https://www.bloter.net/newsView/blt202206160017</guid>
-            <pubDate>Thu, 16 Jun 2022 10:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-16 18:35:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
