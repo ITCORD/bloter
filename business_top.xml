@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[플래티어가 말하는 '아틀라시안 활용 노하우'는]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200011</link>
-            <guid>https://www.bloter.net/newsView/blt202206200011</guid>
-            <pubDate>Mon, 20 Jun 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 17:26:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200041.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[롯데케미칼, 남아공 '사솔'과 전해액 합작공장 MOU...1위 기업 엔켐 따라잡을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200018</link>
+            <guid>https://www.bloter.net/newsView/blt202206200018</guid>
+            <pubDate>Mon, 20 Jun 2022 10:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-20 18:34:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200044.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["마테크 성장 놀라워, 데이터 활용 패러다임 변해야"-인사이더 이진우 대표]]></title>
-            <link>https://www.bloter.net/newsView/blt202010260013</link>
-            <guid>https://www.bloter.net/newsView/blt202010260013</guid>
-            <pubDate>Mon, 20 Jun 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[롯데케미칼 신사업 투자...깊어지는 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170005</link>
+            <guid>https://www.bloter.net/newsView/blt202206170005</guid>
+            <pubDate>Mon, 20 Jun 2022 10:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[플래티어, ‘그루비 시즌2’ 출시…인공지능으로 개인화 마테크 솔루션 제공]]></title>
-            <link>https://www.bloter.net/newsView/blt202006010028</link>
-            <guid>https://www.bloter.net/newsView/blt202006010028</guid>
-            <pubDate>Mon, 20 Jun 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김주리</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['한 푼이라도 더'...투자역량 끌어모으는 롯데케미칼]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270009</link>
+            <guid>https://www.bloter.net/newsView/blt202205270009</guid>
+            <pubDate>Mon, 20 Jun 2022 10:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아틀라시안, 프로젝트 관리 도구 '트렐로' 5100억원에 인수]]></title>
-            <link>https://www.bloter.net/newsView/blt201701100002</link>
-            <guid>https://www.bloter.net/newsView/blt201701100002</guid>
-            <pubDate>Mon, 20 Jun 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이지현</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아틀라시안 "개발자 위한 협업 도구 드려요"]]></title>
-            <link>https://www.bloter.net/newsView/blt201602020001</link>
-            <guid>https://www.bloter.net/newsView/blt201602020001</guid>
-            <pubDate>Mon, 20 Jun 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이지현</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[화학공룡 롯데케미칼이 움직인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205190017</link>
+            <guid>https://www.bloter.net/newsView/blt202205190017</guid>
+            <pubDate>Mon, 20 Jun 2022 10:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
