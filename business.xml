@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울옥션 눈독 들이는 신세계, 자금은 충분?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206160018</link>
+            <guid>https://www.bloter.net/newsView/blt202206160018</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-19 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140014.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스톡옵션 행사·펀드 결성, '주주(ZUZU)'에선 누구나 쉽게 가능합니다]]></title>
             <link>https://www.bloter.net/newsView/blt202206170015</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 19 Jun 2022 01:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-17 17:03:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170015.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데케미칼 신사업 투자...깊어지는 고민]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170005</link>
-            <guid>https://www.bloter.net/newsView/blt202206170005</guid>
-            <pubDate>Sat, 18 Jun 2022 01:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-17 15:41:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 01:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[사진 보여주자 LG ‘엑사원’이 설명한다...세상 바꿀 ‘초거대AI’ 무엇?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206190001</link>
-            <guid>https://www.bloter.net/newsView/blt202206190001</guid>
-            <pubDate>Sun, 19 Jun 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-06-19 19:01:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/19/blt202206190002.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[현대차, 미쉐린과 전기차용 차세대 타이어 개발한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200007</link>
+            <guid>https://www.bloter.net/newsView/blt202206200007</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-20 12:01:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200011.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[목전 이른 KT AI 2.0 면면 살펴보니…'초거대 AI' 윤곽 보인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205190074</link>
-            <guid>https://www.bloter.net/newsView/blt202205190074</guid>
-            <pubDate>Sun, 19 Jun 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차 '전기차 충전'도 테스트→시장 출시 가능해진다…'정보통신법 개정안' 국무회의 의결]]></title>
+            <link>https://www.bloter.net/newsView/blt202206070028</link>
+            <guid>https://www.bloter.net/newsView/blt202206070028</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“거기 가는 길 알려줘” 물어도 OK…네이버 음성검색에 들어간 ‘초거대 AI’]]></title>
-            <link>https://www.bloter.net/newsView/blt202112200092</link>
-            <guid>https://www.bloter.net/newsView/blt202112200092</guid>
-            <pubDate>Sun, 19 Jun 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차그룹, 국내에 63조 투자...전동화 밸류체인 강화에 '올인']]></title>
+            <link>https://www.bloter.net/newsView/blt202205240092</link>
+            <guid>https://www.bloter.net/newsView/blt202205240092</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG·네이버 뛰어든 ‘초거대 AI’...'초거대' 의미는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202105260035</link>
-            <guid>https://www.bloter.net/newsView/blt202105260035</guid>
-            <pubDate>Sun, 19 Jun 2022 10:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG에너지솔루션·폭스바겐, 현대차의 '신기록'을 깼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240006</link>
+            <guid>https://www.bloter.net/newsView/blt202205240006</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['전동화 올인' 현대차, 국내에 21조 투자...노사갈등 잦지만 국내 경제에 기여]]></title>
+            <link>https://www.bloter.net/newsView/blt202205180029</link>
+            <guid>https://www.bloter.net/newsView/blt202205180029</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
