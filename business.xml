@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상반기 마케팅 트렌드 키워드는…'선택받기 위한 변주']]></title>
+            <link>https://www.bloter.net/newsView/blt202206200008</link>
+            <guid>https://www.bloter.net/newsView/blt202206200008</guid>
+            <pubDate>Mon, 20 Jun 2022 08:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 14:16:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대차, 미쉐린과 전기차용 차세대 타이어 개발한다]]></title>
             <link>https://www.bloter.net/newsView/blt202206200007</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 20 Jun 2022 03:15:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-19 14:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스톡옵션 행사·펀드 결성, '주주(ZUZU)'에선 누구나 쉽게 가능합니다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170015</link>
-            <guid>https://www.bloter.net/newsView/blt202206170015</guid>
-            <pubDate>Mon, 20 Jun 2022 01:31:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-19 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170039.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
