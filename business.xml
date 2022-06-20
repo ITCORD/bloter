@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 06:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, 미쉐린과 전기차용 차세대 타이어 개발한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200007</link>
+            <guid>https://www.bloter.net/newsView/blt202206200007</guid>
+            <pubDate>Mon, 20 Jun 2022 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-20 12:01:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘메탄가스를 수소로’…LG화학, 5만톤 수소공장 짓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200004</link>
+            <guid>https://www.bloter.net/newsView/blt202206200004</guid>
+            <pubDate>Mon, 20 Jun 2022 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-20 10:25:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입소문으로 7억 사용자 모은 텔레그램, 첫 유료 상품 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200001</link>
+            <guid>https://www.bloter.net/newsView/blt202206200001</guid>
+            <pubDate>Mon, 20 Jun 2022 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-20 09:58:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사진 보여주자 LG ‘엑사원’이 설명한다...세상 바꿀 ‘초거대AI’ 무엇?]]></title>
             <link>https://www.bloter.net/newsView/blt202206190001</link>
@@ -30,30 +54,6 @@
             <pubDate>Mon, 20 Jun 2022 01:31:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-19 08:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170039.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부실에 둔감한 시중은행…위기 시 최종 리스크 누가 지나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170010</link>
-            <guid>https://www.bloter.net/newsView/blt202206170010</guid>
-            <pubDate>Mon, 20 Jun 2022 01:31:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-18 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170024.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HMM, 잔치 끝났다...'긴 불황'을 준비할 때]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170004</link>
-            <guid>https://www.bloter.net/newsView/blt202206170004</guid>
-            <pubDate>Sun, 19 Jun 2022 10:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-17 18:00:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 격주 주 4일 근무제 시범 도입한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170009</link>
-            <guid>https://www.bloter.net/newsView/blt202206170009</guid>
-            <pubDate>Sun, 19 Jun 2022 05:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-17 17:58:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/17/blt202206170019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
