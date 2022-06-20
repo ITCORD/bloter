@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 08:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터·틱톡...콘텐츠 유니콘 기업들의 노하우 엿보기]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200010</link>
+            <guid>https://www.bloter.net/newsView/blt202206200010</guid>
+            <pubDate>Mon, 20 Jun 2022 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 15:27:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200017.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[상반기 마케팅 트렌드 키워드는…'선택받기 위한 변주']]></title>
             <link>https://www.bloter.net/newsView/blt202206200008</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 20 Jun 2022 06:22:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2022-06-19 19:01:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/19/blt202206190002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서울옥션 눈독 들이는 신세계, 자금은 충분?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160018</link>
-            <guid>https://www.bloter.net/newsView/blt202206160018</guid>
-            <pubDate>Mon, 20 Jun 2022 03:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-19 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/14/blt202206140014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
