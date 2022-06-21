@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[코스모화학, 폐배터리 재활용에 추가 투자...'도시광산'서 리튬 캔다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210008</link>
-            <guid>https://www.bloter.net/newsView/blt202206210008</guid>
-            <pubDate>Tue, 21 Jun 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-21 15:20:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210024.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘자본잠식 겨우 피했다’…롯데관광개발, 해뜰날 오나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210010</link>
+            <guid>https://www.bloter.net/newsView/blt202206210010</guid>
+            <pubDate>Tue, 21 Jun 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-21 15:21:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210021.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[배터리 업계에 부는 '전구체 바람'...포스코케미칼·LG화학 이어 코스모그룹 가세]]></title>
-            <link>https://www.bloter.net/newsView/blt202204270039</link>
-            <guid>https://www.bloter.net/newsView/blt202204270039</guid>
-            <pubDate>Tue, 21 Jun 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['위드코로나' 앞두고 기회 엿보는 여행 앱들…전략은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202110270005</link>
+            <guid>https://www.bloter.net/newsView/blt202110270005</guid>
+            <pubDate>Tue, 21 Jun 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[코스모화학, 폐배터리 투자…과중한 재무부담 걸림돌]]></title>
-            <link>https://www.bloter.net/newsView/blt202108260020</link>
-            <guid>https://www.bloter.net/newsView/blt202108260020</guid>
-            <pubDate>Tue, 21 Jun 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[야놀자, 인터파크 사업부문 인수..."글로벌 여행시장 본격 공략"]]></title>
+            <link>https://www.bloter.net/newsView/blt202110140072</link>
+            <guid>https://www.bloter.net/newsView/blt202110140072</guid>
+            <pubDate>Tue, 21 Jun 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GS 방계 코스모그룹, 험난한 '배터리 도전기' 성공할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202104190014</link>
-            <guid>https://www.bloter.net/newsView/blt202104190014</guid>
-            <pubDate>Tue, 21 Jun 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['여행·공연' 침체 여파, 인터파크 적자 지속]]></title>
+            <link>https://www.bloter.net/newsView/blt202105090008</link>
+            <guid>https://www.bloter.net/newsView/blt202105090008</guid>
+            <pubDate>Tue, 21 Jun 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김주리</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국여행, 외국인이 세계에 알려요…‘글로벌 SNS 기자단’ 출범]]></title>
+            <link>https://www.bloter.net/newsView/blt202104260009</link>
+            <guid>https://www.bloter.net/newsView/blt202104260009</guid>
+            <pubDate>Tue, 21 Jun 2022 07:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김명상</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

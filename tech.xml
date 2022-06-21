@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 우주센터]낮이 가장 긴 날, 누리호 날았다…운명의 ‘16분7초’ 시작]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210012</link>
+            <guid>https://www.bloter.net/newsView/blt202206210012</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-21 16:06:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210031.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[여기는 우주센터]누리호 2차 발사 오후 4시 확정…추진체 공급 완료]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210011</link>
+            <guid>https://www.bloter.net/newsView/blt202206210011</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">고흥=정두용</span>                        <span class="date">2022-06-21 15:25:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210026.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안과 전통 강호 '삼일제약', 루센티스 바이오시밀러로 재도약]]></title>
             <link>https://www.bloter.net/newsView/blt202206210009</link>
             <guid>https://www.bloter.net/newsView/blt202206210009</guid>
             <pubDate>Tue, 21 Jun 2022 06:21:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-21 15:20:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210020.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MZ세대는 왜 U+알뜰폰을 찾을까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 20 Jun 2022 07:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 15:27:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 마케팅 트렌드 키워드는…'선택받기 위한 변주']]></title>
-            <link>https://www.bloter.net/newsView/blt202206200008</link>
-            <guid>https://www.bloter.net/newsView/blt202206200008</guid>
-            <pubDate>Mon, 20 Jun 2022 05:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 14:16:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]천애명월도M, '모바일 6월대전'서 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200005</link>
-            <guid>https://www.bloter.net/newsView/blt202206200005</guid>
-            <pubDate>Mon, 20 Jun 2022 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-20 11:29:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200008.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
