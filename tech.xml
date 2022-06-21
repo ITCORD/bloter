@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 04:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대는 왜 U+알뜰폰을 찾을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210007</link>
+            <guid>https://www.bloter.net/newsView/blt202206210007</guid>
+            <pubDate>Tue, 21 Jun 2022 05:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-21 13:55:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210018.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[여기는 우주센터]“구름 걷히기 시작했다”…누리호, 막바지 준비 ‘착착’]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210006</link>
+            <guid>https://www.bloter.net/newsView/blt202206210006</guid>
+            <pubDate>Tue, 21 Jun 2022 05:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">고흥=정두용</span>                        <span class="date">2022-06-21 13:51:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210017.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 우주센터]누리호, 추진제 공급 결정…16시 발사 유력]]></title>
             <link>https://www.bloter.net/newsView/blt202206210005</link>
             <guid>https://www.bloter.net/newsView/blt202206210005</guid>
             <pubDate>Tue, 21 Jun 2022 03:29:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">고흥=정두용</span>                        <span class="date">2022-06-21 12:00:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[IT로 고독사 방지]②SKT·KT·네이버는 어르신 돌봄에 왜 나섰나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 20 Jun 2022 01:31:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-20 10:16:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[입소문으로 7억 사용자 모은 텔레그램, 첫 유료 상품 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200001</link>
-            <guid>https://www.bloter.net/newsView/blt202206200001</guid>
-            <pubDate>Mon, 20 Jun 2022 01:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-20 09:58:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번 밀린 누리호, 두 번째 비행 위해 ‘발사장 도착’]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200002</link>
-            <guid>https://www.bloter.net/newsView/blt202206200002</guid>
-            <pubDate>Mon, 20 Jun 2022 01:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-20 09:54:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
