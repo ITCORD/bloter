@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데케미칼, 남아공 '사솔'과 전해액 유기용매 합작공장 MOU]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200018</link>
+            <guid>https://www.bloter.net/newsView/blt202206200018</guid>
+            <pubDate>Tue, 21 Jun 2022 08:32:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-20 18:34:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200044.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[플래티어가 말하는 '아틀라시안 활용 노하우'는]]></title>
             <link>https://www.bloter.net/newsView/blt202206200011</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 20 Jun 2022 09:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 15:27:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200017.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 마케팅 트렌드 키워드는…'선택받기 위한 변주']]></title>
-            <link>https://www.bloter.net/newsView/blt202206200008</link>
-            <guid>https://www.bloter.net/newsView/blt202206200008</guid>
-            <pubDate>Mon, 20 Jun 2022 08:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-06-20 14:16:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
