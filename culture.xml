@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 10:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 11:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]우마무스메, '오딘 경쟁작' or '포스트 프린세스커넥트'?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210019</link>
+            <guid>https://www.bloter.net/newsView/blt202206210019</guid>
+            <pubDate>Tue, 21 Jun 2022 11:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210050.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 휴먼 '무아인', 무신사 '메타버스' 출발점 될까]]></title>
             <link>https://www.bloter.net/newsView/blt202206210014</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 13 Jun 2022 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/13/blt202206130020.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]넥슨이 장애 아동·청소년 돕는 법은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206120001</link>
-            <guid>https://www.bloter.net/newsView/blt202206120001</guid>
-            <pubDate>Mon, 20 Jun 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 고용노동부가 발표한 '장애인 통계' 자료에 따르면 국내 청각장애 인구는 전체 장애인구의 약 16%를 기록했다. 이는 전체 장애인구 가운데 두 번째에 해당하는 비율이다. 특히 국내 신생아 1000명 중 1~2명은 난청으로 태어난다. 난청을 확진 받은 아동은 3살 이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/12/blt202206120001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
