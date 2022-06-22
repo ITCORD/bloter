@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 10:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 11:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배터리 투자 하느라'...재무관리 빠듯한 SK이노, 정제마진 급등 다행]]></title>
+            <link>https://www.bloter.net/newsView/blt202206220010</link>
+            <guid>https://www.bloter.net/newsView/blt202206220010</guid>
+            <pubDate>Wed, 22 Jun 2022 11:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-22 16:06:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, '인종·성차별' 주택 광고 알고리즘 중단]]></title>
             <link>https://www.bloter.net/newsView/blt202206220009</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 22 Jun 2022 07:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-21 18:35:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210046.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우버·리프트 불황 속 '쏘카' IPO 도전기]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210015</link>
-            <guid>https://www.bloter.net/newsView/blt202206210015</guid>
-            <pubDate>Wed, 22 Jun 2022 05:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-21 18:18:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210043.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
