@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 09:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[카카오모빌리티-LG전자, 구체화되는 '모빌리티 협업']]></title>
+            <title><![CDATA['브랜디' 인수 후 1개월…'서울스토어' 거래액 성장 얼마나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206220020</link>
+            <guid>https://www.bloter.net/newsView/blt202206220020</guid>
+            <pubDate>Wed, 22 Jun 2022 10:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-22 18:58:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220039.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빗썸 등 가상자산거래소, '우리5대끼리' 협의체? 국힘 "안 된다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206220019</link>
+            <guid>https://www.bloter.net/newsView/blt202206220019</guid>
+            <pubDate>Wed, 22 Jun 2022 10:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-22 18:54:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220038.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오모빌리티-LG, 구체화되는 '모빌리티 협업']]></title>
             <link>https://www.bloter.net/newsView/blt202206220018</link>
             <guid>https://www.bloter.net/newsView/blt202206220018</guid>
             <pubDate>Wed, 22 Jun 2022 09:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-22 18:13:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220037.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최저가 비교 '에누리닷컴', 브랜드스토어 연 이유는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 21 Jun 2022 07:16:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-21 16:06:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210037.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 우주센터]누리호 2차 발사 오후 4시 확정…추진체 공급 완료]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210011</link>
-            <guid>https://www.bloter.net/newsView/blt202206210011</guid>
-            <pubDate>Tue, 21 Jun 2022 07:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">고흥=정두용</span>                        <span class="date">2022-06-21 15:25:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안과 전통 강호 '삼일제약', 루센티스 바이오시밀러로 재도약]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210009</link>
-            <guid>https://www.bloter.net/newsView/blt202206210009</guid>
-            <pubDate>Tue, 21 Jun 2022 06:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-21 15:20:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
