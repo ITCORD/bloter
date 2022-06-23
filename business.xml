@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령의 달라진 원전 철학...두산에너빌리티 수주 환경 '청신호'일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206220016</link>
+            <guid>https://www.bloter.net/newsView/blt202206220016</guid>
+            <pubDate>Thu, 23 Jun 2022 23:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-23 10:08:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빗썸 등 가상자산거래소, '우리5대끼리' 협의체? 국힘 "안 된다"]]></title>
             <link>https://www.bloter.net/newsView/blt202206220019</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 22 Jun 2022 11:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-22 16:06:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, '인종·성차별' 주택 광고 알고리즘 중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202206220009</link>
-            <guid>https://www.bloter.net/newsView/blt202206220009</guid>
-            <pubDate>Wed, 22 Jun 2022 09:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-22 15:41:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
