@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티-LG, 구체화되는 '모빌리티 협업']]></title>
+            <link>https://www.bloter.net/newsView/blt202206220018</link>
+            <guid>https://www.bloter.net/newsView/blt202206220018</guid>
+            <pubDate>Thu, 23 Jun 2022 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-22 18:13:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최저가 비교 '에누리닷컴', 브랜드스토어 연 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202206220012</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 22 Jun 2022 09:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-22 14:11:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유럽 직접 둘러본 신동빈 회장...'새로운 롯데' 만들기 총력]]></title>
-            <link>https://www.bloter.net/newsView/blt202206220003</link>
-            <guid>https://www.bloter.net/newsView/blt202206220003</guid>
-            <pubDate>Wed, 22 Jun 2022 08:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-22 10:49:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['의료 AI' 기업 딥노이드·루닛·뷰노가 SK㈜ C&C와 손잡은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202206230007</link>
+            <guid>https://www.bloter.net/newsView/blt202206230007</guid>
+            <pubDate>Thu, 23 Jun 2022 06:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-23 15:19:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리프레시 위한 필수템 'LG 힐링미 안마의자 타히티']]></title>
+            <link>https://www.bloter.net/newsView/blt202206230005</link>
+            <guid>https://www.bloter.net/newsView/blt202206230005</guid>
+            <pubDate>Thu, 23 Jun 2022 06:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-23 13:54:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계가 한글과컴퓨터에 지분 투자하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202206230004</link>
             <guid>https://www.bloter.net/newsView/blt202206230004</guid>
             <pubDate>Thu, 23 Jun 2022 04:36:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-23 12:05:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에픽게임즈, 리뷰 폭탄 방어 위해 '2시간 플레이 룰' 도입]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 22 Jun 2022 01:43:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-22 10:20:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT로 고독사 방지]③정부 사업만 바라보는 헬스케어…B2B·B2C 확대 해법은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210020</link>
-            <guid>https://www.bloter.net/newsView/blt202206210020</guid>
-            <pubDate>Wed, 22 Jun 2022 01:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">안치영</span>                        <span class="date">2022-06-22 09:32:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210054.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[누리호 성공]‘미완’의 설움 씻었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210018</link>
-            <guid>https://www.bloter.net/newsView/blt202206210018</guid>
-            <pubDate>Tue, 21 Jun 2022 11:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">고흥=정두용</span>                        <span class="date">2022-06-21 20:15:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
