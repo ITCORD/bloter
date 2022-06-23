@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT·LG전자가 '새싹 유니콘' AI 스타트업 찾는 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202206230008</link>
+            <guid>https://www.bloter.net/newsView/blt202206230008</guid>
+            <pubDate>Thu, 23 Jun 2022 07:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-23 15:57:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['의료 AI' 기업 딥노이드·루닛·뷰노가 SK㈜ C&C와 손잡은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202206230007</link>
             <guid>https://www.bloter.net/newsView/blt202206230007</guid>
             <pubDate>Thu, 23 Jun 2022 06:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-23 15:19:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리프레시 위한 필수템 'LG 힐링미 안마의자 타히티']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 22 Jun 2022 03:34:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-22 11:08:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모빌리티 매각' 관련 침묵 지킨 남궁훈 카카오 대표]]></title>
-            <link>https://www.bloter.net/newsView/blt202206220001</link>
-            <guid>https://www.bloter.net/newsView/blt202206220001</guid>
-            <pubDate>Wed, 22 Jun 2022 01:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-22 10:20:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
