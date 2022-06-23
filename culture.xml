@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽게임즈, 리뷰 폭탄 방어 위해 '2시간 플레이 룰' 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202206230002</link>
+            <guid>https://www.bloter.net/newsView/blt202206230002</guid>
+            <pubDate>Thu, 23 Jun 2022 01:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[에픽게임즈가 리뷰 폭탄(컨텐츠에 부정적인 사용자 리뷰를 한꺼번에 작성되는 현상) 근절을 위해 '2시간 플레이 룰'을 도입했다.22일(미국 현지시간) IT 전문매체 &lt;더 버지(The Verge)&gt;에 따르면 에픽게임즈는 2시간 이상 게임을 플레이한 무작위 플레이어에게 리뷰]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230005.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]우마무스메, 구글 매출 7위 차트인…반등 여력은]]></title>
+            <link>https://www.bloter.net/newsView/blt202206230001</link>
+            <guid>https://www.bloter.net/newsView/blt202206230001</guid>
+            <pubDate>Thu, 23 Jun 2022 01:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[지난 20일 카카오게임즈가 출시한 '우마무스메: 프리티 더비'(이하 우마무스메)가 구글플레이 스토어에서 매출 톱10에 안착했다. 23일 오전 8시 기준 현재, 우마무스메는 구글플레이 매출 7위를 기록하고 있다. 우마무스메는 시스템 특성상 상대적으로 애플 앱스토어]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['브랜디' 인수 후 1개월…'서울스토어' 거래액 성장 얼마나]]></title>
             <link>https://www.bloter.net/newsView/blt202206220020</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 08:33:50 GMT</pubDate>
             <content:encoded><![CDATA[국내 OTT 플랫폼 '티빙'이 16일부터 플랫폼 내 '파라마운트 플러스(+)' 상영관을 론칭했다. 파라마운트+의 오리지널 콘텐츠를 티빙 플랫폼 안에서 시청할 수 있어 '하나의 구독료로 두 개의 스트리밍을 이용할 수 있다'는 명제가 실현된 셈이다. 여기에 티빙과 파라마운]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/16/blt202206160023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[발란, 성장 혹은 위기]②'벼랑 끝' 발란, 최형록 대표 직속 'ESG 경영' 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150021</link>
-            <guid>https://www.bloter.net/newsView/blt202206150021</guid>
-            <pubDate>Wed, 15 Jun 2022 10:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[명품 커머스 플랫폼 '발란'이 반품비 정책 개선에 발벗고 나섰다. 올 상반기 개인정보 유출부터 과도한 반품비, 가품 판매까지 연이어 발생한 악재와 관련해, 근본적인 정책 개선을 통한 문제해결에 나선 것이다. 특히 최근 발란은 최형록 발란 대표 직속의 ESG 경영]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150050.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]코인도 간편결제로…넷마블F&C '큐브', 바이낸스 커넥트 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150011</link>
-            <guid>https://www.bloter.net/newsView/blt202206150011</guid>
-            <pubDate>Wed, 15 Jun 2022 06:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블 자회사 넷마블에프앤씨의 블록체인 플랫폼 '큐브'(CUBE)에 간편결제 시스템이 도입된다. 최근 웹툰·웹 3.0·크립토·엔터테인먼트·게임·이노베이션·커머스 분야에 걸친 '에코시스템 파트너'를 공개한 만큼 간편결제 시스템이 도입]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/15/blt202206150023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
