@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈 유럽법인, '8000억 실탄' 장전한다…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206240016</link>
+            <guid>https://www.bloter.net/newsView/blt202206240016</guid>
+            <pubDate>Fri, 24 Jun 2022 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈의 100% 자회사인 카카오게임즈 유럽법인(Kakao Games Europe B.V.·이하 유럽법인)이 내외부 자금수혈을 통해 글로벌 시장 공략에 나선다. 앞서 글로벌 유망 개발사에 투자를 단행하며 카카오게임즈의 해외 비즈니스를 담당해온 유럽법인은 모회사와 외]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240031.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MZ감성 제대로 자극한 유튜브 음악채널 '에센셜', 비법은?]]></title>
             <link>https://www.bloter.net/newsView/blt202206240011</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Jun 2022 09:28:34 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 가상 인간(버추얼 휴먼) '무아인'을 선보인 가운데 향후 메타버스 사업 진출 여부가 관심사로 떠올랐다. 무신사는 버추얼 휴먼에 이어 내달 '버추얼 쇼룸' 오픈을 앞두며 '패션 세계관'을 구축하고 있는데, 이달 메타버스 관련 상표권을 출원하며 가상세계]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]천애명월도M, '모바일 6월대전'서 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200005</link>
-            <guid>https://www.bloter.net/newsView/blt202206200005</guid>
-            <pubDate>Mon, 20 Jun 2022 03:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[온라인게임 '천애명월도'의 세계관을 계승한 모바일 게임 '천애명월도M'이 '6월 모바일 대전'에 합류한다. 지난 3일 출시된 '디아블로 이모탈'을 시작으로 '머지 쿵야 아일랜드'(15일), '우마무스메: 프리티 더비'(20일)이 이 달 서비스를 시작하면서 모바일 업계에 신작]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200008.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
