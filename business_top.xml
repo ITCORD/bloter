@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[쏘카, 8월 상장 목표...롯데렌탈 투자 단가보다 낮은 희망가]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240010</link>
-            <guid>https://www.bloter.net/newsView/blt202206240010</guid>
-            <pubDate>Fri, 24 Jun 2022 07:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-24 15:45:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240020.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA['환율 급등 오히려 좋아'...LX인터내셔널은 웃는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206240013</link>
+            <guid>https://www.bloter.net/newsView/blt202206240013</guid>
+            <pubDate>Fri, 24 Jun 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-24 16:24:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240028.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우버·리프트 불황 속 '쏘카' IPO 도전기]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210015</link>
-            <guid>https://www.bloter.net/newsView/blt202206210015</guid>
-            <pubDate>Fri, 24 Jun 2022 07:15:54 GMT</pubDate>
+            <title><![CDATA[LX그룹, '조 단위' 매그나칩 인수의향서 제출...M&A '가속도']]></title>
+            <link>https://www.bloter.net/newsView/blt202205180060</link>
+            <guid>https://www.bloter.net/newsView/blt202205180060</guid>
+            <pubDate>Fri, 24 Jun 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[텔레칩스 2대주주 된 LX세미콘, 지분 취득 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202205180053</link>
+            <guid>https://www.bloter.net/newsView/blt202205180053</guid>
+            <pubDate>Fri, 24 Jun 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LX세미콘, 역대급 실적에도 '현금흐름' 감소 배경은]]></title>
+            <link>https://www.bloter.net/newsView/blt202204250084</link>
+            <guid>https://www.bloter.net/newsView/blt202204250084</guid>
+            <pubDate>Fri, 24 Jun 2022 08:22:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['타다' 떼어낸 '쏘카', 매출 늘었지만 여전히 적자]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310061</link>
-            <guid>https://www.bloter.net/newsView/blt202203310061</guid>
-            <pubDate>Fri, 24 Jun 2022 07:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쏘카, 공유 전기자전거 '일레클' 인수…"슈퍼앱으로 진화"]]></title>
-            <link>https://www.bloter.net/newsView/blt202112160012</link>
-            <guid>https://www.bloter.net/newsView/blt202112160012</guid>
-            <pubDate>Fri, 24 Jun 2022 07:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LX홀딩스, 노진서 CSO 대표 선임...‘후계자’ 구형모는 전무 승진]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290061</link>
+            <guid>https://www.bloter.net/newsView/blt202203290061</guid>
+            <pubDate>Fri, 24 Jun 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
