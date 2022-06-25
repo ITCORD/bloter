@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 22:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 23:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[IPO '장기전' 뛰는 토스, 매출 성장세 지속 가능할까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240017</link>
-            <guid>https://www.bloter.net/newsView/blt202206240017</guid>
-            <pubDate>Fri, 24 Jun 2022 10:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-24 18:23:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240032.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[루이비통의 LVMH그룹이 반한 ‘마크비전’은 어떻게 성장했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206240022</link>
+            <guid>https://www.bloter.net/newsView/blt202206240022</guid>
+            <pubDate>Sat, 25 Jun 2022 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-26 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240037.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[토스뱅크, 급속히 늘어나는 '위험가중자산'…경제위기 걱정 없나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070006</link>
-            <guid>https://www.bloter.net/newsView/blt202206070006</guid>
-            <pubDate>Fri, 24 Jun 2022 10:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[③토스·업비트 있지만 센드버드 없는 한국…B2B 키워야 산다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205180061</link>
-            <guid>https://www.bloter.net/newsView/blt202205180061</guid>
-            <pubDate>Fri, 24 Jun 2022 10:18:42 GMT</pubDate>
+            <title><![CDATA[스톡옵션 행사·펀드 결성, '주주(ZUZU)'에선 누구나 쉽게 가능합니다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206170015</link>
+            <guid>https://www.bloter.net/newsView/blt202206170015</guid>
+            <pubDate>Sat, 25 Jun 2022 23:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["토스뱅크는 20~30년 전 시스템 쓰는 은행과 다르다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202205180014</link>
-            <guid>https://www.bloter.net/newsView/blt202205180014</guid>
-            <pubDate>Fri, 24 Jun 2022 10:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[첫 상장나선 액셀러레이터 '블루포인트·퓨처플레이', 성적 들여다보니]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150025</link>
+            <guid>https://www.bloter.net/newsView/blt202206150025</guid>
+            <pubDate>Sat, 25 Jun 2022 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["스타트업판 쇼미더머니"…토스, 자체 제작 콘텐츠 '파운드' 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202205060111</link>
-            <guid>https://www.bloter.net/newsView/blt202205060111</guid>
-            <pubDate>Fri, 24 Jun 2022 10:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[218개국에서 쓰는 알약 카운팅 앱 '필아이'는 어떻게 만들어졌을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206100010</link>
+            <guid>https://www.bloter.net/newsView/blt202206100010</guid>
+            <pubDate>Sat, 25 Jun 2022 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
