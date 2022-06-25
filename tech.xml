@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 01:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:35:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]넷마블네오, NTP 미공개 신작 추가…IPO 노릴까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206230011</link>
+            <guid>https://www.bloter.net/newsView/blt202206230011</guid>
+            <pubDate>Sat, 25 Jun 2022 03:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-25 11:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KT 민영화 20년]②'지주형·핵심 기업 제휴'…디지코 키워드]]></title>
             <link>https://www.bloter.net/newsView/blt202206250001</link>
             <guid>https://www.bloter.net/newsView/blt202206250001</guid>
             <pubDate>Sat, 25 Jun 2022 01:28:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-25 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/25/blt202206250001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/25/blt202206250001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[폰SIGHT]낫싱의 투명폰 '폰원', 디자인이 흥행 보증수표?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 23 Jun 2022 04:36:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-23 12:05:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 리뷰 폭탄 방어 위해 '2시간 플레이 룰' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202206230002</link>
-            <guid>https://www.bloter.net/newsView/blt202206230002</guid>
-            <pubDate>Thu, 23 Jun 2022 01:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-23 09:46:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
