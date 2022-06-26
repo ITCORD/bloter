@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -303,7 +303,7 @@ PH-1의 실패 이유는 크게 최적화의 실패, 출고 지연, 디자인 �
             <title><![CDATA['대세는 순환경제'...화학업체들의 재활용 사업 러시 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202206240014</link>
             <guid>https://www.bloter.net/newsView/blt202206240014</guid>
-            <pubDate>Sun, 26 Jun 2022 08:22:08 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-26 17:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240029.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -420,12 +420,28 @@ PH-1의 실패 이유는 크게 최적화의 실패, 출고 지연, 디자인 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[넷마블표 레볼루션, '흥행 보증 수표'로 자리잡은 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206260002</link>
+            <guid>https://www.bloter.net/newsView/blt202206260002</guid>
+            <pubDate>Sun, 26 Jun 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-26 18:00:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일반의약품 화상판매기 성공 여부, 결국 약사에게 달렸다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206220007</link>
+            <guid>https://www.bloter.net/newsView/blt202206220007</guid>
+            <pubDate>Sun, 26 Jun 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-26 18:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200047.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스타트업 돋보기]"전문가 필요해요?" 탤런트뱅크가 제시한 해법 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202206250002</link>
             <guid>https://www.bloter.net/newsView/blt202206250002</guid>
             <pubDate>Sun, 26 Jun 2022 07:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-26 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/25/blt202206250005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/25/blt202206250005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT 민영화 20년]③'콘텐츠 디지코' 드라이브에 쏠리는 기대와 우려 (블로터 ─ 테크)]]></title>
@@ -546,22 +562,6 @@ PH-1의 실패 이유는 크게 최적화의 실패, 출고 지연, 디자인 �
             <pubDate>Fri, 24 Jun 2022 03:41:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-24 11:26:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한B씨]'성장 둔화' 넷플릭스, 제작비 줄이고 정리해고까지 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240004</link>
-            <guid>https://www.bloter.net/newsView/blt202206240004</guid>
-            <pubDate>Fri, 24 Jun 2022 03:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-24 10:46:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["정부 공공데이터 사업, 기업 실무자들은 기피합니다" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206230013</link>
-            <guid>https://www.bloter.net/newsView/blt202206230013</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-23 17:51:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -840,6 +840,14 @@ PH-1의 실패 이유는 크게 최적화의 실패, 출고 지연, 디자인 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240023.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[넷마블표 레볼루션, '흥행 보증 수표'로 자리잡은 이유 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206260002</link>
+            <guid>https://www.bloter.net/newsView/blt202206260002</guid>
+            <pubDate>Sun, 26 Jun 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블이 내달 28일 신작 게임 '세븐나이츠 레볼루션'을 출시하며 분위기 전환에 나선다. 넷마블은 자체 지식재산권(IP) 비중 감소와 외부 로열티 증가로 인한 적자 전환한 상황에서 출격하는 세븐나이츠 레볼루션이 구원투수가 될지 주목하고 있다.  '레볼루션', 타]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오~컬쳐]'최종병기앨리스'로 본 '왓챠 오리지널리티' (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202206260001</link>
             <guid>https://www.bloter.net/newsView/blt202206260001</guid>
@@ -926,14 +934,6 @@ PH-1의 실패 이유는 크게 최적화의 실패, 출고 지연, 디자인 �
             <pubDate>Tue, 21 Jun 2022 09:21:53 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 가상 인간(버추얼 휴먼) '무아인'을 선보인 가운데 향후 메타버스 사업 진출 여부가 관심사로 떠올랐다. 무신사는 버추얼 휴먼에 이어 내달 '버추얼 쇼룸' 오픈을 앞두며 '패션 세계관'을 구축하고 있는데, 이달 메타버스 관련 상표권을 출원하며 가상세계]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]쿠팡플레이, '종이의 집 한국판' 감독 손 잡나 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200016</link>
-            <guid>https://www.bloter.net/newsView/blt202206200016</guid>
-            <pubDate>Mon, 20 Jun 2022 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠업계가 국내 OTT 플랫폼 '쿠팡플레이'의 오리지널 콘텐츠 편성에 주목하고 있다. 쿠팡플레이가 '종이의 집: 공동경제구역'을 연출한 김홍선 감독의 차기작을 편성할 가능성이 제기됐기 때문이다.  20일 업계에 따르면, 최근 김홍선 감독이 연출하는 OTT 콘텐츠 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'최종병기앨리스'로 본 '왓챠 오리지널리티' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

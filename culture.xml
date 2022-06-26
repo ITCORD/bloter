@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 08:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷마블표 레볼루션, '흥행 보증 수표'로 자리잡은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202206260002</link>
+            <guid>https://www.bloter.net/newsView/blt202206260002</guid>
+            <pubDate>Sun, 26 Jun 2022 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블이 내달 28일 신작 게임 '세븐나이츠 레볼루션'을 출시하며 분위기 전환에 나선다. 넷마블은 자체 지식재산권(IP) 비중 감소와 외부 로열티 증가로 인한 적자 전환한 상황에서 출격하는 세븐나이츠 레볼루션이 구원투수가 될지 주목하고 있다.  '레볼루션', 타]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'최종병기앨리스'로 본 '왓챠 오리지널리티']]></title>
             <link>https://www.bloter.net/newsView/blt202206260001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Jun 2022 09:28:34 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 가상 인간(버추얼 휴먼) '무아인'을 선보인 가운데 향후 메타버스 사업 진출 여부가 관심사로 떠올랐다. 무신사는 버추얼 휴먼에 이어 내달 '버추얼 쇼룸' 오픈을 앞두며 '패션 세계관'을 구축하고 있는데, 이달 메타버스 관련 상표권을 출원하며 가상세계]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]쿠팡플레이, '종이의 집 한국판' 감독 손 잡나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200016</link>
-            <guid>https://www.bloter.net/newsView/blt202206200016</guid>
-            <pubDate>Fri, 24 Jun 2022 10:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠업계가 국내 OTT 플랫폼 '쿠팡플레이'의 오리지널 콘텐츠 편성에 주목하고 있다. 쿠팡플레이가 '종이의 집: 공동경제구역'을 연출한 김홍선 감독의 차기작을 편성할 가능성이 제기됐기 때문이다.  20일 업계에 따르면, 최근 김홍선 감독이 연출하는 OTT 콘텐츠 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/20/blt202206200031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
