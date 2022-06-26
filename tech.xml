@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 01:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 03:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'최종병기앨리스'로 본 '왓챠 오리지널리티']]></title>
+            <link>https://www.bloter.net/newsView/blt202206260001</link>
+            <guid>https://www.bloter.net/newsView/blt202206260001</guid>
+            <pubDate>Sun, 26 Jun 2022 03:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-26 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]﻿루이비통의 LVMH그룹이 반한 ‘마크비전’은 어떻게 성장했나]]></title>
             <link>https://www.bloter.net/newsView/blt202206240022</link>
             <guid>https://www.bloter.net/newsView/blt202206240022</guid>
             <pubDate>Sat, 25 Jun 2022 23:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-26 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240037.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240037.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[테크체인저]클로바가 꿈꾸는 미래 "내비에서 가족 음성이 나온다면?"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 23 Jun 2022 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-23 15:57:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['의료 AI' 기업 딥노이드·루닛·뷰노가 SK㈜ C&C와 손잡은 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202206230007</link>
-            <guid>https://www.bloter.net/newsView/blt202206230007</guid>
-            <pubDate>Thu, 23 Jun 2022 06:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-23 15:19:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
