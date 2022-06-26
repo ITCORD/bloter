@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 09:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨게임즈, '히트2'로 여름 MMORPG 대전 출사표]]></title>
+            <link>https://www.bloter.net/newsView/blt202206260003</link>
+            <guid>https://www.bloter.net/newsView/blt202206260003</guid>
+            <pubDate>Sun, 26 Jun 2022 10:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 오는 30일부터 넥슨게임즈의 개발작 '히트2'의 사전 등록을 시작, 올 여름 MMORPG 신작 대전에 참가한다. 넥슨은 지난달 히트2의 티저 사이트를 오픈하고 원작 '히트' 서비스 당시의 TV CF를 기반으로 제작한 티저 영상을 공개한 바 있다. 넥슨의 모바일 게임 최초]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260008.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷마블표 레볼루션, '흥행 보증 수표'로 자리잡은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202206260002</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Jun 2022 11:27:43 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210050.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버추얼 휴먼 '무아인', 무신사 '메타버스' 출발점 될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210014</link>
-            <guid>https://www.bloter.net/newsView/blt202206210014</guid>
-            <pubDate>Tue, 21 Jun 2022 09:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 가상 인간(버추얼 휴먼) '무아인'을 선보인 가운데 향후 메타버스 사업 진출 여부가 관심사로 떠올랐다. 무신사는 버추얼 휴먼에 이어 내달 '버추얼 쇼룸' 오픈을 앞두며 '패션 세계관'을 구축하고 있는데, 이달 메타버스 관련 상표권을 출원하며 가상세계]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210035.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
