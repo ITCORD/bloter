@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]여름만 되면 살아나는 카카오게임즈, 이제는 공식이다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270009</link>
+            <guid>https://www.bloter.net/newsView/blt202206270009</guid>
+            <pubDate>Mon, 27 Jun 2022 08:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[알면 좋을 게임업계 이슈를 분석합니다. 카카오게임즈는 명실상부 '여름의 강자'로 통합니다. '가디언테일즈'(2020년), '오딘: 발할라 라이징'(2021년), '우마무스메 프리티 더비'(2022년)에 이르기까지 매년 여름에 출시하는 게임들이 흥행에 성공했기 때문입니다. 상대]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥슨게임즈, '히트2'로 여름 MMORPG 대전 출사표]]></title>
             <link>https://www.bloter.net/newsView/blt202206260003</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Jun 2022 03:35:07 GMT</pubDate>
             <content:encoded><![CDATA[오리지널 시리즈 '지옥'에 이어 영화 '정이'를 통해 인연을 이어가고 있는 연상호 감독과 넷플릭스가 신작으로 뭉칠 가능성이 제기됐다. 22일 &lt;블로터&gt; 취재 결과, 넷플릭스가 연상호 감독이 연출하는 신작 '더 그레이'의 오리지널 편성을 검토 중인 것으로 확인]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]우마무스메, '오딘 경쟁작' or '포스트 프린세스커넥트'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210019</link>
-            <guid>https://www.bloter.net/newsView/blt202206210019</guid>
-            <pubDate>Tue, 21 Jun 2022 11:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/21/blt202206210050.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
