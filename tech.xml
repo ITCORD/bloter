@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이통사 자회사도, 은행도 싫다는 알뜰폰 업계...대안은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270013</link>
+            <guid>https://www.bloter.net/newsView/blt202206270013</guid>
+            <pubDate>Mon, 27 Jun 2022 09:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-27 18:03:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우조선해양이 SAP 'S/4HANA' 파트너로 코오롱베니트 택한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270012</link>
+            <guid>https://www.bloter.net/newsView/blt202206270012</guid>
+            <pubDate>Mon, 27 Jun 2022 09:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-27 17:59:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270039.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]여름만 되면 살아나는 카카오게임즈, 이제는 공식이다]]></title>
             <link>https://www.bloter.net/newsView/blt202206270009</link>
             <guid>https://www.bloter.net/newsView/blt202206270009</guid>
             <pubDate>Mon, 27 Jun 2022 08:24:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-27 17:07:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270023.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HIS 전문기업 이지케어텍, 사업 확장 ‘가속’…‘서비스 매력’ 어떻게 높였나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 25 Jun 2022 03:32:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-25 11:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT 민영화 20년]②'지주형·핵심 기업 제휴'…디지코 키워드]]></title>
-            <link>https://www.bloter.net/newsView/blt202206250001</link>
-            <guid>https://www.bloter.net/newsView/blt202206250001</guid>
-            <pubDate>Sat, 25 Jun 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-25 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/25/blt202206250001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[폰SIGHT]낫싱의 투명폰 '폰원', 디자인이 흥행 보증수표?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206220015</link>
-            <guid>https://www.bloter.net/newsView/blt202206220015</guid>
-            <pubDate>Fri, 24 Jun 2022 22:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-25 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
