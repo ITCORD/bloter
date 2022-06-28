@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 01:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 30% 할인 '티머니 신한카드'…알뜰교통카드 부럽지가 않어]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270005</link>
+            <guid>https://www.bloter.net/newsView/blt202206270005</guid>
+            <pubDate>Tue, 28 Jun 2022 03:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-27 11:02:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[B2B 영토 넓히는 쏘카...업무용 장기렌트 정식 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202206270002</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Jun 2022 01:46:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-24 18:23:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240032.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['환율 급등 오히려 좋아'...LX인터내셔널은 웃는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240013</link>
-            <guid>https://www.bloter.net/newsView/blt202206240013</guid>
-            <pubDate>Mon, 27 Jun 2022 01:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-24 16:24:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240028.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
