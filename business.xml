@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화솔루션 태양광 사업, 아직 멀고 먼 홀로서기]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270010</link>
+            <guid>https://www.bloter.net/newsView/blt202206270010</guid>
+            <pubDate>Tue, 28 Jun 2022 06:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-27 16:30:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최대 30% 할인 '티머니 신한카드'…알뜰교통카드 부럽지가 않어]]></title>
             <link>https://www.bloter.net/newsView/blt202206270005</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Jun 2022 03:49:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-26 08:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240037.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IPO '장기전' 뛰는 토스, 매출 성장세 지속 가능할까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240017</link>
-            <guid>https://www.bloter.net/newsView/blt202206240017</guid>
-            <pubDate>Mon, 27 Jun 2022 01:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-24 18:23:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240032.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
