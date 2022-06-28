@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG에너지솔루션, 원화 하락 호재일까...외화차입금 5.6조 금융부담 커져]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270007</link>
+            <guid>https://www.bloter.net/newsView/blt202206270007</guid>
+            <pubDate>Tue, 28 Jun 2022 08:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-27 17:19:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한화솔루션 태양광 사업, 아직 멀고 먼 홀로서기]]></title>
             <link>https://www.bloter.net/newsView/blt202206270010</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Jun 2022 08:24:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-26 17:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240029.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이비통의 LVMH그룹이 반한 ‘마크비전’은 어떻게 성장했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240022</link>
-            <guid>https://www.bloter.net/newsView/blt202206240022</guid>
-            <pubDate>Mon, 27 Jun 2022 03:49:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-06-26 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240037.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

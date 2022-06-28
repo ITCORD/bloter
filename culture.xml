@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대홍기획, 아르고 코인회사 50억 투자설', 실제로 이뤄졌다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280017</link>
+            <guid>https://www.bloter.net/newsView/blt202206280017</guid>
+            <pubDate>Tue, 28 Jun 2022 08:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[롯데그룹의 가상자산사업 진출이 가시화될까. 두 달 전 롯데그룹이 광고계열사 대홍기획을 통해 블록체인 기술기업 '블로코'에 투자한다던 업계발 소식이 현실로 이뤄졌다.  대홍기획은 왜 블로코에 투자했나 28일 대홍기획은 '타법인 주식 및 출자증권 취득결정']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]여름만 되면 살아나는 카카오게임즈, 이제는 공식이다]]></title>
             <link>https://www.bloter.net/newsView/blt202206270009</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Jun 2022 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[패션 플랫폼 '서울스토어'의 지난달 거래액이 전년 동기 대비 100% 이상 성장했다. '브랜디'에 인수된 이후 1개월 만의 성과인데, 서울스토어는 브랜디에 인수된 이후 초기 시너지 효과가 반영된 결과라고 분석했다.   여성 패션 플랫폼 서울스토어는 지난해 중소 규모]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220039.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2022]⑤'연상호 유니버스' 한 번 더?…'더 그레이' 물망]]></title>
-            <link>https://www.bloter.net/newsView/blt202206220006</link>
-            <guid>https://www.bloter.net/newsView/blt202206220006</guid>
-            <pubDate>Wed, 22 Jun 2022 03:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[오리지널 시리즈 '지옥'에 이어 영화 '정이'를 통해 인연을 이어가고 있는 연상호 감독과 넷플릭스가 신작으로 뭉칠 가능성이 제기됐다. 22일 &lt;블로터&gt; 취재 결과, 넷플릭스가 연상호 감독이 연출하는 신작 '더 그레이'의 오리지널 편성을 검토 중인 것으로 확인]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/22/blt202206220003.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
