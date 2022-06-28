@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 10:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우마무스메의 흥행, 주류가 된 '서브컬쳐' 게임]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280020</link>
+            <guid>https://www.bloter.net/newsView/blt202206280020</guid>
+            <pubDate>Tue, 28 Jun 2022 10:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-28 18:38:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직 쓸만한데…'10살 LTE' 탈출러시 가속, 에릭슨 "23년부터 하락세"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280021</link>
+            <guid>https://www.bloter.net/newsView/blt202206280021</guid>
+            <pubDate>Tue, 28 Jun 2022 10:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-28 18:29:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280041.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김연수의 한글과컴퓨터'가 SaaS·메타버스·위성에 꽂힌 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202206280022</link>
             <guid>https://www.bloter.net/newsView/blt202206280022</guid>
             <pubDate>Tue, 28 Jun 2022 09:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-28 18:14:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280036.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘출범 7주’ 尹 정부, 차세대원전 지원 위해 6개월 된 정책 수정]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 27 Jun 2022 04:51:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-27 13:21:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GS ITM은 IT '보안 파트너'로 왜 '스패로우'를 택했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270003</link>
-            <guid>https://www.bloter.net/newsView/blt202206270003</guid>
-            <pubDate>Mon, 27 Jun 2022 03:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-27 12:15:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀프레시에 553억원 투자한 KT, 100조원대 물류 시장에 'AI' 심는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270006</link>
-            <guid>https://www.bloter.net/newsView/blt202206270006</guid>
-            <pubDate>Mon, 27 Jun 2022 03:49:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-27 11:17:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
