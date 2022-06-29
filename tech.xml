@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 03:50:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울대가 페이스북·인스타그램의 '메타버스' 연구하게 된 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290004</link>
+            <guid>https://www.bloter.net/newsView/blt202206290004</guid>
+            <pubDate>Wed, 29 Jun 2022 03:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-29 12:00:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290011.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어가 제시하는 '회사에 서버 두고' 클라우드 이점 누리는 방법]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290002</link>
+            <guid>https://www.bloter.net/newsView/blt202206290002</guid>
+            <pubDate>Wed, 29 Jun 2022 03:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-29 10:29:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛 바랜 혁신…의약품·의료기기 ‘혁신 인증 무용론’ 확산]]></title>
             <link>https://www.bloter.net/newsView/blt202206280014</link>
             <guid>https://www.bloter.net/newsView/blt202206280014</guid>
             <pubDate>Tue, 28 Jun 2022 21:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-29 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우마무스메의 흥행, 주류가 된 '서브컬쳐' 게임]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 27 Jun 2022 08:24:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-27 17:07:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIS 전문기업 이지케어텍, 사업 확장 ‘가속’…‘서비스 매력’ 어떻게 높였나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270011</link>
-            <guid>https://www.bloter.net/newsView/blt202206270011</guid>
-            <pubDate>Mon, 27 Jun 2022 08:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-27 16:52:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온 아바스틴 바이오시밀러, 유럽진출 '눈앞']]></title>
-            <link>https://www.bloter.net/newsView/blt202206270008</link>
-            <guid>https://www.bloter.net/newsView/blt202206270008</guid>
-            <pubDate>Mon, 27 Jun 2022 06:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-27 14:46:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
