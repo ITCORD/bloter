@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쌍용차, 18년 만에 국내 기업에 인수...새 주인 KG그룹 '자금력 고평가']]></title>
+            <link>https://www.bloter.net/newsView/blt202206280016</link>
+            <guid>https://www.bloter.net/newsView/blt202206280016</guid>
+            <pubDate>Wed, 29 Jun 2022 05:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-28 17:27:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원가율 상승 고심 솔루스첨단소재…일단 투자부터]]></title>
             <link>https://www.bloter.net/newsView/blt202206280013</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 28 Jun 2022 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-27 17:19:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화솔루션 태양광 사업, 아직 멀고 먼 홀로서기]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270010</link>
-            <guid>https://www.bloter.net/newsView/blt202206270010</guid>
-            <pubDate>Tue, 28 Jun 2022 06:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-27 16:30:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

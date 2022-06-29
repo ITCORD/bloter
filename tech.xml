@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실손과 손잡은 복지부…다초점 백내장 수술 현지조사가 가져올 후폭풍은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290008</link>
+            <guid>https://www.bloter.net/newsView/blt202206290008</guid>
+            <pubDate>Wed, 29 Jun 2022 05:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-29 14:10:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290022.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[놀이기구에 수술교육까지…정부, '이음5G' 킬러 서비스 발굴 개시]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290009</link>
+            <guid>https://www.bloter.net/newsView/blt202206290009</guid>
+            <pubDate>Wed, 29 Jun 2022 05:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-29 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]네이버·카카오 노린 ‘IT 임금인상 자제론’ 설득력있나]]></title>
             <link>https://www.bloter.net/newsView/blt202206290005</link>
             <guid>https://www.bloter.net/newsView/blt202206290005</guid>
             <pubDate>Wed, 29 Jun 2022 04:47:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-29 13:34:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스마트워치 새 판을 '몽블랑'이 짠다? 삼성·애플 다 품는 '서밋 3']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 28 Jun 2022 03:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-28 12:38:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FTX가 인수 관심 보이자…로빈후드 14% 급등]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280001</link>
-            <guid>https://www.bloter.net/newsView/blt202206280001</guid>
-            <pubDate>Tue, 28 Jun 2022 01:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-28 10:00:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상장 노리는 쏘카, 차량 규모 공격적으로 늘렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270014</link>
-            <guid>https://www.bloter.net/newsView/blt202206270014</guid>
-            <pubDate>Mon, 27 Jun 2022 10:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-27 18:33:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
