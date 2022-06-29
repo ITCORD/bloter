@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[네이버·카카오 노린 ‘IT 임금인상 자제론’ 설득력있나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290005</link>
-            <guid>https://www.bloter.net/newsView/blt202206290005</guid>
-            <pubDate>Wed, 29 Jun 2022 04:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-29 13:34:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290010.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[금융권 마이데이터 잘 아는 LG CNS…'파운트' 손잡은 의미]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290013</link>
+            <guid>https://www.bloter.net/newsView/blt202206290013</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 16:13:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290023.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['성장 둔화' 넷플릭스, 제작비 줄이고 정리해고까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240004</link>
-            <guid>https://www.bloter.net/newsView/blt202206240004</guid>
-            <pubDate>Wed, 29 Jun 2022 04:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이음5G 주파수 할당 간소화된다...LG CNS는 두 번째 확보]]></title>
+            <link>https://www.bloter.net/newsView/blt202206030070</link>
+            <guid>https://www.bloter.net/newsView/blt202206030070</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우버·리프트 불황 속 '쏘카' IPO 도전기]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210015</link>
-            <guid>https://www.bloter.net/newsView/blt202206210015</guid>
-            <pubDate>Wed, 29 Jun 2022 04:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[③공공서 상용 SW 꽃 피운다는데…삼성SDS·LG CNS·SK㈜C&C 반응할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202205140001</link>
+            <guid>https://www.bloter.net/newsView/blt202205140001</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티 '시너지'와 '문어발' 사이]]></title>
-            <link>https://www.bloter.net/newsView/blt202206090071</link>
-            <guid>https://www.bloter.net/newsView/blt202206090071</guid>
-            <pubDate>Wed, 29 Jun 2022 04:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[질 좋은 상품 만드는 ‘금융농부’의 길 : 파운트 김영빈·김민복 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202011120008</link>
+            <guid>https://www.bloter.net/newsView/blt202011120008</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['인공지능 자산관리'…파운트, 150억원 규모 투자 유치]]></title>
+            <link>https://www.bloter.net/newsView/blt202005260023</link>
+            <guid>https://www.bloter.net/newsView/blt202005260023</guid>
+            <pubDate>Wed, 29 Jun 2022 07:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김명상</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
