@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 07:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 08:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG엔솔, '니콜라·루시드' 겨냥한 美 애리조나 공장...왜 재검토할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290001</link>
+            <guid>https://www.bloter.net/newsView/blt202206290001</guid>
+            <pubDate>Wed, 29 Jun 2022 08:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-29 10:35:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스뱅크의 압축성장…예대마진 흑자에, 카뱅 위협하는 플랫폼전략]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280024</link>
+            <guid>https://www.bloter.net/newsView/blt202206280024</guid>
+            <pubDate>Wed, 29 Jun 2022 08:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 07:43:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280045.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쌍용차, 18년 만에 국내 기업에 인수...새 주인 KG그룹 '자금력 고평가']]></title>
             <link>https://www.bloter.net/newsView/blt202206280016</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 28 Jun 2022 23:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-28 11:26:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상장 노리는 쏘카, 차량 규모 공격적으로 늘렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270014</link>
-            <guid>https://www.bloter.net/newsView/blt202206270014</guid>
-            <pubDate>Tue, 28 Jun 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-27 18:33:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270042.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG에너지솔루션, 원화 하락 호재일까...외화차입금 5.6조 금융부담 커져]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270007</link>
-            <guid>https://www.bloter.net/newsView/blt202206270007</guid>
-            <pubDate>Tue, 28 Jun 2022 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-27 17:19:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
