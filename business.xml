@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 23:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 01:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버·카카오 노린 ‘IT 임금인상 자제론’ 설득력있나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290005</link>
+            <guid>https://www.bloter.net/newsView/blt202206290005</guid>
+            <pubDate>Thu, 30 Jun 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-29 13:34:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290010.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데케미칼, 배터리 사업 속도… 美법인 설립∙소재투자 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202206290003</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 29 Jun 2022 03:48:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-28 16:17:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG엔솔, '고금리 시대'에 대출이자 1%대..."금리보다 경기침체가 걱정"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280006</link>
-            <guid>https://www.bloter.net/newsView/blt202206280006</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-28 15:12:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
