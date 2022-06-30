@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포켓몬GO' 개발사, 대규모 인력 감축 단행…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300004</link>
+            <guid>https://www.bloter.net/newsView/blt202206300004</guid>
+            <pubDate>Thu, 30 Jun 2022 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[포켓몬스터 IP 기반 증강현실(AR) 게임 '포켓몬GO'로 글로벌 흥행에 성공한 '나이언틱'이 최근 100여명에 가까운 임직원을 해고할 것으로 알려졌다. 현재 개발 및 기획중인 글로벌 프로젝트도 중단하며 사실상 재정비에 나선 상황이다.29일(현지시간) &lt;블룸버그&gt;는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임인사이드]'쿠키런' IP 확장성 보여줄까…'프로젝트 스테이션' 개발 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300002</link>
+            <guid>https://www.bloter.net/newsView/blt202206300002</guid>
+            <pubDate>Thu, 30 Jun 2022 03:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우마무스메의 흥행, 주류가 된 '서브컬쳐' 게임]]></title>
             <link>https://www.bloter.net/newsView/blt202206280020</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 23 Jun 2022 09:18:36 GMT</pubDate>
             <content:encoded><![CDATA[2종 이상의 신작 공개를 앞둔 조이시티가 책임 경영을 강화하는 목적으로 자사주 매입에 나섰다. 앞서 조성원 대표 등 조이시티의 경영진들은 신작 론칭을 앞두고 자사주 매입 행보를 보인 바 있는데, 김태곤 최고기술책임자(CTO)도 조이시티 주식 2만주를 매입했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에픽게임즈, 리뷰 폭탄 방어 위해 '2시간 플레이 룰' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202206230002</link>
-            <guid>https://www.bloter.net/newsView/blt202206230002</guid>
-            <pubDate>Thu, 23 Jun 2022 01:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[에픽게임즈가 리뷰 폭탄(컨텐츠에 부정적인 사용자 리뷰를 한꺼번에 작성되는 현상) 근절을 위해 '2시간 플레이 룰'을 도입했다.22일(미국 현지시간) IT 전문매체 &lt;더 버지(The Verge)&gt;에 따르면 에픽게임즈는 2시간 이상 게임을 플레이한 무작위 플레이어에게 리뷰]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]우마무스메, 구글 매출 7위 차트인…반등 여력은]]></title>
-            <link>https://www.bloter.net/newsView/blt202206230001</link>
-            <guid>https://www.bloter.net/newsView/blt202206230001</guid>
-            <pubDate>Thu, 23 Jun 2022 01:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[지난 20일 카카오게임즈가 출시한 '우마무스메: 프리티 더비'(이하 우마무스메)가 구글플레이 스토어에서 매출 톱10에 안착했다. 23일 오전 8시 기준 현재, 우마무스메는 구글플레이 매출 7위를 기록하고 있다. 우마무스메는 시스템 특성상 상대적으로 애플 앱스토어]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

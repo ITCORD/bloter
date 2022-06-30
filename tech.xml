@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포켓몬GO' 개발사, 대규모 인력 감축 단행…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300004</link>
+            <guid>https://www.bloter.net/newsView/blt202206300004</guid>
+            <pubDate>Thu, 30 Jun 2022 03:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-30 09:54:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[게임인사이드]'쿠키런' IP 확장성 보여줄까…'프로젝트 스테이션' 개발 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300002</link>
+            <guid>https://www.bloter.net/newsView/blt202206300002</guid>
+            <pubDate>Thu, 30 Jun 2022 03:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-30 09:18:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK바사, 국산 1호 코로나19 백신 개발 ‘쾌거’…오미크론 효능은 ‘물음표’]]></title>
             <link>https://www.bloter.net/newsView/blt202206290015</link>
             <guid>https://www.bloter.net/newsView/blt202206290015</guid>
             <pubDate>Wed, 29 Jun 2022 08:24:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-29 17:16:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290028.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퓨처플레이가 꼽은 스타트업이 세일즈포스 이기는 법 '버티컬 SaaS']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 28 Jun 2022 08:24:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-28 17:13:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대웅제약 '펙수클루정', 위식도염 시장 본격 공략]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280012</link>
-            <guid>https://www.bloter.net/newsView/blt202206280012</guid>
-            <pubDate>Tue, 28 Jun 2022 08:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-28 16:39:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한B씨]인공지능에 빠진 네이버, 'D2SF' 활용법]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280010</link>
-            <guid>https://www.bloter.net/newsView/blt202206280010</guid>
-            <pubDate>Tue, 28 Jun 2022 07:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-28 15:51:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

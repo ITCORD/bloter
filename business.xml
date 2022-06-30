@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK온, "투자 재검토 없다"...'러시아 전쟁' 이후 대출금리는 2배, 부채비율은 200%]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290012</link>
+            <guid>https://www.bloter.net/newsView/blt202206290012</guid>
+            <pubDate>Thu, 30 Jun 2022 03:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-29 16:43:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290026.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융권 마이데이터 잘 아는 LG CNS…'파운트' 손잡은 의미]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290013</link>
+            <guid>https://www.bloter.net/newsView/blt202206290013</guid>
+            <pubDate>Thu, 30 Jun 2022 03:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 16:13:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버·카카오 노린 ‘IT 임금인상 자제론’ 설득력있나]]></title>
             <link>https://www.bloter.net/newsView/blt202206290005</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 29 Jun 2022 08:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 07:43:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280045.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쌍용차, 18년 만에 국내 기업에 인수...새 주인 KG그룹 '자금력 고평가']]></title>
-            <link>https://www.bloter.net/newsView/blt202206280016</link>
-            <guid>https://www.bloter.net/newsView/blt202206280016</guid>
-            <pubDate>Wed, 29 Jun 2022 05:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-28 17:27:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원가율 상승 고심 솔루스첨단소재…일단 투자부터]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280013</link>
-            <guid>https://www.bloter.net/newsView/blt202206280013</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-28 16:17:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
