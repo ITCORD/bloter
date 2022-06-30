@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 12:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 13:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오게임즈, '오딘' 개발사 지배력 강화…덩달아 미소짓는 위메이드]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300018</link>
+            <guid>https://www.bloter.net/newsView/blt202206300018</guid>
+            <pubDate>Thu, 30 Jun 2022 13:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈가 '오딘: 발할라 라이징'(이하 오딘)의 개발사인 라이온하트스튜디오의 보유 지분을 추가 확보하며 지배력을 강화했다. 자회사인 카카오게임즈 유럽법인을 통해 앞서 투자했던 위메이드의 지분까지 사 들이며 자체 보유한 지분을 더해 55%에 육박하는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300036.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]메타버스에 진심인 네이버제트, 올해만 335억 투자]]></title>
             <link>https://www.bloter.net/newsView/blt202206300015</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Jun 2022 03:43:00 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한B씨]'성장 둔화' 넷플릭스, 제작비 줄이고 정리해고까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202206240004</link>
-            <guid>https://www.bloter.net/newsView/blt202206240004</guid>
-            <pubDate>Fri, 24 Jun 2022 03:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대온라인 동영상 서비스(OTT) 넷플릭스가 직원 300명을 추가 정리해고했습니다. 넷플릭스는 지난달에도 직원 150명을 정리해고 했는데요. 2달 동안 450여명이 감원됐네요. 넷플릭스가 꼽은 감원 이유는 '성장 둔화'와 '비용 절감'입니다. 로이터통신이 23일(현지]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240009.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
