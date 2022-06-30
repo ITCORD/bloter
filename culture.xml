@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 10:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]메타버스에 진심인 네이버제트, 올해만 335억 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300015</link>
+            <guid>https://www.bloter.net/newsView/blt202206300015</guid>
+            <pubDate>Thu, 30 Jun 2022 10:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스 플랫폼 '제페토'(ZEPETO) 운영사인 네이버제트가 올해 335억원 규모의 투자를 단행했다. 주 서비스 분야인 메타버스 투자 비중을 높이는 동시에 국내외 협업 전선을 확대하며 글로벌 경쟁력을 높이는 모습이다.30일 네이버제트는 3건의 공시를 통해 신규 투자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['포켓몬GO' 개발사, 대규모 인력 감축 단행…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202206300004</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Jun 2022 03:43:00 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대온라인 동영상 서비스(OTT) 넷플릭스가 직원 300명을 추가 정리해고했습니다. 넷플릭스는 지난달에도 직원 150명을 정리해고 했는데요. 2달 동안 450여명이 감원됐네요. 넷플릭스가 꼽은 감원 이유는 '성장 둔화'와 '비용 절감'입니다. 로이터통신이 23일(현지]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240009.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김태곤 조이시티 CTO 자사주 매입…'책임 경영' 행보]]></title>
-            <link>https://www.bloter.net/newsView/blt202206230012</link>
-            <guid>https://www.bloter.net/newsView/blt202206230012</guid>
-            <pubDate>Thu, 23 Jun 2022 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[2종 이상의 신작 공개를 앞둔 조이시티가 책임 경영을 강화하는 목적으로 자사주 매입에 나섰다. 앞서 조성원 대표 등 조이시티의 경영진들은 신작 론칭을 앞두고 자사주 매입 행보를 보인 바 있는데, 김태곤 최고기술책임자(CTO)도 조이시티 주식 2만주를 매입했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/23/blt202206230022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,56 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 10:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 한국 앱스토어 내 제3자 결제방식 허용…일부 기능은 '제한']]></title>
+            <link>https://www.bloter.net/newsView/blt202206300017</link>
+            <guid>https://www.bloter.net/newsView/blt202206300017</guid>
+            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-30 18:56:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300035.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누리호 타고 꼬마위성 ‘우주로’…‘일부 교신’으로 시작한 학생들의 ‘꿈’]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300016</link>
+            <guid>https://www.bloter.net/newsView/blt202206300016</guid>
+            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-30 18:48:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300034.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]메타버스에 진심인 네이버제트, 올해만 335억 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300015</link>
+            <guid>https://www.bloter.net/newsView/blt202206300015</guid>
+            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-30 18:08:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300026.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직방, '프리 IPO' 1000억원대 마무리...올 초 예상치 하회]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300014</link>
+            <guid>https://www.bloter.net/newsView/blt202206300014</guid>
+            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-30 18:04:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300024.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제자리걸음 28GHz 5G…과기정통부-이통사 '지루한 줄다리기']]></title>
+            <link>https://www.bloter.net/newsView/blt202206300010</link>
+            <guid>https://www.bloter.net/newsView/blt202206300010</guid>
+            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-30 18:04:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300016.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ERP가 무기로 전용? …'전략물자관리제도'에 글로벌 진출 발목잡힌 SaaS 기업들]]></title>
             <link>https://www.bloter.net/newsView/blt202206300005</link>
             <guid>https://www.bloter.net/newsView/blt202206300005</guid>
             <pubDate>Thu, 30 Jun 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-30 16:39:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300020.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['넥슨 현대카드'에 기대 큰 정태영 부회장, NFT 때문?]]></title>
@@ -110,46 +150,6 @@
             <pubDate>Wed, 29 Jun 2022 03:49:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-29 12:00:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어가 제시하는 '회사에 서버 두고' 클라우드 이점 누리는 방법]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290002</link>
-            <guid>https://www.bloter.net/newsView/blt202206290002</guid>
-            <pubDate>Wed, 29 Jun 2022 03:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-29 10:29:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛 바랜 혁신…의약품·의료기기 ‘혁신 인증 무용론’ 확산]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280014</link>
-            <guid>https://www.bloter.net/newsView/blt202206280014</guid>
-            <pubDate>Tue, 28 Jun 2022 21:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-06-29 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우마무스메의 흥행, 주류가 된 '서브컬쳐' 게임]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280020</link>
-            <guid>https://www.bloter.net/newsView/blt202206280020</guid>
-            <pubDate>Tue, 28 Jun 2022 10:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-28 18:38:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직 쓸만한데…'10살 LTE' 탈출러시 가속, 에릭슨 "23년부터 하락세"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280021</link>
-            <guid>https://www.bloter.net/newsView/blt202206280021</guid>
-            <pubDate>Tue, 28 Jun 2022 10:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-28 18:29:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280041.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김연수의 한글과컴퓨터'가 SaaS·메타버스·위성에 꽂힌 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280022</link>
-            <guid>https://www.bloter.net/newsView/blt202206280022</guid>
-            <pubDate>Tue, 28 Jun 2022 09:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-06-28 18:14:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
