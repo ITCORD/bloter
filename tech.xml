@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 20:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 21:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불확실성 덜어낸 코아스템, 루게릭병 FDA 임상3상 ‘총력전’]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300009</link>
+            <guid>https://www.bloter.net/newsView/blt202206300009</guid>
+            <pubDate>Thu, 30 Jun 2022 21:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-01 06:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300015.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카카오게임즈, '오딘' 개발사 지배력 강화…덩달아 미소짓는 위메이드]]></title>
             <link>https://www.bloter.net/newsView/blt202206300018</link>
             <guid>https://www.bloter.net/newsView/blt202206300018</guid>
             <pubDate>Thu, 30 Jun 2022 13:39:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-06-30 21:47:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300036.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300036.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 한국 앱스토어 내 제3자 결제방식 허용…일부 기능은 '제한']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 29 Jun 2022 04:47:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 13:32:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT "답답한 GPS 오차는 그만"…'cm급' 측위기술 온다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290006</link>
-            <guid>https://www.bloter.net/newsView/blt202206290006</guid>
-            <pubDate>Wed, 29 Jun 2022 04:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-29 12:51:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
