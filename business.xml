@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포켓몬GO' 개발사, 대규모 인력 감축 단행…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300004</link>
+            <guid>https://www.bloter.net/newsView/blt202206300004</guid>
+            <pubDate>Thu, 30 Jun 2022 08:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-30 09:54:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에코프로비엠, 헝가리 데브레첸시와 공장 부지 계약 체결...유럽 생산기지 속도]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290019</link>
+            <guid>https://www.bloter.net/newsView/blt202206290019</guid>
+            <pubDate>Thu, 30 Jun 2022 08:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-29 18:49:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290041.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK온, "투자 재검토 없다"...'러시아 전쟁' 이후 대출금리는 2배, 부채비율은 200%]]></title>
             <link>https://www.bloter.net/newsView/blt202206290012</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 29 Jun 2022 10:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-29 10:59:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG엔솔, '니콜라·루시드' 겨냥한 美 애리조나 공장...왜 재검토할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290001</link>
-            <guid>https://www.bloter.net/newsView/blt202206290001</guid>
-            <pubDate>Wed, 29 Jun 2022 08:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-29 10:35:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크의 압축성장…예대마진 흑자에, 카뱅 위협하는 플랫폼전략]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280024</link>
-            <guid>https://www.bloter.net/newsView/blt202206280024</guid>
-            <pubDate>Wed, 29 Jun 2022 08:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 07:43:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280045.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
