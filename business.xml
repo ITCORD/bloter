@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ제일제당, ‘고환율∙인플레’에 깊어지는 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300012</link>
+            <guid>https://www.bloter.net/newsView/blt202206300012</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-30 16:50:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300022.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['넥슨 현대카드'에 기대 큰 정태영 부회장, NFT 때문?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300011</link>
+            <guid>https://www.bloter.net/newsView/blt202206300011</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-30 16:30:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포스코케미칼의 4번째 해외 배터리 고객사...英 스타트업 브리티시볼트는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300003</link>
+            <guid>https://www.bloter.net/newsView/blt202206300003</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-30 11:19:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재용 효과?...삼성SDI, 헝가리 3공장 가능성은]]></title>
             <link>https://www.bloter.net/newsView/blt202206300006</link>
@@ -30,30 +54,6 @@
             <pubDate>Thu, 30 Jun 2022 08:23:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-29 18:49:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290041.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK온, "투자 재검토 없다"...'러시아 전쟁' 이후 대출금리는 2배, 부채비율은 200%]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290012</link>
-            <guid>https://www.bloter.net/newsView/blt202206290012</guid>
-            <pubDate>Thu, 30 Jun 2022 03:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-29 16:43:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290026.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융권 마이데이터 잘 아는 LG CNS…'파운트' 손잡은 의미]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290013</link>
-            <guid>https://www.bloter.net/newsView/blt202206290013</guid>
-            <pubDate>Thu, 30 Jun 2022 03:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-06-29 16:13:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버·카카오 노린 ‘IT 임금인상 자제론’ 설득력있나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290005</link>
-            <guid>https://www.bloter.net/newsView/blt202206290005</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-29 13:34:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290010.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
