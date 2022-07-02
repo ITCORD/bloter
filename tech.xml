@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 22:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 23:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]월드비전에도 스타트업 있다...행동하는 Z세대 사로잡은 '베이크']]></title>
+            <link>https://www.bloter.net/newsView/blt202207010016</link>
+            <guid>https://www.bloter.net/newsView/blt202207010016</guid>
+            <pubDate>Sat, 02 Jul 2022 23:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-03 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010032.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이게 카이스트 학생 기술력?…누리호에 실린 ‘꿈’ 지상국 도착]]></title>
             <link>https://www.bloter.net/newsView/blt202207020002</link>
             <guid>https://www.bloter.net/newsView/blt202207020002</guid>
             <pubDate>Sat, 02 Jul 2022 05:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-02 14:14:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/02/blt202207020010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/02/blt202207020010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[함께 쓰는 풀리퀘]기계도, 사람도 읽을 수 있는 문서는?③]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-06-30 18:04:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제자리걸음 28GHz 5G…과기정통부-이통사 '지루한 줄다리기']]></title>
-            <link>https://www.bloter.net/newsView/blt202206300010</link>
-            <guid>https://www.bloter.net/newsView/blt202206300010</guid>
-            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-06-30 18:04:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
