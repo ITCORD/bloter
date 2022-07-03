@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 04:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 05:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백신 이후를 바라보는 SK바이오사이언스…사업·개발 조직 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202207030001</link>
+            <guid>https://www.bloter.net/newsView/blt202207030001</guid>
+            <pubDate>Sun, 03 Jul 2022 05:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-03 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/03/blt202207030001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]네이버-카카오가 점찍은 플로틱, 왜 '이커머스 물류센터' 주목할까]]></title>
             <link>https://www.bloter.net/newsView/blt202206290016</link>
             <guid>https://www.bloter.net/newsView/blt202206290016</guid>
             <pubDate>Sun, 03 Jul 2022 04:28:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-03 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300013.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]월드비전에도 스타트업 있다...행동하는 Z세대 사로잡은 '베이크']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-06-30 18:48:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]메타버스에 진심인 네이버제트, 올해만 335억 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202206300015</link>
-            <guid>https://www.bloter.net/newsView/blt202206300015</guid>
-            <pubDate>Thu, 30 Jun 2022 10:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-06-30 18:08:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
