@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 10:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 11:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[콘텐츠메이커]'우영우'로 기대하는 '스튜디오지니·ENA' 시너지]]></title>
+            <link>https://www.bloter.net/newsView/blt202207030003</link>
+            <guid>https://www.bloter.net/newsView/blt202207030003</guid>
+            <pubDate>Sun, 03 Jul 2022 11:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[게임, 웹툰, 영화, 드라마 등 하나의 콘텐츠가 만들어지기까지 짧게는 수 개월에서 길게는 수 년의 시간이 소요됩니다. 콘텐츠의 출발이 되는 기획부터 연출 및 개발같은 일련의 과정을 거쳐 배급·유통사에 이르는 형태로 소비자에게 전달되는데요. &lt;블로터&amp;g]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/03/blt202207030004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'큐브' 메타버스월드, 구글·MS 손잡고 '메타버스 표준' 만든다]]></title>
             <link>https://www.bloter.net/newsView/blt202207020001</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 26 Jun 2022 09:17:27 GMT</pubDate>
             <content:encoded><![CDATA[넷마블이 내달 28일 신작 게임 '세븐나이츠 레볼루션'을 출시하며 분위기 전환에 나선다. 넷마블은 자체 지식재산권(IP) 비중 감소와 외부 로열티 증가로 인한 적자 전환한 상황에서 출격하는 세븐나이츠 레볼루션이 구원투수가 될지 주목하고 있다.  '레볼루션', 타]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260007.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'최종병기앨리스'로 본 '왓챠 오리지널리티']]></title>
-            <link>https://www.bloter.net/newsView/blt202206260001</link>
-            <guid>https://www.bloter.net/newsView/blt202206260001</guid>
-            <pubDate>Sun, 26 Jun 2022 03:40:37 GMT</pubDate>
-            <content:encoded><![CDATA["최종병기그녀는 왓챠 오리지널 드라마로 편성된다. 이 외에도 왓챠만의 색깔을 더 분명히 하기 위해 치밀하고 전략적으로 콘텐츠 방향성을 이어갈 계획이다."지난해 9월 '최종병기앨리스' 편성에 대해 왓챠 관계자는 이와 같이 말했다. 당시 가제로 '최종병기그녀']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
