@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 01:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 03:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]오딘·던파M 구글매출 톱3 탈환, '6월 출시효과' 끝나나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207040003</link>
+            <guid>https://www.bloter.net/newsView/blt202207040003</guid>
+            <pubDate>Mon, 04 Jul 2022 03:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-04 11:41:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 모델 Y·3, 독일서 '6만대 리콜'…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202207040001</link>
             <guid>https://www.bloter.net/newsView/blt202207040001</guid>
             <pubDate>Mon, 04 Jul 2022 01:49:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-04 09:16:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[콘텐츠메이커]'우영우'로 기대하는 '스튜디오지니·ENA' 시너지]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Jul 2022 08:22:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-01 12:06:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스X ‘스타링크’ 적용 차·선박·비행기 나온다…美 당국, 규제 완화]]></title>
-            <link>https://www.bloter.net/newsView/blt202207010004</link>
-            <guid>https://www.bloter.net/newsView/blt202207010004</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-01 10:44:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010008.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
