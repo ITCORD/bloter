@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 20:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 21:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[열쇳말]'5G FWA' 해외는 주목, 국내선 찬밥…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207040015</link>
+            <guid>https://www.bloter.net/newsView/blt202207040015</guid>
+            <pubDate>Mon, 04 Jul 2022 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-05 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[논란의 5G 주파수 추가 할당, 결국 LG유플러스 '단독 입찰']]></title>
             <link>https://www.bloter.net/newsView/blt202207040005</link>
             <guid>https://www.bloter.net/newsView/blt202207040005</guid>
             <pubDate>Mon, 04 Jul 2022 10:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-04 18:44:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누리호 성공이 만든 효과…카이스트·서울대 큐브위성 ‘양방향 교신’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 01 Jul 2022 23:17:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-02 08:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/29/blt202206290038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 34호 신약, 대웅제약서 탄생…위식도역류질환 치료제 ‘펙수클루정’ 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202207010013</link>
-            <guid>https://www.bloter.net/newsView/blt202207010013</guid>
-            <pubDate>Fri, 01 Jul 2022 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-01 18:06:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
