@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG엔솔·SK온·삼성SDI...글로벌 영향력 줄고, 투자 부담 커졌다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207010015</link>
+            <guid>https://www.bloter.net/newsView/blt202207010015</guid>
+            <pubDate>Mon, 04 Jul 2022 05:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-03 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/02/blt202207020004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[㈜한화, ‘원 포인트 인사’…글로벌 부문 대표 교체]]></title>
             <link>https://www.bloter.net/newsView/blt202207010014</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 01 Jul 2022 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-06-30 18:16:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300027.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ제일제당, ‘고환율∙인플레’에 깊어지는 고민]]></title>
-            <link>https://www.bloter.net/newsView/blt202206300012</link>
-            <guid>https://www.bloter.net/newsView/blt202206300012</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-06-30 16:50:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300022.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
