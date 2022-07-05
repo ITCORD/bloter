@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 01:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 03:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, OTT 프라임 비디오 ‘워치파티’ 호환 채널 확장]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050004</link>
+            <guid>https://www.bloter.net/newsView/blt202207050004</guid>
+            <pubDate>Tue, 05 Jul 2022 03:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 전자상거래 기업인 아마존이 자사 온라인동영상서비스(OTT) ‘아마존 프라임 비디오(Prime Video)’의 워치파티(Watch Party) 기능을 이용할 수 있는 채널을 다각화했다.IT전문 매체 &lt;더 버지&gt;는 4일(현지시간) “친구들과 함께 아마존 프라임 비디오]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050004.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]오딘·던파M 구글매출 톱3 탈환, '6월 출시효과' 끝나나]]></title>
             <link>https://www.bloter.net/newsView/blt202207040003</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 27 Jun 2022 08:25:09 GMT</pubDate>
             <content:encoded><![CDATA[알면 좋을 게임업계 이슈를 분석합니다. 카카오게임즈는 명실상부 '여름의 강자'로 통합니다. '가디언테일즈'(2020년), '오딘: 발할라 라이징'(2021년), '우마무스메 프리티 더비'(2022년)에 이르기까지 매년 여름에 출시하는 게임들이 흥행에 성공했기 때문입니다. 상대]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨게임즈, '히트2'로 여름 MMORPG 대전 출사표]]></title>
-            <link>https://www.bloter.net/newsView/blt202206260003</link>
-            <guid>https://www.bloter.net/newsView/blt202206260003</guid>
-            <pubDate>Sun, 26 Jun 2022 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[넥슨이 오는 30일부터 넥슨게임즈의 개발작 '히트2'의 사전 등록을 시작, 올 여름 MMORPG 신작 대전에 참가한다. 넥슨은 지난달 히트2의 티저 사이트를 오픈하고 원작 '히트' 서비스 당시의 TV CF를 기반으로 제작한 티저 영상을 공개한 바 있다. 넥슨의 모바일 게임 최초]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/26/blt202206260008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
