@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 08:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엔씨, 변화를 말하다]④새 IP '프로젝트G'는 MMO+RTS?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050016</link>
+            <guid>https://www.bloter.net/newsView/blt202207050016</guid>
+            <pubDate>Tue, 05 Jul 2022 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[올해 엔씨소프트는 '장르 다각화'와 '변화된 개발 기조'를 강조했다. 지난해 11월 출시한 '리니지W'를 '마지막 리니지'로 표현할 만큼 주요 IP에 대한 의존도를 분산시키는 한편 출시가 임박할 시기에 공개했던 개발 기조도 기획단계에서부터 공유한다는 내용이다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050040.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아마존, OTT 프라임 비디오 ‘워치파티’ 호환 채널 확장]]></title>
             <link>https://www.bloter.net/newsView/blt202207050004</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 28 Jun 2022 08:25:06 GMT</pubDate>
             <content:encoded><![CDATA[롯데그룹의 블록체인 사업이 가시화될까. 두 달 전 롯데그룹이 광고계열사 대홍기획을 통해 블록체인 기술기업 '블로코'에 투자한다던 업계발 소식이 현실로 이뤄졌다.  대홍기획은 왜 블로코에 투자했나 28일 대홍기획은 '타법인 주식 및 출자증권 취득결정' 공시]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]여름만 되면 살아나는 카카오게임즈, 이제는 공식이다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270009</link>
-            <guid>https://www.bloter.net/newsView/blt202206270009</guid>
-            <pubDate>Mon, 27 Jun 2022 08:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[알면 좋을 게임업계 이슈를 분석합니다. 카카오게임즈는 명실상부 '여름의 강자'로 통합니다. '가디언테일즈'(2020년), '오딘: 발할라 라이징'(2021년), '우마무스메 프리티 더비'(2022년)에 이르기까지 매년 여름에 출시하는 게임들이 흥행에 성공했기 때문입니다. 상대]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/27/blt202206270023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
