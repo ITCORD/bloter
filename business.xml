@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 09:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 10:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이복현 금감원장에 '건전성 다짐'한 카드사, 무슨 선물 받을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050011</link>
+            <guid>https://www.bloter.net/newsView/blt202207050011</guid>
+            <pubDate>Tue, 05 Jul 2022 10:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-05 16:13:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점유율 하락 쏘카, 비용 부담에도 '편도 서비스' 선보인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050005</link>
+            <guid>https://www.bloter.net/newsView/blt202207050005</guid>
+            <pubDate>Tue, 05 Jul 2022 10:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-05 13:07:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ제일제당 "유럽 공략해 퀀텀점프"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050001</link>
+            <guid>https://www.bloter.net/newsView/blt202207050001</guid>
+            <pubDate>Tue, 05 Jul 2022 10:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-05 09:42:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[승계 구도 드러나나…BGF 2세 홍정혁, 코프라 지분 취득]]></title>
             <link>https://www.bloter.net/newsView/blt202207040017</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 05 Jul 2022 04:36:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-04 16:34:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금호석유화학, 지속가능경영보고서 발간...'ESG 메가트렌드 선도']]></title>
-            <link>https://www.bloter.net/newsView/blt202207040010</link>
-            <guid>https://www.bloter.net/newsView/blt202207040010</guid>
-            <pubDate>Tue, 05 Jul 2022 01:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-04 16:07:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이마트 '최저가' 선언...'레거시 유통기업' 체력으로 쿠팡 꺾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040007</link>
-            <guid>https://www.bloter.net/newsView/blt202207040007</guid>
-            <pubDate>Mon, 04 Jul 2022 10:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-04 14:10:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 모델 Y·3, 독일서 '6만대 리콜'…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040001</link>
-            <guid>https://www.bloter.net/newsView/blt202207040001</guid>
-            <pubDate>Mon, 04 Jul 2022 09:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-04 09:16:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

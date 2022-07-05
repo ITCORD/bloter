@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 09:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 10:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“수학은 편견·한계를 이해하는 과정”…허준이 교수, 필즈상 수상 ‘쾌거’]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050018</link>
+            <guid>https://www.bloter.net/newsView/blt202207050018</guid>
+            <pubDate>Tue, 05 Jul 2022 10:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-05 18:23:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050045.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엔씨, 변화를 말하다]④새 IP '프로젝트G'는 MMO+RTS?]]></title>
             <link>https://www.bloter.net/newsView/blt202207050016</link>
             <guid>https://www.bloter.net/newsView/blt202207050016</guid>
             <pubDate>Tue, 05 Jul 2022 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-05 17:40:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050040.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오, 모빌리티 매각 방식 바꾸면 '직원 반발' 줄어들까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 04 Jul 2022 07:16:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-04 16:13:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 CMO 시장서 존재감 높이는 삼바, MSD 수주 6배 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040006</link>
-            <guid>https://www.bloter.net/newsView/blt202207040006</guid>
-            <pubDate>Mon, 04 Jul 2022 05:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-04 14:19:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
