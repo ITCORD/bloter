@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 01:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금호석유화학, 지속가능경영보고서 발간...'ESG 메가트렌드 선도']]></title>
+            <link>https://www.bloter.net/newsView/blt202207040010</link>
+            <guid>https://www.bloter.net/newsView/blt202207040010</guid>
+            <pubDate>Tue, 05 Jul 2022 01:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-04 16:07:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이마트 '최저가' 선언...'레거시 유통기업' 체력으로 쿠팡 꺾는다]]></title>
             <link>https://www.bloter.net/newsView/blt202207040007</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 04 Jul 2022 05:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-03 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/02/blt202207020004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[㈜한화, ‘원 포인트 인사’…글로벌 부문 대표 교체]]></title>
-            <link>https://www.bloter.net/newsView/blt202207010014</link>
-            <guid>https://www.bloter.net/newsView/blt202207010014</guid>
-            <pubDate>Mon, 04 Jul 2022 01:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-01 17:55:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010031.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
