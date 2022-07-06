@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 21:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 22:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]던파M도 테스트서버 출시?…'퍼스트서버' 등급분류 받아]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060016</link>
+            <guid>https://www.bloter.net/newsView/blt202207060016</guid>
+            <pubDate>Wed, 06 Jul 2022 22:19:00 GMT</pubDate>
+            <content:encoded><![CDATA['던전앤파이터 모바일'(이하 던파모바일)에 테스트 서버가 도입될 가능성이 제기됐다. 원작 던전앤파이터는 테스트서버 개념의 '퍼스트서버'를 별도로 운영하며 본 게임에 적용되기 전 콘텐츠를 미리 공개하는 만큼, 모바일 버전도 관련 시스템을 채택할 것으로 보]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060040.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]최형록 발란 대표 "성장통 컸다…하반기 최우선 가치는 고객 관리"]]></title>
             <link>https://www.bloter.net/newsView/blt202207060020</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Jul 2022 08:23:22 GMT</pubDate>
             <content:encoded><![CDATA["게임을 하는 분들의 본능이 살아서 펼쳐질 수 있도록 정책으로 뒷받침할 생각이다" 윤석열 정부의 초대 문화체육관광부(이하 문체부) 장관직을 수행중인 박보균 장관은 '규제'보다 '육성'에 초점을 맞춘 정책방향을 강조했다.   1일 서울 강남구에 위치한 한국게임]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오게임즈, '오딘' 개발사 지배력 강화…덩달아 미소짓는 위메이드]]></title>
-            <link>https://www.bloter.net/newsView/blt202206300018</link>
-            <guid>https://www.bloter.net/newsView/blt202206300018</guid>
-            <pubDate>Thu, 30 Jun 2022 13:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈가 '오딘: 발할라 라이징'(이하 오딘)의 개발사인 라이온하트스튜디오의 보유 지분을 추가 확보하며 지배력을 강화했다. 자회사인 카카오게임즈 유럽법인을 통해 앞서 투자했던 위메이드의 지분까지 사 들이며 자체 보유한 지분을 더해 55%에 육박하는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300036.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

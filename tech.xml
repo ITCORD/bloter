@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 21:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 22:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]던파M도 테스트서버 출시?…'퍼스트서버' 등급분류 받아]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060016</link>
+            <guid>https://www.bloter.net/newsView/blt202207060016</guid>
+            <pubDate>Wed, 06 Jul 2022 22:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-07 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]최형록 발란 대표 "성장통 컸다…하반기 최우선 가치는 고객 관리"]]></title>
             <link>https://www.bloter.net/newsView/blt202207060020</link>
             <guid>https://www.bloter.net/newsView/blt202207060020</guid>
             <pubDate>Wed, 06 Jul 2022 13:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-06 21:43:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060043.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060043.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장+]틱톡과 인스타그램이 보는 숏폼 콘텐츠 차이는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 05 Jul 2022 05:23:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-05 13:49:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑몰 성장 방정식은?…오픈·버티컬 마켓 '복수 입점']]></title>
-            <link>https://www.bloter.net/newsView/blt202207050008</link>
-            <guid>https://www.bloter.net/newsView/blt202207050008</guid>
-            <pubDate>Tue, 05 Jul 2022 04:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-05 13:17:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
