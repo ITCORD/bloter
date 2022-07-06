@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 23:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 01:49:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 유럽·미국 '라이브커머스' 사업 확장 포기 수순]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060003</link>
+            <guid>https://www.bloter.net/newsView/blt202207060003</guid>
+            <pubDate>Wed, 06 Jul 2022 01:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-06 10:47:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060006.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[친절한B씨]제대로 붙은 카카오와 구글, 엇갈린 IT업계 반응]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060002</link>
+            <guid>https://www.bloter.net/newsView/blt202207060002</guid>
+            <pubDate>Wed, 06 Jul 2022 01:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-06 10:34:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060002.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차·LG유플러스에 AI 면접 솔루션 공급한 제네시스랩은 어떤 기업?]]></title>
             <link>https://www.bloter.net/newsView/blt202207050019</link>
             <guid>https://www.bloter.net/newsView/blt202207050019</guid>
             <pubDate>Tue, 05 Jul 2022 23:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-06 08:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050052.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050052.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“수학은 편견·한계를 이해하는 과정”…허준이 교수, 필즈상 수상 ‘쾌거’]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 04 Jul 2022 10:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-04 18:44:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 성공이 만든 효과…카이스트·서울대 큐브위성 ‘양방향 교신’]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040011</link>
-            <guid>https://www.bloter.net/newsView/blt202207040011</guid>
-            <pubDate>Mon, 04 Jul 2022 08:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-04 17:15:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['통신장비 강자' 시스코가 '스마트항만'에 꽂힌 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040013</link>
-            <guid>https://www.bloter.net/newsView/blt202207040013</guid>
-            <pubDate>Mon, 04 Jul 2022 08:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-04 17:14:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040027.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
