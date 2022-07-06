@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]카카오엔터, '김비서'→'사내맞선' 성공 넘어 '브리저튼' 꿈꾼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060008</link>
+            <guid>https://www.bloter.net/newsView/blt202207060008</guid>
+            <pubDate>Wed, 06 Jul 2022 06:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터테인먼트(이하 카카오엔터)가 웹툰·웹소설을 성공적으로 영상화하며 글로벌에서도 존재감을 키우고 있다. 이런 자신감을 바탕으로 다소 마니악한 장르로 여겨졌던 로맨스판타지도 리브랜딩 작업에 나섰으며, 편견을 넘어 더욱 풍부한 세계관으로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['버티컬 플랫폼'의 한계?…브랜디, '플레어' 리뉴얼한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202207060004</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 Jun 2022 03:44:12 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우마무스메의 흥행, 주류가 된 '서브컬쳐' 게임]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280020</link>
-            <guid>https://www.bloter.net/newsView/blt202206280020</guid>
-            <pubDate>Tue, 28 Jun 2022 10:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[카카오게임즈가 지난 20일 출시한 '우마무스메 프리티 더비'(이하 우마무스메)가 구글플레이 스토어에서 매출 2위를 기록했다. 지난달 조계현 카카오게임즈 대표가 언급한 목표 매출(3위)보다 높은 성적이다. 우마무스메는 지난해 일본 시장에서 선출시 된 후 1년 넘]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280040.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
