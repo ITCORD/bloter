@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -435,12 +435,20 @@ AI 반도체 시장의 성장세도 가파르다. 글로벌 시장조사업체 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[SK케미칼 ‘기넥신’의 30년, 앞으로 꽃길이 기대되는 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060010</link>
+            <guid>https://www.bloter.net/newsView/blt202207060010</guid>
+            <pubDate>Wed, 06 Jul 2022 23:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-07 08:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]던파M도 테스트서버 출시?…'퍼스트서버' 등급분류 받아 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202207060016</link>
             <guid>https://www.bloter.net/newsView/blt202207060016</guid>
-            <pubDate>Wed, 06 Jul 2022 22:17:57 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 22:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-07 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060040.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장+]최형록 발란 대표 "성장통 컸다…하반기 최우선 가치는 고객 관리" (블로터 ─ 테크)]]></title>
@@ -569,14 +577,6 @@ AI 반도체 시장의 성장세도 가파르다. 글로벌 시장조사업체 �
             <pubDate>Tue, 05 Jul 2022 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-05 17:11:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['딱딱한 제약' 인식 엎었다…'구독자 10만명' 유한양행 유튜브 흥행 비결은? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207050006</link>
-            <guid>https://www.bloter.net/newsView/blt202207050006</guid>
-            <pubDate>Tue, 05 Jul 2022 05:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-05 13:49:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -858,7 +858,7 @@ AI 반도체 시장의 성장세도 가파르다. 글로벌 시장조사업체 �
             <title><![CDATA[[단독]던파M도 테스트서버 출시?…'퍼스트서버' 등급분류 받아 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202207060016</link>
             <guid>https://www.bloter.net/newsView/blt202207060016</guid>
-            <pubDate>Wed, 06 Jul 2022 22:19:00 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 22:17:07 GMT</pubDate>
             <content:encoded><![CDATA['던전앤파이터 모바일'(이하 던파모바일)에 테스트 서버가 도입될 가능성이 제기됐다. 원작 던전앤파이터는 테스트서버 개념의 '퍼스트서버'를 별도로 운영하며 본 게임에 적용되기 전 콘텐츠를 미리 공개하는 만큼, 모바일 버전도 관련 시스템을 채택할 것으로 보]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060040.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
