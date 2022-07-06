@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 10:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]틱톡과 인스타그램이 보는 숏폼 콘텐츠 차이는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060017</link>
+            <guid>https://www.bloter.net/newsView/blt202207060017</guid>
+            <pubDate>Wed, 06 Jul 2022 11:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대(1990년대 중반에서 2000년대 초반에 걸쳐 태어난 젊은 세대)의 엄청난 인기를 등에 업은 틱톡이 여전한 숏폼 콘텐츠 자신감을 드러냈다. 2016년 출시한 이래 지난해 10억 개의 계정을 돌파하며 인스타그램과 맞먹는 수준으로 급성장했기 때문이다. 지난해 숏폼 콘]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060042.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]지스타, 현장 30만 관객 돌파할까]]></title>
             <link>https://www.bloter.net/newsView/blt202207060011</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 Jun 2022 10:25:27 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼 '제페토'(ZEPETO) 운영사인 네이버제트가 올해 335억원 규모의 투자를 단행했다. 주 서비스 분야인 메타버스 투자 비중을 높이는 동시에 국내외 협업 전선을 확대하며 글로벌 경쟁력을 높이는 모습이다.30일 네이버제트는 3건의 공시를 통해 신규 투자]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300026.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포켓몬GO' 개발사, 대규모 인력 감축 단행…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206300004</link>
-            <guid>https://www.bloter.net/newsView/blt202206300004</guid>
-            <pubDate>Thu, 30 Jun 2022 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[포켓몬스터 IP 기반 증강현실(AR) 게임 '포켓몬GO'로 글로벌 흥행에 성공한 '나이언틱'이 최근 100여명에 가까운 임직원을 해고할 것으로 알려졌다. 현재 개발 및 기획중인 글로벌 프로젝트도 중단하며 사실상 재정비에 나선 상황이다.29일(현지시간) &lt;블룸버그&gt;는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/30/blt202206300004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
