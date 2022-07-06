@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['매출 3.7조' 통합 롯데제과 출범..."시너지 강화"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060001</link>
+            <guid>https://www.bloter.net/newsView/blt202207060001</guid>
+            <pubDate>Wed, 06 Jul 2022 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-06 09:49:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ제일제당, 미국 공략에 17년…유럽은?]]></title>
             <link>https://www.bloter.net/newsView/blt202207050015</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 05 Jul 2022 21:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-05 17:21:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050015.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이복현 금감원장에 '건전성 다짐'한 카드사, 무슨 선물 받을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207050011</link>
-            <guid>https://www.bloter.net/newsView/blt202207050011</guid>
-            <pubDate>Tue, 05 Jul 2022 10:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-05 16:13:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
