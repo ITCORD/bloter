@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 01:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 03:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['버티컬 플랫폼'의 한계?…브랜디, '플레어' 리뉴얼한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060004</link>
+            <guid>https://www.bloter.net/newsView/blt202207060004</guid>
+            <pubDate>Wed, 06 Jul 2022 03:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[커머스 플랫폼 업체 '브랜디'가 지난 5월 육아 애플리케이션(앱) '마미'를 30대 여성을 위한 큐레이션 쇼핑 앱으로 변신시켰다. 타깃 연령층을 기존 주요 고객층인 1020세대에서 30대 이상 고객으로 넓힐 필요성이 있다는 판단에서다. 다만, 일각에서는 버티컬 마켓이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엔씨, 변화를 말하다]④새 IP '프로젝트G'는 MMO+RTS?]]></title>
             <link>https://www.bloter.net/newsView/blt202207050016</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 28 Jun 2022 10:22:19 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈가 지난 20일 출시한 '우마무스메 프리티 더비'(이하 우마무스메)가 구글플레이 스토어에서 매출 2위를 기록했다. 지난달 조계현 카카오게임즈 대표가 언급한 목표 매출(3위)보다 높은 성적이다. 우마무스메는 지난해 일본 시장에서 선출시 된 후 1년 넘]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280040.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대홍기획, 블록체인 기업 50억 투자설', 실제로 이뤄졌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280017</link>
-            <guid>https://www.bloter.net/newsView/blt202206280017</guid>
-            <pubDate>Tue, 28 Jun 2022 08:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[롯데그룹의 블록체인 사업이 가시화될까. 두 달 전 롯데그룹이 광고계열사 대홍기획을 통해 블록체인 기술기업 '블로코'에 투자한다던 업계발 소식이 현실로 이뤄졌다.  대홍기획은 왜 블로코에 투자했나 28일 대홍기획은 '타법인 주식 및 출자증권 취득결정' 공시]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
