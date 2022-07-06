@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 12:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 13:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]최형록 발란 대표 "성장통 컸다…하반기 최우선 가치는 고객 관리"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060020</link>
+            <guid>https://www.bloter.net/newsView/blt202207060020</guid>
+            <pubDate>Wed, 06 Jul 2022 13:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-06 21:43:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060043.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]틱톡과 인스타그램이 보는 숏폼 콘텐츠 차이는?]]></title>
             <link>https://www.bloter.net/newsView/blt202207060017</link>
             <guid>https://www.bloter.net/newsView/blt202207060017</guid>
             <pubDate>Wed, 06 Jul 2022 11:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-06 20:04:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[韓 교육이 키운 허준이 “필즈상 수상은 ‘공동연구’ 덕…안정적 환경 중요”]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 05 Jul 2022 04:36:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-05 13:17:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점유율 하락 쏘카, 비용 부담에도 '편도 서비스' 선보인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207050005</link>
-            <guid>https://www.bloter.net/newsView/blt202207050005</guid>
-            <pubDate>Tue, 05 Jul 2022 04:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-05 13:07:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
