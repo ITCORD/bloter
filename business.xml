@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 08:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코인터, 구동모터 400만대 목표 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070003</link>
+            <guid>https://www.bloter.net/newsView/blt202207070003</guid>
+            <pubDate>Thu, 07 Jul 2022 09:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-07 10:24:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상장 노리는 쏘카, 사업 확장 박차...'쏘카존' 넓힌다]]></title>
             <link>https://www.bloter.net/newsView/blt202207070002</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060024.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코홀딩스의 35조 가치 염호...'황금알' 낳을 리튬 파이프라인일까]]></title>
+            <title><![CDATA[포스코홀딩스의 아르헨티나 염호...'리튬 내재화'의 핵심 업스트림]]></title>
             <link>https://www.bloter.net/newsView/blt202207060007</link>
             <guid>https://www.bloter.net/newsView/blt202207060007</guid>
             <pubDate>Thu, 07 Jul 2022 01:42:33 GMT</pubDate>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 07 Jul 2022 01:42:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-06 14:44:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 유럽·미국 '라이브커머스' 사업 확장 포기 수순]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060003</link>
-            <guid>https://www.bloter.net/newsView/blt202207060003</guid>
-            <pubDate>Wed, 06 Jul 2022 21:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-06 10:47:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
