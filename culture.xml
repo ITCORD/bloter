@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 01:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥외광고판의 디지털화, '전광판'도 '타깃팅'이 된다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070001</link>
+            <guid>https://www.bloter.net/newsView/blt202207070001</guid>
+            <pubDate>Thu, 07 Jul 2022 01:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[보다 정밀한 타깃팅과 유연한 지면 노출이 가능한 '프로그래매틱 디지털 아웃 오브 홈(DOOH)'의 적용 사례가 나오면서 옥외광고판의 혁신 사례로 주목받고 있다.'프로그래매틱 DOOH'는 데이터와 기술을 활용해 디지털 스크린으로 광고를 기획·구매·타깃팅&amp;mid]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070005.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]던파M도 테스트서버 출시?…'퍼스트서버' 등급분류 받아]]></title>
             <link>https://www.bloter.net/newsView/blt202207060016</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 03 Jul 2022 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA['넷마블표 메타버스'가 탄탄한 동맹전선을 구축한다. 넷마블 자회사 넷마블에프앤씨 산하에 있는 '메타버스월드'가 메타(구 페이스북), 마이크로소프트(MS), 엔비디아, 어도비 등 글로벌 기술기업들이 포함된 '메타버스 스탠다드 포럼'(MSF)에 합류했기 때문이다. MSF,]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/02/blt202207020002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]박보균 문체부 장관, 中 판호 외교관계로 풀어낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207010010</link>
-            <guid>https://www.bloter.net/newsView/blt202207010010</guid>
-            <pubDate>Fri, 01 Jul 2022 08:23:22 GMT</pubDate>
-            <content:encoded><![CDATA["게임을 하는 분들의 본능이 살아서 펼쳐질 수 있도록 정책으로 뒷받침할 생각이다" 윤석열 정부의 초대 문화체육관광부(이하 문체부) 장관직을 수행중인 박보균 장관은 '규제'보다 '육성'에 초점을 맞춘 정책방향을 강조했다.   1일 서울 강남구에 위치한 한국게임]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/01/blt202207010020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

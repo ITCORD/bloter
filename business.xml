@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 01:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코홀딩스의 35조 가치 염호...'황금알' 낳을 리튬 파이프라인일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060007</link>
+            <guid>https://www.bloter.net/newsView/blt202207060007</guid>
+            <pubDate>Thu, 07 Jul 2022 01:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-06 15:17:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소통 결렬' 카카오...노조, 모빌리티 매각 반대 서명운동 재개]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060009</link>
+            <guid>https://www.bloter.net/newsView/blt202207060009</guid>
+            <pubDate>Thu, 07 Jul 2022 01:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-06 14:44:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 유럽·미국 '라이브커머스' 사업 확장 포기 수순]]></title>
             <link>https://www.bloter.net/newsView/blt202207060003</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 06 Jul 2022 06:21:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-05 19:07:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050053.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['브라질 발레'를 꿈꾼 포스코...아르헨티나 리튬 사업 집착일까 집념일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207050009</link>
-            <guid>https://www.bloter.net/newsView/blt202207050009</guid>
-            <pubDate>Wed, 06 Jul 2022 01:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-05 18:37:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050047.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나로 안전 민감도↑…온라인 해외여행보험 '불티']]></title>
-            <link>https://www.bloter.net/newsView/blt202207050017</link>
-            <guid>https://www.bloter.net/newsView/blt202207050017</guid>
-            <pubDate>Wed, 06 Jul 2022 01:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-05 18:19:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050043.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
