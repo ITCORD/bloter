@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 22:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG에너지솔루션, 상반기 매출 전년 대비 0.3% 증가...성장 둔화 우려]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070012</link>
+            <guid>https://www.bloter.net/newsView/blt202207070012</guid>
+            <pubDate>Thu, 07 Jul 2022 23:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-07 18:29:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긴축으로 부활한 '대환대출플랫폼'… 2금융권이 잘 협조할까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070017</link>
+            <guid>https://www.bloter.net/newsView/blt202207070017</guid>
+            <pubDate>Thu, 07 Jul 2022 23:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-07 18:11:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포드 전기트럭 F-150 '잘 나가네'...SK온 '북미 공략' 순항]]></title>
             <link>https://www.bloter.net/newsView/blt202207070007</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 07 Jul 2022 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-07 10:24:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상장 노리는 쏘카, 사업 확장 박차...'쏘카존' 넓힌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070002</link>
-            <guid>https://www.bloter.net/newsView/blt202207070002</guid>
-            <pubDate>Thu, 07 Jul 2022 07:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-07 10:09:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대상, 끈질긴 해외 투자...'점프 업' 가능할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060013</link>
-            <guid>https://www.bloter.net/newsView/blt202207060013</guid>
-            <pubDate>Thu, 07 Jul 2022 05:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-07 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060026.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

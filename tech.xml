@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 22:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 23:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저승사자 아니에요! 바이오주 'RP주식거래'에 대한 오해[넘버스]]]></title>
+            <link>https://www.bloter.net/newsView/blt202207080002</link>
+            <guid>https://www.bloter.net/newsView/blt202207080002</guid>
+            <pubDate>Thu, 07 Jul 2022 23:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">문병선</span>                        <span class="date">2022-07-08 08:00:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넘버스]카카오는 왜 '모빌리티 2대주주'를 강조할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070016</link>
+            <guid>https://www.bloter.net/newsView/blt202207070016</guid>
+            <pubDate>Thu, 07 Jul 2022 23:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-08 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070034.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 "가짜계정, 100만개씩 삭제"...머스크 눈치 살피나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207080004</link>
+            <guid>https://www.bloter.net/newsView/blt202207080004</guid>
+            <pubDate>Thu, 07 Jul 2022 23:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-08 07:20:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080006.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[데이터가 지배하는 '우주 클라우드' 시대를 대하는 AWS의 전략]]></title>
             <link>https://www.bloter.net/newsView/blt202207080001</link>
             <guid>https://www.bloter.net/newsView/blt202207080001</guid>
             <pubDate>Thu, 07 Jul 2022 20:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-08 05:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이젠, 우주]누리호 사출관 5개, 큐브위성은 4기인 이유…대학 성적표는?]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 06 Jul 2022 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-06 17:01:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]카카오엔터, '김비서'→'사내맞선' 성공 넘어 '브리저튼' 꿈꾼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060008</link>
-            <guid>https://www.bloter.net/newsView/blt202207060008</guid>
-            <pubDate>Wed, 06 Jul 2022 06:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-06 14:57:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[300억 투자로 '리벨리온' 얻은 KT,  'AI 반도체 풀스택' 완성]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060006</link>
-            <guid>https://www.bloter.net/newsView/blt202207060006</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-06 11:44:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['버티컬 플랫폼'의 한계?…브랜디, '플레어' 리뉴얼한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060004</link>
-            <guid>https://www.bloter.net/newsView/blt202207060004</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-06 11:43:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
