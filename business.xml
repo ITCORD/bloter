@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달러보험 시책 높이는 메트라이프생명…가입자 안심할 수 있나?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060012</link>
+            <guid>https://www.bloter.net/newsView/blt202207060012</guid>
+            <pubDate>Thu, 07 Jul 2022 03:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-06 17:37:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코홀딩스의 35조 가치 염호...'황금알' 낳을 리튬 파이프라인일까]]></title>
             <link>https://www.bloter.net/newsView/blt202207060007</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 06 Jul 2022 06:21:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-06 06:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴 노스볼트, 11억달러 전환사채 발행...공장 증설에 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202207050020</link>
-            <guid>https://www.bloter.net/newsView/blt202207050020</guid>
-            <pubDate>Wed, 06 Jul 2022 06:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-05 19:07:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050053.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
