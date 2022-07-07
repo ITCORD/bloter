@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 20:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 21:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG에너지솔루션, 상반기 매출 전년 대비 0.3% 증가...성장 둔화 우려]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070012</link>
-            <guid>https://www.bloter.net/newsView/blt202207070012</guid>
-            <pubDate>Thu, 07 Jul 2022 10:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-07 18:29:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070031.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[동원F&B, 해외는 포기?...'매출 비중 2%대']]></title>
+            <link>https://www.bloter.net/newsView/blt202207070015</link>
+            <guid>https://www.bloter.net/newsView/blt202207070015</guid>
+            <pubDate>Thu, 07 Jul 2022 21:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-08 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070023.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['글로벌 시장'서 입지 좁아진 K-배터리...LG엔솔·SK온, 공장 가동률은 '역대급']]></title>
-            <link>https://www.bloter.net/newsView/blt202207040008</link>
-            <guid>https://www.bloter.net/newsView/blt202207040008</guid>
-            <pubDate>Thu, 07 Jul 2022 10:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대상, 끈질긴 해외 투자...'점프 업' 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060013</link>
+            <guid>https://www.bloter.net/newsView/blt202207060013</guid>
+            <pubDate>Thu, 07 Jul 2022 21:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG엔솔·SK온·삼성SDI...글로벌 영향력 줄고, 투자 부담 커졌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207010015</link>
-            <guid>https://www.bloter.net/newsView/blt202207010015</guid>
-            <pubDate>Thu, 07 Jul 2022 10:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[CJ제일제당, 미국 공략에 17년…유럽은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050015</link>
+            <guid>https://www.bloter.net/newsView/blt202207050015</guid>
+            <pubDate>Thu, 07 Jul 2022 21:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG에너지솔루션, 원화 하락 호재일까...외화차입금 5.6조 금융부담 커져]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270007</link>
-            <guid>https://www.bloter.net/newsView/blt202206270007</guid>
-            <pubDate>Thu, 07 Jul 2022 10:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['원통형 전지 전쟁' 개막...LG에너지솔루션, '4680 전지' 공장에 5800억 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130041</link>
-            <guid>https://www.bloter.net/newsView/blt202206130041</guid>
-            <pubDate>Thu, 07 Jul 2022 10:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['이제는 배터리 업체'...동원시스템즈, 배터리 캔 증산]]></title>
+            <link>https://www.bloter.net/newsView/blt202207010007</link>
+            <guid>https://www.bloter.net/newsView/blt202207010007</guid>
+            <pubDate>Thu, 07 Jul 2022 21:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
