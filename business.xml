@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 10:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 2분기 겹악재에도 '반도체'로 버텼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070004</link>
+            <guid>https://www.bloter.net/newsView/blt202207070004</guid>
+            <pubDate>Thu, 07 Jul 2022 10:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-07 10:45:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070012.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[포스코인터, 구동모터 400만대 목표 가능할까]]></title>
             <link>https://www.bloter.net/newsView/blt202207070003</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 07 Jul 2022 01:42:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-06 15:17:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소통 결렬' 카카오...노조, 모빌리티 매각 반대 서명운동 재개]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060009</link>
-            <guid>https://www.bloter.net/newsView/blt202207060009</guid>
-            <pubDate>Thu, 07 Jul 2022 01:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-06 14:44:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060015.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
