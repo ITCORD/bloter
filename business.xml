@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭스바겐, 독일 배터리 공장에 26조 투자..."아시아 전지 의존은 큰 위험"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207080003</link>
+            <guid>https://www.bloter.net/newsView/blt202207080003</guid>
+            <pubDate>Fri, 08 Jul 2022 08:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-08 07:15:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동원F&B, 해외는 포기?...'매출 비중 2%대']]></title>
             <link>https://www.bloter.net/newsView/blt202207070015</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 07 Jul 2022 21:15:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-07 14:03:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 2분기 겹악재에도 '반도체'로 버텼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070004</link>
-            <guid>https://www.bloter.net/newsView/blt202207070004</guid>
-            <pubDate>Thu, 07 Jul 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-07 10:45:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070012.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
