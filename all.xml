@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 22:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 23:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,7 +327,7 @@ ENA에서 집계한 우영우의 시청률은 회를 거듭할 수록 수직 상
             <title><![CDATA[롯데제과, 주춤했던 해외사업….합병 시너지 관건 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202207080011</link>
             <guid>https://www.bloter.net/newsView/blt202207080011</guid>
-            <pubDate>Fri, 08 Jul 2022 22:16:05 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2022 22:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-09 07:08:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080020.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -358,6 +358,14 @@ ENA에서 집계한 우영우의 시청률은 회를 거듭할 수록 수직 상
             <guid>https://www.bloter.net/newsView/blt202206240010</guid>
             <pubDate>Fri, 08 Jul 2022 22:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG화학, 3억달러 그린본드 발행…전기차 소재 전액 쓴다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202207080006</link>
+            <guid>https://www.bloter.net/newsView/blt202207080006</guid>
+            <pubDate>Fri, 08 Jul 2022 01:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-08 09:40:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저승사자 아니에요! 바이오주 'RP주식거래'에 대한 오해 (블로터 ─ 비즈니스)]]></title>
@@ -398,14 +406,6 @@ ENA에서 집계한 우영우의 시청률은 회를 거듭할 수록 수직 상
             <pubDate>Thu, 07 Jul 2022 10:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-07 18:29:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴축으로 부활한 '대환대출플랫폼'… 2금융권이 잘 협조할까? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070017</link>
-            <guid>https://www.bloter.net/newsView/blt202207070017</guid>
-            <pubDate>Thu, 07 Jul 2022 09:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-07 18:11:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070032.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
