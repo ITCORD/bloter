@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]네오위즈, '유료BM 소셜카지노' 또 좌절?…韓 등급분류 '캄캄']]></title>
+            <link>https://www.bloter.net/newsView/blt202207080010</link>
+            <guid>https://www.bloter.net/newsView/blt202207080010</guid>
+            <pubDate>Fri, 08 Jul 2022 07:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[최근 소셜카지노 게임 '피망 카지노'가 게임물관리위원회로부터 등급(분류)거부 확정 판정을 받은 가운데, 서비스사인 네오위즈가 관련 콘텐츠 등급분류에 재도전한 것으로 확인됐다. 8일 &lt;블로터&gt; 취재 결과, 네오위즈는 지난달 23일 게임물관리위원회로부터]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080010.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'펭수+우영우', 효과는 대단했다]]></title>
             <link>https://www.bloter.net/newsView/blt202207070013</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 04 Jul 2022 03:50:40 GMT</pubDate>
             <content:encoded><![CDATA[지난달 출시한 모바일 게임들이 구글플레이 스토어 매출 톱5에서 이탈하며, 기존 강자들에게 상위권을 내줬다. 4일 오전 11시 기준, '오딘: 발할라 라이징'과 '던전앤파이터 모바일'이 각각 구글 매출 2위와 3위를 차지했다. 반면 구글 매출 2위와 3위를 기록했던 '우마]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/04/blt202207040002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[콘텐츠메이커]'우영우'로 기대하는 '스튜디오지니·ENA' 시너지]]></title>
-            <link>https://www.bloter.net/newsView/blt202207030003</link>
-            <guid>https://www.bloter.net/newsView/blt202207030003</guid>
-            <pubDate>Sun, 03 Jul 2022 11:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[게임, 웹툰, 영화, 드라마 등 하나의 콘텐츠가 만들어지기까지 짧게는 수 개월에서 길게는 수 년의 시간이 소요됩니다. 콘텐츠의 출발이 되는 기획부터 연출 및 개발같은 일련의 과정을 거쳐 배급·유통사에 이르는 형태로 소비자에게 전달되는데요. &lt;블로터&amp;g]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/03/blt202207030004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
