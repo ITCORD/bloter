@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 01:44:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동원F&B, 해외는 포기?...'매출 비중 2%대']]></title>
+            <link>https://www.bloter.net/newsView/blt202207070015</link>
+            <guid>https://www.bloter.net/newsView/blt202207070015</guid>
+            <pubDate>Fri, 08 Jul 2022 01:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-08 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070023.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG에너지솔루션, 상반기 매출 전년 대비 0.3% 증가...성장 둔화 우려]]></title>
             <link>https://www.bloter.net/newsView/blt202207070012</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 07 Jul 2022 10:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-07 10:45:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070012.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코인터, 구동모터 400만대 목표 가능할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070003</link>
-            <guid>https://www.bloter.net/newsView/blt202207070003</guid>
-            <pubDate>Thu, 07 Jul 2022 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-07 10:24:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
