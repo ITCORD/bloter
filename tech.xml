@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 01:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]LG유플러스 5G 주파수 확보, 숨은 승자는 '장비사·소비자']]></title>
+            <link>https://www.bloter.net/newsView/blt202207080020</link>
+            <guid>https://www.bloter.net/newsView/blt202207080020</guid>
+            <pubDate>Sat, 09 Jul 2022 01:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-09 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]퓨처플레이 주식, 삼성전자 주식과 무엇이 다를까]]></title>
             <link>https://www.bloter.net/newsView/blt202207080019</link>
             <guid>https://www.bloter.net/newsView/blt202207080019</guid>
             <pubDate>Fri, 08 Jul 2022 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-08 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]슈퍼캣표 '환세취호전', 환세스튜디오가 이끈다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 07 Jul 2022 01:42:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-07 09:11:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK케미칼 ‘기넥신’의 30년, 앞으로 꽃길이 기대되는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060010</link>
-            <guid>https://www.bloter.net/newsView/blt202207060010</guid>
-            <pubDate>Wed, 06 Jul 2022 23:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-07 08:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
