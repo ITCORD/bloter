@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 09:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내셔널지오그래픽, '여행용 캐리어' 첫 도전...와디즈 펀딩 인기끌까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207100001</link>
+            <guid>https://www.bloter.net/newsView/blt202207100001</guid>
+            <pubDate>Sun, 10 Jul 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[더네이쳐홀딩스의 라이센스 패션 브랜드 내셔널지오그래픽이 처음으로 여행용 캐리어를 크라우드 펀딩 시장에 내놨다. 코로나19 팬데믹 기간 내셔널지오그래픽의 '캠핑 텐트' 등 캠핑 관련 상품이 온라인 크라우드 펀딩만으로 55억원 가량의 매출을 내면서, 펀딩에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/10/blt202207100001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]슈퍼캣표 '환세취호전', 환세스튜디오가 이끈다]]></title>
             <link>https://www.bloter.net/newsView/blt202207080017</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 05 Jul 2022 09:18:39 GMT</pubDate>
             <content:encoded><![CDATA[올해 엔씨소프트는 '장르 다각화'와 '변화된 개발 기조'를 강조했다. 지난해 11월 출시한 '리니지W'를 '마지막 리니지'로 표현할 만큼 주요 IP에 대한 의존도를 분산시키는 한편 출시가 임박할 시기에 공개했던 개발 기조도 기획단계에서부터 공유한다는 내용이다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050040.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, OTT 프라임 비디오 ‘워치파티’ 호환 채널 확장]]></title>
-            <link>https://www.bloter.net/newsView/blt202207050004</link>
-            <guid>https://www.bloter.net/newsView/blt202207050004</guid>
-            <pubDate>Tue, 05 Jul 2022 03:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 전자상거래 기업인 아마존이 자사 온라인동영상서비스(OTT) ‘아마존 프라임 비디오(Prime Video)’의 워치파티(Watch Party) 기능을 이용할 수 있는 채널을 다각화했다.IT전문 매체 &lt;더 버지&gt;는 4일(현지시간) “친구들과 함께 아마존 프라임 비디오]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/05/blt202207050004.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
