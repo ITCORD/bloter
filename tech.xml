@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호영 택한 의협, 비대면 진료 이슈 헤쳐나갈 수 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207110007</link>
+            <guid>https://www.bloter.net/newsView/blt202207110007</guid>
+            <pubDate>Mon, 11 Jul 2022 05:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-11 14:02:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SKT '웹 3.0' 대응 본격화...탈중앙화 디지털 지갑 만든다]]></title>
             <link>https://www.bloter.net/newsView/blt202207110005</link>
             <guid>https://www.bloter.net/newsView/blt202207110005</guid>
             <pubDate>Mon, 11 Jul 2022 03:40:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-11 11:27:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사라지는 '선정적 인앱 광고', 그 뒤에 '기술력' 있었다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 07 Jul 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-07 18:58:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070043.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[업계 유일 '수냉식 기지국' 만든 노키아, "초심으로 돌아왔다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070018</link>
-            <guid>https://www.bloter.net/newsView/blt202207070018</guid>
-            <pubDate>Thu, 07 Jul 2022 10:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-07 18:37:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
