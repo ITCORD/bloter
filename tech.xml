@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 01:44:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라지는 '선정적 인앱 광고', 그 뒤에 '기술력' 있었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207110002</link>
+            <guid>https://www.bloter.net/newsView/blt202207110002</guid>
+            <pubDate>Mon, 11 Jul 2022 01:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-11 09:42:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온제약 '고덱스' 살아남을까]]></title>
             <link>https://www.bloter.net/newsView/blt202207080009</link>
             <guid>https://www.bloter.net/newsView/blt202207080009</guid>
             <pubDate>Sun, 10 Jul 2022 10:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-10 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080028.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080028.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[내셔널지오그래픽, '여행용 캐리어' 첫 도전...와디즈 펀딩 인기끌까]]></title>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/10/blt202207100001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기사AS]대웅제약, 위식도역류 신약...어떻게 사요?]]></title>
+            <title><![CDATA[[기사AS]대웅제약의 '위식도역류 신약'으로 알아보는 건강보험 사용법]]></title>
             <link>https://www.bloter.net/newsView/blt202207080022</link>
             <guid>https://www.bloter.net/newsView/blt202207080022</guid>
             <pubDate>Sun, 10 Jul 2022 07:17:19 GMT</pubDate>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 07 Jul 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-07 18:37:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이기일 복지부 차관의 보건산업 육성 ‘광폭 행보’…AI·디지털·의료정보 아울러]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070014</link>
-            <guid>https://www.bloter.net/newsView/blt202207070014</guid>
-            <pubDate>Thu, 07 Jul 2022 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-07 17:48:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
