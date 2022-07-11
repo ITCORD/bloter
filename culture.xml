@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 07:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 08:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]'메이플' 블록 생태계, 메타버스까지 이어질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207110014</link>
+            <guid>https://www.bloter.net/newsView/blt202207110014</guid>
+            <pubDate>Mon, 11 Jul 2022 08:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다. &lt;편집자]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사라지는 '선정적 인앱 광고', 그 뒤에 '기술력' 있었다]]></title>
             <link>https://www.bloter.net/newsView/blt202207110002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 06 Jul 2022 06:22:55 GMT</pubDate>
             <content:encoded><![CDATA[카카오엔터테인먼트(이하 카카오엔터)가 웹툰·웹소설을 성공적으로 영상화하며 글로벌에서도 존재감을 키우고 있다. 이런 자신감을 바탕으로 다소 마니악한 장르로 여겨졌던 로맨스판타지도 리브랜딩 작업에 나섰으며, 편견을 넘어 더욱 풍부한 세계관으로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['버티컬 플랫폼'의 한계?…브랜디, '플레어' 리뉴얼한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060004</link>
-            <guid>https://www.bloter.net/newsView/blt202207060004</guid>
-            <pubDate>Wed, 06 Jul 2022 03:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[커머스 플랫폼 업체 '브랜디'가 지난 5월 육아 애플리케이션(앱) '마미'를 30대 여성을 위한 큐레이션 쇼핑 앱으로 변신시켰다. 타깃 연령층을 기존 주요 고객층인 1020세대에서 30대 이상 고객으로 넓힐 필요성이 있다는 판단에서다. 다만, 일각에서는 버티컬 마켓이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
