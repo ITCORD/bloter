@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKIET 이은 '2위 습식분리막' WCP 내달 상장...'구주 매출' 우려 잠재울까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207110008</link>
+            <guid>https://www.bloter.net/newsView/blt202207110008</guid>
+            <pubDate>Tue, 12 Jul 2022 09:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-11 16:07:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘또 연기?’…대상, 자꾸만 늦어지는 중국 ‘라이신’ 사업 확장]]></title>
             <link>https://www.bloter.net/newsView/blt202207110012</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 11 Jul 2022 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-11 10:16:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데제과, 주춤했던 해외사업….합병 시너지 관건]]></title>
-            <link>https://www.bloter.net/newsView/blt202207080011</link>
-            <guid>https://www.bloter.net/newsView/blt202207080011</guid>
-            <pubDate>Mon, 11 Jul 2022 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-09 07:08:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080020.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

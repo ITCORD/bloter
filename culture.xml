@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]콘텐츠로 만나는 BTS, 구글·디즈니 시너지 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207120019</link>
+            <guid>https://www.bloter.net/newsView/blt202207120019</guid>
+            <pubDate>Tue, 12 Jul 2022 09:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[엔터테인먼트기업 '하이브'(HYBE)의 킬러콘텐츠는 '방탄소년단'(BTS)을 비롯한 아티스트로 대변된다. BTS가 개별 활동에 집중하는 현재, 하이브는 글로벌 팬을 위한 콘텐츠 유통 경로를 다각화하는 모습이다.  앞서 지난 7일 하이브와 월트디즈니컴퍼니(이하 디즈니)는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120034.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]제작사 '에이스토리' 주가로 본 '흥행 방정식']]></title>
             <link>https://www.bloter.net/newsView/blt202207120013</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 06 Jul 2022 13:45:11 GMT</pubDate>
             <content:encoded><![CDATA[최형록 발란 대표가 "고객 문제 해결에 우선순위를 두는 정책을 고수하겠다"고 강조했다. 반품비에 이어 가품 논란까지 연이어 발생함에 따라 관련 문제 해결에 집중하겠다는 뜻으로 읽힌다. 지난달 반품비 상한제를 도입한 발란은 연내 고객관리 서비스를 본격적]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060043.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]틱톡과 인스타그램이 보는 숏폼 콘텐츠 차이는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060017</link>
-            <guid>https://www.bloter.net/newsView/blt202207060017</guid>
-            <pubDate>Wed, 06 Jul 2022 11:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대(1990년대 중반에서 2000년대 초반에 걸쳐 태어난 젊은 세대)의 엄청난 인기를 등에 업은 틱톡이 여전한 숏폼 콘텐츠 자신감을 드러냈다. 2016년 출시한 이래 지난해 10억 개의 계정을 돌파하며 인스타그램과 맞먹는 수준으로 급성장했기 때문이다. 지난해 숏폼 콘]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060042.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
