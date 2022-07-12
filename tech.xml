@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 22:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 23:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[클라우드+]한국이 'SaaS 국제 규격' 만들면 토종 기업은 무엇이 좋나요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207130001</link>
+            <guid>https://www.bloter.net/newsView/blt202207130001</guid>
+            <pubDate>Tue, 12 Jul 2022 23:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-13 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사 '솔드아웃' 2분기 거래량 증가…적자 탈출 신호탄?]]></title>
             <link>https://www.bloter.net/newsView/blt202207120020</link>
             <guid>https://www.bloter.net/newsView/blt202207120020</guid>
             <pubDate>Tue, 12 Jul 2022 22:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-13 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이젠, 우주]오늘 밤 ‘슈퍼문’ 뜬다…다누리 발사 한 달 전 펼쳐지는 ‘우주쇼’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 11 Jul 2022 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-11 16:47:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]'메이플' 블록 생태계, 메타버스까지 이어질까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207110014</link>
-            <guid>https://www.bloter.net/newsView/blt202207110014</guid>
-            <pubDate>Mon, 11 Jul 2022 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-11 16:45:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
