@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 20:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 21:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이젠, 우주]오늘 밤 ‘슈퍼문’ 뜬다…다누리 발사 한 달 전 펼쳐지는 ‘우주쇼’]]></title>
+            <link>https://www.bloter.net/newsView/blt202207120021</link>
+            <guid>https://www.bloter.net/newsView/blt202207120021</guid>
+            <pubDate>Tue, 12 Jul 2022 21:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-13 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120046.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]콘텐츠로 만나는 BTS, 구글·디즈니 시너지 낸다]]></title>
             <link>https://www.bloter.net/newsView/blt202207120019</link>
             <guid>https://www.bloter.net/newsView/blt202207120019</guid>
             <pubDate>Tue, 12 Jul 2022 09:26:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-12 18:24:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 연구진 발굴 세계 첫 ‘탄수화물 나노입자’ 암세포에 딱 붙었다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 11 Jul 2022 06:22:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-11 15:22:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조회 수 의존않는 '팬십'...텀블벅, '스테디오'로 후원플랫폼 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202207110009</link>
-            <guid>https://www.bloter.net/newsView/blt202207110009</guid>
-            <pubDate>Mon, 11 Jul 2022 06:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-11 15:04:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110009.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
