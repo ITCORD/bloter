@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 01:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야놀자클라우드, 트러스테이 활용한 '프롭테크' 경쟁력 강화 박차]]></title>
+            <link>https://www.bloter.net/newsView/blt202207120003</link>
+            <guid>https://www.bloter.net/newsView/blt202207120003</guid>
+            <pubDate>Tue, 12 Jul 2022 01:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-12 10:33:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘태초의 빛을 찾아서’…제임스 웹 첫 우주 사진 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202207120001</link>
+            <guid>https://www.bloter.net/newsView/blt202207120001</guid>
+            <pubDate>Tue, 12 Jul 2022 01:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-12 09:08:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스가 한국MS와 노리는 것…'클라우드·융합'보안과 스마트팩토리]]></title>
             <link>https://www.bloter.net/newsView/blt202207110018</link>
             <guid>https://www.bloter.net/newsView/blt202207110018</guid>
             <pubDate>Mon, 11 Jul 2022 21:26:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-12 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110035.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110035.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[5G '중간요금제' 출시 앞둔 SKT·KT·LGU+ "수익 악화될 것"...고민 깊어진다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 08 Jul 2022 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-08 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]슈퍼캣표 '환세취호전', 환세스튜디오가 이끈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207080017</link>
-            <guid>https://www.bloter.net/newsView/blt202207080017</guid>
-            <pubDate>Fri, 08 Jul 2022 10:31:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-08 18:43:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실내 ‘먹통’ GPS, 카이스트 연구팀 해결책 내놨다…사업화 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202207080012</link>
-            <guid>https://www.bloter.net/newsView/blt202207080012</guid>
-            <pubDate>Fri, 08 Jul 2022 08:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-08 17:10:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
