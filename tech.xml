@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 10:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 11:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고교 자퇴 후 서울대 석사까지…‘필즈상’ 허준이 교수가 본 韓 수학 교육은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207130015</link>
+            <guid>https://www.bloter.net/newsView/blt202207130015</guid>
+            <pubDate>Wed, 13 Jul 2022 11:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-13 19:37:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티빙·시즌 합병]②자체 CP와 CJ ENM있기에…KT, OTT 없어도 괜찮아]]></title>
             <link>https://www.bloter.net/newsView/blt202207130010</link>
             <guid>https://www.bloter.net/newsView/blt202207130010</guid>
             <pubDate>Wed, 13 Jul 2022 08:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-13 17:13:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[티빙·시즌 합병]①알고보면 알짜배기? '콘텐츠 인프라'가 강점]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 12 Jul 2022 04:00:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-12 11:37:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120011.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔씨, 변화를 말하다]⑤아트 분야 '임원 체제'로…비주얼 강화 집중]]></title>
-            <link>https://www.bloter.net/newsView/blt202207120005</link>
-            <guid>https://www.bloter.net/newsView/blt202207120005</guid>
-            <pubDate>Tue, 12 Jul 2022 04:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-12 11:29:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
