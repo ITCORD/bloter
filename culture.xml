@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이피알, 분기매출 1000억 눈 앞…'뷰티디바이스' 급성장]]></title>
+            <link>https://www.bloter.net/newsView/blt202207130008</link>
+            <guid>https://www.bloter.net/newsView/blt202207130008</guid>
+            <pubDate>Wed, 13 Jul 2022 06:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[에이피알이 창립 이후 '분기 매출 1000억원대 달성'을 눈 앞에 두고 있다. 올 2분기 매출만 700억원 이상을 기록하며 높은 성장세를 보인 에이피알은 패션(널디)에 이어 뷰티 신사업 분야까지 성장 궤도에 진입한 만큼 더 큰 목표를 꿈꾸고 있다.  분기 최대 매출 경신 ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130009.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무신사 '솔드아웃' 2분기 거래량 증가…적자 탈출 신호탄?]]></title>
             <link>https://www.bloter.net/newsView/blt202207120020</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Jul 2022 01:43:57 GMT</pubDate>
             <content:encoded><![CDATA[보다 정밀한 타깃팅과 유연한 지면 노출이 가능한 '프로그래매틱 디지털 아웃 오브 홈(DOOH)'의 적용 사례가 나오면서 옥외광고판의 혁신 사례로 주목받고 있다.'프로그래매틱 DOOH'는 데이터와 기술을 활용해 디지털 스크린으로 광고를 기획·구매·타깃팅&amp;mid]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/07/blt202207070005.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]던파M도 테스트서버 출시?…'퍼스트서버' 등급분류 받아]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060016</link>
-            <guid>https://www.bloter.net/newsView/blt202207060016</guid>
-            <pubDate>Wed, 06 Jul 2022 22:19:00 GMT</pubDate>
-            <content:encoded><![CDATA['던전앤파이터 모바일'(이하 던파모바일)에 테스트 서버가 도입될 가능성이 제기됐다. 원작 던전앤파이터는 테스트서버 개념의 '퍼스트서버'를 별도로 운영하며 본 게임에 적용되기 전 콘텐츠를 미리 공개하는 만큼, 모바일 버전도 관련 시스템을 채택할 것으로 보]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/06/blt202207060040.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
