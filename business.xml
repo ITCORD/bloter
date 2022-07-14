@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대중공업그룹 "이제는 소프트웨어"...자율운항·AI의 심장 '아비커스'는]]></title>
+            <link>https://www.bloter.net/newsView/blt202207130004</link>
+            <guid>https://www.bloter.net/newsView/blt202207130004</guid>
+            <pubDate>Thu, 14 Jul 2022 06:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-13 15:16:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['쿠키리스 시대' 앞두고 CDP 뜨나...고객 데이터 확보 총력전]]></title>
             <link>https://www.bloter.net/newsView/blt202207120015</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 12 Jul 2022 09:26:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-11 16:07:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘또 연기?’…대상, 자꾸만 늦어지는 중국 ‘라이신’ 사업 확장]]></title>
-            <link>https://www.bloter.net/newsView/blt202207110012</link>
-            <guid>https://www.bloter.net/newsView/blt202207110012</guid>
-            <pubDate>Tue, 12 Jul 2022 08:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-11 15:49:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/11/blt202207110014.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
