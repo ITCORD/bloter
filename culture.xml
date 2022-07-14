@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 03:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN, 게임사업 본사로 일원화…NHN빅풋 흡수합병]]></title>
+            <link>https://www.bloter.net/newsView/blt202207140005</link>
+            <guid>https://www.bloter.net/newsView/blt202207140005</guid>
+            <pubDate>Thu, 14 Jul 2022 04:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[NHN이 자회사에서 전담하던 게임사업을 본사로 이관한다. 올 초 통합 게임 자회사 NHN빅풋을 출범시켰던 NHN은 관련 회사를 흡수합병해 직접 운영키로 결정했다.14일 NHN은 NHN빅풋을 흡수합병해 그룹의 모태인 게임사업 역량을 본사로 한 데 모아 집중 육성할 계획이라]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[티빙·시즌 합병]②자체 CP와 CJ ENM있기에…KT, OTT 없어도 괜찮아]]></title>
             <link>https://www.bloter.net/newsView/blt202207130010</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Jul 2022 10:32:18 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼캣이 개발하는 모바일 RPG 버전의 '환세취호전'은 어떤 모습일까. 지난해 7월 IP 라이선스 계약 이후 소식이 뜸했던 환세취호전의 근황이 공개됐다. 주요 개발진을 비롯해 대규모 채용계획까지 더해지며 서서히 윤곽이 드러나는 모습이다. 미리보는 '환세취호전',]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080038.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]네오위즈, '유료BM 소셜카지노' 또 좌절?…韓 등급분류 '캄캄']]></title>
-            <link>https://www.bloter.net/newsView/blt202207080010</link>
-            <guid>https://www.bloter.net/newsView/blt202207080010</guid>
-            <pubDate>Fri, 08 Jul 2022 07:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[최근 소셜카지노 게임 '피망 카지노'가 게임물관리위원회로부터 등급(분류)거부 확정 판정을 받은 가운데, 서비스사인 네오위즈가 관련 콘텐츠 등급분류에 재도전한 것으로 확인됐다. 8일 &lt;블로터&gt; 취재 결과, 네오위즈는 지난달 23일 게임물관리위원회로부터]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/08/blt202207080010.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
