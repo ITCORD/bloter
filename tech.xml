@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 01:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT 거품 빠지나…글로벌거래소 '오픈씨', 직원 20% 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150001</link>
+            <guid>https://www.bloter.net/newsView/blt202207150001</guid>
+            <pubDate>Fri, 15 Jul 2022 01:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-15 09:17:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스카이코비원, 오미크론 효능 일부 확인…한숨 돌린 SK바사, 남은 과제는?]]></title>
             <link>https://www.bloter.net/newsView/blt202207140026</link>
             <guid>https://www.bloter.net/newsView/blt202207140026</guid>
             <pubDate>Thu, 14 Jul 2022 21:18:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-15 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코오롱FnC, '중고마켓' 운영나선 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 13 Jul 2022 08:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-13 17:06:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이피알, 분기매출 1000억 눈 앞…'뷰티디바이스' 급성장]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130008</link>
-            <guid>https://www.bloter.net/newsView/blt202207130008</guid>
-            <pubDate>Wed, 13 Jul 2022 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-13 15:06:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140011.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
