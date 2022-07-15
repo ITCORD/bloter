@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트렌드리포트] '휴식'과 '일' 사이…'워케이션' 일상 속 자리잡는 해법은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150009</link>
+            <guid>https://www.bloter.net/newsView/blt202207150009</guid>
+            <pubDate>Fri, 15 Jul 2022 08:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-15 17:20:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티빙·시즌 합병]③넷플릭스는 과연 경쟁자일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150013</link>
+            <guid>https://www.bloter.net/newsView/blt202207150013</guid>
+            <pubDate>Fri, 15 Jul 2022 08:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-15 16:37:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150043.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마인드노크, 20억 유상증자...퍼포먼스 마케팅 본격 시동]]></title>
             <link>https://www.bloter.net/newsView/blt202207150011</link>
             <guid>https://www.bloter.net/newsView/blt202207150011</guid>
             <pubDate>Fri, 15 Jul 2022 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-15 15:02:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150037.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신약 개발만이 능사일까…복제약이 국가에 도움이 되는 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 14 Jul 2022 01:48:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-14 10:24:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]카카오식 성장법, 뒤늦게 날아든 청구서들]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130013</link>
-            <guid>https://www.bloter.net/newsView/blt202207130013</guid>
-            <pubDate>Wed, 13 Jul 2022 22:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-14 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130046.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고교 자퇴 후 서울대 석사까지…‘필즈상’ 허준이 교수가 본 韓 수학 교육은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130015</link>
-            <guid>https://www.bloter.net/newsView/blt202207130015</guid>
-            <pubDate>Wed, 13 Jul 2022 11:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-13 19:37:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
