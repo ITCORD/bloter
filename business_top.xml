@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 01:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:59:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NFT 거품 빠지나…글로벌거래소 '오픈씨', 직원 20% 해고]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150001</link>
-            <guid>https://www.bloter.net/newsView/blt202207150001</guid>
-            <pubDate>Fri, 15 Jul 2022 01:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-15 09:17:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150001.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘닭도 등급이 있다’…하림, 쌈짓돈 털어 넣은 육계혁신]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150004</link>
+            <guid>https://www.bloter.net/newsView/blt202207150004</guid>
+            <pubDate>Fri, 15 Jul 2022 03:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">익산=김성진</span>                        <span class="date">2022-07-15 12:28:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150010.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['메타버스·NFT 광풍' 거품일까...LGU+ "현실보다 불편하면 실패작"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150024</link>
-            <guid>https://www.bloter.net/newsView/blt202206150024</guid>
-            <pubDate>Fri, 15 Jul 2022 01:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[팬오션, 10년 만에 '첫 배당'...김홍국 하림 회장 몫 커질 듯]]></title>
+            <link>https://www.bloter.net/newsView/blt202102170014</link>
+            <guid>https://www.bloter.net/newsView/blt202102170014</guid>
+            <pubDate>Fri, 15 Jul 2022 03:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제일기획, NFT 아티스트 그룹 맞손...마케팅·IP사업 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202206150010</link>
-            <guid>https://www.bloter.net/newsView/blt202206150010</guid>
-            <pubDate>Fri, 15 Jul 2022 01:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[하림 팬오션, '글로벌 큰손' 셸과 LNG 운송 계약 체결]]></title>
+            <link>https://www.bloter.net/newsView/blt202012160004</link>
+            <guid>https://www.bloter.net/newsView/blt202012160004</guid>
+            <pubDate>Fri, 15 Jul 2022 03:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세계 1위 NFT 'BAYC' 인스타 해킹 피해…12억원 규모 NFT 도난]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260012</link>
-            <guid>https://www.bloter.net/newsView/blt202204260012</guid>
-            <pubDate>Fri, 15 Jul 2022 01:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“버그 알고도 방치”...세계 최대 NFT 거래소 오픈씨, 100만달러 소송 당해]]></title>
-            <link>https://www.bloter.net/newsView/blt202202230005</link>
-            <guid>https://www.bloter.net/newsView/blt202202230005</guid>
-            <pubDate>Fri, 15 Jul 2022 01:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[팬오션으로 퍼즐 맞춰가는 하림그룹 '곡물보국' 꿈]]></title>
+            <link>https://www.bloter.net/newsView/blt202012070009</link>
+            <guid>https://www.bloter.net/newsView/blt202012070009</guid>
+            <pubDate>Fri, 15 Jul 2022 03:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
