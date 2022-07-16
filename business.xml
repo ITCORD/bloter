@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 01:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 03:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘닭도 등급이 있다’…하림, 쌈짓돈 털어 넣은 육계혁신]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150004</link>
+            <guid>https://www.bloter.net/newsView/blt202207150004</guid>
+            <pubDate>Sat, 16 Jul 2022 03:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">익산=김성진</span>                        <span class="date">2022-07-15 12:28:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쏘카, 2분기 흑자 전환...'공유자전거·렌트카' 자회사 덕봤다]]></title>
             <link>https://www.bloter.net/newsView/blt202207150008</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 15 Jul 2022 03:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-14 17:00:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 "소비자, 개인화된 경험 기대...개인정보수집 거부감 줄어"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140017</link>
-            <guid>https://www.bloter.net/newsView/blt202207140017</guid>
-            <pubDate>Fri, 15 Jul 2022 01:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 16:36:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140016.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

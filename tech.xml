@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 01:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 03:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅트렌드]'광고그물망' 애드네트워크, '버즈빌' 성장 원천으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280005</link>
+            <guid>https://www.bloter.net/newsView/blt202206280005</guid>
+            <pubDate>Sat, 16 Jul 2022 03:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-16 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤’s 과기 비전]②‘기술 이전’ 중심 우주산업 육성…항공우주청 틀 짠다]]></title>
             <link>https://www.bloter.net/newsView/blt202207150020</link>
             <guid>https://www.bloter.net/newsView/blt202207150020</guid>
             <pubDate>Sat, 16 Jul 2022 01:41:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-16 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150061.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150061.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[폰SIGHT]빛으로 소통하는 투명폰 '낫싱 폰원', 감성만은 합격]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 14 Jul 2022 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 16:36:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, '선정적 콘텐츠 필터링' 확대한다…10대부터 순차 적용]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140015</link>
-            <guid>https://www.bloter.net/newsView/blt202207140015</guid>
-            <pubDate>Thu, 14 Jul 2022 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 16:08:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140015.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
