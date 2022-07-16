@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 01:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤’s 과기 비전]②‘기술 이전’ 중심 우주산업 육성…항공우주청 틀 짠다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150020</link>
+            <guid>https://www.bloter.net/newsView/blt202207150020</guid>
+            <pubDate>Sat, 16 Jul 2022 01:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-16 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150061.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[폰SIGHT]빛으로 소통하는 투명폰 '낫싱 폰원', 감성만은 합격]]></title>
             <link>https://www.bloter.net/newsView/blt202207130014</link>
             <guid>https://www.bloter.net/newsView/blt202207130014</guid>
             <pubDate>Fri, 15 Jul 2022 23:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-16 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타버스, 더 커야해요 '규제보다 진흥'…네이버·롯데·CJ '이구동성']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 14 Jul 2022 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 16:08:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140015.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지엠메디칼, 올림푸스와 내시경 감염관리시장 확보 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140007</link>
-            <guid>https://www.bloter.net/newsView/blt202207140007</guid>
-            <pubDate>Thu, 14 Jul 2022 05:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-14 14:17:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
