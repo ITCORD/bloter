@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 05:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 06:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅트렌드]플래티어, '헤드리스 커머스'로 DC2 시너지 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150016</link>
+            <guid>https://www.bloter.net/newsView/blt202207150016</guid>
+            <pubDate>Sun, 17 Jul 2022 06:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-17 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150052.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[윤’s 과기 비전]③네이버·카카오 '토종 플랫폼' 상생 생태계 만드는 법]]></title>
             <link>https://www.bloter.net/newsView/blt202207150021</link>
             <guid>https://www.bloter.net/newsView/blt202207150021</guid>
             <pubDate>Sun, 17 Jul 2022 05:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-17 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/16/blt202207160002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/16/blt202207160002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크체인저]배민은 '배달 로봇'을 내놓기까지 어떤 고민을 했을까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 14 Jul 2022 21:18:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-15 06:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코오롱FnC, '중고마켓' 운영나선 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140024</link>
-            <guid>https://www.bloter.net/newsView/blt202207140024</guid>
-            <pubDate>Thu, 14 Jul 2022 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-14 17:52:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
