@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 06:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 07:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마인드노크, 20억 유상증자...퍼포먼스 마케팅 본격 시동]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150011</link>
+            <guid>https://www.bloter.net/newsView/blt202207150011</guid>
+            <pubDate>Sun, 17 Jul 2022 07:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-15 15:02:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘닭도 등급이 있다’…하림, 쌈짓돈 털어 넣은 육계혁신]]></title>
             <link>https://www.bloter.net/newsView/blt202207150004</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 15 Jul 2022 03:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 17:50:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김경배 HMM 대표 "SM그룹 단순투자자일 뿐"...주주가치·경쟁력 강화가 우선]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140010</link>
-            <guid>https://www.bloter.net/newsView/blt202207140010</guid>
-            <pubDate>Fri, 15 Jul 2022 03:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-14 17:00:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
