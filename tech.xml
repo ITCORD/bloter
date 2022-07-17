@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 01:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2030년 SKT 플라잉카 부산 여행! 미리보는 비하인드 스토리]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150019</link>
+            <guid>https://www.bloter.net/newsView/blt202207150019</guid>
+            <pubDate>Sun, 17 Jul 2022 01:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-17 09:02:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150057.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마케팅트렌드]'광고그물망' 애드네트워크, '버즈빌' 성장 원천으로]]></title>
             <link>https://www.bloter.net/newsView/blt202206280005</link>
             <guid>https://www.bloter.net/newsView/blt202206280005</guid>
             <pubDate>Sat, 16 Jul 2022 03:25:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-16 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤’s 과기 비전]②‘기술 이전’ 중심 우주산업 육성…항공우주청 틀 짠다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 14 Jul 2022 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-14 17:45:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스 "소비자, 개인화된 경험 기대...개인정보수집 거부감 줄어"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140017</link>
-            <guid>https://www.bloter.net/newsView/blt202207140017</guid>
-            <pubDate>Thu, 14 Jul 2022 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 16:36:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140016.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
