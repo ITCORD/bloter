@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['조용했던' 알뜰폰 1위 KT, 자사망 지원 확대…LGU+ 견제구?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180014</link>
+            <guid>https://www.bloter.net/newsView/blt202207180014</guid>
+            <pubDate>Mon, 18 Jul 2022 09:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-18 18:12:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180028.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이젠, 우주]韓 최대 우주사업 ‘KPS’ 첫 삽…LIG넥스원 ‘수혜기업’될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180013</link>
+            <guid>https://www.bloter.net/newsView/blt202207180013</guid>
+            <pubDate>Mon, 18 Jul 2022 09:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-18 17:20:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해수욕장 쓰레기가 과자로...제일기획, 플로깅 캠페인 '씨낵' 진행]]></title>
             <link>https://www.bloter.net/newsView/blt202207180006</link>
             <guid>https://www.bloter.net/newsView/blt202207180006</guid>
             <pubDate>Mon, 18 Jul 2022 05:31:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 13:54:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플래티어, 롯데하이마트 온라인 쇼핑몰 리뉴얼 사업 수주]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 15 Jul 2022 09:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-15 18:14:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150048.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버웹툰, '툰레이더' 도입 5년…불법웹툰 얼마나 사라졌나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150015</link>
-            <guid>https://www.bloter.net/newsView/blt202207150015</guid>
-            <pubDate>Fri, 15 Jul 2022 09:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-15 17:39:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150051.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트렌드리포트]'휴식'과 '일' 사이…'워케이션' 일상 속 자리잡는 해법은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150009</link>
-            <guid>https://www.bloter.net/newsView/blt202207150009</guid>
-            <pubDate>Fri, 15 Jul 2022 08:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-15 17:20:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
