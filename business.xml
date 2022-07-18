@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[㈜두산, 지난해 ESG 부문서 2500억 사회적 가치 창출...세부 내역은]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180004</link>
+            <guid>https://www.bloter.net/newsView/blt202207180004</guid>
+            <pubDate>Mon, 18 Jul 2022 08:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-18 10:26:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ 지원 받은 CGV…높은 이자부담은 여전]]></title>
             <link>https://www.bloter.net/newsView/blt202207150012</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 17 Jul 2022 07:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-15 15:02:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150037.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘닭도 등급이 있다’…하림, 쌈짓돈 털어 넣은 육계혁신]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150004</link>
-            <guid>https://www.bloter.net/newsView/blt202207150004</guid>
-            <pubDate>Sat, 16 Jul 2022 03:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">익산=김성진</span>                        <span class="date">2022-07-15 12:28:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
