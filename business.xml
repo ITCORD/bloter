@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 20:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 21:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹, 英 에어쇼서 UAM 콘셉트모델 최초 공개...2028년 상용화 목표]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180017</link>
+            <guid>https://www.bloter.net/newsView/blt202207180017</guid>
+            <pubDate>Mon, 18 Jul 2022 21:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-18 18:20:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180038.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변화무쌍했던 오뚜기, 결국 '무늬만' 지주사 합병]]></title>
             <link>https://www.bloter.net/newsView/blt202207180019</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 18 Jul 2022 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 11:29:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK E&S, 청록수소 사업 동참…美모놀리스 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180003</link>
-            <guid>https://www.bloter.net/newsView/blt202207180003</guid>
-            <pubDate>Mon, 18 Jul 2022 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-18 10:30:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

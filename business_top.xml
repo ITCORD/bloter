@@ -4,43 +4,36 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 20:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 21:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[상반기 펀드시장, 주식·채권형 지고 '특별자산펀드' 떴다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180020</link>
-            <guid>https://www.bloter.net/newsView/blt202207180020</guid>
-            <pubDate>Mon, 18 Jul 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-18 19:17:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180041.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[②줄어든 파이, 성장세 유지할 수 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150005</link>
+            <guid>https://www.bloter.net/newsView/blt202207150005</guid>
+            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-19 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150040.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스톡옵션 행사·펀드 결성, '주주(ZUZU)'에선 누구나 쉽게 가능합니다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206170015</link>
-            <guid>https://www.bloter.net/newsView/blt202206170015</guid>
-            <pubDate>Mon, 18 Jul 2022 10:19:59 GMT</pubDate>
+            <title><![CDATA[배민 '자율주행 배달로봇', 강남 한복판 달린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080039</link>
+            <guid>https://www.bloter.net/newsView/blt202206080039</guid>
+            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['배민' 손실 줄었지만, 매년 2배씩 증가한 '라이더 비용']]></title>
+            <link>https://www.bloter.net/newsView/blt202204010243</link>
+            <guid>https://www.bloter.net/newsView/blt202204010243</guid>
+            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['헤지펀드'도 관심인 영국 ESG시장…韓 시중은행 선점 나서]]></title>
-            <link>https://www.bloter.net/newsView/blt202206100084</link>
-            <guid>https://www.bloter.net/newsView/blt202206100084</guid>
-            <pubDate>Mon, 18 Jul 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울대생 어니스트펀드서 인공지능 기술 익힌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202205260075</link>
-            <guid>https://www.bloter.net/newsView/blt202205260075</guid>
-            <pubDate>Mon, 18 Jul 2022 10:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후펀드 조성에 크래프톤·스타일쉐어 창업자 뭉친 사연은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204110045</link>
-            <guid>https://www.bloter.net/newsView/blt202204110045</guid>
-            <pubDate>Mon, 18 Jul 2022 10:19:59 GMT</pubDate>
+            <title><![CDATA[⑥배민·뉴빌리티 뛰어든 '배달로봇'…대중화까지 '규제'가 발목]]></title>
+            <link>https://www.bloter.net/newsView/blt202201060035</link>
+            <guid>https://www.bloter.net/newsView/blt202201060035</guid>
+            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
