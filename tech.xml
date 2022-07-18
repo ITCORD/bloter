@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 04:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 05:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해수욕장 쓰레기가 과자로...제일기획, 플로깅 캠페인 '씨낵' 진행]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180006</link>
+            <guid>https://www.bloter.net/newsView/blt202207180006</guid>
+            <pubDate>Mon, 18 Jul 2022 05:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 13:54:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어, 롯데하이마트 온라인 쇼핑몰 리뉴얼 사업 수주]]></title>
             <link>https://www.bloter.net/newsView/blt202207180005</link>
             <guid>https://www.bloter.net/newsView/blt202207180005</guid>
             <pubDate>Mon, 18 Jul 2022 04:48:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 11:29:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스폰지밥·닌자거북이, 투니버스로…'니켈로디언 타임' 온다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 15 Jul 2022 08:23:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-15 17:20:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙·시즌 합병]③넷플릭스는 과연 경쟁자일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150013</link>
-            <guid>https://www.bloter.net/newsView/blt202207150013</guid>
-            <pubDate>Fri, 15 Jul 2022 08:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-15 16:37:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150043.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
