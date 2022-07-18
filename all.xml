@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 11:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 12:35:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,12 +440,20 @@ CJ CGV가 모회사 CJ(주)에게 신종자본차입을 발행한 내역.(출처
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]리셀 플랫폼 1위 크림, 존재감 만큼 쌓인 차입금 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180023</link>
+            <guid>https://www.bloter.net/newsView/blt202207180023</guid>
+            <pubDate>Mon, 18 Jul 2022 11:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-18 19:55:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180046.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[와디즈는 왜 '온라인 클래스' 영역을 넘볼까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202207180016</link>
             <guid>https://www.bloter.net/newsView/blt202207180016</guid>
             <pubDate>Mon, 18 Jul 2022 10:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-18 18:51:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션 이커머스, 자사몰 매출 비중 크고 마케팅 SaaS 확산세 (블로터 ─ 테크)]]></title>
@@ -574,14 +582,6 @@ CJ CGV가 모회사 CJ(주)에게 신종자본차입을 발행한 내역.(출처
             <pubDate>Sat, 16 Jul 2022 01:41:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-16 09:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150061.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[폰SIGHT]빛으로 소통하는 투명폰 '낫싱 폰원', 감성만은 합격 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130014</link>
-            <guid>https://www.bloter.net/newsView/blt202207130014</guid>
-            <pubDate>Fri, 15 Jul 2022 23:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-16 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -860,6 +860,14 @@ CJ CGV가 모회사 CJ(주)에게 신종자본차입을 발행한 내역.(출처
             <enclosure url="https://www.bloter.net/data/blt/image/2022/06/24/blt202206240023.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]리셀 플랫폼 1위 크림, 존재감 만큼 쌓인 차입금 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180023</link>
+            <guid>https://www.bloter.net/newsView/blt202207180023</guid>
+            <pubDate>Mon, 18 Jul 2022 11:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[알면 좋을 플랫폼기업 이슈를 분석합니다. '투자'는 기업 운영에 있어 가장 중요한 생존수단입니다. 특히 초기 자금이 부족한 스타트업에게 투자는 그야말로 '가뭄의 단비'인데요. 외부에서 꾸준히 투자를 유치하고 이를 더 큰 수익으로 확대할 수 있다면 더할 나위]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180046.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[와디즈는 왜 '온라인 클래스' 영역을 넘볼까 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202207180016</link>
             <guid>https://www.bloter.net/newsView/blt202207180016</guid>
@@ -946,14 +954,6 @@ CJ CGV가 모회사 CJ(주)에게 신종자본차입을 발행한 내역.(출처
             <pubDate>Wed, 13 Jul 2022 06:22:23 GMT</pubDate>
             <content:encoded><![CDATA[에이피알이 창립 이후 '분기 매출 1000억원대 달성'을 눈 앞에 두고 있다. 올 2분기 매출만 650억원 이상을 기록하며 높은 성장세를 보인 에이피알은 패션(널디)에 이어 뷰티 신사업 분야까지 성장 궤도에 진입한 만큼 더 큰 목표를 꿈꾸고 있다.  분기 최대 매출 경신 ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140011.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사 '솔드아웃' 2분기 거래량 증가…적자 탈출 신호탄? (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207120020</link>
-            <guid>https://www.bloter.net/newsView/blt202207120020</guid>
-            <pubDate>Tue, 12 Jul 2022 22:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[무신사의 한정판 마켓 '솔드아웃'이 이례적으로 거래량 수치 성과를 공개했다. 서비스 3년 째에 접어든 만큼, 올 상반기 거래량 성과를 유의미한 수치로 판단한 듯 보인다. 업계에서는 지난해 160억원의 영업손실을 낸 솔드아웃이 올해 거래량 성장에 힘입어 회복세]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/12/blt202207120042.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰, '툰레이더' 도입 5년…불법웹툰 얼마나 사라졌나 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
