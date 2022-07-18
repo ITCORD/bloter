@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 01:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하청노조에 발목잡힌 대우조선해양...주인 없는 적자기업의 '딜레마']]></title>
+            <link>https://www.bloter.net/newsView/blt202207150010</link>
+            <guid>https://www.bloter.net/newsView/blt202207150010</guid>
+            <pubDate>Mon, 18 Jul 2022 01:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-15 16:39:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150041.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마인드노크, 20억 유상증자...퍼포먼스 마케팅 본격 시동]]></title>
             <link>https://www.bloter.net/newsView/blt202207150011</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 15 Jul 2022 06:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-14 18:51:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제일기획 '겟트', 명품 장기렌탈 서비스 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140019</link>
-            <guid>https://www.bloter.net/newsView/blt202207140019</guid>
-            <pubDate>Fri, 15 Jul 2022 03:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-14 17:50:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
