@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 01:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 03:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['광고그물망' 애드네트워크, '버즈빌' 성장 원천으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280005</link>
+            <guid>https://www.bloter.net/newsView/blt202206280005</guid>
+            <pubDate>Mon, 18 Jul 2022 03:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-16 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['어반플레이'가 부동산 개발에 '콘텐츠'를 넣게 된 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150014</link>
+            <guid>https://www.bloter.net/newsView/blt202207150014</guid>
+            <pubDate>Mon, 18 Jul 2022 03:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-15 18:14:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150048.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하청노조에 발목잡힌 대우조선해양...주인 없는 적자기업의 '딜레마']]></title>
             <link>https://www.bloter.net/newsView/blt202207150010</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 15 Jul 2022 09:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-15 11:56:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 거품 빠지나…글로벌거래소 '오픈씨', 직원 20% 해고]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150001</link>
-            <guid>https://www.bloter.net/newsView/blt202207150001</guid>
-            <pubDate>Fri, 15 Jul 2022 09:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-15 09:17:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신동빈 회장 “자본시장이 우리를 어떻게 평가하는지 보자”]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140025</link>
-            <guid>https://www.bloter.net/newsView/blt202207140025</guid>
-            <pubDate>Fri, 15 Jul 2022 06:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-14 18:51:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
