@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘발명왕’ 세운 130년 기업 GE, 3개 회사로…분사 기업명 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202207190003</link>
-            <guid>https://www.bloter.net/newsView/blt202207190003</guid>
-            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-19 10:45:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190003.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[조원태 대한항공 회장, 항공화물 리더십상 수상...화물 비중 55.2%p 늘려]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190009</link>
+            <guid>https://www.bloter.net/newsView/blt202207190009</guid>
+            <pubDate>Tue, 19 Jul 2022 07:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-19 15:37:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190019.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['재생에너지 제국' 꿈꾸는 현대중공업그룹...아람코 이어 美 GE와 '파트너십']]></title>
-            <link>https://www.bloter.net/newsView/blt202202160074</link>
-            <guid>https://www.bloter.net/newsView/blt202202160074</guid>
-            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대한항공, 한진인터내셔널 '장부가액 0원'...전액 손상차손]]></title>
+            <link>https://www.bloter.net/newsView/blt202205162067</link>
+            <guid>https://www.bloter.net/newsView/blt202205162067</guid>
+            <pubDate>Tue, 19 Jul 2022 07:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘분사’ 앞둔 GE헬스케어, AI 기반 영상솔루션 대거 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202112010155</link>
-            <guid>https://www.bloter.net/newsView/blt202112010155</guid>
-            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GE헬스케어, MS이어 SKT와 협력…‘빅테크’와 디지털 힘준다]]></title>
-            <link>https://www.bloter.net/newsView/blt202109280102</link>
-            <guid>https://www.bloter.net/newsView/blt202109280102</guid>
-            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루닛, GE헬스케어와 '맞손'…"글로벌 엑스레이 시장 판로 40% 확보"]]></title>
-            <link>https://www.bloter.net/newsView/blt202006190026</link>
-            <guid>https://www.bloter.net/newsView/blt202006190026</guid>
-            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대한항공, 미주 취항 50주년...연간 수송인원 69배 늘었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205030151</link>
+            <guid>https://www.bloter.net/newsView/blt202205030151</guid>
+            <pubDate>Tue, 19 Jul 2022 07:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
