@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 01:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 04:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]우영우, '넷플릭스 오리지널'될 뻔했다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190002</link>
+            <guid>https://www.bloter.net/newsView/blt202207190002</guid>
+            <pubDate>Tue, 19 Jul 2022 04:00:41 GMT</pubDate>
+            <content:encoded><![CDATA["에이스토리가 제작한 이상한 변호사 우영우가 사실은 지상파에서 방영될 뻔한 것을 아는가. SBS가 우영우 제작 및 방영을 검토했지만 촬영이 지연되며 이를 포기한 것이다. 이는 지난 3월 드라마 단역 채용정보가 올라온 홈페이지에서 'SBS 우영우에 출연할 아역을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]리셀 플랫폼 1위 크림, 존재감 만큼 쌓인 차입금]]></title>
             <link>https://www.bloter.net/newsView/blt202207180023</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA['티빙'(TVING)이 KT OTT플랫폼 '시즌'(Seezn)을 흡수합병한다고 알려지며 OTT업계가 들썩이고 있습니다. &lt;블로터&gt;는 티빙과 시즌의 합병효과를 분석하는 한편 토종 OTT업계의 지형 변화를 다각도로 조명합니다.  2020년 하반기, 당시 국내 OTT시장의 최대 화두는 '티빙'(TVIN]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130017.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이피알, 분기매출 1000억 눈 앞…'뷰티디바이스' 급성장]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130008</link>
-            <guid>https://www.bloter.net/newsView/blt202207130008</guid>
-            <pubDate>Wed, 13 Jul 2022 06:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[에이피알이 창립 이후 '분기 매출 1000억원대 달성'을 눈 앞에 두고 있다. 올 2분기 매출만 650억원 이상을 기록하며 높은 성장세를 보인 에이피알은 패션(널디)에 이어 뷰티 신사업 분야까지 성장 궤도에 진입한 만큼 더 큰 목표를 꿈꾸고 있다.  분기 최대 매출 경신 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140011.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
