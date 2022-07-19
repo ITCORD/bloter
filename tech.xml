@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 제약업계가 글로벌 컨설팅 업체 '이밸류에이트'와 손잡은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190006</link>
+            <guid>https://www.bloter.net/newsView/blt202207190006</guid>
+            <pubDate>Tue, 19 Jul 2022 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-19 13:22:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190010.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KT AI 음성합성 기술, 이제 '감정 더빙'도 OK]]></title>
             <link>https://www.bloter.net/newsView/blt202207190005</link>
             <guid>https://www.bloter.net/newsView/blt202207190005</guid>
             <pubDate>Tue, 19 Jul 2022 04:00:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-19 11:37:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]우영우, '넷플릭스 오리지널'될 뻔했다?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 17 Jul 2022 06:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-17 15:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150052.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤’s 과기 비전]③네이버·카카오 '토종 플랫폼' 상생 생태계 만드는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150021</link>
-            <guid>https://www.bloter.net/newsView/blt202207150021</guid>
-            <pubDate>Sun, 17 Jul 2022 05:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-17 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/16/blt202207160002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
