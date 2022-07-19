@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 09:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 10:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터양과 비례하는 탄소배출량…롯데정보통신의 해법은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190016</link>
+            <guid>https://www.bloter.net/newsView/blt202207190016</guid>
+            <pubDate>Tue, 19 Jul 2022 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-19 18:41:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190045.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 FDA가 ‘신속 심사’ 지정한 대웅제약 신약 후보물질은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190017</link>
+            <guid>https://www.bloter.net/newsView/blt202207190017</guid>
+            <pubDate>Tue, 19 Jul 2022 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-19 18:33:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190047.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘실적 주춤’ SK바사, 자체 백신·CMO로 하반기 반등할까]]></title>
             <link>https://www.bloter.net/newsView/blt202207190015</link>
             <guid>https://www.bloter.net/newsView/blt202207190015</guid>
             <pubDate>Tue, 19 Jul 2022 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-19 17:22:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드+]AWS가 토종 SW 기업에게 구애 나선 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 18 Jul 2022 01:29:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-18 10:16:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 사기성 앱 84개 앱스토어에 방치…"무료체험 미끼 조심하라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180001</link>
-            <guid>https://www.bloter.net/newsView/blt202207180001</guid>
-            <pubDate>Mon, 18 Jul 2022 01:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-18 09:42:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연료 떨어진 배민]①'글로벌 진출' 오히려 독됐나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150002</link>
-            <guid>https://www.bloter.net/newsView/blt202207150002</guid>
-            <pubDate>Sun, 17 Jul 2022 21:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-18 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150011.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
