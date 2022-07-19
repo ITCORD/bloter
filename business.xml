@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 04:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 05:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상반기 펀드시장, 주식·채권형 지고 '특별자산펀드' 떴다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180020</link>
+            <guid>https://www.bloter.net/newsView/blt202207180020</guid>
+            <pubDate>Tue, 19 Jul 2022 05:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-18 19:17:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180041.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에어부산 100억 규모 전환사채 발행...엔데믹 '코앞' 버티기 '안간힘']]></title>
             <link>https://www.bloter.net/newsView/blt202207180021</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 18 Jul 2022 10:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-18 17:43:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180026.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심이 제시한 성장 모범답안]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180011</link>
-            <guid>https://www.bloter.net/newsView/blt202207180011</guid>
-            <pubDate>Mon, 18 Jul 2022 10:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-18 16:31:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
