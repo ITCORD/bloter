@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[②줄어든 파이, 성장세 유지할 수 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150005</link>
-            <guid>https://www.bloter.net/newsView/blt202207150005</guid>
-            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-19 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150040.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘발명왕’ 세운 130년 기업 GE, 3개 회사로…분사 기업명 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190003</link>
+            <guid>https://www.bloter.net/newsView/blt202207190003</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-19 10:45:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190003.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[배민 '자율주행 배달로봇', 강남 한복판 달린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206080039</link>
-            <guid>https://www.bloter.net/newsView/blt202206080039</guid>
-            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['재생에너지 제국' 꿈꾸는 현대중공업그룹...아람코 이어 美 GE와 '파트너십']]></title>
+            <link>https://www.bloter.net/newsView/blt202202160074</link>
+            <guid>https://www.bloter.net/newsView/blt202202160074</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['배민' 손실 줄었지만, 매년 2배씩 증가한 '라이더 비용']]></title>
-            <link>https://www.bloter.net/newsView/blt202204010243</link>
-            <guid>https://www.bloter.net/newsView/blt202204010243</guid>
-            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘분사’ 앞둔 GE헬스케어, AI 기반 영상솔루션 대거 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202112010155</link>
+            <guid>https://www.bloter.net/newsView/blt202112010155</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[⑥배민·뉴빌리티 뛰어든 '배달로봇'…대중화까지 '규제'가 발목]]></title>
-            <link>https://www.bloter.net/newsView/blt202201060035</link>
-            <guid>https://www.bloter.net/newsView/blt202201060035</guid>
-            <pubDate>Mon, 18 Jul 2022 21:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[GE헬스케어, MS이어 SKT와 협력…‘빅테크’와 디지털 힘준다]]></title>
+            <link>https://www.bloter.net/newsView/blt202109280102</link>
+            <guid>https://www.bloter.net/newsView/blt202109280102</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[루닛, GE헬스케어와 '맞손'…"글로벌 엑스레이 시장 판로 40% 확보"]]></title>
+            <link>https://www.bloter.net/newsView/blt202006190026</link>
+            <guid>https://www.bloter.net/newsView/blt202006190026</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

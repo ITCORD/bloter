@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에어부산 100억 규모 전환사채 발행...엔데믹 '코앞' 버티기 '안간힘']]></title>
+            <link>https://www.bloter.net/newsView/blt202207180021</link>
+            <guid>https://www.bloter.net/newsView/blt202207180021</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-18 18:54:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180045.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 이커머스, 자사몰 매출 비중 크고 마케팅 SaaS 확산세]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180018</link>
+            <guid>https://www.bloter.net/newsView/blt202207180018</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 18:49:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180035.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[현대차그룹, 英 에어쇼서 UAM 콘셉트모델 최초 공개...2028년 상용화 목표]]></title>
             <link>https://www.bloter.net/newsView/blt202207180017</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 18 Jul 2022 10:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-18 16:31:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['글로벌 규모 26조'...CJ제일제당, 식물성 식품 시장 공략 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180007</link>
-            <guid>https://www.bloter.net/newsView/blt202207180007</guid>
-            <pubDate>Mon, 18 Jul 2022 10:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-18 13:41:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 롯데하이마트 온라인 쇼핑몰 리뉴얼 사업 수주]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180005</link>
-            <guid>https://www.bloter.net/newsView/blt202207180005</guid>
-            <pubDate>Mon, 18 Jul 2022 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 11:29:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

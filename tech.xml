@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘발명왕’ 세운 130년 기업 GE, 3개 회사로…분사 기업명 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190003</link>
+            <guid>https://www.bloter.net/newsView/blt202207190003</guid>
+            <pubDate>Tue, 19 Jul 2022 01:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-19 10:45:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[연료 떨어진 배민]②줄어든 파이, 성장세 유지할 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202207150005</link>
             <guid>https://www.bloter.net/newsView/blt202207150005</guid>
             <pubDate>Mon, 18 Jul 2022 21:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-19 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150040.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]리셀 플랫폼 1위 크림, 존재감 만큼 쌓인 차입금]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 17 Jul 2022 01:46:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-17 09:02:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150057.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅트렌드]'광고그물망' 애드네트워크, '버즈빌' 성장 원천으로]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280005</link>
-            <guid>https://www.bloter.net/newsView/blt202206280005</guid>
-            <pubDate>Sat, 16 Jul 2022 03:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-16 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/06/28/blt202206280004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
