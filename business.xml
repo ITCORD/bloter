@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 20:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 21:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조원태 대한항공 회장, 항공화물 리더십상 수상...화물 비중 55.2%p 늘려]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190009</link>
+            <guid>https://www.bloter.net/newsView/blt202207190009</guid>
+            <pubDate>Tue, 19 Jul 2022 21:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-19 15:37:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-배터리 육성 팔걷은 수출입은행…"포스코케미칼에 최고수준 금융지원"]]></title>
             <link>https://www.bloter.net/newsView/blt202207190010</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 19 Jul 2022 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-19 10:35:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[②줄어든 파이, 성장세 유지할 수 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150005</link>
-            <guid>https://www.bloter.net/newsView/blt202207150005</guid>
-            <pubDate>Tue, 19 Jul 2022 06:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-19 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150040.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
