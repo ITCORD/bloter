@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 01:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]애드저스트가 디지털 광고 격변기에 대응하는 방법]]></title>
+            <link>https://www.bloter.net/newsView/blt202207200001</link>
+            <guid>https://www.bloter.net/newsView/blt202207200001</guid>
+            <pubDate>Wed, 20 Jul 2022 01:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 09:38:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존이 가짜 리뷰에 대처하는 방법, '협력'과 '소송']]></title>
+            <link>https://www.bloter.net/newsView/blt202207200004</link>
+            <guid>https://www.bloter.net/newsView/blt202207200004</guid>
+            <pubDate>Wed, 20 Jul 2022 01:27:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-20 09:10:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200003.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[연료 떨어진 배민]③퀵커머스 먼저 열었지만 치고 나가지 못한 B마트…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202207150006</link>
             <guid>https://www.bloter.net/newsView/blt202207150006</guid>
             <pubDate>Tue, 19 Jul 2022 21:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-20 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150014.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150014.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이터양과 비례하는 탄소배출량…롯데정보통신의 해법은?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 18 Jul 2022 09:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-18 17:20:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해수욕장 쓰레기가 과자로...제일기획, 플로깅 캠페인 '씨낵' 진행]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180006</link>
-            <guid>https://www.bloter.net/newsView/blt202207180006</guid>
-            <pubDate>Mon, 18 Jul 2022 05:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 13:54:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플래티어, 롯데하이마트 온라인 쇼핑몰 리뉴얼 사업 수주]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180005</link>
-            <guid>https://www.bloter.net/newsView/blt202207180005</guid>
-            <pubDate>Mon, 18 Jul 2022 04:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-18 11:29:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
