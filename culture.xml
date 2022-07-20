@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['자체등급분류사업자'된 스마일게이트스토브, 인디게임 직접 심사]]></title>
+            <link>https://www.bloter.net/newsView/blt202207200015</link>
+            <guid>https://www.bloter.net/newsView/blt202207200015</guid>
+            <pubDate>Wed, 20 Jul 2022 08:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[인디게임 플랫폼 '스토브인디'를 운영 중인 스마일게이트스토브가 자체등급분류사업자 자격을 취득했다. 인디게임 심의 행정 절차를 대행하던 단계가 간소화되면서, 인디게임 개발사들은 출시 절차를 앞당길 수 있게 됐다. 또 자체등급분류사업자 자격을 취득함에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200018.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]우영우, '넷플릭스 오리지널'될 뻔했다?]]></title>
             <link>https://www.bloter.net/newsView/blt202207190002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA['티빙'(TVING)이 KT OTT플랫폼 '시즌'(Seezn)을 흡수합병한다고 알려지며 OTT업계가 들썩이고 있습니다. &lt;블로터&gt;는 티빙과 시즌의 합병효과를 분석하는 한편 토종 OTT업계의 지형 변화를 다각도로 조명합니다. CJ ENM의 온라인동영상서비스(OTT) '티빙'이 KT의 OTT '시즌'을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙·시즌 합병]①알고보면 알짜배기? '콘텐츠 인프라'가 강점]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130012</link>
-            <guid>https://www.bloter.net/newsView/blt202207130012</guid>
-            <pubDate>Wed, 13 Jul 2022 08:23:36 GMT</pubDate>
-            <content:encoded><![CDATA['티빙'(TVING)이 KT OTT플랫폼 '시즌'(Seezn)을 흡수합병한다고 알려지며 OTT업계가 들썩이고 있습니다. &lt;블로터&gt;는 티빙과 시즌의 합병효과를 분석하는 한편 토종 OTT업계의 지형 변화를 다각도로 조명합니다.  2020년 하반기, 당시 국내 OTT시장의 최대 화두는 '티빙'(TVIN]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/13/blt202207130017.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
