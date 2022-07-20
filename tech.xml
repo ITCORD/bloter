@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 01:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 03:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 갤럭시언팩 2022, 8월10일 개최...주인공 '갤럭시Z플립4']]></title>
+            <link>https://www.bloter.net/newsView/blt202207200005</link>
+            <guid>https://www.bloter.net/newsView/blt202207200005</guid>
+            <pubDate>Wed, 20 Jul 2022 03:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-20 10:32:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200006.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]애드저스트가 디지털 광고 격변기에 대응하는 방법]]></title>
             <link>https://www.bloter.net/newsView/blt202207200001</link>
             <guid>https://www.bloter.net/newsView/blt202207200001</guid>
             <pubDate>Wed, 20 Jul 2022 01:27:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 09:38:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마존이 가짜 리뷰에 대처하는 방법, '협력'과 '소송']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 18 Jul 2022 09:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-18 18:12:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180028.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이젠, 우주]韓 최대 우주사업 ‘KPS’ 첫 삽…LIG넥스원 ‘수혜기업’될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207180013</link>
-            <guid>https://www.bloter.net/newsView/blt202207180013</guid>
-            <pubDate>Mon, 18 Jul 2022 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-18 17:20:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
