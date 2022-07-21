@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 10:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내셔널지오그래픽, 中 '쇼핑 플랫폼' 발판 해외 진출 '재도전']]></title>
+            <link>https://www.bloter.net/newsView/blt202207210020</link>
+            <guid>https://www.bloter.net/newsView/blt202207210020</guid>
+            <pubDate>Thu, 21 Jul 2022 11:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[내셔널지오그래픽 어패럴이 연내 온라인 쇼핑 플랫폼을 통한 중국 진출을 앞두고 있다. 기존 해외 진출 방식이었던 오프라인 유통에서 대폭 전략을 수정한 모습이다. 코로나19 팬데믹으로 진출이 무산됐던 북미·유럽, 호주·뉴질랜드, 일본 지역에서의 수]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210046.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'블랙의 신부' 글로벌 흥행, 덩달아 미소짓는 '컴투스']]></title>
             <link>https://www.bloter.net/newsView/blt202207210008</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 15 Jul 2022 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 팬데믹 이후 사무실이 아닌 곳에서 일하는 '워케이션'(Work+Vacation)이 새로운 근무 형태로 자리잡고 있다. 국내 기업에서도 사내 워케이션 문화를 장려하고 있는 곳들이 생겨나고 있는 데다, 각 지방자치단체들도 관광객 유치를 위해 워케이션 프로젝트를 운]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티빙·시즌 합병]③넷플릭스는 과연 경쟁자일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150013</link>
-            <guid>https://www.bloter.net/newsView/blt202207150013</guid>
-            <pubDate>Fri, 15 Jul 2022 08:24:12 GMT</pubDate>
-            <content:encoded><![CDATA['티빙'(TVING)이 KT OTT플랫폼 '시즌'(Seezn)을 흡수합병한다고 알려지며 OTT업계가 들썩이고 있습니다. &lt;블로터&gt;는 티빙과 시즌의 합병효과를 분석하는 한편 토종 OTT업계의 지형 변화를 다각도로 조명합니다. 티빙이 시즌을 흡수합병하기로 결정하면서, 국내 OTT서비]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150043.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
