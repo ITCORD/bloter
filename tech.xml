@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상반기 '유니콘 기업' 5개사 추가...반기 기준 역대 최대]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210012</link>
+            <guid>https://www.bloter.net/newsView/blt202207210012</guid>
+            <pubDate>Thu, 21 Jul 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-21 15:54:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[알뜰폰 메기 리브엠]①휴대폰 대리점과 KB노조가 'KB 알뜰폰 퇴출' 외친 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202207210010</link>
             <guid>https://www.bloter.net/newsView/blt202207210010</guid>
             <pubDate>Thu, 21 Jul 2022 06:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-21 14:23:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모더나 코로나 변이 대응 백신 허가 '초읽기'…화이자·SK바사는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 20 Jul 2022 01:27:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-20 09:10:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연료 떨어진 배민]③퀵커머스 먼저 열었지만 치고 나가지 못한 B마트…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150006</link>
-            <guid>https://www.bloter.net/newsView/blt202207150006</guid>
-            <pubDate>Tue, 19 Jul 2022 21:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-20 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
