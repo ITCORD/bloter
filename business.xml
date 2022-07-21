@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 03:43:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우영우에 잘 나가는 에이스토리?…요즘 '드라마 제작' 시장]]></title>
+            <link>https://www.bloter.net/newsView/blt202207200024</link>
+            <guid>https://www.bloter.net/newsView/blt202207200024</guid>
+            <pubDate>Thu, 21 Jul 2022 03:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-20 20:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200040.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사장단 소집한 권오갑 현대重 회장..."퍼펙트스톰에 CEO가 위기극복 첨병돼야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207200027</link>
+            <guid>https://www.bloter.net/newsView/blt202207200027</guid>
+            <pubDate>Thu, 21 Jul 2022 03:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-20 18:16:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200050.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머신러닝 솔루션 기업 '몰로코', 순매출 2억달러 자신한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202207200025</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 20 Jul 2022 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-20 16:25:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔루스첨단소재, 3분기 연속 적자…매출원가율 88%]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200011</link>
-            <guid>https://www.bloter.net/newsView/blt202207200011</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-20 15:32:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행주, 배당이 꼭 필요한 상황이라면…할 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200007</link>
-            <guid>https://www.bloter.net/newsView/blt202207200007</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-20 13:56:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
