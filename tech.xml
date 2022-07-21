@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알뜰폰 메기 리브엠]②금융사들은 왜 알뜰폰에 눈독 들이나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210018</link>
+            <guid>https://www.bloter.net/newsView/blt202207210018</guid>
+            <pubDate>Thu, 21 Jul 2022 10:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-21 19:15:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210041.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["넷플릭스 공급 아니면 캐스팅도 안 되는데"…안팎 부담 커진 유료방송사]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210017</link>
+            <guid>https://www.bloter.net/newsView/blt202207210017</guid>
+            <pubDate>Thu, 21 Jul 2022 10:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-21 18:18:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210038.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모바일 딥링킹 플랫폼 '브랜치', 노바 런처·세서미 유니버설 서치 인수]]></title>
             <link>https://www.bloter.net/newsView/blt202207210016</link>
             <guid>https://www.bloter.net/newsView/blt202207210016</guid>
             <pubDate>Thu, 21 Jul 2022 09:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-21 17:59:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210037.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드+]'DB 강자' 오라클이 AWS아닌 MS와 손잡은 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 20 Jul 2022 08:24:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-20 15:43:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIS ‘강자’ 이지케어텍이 ‘신규 사업’ 발굴하는 방법]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200010</link>
-            <guid>https://www.bloter.net/newsView/blt202207200010</guid>
-            <pubDate>Wed, 20 Jul 2022 06:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-20 14:29:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시언팩 2022, 8월10일 개최...주인공 '갤럭시Z플립4']]></title>
-            <link>https://www.bloter.net/newsView/blt202207200005</link>
-            <guid>https://www.bloter.net/newsView/blt202207200005</guid>
-            <pubDate>Wed, 20 Jul 2022 03:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-20 10:32:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
