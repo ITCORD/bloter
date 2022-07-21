@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['플랫폼 경제' 큰 그림 본 롯데손보, 디지털 전환 가속도 붙었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210011</link>
+            <guid>https://www.bloter.net/newsView/blt202207210011</guid>
+            <pubDate>Thu, 21 Jul 2022 12:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-21 15:03:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기아, CJ대한통운과 전기 택배차 개발...궁극 목표는 '배송 로봇']]></title>
             <link>https://www.bloter.net/newsView/blt202207210007</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 21 Jul 2022 06:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-21 10:09:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['IPO 3수생' 현대오일뱅크 상장 철회...친환경 에너지 전환 제동걸리나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210001</link>
-            <guid>https://www.bloter.net/newsView/blt202207210001</guid>
-            <pubDate>Thu, 21 Jul 2022 06:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-21 10:06:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
