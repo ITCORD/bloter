@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 20:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 21:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알뜰폰 메기 리브엠]③금융사 진출, 찬성도 반대도 못하는 SKT·KT·LGU+]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220001</link>
+            <guid>https://www.bloter.net/newsView/blt202207220001</guid>
+            <pubDate>Thu, 21 Jul 2022 21:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-22 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내셔널지오그래픽, 中 '쇼핑 플랫폼' 발판 해외 진출 '재도전']]></title>
             <link>https://www.bloter.net/newsView/blt202207210020</link>
             <guid>https://www.bloter.net/newsView/blt202207210020</guid>
             <pubDate>Thu, 21 Jul 2022 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-21 19:42:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210046.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210046.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[알뜰폰 메기 리브엠]②금융사들은 왜 알뜰폰에 눈독 들이나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 20 Jul 2022 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 18:00:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“뉴 스페이스 올라타자”…LIG넥스원, 인재 육성에 방점]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200019</link>
-            <guid>https://www.bloter.net/newsView/blt202207200019</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-20 17:25:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
