@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 03:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 04:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'블랙의 신부' 글로벌 흥행, 덩달아 미소짓는 '컴투스']]></title>
+            <link>https://www.bloter.net/newsView/blt202207210008</link>
+            <guid>https://www.bloter.net/newsView/blt202207210008</guid>
+            <pubDate>Thu, 21 Jul 2022 04:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난 15일 공개된 넷플릭스 오리지널 시리즈 '블랙의 신부'가 글로벌 넷플릭스 차트 상위권에 진입했다. 블랙의 신부가 흥행 기류를 타면서 제작사 '이미지나인컴즈'를 비롯한 관련 기업들의 주목도도 높아졌다. 우영우 신드롬, 블랙의 신부로? OTT 콘텐츠 시청지표를]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]우영우에 잘 나가는 에이스토리?…요즘 '드라마 제작' 시장]]></title>
             <link>https://www.bloter.net/newsView/blt202207200024</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 15 Jul 2022 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA['티빙'(TVING)이 KT OTT플랫폼 '시즌'(Seezn)을 흡수합병한다고 알려지며 OTT업계가 들썩이고 있습니다. &lt;블로터&gt;는 티빙과 시즌의 합병효과를 분석하는 한편 토종 OTT업계의 지형 변화를 다각도로 조명합니다. 티빙이 시즌을 흡수합병하기로 결정하면서, 국내 OTT서비]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150043.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코오롱FnC, '중고마켓' 운영나선 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207140024</link>
-            <guid>https://www.bloter.net/newsView/blt202207140024</guid>
-            <pubDate>Thu, 14 Jul 2022 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[코오롱인더스트리FnC부문이 자사몰인 '코오롱몰'의 중고 거래 서비스 '오엘오 릴레이 마켓' 정식 서비스에 나섰다. 코오롱스포츠, 럭키슈에뜨 등 보유하고 있는 다수의 자사 브랜드를 기반으로 안정적인 중고 마켓을 운영하겠다는 계획이다.   오엘오 릴레이 마켓은]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/14/blt202207140024.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
