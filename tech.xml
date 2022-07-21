@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알뜰폰 메기 리브엠]①휴대폰 대리점과 KB노조가 'KB 알뜰폰 퇴출' 외친 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210010</link>
+            <guid>https://www.bloter.net/newsView/blt202207210010</guid>
+            <pubDate>Thu, 21 Jul 2022 06:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-21 14:23:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모더나 코로나 변이 대응 백신 허가 '초읽기'…화이자·SK바사는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210004</link>
+            <guid>https://www.bloter.net/newsView/blt202207210004</guid>
+            <pubDate>Thu, 21 Jul 2022 06:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-21 13:58:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210008.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'블랙의 신부' 글로벌 흥행, 덩달아 미소짓는 '컴투스']]></title>
             <link>https://www.bloter.net/newsView/blt202207210008</link>
             <guid>https://www.bloter.net/newsView/blt202207210008</guid>
             <pubDate>Thu, 21 Jul 2022 04:44:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-21 13:21:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 비트코인 보유분 75% 처분…1.2조원 현금 확보]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 19 Jul 2022 21:17:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-20 06:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터양과 비례하는 탄소배출량…롯데정보통신의 해법은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207190016</link>
-            <guid>https://www.bloter.net/newsView/blt202207190016</guid>
-            <pubDate>Tue, 19 Jul 2022 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-19 18:41:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190045.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 FDA가 ‘신속 심사’ 지정한 대웅제약 신약 후보물질은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207190017</link>
-            <guid>https://www.bloter.net/newsView/blt202207190017</guid>
-            <pubDate>Tue, 19 Jul 2022 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-19 18:33:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/19/blt202207190047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
