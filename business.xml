@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 01:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머신러닝 솔루션 기업 '몰로코', 순매출 2억달러 자신한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202207200025</link>
+            <guid>https://www.bloter.net/newsView/blt202207200025</guid>
+            <pubDate>Thu, 21 Jul 2022 01:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 18:04:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200046.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털전환 중요한 이유는? '대퇴사' 막아라]]></title>
+            <link>https://www.bloter.net/newsView/blt202207200021</link>
+            <guid>https://www.bloter.net/newsView/blt202207200021</guid>
+            <pubDate>Thu, 21 Jul 2022 01:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 18:00:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200029.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코오롱그룹, BMW 판매법인 사명에 '모빌리티' 붙인 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202207200017</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 20 Jul 2022 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-20 13:56:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어니스트펀드, 렌딧과 맞붙는다…AI 기반 중금리 개인신용대출 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200008</link>
-            <guid>https://www.bloter.net/newsView/blt202207200008</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-20 13:54:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['4개월 만에 깨진 약속'...롯데케미칼, 중간배당 취소]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200006</link>
-            <guid>https://www.bloter.net/newsView/blt202207200006</guid>
-            <pubDate>Wed, 20 Jul 2022 08:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-20 10:07:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
