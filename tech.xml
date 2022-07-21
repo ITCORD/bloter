@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모바일 딥링킹 플랫폼 '브랜치', 노바 런처·세서미 유니버설 서치 인수]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210016</link>
+            <guid>https://www.bloter.net/newsView/blt202207210016</guid>
+            <pubDate>Thu, 21 Jul 2022 09:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-21 17:59:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210037.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[클라우드+]'DB 강자' 오라클이 AWS아닌 MS와 손잡은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202207210015</link>
             <guid>https://www.bloter.net/newsView/blt202207210015</guid>
             <pubDate>Thu, 21 Jul 2022 08:23:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-21 17:09:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210030.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210030.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상반기 '유니콘 기업' 5개사 추가...반기 기준 역대 최대]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 20 Jul 2022 03:43:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-20 10:32:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]애드저스트가 디지털 광고 격변기에 대응하는 방법]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200001</link>
-            <guid>https://www.bloter.net/newsView/blt202207200001</guid>
-            <pubDate>Wed, 20 Jul 2022 01:27:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 09:38:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
