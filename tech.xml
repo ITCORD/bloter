@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제넨셀, 정부와 대상포진 치료제 개발 나서]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220009</link>
+            <guid>https://www.bloter.net/newsView/blt202207220009</guid>
+            <pubDate>Fri, 22 Jul 2022 06:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-22 14:01:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, 수요 줄어든 '누구' 시니어 서비스 일부 중단]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220010</link>
+            <guid>https://www.bloter.net/newsView/blt202207220010</guid>
+            <pubDate>Fri, 22 Jul 2022 06:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-22 13:57:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220016.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 5000만대 팔린 폰 후속작 '갤럭시A13' 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202207220007</link>
             <guid>https://www.bloter.net/newsView/blt202207220007</guid>
             <pubDate>Fri, 22 Jul 2022 03:49:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-22 11:05:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['남대문시대' 여는 퍼포먼스바이TBWA…애드테크 기술력 확대]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 20 Jul 2022 11:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-20 20:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]르세라핌 5인 체제, 하이브·위버스에 불러올 '나비효과'는]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200018</link>
-            <guid>https://www.bloter.net/newsView/blt202207200018</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-20 18:06:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머신러닝 솔루션 기업 '몰로코', 순매출 2억달러 자신한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200025</link>
-            <guid>https://www.bloter.net/newsView/blt202207200025</guid>
-            <pubDate>Wed, 20 Jul 2022 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-20 18:04:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200046.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
