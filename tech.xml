@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 08:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 09:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['글로벌 진출 박차'…더네이쳐홀딩스, 150억원 규모 유상증자]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220019</link>
+            <guid>https://www.bloter.net/newsView/blt202207220019</guid>
+            <pubDate>Fri, 22 Jul 2022 09:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-22 18:00:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220041.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]요기요, 부임 3주된 CFO ‘폭언 여부’ 조사한다]]></title>
             <link>https://www.bloter.net/newsView/blt202207220014</link>
             <guid>https://www.bloter.net/newsView/blt202207220014</guid>
             <pubDate>Fri, 22 Jul 2022 08:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-22 17:24:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220020.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220020.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[尹 정부 핵심 ‘원자력·우주’ 진흥, 미국 이어 프랑스로 협력 폭 확대]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 21 Jul 2022 06:24:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-21 13:58:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210008.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'블랙의 신부' 글로벌 흥행, 덩달아 미소짓는 '컴투스']]></title>
-            <link>https://www.bloter.net/newsView/blt202207210008</link>
-            <guid>https://www.bloter.net/newsView/blt202207210008</guid>
-            <pubDate>Thu, 21 Jul 2022 04:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-21 13:21:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
