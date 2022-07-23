@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 03:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 04:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진격의 오리온, 조 단위 '빅딜' 나설까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220015</link>
+            <guid>https://www.bloter.net/newsView/blt202207220015</guid>
+            <pubDate>Sat, 23 Jul 2022 04:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-22 17:29:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220029.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신한금융, 디지털사업으로 200억원 벌었다…카뱅 '게 섰거라']]></title>
             <link>https://www.bloter.net/newsView/blt202207220013</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 22 Jul 2022 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-21 19:20:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210056.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[②금융사들은 왜 알뜰폰에 눈독 들이나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210018</link>
-            <guid>https://www.bloter.net/newsView/blt202207210018</guid>
-            <pubDate>Fri, 22 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-21 19:15:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210041.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
