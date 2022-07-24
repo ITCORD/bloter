@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 09:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 10:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[기아, 글로벌 시장서 점유율 5% 최초 달성...10%까지 '한 걸음 더']]></title>
-            <link>https://www.bloter.net/newsView/blt202207230001</link>
-            <guid>https://www.bloter.net/newsView/blt202207230001</guid>
-            <pubDate>Sun, 24 Jul 2022 09:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-24 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/23/blt202207230001.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[브랜치, '귀차니스트' 한 명도 놓치지 않는 '딥링킹' 노하우]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220021</link>
+            <guid>https://www.bloter.net/newsView/blt202207220021</guid>
+            <pubDate>Sun, 24 Jul 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-24 19:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220044.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['현대차 잘 팔리니'...현대모비스, 전기차 부품 매출·R&D '역대급']]></title>
-            <link>https://www.bloter.net/newsView/blt202207220005</link>
-            <guid>https://www.bloter.net/newsView/blt202207220005</guid>
-            <pubDate>Sun, 24 Jul 2022 09:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['남대문시대' 여는 퍼포먼스바이TBWA…애드테크 기술력 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220006</link>
+            <guid>https://www.bloter.net/newsView/blt202207220006</guid>
+            <pubDate>Sun, 24 Jul 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['자동차 본고장'서 잘 나간 현대차...EBITDA·현금성자산도 K-IFRS 이래 최대]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210014</link>
-            <guid>https://www.bloter.net/newsView/blt202207210014</guid>
-            <pubDate>Sun, 24 Jul 2022 09:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[플래티어, '헤드리스 커머스'로 D2C 시너지 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202207150016</link>
+            <guid>https://www.bloter.net/newsView/blt202207150016</guid>
+            <pubDate>Sun, 24 Jul 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기아, CJ대한통운과 전기 택배차 개발...궁극 목표는 '배송 로봇']]></title>
-            <link>https://www.bloter.net/newsView/blt202207210007</link>
-            <guid>https://www.bloter.net/newsView/blt202207210007</guid>
-            <pubDate>Sun, 24 Jul 2022 09:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['광고그물망' 애드네트워크, '버즈빌' 성장 원천으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280005</link>
+            <guid>https://www.bloter.net/newsView/blt202206280005</guid>
+            <pubDate>Sun, 24 Jul 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트레저데이터 코리아, '비욘드 마케팅' 외친 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202207130009</link>
+            <guid>https://www.bloter.net/newsView/blt202207130009</guid>
+            <pubDate>Sun, 24 Jul 2022 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

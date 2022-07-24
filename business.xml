@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 09:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 10:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기차 준비 마친 '협력사의 역습'..."한국지엠엔 안팔아"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220012</link>
+            <guid>https://www.bloter.net/newsView/blt202207220012</guid>
+            <pubDate>Sun, 24 Jul 2022 10:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-24 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAI·한화, 누리호 기술이전 후보로 거론...'우주 머니'는 누구 손에?]]></title>
             <link>https://www.bloter.net/newsView/blt202207210022</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 24 Jul 2022 03:39:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-22 19:07:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220053.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리금융 "자사주 매입보다 비은행 M&A가 먼저"…우리카드 부진 컸나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220020</link>
-            <guid>https://www.bloter.net/newsView/blt202207220020</guid>
-            <pubDate>Sun, 24 Jul 2022 01:48:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-22 17:57:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220039.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
