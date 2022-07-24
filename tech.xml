@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 01:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 03:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]KAI·한화, 누리호 기술이전 후보로 거론...'우주 머니'는 누구 손에?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210022</link>
+            <guid>https://www.bloter.net/newsView/blt202207210022</guid>
+            <pubDate>Sun, 24 Jul 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-24 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210050.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SKT·하나 혈맹]②ICT·금융 결합으로 어떤 혁신 서비스 만드나]]></title>
             <link>https://www.bloter.net/newsView/blt202207230007</link>
             <guid>https://www.bloter.net/newsView/blt202207230007</guid>
             <pubDate>Sun, 24 Jul 2022 01:49:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-24 09:00:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/23/blt202207230008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/23/blt202207230008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]이번엔 방산업, 또 계열사 구조 바꾸려는 한화그룹…한화에어로 적자 감추기?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 21 Jul 2022 10:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-21 19:15:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210041.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["넷플릭스 공급 아니면 캐스팅도 안 되는데"…안팎 부담 커진 유료방송사]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210017</link>
-            <guid>https://www.bloter.net/newsView/blt202207210017</guid>
-            <pubDate>Thu, 21 Jul 2022 10:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-21 18:18:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
