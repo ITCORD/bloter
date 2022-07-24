@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 06:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 07:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]디지털마케팅 한다던 HLL, '송강호 소속사' 인수하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220025</link>
+            <guid>https://www.bloter.net/newsView/blt202207220025</guid>
+            <pubDate>Sun, 24 Jul 2022 07:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[디지털마케팅·커머스 사업을 계획했던 국내 모 기업이 최근 유명 엔터테인먼트업체 지분을 50% 이상 늘리며 변화를 모색하고 있다. 해당 기업은 '에이치엘엘중앙'(HLL중앙)이다. 지난 22일 HLL중앙은 써브라임 우선주 483주를 40억1344만7928원에 취득한다고 공시했다]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220054.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['글로벌 진출 박차'…더네이쳐홀딩스, 150억원 규모 유상증자]]></title>
             <link>https://www.bloter.net/newsView/blt202207220019</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Jul 2022 01:29:42 GMT</pubDate>
             <content:encoded><![CDATA['네모바지 스폰지밥'이 투니버스 채널로 돌아온다. CJ ENM 투니버스는 미국 어린이 엔터테인먼트 채널 '니켈로디언'의 애니메이션을 확보해 키즈 콘텐츠를 강화할 계획이다.  18일 CJ ENM 투니버스에 따르면, 다음달 1일부터 니켈로디언의 애니메이션들을 감상할 수 있]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/18/blt202207180002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버웹툰, '툰레이더' 도입 5년…불법웹툰 얼마나 사라졌나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207150015</link>
-            <guid>https://www.bloter.net/newsView/blt202207150015</guid>
-            <pubDate>Fri, 15 Jul 2022 09:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[웹툰을 불법으로 복제하거나 저작권자의 승인없이 무단 도용하는 사례는 여전히 현재진행형이다. 콘텐츠 유통사의 자체적인 노력과 사법기관과의 공조에도 불구하고, 아직까지 불법으로 웹툰을 유통하는 행태가 이어지는 모습이다. 네이버웹툰은 콘텐츠 불법유통]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/15/blt202207150051.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
