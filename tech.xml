@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 04:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 05:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘인류의 눈’부터 ‘블랙홀’까지…8월 부산서 ‘천문학 올림픽’ 열려]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220022</link>
+            <guid>https://www.bloter.net/newsView/blt202207220022</guid>
+            <pubDate>Sun, 24 Jul 2022 05:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-24 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220052.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]KAI·한화, 누리호 기술이전 후보로 거론...'우주 머니'는 누구 손에?]]></title>
             <link>https://www.bloter.net/newsView/blt202207210022</link>
             <guid>https://www.bloter.net/newsView/blt202207210022</guid>
             <pubDate>Sun, 24 Jul 2022 03:39:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-24 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210050.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210050.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SKT·하나 혈맹]②ICT·금융 결합으로 어떤 혁신 서비스 만드나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 21 Jul 2022 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-21 19:42:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210046.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[알뜰폰 메기 리브엠]②금융사들은 왜 알뜰폰에 눈독 들이나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210018</link>
-            <guid>https://www.bloter.net/newsView/blt202207210018</guid>
-            <pubDate>Thu, 21 Jul 2022 10:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-21 19:15:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/21/blt202207210041.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
