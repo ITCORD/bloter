@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 03:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 04:52:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감기약과 코로나의 상관관계, '조제용 감기약이 부족한 이유']]></title>
+            <link>https://www.bloter.net/newsView/blt202207250012</link>
+            <guid>https://www.bloter.net/newsView/blt202207250012</guid>
+            <pubDate>Mon, 25 Jul 2022 04:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-07-25 12:59:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250011.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 최초 출하한 3나노 파운드리 제품...무엇이 다를까]]></title>
             <link>https://www.bloter.net/newsView/blt202207250008</link>
             <guid>https://www.bloter.net/newsView/blt202207250008</guid>
             <pubDate>Mon, 25 Jul 2022 03:46:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-25 11:46:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오, 알고리즘 투명성 높인다...'기술윤리 위원회' 신설]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 22 Jul 2022 09:17:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-22 18:00:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220041.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]요기요, 임원 ‘폭언 여부’ 조사한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220014</link>
-            <guid>https://www.bloter.net/newsView/blt202207220014</guid>
-            <pubDate>Fri, 22 Jul 2022 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-22 17:24:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220020.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
