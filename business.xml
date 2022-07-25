@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 본사에 '협의체 구성' 요청...매각 재검토되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250021</link>
+            <guid>https://www.bloter.net/newsView/blt202207250021</guid>
+            <pubDate>Mon, 25 Jul 2022 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 15:00:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250021.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위기의 신한금투, 디지털자산업 진출로 활로 찾을까?]]></title>
             <link>https://www.bloter.net/newsView/blt202207250019</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 25 Jul 2022 06:24:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 09:57:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우버, 5700만 고객·운전기사 해킹 은폐 의혹 공식 인정]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250006</link>
-            <guid>https://www.bloter.net/newsView/blt202207250006</guid>
-            <pubDate>Mon, 25 Jul 2022 05:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-25 09:50:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
