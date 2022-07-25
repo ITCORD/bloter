@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 최초 출하한 3나노 파운드리 제품...무엇이 다를까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250008</link>
+            <guid>https://www.bloter.net/newsView/blt202207250008</guid>
+            <pubDate>Mon, 25 Jul 2022 03:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-25 11:46:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 알고리즘 투명성 높인다...'기술윤리 위원회' 신설]]></title>
             <link>https://www.bloter.net/newsView/blt202207250007</link>
             <guid>https://www.bloter.net/newsView/blt202207250007</guid>
             <pubDate>Mon, 25 Jul 2022 01:29:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 09:57:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우버, 5700만 고객·운전기사 해킹 은폐 의혹 공식 인정]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 22 Jul 2022 08:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-22 17:24:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220020.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 정부 핵심 ‘원자력·우주’ 진흥, 미국 이어 프랑스로 협력 폭 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220018</link>
-            <guid>https://www.bloter.net/newsView/blt202207220018</guid>
-            <pubDate>Fri, 22 Jul 2022 08:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-22 17:14:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220030.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
