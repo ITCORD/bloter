@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우버, 5700만 고객·운전기사 해킹 은폐 의혹 공식 인정]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250006</link>
+            <guid>https://www.bloter.net/newsView/blt202207250006</guid>
+            <pubDate>Mon, 25 Jul 2022 05:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-25 09:50:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“구글 공동창업자, 머스크 회사 투자 정리 지시…아내와 불륜이 원인”]]></title>
             <link>https://www.bloter.net/newsView/blt202207250004</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 25 Jul 2022 01:29:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">강승혁</span>                        <span class="date">2022-07-24 15:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/24/blt202207240001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코그룹, '환율·금리·물가' 3고에 비상경영 돌입..."현금 중심 경영해야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207240001</link>
-            <guid>https://www.bloter.net/newsView/blt202207240001</guid>
-            <pubDate>Mon, 25 Jul 2022 01:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-24 13:01:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/24/blt202207240003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
