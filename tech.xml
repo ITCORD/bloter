@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 20:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 21:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT비즈썰]페이스북은 '최소한의 개인정보'를 수집하나요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250029</link>
+            <guid>https://www.bloter.net/newsView/blt202207250029</guid>
+            <pubDate>Mon, 25 Jul 2022 21:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-26 06:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250039.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[LCK, 이렇게 바뀐다]①프랜차이즈 2년…'신규 제도'로 생태계 강화]]></title>
             <link>https://www.bloter.net/newsView/blt202207250028</link>
             <guid>https://www.bloter.net/newsView/blt202207250028</guid>
             <pubDate>Mon, 25 Jul 2022 13:40:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-25 22:33:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250037.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['70개국 수출의 힘'…오스템임플란트, 2분기 영업익 '껑충']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 23 Jul 2022 04:31:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-23 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[폰SIGHT]'5400만대' 스마트폰이 대체한 다섯 가지]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220017</link>
-            <guid>https://www.bloter.net/newsView/blt202207220017</guid>
-            <pubDate>Sat, 23 Jul 2022 01:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-23 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
