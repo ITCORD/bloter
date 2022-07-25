@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대로템, 회복세 이어간다…6년만 최대 이익 낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250009</link>
+            <guid>https://www.bloter.net/newsView/blt202207250009</guid>
+            <pubDate>Mon, 25 Jul 2022 06:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-25 11:15:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 알고리즘 투명성 높인다...'기술윤리 위원회' 신설]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250007</link>
+            <guid>https://www.bloter.net/newsView/blt202207250007</guid>
+            <pubDate>Mon, 25 Jul 2022 06:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 09:57:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우버, 5700만 고객·운전기사 해킹 은폐 의혹 공식 인정]]></title>
             <link>https://www.bloter.net/newsView/blt202207250006</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 25 Jul 2022 01:29:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-24 19:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220044.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기아, 글로벌 시장서 점유율 5% 최초 달성...10%까지 '한 걸음 더']]></title>
-            <link>https://www.bloter.net/newsView/blt202207230001</link>
-            <guid>https://www.bloter.net/newsView/blt202207230001</guid>
-            <pubDate>Mon, 25 Jul 2022 01:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-24 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/23/blt202207230001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[③ICT와 금융의 협력 이어지는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202207230009</link>
-            <guid>https://www.bloter.net/newsView/blt202207230009</guid>
-            <pubDate>Mon, 25 Jul 2022 01:29:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">강승혁</span>                        <span class="date">2022-07-24 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/24/blt202207240001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

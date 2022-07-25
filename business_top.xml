@@ -4,23 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[금호타이어, 폭스바겐 북미 전략차종 '제타 2022'에 타이어 공급]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250011</link>
-            <guid>https://www.bloter.net/newsView/blt202207250011</guid>
-            <pubDate>Mon, 25 Jul 2022 04:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-25 13:16:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250012.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[카카오모빌리티, 본사에 '협의체 구성' 요청...매각 재검토되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207250021</link>
+            <guid>https://www.bloter.net/newsView/blt202207250021</guid>
+            <pubDate>Mon, 25 Jul 2022 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 15:00:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250021.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[中 더블스타, 금호타이어 키울 '비전'있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200003</link>
-            <guid>https://www.bloter.net/newsView/blt202207200003</guid>
-            <pubDate>Mon, 25 Jul 2022 04:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오식 성장법, 뒤늦게 날아든 청구서들]]></title>
+            <link>https://www.bloter.net/newsView/blt202207130013</link>
+            <guid>https://www.bloter.net/newsView/blt202207130013</guid>
+            <pubDate>Mon, 25 Jul 2022 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오 '사회적 책임' 약속, 1년 만에 태도가 달라졌다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207110011</link>
+            <guid>https://www.bloter.net/newsView/blt202207110011</guid>
+            <pubDate>Mon, 25 Jul 2022 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오는 왜 '모빌리티 2대주주'를 강조할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207070016</link>
+            <guid>https://www.bloter.net/newsView/blt202207070016</guid>
+            <pubDate>Mon, 25 Jul 2022 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오, 모빌리티 매각 방식 바꾸면 '직원 반발' 줄어들까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207050010</link>
+            <guid>https://www.bloter.net/newsView/blt202207050010</guid>
+            <pubDate>Mon, 25 Jul 2022 06:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
