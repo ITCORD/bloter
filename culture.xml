@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'우마무스메'는 어떻게 매출 1위를 찍었나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260016</link>
+            <guid>https://www.bloter.net/newsView/blt202207260016</guid>
+            <pubDate>Tue, 26 Jul 2022 09:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[결국 '우마무스메 프리티더비'(이하 우마무스메)가 일을 냈다. 지난 6월 20일 출시 후 구글플레이 스토어 2위까지 올랐던 우마무스메였지만 끝내 '리니지M'을 꺾지 못했던 아쉬움을 한 방에 뒤집었다.  26일 우마무스메는 구글플레이 매출 1위에 올랐다. 출시한 지 한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로블록스, "중국 진출 시 해킹당할 수도"...중화 민족주의 강요한 내부 자료 공개]]></title>
             <link>https://www.bloter.net/newsView/blt202207260004</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Jul 2022 11:16:31 GMT</pubDate>
             <content:encoded><![CDATA[블로터 &lt;넘버스팀&gt;이 알면 좋을 산업 생태계 정보를 소개합니다.   지난 6월 29일부터 방영되기 시작한 수목드라마 ‘이상한 변호사 우영우(우영우)’가 인기입니다. 우영우는 채널 ENA와 OTT(온라인동영상서비스) 넷플릭스·시즌 등을 통해 방영되고 있]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200040.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]르세라핌 5인 체제, 하이브·위버스에 불러올 '나비효과'는]]></title>
-            <link>https://www.bloter.net/newsView/blt202207200018</link>
-            <guid>https://www.bloter.net/newsView/blt202207200018</guid>
-            <pubDate>Wed, 20 Jul 2022 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[알면 좋을 엔터테인먼트업계 이슈를 분석합니다. 하이브 산하 쏘스뮤직의 아이돌그룹인 '르세라핌'(LE SSERAFIM)이 20일 김가람의 탈퇴를 공식화했습니다. 이는 김가람이 '학교 폭력(학폭) 논란'으로 잠정 활동중단을 선언한 지 두 달만에 내려진 결정인데요.   소속사]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/20/blt202207200031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

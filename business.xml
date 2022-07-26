@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[균열 생기는 스타벅스 왕국...이마트의 무리수?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260008</link>
+            <guid>https://www.bloter.net/newsView/blt202207260008</guid>
+            <pubDate>Tue, 26 Jul 2022 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-26 15:30:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK디스커버리  1100억 처분 이익...최태원·최창원 SK오너가 '각자도생' 때문?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260003</link>
+            <guid>https://www.bloter.net/newsView/blt202207260003</guid>
+            <pubDate>Tue, 26 Jul 2022 09:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-26 13:37:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단체행동 예고한 네이버 노조, 파업 가능성도 시사]]></title>
             <link>https://www.bloter.net/newsView/blt202207260006</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 26 Jul 2022 05:39:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-26 08:42:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해태제과, 밖으로 나갈 여유가 없다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250024</link>
-            <guid>https://www.bloter.net/newsView/blt202207250024</guid>
-            <pubDate>Tue, 26 Jul 2022 04:07:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-25 17:10:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250029.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[내셔널지오그래픽의 더네이쳐홀딩스, RCPS 발행한 까닭은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250017</link>
-            <guid>https://www.bloter.net/newsView/blt202207250017</guid>
-            <pubDate>Tue, 26 Jul 2022 01:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 16:13:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250015.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
