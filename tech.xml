@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단체행동 예고한 네이버 노조, 파업 가능성도 시사]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260006</link>
+            <guid>https://www.bloter.net/newsView/blt202207260006</guid>
+            <pubDate>Tue, 26 Jul 2022 05:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-26 11:17:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로블록스, "중국 진출 시 해킹당할 수도"...중화 민족주의 강요한 내부 자료 공개]]></title>
             <link>https://www.bloter.net/newsView/blt202207260004</link>
             <guid>https://www.bloter.net/newsView/blt202207260004</guid>
             <pubDate>Tue, 26 Jul 2022 01:48:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-26 10:07:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리에이터에 집중하는 페이스북…신규 수익화 프로그램 발표]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 24 Jul 2022 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-24 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220054.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SKT·하나 혈맹]③ICT와 금융의 협력 이어지는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202207230009</link>
-            <guid>https://www.bloter.net/newsView/blt202207230009</guid>
-            <pubDate>Sun, 24 Jul 2022 06:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">강승혁</span>                        <span class="date">2022-07-24 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/24/blt202207240001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

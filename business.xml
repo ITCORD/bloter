@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 정부, LG·GM 합작 배터리 공장 설립에 3조 대출 지원]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260001</link>
+            <guid>https://www.bloter.net/newsView/blt202207260001</guid>
+            <pubDate>Tue, 26 Jul 2022 05:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-26 08:42:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해태제과, 밖으로 나갈 여유가 없다]]></title>
             <link>https://www.bloter.net/newsView/blt202207250024</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 25 Jul 2022 08:24:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-25 15:00:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250021.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위기의 신한금투, 디지털자산업 진출로 활로 찾을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250019</link>
-            <guid>https://www.bloter.net/newsView/blt202207250019</guid>
-            <pubDate>Mon, 25 Jul 2022 07:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-25 14:39:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250020.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
