@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[로블록스, "중국 진출 시 해킹당할 수도"...중화 민족주의 강요한 내부 자료 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202207260004</link>
-            <guid>https://www.bloter.net/newsView/blt202207260004</guid>
-            <pubDate>Tue, 26 Jul 2022 01:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-26 10:07:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[단체행동 예고한 네이버 노조, 파업 가능성도 시사]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260006</link>
+            <guid>https://www.bloter.net/newsView/blt202207260006</guid>
+            <pubDate>Tue, 26 Jul 2022 04:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-26 11:17:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260009.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['중국판 로블록스' 서비스 일시 중단...왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202201100001</link>
-            <guid>https://www.bloter.net/newsView/blt202201100001</guid>
-            <pubDate>Tue, 26 Jul 2022 01:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[네이버와 계열사의 초봉은 왜 이렇게 차이가 큰가요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180022</link>
+            <guid>https://www.bloter.net/newsView/blt202207180022</guid>
+            <pubDate>Tue, 26 Jul 2022 04:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['원인 불명' 로블록스 접속 오류, 사흘만에 정상화 가닥]]></title>
-            <link>https://www.bloter.net/newsView/blt202111010001</link>
-            <guid>https://www.bloter.net/newsView/blt202111010001</guid>
-            <pubDate>Tue, 26 Jul 2022 01:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[네이버·카카오 노린 ‘IT 임금인상 자제론’ 설득력있나]]></title>
+            <link>https://www.bloter.net/newsView/blt202206290005</link>
+            <guid>https://www.bloter.net/newsView/blt202206290005</guid>
+            <pubDate>Tue, 26 Jul 2022 04:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중국 게임사, 한국 전통의상 저작권 침해 후 '나 몰라라']]></title>
-            <link>https://www.bloter.net/newsView/blt202109290015</link>
-            <guid>https://www.bloter.net/newsView/blt202109290015</guid>
-            <pubDate>Tue, 26 Jul 2022 01:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[직상장 첫날 몸집 43조...신드롬 된 '로블록스'가 뭐길래?]]></title>
-            <link>https://www.bloter.net/newsView/blt202103110002</link>
-            <guid>https://www.bloter.net/newsView/blt202103110002</guid>
-            <pubDate>Tue, 26 Jul 2022 01:47:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">문병선</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['육성하고 협업까지'...네이버식 자율주행 시장 공략법]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150005</link>
+            <guid>https://www.bloter.net/newsView/blt202206150005</guid>
+            <pubDate>Tue, 26 Jul 2022 04:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
