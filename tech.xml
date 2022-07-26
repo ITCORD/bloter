@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 09:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 10:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이젠, 우주]이통3사·한컴·네이버 이어 LIG넥스원·KAI도…‘스페이스 데이터’ 뜨는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260018</link>
+            <guid>https://www.bloter.net/newsView/blt202207260018</guid>
+            <pubDate>Tue, 26 Jul 2022 10:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-26 18:29:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260043.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'우마무스메'는 어떻게 매출 1위를 찍었나]]></title>
             <link>https://www.bloter.net/newsView/blt202207260016</link>
             <guid>https://www.bloter.net/newsView/blt202207260016</guid>
             <pubDate>Tue, 26 Jul 2022 09:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-26 18:12:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260036.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['국산 UAM' 플라나 에어택시, '하이브리드·맨파워'로 출사표]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 25 Jul 2022 01:29:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-25 09:20:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올 9월 공개되는 ‘고급형 애플워치’, 새로운 디자인 적용된다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250002</link>
-            <guid>https://www.bloter.net/newsView/blt202207250002</guid>
-            <pubDate>Mon, 25 Jul 2022 01:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-25 08:41:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
