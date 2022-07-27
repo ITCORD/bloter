@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 06:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG엔솔, 3.9%로 주저앉은 이익률…커지는 수익성 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202207270010</link>
+            <guid>https://www.bloter.net/newsView/blt202207270010</guid>
+            <pubDate>Wed, 27 Jul 2022 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-27 12:20:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['드라이버' 필요한 타다, 친화 정책 연달아 내놓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207270007</link>
+            <guid>https://www.bloter.net/newsView/blt202207270007</guid>
+            <pubDate>Wed, 27 Jul 2022 06:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-27 10:09:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['틱톡 표절' 뭇매 인스타그램…CEO의 해명 "영상 많아질 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202207270004</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 27 Jul 2022 04:53:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-26 18:13:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260039.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OCI, 태양광 매직 계속될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207260013</link>
-            <guid>https://www.bloter.net/newsView/blt202207260013</guid>
-            <pubDate>Wed, 27 Jul 2022 04:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-26 18:12:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260029.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[혜택이 나빠졌는데 좋아졌다니…'고래퀴즈' 같은 핀테크 서비스 개편]]></title>
-            <link>https://www.bloter.net/newsView/blt202207260010</link>
-            <guid>https://www.bloter.net/newsView/blt202207260010</guid>
-            <pubDate>Wed, 27 Jul 2022 04:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-26 17:10:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260026.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
