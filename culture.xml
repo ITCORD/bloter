@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 10:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 11:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이엇 게임즈, '게임=문화' 힘 보탠 영리한 사회공헌]]></title>
+            <link>https://www.bloter.net/newsView/blt202207270032</link>
+            <guid>https://www.bloter.net/newsView/blt202207270032</guid>
+            <pubDate>Wed, 27 Jul 2022 11:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 게임 '리그오브레전드'(LoL) 이용자들에게 '게임을 플레이하는 의미'가 더해졌다. 리그오브레전드를 서비스하는 게임사 라이엇게임즈가 문화재청과 국외소재문화재재단과 협력해 여섯 번째 국외소재 문화재(보록) 환수에 성공하면서다. 2012년 이후 라이엇 게]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270062.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위기의 위메이드? '대작 블록체인 게임'이 필요하다]]></title>
             <link>https://www.bloter.net/newsView/blt202207270020</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 24 Jul 2022 08:21:24 GMT</pubDate>
             <content:encoded><![CDATA['정훈이 펭귄 울음소리를 낸다'. 최근 ENA 채널과 온라인 동영상 서비스(OTT) 넷플릭스와 seezn(시즌)을 통해 인기 방영 중인 드라마 '이상한 변호사 우영우' 3화 '펭수로 하겠습니다' 중 나온 한글 자막 내용이다. 해당 자막은 변호사 '우영우'가 극 중 자폐 스펙트럼 장애]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/23/blt202207230004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]디지털마케팅 한다던 HLL, '송강호 소속사' 인수하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220025</link>
-            <guid>https://www.bloter.net/newsView/blt202207220025</guid>
-            <pubDate>Sun, 24 Jul 2022 07:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[디지털마케팅·커머스 사업을 계획했던 국내 모 기업이 최근 유명 엔터테인먼트업체 지분을 50% 이상 늘리며 변화를 모색하고 있다. 해당 기업은 '에이치엘엘중앙'(HLL중앙)이다. 지난 22일 HLL중앙은 써브라임 우선주 483주를 40억1344만7928원에 취득한다고 공시했다]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220054.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
