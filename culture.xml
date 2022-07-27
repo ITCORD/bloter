@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위기의 위메이드? '대작 블록체인 게임'이 필요하다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207270020</link>
+            <guid>https://www.bloter.net/newsView/blt202207270020</guid>
+            <pubDate>Wed, 27 Jul 2022 07:17:41 GMT</pubDate>
+            <content:encoded><![CDATA["지난해 게임업계에서 연봉 일괄 인상 바람이 불 때 유일하게 따라가지 않았던 회사가 위메이드입이다. 지금은 반대로 업계 전반적으로 채용 중단 및 인력 감축 흐름을 보이는 데 저희는 이에 역행해서 사람을 더 뽑으려 합니다. (업계 내 인력 감축으로 인해) 이런]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270033.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['틱톡 표절' 뭇매 인스타그램…CEO의 해명 "영상 많아질 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202207270004</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 24 Jul 2022 07:17:11 GMT</pubDate>
             <content:encoded><![CDATA[디지털마케팅·커머스 사업을 계획했던 국내 모 기업이 최근 유명 엔터테인먼트업체 지분을 50% 이상 늘리며 변화를 모색하고 있다. 해당 기업은 '에이치엘엘중앙'(HLL중앙)이다. 지난 22일 HLL중앙은 써브라임 우선주 483주를 40억1344만7928원에 취득한다고 공시했다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220054.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['글로벌 진출 박차'…더네이쳐홀딩스, 150억원 규모 유상증자]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220019</link>
-            <guid>https://www.bloter.net/newsView/blt202207220019</guid>
-            <pubDate>Fri, 22 Jul 2022 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[더네이쳐홀딩스가 글로벌 진출을 앞두고 협력 관계 구축과 운영 자금 조달을 위해 유상증자를 결정했다.22일 더네이쳐홀딩스는 150억원 규모의 제2자 배정 유상증자 실시한다고 공시했다. 이번 유상증자는 상환전환우선주(RCPS) 발행 방식으로 진행된다.   신주 발행]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/22/blt202207220041.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
