@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아모레퍼시픽 '탈출구가 없다'…中 의존 성장의 역습]]></title>
+            <link>https://www.bloter.net/newsView/blt202207280015</link>
+            <guid>https://www.bloter.net/newsView/blt202207280015</guid>
+            <pubDate>Thu, 28 Jul 2022 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-28 14:43:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['계열사 축소' 약속한 카카오, 모빌리티 매각 철회 가능할까]]></title>
             <link>https://www.bloter.net/newsView/blt202207280009</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 28 Jul 2022 06:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-28 09:41:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 모회사 메타, 2분기 사상 첫 매출 감소]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280001</link>
-            <guid>https://www.bloter.net/newsView/blt202207280001</guid>
-            <pubDate>Thu, 28 Jul 2022 05:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-28 08:50:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
