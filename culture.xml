@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 01:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페이스북 모회사 메타, 2분기 사상 첫 매출 감소]]></title>
+            <link>https://www.bloter.net/newsView/blt202207280001</link>
+            <guid>https://www.bloter.net/newsView/blt202207280001</guid>
+            <pubDate>Thu, 28 Jul 2022 01:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[소셜네트워크서비스(SNS) 페이스북 운영사 메타가 올해 2분기에 사상 최초로 매출 감소를 기록했다. 광고 수익이 줄어들고 틱톡과의 경쟁이 심화되며 매출 성장세가 둔화된 것으로 보인다. 27일(현지시간) 메타는 지난 2분기 실적 발표에서 매출이 전년 동기 대비 1%]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[라이엇 게임즈, '게임=문화' 힘 보탠 영리한 사회공헌]]></title>
             <link>https://www.bloter.net/newsView/blt202207270032</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 25 Jul 2022 13:41:06 GMT</pubDate>
             <content:encoded><![CDATA['리그 오브 레전드 챔피언스코리아'(이하 LCK)가 신규 제도 도입을 통해 '지속가능성'을 확보한다고 밝혔습니다. 신인 발굴을 위한 '육성권' 제도부터 '공인 에이전트 제도화' 및 '지정선수 특별협상'으로 리그 경쟁력을 강화한다는 계획인데요. &lt;블로터&gt;는 LCK의]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250037.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한글 자막' 늘리는 OTT...제작 어디까지 왔나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207230006</link>
-            <guid>https://www.bloter.net/newsView/blt202207230006</guid>
-            <pubDate>Sun, 24 Jul 2022 08:21:24 GMT</pubDate>
-            <content:encoded><![CDATA['정훈이 펭귄 울음소리를 낸다'. 최근 ENA 채널과 온라인 동영상 서비스(OTT) 넷플릭스와 seezn(시즌)을 통해 인기 방영 중인 드라마 '이상한 변호사 우영우' 3화 '펭수로 하겠습니다' 중 나온 한글 자막 내용이다. 해당 자막은 변호사 '우영우'가 극 중 자폐 스펙트럼 장애]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/23/blt202207230004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
