@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['2분기 실적 발표' 애플·아마존, 예상치 웃돈 매출·저조한 순손익]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290001</link>
+            <guid>https://www.bloter.net/newsView/blt202207290001</guid>
+            <pubDate>Fri, 29 Jul 2022 05:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 08:31:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최대 실적 낸 현대글로비스...'외상값'도 역대급, '현금운용 빠듯']]></title>
             <link>https://www.bloter.net/newsView/blt202207280023</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 28 Jul 2022 10:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-28 14:43:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['계열사 축소' 약속한 카카오, 모빌리티 매각 철회 가능할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280009</link>
-            <guid>https://www.bloter.net/newsView/blt202207280009</guid>
-            <pubDate>Thu, 28 Jul 2022 09:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-28 14:39:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
