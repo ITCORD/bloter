@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘위기에 강하다’…삼성SDI, 악재 속 최대실적]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290007</link>
+            <guid>https://www.bloter.net/newsView/blt202207290007</guid>
+            <pubDate>Fri, 29 Jul 2022 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-29 11:26:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, '틱톡 표절' 제기된 '홈 피드 개편안' 철회]]></title>
             <link>https://www.bloter.net/newsView/blt202207290003</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 29 Jul 2022 01:46:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-28 17:49:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280040.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG생건, 피하지 못한 中봉쇄…화장품 사업 이익 반토막]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280020</link>
-            <guid>https://www.bloter.net/newsView/blt202207280020</guid>
-            <pubDate>Fri, 29 Jul 2022 01:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-28 16:48:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280032.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['고객경험'이 재구매의 '키'…심리스한 응대 돕는 툴은]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290020</link>
+            <guid>https://www.bloter.net/newsView/blt202207290020</guid>
+            <pubDate>Fri, 29 Jul 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-29 17:28:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290047.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]'고객 우선' 외친 발란, 오프라인 매장으로 '재도약' 시동]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290005</link>
+            <guid>https://www.bloter.net/newsView/blt202207290005</guid>
+            <pubDate>Fri, 29 Jul 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-07-29 17:23:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290035.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IT비즈썰]직방, 스마트홈 진출로 엿보는 확장 전략]]></title>
             <link>https://www.bloter.net/newsView/blt202207290015</link>
             <guid>https://www.bloter.net/newsView/blt202207290015</guid>
             <pubDate>Fri, 29 Jul 2022 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-29 17:04:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290030.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290030.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]SKT가 'ARPU 감소' 유발할 5G 중간요금제에 대응하는 법]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 28 Jul 2022 08:24:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 16:19:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제일기획, 디지털비중 52%...매출 두 자릿수 성장 이어간다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280019</link>
-            <guid>https://www.bloter.net/newsView/blt202207280019</guid>
-            <pubDate>Thu, 28 Jul 2022 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-28 15:37:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘점검 이상 무’ 韓 첫 달 탐사선 다누리, 발사 이틀 연기…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280017</link>
-            <guid>https://www.bloter.net/newsView/blt202207280017</guid>
-            <pubDate>Thu, 28 Jul 2022 06:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-28 15:04:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
