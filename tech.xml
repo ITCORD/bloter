@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 07:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:26:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT비즈썰]직방, 스마트홈 진출로 엿보는 확장 전략]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290015</link>
+            <guid>https://www.bloter.net/newsView/blt202207290015</guid>
+            <pubDate>Fri, 29 Jul 2022 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-29 17:04:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290030.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[넘버스]SKT가 'ARPU 감소' 유발할 5G 중간요금제에 대응하는 법]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290012</link>
+            <guid>https://www.bloter.net/newsView/blt202207290012</guid>
+            <pubDate>Fri, 29 Jul 2022 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-29 16:48:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290036.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마켓리뷰]데브시스터즈, 우울한 2분기?…디즈니 콜라보 빨랐다면]]></title>
             <link>https://www.bloter.net/newsView/blt202207290009</link>
             <guid>https://www.bloter.net/newsView/blt202207290009</guid>
             <pubDate>Fri, 29 Jul 2022 06:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-29 15:04:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박원기 네이버클라우드 대표, 내년부터 '아태 사업' 주력한다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 28 Jul 2022 06:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-28 15:04:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2Q 이익 감소' 삼성전자 MX, 폴더블폰에 사활 건 배경]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280013</link>
-            <guid>https://www.bloter.net/newsView/blt202207280013</guid>
-            <pubDate>Thu, 28 Jul 2022 06:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-28 14:52:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 파운드리 최대 실적..."모바일 대형 고객사 확보"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280010</link>
-            <guid>https://www.bloter.net/newsView/blt202207280010</guid>
-            <pubDate>Thu, 28 Jul 2022 05:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 14:24:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280017.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
