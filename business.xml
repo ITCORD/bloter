@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대제철, 수요처 '전동화 전환'에...지속 가능한 철강사로 도약]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290014</link>
+            <guid>https://www.bloter.net/newsView/blt202207290014</guid>
+            <pubDate>Fri, 29 Jul 2022 15:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-29 15:05:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금호석유화학그룹, R&D로 사업기회 발굴...미래 모빌리티 변화도 준비]]></title>
             <link>https://www.bloter.net/newsView/blt202207290013</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 29 Jul 2022 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 09:35:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['2분기 실적 발표' 애플·아마존, 예상치 웃돈 매출·저조한 순손익]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290001</link>
-            <guid>https://www.bloter.net/newsView/blt202207290001</guid>
-            <pubDate>Fri, 29 Jul 2022 05:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 08:31:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
