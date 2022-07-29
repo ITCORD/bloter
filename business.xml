@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, '틱톡 표절' 제기된 '홈 피드 개편안' 철회]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290003</link>
+            <guid>https://www.bloter.net/newsView/blt202207290003</guid>
+            <pubDate>Fri, 29 Jul 2022 06:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 10:13:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290005.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤 또 퇴출?…구글·애플서 삭제된 '배그 모바일 인도']]></title>
+            <link>https://www.bloter.net/newsView/blt202207290002</link>
+            <guid>https://www.bloter.net/newsView/blt202207290002</guid>
+            <pubDate>Fri, 29 Jul 2022 06:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 09:35:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['2분기 실적 발표' 애플·아마존, 예상치 웃돈 매출·저조한 순손익]]></title>
             <link>https://www.bloter.net/newsView/blt202207290001</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 29 Jul 2022 01:46:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-28 16:48:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280032.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저성장 늪' 삼성디스플레이...최권영 "메타버스용 마이크로 디스플레이로 돌파"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280016</link>
-            <guid>https://www.bloter.net/newsView/blt202207280016</guid>
-            <pubDate>Fri, 29 Jul 2022 01:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 16:19:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280034.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아모레퍼시픽 '탈출구가 없다'…中 의존 성장의 역습]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280015</link>
-            <guid>https://www.bloter.net/newsView/blt202207280015</guid>
-            <pubDate>Thu, 28 Jul 2022 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-28 14:43:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

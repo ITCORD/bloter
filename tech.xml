@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마켓리뷰]데브시스터즈, 우울한 2분기?…디즈니 콜라보 빨랐다면]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290009</link>
+            <guid>https://www.bloter.net/newsView/blt202207290009</guid>
+            <pubDate>Fri, 29 Jul 2022 06:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-29 15:04:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박원기 네이버클라우드 대표, 내년부터 '아태 사업' 주력한다]]></title>
             <link>https://www.bloter.net/newsView/blt202207290008</link>
             <guid>https://www.bloter.net/newsView/blt202207290008</guid>
             <pubDate>Fri, 29 Jul 2022 03:51:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-29 12:30:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인스타그램, '틱톡 표절' 제기된 '홈 피드 개편안' 철회]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 28 Jul 2022 05:27:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 14:24:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 갤럭시폰, 수리기사가 내 사진 못 본다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280006</link>
-            <guid>https://www.bloter.net/newsView/blt202207280006</guid>
-            <pubDate>Thu, 28 Jul 2022 03:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-07-28 11:01:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
