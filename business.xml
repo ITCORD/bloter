@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 01:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 03:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최대 실적 낸 현대글로비스...'외상값'도 역대급, '현금운용 빠듯']]></title>
+            <link>https://www.bloter.net/newsView/blt202207280023</link>
+            <guid>https://www.bloter.net/newsView/blt202207280023</guid>
+            <pubDate>Fri, 29 Jul 2022 03:51:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 18:33:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280052.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JB금융, '금리 오기'로 회사채 재발행한 사연...(feat. BIS는 좋네)]]></title>
             <link>https://www.bloter.net/newsView/blt202207280027</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 28 Jul 2022 09:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-28 14:39:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 파운드리 최대 실적..."모바일 대형 고객사 확보"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280010</link>
-            <guid>https://www.bloter.net/newsView/blt202207280010</guid>
-            <pubDate>Thu, 28 Jul 2022 08:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 14:24:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280017.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
