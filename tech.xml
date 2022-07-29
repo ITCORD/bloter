@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 10:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 11:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]웹툰·메타버스·미래차 뜨는데 왜 ‘플리토’ 뜰까]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290016</link>
+            <guid>https://www.bloter.net/newsView/blt202207290016</guid>
+            <pubDate>Fri, 29 Jul 2022 11:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-29 20:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 라이브쇼핑 지분 매각 완료…838억원 현금 어디에 쓰나]]></title>
             <link>https://www.bloter.net/newsView/blt202207290028</link>
             <guid>https://www.bloter.net/newsView/blt202207290028</guid>
             <pubDate>Fri, 29 Jul 2022 10:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-29 18:31:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290059.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290059.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['고객경험'이 재구매의 '키'…심리스한 응대 돕는 툴은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 28 Jul 2022 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-28 17:38:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK, 이렇게 바뀐다]③지정선수 특별협상으로 본 '이적시장']]></title>
-            <link>https://www.bloter.net/newsView/blt202207280024</link>
-            <guid>https://www.bloter.net/newsView/blt202207280024</guid>
-            <pubDate>Thu, 28 Jul 2022 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-28 17:32:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
