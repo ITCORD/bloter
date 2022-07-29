@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 01:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램, '틱톡 표절' 제기된 '홈 피드 개편안' 철회]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290003</link>
+            <guid>https://www.bloter.net/newsView/blt202207290003</guid>
+            <pubDate>Fri, 29 Jul 2022 01:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램이 최근 사용자들로부터 거센 비난을 받은 홈 피드 개편안을 철회한다고 발표했다. 28일(현지시간) 아담 모세리 인스타그램 최고경영자(CEO)는 IT 뉴스레터 &lt;플랫포머&gt;와의 인터뷰에서 현재 시범 운영 중인 인스타그램 전체 화면 홈 피드 개편을 몇 주]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290005.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크래프톤 또 퇴출?…구글·애플서 삭제된 '배그 모바일 인도']]></title>
+            <link>https://www.bloter.net/newsView/blt202207290002</link>
+            <guid>https://www.bloter.net/newsView/blt202207290002</guid>
+            <pubDate>Fri, 29 Jul 2022 01:47:12 GMT</pubDate>
+            <content:encoded><![CDATA[크래프톤이 인도 지역에서 출시한 모바일 게임 '배틀그라운드 모바일 인도'(BGMI)가 인도 구글 플레이와 애플 앱스토어에서 삭제(차단)된 것으로 확인됐다. 2020년 '배틀그라운드 모바일'이 퇴출당한지 약 2년 만이다. 28일(현지시간) IT 전문매체 &lt;테크크런치&gt;는 구]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290003.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK, 이렇게 바뀐다]③지정선수 특별협상으로 본 '이적시장']]></title>
             <link>https://www.bloter.net/newsView/blt202207280024</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 26 Jul 2022 01:48:58 GMT</pubDate>
             <content:encoded><![CDATA[미국의 메타버스 게임 플랫폼 ‘로블록스(ROBLOX)’가 중국 시장 진출을 추진하면서 중국 기업으로부터 해킹 가능성을 우려한 것으로 나타났다. 이는 로블록스 내부 자료를 통해 드러났다.25일(현지시간) 미국 IT 매체 &lt;바이스 마더보드&gt;는 로블록스가 중국]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터에 집중하는 페이스북…신규 수익화 프로그램 발표]]></title>
-            <link>https://www.bloter.net/newsView/blt202207260002</link>
-            <guid>https://www.bloter.net/newsView/blt202207260002</guid>
-            <pubDate>Tue, 26 Jul 2022 01:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 크리에이터들이 페이스북에서 수익을 창출할 있는 신규 프로그램을 발표했다. 페이스북에 저작권이 있는 음악이 포함된 영상을 올려 크리에이터에게 광고 수익의 일부를 나눠주는 방식이다. 25일(현지시간) 메타는 이날부터 ’음악 수익 공유(Music Revenue S]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/26/blt202207260002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['과천 시대' 여는 펄어비스, ESG 경영 '고도화' 주력]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250027</link>
-            <guid>https://www.bloter.net/newsView/blt202207250027</guid>
-            <pubDate>Tue, 26 Jul 2022 01:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[펄어비스가 다음달 과천 신사옥 이전을 기점으로 전략적 ESG(환경·사회·지배구조) 경영에 나선다. 펄어비스는 ESG 경영에 관심이 높은 서구권을 겨냥한 게임사인 만큼, 전략적인 로드맵을 바탕으로 ESG 경영을 개선한다는 방침이다. 펄어비스는 지난해 ESG 평]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/25/blt202207250035.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
