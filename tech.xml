@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신세계아이앤씨, 라이브쇼핑 지분 매각 완료…838억원 현금 어디에 쓰나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290028</link>
+            <guid>https://www.bloter.net/newsView/blt202207290028</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-29 18:31:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290059.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['고객경험'이 재구매의 '키'…심리스한 응대 돕는 툴은]]></title>
             <link>https://www.bloter.net/newsView/blt202207290020</link>
             <guid>https://www.bloter.net/newsView/blt202207290020</guid>
             <pubDate>Fri, 29 Jul 2022 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-29 17:28:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290047.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290047.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[현장+]'고객 우선' 외친 발란, 오프라인 매장으로 '재도약' 시동]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 28 Jul 2022 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-28 17:32:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저성장 늪' 삼성디스플레이...최권영 "메타버스용 마이크로 디스플레이로 돌파"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280016</link>
-            <guid>https://www.bloter.net/newsView/blt202207280016</guid>
-            <pubDate>Thu, 28 Jul 2022 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-28 16:19:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

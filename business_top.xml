@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['고객경험'이 재구매의 '키'…심리스한 응대 돕는 툴은]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290020</link>
-            <guid>https://www.bloter.net/newsView/blt202207290020</guid>
-            <pubDate>Fri, 29 Jul 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-29 17:28:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290047.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA['피크 아웃' 진입 LG전자, '재고 처리 악몽'...팬데믹 후 재고 4조 늘어]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290023</link>
+            <guid>https://www.bloter.net/newsView/blt202207290023</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-29 18:29:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290054.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롯데렌탈, 트레저데이터 CDP 도입한 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280002</link>
-            <guid>https://www.bloter.net/newsView/blt202207280002</guid>
-            <pubDate>Fri, 29 Jul 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자·LG화학, 고객가치 경영 집중해 "일냈다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080052</link>
+            <guid>https://www.bloter.net/newsView/blt202206080052</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[브랜치, '귀차니스트' 한 명도 놓치지 않는 '딥링킹' 노하우]]></title>
-            <link>https://www.bloter.net/newsView/blt202207220021</link>
-            <guid>https://www.bloter.net/newsView/blt202207220021</guid>
-            <pubDate>Fri, 29 Jul 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자, '올레드 TV' 판가 19% 하락...현금흐름에 부정적 영향 미칠 듯]]></title>
+            <link>https://www.bloter.net/newsView/blt202205240013</link>
+            <guid>https://www.bloter.net/newsView/blt202205240013</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['쿠키리스 시대' 앞두고 CDP 뜨나...고객 데이터 확보 총력전]]></title>
-            <link>https://www.bloter.net/newsView/blt202207120015</link>
-            <guid>https://www.bloter.net/newsView/blt202207120015</guid>
-            <pubDate>Fri, 29 Jul 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MS가 ERP·CRM을 한국 데이터센터에서 서비스하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202205110194</link>
-            <guid>https://www.bloter.net/newsView/blt202205110194</guid>
-            <pubDate>Fri, 29 Jul 2022 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자, MCU 등 차량용 반도체 개발 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050005</link>
+            <guid>https://www.bloter.net/newsView/blt202205050005</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
