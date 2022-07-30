@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 09:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]'진퇴양난' CJ CGV, CJ에 기댄 '유상증자']]></title>
+            <link>https://www.bloter.net/newsView/blt202207300004</link>
+            <guid>https://www.bloter.net/newsView/blt202207300004</guid>
+            <pubDate>Sat, 30 Jul 2022 09:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석 합니다. 공시 요약 오늘 소개할 공시는 CJ CGV가 지난 28일 공시한 '유상증자 또는 주식관련사채 등의 발행결과'입니다. 공시 내용은 지난 8일 최대주주인 CJ에 대해 실시한 1500억원 규모의 제3자 배정 유상증자 납입]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/30/blt202207300006.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]'고객 우선' 외친 발란, 오프라인 매장으로 '재도약' 시동]]></title>
             <link>https://www.bloter.net/newsView/blt202207290005</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 27 Jul 2022 03:51:41 GMT</pubDate>
             <content:encoded><![CDATA[블록체인 게임 플랫폼 '위믹스'(WEMIX)에 주력했던 위메이드가 올 2분기 '적자의 늪'에 빠졌다. 꾸준히 성장했던 매출도 10% 이상 감소하며, 성장세에 제동이 걸린 것 아니냐는 우려의 목소리가 나오고 있다.27일 위메이드는 잠정 실적 공시를 통해 올 2분기 매출 1089억630]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270006.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우영우 인기', 웹툰으로…네이버웹툰 연재 확정]]></title>
-            <link>https://www.bloter.net/newsView/blt202207270003</link>
-            <guid>https://www.bloter.net/newsView/blt202207270003</guid>
-            <pubDate>Wed, 27 Jul 2022 03:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[ENA와 넷플릭스에서 인기리에 방영중인 '이상한 변호사 우영우'(이하 우영우)가 웹툰으로 연재된다.27일 네이버웹툰에 따르면, 오늘 밤 10시에 우영우 웹툰 1화가 공개된 후 매주 목요웹툰으로 연재된다.  우영우 웹툰 제작 소식은 이달 초에 나온 바 있다. 제작사인 에]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
