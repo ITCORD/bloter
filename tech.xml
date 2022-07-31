@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 10:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]韓 개발사 만든 '블루아카이브', 서브컬쳐 본고장 역주행]]></title>
+            <link>https://www.bloter.net/newsView/blt202207310001</link>
+            <guid>https://www.bloter.net/newsView/blt202207310001</guid>
+            <pubDate>Sun, 31 Jul 2022 10:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-31 19:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/31/blt202207310005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]두핸즈 '품고'는 더 빨라지고 싶다]]></title>
             <link>https://www.bloter.net/newsView/blt202207280012</link>
             <guid>https://www.bloter.net/newsView/blt202207280012</guid>
             <pubDate>Sun, 31 Jul 2022 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-31 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280012.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280012.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[그림 그리는 AI ‘DALL·E’, 저작권 문제 없을까?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 29 Jul 2022 01:46:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 08:31:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5G 28㎓, 투자해도 되나요?…SKT·KT·LGU+와 장비사가 망설이는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280032</link>
-            <guid>https://www.bloter.net/newsView/blt202207280032</guid>
-            <pubDate>Thu, 28 Jul 2022 15:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-28 23:50:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280061.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

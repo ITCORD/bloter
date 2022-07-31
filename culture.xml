@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 10:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]韓 개발사 만든 '블루아카이브', 서브컬쳐 본고장 역주행]]></title>
+            <link>https://www.bloter.net/newsView/blt202207310001</link>
+            <guid>https://www.bloter.net/newsView/blt202207310001</guid>
+            <pubDate>Sun, 31 Jul 2022 10:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨게임즈의 서브컬쳐 게임 '블루아카이브'가 일본에서 흥행 역주행 기록을 써내려 가고 있다. MX 스튜디오가 개발한 ‘블루아카이브’는 지난 21일 일본 애플 앱스토어에서 매출 순위 2위를 기록했고 같은 달 26일의 경우 구글 플레이 3위에 올랐다. 해당 순위]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/31/blt202207310005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]'진퇴양난' CJ CGV, CJ에 기댄 '유상증자']]></title>
             <link>https://www.bloter.net/newsView/blt202207300004</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 27 Jul 2022 03:51:41 GMT</pubDate>
             <content:encoded><![CDATA[메타가 운영하는 소셜네트워크서비스(SNS) 인스타그램이 최근 내놓은 홈 피드 개편안이 경쟁사인 틱톡을 따라 한다며 사용자들의 반발을 사고 있는 가운데 아담 모세리 인스타그램 최고경영자(CEO)가 직접 해명에 나섰다.26일(현지시간) 미국경제전문매체 &lt;씨엔비]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]위메이드, '적자 늪' 빠졌다…사업확장·마케팅비 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202207270005</link>
-            <guid>https://www.bloter.net/newsView/blt202207270005</guid>
-            <pubDate>Wed, 27 Jul 2022 03:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 게임 플랫폼 '위믹스'(WEMIX)에 주력했던 위메이드가 올 2분기 '적자의 늪'에 빠졌다. 꾸준히 성장했던 매출도 10% 이상 감소하며, 성장세에 제동이 걸린 것 아니냐는 우려의 목소리가 나오고 있다.27일 위메이드는 잠정 실적 공시를 통해 올 2분기 매출 1089억630]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
