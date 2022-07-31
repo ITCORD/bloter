@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 05:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[현대오일뱅크, 상장 철회에 "평년 수준 배당"...오너가, '역대급 배당' 기회 못살린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207300002</link>
-            <guid>https://www.bloter.net/newsView/blt202207300002</guid>
-            <pubDate>Sun, 31 Jul 2022 03:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-31 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/30/blt202207300001.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[MS, 탄소 줄이는 ‘수소연료전지 가동 데이터센터’ 테스트 성공]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290026</link>
+            <guid>https://www.bloter.net/newsView/blt202207290026</guid>
+            <pubDate>Sun, 31 Jul 2022 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290052.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA['IPO 3수생' 현대오일뱅크 상장 철회...친환경 에너지 전환 제동걸리나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210001</link>
-            <guid>https://www.bloter.net/newsView/blt202207210001</guid>
-            <pubDate>Sun, 31 Jul 2022 03:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘탄소 포집해 재활용’…롯데케미칼, 수소경제 이끈다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206280004</link>
+            <guid>https://www.bloter.net/newsView/blt202206280004</guid>
+            <pubDate>Sun, 31 Jul 2022 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대중공업그룹 '빨라진 승계시계'...정기선 사장 등기임원됐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203220152</link>
-            <guid>https://www.bloter.net/newsView/blt202203220152</guid>
-            <pubDate>Sun, 31 Jul 2022 03:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[수소 사업 속도 내는 한화솔루션...쉘에 수소탱크 공급]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210003</link>
+            <guid>https://www.bloter.net/newsView/blt202206210003</guid>
+            <pubDate>Sun, 31 Jul 2022 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘메탄가스를 수소로’…LG화학, 5만톤 수소공장 짓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202206200004</link>
+            <guid>https://www.bloter.net/newsView/blt202206200004</guid>
+            <pubDate>Sun, 31 Jul 2022 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국산 기술로 ‘대기오염 물질→수소 저장체’ 탈바꿈…미세먼지 감소 ‘일석이조’]]></title>
+            <link>https://www.bloter.net/newsView/blt202203230329</link>
+            <guid>https://www.bloter.net/newsView/blt202203230329</guid>
+            <pubDate>Sun, 31 Jul 2022 06:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
