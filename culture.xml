@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]제조사 '에이치앤비디자인'은 왜 부동산 기업을 인수할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010014</link>
+            <guid>https://www.bloter.net/newsView/blt202208010014</guid>
+            <pubDate>Mon, 01 Aug 2022 09:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석 합니다.  공시 요약 오늘 소개할 공시는 '에이치앤비디자인'이 1일 공시한 '타법인 주식 및 출자증권 양수결정'입니다. 해당 공시는 에이치앤비디자인이 '대한종건'의 주식 100%를 200억원에 인수한다는 내용입니다]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010032.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수출업황 나빠져도…'K콘텐츠'는 살아남을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010013</link>
+            <guid>https://www.bloter.net/newsView/blt202208010013</guid>
+            <pubDate>Mon, 01 Aug 2022 09:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[원재료 가격 상승과 원화환율 불안정 등으로 수출 환경이 악화하는 가운데서도 '문화콘텐츠' 분야는 긍정적인 기대가 나오고 있다. 문화콘텐츠는 인간의 창의성과 지식을 원재료로 사용해 고부가가치를 창출할 수 있는 산업이다.1일 한국수출입은행의 '2022년 2분기]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010030.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, '비공식 브리저튼 뮤지컬' 창작자 고소]]></title>
             <link>https://www.bloter.net/newsView/blt202208010001</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 28 Jul 2022 01:30:35 GMT</pubDate>
             <content:encoded><![CDATA[소셜네트워크서비스(SNS) 페이스북 운영사 메타가 올해 2분기에 사상 최초로 매출 감소를 기록했다. 광고 수익이 줄어들고 틱톡과의 경쟁이 심화되며 매출 성장세가 둔화된 것으로 보인다. 27일(현지시간) 메타는 지난 2분기 실적 발표에서 매출이 전년 동기 대비 1%]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/28/blt202207280001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라이엇 게임즈, '게임=문화' 힘 보탠 영리한 사회공헌]]></title>
-            <link>https://www.bloter.net/newsView/blt202207270032</link>
-            <guid>https://www.bloter.net/newsView/blt202207270032</guid>
-            <pubDate>Wed, 27 Jul 2022 11:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 게임 '리그오브레전드'(LoL) 이용자들에게 '게임을 플레이하는 의미'가 더해졌다. 리그오브레전드를 서비스하는 게임사 라이엇게임즈가 문화재청과 국외소재문화재재단과 협력해 여섯 번째 국외소재 문화재(보록) 환수에 성공하면서다. 2012년 이후 라이엇 게]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270062.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기의 위메이드? '대작 블록체인 게임'이 필요하다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207270020</link>
-            <guid>https://www.bloter.net/newsView/blt202207270020</guid>
-            <pubDate>Wed, 27 Jul 2022 07:17:41 GMT</pubDate>
-            <content:encoded><![CDATA["지난해 게임업계에서 연봉 일괄 인상 바람이 불 때 유일하게 따라가지 않았던 회사가 위메이드입이다. 지금은 반대로 업계 전반적으로 채용 중단 및 인력 감축 흐름을 보이는 데 저희는 이에 역행해서 사람을 더 뽑으려 합니다. (업계 내 인력 감축으로 인해) 이런]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/27/blt202207270033.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
