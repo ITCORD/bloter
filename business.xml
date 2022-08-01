@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데칠성, 확실히 살아난 주류사업…올해도 최대 실적?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010008</link>
+            <guid>https://www.bloter.net/newsView/blt202208010008</guid>
+            <pubDate>Mon, 01 Aug 2022 08:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-01 14:37:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010017.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LG화학, LG엔솔 지분 안 판다는데(feat. 지금이 아닐 뿐)]]></title>
             <link>https://www.bloter.net/newsView/blt202208010005</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 01 Aug 2022 04:05:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-31 18:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/31/blt202207310002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림 그리는 AI ‘DALL·E’, 저작권 문제 없을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290022</link>
-            <guid>https://www.bloter.net/newsView/blt202207290022</guid>
-            <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290051.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
