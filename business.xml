@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕, '지하철 무선 통신망' 구축…완성까지 10년 소요]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010003</link>
+            <guid>https://www.bloter.net/newsView/blt202208010003</guid>
+            <pubDate>Mon, 01 Aug 2022 06:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 10:16:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, '인력 감축' 대신 '업무 효율성 제고 프로그램' 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010002</link>
+            <guid>https://www.bloter.net/newsView/blt202208010002</guid>
+            <pubDate>Mon, 01 Aug 2022 06:34:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 09:43:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, '비공식 브리저튼 뮤지컬' 창작자 고소]]></title>
             <link>https://www.bloter.net/newsView/blt202208010001</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 15:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290052.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대오일뱅크, 상장 철회에 "평년 수준 배당"...오너가, '역대급 배당' 기회 못살린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207300002</link>
-            <guid>https://www.bloter.net/newsView/blt202207300002</guid>
-            <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-31 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/30/blt202207300001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[약세 보이는 가상자산 시장, ‘콜드월렛’이 주목받는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290029</link>
-            <guid>https://www.bloter.net/newsView/blt202207290029</guid>
-            <pubDate>Sun, 31 Jul 2022 09:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-30 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290056.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
