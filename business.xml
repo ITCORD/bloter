@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG화학, LG엔솔 지분 안 판다는데(feat. 지금이 아닐 뿐)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010005</link>
+            <guid>https://www.bloter.net/newsView/blt202208010005</guid>
+            <pubDate>Mon, 01 Aug 2022 07:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-01 10:54:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕, '지하철 무선 통신망' 구축…완성까지 10년 소요]]></title>
             <link>https://www.bloter.net/newsView/blt202208010003</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290051.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 탄소 줄이는 ‘수소연료전지 가동 데이터센터’ 테스트 성공]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290026</link>
-            <guid>https://www.bloter.net/newsView/blt202207290026</guid>
-            <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290052.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
