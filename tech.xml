@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 11:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 12:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]'소년심판'도 시즌2 제작…넷플릭스, 韓 오리지널 집중도 높인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010017</link>
+            <guid>https://www.bloter.net/newsView/blt202208010017</guid>
+            <pubDate>Mon, 01 Aug 2022 12:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-01 20:06:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010048.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]모바일 밖으로 나온 29CM, '이구갤러리' 찾는 MZ세대]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010016</link>
+            <guid>https://www.bloter.net/newsView/blt202208010016</guid>
+            <pubDate>Mon, 01 Aug 2022 12:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-01 19:34:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010046.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]제조사 '에이치앤비디자인'은 왜 부동산 기업을 인수할까]]></title>
             <link>https://www.bloter.net/newsView/blt202208010014</link>
             <guid>https://www.bloter.net/newsView/blt202208010014</guid>
             <pubDate>Mon, 01 Aug 2022 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-01 18:19:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010032.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[韓 첫 달 탐사선]②다누리 발사로 우리나라가 얻는 것들]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 29 Jul 2022 14:15:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-07-29 23:02:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290060.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]웹툰·메타버스·미래차 뜨는데 왜 ‘플리토’ 뜰까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290016</link>
-            <guid>https://www.bloter.net/newsView/blt202207290016</guid>
-            <pubDate>Fri, 29 Jul 2022 11:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-29 20:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계아이앤씨, 라이브쇼핑 지분 매각 완료…838억원 현금 어디에 쓰나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290028</link>
-            <guid>https://www.bloter.net/newsView/blt202207290028</guid>
-            <pubDate>Fri, 29 Jul 2022 10:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-29 18:31:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290059.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
