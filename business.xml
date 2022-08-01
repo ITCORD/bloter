@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예상된 반발 마주한 티맵, 선택지가 없었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010007</link>
+            <guid>https://www.bloter.net/newsView/blt202208010007</guid>
+            <pubDate>Mon, 01 Aug 2022 10:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-01 15:13:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010016.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[롯데칠성, 확실히 살아난 주류사업…올해도 최대 실적?]]></title>
             <link>https://www.bloter.net/newsView/blt202208010008</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 01 Aug 2022 05:52:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 08:33:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['준비는 끝났다'...한국타이어, 미래 성장은 전기차로]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290011</link>
-            <guid>https://www.bloter.net/newsView/blt202207290011</guid>
-            <pubDate>Mon, 01 Aug 2022 04:05:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-31 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/31/blt202207310002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
