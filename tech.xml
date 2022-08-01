@@ -4,16 +4,48 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 01:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한문철TV를 진짜 TV로 본다...유튜브 품는 KT스카이라이프]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010004</link>
+            <guid>https://www.bloter.net/newsView/blt202208010004</guid>
+            <pubDate>Mon, 01 Aug 2022 01:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-01 10:38:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010004.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕, '지하철 무선 통신망' 구축…완성까지 10년 소요]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010003</link>
+            <guid>https://www.bloter.net/newsView/blt202208010003</guid>
+            <pubDate>Mon, 01 Aug 2022 01:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 10:16:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010003.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, '인력 감축' 대신 '업무 효율성 제고 프로그램' 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010002</link>
+            <guid>https://www.bloter.net/newsView/blt202208010002</guid>
+            <pubDate>Mon, 01 Aug 2022 01:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 09:43:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, '비공식 브리저튼 뮤지컬' 창작자 고소]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010001</link>
+            <guid>https://www.bloter.net/newsView/blt202208010001</guid>
+            <pubDate>Mon, 01 Aug 2022 01:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 08:33:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[韓 첫 달 탐사선]①지난한 개발 견딘 다누리, 드디어 ‘우주로’…참여 기업 역할은?]]></title>
             <link>https://www.bloter.net/newsView/blt202207310003</link>
             <guid>https://www.bloter.net/newsView/blt202207310003</guid>
             <pubDate>Sun, 31 Jul 2022 21:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-01 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/31/blt202207310008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/31/blt202207310008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창정 5B 잔해 필리핀 바다에 추락했지만…中 ‘뒤 없는’ 우주 굴기]]></title>
@@ -118,38 +150,6 @@
             <pubDate>Fri, 29 Jul 2022 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-29 17:04:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290030.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]SKT가 'ARPU 감소' 유발할 5G 중간요금제에 대응하는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290012</link>
-            <guid>https://www.bloter.net/newsView/blt202207290012</guid>
-            <pubDate>Fri, 29 Jul 2022 08:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-07-29 16:48:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마켓리뷰]데브시스터즈, 우울한 2분기?…디즈니 콜라보 빨랐다면]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290009</link>
-            <guid>https://www.bloter.net/newsView/blt202207290009</guid>
-            <pubDate>Fri, 29 Jul 2022 06:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-07-29 15:04:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박원기 네이버클라우드 대표, 내년부터 '아태 사업' 주력한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290008</link>
-            <guid>https://www.bloter.net/newsView/blt202207290008</guid>
-            <pubDate>Fri, 29 Jul 2022 03:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-07-29 12:30:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, '틱톡 표절' 제기된 '홈 피드 개편안' 철회]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290003</link>
-            <guid>https://www.bloter.net/newsView/blt202207290003</guid>
-            <pubDate>Fri, 29 Jul 2022 01:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-29 10:13:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 01:51:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그림 그리는 AI ‘DALL·E’, 저작권 문제 없을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290022</link>
+            <guid>https://www.bloter.net/newsView/blt202207290022</guid>
+            <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290051.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 탄소 줄이는 ‘수소연료전지 가동 데이터센터’ 테스트 성공]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290026</link>
+            <guid>https://www.bloter.net/newsView/blt202207290026</guid>
+            <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-31 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290052.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대오일뱅크, 상장 철회에 "평년 수준 배당"...오너가, '역대급 배당' 기회 못살린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207300002</link>
+            <guid>https://www.bloter.net/newsView/blt202207300002</guid>
+            <pubDate>Mon, 01 Aug 2022 01:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-31 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/30/blt202207300001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[약세 보이는 가상자산 시장, ‘콜드월렛’이 주목받는다]]></title>
             <link>https://www.bloter.net/newsView/blt202207290029</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 31 Jul 2022 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-07-29 23:24:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290053.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[웹툰·메타버스·미래차 뜨는데 왜 ‘플리토’ 뜰까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290016</link>
-            <guid>https://www.bloter.net/newsView/blt202207290016</guid>
-            <pubDate>Sun, 31 Jul 2022 03:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-07-29 20:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피크 아웃' 진입 LG전자, '재고 처리 악몽'...팬데믹 후 재고 4조 늘어]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290023</link>
-            <guid>https://www.bloter.net/newsView/blt202207290023</guid>
-            <pubDate>Sat, 30 Jul 2022 03:47:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-07-29 18:29:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290054.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['고객경험'이 재구매의 '키'…심리스한 응대 돕는 툴은]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290020</link>
-            <guid>https://www.bloter.net/newsView/blt202207290020</guid>
-            <pubDate>Fri, 29 Jul 2022 22:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-07-29 17:28:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290047.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
