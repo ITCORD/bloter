@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:55:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, '비공식 브리저튼 뮤지컬' 창작자 고소]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010001</link>
+            <guid>https://www.bloter.net/newsView/blt202208010001</guid>
+            <pubDate>Mon, 01 Aug 2022 05:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 08:33:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['준비는 끝났다'...한국타이어, 미래 성장은 전기차로]]></title>
             <link>https://www.bloter.net/newsView/blt202207290011</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 31 Jul 2022 09:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-07-30 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290056.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘박철완 세 누나’, 금호석유화학 주식 증여세 빼니 '빈손'… 새로운 분쟁 불씨?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290019</link>
-            <guid>https://www.bloter.net/newsView/blt202207290019</guid>
-            <pubDate>Sun, 31 Jul 2022 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-07-30 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290037.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
