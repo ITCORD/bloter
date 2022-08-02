@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 08:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데케미칼, CCU 활용 질소 생산기술 개발한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020007</link>
+            <guid>https://www.bloter.net/newsView/blt202208020007</guid>
+            <pubDate>Tue, 02 Aug 2022 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-02 10:02:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비자, 아동 성착취물 수익화 일조 혐의로 재판받는다]]></title>
             <link>https://www.bloter.net/newsView/blt202208020003</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 02 Aug 2022 01:59:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-01 16:17:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독자 결제망 구축하는 우리카드, 내친김에 BC카드 지분도 팔까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010009</link>
-            <guid>https://www.bloter.net/newsView/blt202208010009</guid>
-            <pubDate>Mon, 01 Aug 2022 23:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-01 15:19:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
