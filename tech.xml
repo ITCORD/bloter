@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 에이전시 BAT, 제일기획 출신 이문교 CCO 영입]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020016</link>
+            <guid>https://www.bloter.net/newsView/blt202208020016</guid>
+            <pubDate>Tue, 02 Aug 2022 08:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-02 17:03:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020038.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공시분석]배당 올리는 LG유플러스, 기대 반 우려 반]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020015</link>
+            <guid>https://www.bloter.net/newsView/blt202208020015</guid>
+            <pubDate>Tue, 02 Aug 2022 08:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-02 16:27:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020029.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘압도적 1위’ 노리는 삼바, 160조 시장 정조준…mRNA 원료 생산 성공]]></title>
             <link>https://www.bloter.net/newsView/blt202208020014</link>
             <guid>https://www.bloter.net/newsView/blt202208020014</guid>
             <pubDate>Tue, 02 Aug 2022 07:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-02 15:43:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['채용 불황' 마주한 원티드랩, 주요 지표 성장세 둔화]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 01 Aug 2022 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-01 18:19:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[韓 첫 달 탐사선]②다누리 발사로 우리나라가 얻는 것들]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010015</link>
-            <guid>https://www.bloter.net/newsView/blt202208010015</guid>
-            <pubDate>Mon, 01 Aug 2022 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-01 18:16:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암 유발 휴대용 선풍기? 과기정통부 "안전하다"...국제 기준 강조]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010012</link>
-            <guid>https://www.bloter.net/newsView/blt202208010012</guid>
-            <pubDate>Mon, 01 Aug 2022 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-01 17:48:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

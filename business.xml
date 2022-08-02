@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비자, 아동 성착취물 수익화 일조 혐의로 재판받는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020003</link>
+            <guid>https://www.bloter.net/newsView/blt202208020003</guid>
+            <pubDate>Tue, 02 Aug 2022 08:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-02 09:06:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020009.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 주주, 머스크 소송 제기…”인수 계약 이행해야”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020002</link>
+            <guid>https://www.bloter.net/newsView/blt202208020002</guid>
+            <pubDate>Tue, 02 Aug 2022 08:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-02 08:15:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020007.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수출업황 나빠져도…'K콘텐츠'는 살아남을까]]></title>
             <link>https://www.bloter.net/newsView/blt202208010013</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 01 Aug 2022 23:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-01 15:19:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예상된 반발 마주한 티맵, 선택지가 없었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010007</link>
-            <guid>https://www.bloter.net/newsView/blt202208010007</guid>
-            <pubDate>Mon, 01 Aug 2022 10:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-01 15:13:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010016.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데칠성, 확실히 살아난 주류사업…올해도 최대 실적?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010008</link>
-            <guid>https://www.bloter.net/newsView/blt202208010008</guid>
-            <pubDate>Mon, 01 Aug 2022 08:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-01 14:37:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010017.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

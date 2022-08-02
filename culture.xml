@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 에이전시 BAT, 제일기획 출신 이문교 CCO 영입]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020016</link>
+            <guid>https://www.bloter.net/newsView/blt202208020016</guid>
+            <pubDate>Tue, 02 Aug 2022 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 종합 브랜드 에이전시를 표방하는 '아키타입컴퍼니'(BAT)가 광고영상 전문가를 영입해 사업영역을 확장한다. BAT는 그로스 마케팅 분야에 이어 영상 캠페인 영역까지 사업영역을 확대할 계획이다. 2일 BAT는 "이문교 전 제일기획 상무를 크리에이티브 총괄 및]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020038.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오엔터, 웹소설 불법유통 사이트 '북토끼' 고소]]></title>
             <link>https://www.bloter.net/newsView/blt202208020011</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 29 Jul 2022 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[지난 28일 오후 서울 여의도 IFC몰에서 발란의 '커넥티드 스토어' 1호점이 베일을 벗었다. 가장 먼저 눈길을 사로잡은 것은 노출 천장 및 콘크리트와 메탈 소재, 그래픽 등의 인테리어였다. 큼지막하고 간결한 로고로 알려진 발란의 애플리케이션(앱) 화면이나 명품 매]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마켓리뷰]데브시스터즈, 우울한 2분기?…디즈니 콜라보 빨랐다면]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290009</link>
-            <guid>https://www.bloter.net/newsView/blt202207290009</guid>
-            <pubDate>Fri, 29 Jul 2022 06:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 전망을 통해 실적을 예측해보는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다. '쿠키런: 킹덤'의 매출 하향 안정화 기조가 계속되며 데브시스터즈의 성장 동력도 약해진 모습이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
