@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 02:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수출업황 나빠져도…'K콘텐츠'는 살아남을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010013</link>
+            <guid>https://www.bloter.net/newsView/blt202208010013</guid>
+            <pubDate>Tue, 02 Aug 2022 01:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-01 18:06:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DL 품에 안긴 크레이튼, 첫 실적은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010011</link>
+            <guid>https://www.bloter.net/newsView/blt202208010011</guid>
+            <pubDate>Tue, 02 Aug 2022 01:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-01 17:17:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덜 주는 지역화폐, 고객 다 떠날라…부산은행·하나카드 '동백전' 살리기]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010010</link>
+            <guid>https://www.bloter.net/newsView/blt202208010010</guid>
+            <pubDate>Tue, 02 Aug 2022 01:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-01 16:17:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독자 결제망 구축하는 우리카드, 내친김에 BC카드 지분도 팔까?]]></title>
             <link>https://www.bloter.net/newsView/blt202208010009</link>
@@ -30,30 +54,6 @@
             <pubDate>Mon, 01 Aug 2022 08:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-01 14:37:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010017.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG화학, LG엔솔 지분 안 판다는데(feat. 지금이 아닐 뿐)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010005</link>
-            <guid>https://www.bloter.net/newsView/blt202208010005</guid>
-            <pubDate>Mon, 01 Aug 2022 07:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-01 10:54:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕, '지하철 무선 통신망' 구축…완성까지 10년 소요]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010003</link>
-            <guid>https://www.bloter.net/newsView/blt202208010003</guid>
-            <pubDate>Mon, 01 Aug 2022 06:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 10:16:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, '인력 감축' 대신 '업무 효율성 제고 프로그램' 가동]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010002</link>
-            <guid>https://www.bloter.net/newsView/blt202208010002</guid>
-            <pubDate>Mon, 01 Aug 2022 06:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-01 09:43:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
