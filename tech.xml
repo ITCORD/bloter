@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 09:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 10:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 위성, 美 허가 있어야 발사?…정상회담 후속 조치로 탈피되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020020</link>
+            <guid>https://www.bloter.net/newsView/blt202208020020</guid>
+            <pubDate>Tue, 02 Aug 2022 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-02 18:23:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브랜드 에이전시 BAT, 제일기획 출신 이문교 CCO 영입]]></title>
             <link>https://www.bloter.net/newsView/blt202208020016</link>
             <guid>https://www.bloter.net/newsView/blt202208020016</guid>
             <pubDate>Tue, 02 Aug 2022 08:21:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-02 17:03:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020038.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]배당 올리는 LG유플러스, 기대 반 우려 반]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 01 Aug 2022 12:34:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-01 19:34:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010046.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]제조사 '에이치앤비디자인'은 왜 부동산 기업을 인수할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010014</link>
-            <guid>https://www.bloter.net/newsView/blt202208010014</guid>
-            <pubDate>Mon, 01 Aug 2022 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-01 18:19:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/01/blt202208010032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
