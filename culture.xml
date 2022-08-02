@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 02:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오엔터, 웹소설 불법유통 사이트 '북토끼' 고소]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020011</link>
+            <guid>https://www.bloter.net/newsView/blt202208020011</guid>
+            <pubDate>Tue, 02 Aug 2022 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[카카오엔터테인먼트(이하 카카오엔터)가 국내 최대 웹소설 불법유통 웹사이트 '북토끼' 운영자들을 형사 고소했다. 지난해 손배소에서 승소한 카카오엔터는 북토끼 등 국내외에 만연한 불법유통을 뿌리 뽑겠다는 계획이다.2일 카카오엔터에 따르면 지난달 29일 카]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]'찐 젠지세대'는 다르다, 어떻게?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020001</link>
+            <guid>https://www.bloter.net/newsView/blt202208020001</guid>
+            <pubDate>Tue, 02 Aug 2022 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대가 마케팅 용어로써 자리잡았지만, 1980년대 초반부터 1990년대 중반까지를 일컫는 '밀레니얼세대'와 10대부터 20대 중반까지를 일컫는 '젠지(Z)세대'는 달랐다. 콘텐츠를 즐기고 일상을 공유하는 데 거리낌이 없는 Z세대는 광고에도 거부감이 적었으며, 이들을 공]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터 주주, 머스크 소송 제기…”인수 계약 이행해야”]]></title>
             <link>https://www.bloter.net/newsView/blt202208020002</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 29 Jul 2022 06:23:45 GMT</pubDate>
             <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 전망을 통해 실적을 예측해보는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다. '쿠키런: 킹덤'의 매출 하향 안정화 기조가 계속되며 데브시스터즈의 성장 동력도 약해진 모습이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290016.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, '틱톡 표절' 제기된 '홈 피드 개편안' 철회]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290003</link>
-            <guid>https://www.bloter.net/newsView/blt202207290003</guid>
-            <pubDate>Fri, 29 Jul 2022 01:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램이 최근 사용자들로부터 거센 비난을 받은 홈 피드 개편안을 철회한다고 발표했다. 28일(현지시간) 아담 모세리 인스타그램 최고경영자(CEO)는 IT 뉴스레터 &lt;플랫포머&gt;와의 인터뷰에서 현재 시범 운영 중인 인스타그램 전체 화면 홈 피드 개편을 몇 주]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤 또 퇴출?…구글·애플서 삭제된 '배그 모바일 인도']]></title>
-            <link>https://www.bloter.net/newsView/blt202207290002</link>
-            <guid>https://www.bloter.net/newsView/blt202207290002</guid>
-            <pubDate>Fri, 29 Jul 2022 01:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[크래프톤이 인도 지역에서 출시한 모바일 게임 '배틀그라운드 모바일 인도'(BGMI)가 인도 구글 플레이와 애플 앱스토어에서 삭제(차단)된 것으로 확인됐다. 2020년 '배틀그라운드 모바일'이 퇴출당한지 약 2년 만이다. 28일(현지시간) IT 전문매체 &lt;테크크런치&gt;는 구]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/07/29/blt202207290003.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
