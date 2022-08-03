@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 01:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 03:56:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['현대카드' 데이터 가져온 '쏘카', 증권신고서와 확 달라진 점유율]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030005</link>
+            <guid>https://www.bloter.net/newsView/blt202208030005</guid>
+            <pubDate>Wed, 03 Aug 2022 03:54:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-03 12:41:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 브릿지 ‘노매드’에서 2억달러 해킹]]></title>
             <link>https://www.bloter.net/newsView/blt202208030002</link>
             <guid>https://www.bloter.net/newsView/blt202208030002</guid>
             <pubDate>Wed, 03 Aug 2022 01:43:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-03 09:09:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틱톡 쫓는 인스타그램…인플루언서 마케팅에서는 업계 1위]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 02 Aug 2022 02:02:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-02 09:06:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 주주, 머스크 소송 제기…”인수 계약 이행해야”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020002</link>
-            <guid>https://www.bloter.net/newsView/blt202208020002</guid>
-            <pubDate>Mon, 01 Aug 2022 23:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-02 08:15:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020007.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
