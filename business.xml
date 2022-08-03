@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 11:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 12:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 온라인 증권사 로빈후드, 인력 23% 감축한다…올해 들어 두 번째]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030003</link>
+            <guid>https://www.bloter.net/newsView/blt202208030003</guid>
+            <pubDate>Wed, 03 Aug 2022 12:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-03 09:38:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 브릿지 ‘노매드’에서 2억달러 해킹]]></title>
             <link>https://www.bloter.net/newsView/blt202208030002</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 03 Aug 2022 01:43:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-02 17:05:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020037.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['네카라쿠배당토'는 신입 안 뽑는다? 그렇지 않은 '토스']]></title>
-            <link>https://www.bloter.net/newsView/blt202208020017</link>
-            <guid>https://www.bloter.net/newsView/blt202208020017</guid>
-            <pubDate>Wed, 03 Aug 2022 01:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-02 17:02:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020034.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
