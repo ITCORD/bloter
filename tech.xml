@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 10:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 11:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브 '직·간접 매출' 아우른 '위버스'…새 주자는 'CD없는 앨범 앱']]></title>
+            <link>https://www.bloter.net/newsView/blt202208030016</link>
+            <guid>https://www.bloter.net/newsView/blt202208030016</guid>
+            <pubDate>Wed, 03 Aug 2022 11:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-03 20:06:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FSN·무브인터렉티브 맞손…'오리지널 스톰트루퍼' NFT 만든다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030013</link>
+            <guid>https://www.bloter.net/newsView/blt202208030013</guid>
+            <pubDate>Wed, 03 Aug 2022 11:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-03 19:26:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030024.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["5G 다음은 5G 어드밴스드"…6G? 첫발도 못 뗐다]]></title>
             <link>https://www.bloter.net/newsView/blt202208030018</link>
             <guid>https://www.bloter.net/newsView/blt202208030018</guid>
             <pubDate>Wed, 03 Aug 2022 10:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-03 18:56:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]전지현 이적이 CJ ENM에 미치는 영향은(feat. 문화창고)]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 02 Aug 2022 08:21:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-02 16:27:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020029.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘압도적 1위’ 노리는 삼바, 160조 시장 정조준…mRNA 원료 생산 성공]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020014</link>
-            <guid>https://www.bloter.net/newsView/blt202208020014</guid>
-            <pubDate>Tue, 02 Aug 2022 07:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-02 15:43:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['채용 불황' 마주한 원티드랩, 주요 지표 성장세 둔화]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020013</link>
-            <guid>https://www.bloter.net/newsView/blt202208020013</guid>
-            <pubDate>Tue, 02 Aug 2022 05:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-02 14:21:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020023.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
