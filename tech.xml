@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시리즈A 투자 유치한 마크비전, 종합 IP 플랫폼 만든다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030010</link>
+            <guid>https://www.bloter.net/newsView/blt202208030010</guid>
+            <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-03 16:12:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030017.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[IT비즈썰]쏘카 이익 구조, '렌터카'와 정말 다를까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030011</link>
+            <guid>https://www.bloter.net/newsView/blt202208030011</guid>
+            <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-03 16:00:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030019.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오미크론 BA4·BA5도 잡아내는 SG메디칼 신속진단키트]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030008</link>
+            <guid>https://www.bloter.net/newsView/blt202208030008</guid>
+            <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-03 15:38:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030012.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에스디바이오센서, 2분기 영업이익 줄어든 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208030007</link>
             <guid>https://www.bloter.net/newsView/blt202208030007</guid>
             <pubDate>Wed, 03 Aug 2022 06:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-03 14:28:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030011.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030011.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3년 만에 활짝 핀 ‘바이오플러스-인터펙스 코리아’… 규제 완화로 화답한 산업부]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Tue, 02 Aug 2022 02:02:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-02 10:57:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 재확산 바라보는 제넨셀, 인도까지 글로벌 임상 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020008</link>
-            <guid>https://www.bloter.net/newsView/blt202208020008</guid>
-            <pubDate>Tue, 02 Aug 2022 02:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-02 10:16:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 친구 관계 분석해보니..."고소득자와 어울릴 때 평균 수입 증가"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020006</link>
-            <guid>https://www.bloter.net/newsView/blt202208020006</guid>
-            <pubDate>Tue, 02 Aug 2022 02:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-02 10:12:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에이치디정션 ‘트루닥’, 병원정보시스템 글로벌 수준 보안 확립]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020004</link>
-            <guid>https://www.bloter.net/newsView/blt202208020004</guid>
-            <pubDate>Tue, 02 Aug 2022 02:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-02 09:53:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

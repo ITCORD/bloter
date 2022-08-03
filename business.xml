@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 브릿지 ‘노매드’에서 2억달러 해킹]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030002</link>
+            <guid>https://www.bloter.net/newsView/blt202208030002</guid>
+            <pubDate>Wed, 03 Aug 2022 07:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-03 09:09:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[틱톡 쫓는 인스타그램…인플루언서 마케팅에서는 업계 1위]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030001</link>
+            <guid>https://www.bloter.net/newsView/blt202208030001</guid>
+            <pubDate>Wed, 03 Aug 2022 07:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-03 08:19:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가계대출 위축 직면한 카카오페이 "대출상품 '양' 늘려 극복하겠다"]]></title>
             <link>https://www.bloter.net/newsView/blt202208020021</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 03 Aug 2022 01:43:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-02 17:02:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020034.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페이스북 친구 관계 분석해보니..."고소득자와 어울릴 때 평균 수입 증가"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020006</link>
-            <guid>https://www.bloter.net/newsView/blt202208020006</guid>
-            <pubDate>Tue, 02 Aug 2022 10:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-02 10:12:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020014.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데케미칼, CCU 활용 질소 생산기술 개발한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020007</link>
-            <guid>https://www.bloter.net/newsView/blt202208020007</guid>
-            <pubDate>Tue, 02 Aug 2022 09:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-02 10:02:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020015.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
