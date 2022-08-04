@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'뉴진스' 소통 앱 '포닝', 위버스 생태계 벗어난 까닭은]]></title>
+            <link>https://www.bloter.net/newsView/blt202208040020</link>
+            <guid>https://www.bloter.net/newsView/blt202208040020</guid>
+            <pubDate>Thu, 04 Aug 2022 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-04 18:16:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040034.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마켓리뷰]카카오게임즈, 만족스러운 2Q…1등 공신은 따로 있다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208040017</link>
+            <guid>https://www.bloter.net/newsView/blt202208040017</guid>
+            <pubDate>Thu, 04 Aug 2022 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-04 17:43:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040027.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[韓 첫 달 탐사선]③다누리, 궤도선 한계 ‘분명’…착륙선 개발로 극복]]></title>
             <link>https://www.bloter.net/newsView/blt202208040016</link>
             <guid>https://www.bloter.net/newsView/blt202208040016</guid>
             <pubDate>Thu, 04 Aug 2022 08:28:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-04 17:02:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040021.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040021.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SKT, 하늘길 향한 첫걸음...UAM용 '5G 상공망' 구축 개시]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-03 16:12:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT비즈썰]쏘카 이익 구조, '렌터카'와 정말 다를까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030011</link>
-            <guid>https://www.bloter.net/newsView/blt202208030011</guid>
-            <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-03 16:00:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030019.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오미크론 BA4·BA5도 잡아내는 SG메디칼 신속진단키트]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030008</link>
-            <guid>https://www.bloter.net/newsView/blt202208030008</guid>
-            <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-03 15:38:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030012.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
