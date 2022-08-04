@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 22:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 23:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CJ온스타일, 부진한 성적표…'취급고' 문제풀이 주력할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208040023</link>
+            <guid>https://www.bloter.net/newsView/blt202208040023</guid>
+            <pubDate>Thu, 04 Aug 2022 23:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-05 08:13:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040039.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'뉴진스' 소통 앱 '포닝', 위버스 생태계 벗어난 까닭은]]></title>
             <link>https://www.bloter.net/newsView/blt202208040020</link>
             <guid>https://www.bloter.net/newsView/blt202208040020</guid>
             <pubDate>Thu, 04 Aug 2022 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-04 18:16:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마켓리뷰]카카오게임즈, 만족스러운 2Q…1등 공신은 따로 있다?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 03 Aug 2022 08:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-03 16:43:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030022.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시리즈A 투자 유치한 마크비전, 종합 IP 플랫폼 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030010</link>
-            <guid>https://www.bloter.net/newsView/blt202208030010</guid>
-            <pubDate>Wed, 03 Aug 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-03 16:12:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030017.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
