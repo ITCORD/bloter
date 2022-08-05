@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 직장 내 부정행위 '나 몰라라'…해고 통보까지]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050006</link>
+            <guid>https://www.bloter.net/newsView/blt202208050006</guid>
+            <pubDate>Fri, 05 Aug 2022 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 10:37:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 아마존 창고 직원들이 파업 나선 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050005</link>
+            <guid>https://www.bloter.net/newsView/blt202208050005</guid>
+            <pubDate>Fri, 05 Aug 2022 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 09:36:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, NFT 기능 100개국으로 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202208050001</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 05 Aug 2022 01:40:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-04 15:12:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금리 인상기에 아담대·전세대출 금리 낮춘 케이뱅크, 왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040009</link>
-            <guid>https://www.bloter.net/newsView/blt202208040009</guid>
-            <pubDate>Fri, 05 Aug 2022 01:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-04 14:44:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이오 영토 넓히는 CJ제일제당, 호텔 아코르 용품 PHA로 대체 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040004</link>
-            <guid>https://www.bloter.net/newsView/blt202208040004</guid>
-            <pubDate>Thu, 04 Aug 2022 09:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-04 10:07:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
