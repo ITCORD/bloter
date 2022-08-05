@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 21:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 22:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[폰SIGHT]전자파 인체 유해성 논란…휴대폰은 괜찮냐고요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208040019</link>
+            <guid>https://www.bloter.net/newsView/blt202208040019</guid>
+            <pubDate>Fri, 05 Aug 2022 22:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-06 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040032.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인크로스, '티딜' 2배 성장 불구 활짝 웃지 못한 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208050013</link>
             <guid>https://www.bloter.net/newsView/blt202208050013</guid>
             <pubDate>Fri, 05 Aug 2022 10:18:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-05 18:28:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050048.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050048.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘발사 성공’ 다누리, 韓 우주 원년 열리나…변수는 ‘BLT’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 04 Aug 2022 05:31:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-04 13:54:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가라앉는 K바이오에 '구원투수' 등장…복지부, 5000억원 펀드 운용]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040007</link>
-            <guid>https://www.bloter.net/newsView/blt202208040007</guid>
-            <pubDate>Thu, 04 Aug 2022 04:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-04 13:21:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
