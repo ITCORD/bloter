@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경쟁사 '역성장' 예상한 네이버 커머스, GMV 10조원 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050007</link>
+            <guid>https://www.bloter.net/newsView/blt202208050007</guid>
+            <pubDate>Fri, 05 Aug 2022 03:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-05 11:02:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050008.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 직장 내 부정행위 '나 몰라라'…해고 통보까지]]></title>
             <link>https://www.bloter.net/newsView/blt202208050006</link>
             <guid>https://www.bloter.net/newsView/blt202208050006</guid>
             <pubDate>Fri, 05 Aug 2022 01:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 10:37:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4.5개월 항해 시작한 다누리, 문제없이 ‘우주로’…첫 교신도 성공]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 03 Aug 2022 11:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-03 20:06:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FSN·무브인터렉티브 맞손…'오리지널 스톰트루퍼' NFT 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030013</link>
-            <guid>https://www.bloter.net/newsView/blt202208030013</guid>
-            <pubDate>Wed, 03 Aug 2022 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-03 19:26:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

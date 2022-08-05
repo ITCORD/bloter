@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[애플, 직장 내 부정행위 '나 몰라라'…해고 통보까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050006</link>
-            <guid>https://www.bloter.net/newsView/blt202208050006</guid>
-            <pubDate>Fri, 05 Aug 2022 01:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 10:37:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050007.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[경쟁사 '역성장' 예상한 네이버 커머스, GMV 10조원 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050007</link>
+            <guid>https://www.bloter.net/newsView/blt202208050007</guid>
+            <pubDate>Fri, 05 Aug 2022 03:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-05 11:02:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050008.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[네이버, 이번엔 해피빈서 ‘직장 내 괴롭힘’ 진실공방]]></title>
-            <link>https://www.bloter.net/newsView/blt202109030097</link>
-            <guid>https://www.bloter.net/newsView/blt202109030097</guid>
-            <pubDate>Fri, 05 Aug 2022 01:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[박원기 네이버클라우드 대표, 내년부터 '아태 사업' 주력한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290008</link>
+            <guid>https://www.bloter.net/newsView/blt202207290008</guid>
+            <pubDate>Fri, 05 Aug 2022 03:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“직장 괴롭힘·차별 심각...더는 못 참아” 애플 직원들, 미투운동 나서]]></title>
-            <link>https://www.bloter.net/newsView/blt202108240002</link>
-            <guid>https://www.bloter.net/newsView/blt202108240002</guid>
-            <pubDate>Fri, 05 Aug 2022 01:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[네이버 계열사 직원 '10% 연봉 인상' 과한 요구일까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207270014</link>
+            <guid>https://www.bloter.net/newsView/blt202207270014</guid>
+            <pubDate>Fri, 05 Aug 2022 03:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘직장 괴롭힘’ 만연한 네이버 “책임은 통감...방조는 없었다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202107280011</link>
-            <guid>https://www.bloter.net/newsView/blt202107280011</guid>
-            <pubDate>Fri, 05 Aug 2022 01:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 주52시간 위반...‘직장 내 괴롭힘’은 근로감독서 빠져]]></title>
-            <link>https://www.bloter.net/newsView/blt202106010010</link>
-            <guid>https://www.bloter.net/newsView/blt202106010010</guid>
-            <pubDate>Fri, 05 Aug 2022 01:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[네이버와 계열사의 초봉은 왜 이렇게 차이가 큰가요?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180022</link>
+            <guid>https://www.bloter.net/newsView/blt202207180022</guid>
+            <pubDate>Fri, 05 Aug 2022 03:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
