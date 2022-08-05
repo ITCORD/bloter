@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IT비즈썰]지표로 본 네이버 웹툰 사업, '의도된 적자'일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050011</link>
+            <guid>https://www.bloter.net/newsView/blt202208050011</guid>
+            <pubDate>Fri, 05 Aug 2022 05:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-05 13:13:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050015.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[경쟁사 '역성장' 예상한 네이버 커머스, GMV 10조원 돌파]]></title>
             <link>https://www.bloter.net/newsView/blt202208050007</link>
             <guid>https://www.bloter.net/newsView/blt202208050007</guid>
             <pubDate>Fri, 05 Aug 2022 03:44:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-05 11:02:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050008.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050008.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 직장 내 부정행위 '나 몰라라'…해고 통보까지]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 04 Aug 2022 01:40:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-04 08:42:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040005.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 '직·간접 매출' 아우른 '위버스'…새 주자는 'CD없는 앨범 앱']]></title>
-            <link>https://www.bloter.net/newsView/blt202208030016</link>
-            <guid>https://www.bloter.net/newsView/blt202208030016</guid>
-            <pubDate>Wed, 03 Aug 2022 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-03 20:06:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
