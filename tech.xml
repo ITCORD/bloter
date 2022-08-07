@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 05:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 06:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장기화되는 '우크라이나 전쟁'…러시아군, '전자전' 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050021</link>
+            <guid>https://www.bloter.net/newsView/blt202208050021</guid>
+            <pubDate>Sun, 07 Aug 2022 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-07 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050044.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['순조 출발' 다누리, 첫 궤적 수정 기동도 "문제없어"]]></title>
+            <link>https://www.bloter.net/newsView/blt202208070001</link>
+            <guid>https://www.bloter.net/newsView/blt202208070001</guid>
+            <pubDate>Sun, 07 Aug 2022 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-07 14:22:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이오 또 빨간 불 켜졌어요…‘식약처 인력 감축’의 나비효과]]></title>
             <link>https://www.bloter.net/newsView/blt202208050024</link>
             <guid>https://www.bloter.net/newsView/blt202208050024</guid>
             <pubDate>Sun, 07 Aug 2022 05:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-07 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050053.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050053.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]킥보드 업체 디어는 왜 '미들마일'에 관심 가질까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 05 Aug 2022 01:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 08:39:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ온스타일, 부진한 성적표…'취급고' 문제풀이 주력할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040023</link>
-            <guid>https://www.bloter.net/newsView/blt202208040023</guid>
-            <pubDate>Thu, 04 Aug 2022 23:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-05 08:13:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040039.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'뉴진스' 소통 앱 '포닝', 위버스 생태계 벗어난 까닭은]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040020</link>
-            <guid>https://www.bloter.net/newsView/blt202208040020</guid>
-            <pubDate>Thu, 04 Aug 2022 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-04 18:16:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
