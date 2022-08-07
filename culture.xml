@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 04:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 05:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비공식 브리저튼 뮤지컬' 소송, 팬 창작물에 미칠 영향은]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050018</link>
+            <guid>https://www.bloter.net/newsView/blt202208050018</guid>
+            <pubDate>Sun, 07 Aug 2022 05:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스와 '비공식 브리저튼 뮤지컬' 창작자의 소송이 본격화된 가운데, 일부 법률 전문가들은 이 사건의 결말이 온라인 팬덤 문화에 큰 변화를 가져올 것으로 보고 있다.  넷플릭스 "IP 침해, 선 넘었다" 비공식 브리저튼은 애비게일 발로우와 에밀리 베어가 넷플릭]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050039.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, NFT 기능 100개국으로 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202208050001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Aug 2022 04:08:20 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대가 마케팅 용어로써 자리잡았지만, 1980년대 초반부터 1990년대 중반까지를 일컫는 '밀레니얼세대'와 10대부터 20대 중반까지를 일컫는 '젠지(Z)세대'는 달랐다. 콘텐츠를 즐기고 일상을 공유하는 데 거리낌이 없는 Z세대는 광고에도 거부감이 적었으며, 이들을 공]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 주주, 머스크 소송 제기…”인수 계약 이행해야”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020002</link>
-            <guid>https://www.bloter.net/newsView/blt202208020002</guid>
-            <pubDate>Mon, 01 Aug 2022 23:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[트위터 인수 계약을 체결했으나 돌연 파기를 선언 한 일론 머스크 테슬라 최고경영자(CEO)를 상대로 트위터의 한 주주가 집단 소송을 제기했다. 혐의는 계약 위반과 트위터 주주들에 대한 수탁자 의무 위반이다. 1일(현지시간) &lt;블룸버그&gt;에 따르면 트위터 주식 55]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/02/blt202208020007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
