@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 01:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 03:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CVC 설립하는 CJ, 이선호 개인회사로부터 ‘타임와이즈’ 인수]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050016</link>
+            <guid>https://www.bloter.net/newsView/blt202208050016</guid>
+            <pubDate>Sun, 07 Aug 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-05 17:30:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050036.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG헬로비전, 영업익 26% 증가 이면의 고민]]></title>
             <link>https://www.bloter.net/newsView/blt202208050012</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 05 Aug 2022 06:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 08:39:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BGF, 새벽배송 접고 코프라 더했더니]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040015</link>
-            <guid>https://www.bloter.net/newsView/blt202208040015</guid>
-            <pubDate>Fri, 05 Aug 2022 03:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-04 16:43:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040024.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
