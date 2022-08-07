@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 06:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 07:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벅찬 누리호와 슬픈 다누리…기업의 우주기술 ‘줍줍’ 중요한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202208060001</link>
+            <guid>https://www.bloter.net/newsView/blt202208060001</guid>
+            <pubDate>Sun, 07 Aug 2022 07:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-07 08:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/06/blt202208060008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ올리브영 상장 중단…목표 몸값 얼마길래]]></title>
             <link>https://www.bloter.net/newsView/blt202208050008</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 06 Aug 2022 03:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-05 11:02:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050008.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 직장 내 부정행위 '나 몰라라'…해고 통보까지]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050006</link>
-            <guid>https://www.bloter.net/newsView/blt202208050006</guid>
-            <pubDate>Fri, 05 Aug 2022 09:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 10:37:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
