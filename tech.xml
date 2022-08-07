@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 07:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 08:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'장삐쭈' 원작 '신병', 시즌 경쟁력 힘 보탤까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208070002</link>
+            <guid>https://www.bloter.net/newsView/blt202208070002</guid>
+            <pubDate>Sun, 07 Aug 2022 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-07 16:59:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰]'구글' 출신 개발자, '아임웹'에서 소통 외치는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208040021</link>
             <guid>https://www.bloter.net/newsView/blt202208040021</guid>
             <pubDate>Sun, 07 Aug 2022 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-07 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기화되는 '우크라이나 전쟁'…러시아군, '전자전' 강화]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 05 Aug 2022 01:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-05 09:36:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이지에이웍스, 코스피 상장 안 늦춘다...10월 내 예비심사 청구]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050002</link>
-            <guid>https://www.bloter.net/newsView/blt202208050002</guid>
-            <pubDate>Fri, 05 Aug 2022 01:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-05 09:02:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
