@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 01:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐라티스, 내년 코스닥 입성 가능할까…상장예비심사 신청 접수]]></title>
+            <link>https://www.bloter.net/newsView/blt202208080008</link>
+            <guid>https://www.bloter.net/newsView/blt202208080008</guid>
+            <pubDate>Mon, 08 Aug 2022 03:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-08 11:39:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자, 프리미엄 무선 이어폰 '톤프리' 출시...돌비 헤드트래킹 최초 지원]]></title>
+            <link>https://www.bloter.net/newsView/blt202208080006</link>
+            <guid>https://www.bloter.net/newsView/blt202208080006</guid>
+            <pubDate>Mon, 08 Aug 2022 03:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-08 11:29:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080009.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현금 쌓인 원티드랩, 연이은 스타트업 투자]]></title>
             <link>https://www.bloter.net/newsView/blt202208080005</link>
             <guid>https://www.bloter.net/newsView/blt202208080005</guid>
             <pubDate>Mon, 08 Aug 2022 01:29:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-08 10:15:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트위터, 540만 개 계정 정보 해킹으로 탈취당해]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 05 Aug 2022 09:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-05 17:57:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 "하반기 성장세 회복 예측…비용 압박 없을 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050017</link>
-            <guid>https://www.bloter.net/newsView/blt202208050017</guid>
-            <pubDate>Fri, 05 Aug 2022 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-05 17:49:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]LG헬로비전, 영업익 26% 증가 이면의 고민]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050012</link>
-            <guid>https://www.bloter.net/newsView/blt202208050012</guid>
-            <pubDate>Fri, 05 Aug 2022 06:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-05 14:41:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

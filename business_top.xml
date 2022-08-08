@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 01:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[트위터, 540만 개 계정 정보 해킹으로 탈취당해]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080004</link>
-            <guid>https://www.bloter.net/newsView/blt202208080004</guid>
-            <pubDate>Mon, 08 Aug 2022 01:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-08 09:57:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080003.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[LG전자, 프리미엄 무선 이어폰 '톤프리' 출시...돌비 헤드트래킹 최초 지원]]></title>
+            <link>https://www.bloter.net/newsView/blt202208080006</link>
+            <guid>https://www.bloter.net/newsView/blt202208080006</guid>
+            <pubDate>Mon, 08 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-08 11:29:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080009.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트위터 주주, 머스크 소송 제기…”인수 계약 이행해야”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020002</link>
-            <guid>https://www.bloter.net/newsView/blt202208020002</guid>
-            <pubDate>Mon, 08 Aug 2022 01:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['피크 아웃' 진입 LG전자, '재고 처리 악몽'...팬데믹 후 재고 4조 늘어]]></title>
+            <link>https://www.bloter.net/newsView/blt202207290023</link>
+            <guid>https://www.bloter.net/newsView/blt202207290023</guid>
+            <pubDate>Mon, 08 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트위터 "가짜계정, 100만개씩 삭제"...머스크 눈치 살피나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207080004</link>
-            <guid>https://www.bloter.net/newsView/blt202207080004</guid>
-            <pubDate>Mon, 08 Aug 2022 01:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KT·LG전자가 '새싹 유니콘' AI 스타트업 찾는 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202206230008</link>
+            <guid>https://www.bloter.net/newsView/blt202206230008</guid>
+            <pubDate>Mon, 08 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[트위터, 러시아 언론 통제 대항해  ‘토르’ 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202203090009</link>
-            <guid>https://www.bloter.net/newsView/blt202203090009</guid>
-            <pubDate>Mon, 08 Aug 2022 01:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터 '민감 콘텐츠 경고’ 셀프 체크, 모든 사용자로 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280007</link>
-            <guid>https://www.bloter.net/newsView/blt202202280007</guid>
-            <pubDate>Mon, 08 Aug 2022 01:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG전자·LG화학, 고객가치 경영 집중해 "일냈다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202206080052</link>
+            <guid>https://www.bloter.net/newsView/blt202206080052</guid>
+            <pubDate>Mon, 08 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
