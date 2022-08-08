@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 01:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['구글' 출신 개발자, '아임웹'에서 소통 외치는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202208040021</link>
+            <guid>https://www.bloter.net/newsView/blt202208040021</guid>
+            <pubDate>Mon, 08 Aug 2022 01:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-07 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장기화되는 '우크라이나 전쟁'…러시아군, '전자전' 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050021</link>
+            <guid>https://www.bloter.net/newsView/blt202208050021</guid>
+            <pubDate>Mon, 08 Aug 2022 01:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-07 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050044.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['비공식 브리저튼 뮤지컬' 소송, 팬 창작물에 미칠 영향은]]></title>
+            <link>https://www.bloter.net/newsView/blt202208050018</link>
+            <guid>https://www.bloter.net/newsView/blt202208050018</guid>
+            <pubDate>Mon, 08 Aug 2022 01:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-07 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050039.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[킥보드 업체 디어는 왜 '미들마일'에 관심 가질까]]></title>
             <link>https://www.bloter.net/newsView/blt202208040001</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 07 Aug 2022 06:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-06 12:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데쇼핑, 백화점 장사 잘 됐지만...이커머스 적자도 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050022</link>
-            <guid>https://www.bloter.net/newsView/blt202208050022</guid>
-            <pubDate>Sun, 07 Aug 2022 05:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-05 17:59:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050045.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CVC 설립하는 CJ, 이선호 개인회사로부터 ‘타임와이즈’ 인수]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050016</link>
-            <guid>https://www.bloter.net/newsView/blt202208050016</guid>
-            <pubDate>Sun, 07 Aug 2022 03:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-05 17:30:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050036.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG헬로비전, 영업익 26% 증가 이면의 고민]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050012</link>
-            <guid>https://www.bloter.net/newsView/blt202208050012</guid>
-            <pubDate>Sat, 06 Aug 2022 23:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-05 14:41:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
