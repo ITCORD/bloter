@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에코마케팅, '비즈니스 부스팅' 통했다…안다르·데일리앤코 급성장]]></title>
+            <link>https://www.bloter.net/newsView/blt202208090006</link>
+            <guid>https://www.bloter.net/newsView/blt202208090006</guid>
+            <pubDate>Tue, 09 Aug 2022 07:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 마케팅 기업 '에코마케팅'이 창립 이래 역대 최대 실적을 경신했다. 9일 에코마케팅은 올 2분기 연결기준 매출액 1082억과 영업이익 212억원을 기록했다고 밝혔다. 이는 전년 동기 대비 매출과 영업이익이 각각 74%와 140% 증가한 수치다.  에코마케팅은 올 2분기]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090006.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 전략 중심에 들어온 ‘모바일 게임’, 이용자 수는 1% 미만]]></title>
             <link>https://www.bloter.net/newsView/blt202208090001</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 03 Aug 2022 11:16:20 GMT</pubDate>
             <content:encoded><![CDATA[엔터테인먼트 기업 '하이브'가 올 2분기 역대 분기 최고 실적을 기록했다. '방탄소년단'(이하 BTS)을 비롯한 아티스트의 '직접참여형 매출' 비중(64%)이 큰 폭으로 늘면서 하이브의 최대 실적을 견인한 것으로 보인다. 하이브 플랫폼 사업의 중추적 역할을 맡고 있는 '위]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030044.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FSN·무브인터렉티브 맞손…'오리지널 스톰트루퍼' NFT 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030013</link>
-            <guid>https://www.bloter.net/newsView/blt202208030013</guid>
-            <pubDate>Wed, 03 Aug 2022 11:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '스타워즈'에 등장하는 '오리지널 스톰트루퍼'가 '대체 불가능한 토큰'(NFT)과 만난다.3일 디지털마케팅그룹인 FSN은 "무브인터렉티브와 NFT 사업에 관한 전략적 파트너십을 체결했다"고 밝혔다. 양사는 세계 최초로 오리지널 스톰트루퍼 IP를 활용한 NFT 사업을 전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030024.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
