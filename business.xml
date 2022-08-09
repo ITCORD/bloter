@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안다자산운용의 '저평가 지주사' 투자법...'알짜 자회사' 보유한 SK케미칼 노렸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208090010</link>
+            <guid>https://www.bloter.net/newsView/blt202208090010</guid>
+            <pubDate>Tue, 09 Aug 2022 10:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-09 15:30:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“SK바사 지분 달라”…SK케미칼, 尹정권 주주친화 정책 속 부족한 반대명분]]></title>
             <link>https://www.bloter.net/newsView/blt202208090012</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 09 Aug 2022 07:16:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-09 08:42:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[①카카오의 플랫폼 전략, 손해보험서 실패 맛볼까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080022</link>
-            <guid>https://www.bloter.net/newsView/blt202208080022</guid>
-            <pubDate>Tue, 09 Aug 2022 03:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-09 08:30:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080043.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
