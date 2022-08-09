@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,18 +171,6 @@ LG전자베스트샵 강남본점 2층 전경. LG원퀵은 해당 층 입구 근
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080030.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, ‘홈팟’ 포함한 스마트 홈 기기 개발 중]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080001</link>
-            <guid>https://www.bloter.net/newsView/blt202208080001</guid>
-            <pubDate>Mon, 08 Aug 2022 20:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 향후 2년 동안 스마트 홈 제품군을 크게 확장할 것이라는 전망이 나왔다.7일(현지시간) &lt;블룸버그 통신&gt;(이하 블룸버그)에 따르면 애플은 현재 적어도 4개의 스마트 홈 기기를 개발 중이다. 블룸버그는 현재 개발 중인 장치가 모두 출시되지는 않을 것으로 예상했다.&nbsp;
-
-애플의 홈팟 미니. (사진=애플 홈페이지 갈무리)
-
-여기에는 애플의 스마트 스피커인 ‘홈팟’의 신형 모델과 ‘홈팟 미니’가 포함돼있다. 앞서 블룸버그는 애플이 새로운 홈팟에 애플워치 시리즈8에 적용되는 칩과 동일한 S8 칩을 탑재할 예정이라고 밝힌 바 있다. 애플은 2018년에 처음 홈팟을 선보였으나 지난해 3월 이를 단종시켰다.&nbsp;아울러 애플은 아이패드와 스피커를 결합하는 부엌용 기기도 개발 중인 것으로 알려졌다. 애플 TV, 카메라, 홈팟을 결합한 거실용 제품도 개발 중인 제품 목록에 포함됐다는 예상이 나왔다. 블룸버그는 이 중 하나가 내년 말, 또는 2024년 초에 출시될 것으로 전망했다. 이 제품들이 출시되면 ‘구글 네스트 허브’, ‘아마존 에코 쇼’ 등의 제품들과 경쟁할 것으로 보인다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080001.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[CJ올리브영 상장 중단…목표 몸값 얼마길래]]></title>
             <link>https://www.bloter.net/newsView/blt202208050008</link>
             <guid>https://www.bloter.net/newsView/blt202208050008</guid>
@@ -195,6 +183,18 @@ LG전자베스트샵 강남본점 2층 전경. LG원퀵은 해당 층 입구 근
 
 승계 시발점은 2010년으로 이 회장이 보유하고 있던 CJ파워캐스트 지분을 자녀들에게 매각하면서다. 이후 CJ시스템즈와 CJ올리브영 합병, CJ올리브네트웍스 지분 증여, CJ올리브네트웍스 사업부문 분할 등 수차례 자녀들에게 승계재원을 마련해주려는 작업이 진행됐다. 특히 2019년에는 보통주로 전환 가능한 신형 우선주를 이 회장이 두 자녀에게 증여하며 승계 작업에 속도가 붙었다. 신형우선주 기준 이선호 경영리더가 110만7568주(26.21%), 이경후 경영리더가 105만990주(24.87%)를 보유하고 있다.승계 핵심이자 그룹 지주사인 CJ㈜는 현재 이 회장이 42.07%를 보유한 최대주주로 있다. 이 회장의 자녀들은 이 회장이 보유한 지분을 물려받은 재원을 마련하는 것이 관건으로 분석된다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050010.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, ‘홈팟’ 포함한 스마트 홈 기기 개발 중]]></title>
+            <link>https://www.bloter.net/newsView/blt202208080001</link>
+            <guid>https://www.bloter.net/newsView/blt202208080001</guid>
+            <pubDate>Mon, 08 Aug 2022 20:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 향후 2년 동안 스마트 홈 제품군을 크게 확장할 것이라는 전망이 나왔다.7일(현지시간) &lt;블룸버그 통신&gt;(이하 블룸버그)에 따르면 애플은 현재 적어도 4개의 스마트 홈 기기를 개발 중이다. 블룸버그는 현재 개발 중인 장치가 모두 출시되지는 않을 것으로 예상했다.&nbsp;
+
+애플의 홈팟 미니. (사진=애플 홈페이지 갈무리)
+
+여기에는 애플의 스마트 스피커인 ‘홈팟’의 신형 모델과 ‘홈팟 미니’가 포함돼있다. 앞서 블룸버그는 애플이 새로운 홈팟에 애플워치 시리즈8에 적용되는 칩과 동일한 S8 칩을 탑재할 예정이라고 밝힌 바 있다. 애플은 2018년에 처음 홈팟을 선보였으나 지난해 3월 이를 단종시켰다.&nbsp;아울러 애플은 아이패드와 스피커를 결합하는 부엌용 기기도 개발 중인 것으로 알려졌다. 애플 TV, 카메라, 홈팟을 결합한 거실용 제품도 개발 중인 제품 목록에 포함됐다는 예상이 나왔다. 블룸버그는 이 중 하나가 내년 말, 또는 2024년 초에 출시될 것으로 전망했다. 이 제품들이 출시되면 ‘구글 네스트 허브’, ‘아마존 에코 쇼’ 등의 제품들과 경쟁할 것으로 보인다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080001.291x174.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
