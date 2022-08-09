@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 01:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 03:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[테슬라, 새 차량으로 ‘업그레이드’하는 중국 고객에게 인센티브 제공]]></title>
-            <link>https://www.bloter.net/newsView/blt202208090005</link>
-            <guid>https://www.bloter.net/newsView/blt202208090005</guid>
-            <pubDate>Tue, 09 Aug 2022 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-09 10:33:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090004.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[롯데제과, 국내 시장 성장 멈췄나...정체 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202208090008</link>
+            <guid>https://www.bloter.net/newsView/blt202208090008</guid>
+            <pubDate>Tue, 09 Aug 2022 03:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-09 12:04:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090009.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[테슬라, 비트코인 보유분 75% 처분…1.2조원 현금 확보]]></title>
-            <link>https://www.bloter.net/newsView/blt202207210006</link>
-            <guid>https://www.bloter.net/newsView/blt202207210006</guid>
-            <pubDate>Tue, 09 Aug 2022 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[롯데제과, 주춤했던 해외사업….합병 시너지 관건]]></title>
+            <link>https://www.bloter.net/newsView/blt202207080011</link>
+            <guid>https://www.bloter.net/newsView/blt202207080011</guid>
+            <pubDate>Tue, 09 Aug 2022 03:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테슬라 모델 Y·3, 독일서 '6만대 리콜'…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040001</link>
-            <guid>https://www.bloter.net/newsView/blt202207040001</guid>
-            <pubDate>Tue, 09 Aug 2022 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['매출 3.7조' 통합 롯데제과 출범..."시너지 강화"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207060001</link>
+            <guid>https://www.bloter.net/newsView/blt202207060001</guid>
+            <pubDate>Tue, 09 Aug 2022 03:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테슬라, 갓 입사한 직원까지 해고...'원칙없는 구조조정' 직원들 반발]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270001</link>
-            <guid>https://www.bloter.net/newsView/blt202206270001</guid>
-            <pubDate>Tue, 09 Aug 2022 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크 "리비안·루시드 파산할 것"...테슬라·포드 외 "공동묘지행"]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160005</link>
-            <guid>https://www.bloter.net/newsView/blt202206160005</guid>
-            <pubDate>Tue, 09 Aug 2022 01:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[신동주, 롯데지주 이어 롯데제과 지분 전량 매도]]></title>
+            <link>https://www.bloter.net/newsView/blt202201180054</link>
+            <guid>https://www.bloter.net/newsView/blt202201180054</guid>
+            <pubDate>Tue, 09 Aug 2022 03:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
