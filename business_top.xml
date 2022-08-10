@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[국민연금 겨냥한 카카오 노조..."국민 자산, 모빌리티 투기장에 쓰여"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100008</link>
-            <guid>https://www.bloter.net/newsView/blt202208100008</guid>
-            <pubDate>Wed, 10 Aug 2022 03:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-10 11:52:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100008.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[차입금만 쌓는 LX하우시스...부채비율 200% '불황을 준비할 때']]></title>
+            <link>https://www.bloter.net/newsView/blt202208100005</link>
+            <guid>https://www.bloter.net/newsView/blt202208100005</guid>
+            <pubDate>Wed, 10 Aug 2022 05:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-10 13:50:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100012.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오모빌리티, 본사에 '협의체 구성' 요청...매각 재검토되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250021</link>
-            <guid>https://www.bloter.net/newsView/blt202207250021</guid>
-            <pubDate>Wed, 10 Aug 2022 03:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LX그룹, '조 단위' 매그나칩 인수의향서 제출...M&A '가속도']]></title>
+            <link>https://www.bloter.net/newsView/blt202205180060</link>
+            <guid>https://www.bloter.net/newsView/blt202205180060</guid>
+            <pubDate>Wed, 10 Aug 2022 05:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오식 성장법, 뒤늦게 날아든 청구서들]]></title>
-            <link>https://www.bloter.net/newsView/blt202207130013</link>
-            <guid>https://www.bloter.net/newsView/blt202207130013</guid>
-            <pubDate>Wed, 10 Aug 2022 03:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오는 왜 '모빌리티 2대주주'를 강조할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202207070016</link>
-            <guid>https://www.bloter.net/newsView/blt202207070016</guid>
-            <pubDate>Wed, 10 Aug 2022 03:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제대로 붙은 카카오와 구글, 엇갈린 IT업계 반응]]></title>
-            <link>https://www.bloter.net/newsView/blt202207060002</link>
-            <guid>https://www.bloter.net/newsView/blt202207060002</guid>
-            <pubDate>Wed, 10 Aug 2022 03:04:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LX홀딩스, 사업목적에 ‘금융업’ 추가...CVC 만드나]]></title>
+            <link>https://www.bloter.net/newsView/blt202203020218</link>
+            <guid>https://www.bloter.net/newsView/blt202203020218</guid>
+            <pubDate>Wed, 10 Aug 2022 05:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

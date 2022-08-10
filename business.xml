@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이든, 中 견제용 ‘반도체 지원 법안’ 서명..."미래는 미국에서"]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100001</link>
+            <guid>https://www.bloter.net/newsView/blt202208100001</guid>
+            <pubDate>Wed, 10 Aug 2022 05:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-10 08:51:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["실적 고려해 배당한다"는 이노션 말을 못 믿는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208090022</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 09 Aug 2022 10:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-09 15:30:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“SK바사 지분 달라”…SK케미칼, 尹정권 주주친화 정책 속 부족한 반대명분]]></title>
-            <link>https://www.bloter.net/newsView/blt202208090012</link>
-            <guid>https://www.bloter.net/newsView/blt202208090012</guid>
-            <pubDate>Tue, 09 Aug 2022 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-09 15:25:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
