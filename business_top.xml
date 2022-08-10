@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 06:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 07:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[차입금만 쌓는 LX하우시스...부채비율 200% '불황을 준비할 때']]></title>
-            <link>https://www.bloter.net/newsView/blt202208100005</link>
-            <guid>https://www.bloter.net/newsView/blt202208100005</guid>
-            <pubDate>Wed, 10 Aug 2022 05:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-10 13:50:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100012.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘이커머스 괜히 했나’…GS리테일, 적자 충격에 전략 수정]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100019</link>
+            <guid>https://www.bloter.net/newsView/blt202208100019</guid>
+            <pubDate>Wed, 10 Aug 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-10 15:56:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100027.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LX그룹, '조 단위' 매그나칩 인수의향서 제출...M&A '가속도']]></title>
-            <link>https://www.bloter.net/newsView/blt202205180060</link>
-            <guid>https://www.bloter.net/newsView/blt202205180060</guid>
-            <pubDate>Wed, 10 Aug 2022 05:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[GS리테일이 인수한 '쿠캣', 글로벌 MZ세대를 사로잡은 방법]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240042</link>
+            <guid>https://www.bloter.net/newsView/blt202201240042</guid>
+            <pubDate>Wed, 10 Aug 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LX홀딩스, 사업목적에 ‘금융업’ 추가...CVC 만드나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203020218</link>
-            <guid>https://www.bloter.net/newsView/blt202203020218</guid>
-            <pubDate>Wed, 10 Aug 2022 05:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[GS리테일, 새벽배송 영역 넓힌다...전용 물류센터 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202112300005</link>
+            <guid>https://www.bloter.net/newsView/blt202112300005</guid>
+            <pubDate>Wed, 10 Aug 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘퀵커머스’ 올인 GS리테일, 크고 작은 물류∙모빌리티 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202112070013</link>
+            <guid>https://www.bloter.net/newsView/blt202112070013</guid>
+            <pubDate>Wed, 10 Aug 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘변해야 산다’…GS리테일, 수장 바꾸고 모빌리티 투자 늘리고]]></title>
+            <link>https://www.bloter.net/newsView/blt202112010068</link>
+            <guid>https://www.bloter.net/newsView/blt202112010068</guid>
+            <pubDate>Wed, 10 Aug 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
