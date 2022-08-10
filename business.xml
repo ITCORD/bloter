@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 22:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 23:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이커머스 괜히 했나’…GS리테일, 적자 충격에 전략 수정]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100019</link>
+            <guid>https://www.bloter.net/newsView/blt202208100019</guid>
+            <pubDate>Wed, 10 Aug 2022 23:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-10 15:56:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한온시스템, 역대 최대 실적 달성...경기침체에 투자는 최소 규모로]]></title>
             <link>https://www.bloter.net/newsView/blt202208100014</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 10 Aug 2022 06:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-10 09:49:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS '감원 칼바람'...프로슈머 R&D 부서 직원 '대량 해고']]></title>
-            <link>https://www.bloter.net/newsView/blt202208100002</link>
-            <guid>https://www.bloter.net/newsView/blt202208100002</guid>
-            <pubDate>Wed, 10 Aug 2022 06:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-10 09:26:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

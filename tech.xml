@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 22:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 23:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, 미 정부로부터 1조원 보조금 요청 거부 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110002</link>
+            <guid>https://www.bloter.net/newsView/blt202208110002</guid>
+            <pubDate>Wed, 10 Aug 2022 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-11 08:07:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[갤언팩Z.22]삼성 갤럭시 Z 플립4·폴드4, 연타석 '폴더블 홈런'칠까]]></title>
             <link>https://www.bloter.net/newsView/blt202208100018</link>
             <guid>https://www.bloter.net/newsView/blt202208100018</guid>
             <pubDate>Wed, 10 Aug 2022 13:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-10 22:00:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100048.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100048.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[갤언팩Z.22]갤럭시 워치5, 시계로 온도 재고...조난도 막는다?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 09 Aug 2022 08:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-09 17:16:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코마케팅, '비즈니스 부스팅' 통했다…안다르·데일리앤코 급성장]]></title>
-            <link>https://www.bloter.net/newsView/blt202208090006</link>
-            <guid>https://www.bloter.net/newsView/blt202208090006</guid>
-            <pubDate>Tue, 09 Aug 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-09 15:56:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/09/blt202208090006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
