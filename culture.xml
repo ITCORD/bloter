@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 01:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 '엔데믹' 앞두고 ‘게임 스트리밍’ 시청 시간 하락세]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100003</link>
+            <guid>https://www.bloter.net/newsView/blt202208100003</guid>
+            <pubDate>Wed, 10 Aug 2022 01:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[올해 2분기 전 세계 게임 방송 플랫폼 시청 시간이 전년 대비 큰 폭으로 하락한 것으로 나타났다.9일(현지시간) 라이브 스트리밍 업체 ‘스트림랩’의 보고서에 따르면 2분기에 아마존의 ‘트위치’, ‘유튜브 게이밍 라이브’, ‘페이스북 게이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에코마케팅, '비즈니스 부스팅' 통했다…안다르·데일리앤코 급성장]]></title>
             <link>https://www.bloter.net/newsView/blt202208090006</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 Aug 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 상황을 통해 실적을 분석하는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다. 게임업계에서는 올 2분기 카카오게임즈의 성장세를 두고 '우마무스메: 프리티 더비'(이하 우마무스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040027.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 '직·간접 매출' 아우른 '위버스'…새 주자는 'CD없는 앨범 앱']]></title>
-            <link>https://www.bloter.net/newsView/blt202208030016</link>
-            <guid>https://www.bloter.net/newsView/blt202208030016</guid>
-            <pubDate>Wed, 03 Aug 2022 11:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[엔터테인먼트 기업 '하이브'가 올 2분기 역대 분기 최고 실적을 기록했다. '방탄소년단'(이하 BTS)을 비롯한 아티스트의 '직접참여형 매출' 비중(64%)이 큰 폭으로 늘면서 하이브의 최대 실적을 견인한 것으로 보인다. 하이브 플랫폼 사업의 중추적 역할을 맡고 있는 '위]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/03/blt202208030044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
