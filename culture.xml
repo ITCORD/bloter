@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[게임인사이드]NHN, 숨기지 못한 '웹보드게임 수혜' 기대감]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100020</link>
+            <guid>https://www.bloter.net/newsView/blt202208100020</guid>
+            <pubDate>Wed, 10 Aug 2022 08:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다."NHN은 지난]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100029.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 '엔데믹' 앞두고 ‘게임 스트리밍’ 시청 시간 하락세]]></title>
             <link>https://www.bloter.net/newsView/blt202208100003</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 04 Aug 2022 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA['민희진 걸그룹'으로 불리는 하이브의 신규 아티스트 '뉴진스'가 독자적인 팬덤 애플리케이션(앱)으로 주목받고 있다. '위버스'로 아티스트 기반의 팬덤플랫폼을 고도화하고 있는 하이브는 왜 뉴진스만의 독자적인 앱을 출시했을까.지난달 출시한 '포닝'은 위버스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040034.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마켓리뷰]카카오게임즈, 만족스러운 2Q…'1등 공신' 따로 있다?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040017</link>
-            <guid>https://www.bloter.net/newsView/blt202208040017</guid>
-            <pubDate>Thu, 04 Aug 2022 09:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 상황을 통해 실적을 분석하는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다. 게임업계에서는 올 2분기 카카오게임즈의 성장세를 두고 '우마무스메: 프리티 더비'(이하 우마무스]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040027.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
