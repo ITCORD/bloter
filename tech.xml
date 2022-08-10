@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 03:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 04:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬스케어 기업 보령, 우주 시대 준비하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100009</link>
+            <guid>https://www.bloter.net/newsView/blt202208100009</guid>
+            <pubDate>Wed, 10 Aug 2022 04:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-10 13:11:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 재확산…유한양행, 자가진단키트 공급 '스타트']]></title>
             <link>https://www.bloter.net/newsView/blt202208100007</link>
             <guid>https://www.bloter.net/newsView/blt202208100007</guid>
             <pubDate>Wed, 10 Aug 2022 03:05:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-10 11:53:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민연금 겨냥한 카카오 노조..."국민 자산, 모빌리티 투기장에 쓰여"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 08 Aug 2022 08:25:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-08 17:16:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IT비즈썰]'베타 테스트'로 살펴본 오늘의집 해외 시장 공략법]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080016</link>
-            <guid>https://www.bloter.net/newsView/blt202208080016</guid>
-            <pubDate>Mon, 08 Aug 2022 08:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-08 16:51:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
