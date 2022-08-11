@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡 에비타 흑자, 얼마나 의미 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110010</link>
+            <guid>https://www.bloter.net/newsView/blt202208110010</guid>
+            <pubDate>Thu, 11 Aug 2022 09:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-11 14:35:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울반도체, 2분기 가까스로 흑자...늘어난 운전자본·차입금 '관리 필요']]></title>
             <link>https://www.bloter.net/newsView/blt202208110006</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 11 Aug 2022 04:26:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-10 18:03:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100044.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HMM, 7개 분기 연속 최대 실적...이익잉여금 올해만 5.7조 증가]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100021</link>
-            <guid>https://www.bloter.net/newsView/blt202208100021</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-10 17:48:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100035.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
