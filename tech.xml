@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 09:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 10:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 스마트TV '라이브 채팅' 속 숨은 AWS의 기술은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110023</link>
+            <guid>https://www.bloter.net/newsView/blt202208110023</guid>
+            <pubDate>Thu, 11 Aug 2022 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-11 18:44:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110053.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루트로닉, 분기별 역대 최고 실적 기록한 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208110014</link>
             <guid>https://www.bloter.net/newsView/blt202208110014</guid>
             <pubDate>Thu, 11 Aug 2022 08:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-11 16:55:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110033.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110033.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[동아에스티 '주블리아', 누적 매출 1000억원 돌파…캐시카우 역할 '톡톡']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 10 Aug 2022 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-10 17:26:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100033.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]NHN, 숨기지 못한 '웹보드게임 수혜' 기대감]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100020</link>
-            <guid>https://www.bloter.net/newsView/blt202208100020</guid>
-            <pubDate>Wed, 10 Aug 2022 08:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-10 16:47:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

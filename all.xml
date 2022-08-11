@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 09:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 10:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 스마트TV '라이브 채팅' 속 숨은 AWS의 기술은? (블로터 ─ 최신기사)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110023</link>
+            <guid>https://www.bloter.net/newsView/blt202208110023</guid>
+            <pubDate>Thu, 11 Aug 2022 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자의 스마트 TV 속 실시간 채팅 기능에는 아마존웹서비스(AWS)의 기술력이 숨어있다.삼성전자가 2020년 이후 출시된 스마트 TV에서 선보인 '삼성 라이브 채팅'(이하 라이브 채팅)은 국내 TV 채널에서 방영되는 프로그램을 동시에 보는 시청자들이 화면 우측에 표시되는 메시지를 통해 대화를 나눌 수 있는 서비스다. 스마트 모니터나 더 프리스타일과 같은 제품에는 지원되지 않으며 국가에 따라 서비스되지 않는 곳도 있다. 유튜브로 생방송을 보며 채팅창을 통해 대화를 나누는 것과 유사한 기능이 TV에도 구현된 셈이다.삼성전자는 TV를 보면서 프로그램에 대한 의견을 자유롭게 주고받을 수 있도록 하면서 시청자들에게 새로운 시청 경험을 제공하고자 라이브 채팅 기능을 도입했다. 이 기능은 삼성전자가 특정 프로그램에 채팅방을 개설하면 이용할 수 있다. 회사는 드라마나 스포츠 경기 등 시청자들이 소통하고 싶어하는 욕구가 강한 콘텐츠에 대해 채팅방을 개설하고 있다. 시청자는 리모컨이나 스마트폰을 통해 메시지를 작성할 수 있다. 리모컨을 통해 음성 메시지를 입력하면 텍스트로 변환된다.많은 시청자들이 화면을 보면서 동시에 메시지를 주고 받으려면 TV에 메시지 송수신 기능을 구현해야 한다. 삼성전자는 이를 위해 AWS의 '아마존 차임 SDK'를 활용했다. 아마존 차임 SDK는 웹이나 모바일 앱에 △채팅 △음성·영상 통화 △화면 공유 기능과 같은 실시간 커뮤니케이션 구성 요소를 쉽게 추가 할 수 있도록 하는 클라이언트 소프트웨어 개발 도구 모음이다. 이번 라이브 채팅 기능에서는 아마존 차임 SDK가 제공하는 실시간 커뮤니케이션 구성 요소의 메시지 기능이 적용됐다.라이브 채팅은 많은 시청자들이 한꺼번에 몰려 메시지를 주고 받는 경우에도 원활한 서비스가 가능해야 한다. 이를 위해 아마존의 완전 관리형 컨테이너 오케스트레이션 서비스인 '아마존 ECS(Amazon Elastic Container Service)'가 적용됐다. 컨테이너란 서비스를 실행하는데 필요한 모든 파일과 앱을 패키지화하고 분리하는 기술을 말한다. 서비스의 전체적인 기능을 유지하면서 패키지로 묶인 앱들을 개발과 테스트 등의 환경 간의 이동을 쉽게 할 수 있게 해준다.아마존 ECS는 이같은 컨테이너들을 관리할 수 있도록 지원하는 서비스다. 이를 활용하면 자체 클러스터 관리 인프라를 설치·운영·조정할 필요 없이 간편하게 컨테이너를 앱에 적용할 수 있다. 또 앱이 필요로 하는 용량에 따라 컨테이너의 규모를 확장하거나 축소할 수 있다.이 기능으로 인해 주요 스포츠 경기 또는 인기 드라마와 같이 시청자가 몰리는 프로그램에서도 라이브 채팅 기능이 원활하게 구동되도록 컨테이너가 자동으로 확장된다. 때문에 시청자들은 방송이 버벅이거나 끊기는 현상 없이 라이브 채팅 기능을 활용할 수 있다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110053.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타트업에 더욱 주파수 맞추는 한국사회투자…'C레벨' 체제 도입 (블로터 ─ 최신기사)]]></title>
             <link>https://www.bloter.net/newsView/blt202208110022</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Aug 2022 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[데이터 보안 전문 기업 파수가 기업들의 '문서 보안' 수요 증가에 힘입어 올해 상반기 흑자전환에 성공했다. 지난 2000년 설립된 파수가 상반기 흑자를 기록한 것은 이번이 처음이다.파수는 11일 상반기 연결기준 매출 178억원, 영업이익 3억원을 기록했다고 공시했다. 지난해 상반기 대비 매출은 27% 증가했으며 영업이익은 흑자전환했다. 같은 기간 당기순이익도 약 4억원으로 흑자전환했다. 파수를 비롯한 정보보안 기업들의 매출은 상반기보다 하반기에 집중되는 특성을 보인다. 정보보안 기업들의 고객인 공공기관이나 기업들이 보안을 비롯한 IT에 대한 비용 집행을 상반기보다 하반기에 집중하기 때문이다. 하지만 지난해 코로나19 팬데믹(감염병 대유행)으로 인해 원격근무가 확대되면서 공공기관과 기업들이 문서 보안에 대한 투자를 늘렸다. 이는 파수의 문서 보안 솔루션(DRM) '파수 엔터프라이즈 DRM(FED)'의 수요 증가로 이어졌다. 이로 인해 FED는 파수의 상반기 흑자전환을 견인했다.또 공공데이터 활용 확대와 마이데이터 시장 개막, 빅데이터 수요 증가 등으로 파수의 개인정보 비식별 솔루션 '애널리틱디아이디(AnalyticDID, ADID)'의 매출도 증가했다. 문서 가상화 개념을 내세운 문서 관리 솔루션 '랩소디(Wrapsody)'와 외부 협업 플랫폼 '랩소디 에코(Wrapsody eCo)' 등도 매출 증대에 기여한 것으로 분석됐다. 애플리케이션 보안 자회사인 스패로우의 매출도 지난해 동기 대비 성장했다.  파수의 반기보고서에 따르면 FED가 포함된 데이터 보안 상품이 약 102억원의 매출을 올리며 전체 매출의 56.9%를 차지했다. 스패로우가 주로 담당하는 애플리케이션 보안은 15.8%, 정보보호컨설팅은 2.1%의 매출 비중을 기록했다. 상품 외에 유지관리 서비스에서 나온 매출은 약 45억원으로 전체 매출의 25.2%를 차지했다.조규곤 파수 대표는 "하반기에도 제로트러스트(누구도 신뢰하지 않는다는 개념) 보안을 위해 제시한 '파수 데이터 보안 플랫폼' 등을 중심으로 고객의 데이터 관리 및 보안 역량을 극대화할 것"이라고 말했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110011.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 청소년들이 가장 많이 사용하는 SNS는? (블로터 ─ 최신기사)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110004</link>
-            <guid>https://www.bloter.net/newsView/blt202208110004</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[미국 청소년들이 가장 많이 사용하는 소셜미디어(SNS) 플랫폼은 유튜브라는 조사 결과가 나왔다.10일(현지시간) 여론조사기관 퓨 리서치 센터가 미국의 13세~17세 청소년 1316명을 대상으로 지난 4월부터 5월에 진행한 SNS 이용에 대한 조사에 따르면 이용률과 빈도 모두 유튜브가 가장 높은 것으로 나타났다. 조사에 따르면 응답자 중 95%가 유튜브를 사용하고 있으며 19%가 플랫폼에 거의 항상 접속해있다고 답했다. 틱톡은 유튜브의 뒤를 이어 67%의 이용률을 기록했다. 또 응답자 중 16%가 틱톡에 거의 항상 접속해있다고 답했다. 이어 이용률은 인스타그램(62%), 스냅챗(59%), 페이스북(32%), 트위터(23%) 순으로 집계됐다.    퓨 리서치 센터는 지난 2015년에도 청소년의 SNS 사용 실태를 조사한 바 있다. 2015년에 유튜브는 조사 대상이 아니었으며 틱톡은 미국에서 서비스를 출시하기 전이었기 때문에 포함되지 않았다. 당시 페이스북이 71%의 이용률로 미국 청소년 가운데 가장 많이 사용되는 플랫폼으로 꼽혔으나 이번 조사에서는 32%에 그쳤다. 또 페이스북에 거의 항상 접속해있다고 응답한 청소년은 2%에 불과해 플랫폼 충성도도 굉장히 낮은 것으로 나타났다. 퓨 리서치 센터는 이번 조사 결과가 틱톡의 부상과 페이스북의 추락으로 급변하는 SNS 지형을 보여준다고 분석했다. 반면 스냅챗은 지난 조사 대비 이용률이 18% 오른 것으로 집계됐다. 인스타그램도 지난 5년 동안 이용률이 10% 증가했다. 한편 성별과 인종 별로도 소셜 미디어 이용 행태에 차이가 있는 것으로 나타났다. 남자 청소년들은 주로 유튜브, 트위치, 레딧을 사용한 반면 여자 청소년들은 틱톡, 인스타그램과 스냅챗을 선호했다. 흑인 및 히스패닉계 청소년은 백인 청소년에 비해 틱톡, 인스타그램, 트위터와 왓츠앱을 더 많이 사용하는 것으로 나타났다. 이번 조사에 따르면 청소년 중 35%가 적어도 하나의 플랫폼에 거의 항상 접속해있는 것으로 나타났다. 또 응답자 중 97%는 인터넷을 매일 사용한다고 답했으며 스마트폰과 PC·노트북을 사용할 수 있는 청소년은 각각 95%와 90%로 집계됐다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110004.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[갤언팩Z.22]삼성 갤럭시 Z 플립4·폴드4, 연타석 '폴더블 홈런'칠까 (블로터 ─ 실시간 랭킹)]]></title>
@@ -303,7 +303,7 @@ HLB제약은 200억원 규모 사모 전환사채(CB)를 발행키로 했다고 
             <title><![CDATA[스타트업에 더욱 주파수 맞추는 한국사회투자…'C레벨' 체제 도입 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202208110022</link>
             <guid>https://www.bloter.net/newsView/blt202208110022</guid>
-            <pubDate>Thu, 11 Aug 2022 09:17:38 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 09:17:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-11 18:17:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110052.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -406,12 +406,20 @@ HLB제약은 200억원 규모 사모 전환사채(CB)를 발행키로 했다고 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[삼성 스마트TV '라이브 채팅' 속 숨은 AWS의 기술은? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110023</link>
+            <guid>https://www.bloter.net/newsView/blt202208110023</guid>
+            <pubDate>Thu, 11 Aug 2022 10:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-11 18:44:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110053.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[루트로닉, 분기별 역대 최고 실적 기록한 이유는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202208110014</link>
             <guid>https://www.bloter.net/newsView/blt202208110014</guid>
             <pubDate>Thu, 11 Aug 2022 08:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-11 16:55:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110033.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110033.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[동아에스티 '주블리아', 누적 매출 1000억원 돌파…캐시카우 역할 '톡톡' (블로터 ─ 테크)]]></title>
@@ -540,14 +548,6 @@ HLB제약은 200억원 규모 사모 전환사채(CB)를 발행키로 했다고 
             <pubDate>Wed, 10 Aug 2022 09:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-10 17:26:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100033.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]NHN, 숨기지 못한 '웹보드게임 수혜' 기대감 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100020</link>
-            <guid>https://www.bloter.net/newsView/blt202208100020</guid>
-            <pubDate>Wed, 10 Aug 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-10 16:47:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
