@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 메신저 ‘종단 간 암호화’ 대화에 백업 기능 시범 운영]]></title>
+            <link>https://www.bloter.net/newsView/blt202208120001</link>
+            <guid>https://www.bloter.net/newsView/blt202208120001</guid>
+            <pubDate>Thu, 11 Aug 2022 23:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 페이스북 메신저의 암호화된 대화 내용을 보다 안전하게 백업하는 기능을 시범 운영한다고 밝혔다.11일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 메타가 보안 방침을 강화하기 위해 이번 주부터 ‘보안 스토리지’ 기능을 일부 iOS 및 안드로이드 메신저]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['적자전환' 펄어비스, '당기순이익 급증' 비결은?]]></title>
             <link>https://www.bloter.net/newsView/blt202208110015</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 08 Aug 2022 01:30:38 GMT</pubDate>
             <content:encoded><![CDATA[소셜네트워크서비스(SNS) 트위터가 해킹으로 약 540만 개의 계정에서 이용자 정보가 탈취당했다고 인정했다.7일(현지시간) IT 전문매체 &lt;엔가젯&gt;에 따르면 해커는 트위터 계정과 연계된 전화번호, 이메일 주소를 포함한 이용자 정보를 빼돌린 후 이를 사이버범죄]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080003.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'장삐쭈' 원작 '신병', 시즌 경쟁력 힘 보탤까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208070002</link>
-            <guid>https://www.bloter.net/newsView/blt202208070002</guid>
-            <pubDate>Sun, 07 Aug 2022 08:20:46 GMT</pubDate>
-            <content:encoded><![CDATA['장삐쭈'의 애니메이션을 실사화한 OTT 콘텐츠 '신병'이 온라인 커뮤니티를 뜨겁게 달구고 있다. 올레tv·시즌 오리지널로 편성된 신병이 화제를 모으면서 원작 애니메이션도 역주행하는 모습이다. 지난해 10월 14일 업로드된 애니메이션 '신병 시즌2'의 '보직변경]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신성이엔지, 만년 적자 태양광 사업 '안정권'...11년 '무배당' 깨질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110013</link>
+            <guid>https://www.bloter.net/newsView/blt202208110013</guid>
+            <pubDate>Thu, 11 Aug 2022 23:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-11 15:52:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 에비타 흑자, 얼마나 의미 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202208110010</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 11 Aug 2022 06:27:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-11 08:07:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['콜 공유' 테스트 연장한 티맵...대리운전 업계, 동반위 제재 요청]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100026</link>
-            <guid>https://www.bloter.net/newsView/blt202208100026</guid>
-            <pubDate>Thu, 11 Aug 2022 04:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-10 18:03:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100044.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
