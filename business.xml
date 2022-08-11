@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 01:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HMM, 7개 분기 연속 최대 실적...이익잉여금 올해만 5.7조 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100021</link>
+            <guid>https://www.bloter.net/newsView/blt202208100021</guid>
+            <pubDate>Thu, 11 Aug 2022 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-10 17:48:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100035.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘까사 적자쯤이야’…신세계, 또 최대실적]]></title>
             <link>https://www.bloter.net/newsView/blt202208100024</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 10 Aug 2022 09:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-10 13:50:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금 겨냥한 카카오 노조..."국민 자산, 모빌리티 투기장에 쓰여"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100008</link>
-            <guid>https://www.bloter.net/newsView/blt202208100008</guid>
-            <pubDate>Wed, 10 Aug 2022 07:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-10 11:52:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100008.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
