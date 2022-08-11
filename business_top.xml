@@ -4,23 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[쿠팡 에비타 흑자, 얼마나 의미 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110010</link>
-            <guid>https://www.bloter.net/newsView/blt202208110010</guid>
-            <pubDate>Thu, 11 Aug 2022 06:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-11 14:35:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110017.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[흔들리는 이마트, 본업 마트 사업 적자…수익성 개선 고심]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110016</link>
+            <guid>https://www.bloter.net/newsView/blt202208110016</guid>
+            <pubDate>Thu, 11 Aug 2022 07:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-11 16:18:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110034.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠팡플레이, '안나 감독판' 공개 임박…"5~8화 심의만 남아"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080017</link>
-            <guid>https://www.bloter.net/newsView/blt202208080017</guid>
-            <pubDate>Thu, 11 Aug 2022 06:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[균열 생기는 스타벅스 왕국...이마트의 무리수?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207260008</link>
+            <guid>https://www.bloter.net/newsView/blt202207260008</guid>
+            <pubDate>Thu, 11 Aug 2022 07:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플래티어, 롯데하이마트 온라인 쇼핑몰 리뉴얼 사업 수주]]></title>
+            <link>https://www.bloter.net/newsView/blt202207180005</link>
+            <guid>https://www.bloter.net/newsView/blt202207180005</guid>
+            <pubDate>Thu, 11 Aug 2022 07:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이마트 '최저가' 선언...'레거시 유통기업' 체력으로 쿠팡 꺾는다]]></title>
@@ -30,17 +37,10 @@
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쿠팡플레이, '종이의 집 한국판' 감독 손 잡나]]></title>
-            <link>https://www.bloter.net/newsView/blt202206200016</link>
-            <guid>https://www.bloter.net/newsView/blt202206200016</guid>
-            <pubDate>Thu, 11 Aug 2022 06:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160010</link>
-            <guid>https://www.bloter.net/newsView/blt202206160010</guid>
-            <pubDate>Thu, 11 Aug 2022 06:27:08 GMT</pubDate>
+            <title><![CDATA[이마트, 수익성 ‘뚝’…현실화된 이베이 인수 부담]]></title>
+            <link>https://www.bloter.net/newsView/blt202205120214</link>
+            <guid>https://www.bloter.net/newsView/blt202205120214</guid>
+            <pubDate>Thu, 11 Aug 2022 07:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>

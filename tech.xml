@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신성이엔지, 만년 적자 태양광 사업 '안정권'...11년 '무배당' 깨질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110013</link>
+            <guid>https://www.bloter.net/newsView/blt202208110013</guid>
+            <pubDate>Thu, 11 Aug 2022 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-11 15:52:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[갤언팩Z.22]사용자경험 전진배치 삼성, 폴더블 주류화 '신호탄']]></title>
             <link>https://www.bloter.net/newsView/blt202208110012</link>
             <guid>https://www.bloter.net/newsView/blt202208110012</guid>
             <pubDate>Thu, 11 Aug 2022 06:27:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-11 15:12:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, '6.1만원 30GB'로 5G 중간요금제 맞불…SKT '5.9만원 24GB'와 차별화]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 10 Aug 2022 03:05:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-10 11:30:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌, '클라우드 전환 자동화' 오픈소스컨설팅과 손잡은 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100004</link>
-            <guid>https://www.bloter.net/newsView/blt202208100004</guid>
-            <pubDate>Wed, 10 Aug 2022 03:05:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-10 11:25:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100004.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
