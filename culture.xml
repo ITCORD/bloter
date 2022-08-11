@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['적자전환' 펄어비스, '당기순이익 급증' 비결은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110015</link>
+            <guid>https://www.bloter.net/newsView/blt202208110015</guid>
+            <pubDate>Thu, 11 Aug 2022 08:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[펄어비스가 2분기 적자를 냈음에도, 법인세 환급 및 외환 수익을 통해 전 분기 대비 높은 당기순이익을 기록했다.11일 펄어비스는 올 2분기 연결기준 매출 940억원, 영업손실 42억원, 당기순이익 320억원을 기록했다고 밝혔다. 펄어비스의 2분기 매출과 당기순이익은 전]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 청소년들이 가장 많이 사용하는 SNS는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208110004</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 07 Aug 2022 08:20:46 GMT</pubDate>
             <content:encoded><![CDATA['장삐쭈'의 애니메이션을 실사화한 OTT 콘텐츠 '신병'이 온라인 커뮤니티를 뜨겁게 달구고 있다. 올레tv·시즌 오리지널로 편성된 신병이 화제를 모으면서 원작 애니메이션도 역주행하는 모습이다. 지난해 10월 14일 업로드된 애니메이션 '신병 시즌2'의 '보직변경]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/07/blt202208070008.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비공식 브리저튼 뮤지컬' 소송, 팬 창작물에 미칠 영향은]]></title>
-            <link>https://www.bloter.net/newsView/blt202208050018</link>
-            <guid>https://www.bloter.net/newsView/blt202208050018</guid>
-            <pubDate>Sun, 07 Aug 2022 05:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스와 '비공식 브리저튼 뮤지컬' 창작자의 소송이 본격화된 가운데, 일부 법률 전문가들은 이 사건의 결말이 온라인 팬덤 문화에 큰 변화를 가져올 것으로 보고 있다.  넷플릭스 "IP 침해, 선 넘었다" 비공식 브리저튼은 애비게일 발로우와 에밀리 베어가 넷플릭]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050039.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
