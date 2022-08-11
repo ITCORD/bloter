@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스X, 미 정부로부터 1조원 보조금 요청 거부 당해]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110002</link>
+            <guid>https://www.bloter.net/newsView/blt202208110002</guid>
+            <pubDate>Thu, 11 Aug 2022 06:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-11 08:07:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['콜 공유' 테스트 연장한 티맵...대리운전 업계, 동반위 제재 요청]]></title>
             <link>https://www.bloter.net/newsView/blt202208100026</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 10 Aug 2022 09:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-10 14:57:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DB저축은행이 정기예금에 3.8% 준다고? 인뱅보다 높아]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100015</link>
-            <guid>https://www.bloter.net/newsView/blt202208100015</guid>
-            <pubDate>Wed, 10 Aug 2022 09:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-10 14:49:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
