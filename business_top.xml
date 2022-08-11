@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 03:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 04:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[미국 청소년들이 가장 많이 사용하는 SNS는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110004</link>
-            <guid>https://www.bloter.net/newsView/blt202208110004</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-11 10:32:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110004.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[서울반도체, 2분기 가까스로 흑자...늘어난 운전자본·차입금 '관리 필요']]></title>
+            <link>https://www.bloter.net/newsView/blt202208110006</link>
+            <guid>https://www.bloter.net/newsView/blt202208110006</guid>
+            <pubDate>Thu, 11 Aug 2022 04:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-11 13:13:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110013.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[틱톡 쫓는 인스타그램…인플루언서 마케팅에서는 업계 1위]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030001</link>
-            <guid>https://www.bloter.net/newsView/blt202208030001</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[연속 적자 서울반도체, 수요 감소에 '재고 관리'도 어렵다]]></title>
+            <link>https://www.bloter.net/newsView/blt202205100113</link>
+            <guid>https://www.bloter.net/newsView/blt202205100113</guid>
+            <pubDate>Thu, 11 Aug 2022 04:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북 모회사 메타, 2분기 사상 첫 매출 감소]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280001</link>
-            <guid>https://www.bloter.net/newsView/blt202207280001</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[원가 부담 높아진 서울반도체, 1분기 실적에도 반영됐나]]></title>
+            <link>https://www.bloter.net/newsView/blt202204110041</link>
+            <guid>https://www.bloter.net/newsView/blt202204110041</guid>
+            <pubDate>Thu, 11 Aug 2022 04:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["SNS 중독 막자더니"…인스타그램, 시간제한 기능 임의 변경 의혹]]></title>
-            <link>https://www.bloter.net/newsView/blt202202220001</link>
-            <guid>https://www.bloter.net/newsView/blt202202220001</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램 대표, "SNS폐해, 자동차사고와 비슷" 발언에 여론 뭇매]]></title>
-            <link>https://www.bloter.net/newsView/blt202109170170</link>
-            <guid>https://www.bloter.net/newsView/blt202109170170</guid>
-            <pubDate>Thu, 11 Aug 2022 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[서울반도체 '자동차 사업부', 독일로 옮겼다...유럽 시장 집중]]></title>
+            <link>https://www.bloter.net/newsView/blt202203300008</link>
+            <guid>https://www.bloter.net/newsView/blt202203300008</guid>
+            <pubDate>Thu, 11 Aug 2022 04:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
