@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 01:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS “소니, 경쟁업체 게임 서비스 막기 위해 개발자에 차단 비용 지불”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110003</link>
+            <guid>https://www.bloter.net/newsView/blt202208110003</guid>
+            <pubDate>Thu, 11 Aug 2022 01:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 경쟁업체인 소니가 자사 게임 구독 서비스에 콘텐츠가 추가되는 것을 막기 위해 게임 개발자들에게 ‘차단 비용’을 지불한다고 주장했다. 10일(현지시간) IT 전문매체 &lt;더버지&gt;에 따르면 MS는 액티비전 블리자드(이하 블리자드) 인수]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[금융정보부터 NFT·메타버스까지…연합뉴스경제TV, 15일 개국]]></title>
             <link>https://www.bloter.net/newsView/blt202208100028</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 05 Aug 2022 01:41:58 GMT</pubDate>
             <content:encoded><![CDATA[메타가 인스타그램의 '대체 불가능한 토큰'(NFT) 기능을 100여개 국가로 확대한다.4일(현지시간) IT 전문매체 &lt;테크크런치&gt;는 "인스타그램에서 NFT를 공유하는 기능이 아프리카, 아시아태평양, 중동, 미주 등 100여개국에서 서비스된다"고 보도했다. 앞서 메타는 지난]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/05/blt202208050002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ온스타일, 부진한 성적표…'취급고' 문제풀이 주력할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208040023</link>
-            <guid>https://www.bloter.net/newsView/blt202208040023</guid>
-            <pubDate>Thu, 04 Aug 2022 23:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[높은 송출수수료와 '리오프닝'(경제활동 재개)이 또 한 번 CJ온스타일의 성장 발목을 잡았다. 오프라인 활동 증가 영향으로 TV 기반 채널의 입지가 약해지면서 디지털 부문을 강화해야 하는 숙제를 받아들었는데, 이같은 전략이 줄어만 가는 취급고 문제 해결의 실마]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/04/blt202208040039.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

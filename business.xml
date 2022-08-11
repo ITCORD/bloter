@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 01:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘까사 적자쯤이야’…신세계, 또 최대실적]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100024</link>
+            <guid>https://www.bloter.net/newsView/blt202208100024</guid>
+            <pubDate>Thu, 11 Aug 2022 01:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-10 17:43:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100039.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이커머스 괜히 했나’…GS리테일, 적자 충격에 전략 수정]]></title>
             <link>https://www.bloter.net/newsView/blt202208100019</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 10 Aug 2022 07:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-10 11:52:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100008.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 '엔데믹' 앞두고 ‘게임 스트리밍’ 시청 시간 하락세]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100003</link>
-            <guid>https://www.bloter.net/newsView/blt202208100003</guid>
-            <pubDate>Wed, 10 Aug 2022 06:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-10 09:49:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
