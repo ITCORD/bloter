@@ -4,37 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[현대차그룹, 로봇 AI 연구소 설립..."AI로 로봇 한계 제어"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120013</link>
-            <guid>https://www.bloter.net/newsView/blt202208120013</guid>
-            <pubDate>Fri, 12 Aug 2022 06:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-12 14:50:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120018.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포티투닷, '비전'만으로 정의선 회장에 4200억 투자...지분 가치 3년새 25배]]></title>
+            <link>https://www.bloter.net/newsView/blt202208120017</link>
+            <guid>https://www.bloter.net/newsView/blt202208120017</guid>
+            <pubDate>Fri, 12 Aug 2022 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-12 16:25:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120028.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보스턴다이내믹스, DHL에 물류 로봇 '스트레치' 공급한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202201280232</link>
-            <guid>https://www.bloter.net/newsView/blt202201280232</guid>
-            <pubDate>Fri, 12 Aug 2022 06:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[상장 코앞 롯데렌탈, 자율주행 업체 ‘포티투닷’ 지분투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202108090006</link>
+            <guid>https://www.bloter.net/newsView/blt202108090006</guid>
+            <pubDate>Fri, 12 Aug 2022 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[보스턴다이내믹스 '로봇팔', 현대차 공장노동 대체할까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202103300025</link>
-            <guid>https://www.bloter.net/newsView/blt202103300025</guid>
-            <pubDate>Fri, 12 Aug 2022 06:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현대차 계열 보스턴다이내믹스 로봇가족의 '신년맞이 댄스']]></title>
-            <link>https://www.bloter.net/newsView/blt202012300004</link>
-            <guid>https://www.bloter.net/newsView/blt202012300004</guid>
-            <pubDate>Fri, 12 Aug 2022 06:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이승연</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[신한은행·캐피탈, 포티투닷과 맞손…모빌리티 데이터 사업 등 추진]]></title>
+            <link>https://www.bloter.net/newsView/blt202107160005</link>
+            <guid>https://www.bloter.net/newsView/blt202107160005</guid>
+            <pubDate>Fri, 12 Aug 2022 08:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김명상</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
