@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강스템바이오텍, '비임상시험'서 역대 최대 매출…기업 가치 향상 '신호탄']]></title>
+            <link>https://www.bloter.net/newsView/blt202208120011</link>
+            <guid>https://www.bloter.net/newsView/blt202208120011</guid>
+            <pubDate>Fri, 12 Aug 2022 06:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-12 14:26:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120014.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[알뜰폰협회, 제2의 KB리브엠 우려…"은행 진출 반대"]]></title>
             <link>https://www.bloter.net/newsView/blt202208120010</link>
             <guid>https://www.bloter.net/newsView/blt202208120010</guid>
             <pubDate>Fri, 12 Aug 2022 05:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-12 13:43:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120012.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120012.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성바이오로직스, 4570억원 CMO 유치…생산 준비 착수]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 10 Aug 2022 13:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-10 22:00:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100048.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갤언팩Z.22]갤럭시 워치5, 시계로 온도 재고...조난도 막는다?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100023</link>
-            <guid>https://www.bloter.net/newsView/blt202208100023</guid>
-            <pubDate>Wed, 10 Aug 2022 13:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-10 22:00:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100054.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
