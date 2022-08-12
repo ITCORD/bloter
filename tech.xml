@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성바이오로직스, 4570억원 CMO 유치…생산 준비 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202208120009</link>
+            <guid>https://www.bloter.net/newsView/blt202208120009</guid>
+            <pubDate>Fri, 12 Aug 2022 03:29:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-12 11:45:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로봇 사업 확장하는 샤오미, 휴머노이드 ‘사이버원’ 깜짝 공개]]></title>
             <link>https://www.bloter.net/newsView/blt202208120003</link>
             <guid>https://www.bloter.net/newsView/blt202208120003</guid>
             <pubDate>Fri, 12 Aug 2022 01:26:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-12 09:58:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타, 메신저 ‘종단 간 암호화’ 대화에 백업 기능 시범 운영]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 10 Aug 2022 13:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-10 22:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100047.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콜 공유' 테스트 연장한 티맵...대리운전 업계, 동반위 제재 요청]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100026</link>
-            <guid>https://www.bloter.net/newsView/blt202208100026</guid>
-            <pubDate>Wed, 10 Aug 2022 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-10 18:03:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100044.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

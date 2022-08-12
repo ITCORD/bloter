@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타트업에 더욱 주파수 맞추는 한국사회투자…'C레벨' 체제 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202208110022</link>
+            <guid>https://www.bloter.net/newsView/blt202208110022</guid>
+            <pubDate>Fri, 12 Aug 2022 03:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-11 18:17:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110052.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[②게임보다 높은 삼성화재 리텐션율…'빅테크 안 부럽네']]></title>
             <link>https://www.bloter.net/newsView/blt202208110020</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 11 Aug 2022 08:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-11 13:13:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 청소년들이 가장 많이 사용하는 SNS는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110004</link>
-            <guid>https://www.bloter.net/newsView/blt202208110004</guid>
-            <pubDate>Thu, 11 Aug 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-11 10:32:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110004.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
