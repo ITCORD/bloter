@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 04:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 05:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT·KT·LGU+, 상반기 비통신 사업 어디서 웃었나]]></title>
+            <link>https://www.bloter.net/newsView/blt202208120026</link>
+            <guid>https://www.bloter.net/newsView/blt202208120026</guid>
+            <pubDate>Sun, 14 Aug 2022 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-14 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120046.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크체인저] 의료데이터 활용, 보안은 체크하셨나요…보안에 진심인 라이프시맨틱스]]></title>
             <link>https://www.bloter.net/newsView/blt202208080015</link>
             <guid>https://www.bloter.net/newsView/blt202208080015</guid>
             <pubDate>Sat, 13 Aug 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-13 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080021.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/08/blt202208080021.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[함께 쓰는 풀리퀘] AI 학회 이름이 ‘청소년 유해 검색 결과'였던 사연]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 11 Aug 2022 08:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-11 16:51:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110040.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, '영업익 하락' 속 하반기 '버추얼 휴먼'에 기대하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110019</link>
-            <guid>https://www.bloter.net/newsView/blt202208110019</guid>
-            <pubDate>Thu, 11 Aug 2022 08:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-11 16:48:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110041.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
