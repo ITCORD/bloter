@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 07:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,7 +370,7 @@ NIPS는 왜 NeurIPS가 됐나
             <title><![CDATA[가상자산 커뮤니티, 이 앱으로 소통한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202208120021</link>
             <guid>https://www.bloter.net/newsView/blt202208120021</guid>
-            <pubDate>Sun, 14 Aug 2022 07:15:51 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2022 07:15:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-14 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120034.570x320.0.png" length="0" type="image/png"/>
         </item>
@@ -490,7 +490,7 @@ NIPS는 왜 NeurIPS가 됐나
             <title><![CDATA[가상자산 커뮤니티, 이 앱으로 소통한다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202208120021</link>
             <guid>https://www.bloter.net/newsView/blt202208120021</guid>
-            <pubDate>Sun, 14 Aug 2022 07:16:15 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2022 07:15:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-14 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120034.620x344.0.png" length="0" type="image/png"/>
         </item>
@@ -910,7 +910,7 @@ NIPS는 왜 NeurIPS가 됐나
             <title><![CDATA[가상자산 커뮤니티, 이 앱으로 소통한다 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202208120021</link>
             <guid>https://www.bloter.net/newsView/blt202208120021</guid>
-            <pubDate>Sun, 14 Aug 2022 07:16:52 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2022 07:15:30 GMT</pubDate>
             <content:encoded><![CDATA[지난 몇년 간 가상자산 커뮤니티는 소통을 위해 트위터와 같은 소셜미디어(SNS)플랫폼이나 디스코드, 텔레그램과 같은 메시징 애플리케이션(앱)을 사용해왔다. IT 전문매체 &lt;테크크런치&gt;에 따르면 그 중에서도 텔레그램이 가장 활발한 소통 창구 기능을 하고 있]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120034.293x165.0.png" length="0" type="image/png"/>
         </item>
