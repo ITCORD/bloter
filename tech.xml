@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 06:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메르세데스-벤츠의 '전기차 월드챔피언십' 우승에 SAP가 기여한 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202208140002</link>
+            <guid>https://www.bloter.net/newsView/blt202208140002</guid>
+            <pubDate>Mon, 15 Aug 2022 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-15 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/14/blt202208140005.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[韓 외국계 IT]'윈도'서 시작해 글로벌 기업 된 MS…전세계 '디지털숙명' 돕는다]]></title>
             <link>https://www.bloter.net/newsView/blt202208120027</link>
             <guid>https://www.bloter.net/newsView/blt202208120027</guid>
             <pubDate>Mon, 15 Aug 2022 05:05:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-15 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120050.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120050.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]쏘카가 점찍은 라이드플럭스, 카카오와도 협업한다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 12 Aug 2022 06:22:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-12 14:26:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알뜰폰협회, 제2의 KB리브엠 우려…"은행 진출 반대"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120010</link>
-            <guid>https://www.bloter.net/newsView/blt202208120010</guid>
-            <pubDate>Fri, 12 Aug 2022 05:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-12 13:43:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120012.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
