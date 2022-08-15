@@ -4,23 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 08:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 09:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[쏘카가 점찍은 라이드플럭스, 카카오와도 협업한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100013</link>
-            <guid>https://www.bloter.net/newsView/blt202208100013</guid>
-            <pubDate>Mon, 15 Aug 2022 03:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-15 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100018.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[모바일 학생증 결제, 신한은행 안 되고 우리은행은 되네]]></title>
+            <link>https://www.bloter.net/newsView/blt202208130001</link>
+            <guid>https://www.bloter.net/newsView/blt202208130001</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-15 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/13/blt202208130001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라이드플럭스, 165억원 투자 유치…"2024년 전국 자율주행 서비스"]]></title>
-            <link>https://www.bloter.net/newsView/blt202112270014</link>
-            <guid>https://www.bloter.net/newsView/blt202112270014</guid>
-            <pubDate>Mon, 15 Aug 2022 03:56:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[어릴수록 어려운 금융앱…눈높이 맞추는 신한은행]]></title>
+            <link>https://www.bloter.net/newsView/blt202205190072</link>
+            <guid>https://www.bloter.net/newsView/blt202205190072</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신한은행이 밀어주는 엠블 동남아 전기차사업]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220400</link>
+            <guid>https://www.bloter.net/newsView/blt202203220400</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리금융, 신임 우리은행장에 이원덕…완전민영화 원팀 시너지 나오나]]></title>
+            <link>https://www.bloter.net/newsView/blt202202070087</link>
+            <guid>https://www.bloter.net/newsView/blt202202070087</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우리은행 '저금리로 돈 못 번다'…직접투자로 '대박' 기회를]]></title>
+            <link>https://www.bloter.net/newsView/blt202202010011</link>
+            <guid>https://www.bloter.net/newsView/blt202202010011</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
