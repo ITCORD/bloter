@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 21:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 22:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스 2022]⑦韓 오리지널 영화 총 공세…차기작 '20세기소녀'?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160001</link>
+            <guid>https://www.bloter.net/newsView/blt202208160001</guid>
+            <pubDate>Mon, 15 Aug 2022 22:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 한국판 오리지널 영화 라인업을 확대하고 있다. 지난 2월 공개한 '모럴센스' 이후 꾸준히 한국 오리지널 영화를 선보인 넷플릭스는 차기작으로 '20세기소녀'(20TH CENTURY GIRL)를 낙점했다.17일 &lt;블로터&gt; 취재 결과, 넷플릭스가 지난 5일 영상물등급위원회(이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰은 왜 웹소설 시스템을 개편할까]]></title>
             <link>https://www.bloter.net/newsView/blt202208140001</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 10 Aug 2022 10:19:20 GMT</pubDate>
             <content:encoded><![CDATA[금융정보 전문 매체 연합인포맥스가 출범시킨 경제 전문 방송 '연합뉴스경제TV'가 이달 15일 개국한다.연합인포맥스는 블록체인 전문 채널인 글로벌A를 인수하고 이날부터 사명을 연합뉴스경제TV로 바꿔 본격적인 방송을 시작한다. 연합뉴스경제TV는 연합인포맥스의]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100046.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]NHN, 숨기지 못한 '웹보드게임 수혜' 기대감]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100020</link>
-            <guid>https://www.bloter.net/newsView/blt202208100020</guid>
-            <pubDate>Wed, 10 Aug 2022 08:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다."NHN은 지난]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
