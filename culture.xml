@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 07:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 08:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버웹툰은 왜 웹소설 시스템을 개편할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208140001</link>
+            <guid>https://www.bloter.net/newsView/blt202208140001</guid>
+            <pubDate>Mon, 15 Aug 2022 08:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰이 9년 만에 네이버웹소설의 '오늘의 웹소설' 메뉴를 '시리즈에디션'으로 개편했다. 이는 단순한 메뉴 구성의 변화를 넘어, 네이버시리즈 중심의 웹소설 시스템을 전면 개편한다는 의미로 읽힌다. 승격제 도입, 오리지널리티 집중 최근 네이버시리즈는 정]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/14/blt202208140002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]콘텐츠로 흥한 컴투스, 신사업 시너지 노린다]]></title>
             <link>https://www.bloter.net/newsView/blt202208110021</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 10 Aug 2022 08:21:49 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다."NHN은 지난]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100029.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 '엔데믹' 앞두고 ‘게임 스트리밍’ 시청 시간 하락세]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100003</link>
-            <guid>https://www.bloter.net/newsView/blt202208100003</guid>
-            <pubDate>Wed, 10 Aug 2022 01:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[올해 2분기 전 세계 게임 방송 플랫폼 시청 시간이 전년 대비 큰 폭으로 하락한 것으로 나타났다.9일(현지시간) 라이브 스트리밍 업체 ‘스트림랩’의 보고서에 따르면 2분기에 아마존의 ‘트위치’, ‘유튜브 게이밍 라이브’, ‘페이스북 게이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
