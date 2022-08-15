@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 10:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 11:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호주서 246명 생명 앗아간 독감…최상의 대비책 '백신 접종']]></title>
+            <link>https://www.bloter.net/newsView/blt202208110008</link>
+            <guid>https://www.bloter.net/newsView/blt202208110008</guid>
+            <pubDate>Mon, 15 Aug 2022 11:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-15 20:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/14/blt202208140001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플래티어, 이커머스·DT 바람타고 쑥쑥…해외로 눈 돌린다]]></title>
             <link>https://www.bloter.net/newsView/blt202208120024</link>
             <guid>https://www.bloter.net/newsView/blt202208120024</guid>
             <pubDate>Mon, 15 Aug 2022 10:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-15 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120043.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120043.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰은 왜 웹소설 시스템을 개편할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 12 Aug 2022 09:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-12 17:25:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120045.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK바이오사이언스가 만드는 노바백스 코로나19 백신, 청소년까지 접종 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120023</link>
-            <guid>https://www.bloter.net/newsView/blt202208120023</guid>
-            <pubDate>Fri, 12 Aug 2022 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-12 17:21:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
