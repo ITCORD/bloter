@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 06:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ISS 탈퇴한다는 러시아, 자체 우주정거장 모형 공개해]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160006</link>
+            <guid>https://www.bloter.net/newsView/blt202208160006</guid>
+            <pubDate>Tue, 16 Aug 2022 06:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 10:07:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160008.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202208160003</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 16 Aug 2022 01:47:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-15 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/10/blt202208100018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 전기차 생산 300만대 달성…100만대는 中상하이 공장서 만들어]]></title>
-            <link>https://www.bloter.net/newsView/blt202208150003</link>
-            <guid>https://www.bloter.net/newsView/blt202208150003</guid>
-            <pubDate>Tue, 16 Aug 2022 01:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 10:13:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150004.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
