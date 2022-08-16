@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클라우드' 무장 한컴…영업익 하락 속 하반기 자신하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160021</link>
+            <guid>https://www.bloter.net/newsView/blt202208160021</guid>
+            <pubDate>Tue, 16 Aug 2022 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-16 18:01:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160042.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안트로젠 투자 잭팟 터진 부광약품, 콘테라파마서 연속될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160019</link>
+            <guid>https://www.bloter.net/newsView/blt202208160019</guid>
+            <pubDate>Tue, 16 Aug 2022 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-16 17:58:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160038.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]지니뮤직, '밀리의서재 인수 효과' 이 정도였어?]]></title>
             <link>https://www.bloter.net/newsView/blt202208160016</link>
             <guid>https://www.bloter.net/newsView/blt202208160016</guid>
             <pubDate>Tue, 16 Aug 2022 08:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-16 16:36:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사람인HR, '매칭플랫폼' 실적으로 엿보는 빅데이터 효과]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 15 Aug 2022 03:57:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-15 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110047.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 인터넷 보급 지역 파악 못 해 '인터넷 확대 사업' 차질]]></title>
-            <link>https://www.bloter.net/newsView/blt202208150002</link>
-            <guid>https://www.bloter.net/newsView/blt202208150002</guid>
-            <pubDate>Mon, 15 Aug 2022 01:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 09:30:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“애플, 자체 지도앱부터 광고 확대할 듯”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208150001</link>
-            <guid>https://www.bloter.net/newsView/blt202208150001</guid>
-            <pubDate>Mon, 15 Aug 2022 01:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 08:27:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
