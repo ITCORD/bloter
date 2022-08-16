@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]지니뮤직, '밀리의서재 인수 효과' 이 정도였어?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160016</link>
+            <guid>https://www.bloter.net/newsView/blt202208160016</guid>
+            <pubDate>Tue, 16 Aug 2022 08:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-16 16:36:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사람인HR, '매칭플랫폼' 실적으로 엿보는 빅데이터 효과]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160015</link>
+            <guid>https://www.bloter.net/newsView/blt202208160015</guid>
+            <pubDate>Tue, 16 Aug 2022 08:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-16 16:18:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160023.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김구 살린 전화 한통부터 5G까지…KT 통신사료관 첫 공개 현장]]></title>
             <link>https://www.bloter.net/newsView/blt202208160011</link>
             <guid>https://www.bloter.net/newsView/blt202208160011</guid>
             <pubDate>Tue, 16 Aug 2022 07:14:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">원주=이건한</span>                        <span class="date">2022-08-16 15:50:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로톡 이슈, 변호사 간 갈등으로 옮겨 붙었다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 15 Aug 2022 01:44:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 08:27:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 커뮤니티, 이 앱으로 소통한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120021</link>
-            <guid>https://www.bloter.net/newsView/blt202208120021</guid>
-            <pubDate>Sun, 14 Aug 2022 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-14 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT·KT·LGU+, 상반기 비통신 사업 어디서 웃었나]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120026</link>
-            <guid>https://www.bloter.net/newsView/blt202208120026</guid>
-            <pubDate>Sun, 14 Aug 2022 05:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-14 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120046.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]지니뮤직, '밀리의서재 인수 효과' 이 정도였어?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160016</link>
+            <guid>https://www.bloter.net/newsView/blt202208160016</guid>
+            <pubDate>Tue, 16 Aug 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.  공시요약  오늘 소개할 공시는 지니뮤직이 16일 공시한 '반기보고서'입니다. 지니뮤직의 반기보고서에서 주목할 점은 '연결매출 현황' 항목인데요. 올 상반기 밀리의서재가 전자책 서비스로 거둬들인 매]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202208160003</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Aug 2022 08:21:39 GMT</pubDate>
             <content:encoded><![CDATA[펄어비스가 2분기 적자를 냈음에도, 법인세 환급 및 외환 수익을 통해 전 분기 대비 높은 당기순이익을 기록했다.11일 펄어비스는 올 2분기 연결기준 매출 940억원, 영업손실 42억원, 당기순이익 320억원을 기록했다고 밝혔다. 펄어비스의 2분기 매출과 당기순이익은 전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110036.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 청소년들이 가장 많이 사용하는 SNS는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110004</link>
-            <guid>https://www.bloter.net/newsView/blt202208110004</guid>
-            <pubDate>Thu, 11 Aug 2022 03:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[미국 청소년들이 가장 많이 사용하는 소셜미디어(SNS) 플랫폼은 유튜브라는 조사 결과가 나왔다.10일(현지시간) 여론조사기관 퓨 리서치 센터가 미국의 13세~17세 청소년 1316명을 대상으로 지난 4월부터 5월에 진행한 SNS 이용에 대한 조사에 따르면 이용률과 빈도 모두]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110004.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
