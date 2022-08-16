@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 11:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 12:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상반기 게임업계 고액보수자, '엔씨·크래프톤'에 몰렸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160023</link>
+            <guid>https://www.bloter.net/newsView/blt202208160023</guid>
+            <pubDate>Tue, 16 Aug 2022 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[올 상반기 게임업계 고액 보수자 상위 10명 중 9명이 '엔씨소프트'와 '크래프톤' 소속인 것으로 확인됐다. 4년 연속 '상반기 보수킹' 자리를 유지했던 김택진 엔씨소프트 대표는 올 들어 장현국 위메이드 대표에게 정상의 자리를 내줬다. 16일 &lt;블로터&gt;가 주요 게임]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160053.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]지니뮤직, '밀리의서재 인수 효과' 이 정도였어?]]></title>
             <link>https://www.bloter.net/newsView/blt202208160016</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Aug 2022 23:19:46 GMT</pubDate>
             <content:encoded><![CDATA[메타가 페이스북 메신저의 암호화된 대화 내용을 보다 안전하게 백업하는 기능을 시범 운영한다고 밝혔다.11일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 메타가 보안 방침을 강화하기 위해 이번 주부터 ‘보안 스토리지’ 기능을 일부 iOS 및 안드로이드 메신저]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['적자전환' 펄어비스, '당기순이익 급증' 비결은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110015</link>
-            <guid>https://www.bloter.net/newsView/blt202208110015</guid>
-            <pubDate>Thu, 11 Aug 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[펄어비스가 2분기 적자를 냈음에도, 법인세 환급 및 외환 수익을 통해 전 분기 대비 높은 당기순이익을 기록했다.11일 펄어비스는 올 2분기 연결기준 매출 940억원, 영업손실 42억원, 당기순이익 320억원을 기록했다고 밝혔다. 펄어비스의 2분기 매출과 당기순이익은 전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110036.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
