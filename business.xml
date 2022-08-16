@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 01:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160003</link>
+            <guid>https://www.bloter.net/newsView/blt202208160003</guid>
+            <pubDate>Tue, 16 Aug 2022 03:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 09:33:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월마트, 파라마운트와 손 잡는다…아마존프라임 정조준]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160002</link>
+            <guid>https://www.bloter.net/newsView/blt202208160002</guid>
+            <pubDate>Tue, 16 Aug 2022 03:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 08:38:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[③하나금융과 혈맹맺은 SKT, 진짜 관심은 하나손보보다 '캐롯손보']]></title>
             <link>https://www.bloter.net/newsView/blt202208130004</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 16 Aug 2022 01:47:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 10:13:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 인터넷 보급 지역 파악 못 해 '인터넷 확대 사업' 차질]]></title>
-            <link>https://www.bloter.net/newsView/blt202208150002</link>
-            <guid>https://www.bloter.net/newsView/blt202208150002</guid>
-            <pubDate>Mon, 15 Aug 2022 21:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 09:30:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“애플, 자체 지도앱부터 광고 확대할 듯”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208150001</link>
-            <guid>https://www.bloter.net/newsView/blt202208150001</guid>
-            <pubDate>Mon, 15 Aug 2022 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-15 08:27:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/15/blt202208150002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
