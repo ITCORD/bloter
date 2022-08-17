@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 스타트업에 빠진 SK㈜...상반기 모빌리티·바이오·친환경 분야 투자 활발]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170013</link>
+            <guid>https://www.bloter.net/newsView/blt202208170013</guid>
+            <pubDate>Wed, 17 Aug 2022 08:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-17 17:20:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170030.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성이 주목한 바이오 기술…라이프 펀드로 투자 받는 기업의 공통점]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170017</link>
+            <guid>https://www.bloter.net/newsView/blt202208170017</guid>
+            <pubDate>Wed, 17 Aug 2022 08:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-17 16:18:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170027.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온제약 ‘고덱스캡슐’ 급여재평가 후폭풍…후속 임상 좌초 '위기']]></title>
             <link>https://www.bloter.net/newsView/blt202208170010</link>
             <guid>https://www.bloter.net/newsView/blt202208170010</guid>
             <pubDate>Wed, 17 Aug 2022 07:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-17 16:06:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170014.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170014.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['한국 시장' 기여도 강조한 구글, "경제 효과 19조원대"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 16 Aug 2022 01:47:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 10:07:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160008.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹툰 후발 주자 우아한형제들, 어떻게 자리 잡았나]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160004</link>
-            <guid>https://www.bloter.net/newsView/blt202208160004</guid>
-            <pubDate>Tue, 16 Aug 2022 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-16 09:45:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160003</link>
-            <guid>https://www.bloter.net/newsView/blt202208160003</guid>
-            <pubDate>Tue, 16 Aug 2022 01:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 09:33:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
