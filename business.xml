@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 01:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대모비스, AS·모듈 사업 분할 검토...지배구조 개편 재추진 임박]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160013</link>
+            <guid>https://www.bloter.net/newsView/blt202208160013</guid>
+            <pubDate>Wed, 17 Aug 2022 01:51:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-16 18:21:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160044.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[농심, 국내 사업 적자 냈지만…"가격 인상 없다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160018</link>
+            <guid>https://www.bloter.net/newsView/blt202208160018</guid>
+            <pubDate>Wed, 17 Aug 2022 01:51:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-16 17:38:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국서 반독점 피소 '애플페이', 인앱결제 다음 트러블메이커 될까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160017</link>
+            <guid>https://www.bloter.net/newsView/blt202208160017</guid>
+            <pubDate>Wed, 17 Aug 2022 01:51:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-16 17:13:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빙그레, 재고자산 2배 급증…성수기 대비?]]></title>
             <link>https://www.bloter.net/newsView/blt202208160012</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 16 Aug 2022 09:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-16 12:43:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160009.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[실적 고공행진 LIG넥스원, 신형 경어뢰 개발 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160005</link>
-            <guid>https://www.bloter.net/newsView/blt202208160005</guid>
-            <pubDate>Tue, 16 Aug 2022 08:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-16 10:15:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ISS 탈퇴한다는 러시아, 자체 우주정거장 모형 공개해]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160006</link>
-            <guid>https://www.bloter.net/newsView/blt202208160006</guid>
-            <pubDate>Tue, 16 Aug 2022 06:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 10:07:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160008.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160003</link>
-            <guid>https://www.bloter.net/newsView/blt202208160003</guid>
-            <pubDate>Tue, 16 Aug 2022 03:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-16 09:33:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
