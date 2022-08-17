@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잡음 끊이지 않는 블리자드…이번엔 '근로자 불법 감시' 의혹]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170006</link>
+            <guid>https://www.bloter.net/newsView/blt202208170006</guid>
+            <pubDate>Wed, 17 Aug 2022 04:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[액티비전 블리자드(이하 블리자드)가 근로자들을 불법 감시했다는 의혹이 제기됐다.16일(현지시간) IT 전문매체 &lt;엔가젯&gt;은 "미국 통신노조(CWA)가 지난달 사내 성차별 시위에 참여한 직원을 불법 감시해 노동법을 위반한 혐의로 블리자드를 고발했다"고 전했다. C]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 오라클에 '알고리즘 평가' 맡겨…中 정부 조작 막는다]]></title>
             <link>https://www.bloter.net/newsView/blt202208170004</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 12 Aug 2022 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[엔씨소프트가 신작 '쓰론 앤 리버티'(이하 TL)의 목표 출시일을 내년 상반기로 연기하는 등 사업계획에 변화를 줬다. 지난해 11월 출시한 '리니지W'의 매출이 하향 안정화 기조에 접어든 상황에서 엔씨소프트가 TL 출시를 잠정 연기한 이유는 무엇일까. 리니지 IP로 시]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120061.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래프톤, 차기작 'TCP'로 노리는 '큰 그림'은]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120015</link>
-            <guid>https://www.bloter.net/newsView/blt202208120015</guid>
-            <pubDate>Fri, 12 Aug 2022 08:22:43 GMT</pubDate>
-            <content:encoded><![CDATA['플레이어 언노운스 배틀그라운드'(이하 배그)로 전 세계 게임시장을 석권했던 크래프톤이 차기작 '칼리스토 프로토콜'(The Callisto Protocol, 이하 TCP)을 통해 또 한 번 글로벌 흥행을 노린다. 크래프톤은 2017년 3월 얼리액세스 버전으로 출시된 후 16일 만에 1000만개를 판]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120017.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
