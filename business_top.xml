@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[파운트가 투자 침체기를 극복하는 법…수요자 맞춤형 정보 강화]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180012</link>
-            <guid>https://www.bloter.net/newsView/blt202208180012</guid>
-            <pubDate>Thu, 18 Aug 2022 06:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-18 15:05:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180026.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[삼성전자, 지난해 온실가스 배출량 15% 증가...정유·시멘트사보다 많아]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180011</link>
+            <guid>https://www.bloter.net/newsView/blt202208180011</guid>
+            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-18 15:49:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180028.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[투자 확 줄인 네이버, 신성장 동력 딜레마]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180008</link>
-            <guid>https://www.bloter.net/newsView/blt202208180008</guid>
-            <pubDate>Thu, 18 Aug 2022 06:21:52 GMT</pubDate>
+            <title><![CDATA[삼성전자 노사, 첫 임금협약 체결...'실리추구'한 노조, 유급휴가 따내]]></title>
+            <link>https://www.bloter.net/newsView/blt202208080014</link>
+            <guid>https://www.bloter.net/newsView/blt202208080014</guid>
+            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['Scope 3' 소극적이던 삼성전자...협력사 관리 나서나]]></title>
+            <link>https://www.bloter.net/newsView/blt202203240015</link>
+            <guid>https://www.bloter.net/newsView/blt202203240015</guid>
+            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['알라미'는 외부투자 없이 어떻게 영업이익률 50%를 냈을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120022</link>
-            <guid>https://www.bloter.net/newsView/blt202208120022</guid>
-            <pubDate>Thu, 18 Aug 2022 06:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[금융권 마이데이터 잘 아는 LG CNS…'파운트' 손잡은 의미]]></title>
-            <link>https://www.bloter.net/newsView/blt202206290013</link>
-            <guid>https://www.bloter.net/newsView/blt202206290013</guid>
-            <pubDate>Thu, 18 Aug 2022 06:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[질 좋은 상품 만드는 ‘금융농부’의 길 : 파운트 김영빈·김민복 인터뷰]]></title>
-            <link>https://www.bloter.net/newsView/blt202011120008</link>
-            <guid>https://www.bloter.net/newsView/blt202011120008</guid>
-            <pubDate>Thu, 18 Aug 2022 06:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자 지적한 APG...'원 단위' 배출 근거 합당할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180076</link>
+            <guid>https://www.bloter.net/newsView/blt202202180076</guid>
+            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
