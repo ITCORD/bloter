@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 11:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 12:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드엑스피트니스 적자 이유? "매출이 없으니까요"]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180022</link>
+            <guid>https://www.bloter.net/newsView/blt202208180022</guid>
+            <pubDate>Thu, 18 Aug 2022 12:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드엑스코퍼레이션(이하 브랜드엑스)의 자회사인 브랜드엑스피트니스가 적자 기조를 이어가고 있다. 앞서 브랜드엑스는 지난해 8월 디지털헬스케어 사업을 효율적으로 운영하기 위해 신설법인을 설립했지만 1년 내내 수익구조 없이 서비스를 운영하면서 손실]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180050.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]넷마블F&C 자회사 메타버스월드, 자체 메인넷 구축 시동]]></title>
             <link>https://www.bloter.net/newsView/blt202208170028</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 15 Aug 2022 03:57:50 GMT</pubDate>
             <content:encoded><![CDATA[컴투스가 콘텐츠 제작계열사의 성장세에 힘입어 흑자전환에 성공했다. 지난 1분기 적자의 늪에 빠졌던 컴투스는 콘텐츠 투자로 거둔 이익을 신사업에 활용한다는 계획이다. 실제로 2분기 컴투스는 매출 1934억원, 영업이익 38억원, 당기순이익 149억원을 기록했다. 이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110047.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 커뮤니티, 이 앱으로 소통한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120021</link>
-            <guid>https://www.bloter.net/newsView/blt202208120021</guid>
-            <pubDate>Sun, 14 Aug 2022 07:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 몇년 간 가상자산 커뮤니티는 소통을 위해 트위터와 같은 소셜미디어(SNS)플랫폼이나 디스코드, 텔레그램과 같은 메시징 애플리케이션(앱)을 사용해왔다. IT 전문매체 &lt;테크크런치&gt;에 따르면 그 중에서도 텔레그램이 가장 활발한 소통 창구 기능을 하고 있]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/12/blt202208120034.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
