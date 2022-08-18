@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 광고 요금제 '다운로드' 기능 막나...아이폰 앱 코드 단서 발견]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180004</link>
+            <guid>https://www.bloter.net/newsView/blt202208180004</guid>
+            <pubDate>Thu, 18 Aug 2022 06:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-18 09:21:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[에어비앤비, 파티용 숙소 예약 차단한다]]></title>
             <link>https://www.bloter.net/newsView/blt202208180003</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 18 Aug 2022 01:47:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-17 17:12:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풀무원, ‘돈 먹는 하마’ 해외사업…적자 더 커졌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170016</link>
-            <guid>https://www.bloter.net/newsView/blt202208170016</guid>
-            <pubDate>Wed, 17 Aug 2022 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-17 16:15:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
