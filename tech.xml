@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 14:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 15:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AWS가 한국 스타트업 CEO와 일대일로 만나는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180025</link>
+            <guid>https://www.bloter.net/newsView/blt202208180025</guid>
+            <pubDate>Thu, 18 Aug 2022 15:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-18 23:51:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180063.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브랜드엑스, 매출없는 '국민피티' 수익구조 만들까]]></title>
             <link>https://www.bloter.net/newsView/blt202208180022</link>
             <guid>https://www.bloter.net/newsView/blt202208180022</guid>
             <pubDate>Thu, 18 Aug 2022 12:36:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-18 20:49:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180050.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180050.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장+]“지구 살려요”…이색에 이색 더한 과학축제, 삼성전자·BMW도 등장]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 17 Aug 2022 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-17 16:18:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온제약 ‘고덱스캡슐’ 급여재평가 후폭풍…후속 임상 좌초 '위기']]></title>
-            <link>https://www.bloter.net/newsView/blt202208170010</link>
-            <guid>https://www.bloter.net/newsView/blt202208170010</guid>
-            <pubDate>Wed, 17 Aug 2022 07:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-17 16:06:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
