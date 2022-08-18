@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 01:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[④신한금융이 '신한EZ손해보험'만으로 만족 못하는 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170023</link>
-            <guid>https://www.bloter.net/newsView/blt202208170023</guid>
-            <pubDate>Wed, 17 Aug 2022 10:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-17 18:17:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170034.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[틱톡, 페북·인스타에 ‘스토리’ 공유하는 기능 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180006</link>
+            <guid>https://www.bloter.net/newsView/blt202208180006</guid>
+            <pubDate>Thu, 18 Aug 2022 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-18 10:16:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180004.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[③하나금융과 혈맹맺은 SKT, 진짜 관심은 하나손보보다 '캐롯손보']]></title>
-            <link>https://www.bloter.net/newsView/blt202208130004</link>
-            <guid>https://www.bloter.net/newsView/blt202208130004</guid>
-            <pubDate>Wed, 17 Aug 2022 10:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[틱톡, 오라클에 '알고리즘 평가' 맡겨…中 정부 조작 막는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170004</link>
+            <guid>https://www.bloter.net/newsView/blt202208170004</guid>
+            <pubDate>Thu, 18 Aug 2022 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[②게임보다 높은 삼성화재 리텐션율…'빅테크 안 부럽네']]></title>
-            <link>https://www.bloter.net/newsView/blt202208110020</link>
-            <guid>https://www.bloter.net/newsView/blt202208110020</guid>
-            <pubDate>Wed, 17 Aug 2022 10:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160003</link>
+            <guid>https://www.bloter.net/newsView/blt202208160003</guid>
+            <pubDate>Thu, 18 Aug 2022 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[①카카오의 플랫폼 전략, 손해보험서 실패 맛볼까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080022</link>
-            <guid>https://www.bloter.net/newsView/blt202208080022</guid>
-            <pubDate>Wed, 17 Aug 2022 10:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[틱톡, '선정적 콘텐츠 필터링' 확대한다…10대부터 순차 적용]]></title>
+            <link>https://www.bloter.net/newsView/blt202207140015</link>
+            <guid>https://www.bloter.net/newsView/blt202207140015</guid>
+            <pubDate>Thu, 18 Aug 2022 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[틱톡도 유튜브처럼 광고 도입한다…6월 미국부터 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202205050004</link>
+            <guid>https://www.bloter.net/newsView/blt202205050004</guid>
+            <pubDate>Thu, 18 Aug 2022 01:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
