@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 07:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 08:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자, 지난해 온실가스 배출량 15% 증가...정유·시멘트사보다 많아]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180011</link>
-            <guid>https://www.bloter.net/newsView/blt202208180011</guid>
-            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-18 15:49:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180028.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[실적 대박 오리온의 고민…1조 육박 현금 어디에]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180018</link>
+            <guid>https://www.bloter.net/newsView/blt202208180018</guid>
+            <pubDate>Thu, 18 Aug 2022 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-18 17:07:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180037.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자 노사, 첫 임금협약 체결...'실리추구'한 노조, 유급휴가 따내]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080014</link>
-            <guid>https://www.bloter.net/newsView/blt202208080014</guid>
-            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
+            <title><![CDATA[‘중국∙러시아∙베트남’ 다 통했다…오리온, 올해 최대 실적 낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150017</link>
+            <guid>https://www.bloter.net/newsView/blt202206150017</guid>
+            <pubDate>Thu, 18 Aug 2022 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오리온에는 두 개의 '고소미'가 있어요]]></title>
+            <link>https://www.bloter.net/newsView/blt202102220013</link>
+            <guid>https://www.bloter.net/newsView/blt202102220013</guid>
+            <pubDate>Thu, 18 Aug 2022 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김주리</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘한한령도 뚫는다’…오리온, 중국시장 매출 1조 복귀]]></title>
+            <link>https://www.bloter.net/newsView/blt202102030017</link>
+            <guid>https://www.bloter.net/newsView/blt202102030017</guid>
+            <pubDate>Thu, 18 Aug 2022 08:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[베트남 '한꿔' 열풍, 오리온의 질주]]></title>
+            <link>https://www.bloter.net/newsView/blt202011090019</link>
+            <guid>https://www.bloter.net/newsView/blt202011090019</guid>
+            <pubDate>Thu, 18 Aug 2022 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['Scope 3' 소극적이던 삼성전자...협력사 관리 나서나]]></title>
-            <link>https://www.bloter.net/newsView/blt202203240015</link>
-            <guid>https://www.bloter.net/newsView/blt202203240015</guid>
-            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 지적한 APG...'원 단위' 배출 근거 합당할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180076</link>
-            <guid>https://www.bloter.net/newsView/blt202202180076</guid>
-            <pubDate>Thu, 18 Aug 2022 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
