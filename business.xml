@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 04:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에어비앤비, 파티용 숙소 예약 차단한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180003</link>
+            <guid>https://www.bloter.net/newsView/blt202208180003</guid>
+            <pubDate>Thu, 18 Aug 2022 05:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-18 08:23:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[④신한금융이 '신한EZ손해보험'만으로 만족 못하는 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208170023</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 17 Aug 2022 09:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-17 16:15:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코픽스 빅스텝에 이목 끄는 카카오뱅크 '45년 주담대'…집값 하락하면?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170009</link>
-            <guid>https://www.bloter.net/newsView/blt202208170009</guid>
-            <pubDate>Wed, 17 Aug 2022 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-17 14:42:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170010.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
