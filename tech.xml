@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무디스, SK하이닉스 신용등급 'Baa2' 유지…전망 '부정적 → 안정적']]></title>
+            <link>https://www.bloter.net/newsView/blt202208190020</link>
+            <guid>https://www.bloter.net/newsView/blt202208190020</guid>
+            <pubDate>Fri, 19 Aug 2022 10:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-19 18:50:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]공공·스포츠 SI 강자 '쌍용정보통신', 클라우드로 체질 개선 나선 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208190016</link>
             <guid>https://www.bloter.net/newsView/blt202208190016</guid>
             <pubDate>Fri, 19 Aug 2022 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-19 17:28:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종근당건강이 KT ‘디지털’ 입는 이유…330만 기가지니 고객은 ‘덤’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 18 Aug 2022 05:35:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-18 14:00:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블F&C 자회사 메타버스월드, 자체 메인넷 구축 시동]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170028</link>
-            <guid>https://www.bloter.net/newsView/blt202208170028</guid>
-            <pubDate>Thu, 18 Aug 2022 01:48:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-18 10:33:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
