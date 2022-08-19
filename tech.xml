@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 01:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:52:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자회사 브랜드 키우는 FSN, '탈모 케어'도 성공시킬까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208160014</link>
+            <guid>https://www.bloter.net/newsView/blt202208160014</guid>
+            <pubDate>Fri, 19 Aug 2022 03:50:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-19 11:56:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카나리아바이오엠, 세종메디칼 인수 '이상신호'?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208190006</link>
+            <guid>https://www.bloter.net/newsView/blt202208190006</guid>
+            <pubDate>Fri, 19 Aug 2022 03:50:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-19 11:12:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190009.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리비안, 픽업트럭 저가 패키지 생산 취소에 소비자 반발]]></title>
             <link>https://www.bloter.net/newsView/blt202208190004</link>
             <guid>https://www.bloter.net/newsView/blt202208190004</guid>
             <pubDate>Fri, 19 Aug 2022 01:48:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-19 10:13:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190007.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190007.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[허리띠 졸라매는 스냅, '셀카 찍는 드론 카메라’ 접는다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 18 Aug 2022 01:48:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-18 08:23:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[클라우드 보안 전략]에스원이 '24시간 관제·솔루션'으로 원격근무 안전 지키는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170026</link>
-            <guid>https://www.bloter.net/newsView/blt202208170026</guid>
-            <pubDate>Wed, 17 Aug 2022 21:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-18 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170043.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LX세미콘, 13년 만에 코스피 이전상장 추진...코스피200 지수 편입 가능할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170022</link>
-            <guid>https://www.bloter.net/newsView/blt202208170022</guid>
-            <pubDate>Wed, 17 Aug 2022 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-17 18:06:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/17/blt202208170035.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
