@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 22:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 23:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[블로터언팩]번호 2개로 사용해본 갤럭시Z 플립4·폴드4]]></title>
+            <link>https://www.bloter.net/newsView/blt202208190019</link>
+            <guid>https://www.bloter.net/newsView/blt202208190019</guid>
+            <pubDate>Fri, 19 Aug 2022 23:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-20 07:46:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'뽀득'은 '설거지'로 어떻게 해외 진출까지 꿈꾸게 됐을까]]></title>
             <link>https://www.bloter.net/newsView/blt202208190021</link>
             <guid>https://www.bloter.net/newsView/blt202208190021</guid>
             <pubDate>Fri, 19 Aug 2022 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-08-19 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190045.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무디스, SK하이닉스 신용등급 'Baa2' 유지…전망 '부정적 → 안정적']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 18 Aug 2022 08:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-18 17:19:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]일본 가는 '네이버제트'...글로벌 현지화·대외협력 올인]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180010</link>
-            <guid>https://www.bloter.net/newsView/blt202208180010</guid>
-            <pubDate>Thu, 18 Aug 2022 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-18 14:57:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180022.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
