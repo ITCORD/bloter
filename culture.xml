@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 06:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넥슨, NYPC에 '라운드 제도' 도입한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180024</link>
+            <guid>https://www.bloter.net/newsView/blt202208180024</guid>
+            <pubDate>Fri, 19 Aug 2022 06:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 청소년 코딩 대회인 '넥슨 청소년 프로그래밍 챌린지(NYPC)'의 대회 방식을 변경했다. 예선 대회 형태로 NYPC를 진행했던 넥슨은 올해부터 '라운드 제도'를 도입해 청소년들의 참여 기회를 확대한다는 계획이다.올해로 7회 째를 맞이한 NYPC는 온라인 상에서 예선]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180062.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브랜드엑스, 매출없는 '국민피티' 수익구조 만들까]]></title>
             <link>https://www.bloter.net/newsView/blt202208180022</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 15 Aug 2022 08:22:16 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰이 9년 만에 네이버웹소설의 '오늘의 웹소설' 메뉴를 '시리즈에디션'으로 개편했다. 이는 단순한 메뉴 구성의 변화를 넘어, 네이버시리즈 중심의 웹소설 시스템을 전면 개편한다는 의미로 읽힌다. 승격제 도입, 오리지널리티 집중 최근 네이버시리즈는 정]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/14/blt202208140002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]콘텐츠로 흥한 컴투스, 신사업 시너지 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110021</link>
-            <guid>https://www.bloter.net/newsView/blt202208110021</guid>
-            <pubDate>Mon, 15 Aug 2022 03:57:50 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스가 콘텐츠 제작계열사의 성장세에 힘입어 흑자전환에 성공했다. 지난 1분기 적자의 늪에 빠졌던 컴투스는 콘텐츠 투자로 거둔 이익을 신사업에 활용한다는 계획이다. 실제로 2분기 컴투스는 매출 1934억원, 영업이익 38억원, 당기순이익 149억원을 기록했다. 이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/11/blt202208110047.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
