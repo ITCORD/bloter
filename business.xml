@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 11:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핀다 "빅테크·금융사 기싸움에 국민이 피해본다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202208210002</link>
+            <guid>https://www.bloter.net/newsView/blt202208210002</guid>
+            <pubDate>Sun, 21 Aug 2022 11:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/21/blt202208210002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장년층 앱 된 페이스북...Z세대는 비리얼·틱톡 선호]]></title>
             <link>https://www.bloter.net/newsView/blt202208190017</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 21 Aug 2022 03:41:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-19 18:48:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190042.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK㈜, 친환경 집중투자…’주가 200만원’ 꿈 이룰까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190015</link>
-            <guid>https://www.bloter.net/newsView/blt202208190015</guid>
-            <pubDate>Sat, 20 Aug 2022 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-19 16:35:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190027.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

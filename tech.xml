@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 11:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네오위즈, '적자 개발사' 하이디어 인수 배경은]]></title>
+            <link>https://www.bloter.net/newsView/blt202208200001</link>
+            <guid>https://www.bloter.net/newsView/blt202208200001</guid>
+            <pubDate>Sun, 21 Aug 2022 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-21 19:44:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200004.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 원메디컬 인수...의료 산업은 '빅테크가 필요해']]></title>
             <link>https://www.bloter.net/newsView/blt202208190022</link>
             <guid>https://www.bloter.net/newsView/blt202208190022</guid>
             <pubDate>Sun, 21 Aug 2022 07:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-21 15:58:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190050.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190050.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]핀다 "빅테크·금융사 기싸움에 국민이 피해본다"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 19 Aug 2022 03:50:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-19 11:12:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리비안, 픽업트럭 저가 패키지 생산 취소에 소비자 반발]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190004</link>
-            <guid>https://www.bloter.net/newsView/blt202208190004</guid>
-            <pubDate>Fri, 19 Aug 2022 01:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-19 10:13:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190007.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

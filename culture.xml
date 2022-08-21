@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 11:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네오위즈, '적자 개발사' 하이디어 인수 배경은]]></title>
+            <link>https://www.bloter.net/newsView/blt202208200001</link>
+            <guid>https://www.bloter.net/newsView/blt202208200001</guid>
+            <pubDate>Sun, 21 Aug 2022 11:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[네오위즈가 '루티에' 시리즈를 개발한 블루스카이게임즈를 인수해 사업역량을 확대한다. '고양이와 스프', '스컬: 더 히어로 슬레이어' 등으로 인디게임의 잠재력을 확인한 네오위즈는 블루스카이게임즈(이하 블루스카이)를 통해 신성장 동력을 발굴한다는 계획이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200004.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['플랫폼 투자 혹한기' 이겨낸 트렌비...다음 스텝은?]]></title>
             <link>https://www.bloter.net/newsView/blt202208190027</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 16 Aug 2022 01:48:18 GMT</pubDate>
             <content:encoded><![CDATA[숏폼 모바일 비디오 플랫폼 '틱톡'이 간단한 텍스트로 이미지를 만들 수 있는 인공지능(AI) 효과를 도입했다.15일(현지시간) IT 전문매체 &lt;더버지&gt;는 "틱톡이 최근 iOS 및 안드로이드용 애플리케이션(앱)에 AI 그린스크린 효과를 추가했다"고 전했다. AI 그린스크린은]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월마트, 파라마운트와 손 잡는다…아마존프라임 정조준]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160002</link>
-            <guid>https://www.bloter.net/newsView/blt202208160002</guid>
-            <pubDate>Tue, 16 Aug 2022 01:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[미국 유통기업 월마트가 자체 멤버십 프로그램에 온라인동영상서비스(OTT) '파라마운드 플러스'를 도입한다.15일(현지시간) 월마트는 "다음달부터 파라마운트 플러스가 포함된 월마트 플러스를 이전과 동일한 구독료로 기존 회원에게 제공한다"며 "월마트 회원은 파]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
