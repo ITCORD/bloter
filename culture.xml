@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 03:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 04:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['플랫폼 투자 혹한기' 이겨낸 트렌비...다음 스텝은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208190027</link>
+            <guid>https://www.bloter.net/newsView/blt202208190027</guid>
+            <pubDate>Sun, 21 Aug 2022 04:33:22 GMT</pubDate>
+            <content:encoded><![CDATA[트렌비가 350억원 규모의 D라운드 투자 유치에 성공했다. 이번 투자에는 기존 투자자인 IMM인베스트먼트와 에이티넘 인베스트먼트, LB인베스트먼트, 뮤렉스파트너스와 신규 투자자 SL인베스트먼트와 한국투자증권이 참여했다. 기존 투자자 한국투자파트너스는 이달]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190057.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장년층 앱 된 페이스북...Z세대는 비리얼·틱톡 선호]]></title>
             <link>https://www.bloter.net/newsView/blt202208190017</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 16 Aug 2022 01:48:18 GMT</pubDate>
             <content:encoded><![CDATA[미국 유통기업 월마트가 자체 멤버십 프로그램에 온라인동영상서비스(OTT) '파라마운드 플러스'를 도입한다.15일(현지시간) 월마트는 "다음달부터 파라마운트 플러스가 포함된 월마트 플러스를 이전과 동일한 구독료로 기존 회원에게 제공한다"며 "월마트 회원은 파]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2022]⑦韓 오리지널 영화 총 공세…차기작 '20세기소녀'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160001</link>
-            <guid>https://www.bloter.net/newsView/blt202208160001</guid>
-            <pubDate>Mon, 15 Aug 2022 22:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 한국판 오리지널 영화 차기작으로 '20세기소녀'(20TH CENTURY GIRL)를 낙점했다.17일 &lt;블로터&gt; 취재 결과, 넷플릭스가 지난 5일 영상물등급위원회(이하 영등위)에 20세기소녀 관련 등급분류를 신청했다.   20세기소녀의 공개일은 앞서 공개된 넷플릭스 오리]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
