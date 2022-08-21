@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 01:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 03:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장년층 앱 된 페이스북...Z세대는 비리얼·틱톡 선호]]></title>
+            <link>https://www.bloter.net/newsView/blt202208190017</link>
+            <guid>https://www.bloter.net/newsView/blt202208190017</guid>
+            <pubDate>Sun, 21 Aug 2022 03:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[메타의 소셜네트워크서비스(SNS) 페이스북이 경쟁사 ‘틱톡’과 ‘비리얼’ 등 신생 SNS로 인해 미국 앱스토어 다운로드 순위에서 밀려나고 있다. IT 전문매체 &lt;테크크런치&gt;는 모바일 애플리케이션(앱) 분석 업체 ‘센서타워’의 애플 앱스토어]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190028.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넥슨, NYPC에 '라운드 제도' 도입한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202208180024</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 15 Aug 2022 22:19:30 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 한국판 오리지널 영화 차기작으로 '20세기소녀'(20TH CENTURY GIRL)를 낙점했다.17일 &lt;블로터&gt; 취재 결과, 넷플릭스가 지난 5일 영상물등급위원회(이하 영등위)에 20세기소녀 관련 등급분류를 신청했다.   20세기소녀의 공개일은 앞서 공개된 넷플릭스 오리]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버웹툰은 왜 웹소설 시스템을 개편할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208140001</link>
-            <guid>https://www.bloter.net/newsView/blt202208140001</guid>
-            <pubDate>Mon, 15 Aug 2022 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰이 9년 만에 네이버웹소설의 '오늘의 웹소설' 메뉴를 '시리즈에디션'으로 개편했다. 이는 단순한 메뉴 구성의 변화를 넘어, 네이버시리즈 중심의 웹소설 시스템을 전면 개편한다는 의미로 읽힌다. 승격제 도입, 오리지널리티 집중 최근 네이버시리즈는 정]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/14/blt202208140002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
