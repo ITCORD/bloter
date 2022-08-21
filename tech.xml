@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 01:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 치료제 손 뗀 셀트리온...‘사상 최대 매출’ 비결은]]></title>
+            <link>https://www.bloter.net/newsView/blt202208200003</link>
+            <guid>https://www.bloter.net/newsView/blt202208200003</guid>
+            <pubDate>Sun, 21 Aug 2022 01:29:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-21 09:58:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]'오디오 테크' 가우디오랩, 왜 네이버가 주목할까]]></title>
             <link>https://www.bloter.net/newsView/blt202208190007</link>
             <guid>https://www.bloter.net/newsView/blt202208190007</guid>
             <pubDate>Sat, 20 Aug 2022 03:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-20 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190018.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190018.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블로터언팩]번호 2개로 사용해본 갤럭시Z 플립4·폴드4]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 18 Aug 2022 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-18 18:01:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180046.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코아스템-켐온 합병…'410억원 전환사채 조기상환청구'가 방아쇠됐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180015</link>
-            <guid>https://www.bloter.net/newsView/blt202208180015</guid>
-            <pubDate>Thu, 18 Aug 2022 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-18 17:59:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180031.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
