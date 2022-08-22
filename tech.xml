@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 23:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중간 광고형 저가 요금제 도입하는 넷플릭스, 적용 콘텐츠 범위는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220003</link>
+            <guid>https://www.bloter.net/newsView/blt202208220003</guid>
+            <pubDate>Mon, 22 Aug 2022 01:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 10:03:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[“애플, 이르면 2023년 지도 앱에 광고 도입”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220002</link>
+            <guid>https://www.bloter.net/newsView/blt202208220002</guid>
+            <pubDate>Mon, 22 Aug 2022 01:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 08:56:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220004.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네오위즈, '적자 개발사' 블루스카이 인수 배경은]]></title>
             <link>https://www.bloter.net/newsView/blt202208200001</link>
             <guid>https://www.bloter.net/newsView/blt202208200001</guid>
             <pubDate>Sun, 21 Aug 2022 11:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-21 19:44:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아마존, 원메디컬 인수...의료 산업은 '빅테크가 필요해']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 19 Aug 2022 06:24:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-19 15:22:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180062.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자회사 브랜드 키우는 FSN, '탈모 케어'도 성공시킬까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160014</link>
-            <guid>https://www.bloter.net/newsView/blt202208160014</guid>
-            <pubDate>Fri, 19 Aug 2022 03:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-19 11:56:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카나리아바이오엠, 세종메디칼 인수 '이상신호'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190006</link>
-            <guid>https://www.bloter.net/newsView/blt202208190006</guid>
-            <pubDate>Fri, 19 Aug 2022 03:50:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-19 11:12:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190009.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
