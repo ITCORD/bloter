@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, 완전자율주행 소프트웨어 가격 25% 인상…올 들어 두 번째]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220001</link>
+            <guid>https://www.bloter.net/newsView/blt202208220001</guid>
+            <pubDate>Mon, 22 Aug 2022 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 08:18:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KB국민은행, 카뱅 1476만주 블록딜한 배경은?]]></title>
             <link>https://www.bloter.net/newsView/blt202208210001</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 21 Aug 2022 11:14:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/21/blt202208210002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장년층 앱 된 페이스북...Z세대는 비리얼·틱톡 선호]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190017</link>
-            <guid>https://www.bloter.net/newsView/blt202208190017</guid>
-            <pubDate>Sun, 21 Aug 2022 09:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-21 12:10:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190028.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
