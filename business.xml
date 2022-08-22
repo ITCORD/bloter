@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 04:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KB국민은행, 카뱅 1476만주 블록딜한 배경은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208210001</link>
+            <guid>https://www.bloter.net/newsView/blt202208210001</guid>
+            <pubDate>Mon, 22 Aug 2022 05:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 19:24:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/21/blt202208210001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 정부 '스타트업 진흥’ 기조에 곧바로 보폭 맞추는 신한금융]]></title>
             <link>https://www.bloter.net/newsView/blt202208200005</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 21 Aug 2022 09:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-21 12:10:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190028.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['배터리 추격' 롯데케미칼, 일진머티리얼즈 품을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190025</link>
-            <guid>https://www.bloter.net/newsView/blt202208190025</guid>
-            <pubDate>Sun, 21 Aug 2022 08:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-20 23:41:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190053.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
