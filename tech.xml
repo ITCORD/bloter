@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 01:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 창사 이래 '자산 100조' 최초 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180013</link>
+            <guid>https://www.bloter.net/newsView/blt202208180013</guid>
+            <pubDate>Mon, 22 Aug 2022 04:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-08-22 11:21:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버, 연이은 친환경 행보...핵심은 '카본 네거티브']]></title>
+            <link>https://www.bloter.net/newsView/blt202208220004</link>
+            <guid>https://www.bloter.net/newsView/blt202208220004</guid>
+            <pubDate>Mon, 22 Aug 2022 04:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-22 11:05:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220009.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중간 광고형 저가 요금제 도입하는 넷플릭스, 적용 콘텐츠 범위는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208220003</link>
             <guid>https://www.bloter.net/newsView/blt202208220003</guid>
             <pubDate>Mon, 22 Aug 2022 01:42:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 10:03:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“애플, 이르면 2023년 지도 앱에 광고 도입”]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 19 Aug 2022 08:21:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-19 16:34:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190025.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자유인 된 이재용, 반도체에 20조 투자..."세상에 없는 기술로 미래 만들자"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190011</link>
-            <guid>https://www.bloter.net/newsView/blt202208190011</guid>
-            <pubDate>Fri, 19 Aug 2022 07:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-19 15:33:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥슨, NYPC에 '라운드 제도' 도입한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180024</link>
-            <guid>https://www.bloter.net/newsView/blt202208180024</guid>
-            <pubDate>Fri, 19 Aug 2022 06:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-19 15:22:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180062.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
