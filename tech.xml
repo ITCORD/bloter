@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 05:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 06:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘제약바이오혁신위원회’ 설치, 대통령 보고서 빠진 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220007</link>
+            <guid>https://www.bloter.net/newsView/blt202208220007</guid>
+            <pubDate>Mon, 22 Aug 2022 06:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-22 15:00:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, 창사 이래 '자산 100조' 최초 돌파]]></title>
             <link>https://www.bloter.net/newsView/blt202208180013</link>
             <guid>https://www.bloter.net/newsView/blt202208180013</guid>
             <pubDate>Mon, 22 Aug 2022 04:00:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-08-22 11:21:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버, 연이은 친환경 행보...핵심은 '카본 네거티브']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 19 Aug 2022 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-19 17:23:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190032.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘탈원전 탈피’ 약속한 尹정부, SMR 중심 진흥 정책 구체화 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190012</link>
-            <guid>https://www.bloter.net/newsView/blt202208190012</guid>
-            <pubDate>Fri, 19 Aug 2022 08:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-19 16:34:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190025.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
