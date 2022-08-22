@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]카카오웹툰 'ONE', 영상화…OTT 편성 논의 중]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220015</link>
+            <guid>https://www.bloter.net/newsView/blt202208220015</guid>
+            <pubDate>Mon, 22 Aug 2022 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[카카오웹툰(옛 다음웹툰) 연재작인 웹툰 '원(ONE)'이 영상콘텐츠로 재탄생한다. 웹툰·웹소설을 통해 콘텐츠 사업영역을 확장 중인 카카오엔터테인먼트는 ONE을 비롯한 자체 IP로 콘텐츠 부가가치를 제고할 계획이다.22일 &lt;블로터&gt; 취재 결과 웹툰 ONE 기반의 OTT]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네오위즈, '적자 개발사' 블루스카이 인수 배경은]]></title>
             <link>https://www.bloter.net/newsView/blt202208200001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 16 Aug 2022 08:18:22 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.  공시요약  오늘 소개할 공시는 지니뮤직이 16일 공시한 '반기보고서'입니다. 지니뮤직의 반기보고서에서 주목할 점은 '연결매출 현황' 항목인데요. 올 상반기 밀리의서재가 전자책 서비스로 거둬들인 매]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160026.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 텍스트로 이미지 만드는 'AI 그린스크린' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202208160003</link>
-            <guid>https://www.bloter.net/newsView/blt202208160003</guid>
-            <pubDate>Tue, 16 Aug 2022 01:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 모바일 비디오 플랫폼 '틱톡'이 간단한 텍스트로 이미지를 만들 수 있는 인공지능(AI) 효과를 도입했다.15일(현지시간) IT 전문매체 &lt;더버지&gt;는 "틱톡이 최근 iOS 및 안드로이드용 애플리케이션(앱)에 AI 그린스크린 효과를 추가했다"고 전했다. AI 그린스크린은]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/16/blt202208160004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]카카오웹툰 'ONE', 영상화…OTT 편성 논의 중]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220015</link>
+            <guid>https://www.bloter.net/newsView/blt202208220015</guid>
+            <pubDate>Mon, 22 Aug 2022 08:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-22 16:45:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘제약바이오혁신위원회’ 설치, 대통령 보고서 빠진 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208220007</link>
             <guid>https://www.bloter.net/newsView/blt202208220007</guid>
             <pubDate>Mon, 22 Aug 2022 06:25:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-22 15:00:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK하이닉스, 창사 이래 '자산 100조' 최초 돌파]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 19 Aug 2022 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-19 17:28:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종근당건강이 KT ‘디지털’ 입는 이유…330만 기가지니 고객은 ‘덤’]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190018</link>
-            <guid>https://www.bloter.net/newsView/blt202208190018</guid>
-            <pubDate>Fri, 19 Aug 2022 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-19 17:23:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190032.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
