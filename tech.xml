@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코스닥 기특상장 평가 모델, '심사 강화 아니라지만'…불안한 바이오 기업들]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230010</link>
+            <guid>https://www.bloter.net/newsView/blt202208230010</guid>
+            <pubDate>Tue, 23 Aug 2022 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-23 17:23:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1994년부터 이어온 韓-이스라엘 과학 협력…올해 연구 분야는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208230009</link>
             <guid>https://www.bloter.net/newsView/blt202208230009</guid>
             <pubDate>Tue, 23 Aug 2022 07:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-23 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230013.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['크립토 윈터' 맞은 가상자산거래소…NFT 띄우기 사전작업]]></title>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['투자 주역=하이버'…브랜디 가려진 '성장 지표' 괜찮을까?]]></title>
+            <title><![CDATA[하반기 한숨돌린 브랜디, '투자 주역=하이버'?]]></title>
             <link>https://www.bloter.net/newsView/blt202208220020</link>
             <guid>https://www.bloter.net/newsView/blt202208220020</guid>
             <pubDate>Tue, 23 Aug 2022 05:54:07 GMT</pubDate>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 22 Aug 2022 01:42:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 10:03:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“애플, 이르면 2023년 지도 앱에 광고 도입”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220002</link>
-            <guid>https://www.bloter.net/newsView/blt202208220002</guid>
-            <pubDate>Mon, 22 Aug 2022 01:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 08:56:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

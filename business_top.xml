@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[바이든, '100억불 투자자' 현대차에 전기차 보조금 외면했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230008</link>
-            <guid>https://www.bloter.net/newsView/blt202208230008</guid>
-            <pubDate>Tue, 23 Aug 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-23 15:57:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230015.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한진그룹, 제주 칼호텔 950억에 매각]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230011</link>
+            <guid>https://www.bloter.net/newsView/blt202208230011</guid>
+            <pubDate>Tue, 23 Aug 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-23 18:07:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230024.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['보호무역' 파고에 현대차 해외공장 건설 속도 낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220014</link>
-            <guid>https://www.bloter.net/newsView/blt202208220014</guid>
-            <pubDate>Tue, 23 Aug 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한진칼 경영권분쟁 '끝'...호반건설, KCGI 보유 한진칼 지분 인수]]></title>
+            <link>https://www.bloter.net/newsView/blt202203280059</link>
+            <guid>https://www.bloter.net/newsView/blt202203280059</guid>
+            <pubDate>Tue, 23 Aug 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span><span class="writer">문병선</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대차그룹, 자율주행·로보틱스·UAM 계열사 반기 순손실 8000억 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190014</link>
-            <guid>https://www.bloter.net/newsView/blt202208190014</guid>
-            <pubDate>Tue, 23 Aug 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KCGI "3자연합 공동계약 해지"...한진칼 경영권 분쟁 종식 선언]]></title>
+            <link>https://www.bloter.net/newsView/blt202104020007</link>
+            <guid>https://www.bloter.net/newsView/blt202104020007</guid>
+            <pubDate>Tue, 23 Aug 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이승연</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포티투닷, 현대차그룹 4200억 투자 받았다...지분 가치 3년새 25배]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120017</link>
-            <guid>https://www.bloter.net/newsView/blt202208120017</guid>
-            <pubDate>Tue, 23 Aug 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['현대차 잘 팔리니'...현대모비스, 전기차 부품 매출·R&D '역대급']]></title>
-            <link>https://www.bloter.net/newsView/blt202207220005</link>
-            <guid>https://www.bloter.net/newsView/blt202207220005</guid>
-            <pubDate>Tue, 23 Aug 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['침묵한 3자 주주연합'...한진칼 경영권 분쟁 이대로 '끝'?]]></title>
+            <link>https://www.bloter.net/newsView/blt202103260012</link>
+            <guid>https://www.bloter.net/newsView/blt202103260012</guid>
+            <pubDate>Tue, 23 Aug 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이승연</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
