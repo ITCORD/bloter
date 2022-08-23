@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['크립토 윈터' 맞은 가상자산거래소…NFT 띄우기 사전작업]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230005</link>
+            <guid>https://www.bloter.net/newsView/blt202208230005</guid>
+            <pubDate>Tue, 23 Aug 2022 10:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-23 13:55:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스, 전기자전거 교체 보조금 규모 확대한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202208230004</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 23 Aug 2022 04:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-22 17:50:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220027.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MaaS 노리는 티맵, 'KB 시너지'에 거는 기대감]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220012</link>
-            <guid>https://www.bloter.net/newsView/blt202208220012</guid>
-            <pubDate>Tue, 23 Aug 2022 04:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-22 16:28:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

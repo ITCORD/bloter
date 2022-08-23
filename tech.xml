@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[31GB 다음 150GB…비슷한 SKT·KT·LGU+ 5G 중간요금제, 갈 길 멀다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230012</link>
+            <guid>https://www.bloter.net/newsView/blt202208230012</guid>
+            <pubDate>Tue, 23 Aug 2022 10:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-23 18:20:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230025.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 몸 되는 다나와·코리아센터, 여행·자동차 신사업 속도낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180016</link>
+            <guid>https://www.bloter.net/newsView/blt202208180016</guid>
+            <pubDate>Tue, 23 Aug 2022 10:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-23 18:18:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230028.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스닥 기특상장 평가 모델, '심사 강화 아니라지만'…불안한 바이오 기업들]]></title>
             <link>https://www.bloter.net/newsView/blt202208230010</link>
             <guid>https://www.bloter.net/newsView/blt202208230010</guid>
             <pubDate>Tue, 23 Aug 2022 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-23 17:23:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1994년부터 이어온 韓-이스라엘 과학 협력…올해 연구 분야는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 22 Aug 2022 04:00:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-08-22 11:21:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 연이은 친환경 행보...핵심은 '카본 네거티브']]></title>
-            <link>https://www.bloter.net/newsView/blt202208220004</link>
-            <guid>https://www.bloter.net/newsView/blt202208220004</guid>
-            <pubDate>Mon, 22 Aug 2022 04:00:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-22 11:05:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중간 광고형 저가 요금제 도입하는 넷플릭스, 적용 콘텐츠 범위는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220003</link>
-            <guid>https://www.bloter.net/newsView/blt202208220003</guid>
-            <pubDate>Mon, 22 Aug 2022 01:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 10:03:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
