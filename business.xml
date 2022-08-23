@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐롯손해보험, 연내 3000억 증자 예정…'양식 유니콘'의 탄생?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220010</link>
+            <guid>https://www.bloter.net/newsView/blt202208220010</guid>
+            <pubDate>Tue, 23 Aug 2022 01:50:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-22 15:52:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몸값 2배 뛴 티맵...2025년 기업가치 '4.5조원' 목표 현실화될까]]></title>
             <link>https://www.bloter.net/newsView/blt202208220005</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 22 Aug 2022 05:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 19:24:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/21/blt202208210001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 정부 '스타트업 진흥’ 기조에 곧바로 보폭 맞추는 신한금융]]></title>
-            <link>https://www.bloter.net/newsView/blt202208200005</link>
-            <guid>https://www.bloter.net/newsView/blt202208200005</guid>
-            <pubDate>Mon, 22 Aug 2022 01:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 18:04:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
