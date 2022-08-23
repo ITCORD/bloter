@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 01:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 04:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보호무역' 파고에 현대차 해외공장 건설 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220014</link>
+            <guid>https://www.bloter.net/newsView/blt202208220014</guid>
+            <pubDate>Tue, 23 Aug 2022 04:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-22 17:50:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MaaS 노리는 티맵, 'KB 시너지'에 거는 기대감]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220012</link>
+            <guid>https://www.bloter.net/newsView/blt202208220012</guid>
+            <pubDate>Tue, 23 Aug 2022 04:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-22 16:28:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐롯손해보험, 연내 3000억 증자 예정…'양식 유니콘'의 탄생?]]></title>
             <link>https://www.bloter.net/newsView/blt202208220010</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 22 Aug 2022 08:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 08:56:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 완전자율주행 소프트웨어 가격 25% 인상…올 들어 두 번째]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220001</link>
-            <guid>https://www.bloter.net/newsView/blt202208220001</guid>
-            <pubDate>Mon, 22 Aug 2022 07:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 08:18:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KB국민은행, 카뱅 1476만주 블록딜한 배경은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208210001</link>
-            <guid>https://www.bloter.net/newsView/blt202208210001</guid>
-            <pubDate>Mon, 22 Aug 2022 05:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 19:24:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/21/blt202208210001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
