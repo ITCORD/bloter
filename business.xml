@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터와 법적 공방 중인 일론 머스크, 잭 도시에 소송 관련 자료 요구]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230001</link>
+            <guid>https://www.bloter.net/newsView/blt202208230001</guid>
+            <pubDate>Tue, 23 Aug 2022 07:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 09:52:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IT강국서 '99%'가 아날로그인 실손보험 청구…국힘이 살펴본다]]></title>
             <link>https://www.bloter.net/newsView/blt202208220016</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 22 Aug 2022 09:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-22 13:45:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220012.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중간 광고형 저가 요금제 도입하는 넷플릭스, 적용 콘텐츠 범위는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220003</link>
-            <guid>https://www.bloter.net/newsView/blt202208220003</guid>
-            <pubDate>Mon, 22 Aug 2022 09:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 10:03:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
