@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT강국서 '99%'가 아날로그인 실손보험 청구…국힘이 살펴본다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220016</link>
+            <guid>https://www.bloter.net/newsView/blt202208220016</guid>
+            <pubDate>Tue, 23 Aug 2022 05:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-22 17:51:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['보호무역' 파고에 현대차 해외공장 건설 속도 낸다]]></title>
             <link>https://www.bloter.net/newsView/blt202208220014</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 22 Aug 2022 09:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 10:03:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“애플, 이르면 2023년 지도 앱에 광고 도입”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220002</link>
-            <guid>https://www.bloter.net/newsView/blt202208220002</guid>
-            <pubDate>Mon, 22 Aug 2022 08:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-22 08:56:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

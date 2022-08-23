@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['크립토 윈터' 맞은 가상자산거래소…NFT 띄우기 사전작업]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230005</link>
+            <guid>https://www.bloter.net/newsView/blt202208230005</guid>
+            <pubDate>Tue, 23 Aug 2022 05:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-23 13:55:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['투자 주역=하이버'…브랜디 가려진 '성장 지표' 괜찮을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220020</link>
+            <guid>https://www.bloter.net/newsView/blt202208220020</guid>
+            <pubDate>Tue, 23 Aug 2022 05:54:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-23 13:51:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220040.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰으로 들어온 '망가'…카카오픽코마 2300억원 거래액 일군 '현지화'의 힘]]></title>
             <link>https://www.bloter.net/newsView/blt202208230007</link>
             <guid>https://www.bloter.net/newsView/blt202208230007</guid>
             <pubDate>Tue, 23 Aug 2022 04:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-23 12:52:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전류로 우울증 치료…‘전자약 기업’ 와이브레인, 美 학술 행사서 수상]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 21 Aug 2022 11:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-21 19:44:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/20/blt202208200004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 원메디컬 인수...의료 산업은 '빅테크가 필요해']]></title>
-            <link>https://www.bloter.net/newsView/blt202208190022</link>
-            <guid>https://www.bloter.net/newsView/blt202208190022</guid>
-            <pubDate>Sun, 21 Aug 2022 07:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-21 15:58:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/19/blt202208190050.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]핀다 "빅테크·금융사 기싸움에 국민이 피해본다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208210002</link>
-            <guid>https://www.bloter.net/newsView/blt202208210002</guid>
-            <pubDate>Sun, 21 Aug 2022 06:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-21 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/21/blt202208210002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
