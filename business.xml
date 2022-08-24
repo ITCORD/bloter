@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 몸 되는 다나와·코리아센터, 여행·자동차 신사업 속도낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180016</link>
+            <guid>https://www.bloter.net/newsView/blt202208180016</guid>
+            <pubDate>Wed, 24 Aug 2022 01:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-23 18:18:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230028.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한진그룹, 제주 칼호텔 950억에 매각]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230011</link>
+            <guid>https://www.bloter.net/newsView/blt202208230011</guid>
+            <pubDate>Wed, 24 Aug 2022 01:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-23 18:07:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스닥 기특상장 평가 모델, '심사 강화 아니라지만'…불안한 바이오 기업들]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230010</link>
+            <guid>https://www.bloter.net/newsView/blt202208230010</guid>
+            <pubDate>Wed, 24 Aug 2022 01:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-23 17:23:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230014.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이든, '100억불 투자자' 현대차에 전기차 보조금 외면했다]]></title>
             <link>https://www.bloter.net/newsView/blt202208230008</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 23 Aug 2022 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 11:19:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이베이, 'TCG플레이어' 인수…트레이딩 카드 사업 확장]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230002</link>
-            <guid>https://www.bloter.net/newsView/blt202208230002</guid>
-            <pubDate>Tue, 23 Aug 2022 09:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 11:13:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터와 법적 공방 중인 일론 머스크, 잭 도시에 소송 관련 자료 요구]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230001</link>
-            <guid>https://www.bloter.net/newsView/blt202208230001</guid>
-            <pubDate>Tue, 23 Aug 2022 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 09:52:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IT강국서 '99%'가 아날로그인 실손보험 청구…국힘이 살펴본다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220016</link>
-            <guid>https://www.bloter.net/newsView/blt202208220016</guid>
-            <pubDate>Tue, 23 Aug 2022 05:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-22 17:51:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

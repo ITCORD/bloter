@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, VR 전용 계정 출시…메타버스 사업 확장 가속]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240002</link>
+            <guid>https://www.bloter.net/newsView/blt202208240002</guid>
+            <pubDate>Wed, 24 Aug 2022 01:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 가상현실(VR) 전용 ‘메타 계정’을 출시했다.23일(현지시간) 메타는 홈페이지를 통해 메타의 VR 기기 ‘오큘러스’와 메타버스 플랫폼 ‘메타 호라이즌 월드’ 입장에 사용할 수 있는 전용 계정인 메타 계정을 도입했다고 밝혔다. 일부 국가]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240002.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 前 보안책임자 내부 고발…”사이버 보안 심각한 결함”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240001</link>
+            <guid>https://www.bloter.net/newsView/blt202208240001</guid>
+            <pubDate>Wed, 24 Aug 2022 01:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[소셜미디어(SNS) 트위터가 사이버 보안과 프라이버시 보호에 대해 규제 당국에 거짓 보고했다는 내부 고발이 나왔다. 이번 폭로는 트위터의 가짜 계정을 문제 삼으며 인수 계약을 파기한 일론 머스크와 트위터의 법정 분쟁에도 영향을 미칠 것으로 보인다.   23일(현]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240001.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한진그룹, 제주 칼호텔 950억에 매각]]></title>
             <link>https://www.bloter.net/newsView/blt202208230011</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 18 Aug 2022 12:37:30 GMT</pubDate>
             <content:encoded><![CDATA[브랜드엑스코퍼레이션(이하 브랜드엑스)의 자회사인 브랜드엑스피트니스가 적자 기조를 이어가고 있다. 앞서 브랜드엑스는 지난해 8월 디지털헬스케어 사업을 효율적으로 운영하기 위해 신설법인을 설립했지만 1년 내내 수익구조 없이 서비스를 운영하면서 손실]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180050.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷마블F&C 자회사 메타버스월드, 자체 메인넷 구축 시동]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170028</link>
-            <guid>https://www.bloter.net/newsView/blt202208170028</guid>
-            <pubDate>Thu, 18 Aug 2022 01:49:07 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블에프앤씨(F&amp;C)의 자회사인 '메타버스월드(옛 아이텀게임즈)'가 자체 메인넷을 준비하는 것으로 알려졌다. 최근 위메이드의 '위믹스'와 컴투스그룹의 'C2X' 생태계(엑스플라)가 각각 메인넷 구축 계획을 발표한 가운데 메타버스월드도 자체 블록체인 네트워크]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180006.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 페북·인스타에 ‘스토리’ 공유하는 기능 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180006</link>
-            <guid>https://www.bloter.net/newsView/blt202208180006</guid>
-            <pubDate>Thu, 18 Aug 2022 01:49:07 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 동영상 공유 플랫폼 틱톡이 경쟁사인 메타 소셜네트워크서비스(SNS)에 콘텐츠를 공유하는 기능을 도입했다.17일(현지시간) IT전문매체 &lt;테크크런치&gt;에 따르면 틱톡은 ’틱톡 스토리’를 페이스북과 인스타그램 스토리, 또는 피드에 공유하는 기능을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180004.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

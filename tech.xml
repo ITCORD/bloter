@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS·아마존, 아일랜드 전력난으로 신규 데이터센터 설립 차질]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240003</link>
+            <guid>https://www.bloter.net/newsView/blt202208240003</guid>
+            <pubDate>Wed, 24 Aug 2022 01:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 10:26:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, VR 전용 계정 출시…메타버스 사업 확장 가속]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240002</link>
+            <guid>https://www.bloter.net/newsView/blt202208240002</guid>
+            <pubDate>Wed, 24 Aug 2022 01:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 09:20:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240002.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 前 보안책임자 내부 고발…”사이버 보안 심각한 결함”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240001</link>
+            <guid>https://www.bloter.net/newsView/blt202208240001</guid>
+            <pubDate>Wed, 24 Aug 2022 01:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 08:18:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240001.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[31GB 다음 150GB…비슷한 SKT·KT·LGU+ 5G 중간요금제, 갈 길 멀다]]></title>
             <link>https://www.bloter.net/newsView/blt202208230012</link>
             <guid>https://www.bloter.net/newsView/blt202208230012</guid>
             <pubDate>Tue, 23 Aug 2022 10:19:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-23 18:20:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 몸 되는 다나와·코리아센터, 여행·자동차 신사업 속도낼까]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Mon, 22 Aug 2022 10:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-22 18:31:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220034.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]카카오웹툰 'ONE', 영상화…OTT 편성 논의 중]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220015</link>
-            <guid>https://www.bloter.net/newsView/blt202208220015</guid>
-            <pubDate>Mon, 22 Aug 2022 08:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-22 16:45:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘제약바이오혁신위원회’ 설치, 대통령 보고서 빠진 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220007</link>
-            <guid>https://www.bloter.net/newsView/blt202208220007</guid>
-            <pubDate>Mon, 22 Aug 2022 06:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-22 15:00:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 창사 이래 '자산 100조' 최초 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180013</link>
-            <guid>https://www.bloter.net/newsView/blt202208180013</guid>
-            <pubDate>Mon, 22 Aug 2022 04:00:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-08-22 11:21:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
