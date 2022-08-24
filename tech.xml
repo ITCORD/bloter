@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]한미 오너 일가, 한미헬스케어 합병으로 상속세 이슈 준비하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240012</link>
+            <guid>https://www.bloter.net/newsView/blt202208240012</guid>
+            <pubDate>Wed, 24 Aug 2022 08:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-24 17:06:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240019.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[델, 클라우드 시대에 온프레미스 타깃 '구독형 스토리지' 낸 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240009</link>
+            <guid>https://www.bloter.net/newsView/blt202208240009</guid>
+            <pubDate>Wed, 24 Aug 2022 08:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-24 16:39:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240017.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘국가전략기술법’으로 반도체·우주 육성 ‘제도적 토대’ 마련될까…원전도 관심사]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240007</link>
+            <guid>https://www.bloter.net/newsView/blt202208240007</guid>
+            <pubDate>Wed, 24 Aug 2022 08:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-24 16:24:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240013.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[마케팅+]'아마존' 광고 사업 약진에 '크리테오'가 웃는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208090013</link>
             <guid>https://www.bloter.net/newsView/blt202208090013</guid>
             <pubDate>Wed, 24 Aug 2022 04:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-24 12:49:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1+2로 본 韓 개발 ‘뇌 닮은 반도체’…디지털에서 아날로그로]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Tue, 23 Aug 2022 04:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 11:13:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 내달 3나노 양산...삼성전자와 '수주 전쟁' 펼친다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230003</link>
-            <guid>https://www.bloter.net/newsView/blt202208230003</guid>
-            <pubDate>Tue, 23 Aug 2022 01:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-23 10:44:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터와 법적 공방 중인 일론 머스크, 잭 도시에 소송 관련 자료 요구]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230001</link>
-            <guid>https://www.bloter.net/newsView/blt202208230001</guid>
-            <pubDate>Tue, 23 Aug 2022 01:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 09:52:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[클라우드 보안 전략]SK쉴더스가 AWS·MS·구글과 손잡은 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220019</link>
-            <guid>https://www.bloter.net/newsView/blt202208220019</guid>
-            <pubDate>Mon, 22 Aug 2022 21:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-23 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

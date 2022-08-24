@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 숏폼 플랫폼 선호도, '틱톡'보단 '유튜브 쇼츠']]></title>
+            <link>https://www.bloter.net/newsView/blt202208240010</link>
+            <guid>https://www.bloter.net/newsView/blt202208240010</guid>
+            <pubDate>Wed, 24 Aug 2022 08:22:37 GMT</pubDate>
+            <content:encoded><![CDATA['Z세대'가 가장 선호하는 숏폼 콘텐츠는 유튜브 쇼츠인 것으로 조사됐다. 이를 통해 숏폼 트렌드를 이끈 틱톡이 후발주자인 유튜브 쇼츠와 인스타그램 릴스(인스타그램)에 추격당했다는 목소리가 나오고 있다.  24일 대학내일20대연구소는 올해 1~6월 미디어·콘]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240018.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, VR 전용 계정 출시…메타버스 사업 확장 가속]]></title>
             <link>https://www.bloter.net/newsView/blt202208240002</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 19 Aug 2022 06:25:17 GMT</pubDate>
             <content:encoded><![CDATA[넥슨이 청소년 코딩 대회인 '넥슨 청소년 프로그래밍 챌린지(NYPC)'의 대회 방식을 변경했다. 예선 대회 형태로 NYPC를 진행했던 넥슨은 올해부터 '라운드 제도'를 도입해 청소년들의 참여 기회를 확대한다는 계획이다.올해로 7회 째를 맞이한 NYPC는 온라인 상에서 예선]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180062.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드엑스, 매출없는 '국민피티' 수익구조 만들까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180022</link>
-            <guid>https://www.bloter.net/newsView/blt202208180022</guid>
-            <pubDate>Thu, 18 Aug 2022 12:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드엑스코퍼레이션(이하 브랜드엑스)의 자회사인 브랜드엑스피트니스가 적자 기조를 이어가고 있다. 앞서 브랜드엑스는 지난해 8월 디지털헬스케어 사업을 효율적으로 운영하기 위해 신설법인을 설립했지만 1년 내내 수익구조 없이 서비스를 운영하면서 손실]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/18/blt202208180050.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
