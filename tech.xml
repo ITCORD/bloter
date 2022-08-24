@@ -4,24 +4,16 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 09:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 10:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공시분석]한미 오너 일가, 한미헬스케어 합병으로 상속세 이슈 준비하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202208240012</link>
-            <guid>https://www.bloter.net/newsView/blt202208240012</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-24 17:06:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240019.620x344.0.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[델, 클라우드 시대에 온프레미스 타깃 '구독형 스토리지' 낸 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208240009</link>
             <guid>https://www.bloter.net/newsView/blt202208240009</guid>
             <pubDate>Wed, 24 Aug 2022 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-24 16:39:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240017.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240017.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘국가전략기술법’으로 반도체·우주 육성 ‘제도적 토대’ 마련될까…원전도 관심사]]></title>
@@ -150,6 +142,14 @@
             <pubDate>Wed, 24 Aug 2022 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-23 11:13:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230006.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TSMC, 내달 3나노 양산...삼성전자와 '수주 전쟁' 펼친다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230003</link>
+            <guid>https://www.bloter.net/newsView/blt202208230003</guid>
+            <pubDate>Wed, 24 Aug 2022 10:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-23 10:44:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
