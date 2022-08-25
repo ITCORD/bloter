@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 15:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 16:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캘리포니아, 2035년부터 내연기관차 판매 전면 금지한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250002</link>
+            <guid>https://www.bloter.net/newsView/blt202208250002</guid>
+            <pubDate>Thu, 25 Aug 2022 16:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-25 09:34:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 원격진료 ‘아마존케어’ 올해 말 종료한다]]></title>
             <link>https://www.bloter.net/newsView/blt202208250001</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 10:26:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, VR 전용 계정 출시…메타버스 사업 확장 가속]]></title>
-            <link>https://www.bloter.net/newsView/blt202208240002</link>
-            <guid>https://www.bloter.net/newsView/blt202208240002</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 09:20:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
