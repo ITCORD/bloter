@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 원격진료 ‘아마존케어’ 올해 말 종료한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250001</link>
+            <guid>https://www.bloter.net/newsView/blt202208250001</guid>
+            <pubDate>Thu, 25 Aug 2022 08:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-25 08:21:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이재용 부회장, 삼성엔지니어링 방문...현장경영 강화]]></title>
             <link>https://www.bloter.net/newsView/blt202208240008</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 24 Aug 2022 09:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 09:20:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 前 보안책임자 내부 고발…”사이버 보안 심각한 결함”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208240001</link>
-            <guid>https://www.bloter.net/newsView/blt202208240001</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-24 08:18:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
