@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혁신의료기기, 동시 평가로 시장 진입 빨라진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250008</link>
+            <guid>https://www.bloter.net/newsView/blt202208250008</guid>
+            <pubDate>Thu, 25 Aug 2022 06:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-25 15:31:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유한양행 퇴행성디스크 치료제, 미국 임상 3상 '스타트']]></title>
+            <link>https://www.bloter.net/newsView/blt202208250007</link>
+            <guid>https://www.bloter.net/newsView/blt202208250007</guid>
+            <pubDate>Thu, 25 Aug 2022 06:33:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-25 15:12:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, 내달 7일 신제품 행사 개최…아이폰14 선보일까]]></title>
             <link>https://www.bloter.net/newsView/blt202208250003</link>
             <guid>https://www.bloter.net/newsView/blt202208250003</guid>
             <pubDate>Thu, 25 Aug 2022 01:48:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-25 10:20:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[캘리포니아, 2035년부터 내연기관차 판매 전면 금지한다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 24 Aug 2022 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-23 13:55:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하반기 한숨돌린 브랜디, '투자 주역=하이버'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220020</link>
-            <guid>https://www.bloter.net/newsView/blt202208220020</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-23 13:51:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰으로 들어온 '망가'…카카오픽코마 2300억원 거래액 일군 '현지화'의 힘]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230007</link>
-            <guid>https://www.bloter.net/newsView/blt202208230007</guid>
-            <pubDate>Wed, 24 Aug 2022 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-23 12:52:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
