@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 04:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:02:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,18 +142,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230031.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, 내달 7일 신제품 행사 개최…아이폰14 선보일까 (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208250003</link>
-            <guid>https://www.bloter.net/newsView/blt202208250003</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 오는 9월 7일(현지시간) 신제품 공개 행사를 개최한다. 이 자리에서 신형 아이폰을 선보일 것으로 예상된다.24일 미국 CNBC 등 외신에 따르면 애플은 주요 언론을 대상으로 배포한 행사 초대장에서 신제품 공개 행사가 내달 7일 오전 10시(미국 서부시간, 미국 동부시간 오후 1시) 캘리포니아 쿠퍼티노에 위치한 애플파크에서 열린다고 밝혔다. 이번 행사는 애플파크 내 ‘스티브 잡스 극장’에서 진행되며 애플 웹사이트, 유튜브 등을 통해서도 스트리밍 된다. 행사 제목은 ‘Far Out’(파격적인)이다.&nbsp;
-
-(사진=애플)
-
-애플은 이번 행사에서 6.1인치 디스플레이를 탑재한 아이폰14와 6.7인치 디스플레이의 아이폰14 맥스 등 4종의 아이폰14 시리즈를 공개할 것으로 예상된다. 아이폰 14 시리즈는 램(RAM) 용량 확장으로 작업 속도 및 성능이 개선될 것으로 기대된다. 4종 모두 6GB의 램을 탑재해 4GB 램을 탑재한 전작 아이폰13 시리즈와 비교해 성능이 향상될 전망이다. 배터리 지속시간과 전면 카메라 성능이 개선될 전망이다. 애플은 전작인 아이폰 12·13 미니의 판매가 부진했던 만큼 아이폰14 시리즈에는 미니 모델을 내놓지 않을 계획으로 알려졌다.&nbsp;애플은 이 자리에서 신규 애플워치 시리즈와 신규 에어팟 프로 제품도 내놓을 것으로 예상된다. 애플은 신형 맥, 아이패드 모델을 준비 중인 것으로 알려졌는데, 외신은 해당 제품은 10월 열릴 행사에서 공개될 것으로 예상했다.&nbsp;한편 공급망 위기와 인플레이션으로 인해 애플의 신제품 가격 인상 여부도 관심을 모으고 있다. 특히 국내 IT업계는 최근 원·달러 환율이 급등하면서 국내 아이폰14 가격 상승이 불가피할 것으로 내다봤다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250005.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[거꾸로 가는 케이뱅크 대출…장기는 3개월, 단기는 12개월 금리변동 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202208250015</link>
             <guid>https://www.bloter.net/newsView/blt202208250015</guid>
@@ -168,6 +156,18 @@
 
 케이뱅크 사옥 전경.(사진=케이뱅크)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250033.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 내달 7일 신제품 행사 개최…아이폰14 선보일까 (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250003</link>
+            <guid>https://www.bloter.net/newsView/blt202208250003</guid>
+            <pubDate>Thu, 25 Aug 2022 12:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 오는 9월 7일(현지시간) 신제품 공개 행사를 개최한다. 이 자리에서 신형 아이폰을 선보일 것으로 예상된다.24일 미국 CNBC 등 외신에 따르면 애플은 주요 언론을 대상으로 배포한 행사 초대장에서 신제품 공개 행사가 내달 7일 오전 10시(미국 서부시간, 미국 동부시간 오후 1시) 캘리포니아 쿠퍼티노에 위치한 애플파크에서 열린다고 밝혔다. 이번 행사는 애플파크 내 ‘스티브 잡스 극장’에서 진행되며 애플 웹사이트, 유튜브 등을 통해서도 스트리밍 된다. 행사 제목은 ‘Far Out’(파격적인)이다.&nbsp;
+
+(사진=애플)
+
+애플은 이번 행사에서 6.1인치 디스플레이를 탑재한 아이폰14와 6.7인치 디스플레이의 아이폰14 맥스 등 4종의 아이폰14 시리즈를 공개할 것으로 예상된다. 아이폰 14 시리즈는 램(RAM) 용량 확장으로 작업 속도 및 성능이 개선될 것으로 기대된다. 4종 모두 6GB의 램을 탑재해 4GB 램을 탑재한 전작 아이폰13 시리즈와 비교해 성능이 향상될 전망이다. 배터리 지속시간과 전면 카메라 성능이 개선될 전망이다. 애플은 전작인 아이폰 12·13 미니의 판매가 부진했던 만큼 아이폰14 시리즈에는 미니 모델을 내놓지 않을 계획으로 알려졌다.&nbsp;애플은 이 자리에서 신규 애플워치 시리즈와 신규 에어팟 프로 제품도 내놓을 것으로 예상된다. 애플은 신형 맥, 아이패드 모델을 준비 중인 것으로 알려졌는데, 외신은 해당 제품은 10월 열릴 행사에서 공개될 것으로 예상했다.&nbsp;한편 공급망 위기와 인플레이션으로 인해 애플의 신제품 가격 인상 여부도 관심을 모으고 있다. 특히 국내 IT업계는 최근 원·달러 환율이 급등하면서 국내 아이폰14 가격 상승이 불가피할 것으로 내다봤다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250005.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[장현국 위메이드 대표, 8월 급여로 '위믹스' 매수 (블로터 ─ 실시간 랭킹)]]></title>
@@ -258,18 +258,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250026.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Z세대 숏폼 플랫폼 선호도, '틱톡'보단 '유튜브 쇼츠' (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208240010</link>
-            <guid>https://www.bloter.net/newsView/blt202208240010</guid>
-            <pubDate>Thu, 25 Aug 2022 12:33:55 GMT</pubDate>
-            <content:encoded><![CDATA['Z세대'가 가장 선호하는 숏폼 콘텐츠는 유튜브 쇼츠인 것으로 조사됐다. 이를 통해 숏폼 트렌드를 이끈 틱톡이 후발주자인 유튜브 쇼츠와 인스타그램 릴스(인스타그램)에 추격당했다는 목소리가 나오고 있다. &nbsp;24일 대학내일20대연구소는 올해 1~6월 미디어·콘텐츠·플랫폼을 이용한 Z세대를 대상으로 숏폼 관련 이용 행태를 조사한 결과를 발표했다.
-
-(사진=대학내일20대연구소)
-
-연구소에 따르면, 최근 6개월 내 숏폼 플랫폼을 이용한 응답자들이 가장 선호하는 플랫폼은 유튜브 쇼츠인 것으로 조사됐다.이용해 본 경험이 있는 플랫폼을 복수 응답할 수 있도록 질문했을 때 가장 많은 선택을 받은 플랫폼은 유튜브 쇼츠(67.2%)였다. 인스타그램 릴스(51.3%)는 절반이 넘는 비율을 기록했고, 틱톡의 경우 22.5%로 낮은 편에 속했다.&nbsp;주 이용 플랫폼을 하나만 고르도록 하는 질문에서도 유튜브 쇼츠(58.2%)가 1위를 차지했다. 인스타그램 릴스를 주로 이용하는 비율은 28.1%로 유튜브 쇼츠의 뒤를 이었고, 주로 틱톡을 이용한다는 응답자는 13.7%로 나타나 앞선 두 플랫폼보다 낮은 응답률을 기록했다.유튜브 쇼츠를 선택한 이용자의 경우 '자막이나 배속 등 영상 시청이 편리해서 이용한다'고 답한 비율(42.2%)이 가장 높았다. 인스타그램 릴스의 경우 '편리한 영상 시청'과 더불어 '새로운 콘텐츠가 많아서'라는 이유가 공동 1위(38.8%)를 차지했다. 틱톡은 '새로운 콘텐츠가 많아서(46.2%)'라는 응답이 가장 많았다.한편, 이번 조사는 전국 17개 시도 만 15~41세 남녀 중 최근 한 달 내 미디어·콘텐츠 이용 경험자 900명을 대상으로 6월 29일부터 7월 5일까지 7일간 진행됐다. 해당 조사에서 '최근 6개월 내 숏폼 플랫폼을 이용한 경험이 있다'고 답한 Z세대 응답자는 81.2%로 나타났다. Z세대는 평균적으로 평일과 주말 각각 75.8분과 96.2분 동안 숏폼 콘텐츠를 시청할 만큼 일상 생활에서 많은 부분을 할애하는 것으로 조사됐다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240018.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[포드, 머스탱 마하-E 가격 올린다…비용 상승에 줄줄이 가격 인상 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202208260003</link>
             <guid>https://www.bloter.net/newsView/blt202208260003</guid>
@@ -280,6 +268,18 @@
 
 모델에 따라 가격은 최대 8000달러가량 오른다. 인상 후 가격은 4만6895달러(약 6200만원)에서 6만9895달러(약 9300만원) 수준이다. 여기에 대당 약 1200달러의 배송비가 별도로 부과된다.&nbsp;포드는 가격 인상의 이유로 “상당한 원재료비 상승, 지속되는 공급망 차질과 빠르게 변화하는 시장 상황”을 꼽았다. 포드는 불과 몇 주 전 같은 이유로 전기 픽업트럭 ‘F-150 라이트닝’ 가격을 인상한다고 발표했다. 앞서 포드 임원들은 올해 원재료비가 약 40억달러(약 5조3000억원) 증가할 것으로 예상한다고 밝힌 바 있다.&nbsp;포드는 2026년까지 연간 200만대 이상의 전기차 판매를 목표로 전 세계 생산 능력을 증대하기 위해 대규모 투자를 단행하고 있다. 전기차 투자를 늘림에 따라 비용 관리를 위해 최근 3000명의 직원을 정리해고한다고 발표하기도 했다. 이에 따라 절감한 비용은 전기차와 소프트웨어 개발에 투입한다는 계획이다.&nbsp;한편 더버지는 머스탱 마하-E 모델이 미국 ‘인플레 감축법’(IRA)의 7500달러 전기차 세액 공제 대상이지만 IRA가 발효된 8월 16일 이전에 주문된 차량에만 적용되며 2023년도 사전 예약분은 혜택을 받을 수 없다고 전했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260004.291x174.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 숏폼 플랫폼 선호도, '틱톡'보단 '유튜브 쇼츠' (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208240010</link>
+            <guid>https://www.bloter.net/newsView/blt202208240010</guid>
+            <pubDate>Thu, 25 Aug 2022 12:33:55 GMT</pubDate>
+            <content:encoded><![CDATA['Z세대'가 가장 선호하는 숏폼 콘텐츠는 유튜브 쇼츠인 것으로 조사됐다. 이를 통해 숏폼 트렌드를 이끈 틱톡이 후발주자인 유튜브 쇼츠와 인스타그램 릴스(인스타그램)에 추격당했다는 목소리가 나오고 있다. &nbsp;24일 대학내일20대연구소는 올해 1~6월 미디어·콘텐츠·플랫폼을 이용한 Z세대를 대상으로 숏폼 관련 이용 행태를 조사한 결과를 발표했다.
+
+(사진=대학내일20대연구소)
+
+연구소에 따르면, 최근 6개월 내 숏폼 플랫폼을 이용한 응답자들이 가장 선호하는 플랫폼은 유튜브 쇼츠인 것으로 조사됐다.이용해 본 경험이 있는 플랫폼을 복수 응답할 수 있도록 질문했을 때 가장 많은 선택을 받은 플랫폼은 유튜브 쇼츠(67.2%)였다. 인스타그램 릴스(51.3%)는 절반이 넘는 비율을 기록했고, 틱톡의 경우 22.5%로 낮은 편에 속했다.&nbsp;주 이용 플랫폼을 하나만 고르도록 하는 질문에서도 유튜브 쇼츠(58.2%)가 1위를 차지했다. 인스타그램 릴스를 주로 이용하는 비율은 28.1%로 유튜브 쇼츠의 뒤를 이었고, 주로 틱톡을 이용한다는 응답자는 13.7%로 나타나 앞선 두 플랫폼보다 낮은 응답률을 기록했다.유튜브 쇼츠를 선택한 이용자의 경우 '자막이나 배속 등 영상 시청이 편리해서 이용한다'고 답한 비율(42.2%)이 가장 높았다. 인스타그램 릴스의 경우 '편리한 영상 시청'과 더불어 '새로운 콘텐츠가 많아서'라는 이유가 공동 1위(38.8%)를 차지했다. 틱톡은 '새로운 콘텐츠가 많아서(46.2%)'라는 응답이 가장 많았다.한편, 이번 조사는 전국 17개 시도 만 15~41세 남녀 중 최근 한 달 내 미디어·콘텐츠 이용 경험자 900명을 대상으로 6월 29일부터 7월 5일까지 7일간 진행됐다. 해당 조사에서 '최근 6개월 내 숏폼 플랫폼을 이용한 경험이 있다'고 답한 Z세대 응답자는 81.2%로 나타났다. Z세대는 평균적으로 평일과 주말 각각 75.8분과 96.2분 동안 숏폼 콘텐츠를 시청할 만큼 일상 생활에서 많은 부분을 할애하는 것으로 조사됐다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240018.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포드, 머스탱 마하-E 가격 올린다…비용 상승에 줄줄이 가격 인상 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
@@ -402,18 +402,26 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[공시분석]소리바다, 건물 팔고 고금리 대출까지...'상장폐지'가 끝일까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260005</link>
+            <guid>https://www.bloter.net/newsView/blt202208260005</guid>
+            <pubDate>Fri, 26 Aug 2022 05:59:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-26 14:45:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]15주년 맞은 부산국제광고제에 'M'이 붙은 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202208250014</link>
             <guid>https://www.bloter.net/newsView/blt202208250014</guid>
-            <pubDate>Fri, 26 Aug 2022 04:18:21 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 04:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=유다정</span>                        <span class="date">2022-08-26 12:02:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250030.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[尹정부, 식약처 신종감염병백신검정과 존치 심사…백신 업무 공백 우려 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202208260004</link>
             <guid>https://www.bloter.net/newsView/blt202208260004</guid>
-            <pubDate>Fri, 26 Aug 2022 04:18:21 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 04:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-26 11:47:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260005.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -536,14 +544,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-24 12:49:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1+2로 본 韓 개발 ‘뇌 닮은 반도체’…디지털에서 아날로그로 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230013</link>
-            <guid>https://www.bloter.net/newsView/blt202208230013</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-24 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -825,7 +825,7 @@
             <title><![CDATA[[현장+]15주년 맞은 부산국제광고제에 'M'이 붙은 이유 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202208250014</link>
             <guid>https://www.bloter.net/newsView/blt202208250014</guid>
-            <pubDate>Fri, 26 Aug 2022 04:18:57 GMT</pubDate>
+            <pubDate>Fri, 26 Aug 2022 04:17:42 GMT</pubDate>
             <content:encoded><![CDATA[부산국제광고제의 영문명 '애드 스타즈(AD STARS)'가 올해 '매드 스타즈(MAD STARS)'로 바뀌었다. 이는 마케팅(Marketing)·광고(Advertising)·디지털콘텐츠(Digital Contents)의 앞글자를 딴 것이다. 팬데믹으로 인해 3년 만에 오프라인으로도 열리는 부산국제영화제는 매드(]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>

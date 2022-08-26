@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 04:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:02:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]소리바다, 건물 팔고 고금리 대출까지...'상장폐지'가 끝일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260005</link>
+            <guid>https://www.bloter.net/newsView/blt202208260005</guid>
+            <pubDate>Fri, 26 Aug 2022 05:59:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-26 14:45:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]15주년 맞은 부산국제광고제에 'M'이 붙은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208250014</link>
             <guid>https://www.bloter.net/newsView/blt202208250014</guid>
             <pubDate>Fri, 26 Aug 2022 04:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=유다정</span>                        <span class="date">2022-08-26 12:02:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250030.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[尹정부, 식약처 신종감염병백신검정과 존치 심사…백신 업무 공백 우려]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-24 12:49:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1+2로 본 韓 개발 ‘뇌 닮은 반도체’…디지털에서 아날로그로]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230013</link>
-            <guid>https://www.bloter.net/newsView/blt202208230013</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-24 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
