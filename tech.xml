@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["5G 특화망, 하고픈데 스마트폰이 없어요"…네이버·한전·부품사 '아우성']]></title>
+            <link>https://www.bloter.net/newsView/blt202208260008</link>
+            <guid>https://www.bloter.net/newsView/blt202208260008</guid>
+            <pubDate>Fri, 26 Aug 2022 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-26 18:16:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘메타버스와 한반도의 미래’ 포럼 열린다…“한반도 문제 해결책 모색”]]></title>
             <link>https://www.bloter.net/newsView/blt202208260010</link>
             <guid>https://www.bloter.net/newsView/blt202208260010</guid>
             <pubDate>Fri, 26 Aug 2022 08:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-08-26 16:53:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260018.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260018.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['이루다 논란' 반성한 스캐터랩, AI 챗봇 윤리점검표 공개]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-25 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델, 클라우드 시대에 온프레미스 타깃 '구독형 스토리지' 낸 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202208240009</link>
-            <guid>https://www.bloter.net/newsView/blt202208240009</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-24 16:39:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
