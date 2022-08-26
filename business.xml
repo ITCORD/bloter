@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 08:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거꾸로 가는 케이뱅크 대출…장기는 3개월, 단기는 12개월 금리변동]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250015</link>
+            <guid>https://www.bloter.net/newsView/blt202208250015</guid>
+            <pubDate>Fri, 26 Aug 2022 08:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-26 00:49:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코케미칼 양극재 납품 계약...'클라스가 달라졌다']]></title>
             <link>https://www.bloter.net/newsView/blt202208250005</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-25 08:21:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용 부회장, 삼성엔지니어링 방문...현장경영 강화]]></title>
-            <link>https://www.bloter.net/newsView/blt202208240008</link>
-            <guid>https://www.bloter.net/newsView/blt202208240008</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-24 16:34:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/24/blt202208240020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
