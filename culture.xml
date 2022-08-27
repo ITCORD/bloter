@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 23:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 01:49:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LCK 서머 결승전]'젠지 VS T1' 관전포인트는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260018</link>
+            <guid>https://www.bloter.net/newsView/blt202208260018</guid>
+            <pubDate>Sat, 27 Aug 2022 01:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[젠지와 T1이 오는 28일 열리는 '2022 리그 오브 레전드 챔피언스코리아(LCK)' 서머 결승전에서 맞붙는다. 정규 리그 18경기 동안 17경기에서 승리하며 단일팀 체제 후 첫 우승을 바라보는 '젠지'와 디펜딩 챔피언 'T1'의 맞대결인 만큼 관전포인트도 다양하다.   컨디션 최]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]15주년 맞은 부산국제광고제에 'M'이 붙은 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202208250014</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Aug 2022 12:35:29 GMT</pubDate>
             <content:encoded><![CDATA[최근 게임업계의 화두는 단연 '블록체인 게임'이다. '자체 메인넷 구축'이 '암호화폐의 혹한기(크립토 윈터)'를 돌파할 자구책으로 떠올랐기 때문이다. &lt;블로터&gt;는 게임사의 독립적인 메인넷 구축이 업계에 미칠 영향을 살펴보고 위메이드, 컴투스, 네오위즈, 넷]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]카카오웹툰 'ONE', 영상화…OTT 편성 논의 중]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220015</link>
-            <guid>https://www.bloter.net/newsView/blt202208220015</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[카카오웹툰(옛 다음웹툰) 연재작인 웹툰 '원(ONE)'이 영상콘텐츠로 재탄생한다. 웹툰·웹소설을 통해 콘텐츠 사업영역을 확장 중인 카카오엔터테인먼트는 ONE을 비롯한 자체 IP로 콘텐츠 부가가치를 제고할 계획이다.22일 &lt;블로터&gt; 취재 결과 웹툰 ONE 기반의 OTT]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
