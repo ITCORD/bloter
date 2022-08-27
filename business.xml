@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 01:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 04:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포드, 머스탱 마하-E 가격 올린다…비용 상승에 줄줄이 가격 인상]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260003</link>
+            <guid>https://www.bloter.net/newsView/blt202208260003</guid>
+            <pubDate>Sat, 27 Aug 2022 04:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-26 10:01:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글, 검색 결과에 의료기관 낙태 시술 제공 여부 표시한다]]></title>
             <link>https://www.bloter.net/newsView/blt202208260002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 26 Aug 2022 01:50:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-25 14:16:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 내달 7일 신제품 행사 개최…아이폰14 선보일까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208250003</link>
-            <guid>https://www.bloter.net/newsView/blt202208250003</guid>
-            <pubDate>Fri, 26 Aug 2022 01:50:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-25 10:20:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
