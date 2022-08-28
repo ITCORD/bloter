@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 04:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 04:58:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴투버스가 그리는 미래]②플랫폼 넘어 '가상 신도시'로]]></title>
+            <link>https://www.bloter.net/newsView/blt202208280003</link>
+            <guid>https://www.bloter.net/newsView/blt202208280003</guid>
+            <pubDate>Sun, 28 Aug 2022 04:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 사는 현실세계를 가상의 공간으로 옮긴다면 어떤 느낌일까. 컴투스가 설계한 '컴투버스'는 이런 상상에서 출발했다. 컴투버스는 네이버제트의 '제페토'나 게임형 플랫폼 '로블록스'처럼 '가상의 공간'에서 '콘텐츠'를 만드는 구조와 실생활을 융합한 형태로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280008.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LCK 서머 결승전]'젠지 VS T1' 관전포인트는?]]></title>
             <link>https://www.bloter.net/newsView/blt202208260018</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Aug 2022 12:35:29 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 트위터 창업자 잭 도시에게 트위터 운영과 관련된 자료를 요구하는 소환장을 보냈다.   22일(현지시간) &lt;블룸버그통신&gt;에 따르면 머스크의 변호인들은 소환장을 통해 도시 측에 가짜 또는 스팸 계정이 트위터의 사업 운영에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/23/blt202208230001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임사, 메인넷에 빠지다]①그들은 왜 독립할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202208220017</link>
-            <guid>https://www.bloter.net/newsView/blt202208220017</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[최근 게임업계의 화두는 단연 '블록체인 게임'이다. '자체 메인넷 구축'이 '암호화폐의 혹한기(크립토 윈터)'를 돌파할 자구책으로 떠올랐기 때문이다. &lt;블로터&gt;는 게임사의 독립적인 메인넷 구축이 업계에 미칠 영향을 살펴보고 위메이드, 컴투스, 네오위즈, 넷]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/22/blt202208220030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
