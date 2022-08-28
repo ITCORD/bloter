@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 05:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 06:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]아이언소스, '광고 올인원 플랫폼' 자신한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202208280001</link>
+            <guid>https://www.bloter.net/newsView/blt202208280001</guid>
+            <pubDate>Sun, 28 Aug 2022 06:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=유다정</span>                        <span class="date">2022-08-28 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[클라우드+]오라클이 'CSP 빅3' AWS·MS·구글 추격하는 법]]></title>
             <link>https://www.bloter.net/newsView/blt202208260023</link>
             <guid>https://www.bloter.net/newsView/blt202208260023</guid>
             <pubDate>Sun, 28 Aug 2022 05:30:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-28 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/27/blt202208270001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/27/blt202208270001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[컴투버스가 그리는 미래]②플랫폼 넘어 '가상 신도시'로]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 25 Aug 2022 12:34:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-25 18:01:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장현국 위메이드 대표, 8월 급여로 '위믹스' 매수]]></title>
-            <link>https://www.bloter.net/newsView/blt202208250012</link>
-            <guid>https://www.bloter.net/newsView/blt202208250012</guid>
-            <pubDate>Thu, 25 Aug 2022 12:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-25 17:22:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
