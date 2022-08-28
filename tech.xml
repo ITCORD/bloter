@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 22:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 23:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“넷플릭스, 광고 요금제 월 7~9달러 검토”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290001</link>
+            <guid>https://www.bloter.net/newsView/blt202208290001</guid>
+            <pubDate>Sun, 28 Aug 2022 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-29 08:04:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이젠, 우주]인류, 달로 복귀하다…韓 참여 ‘아르테미스 계획’ 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202208280013</link>
             <guid>https://www.bloter.net/newsView/blt202208280013</guid>
             <pubDate>Sun, 28 Aug 2022 22:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-29 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LCK 서머 파이널]⑤'첫 우승' 젠지, 다음 스텝은 '롤드컵']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 26 Aug 2022 10:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-26 18:22:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["5G 특화망, 하고픈데 스마트폰이 없어요"…네이버·한전·부품사 '아우성']]></title>
-            <link>https://www.bloter.net/newsView/blt202208260008</link>
-            <guid>https://www.bloter.net/newsView/blt202208260008</guid>
-            <pubDate>Fri, 26 Aug 2022 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-26 18:16:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
