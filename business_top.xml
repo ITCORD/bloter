@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 06:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 07:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[중국 BYD, 전기차 판매량 1위?…북미 공략엔 쩔쩔]]></title>
-            <link>https://www.bloter.net/newsView/blt202208260021</link>
-            <guid>https://www.bloter.net/newsView/blt202208260021</guid>
-            <pubDate>Sat, 27 Aug 2022 04:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-27 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260041.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[가짜뉴스·음모론, 숏폼 콘텐츠로 막는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260020</link>
+            <guid>https://www.bloter.net/newsView/blt202208260020</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-28 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260039.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[바이든, '100억불 투자자' 현대차에 전기차 보조금 외면했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208230008</link>
-            <guid>https://www.bloter.net/newsView/blt202208230008</guid>
-            <pubDate>Sat, 27 Aug 2022 04:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 전기차 생산 300만대 달성…100만대는 中상하이 공장서 만들어]]></title>
-            <link>https://www.bloter.net/newsView/blt202208150003</link>
-            <guid>https://www.bloter.net/newsView/blt202208150003</guid>
-            <pubDate>Sat, 27 Aug 2022 04:03:09 GMT</pubDate>
+            <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증]]></title>
+            <link>https://www.bloter.net/newsView/blt202204010013</link>
+            <guid>https://www.bloter.net/newsView/blt202204010013</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, 전기차 개발 위해 람보르기니 베테랑 전문가 영입]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280007</link>
-            <guid>https://www.bloter.net/newsView/blt202207280007</guid>
-            <pubDate>Sat, 27 Aug 2022 04:03:09 GMT</pubDate>
+            <title><![CDATA[스포티파이, 콘텐츠에 코로나19 경고 추가…’가짜뉴스 논란’ 대응]]></title>
+            <link>https://www.bloter.net/newsView/blt202203290008</link>
+            <guid>https://www.bloter.net/newsView/blt202203290008</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["테슬라 잡아라"…글로벌 전기차 경쟁, '플랫폼·인프라'로 확전]]></title>
-            <link>https://www.bloter.net/newsView/blt202205100024</link>
-            <guid>https://www.bloter.net/newsView/blt202205100024</guid>
-            <pubDate>Sat, 27 Aug 2022 04:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['가짜뉴스법' 제정 후폭풍...틱톡, 러시아 사용자 영상 업로드 차단]]></title>
+            <link>https://www.bloter.net/newsView/blt202203070001</link>
+            <guid>https://www.bloter.net/newsView/blt202203070001</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유튜브, ‘가짜뉴스’ 차단 대책 마련한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202202180007</link>
+            <guid>https://www.bloter.net/newsView/blt202202180007</guid>
+            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
