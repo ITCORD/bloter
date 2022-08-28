@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 08:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 09:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[가짜뉴스·음모론, 숏폼 콘텐츠로 막는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208260020</link>
-            <guid>https://www.bloter.net/newsView/blt202208260020</guid>
-            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-28 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260039.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[넥센타이어 체코공장 증설 '순항 중'...투자 집행률 60% 넘어]]></title>
+            <link>https://www.bloter.net/newsView/blt202208270001</link>
+            <guid>https://www.bloter.net/newsView/blt202208270001</guid>
+            <pubDate>Sun, 28 Aug 2022 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-28 17:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280005.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이스북, 수개월간 알고리즘 버그 방치…가짜뉴스 급증]]></title>
-            <link>https://www.bloter.net/newsView/blt202204010013</link>
-            <guid>https://www.bloter.net/newsView/blt202204010013</guid>
-            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[넥센타이어 자율주행 전략은...'오픈 이노베이션']]></title>
+            <link>https://www.bloter.net/newsView/blt202207190004</link>
+            <guid>https://www.bloter.net/newsView/blt202207190004</guid>
+            <pubDate>Sun, 28 Aug 2022 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스포티파이, 콘텐츠에 코로나19 경고 추가…’가짜뉴스 논란’ 대응]]></title>
-            <link>https://www.bloter.net/newsView/blt202203290008</link>
-            <guid>https://www.bloter.net/newsView/blt202203290008</guid>
-            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['가짜뉴스법' 제정 후폭풍...틱톡, 러시아 사용자 영상 업로드 차단]]></title>
-            <link>https://www.bloter.net/newsView/blt202203070001</link>
-            <guid>https://www.bloter.net/newsView/blt202203070001</guid>
-            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유튜브, ‘가짜뉴스’ 차단 대책 마련한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180007</link>
-            <guid>https://www.bloter.net/newsView/blt202202180007</guid>
-            <pubDate>Sun, 28 Aug 2022 07:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[넥센타이어 '글로벌 톱 10 꿈' 늦어지나 멀어지나]]></title>
+            <link>https://www.bloter.net/newsView/blt202012090002</link>
+            <guid>https://www.bloter.net/newsView/blt202012090002</guid>
+            <pubDate>Sun, 28 Aug 2022 09:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이승연</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
