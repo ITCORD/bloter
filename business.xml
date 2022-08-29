@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 11:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 12:36:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG엔솔, 日 혼다와 손잡고 미국에 배터리 공장 짓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290015</link>
+            <guid>https://www.bloter.net/newsView/blt202208290015</guid>
+            <pubDate>Mon, 29 Aug 2022 12:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-29 17:16:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290023.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김동관 한화솔루션 사장, 부회장 승진…승계 구도 명확]]></title>
             <link>https://www.bloter.net/newsView/blt202208290010</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 29 Aug 2022 06:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-29 09:08:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“넷플릭스, 광고 요금제 월 7~9달러 검토”]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290001</link>
-            <guid>https://www.bloter.net/newsView/blt202208290001</guid>
-            <pubDate>Mon, 29 Aug 2022 01:59:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-29 08:04:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
