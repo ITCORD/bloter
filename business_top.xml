@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG전자, IFA서 97형 올레드 TV 공개...4분기 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290004</link>
-            <guid>https://www.bloter.net/newsView/blt202208290004</guid>
-            <pubDate>Mon, 29 Aug 2022 01:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-29 10:54:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290005.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김동관 한화솔루션 사장, 부회장 승진…승계 구도 명확]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290010</link>
+            <guid>https://www.bloter.net/newsView/blt202208290010</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-29 14:35:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290017.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG전자, 로봇사업 파트너로 LGU+ 대신 KT 선택한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170027</link>
-            <guid>https://www.bloter.net/newsView/blt202208170027</guid>
-            <pubDate>Mon, 29 Aug 2022 01:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KAI·한화, 누리호 기술이전 후보로 거론...'우주 머니'는 누구 손에?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207210022</link>
+            <guid>https://www.bloter.net/newsView/blt202207210022</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자, 프리미엄 무선 이어폰 '톤프리' 출시...돌비 헤드트래킹 최초 지원]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080006</link>
-            <guid>https://www.bloter.net/newsView/blt202208080006</guid>
-            <pubDate>Mon, 29 Aug 2022 01:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이번엔 방산업, 또 계열사 구조 바꾸려는 한화그룹…한화에어로 적자 감추기?]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220004</link>
+            <guid>https://www.bloter.net/newsView/blt202207220004</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['피크 아웃' 진입 LG전자, '재고 처리 악몽'...팬데믹 후 재고 4조 늘어]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290023</link>
-            <guid>https://www.bloter.net/newsView/blt202207290023</guid>
-            <pubDate>Mon, 29 Aug 2022 01:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[하늘·산간오지도 '양자암호통신' 영역...KT-한화시스템 '맞손']]></title>
+            <link>https://www.bloter.net/newsView/blt202207120004</link>
+            <guid>https://www.bloter.net/newsView/blt202207120004</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[㈜한화, ‘원 포인트 인사’…글로벌 부문 대표 교체]]></title>
+            <link>https://www.bloter.net/newsView/blt202207010014</link>
+            <guid>https://www.bloter.net/newsView/blt202207010014</guid>
+            <pubDate>Mon, 29 Aug 2022 06:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
