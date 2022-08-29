@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 10:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김동관 한화솔루션 사장, 부회장 승진…승계 구도 명확]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290010</link>
+            <guid>https://www.bloter.net/newsView/blt202208290010</guid>
+            <pubDate>Mon, 29 Aug 2022 10:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-29 14:35:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, IFA서 97형 올레드 TV 공개...4분기 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202208290004</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 29 Aug 2022 01:59:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-29 08:04:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[38년 ‘美 감염병 사령탑’ 지킨 파우치…12월 퇴임]]></title>
-            <link>https://www.bloter.net/newsView/blt202208260022</link>
-            <guid>https://www.bloter.net/newsView/blt202208260022</guid>
-            <pubDate>Mon, 29 Aug 2022 01:59:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-28 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260044.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
