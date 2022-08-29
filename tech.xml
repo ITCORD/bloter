@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 02:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 04:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]'판교를 달리다'…우마무스메 마차 시위 시작]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290007</link>
+            <guid>https://www.bloter.net/newsView/blt202208290007</guid>
+            <pubDate>Mon, 29 Aug 2022 04:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">판교=채성오</span>                        <span class="date">2022-08-29 11:29:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG전자, IFA서 97형 올레드 TV 공개...4분기 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202208290004</link>
             <guid>https://www.bloter.net/newsView/blt202208290004</guid>
             <pubDate>Mon, 29 Aug 2022 01:59:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-29 10:54:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“구글 직원, 사무실 복귀 후 코로나19 확산에 불만”]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 27 Aug 2022 04:03:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-27 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260041.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 서머 파이널]①'젠지 VS T1' 관전포인트는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208260018</link>
-            <guid>https://www.bloter.net/newsView/blt202208260018</guid>
-            <pubDate>Sat, 27 Aug 2022 01:48:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-08-27 10:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
