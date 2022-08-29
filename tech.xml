@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제약업계 화두 ‘데이터 완전성’…비바시스템·메디데이터 ‘부각’]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290014</link>
+            <guid>https://www.bloter.net/newsView/blt202208290014</guid>
+            <pubDate>Mon, 29 Aug 2022 08:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-29 17:13:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카나리아바이오엠, 세종메디칼 인수 '연기']]></title>
             <link>https://www.bloter.net/newsView/blt202208290009</link>
             <guid>https://www.bloter.net/newsView/blt202208290009</guid>
             <pubDate>Mon, 29 Aug 2022 06:06:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-29 14:49:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290015.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290015.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[IT비즈썰]IP 비즈니스 왜 주목 받을까...핑크퐁 사례로 살펴보기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 28 Aug 2022 05:30:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-28 14:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/27/blt202208270001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[컴투버스가 그리는 미래]②플랫폼 넘어 '가상 신도시'로]]></title>
-            <link>https://www.bloter.net/newsView/blt202208280003</link>
-            <guid>https://www.bloter.net/newsView/blt202208280003</guid>
-            <pubDate>Sun, 28 Aug 2022 04:57:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-28 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
