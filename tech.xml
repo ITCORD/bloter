@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 08:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 09:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[폰SIGHT]'KT'도 뛰어든 eSIM 경쟁…1폰2번호 내게 맞는 조합은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290018</link>
+            <guid>https://www.bloter.net/newsView/blt202208290018</guid>
+            <pubDate>Mon, 29 Aug 2022 09:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-29 18:11:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290029.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 충당부채 8.2조 사상 최대...세탁기 리콜로 확대 전망]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290011</link>
+            <guid>https://www.bloter.net/newsView/blt202208290011</guid>
+            <pubDate>Mon, 29 Aug 2022 09:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-29 17:53:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290024.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제약업계 화두 ‘데이터 완전성’…비바시스템·메디데이터 ‘부각’]]></title>
             <link>https://www.bloter.net/newsView/blt202208290014</link>
             <guid>https://www.bloter.net/newsView/blt202208290014</guid>
             <pubDate>Mon, 29 Aug 2022 08:22:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-29 17:13:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290022.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카나리아바이오엠, 세종메디칼 인수 '연기']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 28 Aug 2022 07:16:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강릉=안신혜</span>                        <span class="date">2022-08-28 16:07:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]아이언소스, '광고 올인원 플랫폼' 자신한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202208280001</link>
-            <guid>https://www.bloter.net/newsView/blt202208280001</guid>
-            <pubDate>Sun, 28 Aug 2022 06:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">부산=유다정</span>                        <span class="date">2022-08-28 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[클라우드+]오라클이 'CSP 빅3' AWS·MS·구글 추격하는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202208260023</link>
-            <guid>https://www.bloter.net/newsView/blt202208260023</guid>
-            <pubDate>Sun, 28 Aug 2022 05:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-28 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/27/blt202208270001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
