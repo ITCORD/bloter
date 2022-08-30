@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 08:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 09:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최종현·최태원 부자...매출 2조였던 SK이노베이션을 47조로 키웠다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208300014</link>
+            <guid>https://www.bloter.net/newsView/blt202208300014</guid>
+            <pubDate>Tue, 30 Aug 2022 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-30 16:09:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['마테크' 현장 목소리 듣는다…'마케팅 테크놀로지 인사이트' 개최]]></title>
+            <link>https://www.bloter.net/newsView/blt202208300008</link>
+            <guid>https://www.bloter.net/newsView/blt202208300008</guid>
+            <pubDate>Tue, 30 Aug 2022 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-30 14:22:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300012.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소니, 콘솔·PC 넘어 모바일 게임으로 사업 확장한다]]></title>
             <link>https://www.bloter.net/newsView/blt202208300003</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 30 Aug 2022 06:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-30 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데케미칼이 롯데정밀화학 지분 폭풍 매입하는 진짜 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290013</link>
-            <guid>https://www.bloter.net/newsView/blt202208290013</guid>
-            <pubDate>Tue, 30 Aug 2022 01:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-29 21:10:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지금은 가을 옷 살 때"…추석 마케팅은 최소 3주 전부터]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290017</link>
-            <guid>https://www.bloter.net/newsView/blt202208290017</guid>
-            <pubDate>Tue, 30 Aug 2022 01:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-29 18:48:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290026.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
