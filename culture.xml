@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 23:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 02:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니, 콘솔·PC 넘어 모바일 게임으로 사업 확장한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208300003</link>
+            <guid>https://www.bloter.net/newsView/blt202208300003</guid>
+            <pubDate>Tue, 30 Aug 2022 02:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[소니가 모바일 게임 사업 확장을 위해 ‘플레이스테이션 스튜디오 모바일 사업부’를 만들었다.   29일(현지시간) 소니는 보도자료를 통해 새로운 모바일 사업부가 콘솔 게임 개발부와 독립적으로 운영되며 “새로운 플레이스테이션 IP와 기존의 IP를 이용]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300007.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]'판교를 달리다'…우마무스메 '마차 시위' 시작]]></title>
             <link>https://www.bloter.net/newsView/blt202208290007</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Aug 2022 01:51:11 GMT</pubDate>
             <content:encoded><![CDATA[페이스북과 트위터가 중동·중앙아시아에서 미국 및 서방 국가의 입장을 대변하는 선전 활동을 벌인 계정들을 삭제한 것으로 드러났다. 25일(현지시간) IT전문매체 &lt;테크크런치&gt;에 따르면 스탠퍼드대 인터넷 관측소(SIO)와 SNS 데이터 분석업체 ‘그래피카&amp;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[장현국 위메이드 대표, 8월 급여로 '위믹스' 매수]]></title>
-            <link>https://www.bloter.net/newsView/blt202208250012</link>
-            <guid>https://www.bloter.net/newsView/blt202208250012</guid>
-            <pubDate>Thu, 25 Aug 2022 12:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[장현국 위메이드 대표가 8월 급여로 '위믹스'를 매수했다.   25일 위메이드에 따르면 장현국 대표가 이 날 수령한 8월 급여(약 5251만원)로 위믹스 토큰 약 1만6424개를 매수했다. 이는 장현국 대표의 6번째 위믹스 토큰 매입이다. 장현국 대표는 지난 4월부터 위메이드 지]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/25/blt202208250020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
