@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니, 콘솔·PC 넘어 모바일 게임으로 사업 확장한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208300003</link>
+            <guid>https://www.bloter.net/newsView/blt202208300003</guid>
+            <pubDate>Tue, 30 Aug 2022 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-30 10:08:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300007.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웨이모, 美 피닉스 시내에서 운전자 없는 택시 서비스 개시]]></title>
+            <link>https://www.bloter.net/newsView/blt202208300002</link>
+            <guid>https://www.bloter.net/newsView/blt202208300002</guid>
+            <pubDate>Tue, 30 Aug 2022 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-30 09:17:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['50년만의 달탐사' 美 아르테미스 1호, 엔진 문제로 발사 연기]]></title>
             <link>https://www.bloter.net/newsView/blt202208300001</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 30 Aug 2022 01:59:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-29 18:48:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290026.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국타이어, 美 테네시공장 증설...2.1조 투자 프로젝트]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290016</link>
-            <guid>https://www.bloter.net/newsView/blt202208290016</guid>
-            <pubDate>Tue, 30 Aug 2022 01:59:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-29 17:57:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 충당부채 8.2조 사상 최대...세탁기 리콜로 확대 전망]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290011</link>
-            <guid>https://www.bloter.net/newsView/blt202208290011</guid>
-            <pubDate>Mon, 29 Aug 2022 22:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-29 17:53:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/29/blt202208290024.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
