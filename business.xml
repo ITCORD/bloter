@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 '스플리트' 투자 결정한 카카오모빌리티, 해외 진출 속도낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310007</link>
+            <guid>https://www.bloter.net/newsView/blt202208310007</guid>
+            <pubDate>Wed, 31 Aug 2022 06:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-31 10:03:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310006.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[또 중국?…IT기업 '시나이 전자', 대규모 정보 유출]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310004</link>
+            <guid>https://www.bloter.net/newsView/blt202208310004</guid>
+            <pubDate>Wed, 31 Aug 2022 06:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-31 09:34:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스냅챗' 개발사, 직원 20% 해고…긴축경영 돌입]]></title>
             <link>https://www.bloter.net/newsView/blt202208310001</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 31 Aug 2022 02:06:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-30 16:49:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 미전실 출신 디지털전문가 영입한 리치앤코…카카오에 '방벽']]></title>
-            <link>https://www.bloter.net/newsView/blt202208300013</link>
-            <guid>https://www.bloter.net/newsView/blt202208300013</guid>
-            <pubDate>Wed, 31 Aug 2022 02:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-30 16:44:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최종현·최태원 부자...매출 2조였던 SK이노베이션을 47조로 키웠다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300014</link>
-            <guid>https://www.bloter.net/newsView/blt202208300014</guid>
-            <pubDate>Tue, 30 Aug 2022 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-30 16:09:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300024.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
