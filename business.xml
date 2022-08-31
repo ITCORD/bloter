@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안 써본 고객만 81%...카드사의 리볼빙 광고 '이유있네']]></title>
+            <link>https://www.bloter.net/newsView/blt202208310015</link>
+            <guid>https://www.bloter.net/newsView/blt202208310015</guid>
+            <pubDate>Wed, 31 Aug 2022 09:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-31 14:32:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아마존, '경쟁사·현지 규제'로 인도 사업 확장 골머리]]></title>
             <link>https://www.bloter.net/newsView/blt202208310008</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 31 Aug 2022 02:06:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-31 08:22:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국거래소 "왜 상쳤어요?"…세아특수강 "모르겠는데요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300020</link>
-            <guid>https://www.bloter.net/newsView/blt202208300020</guid>
-            <pubDate>Wed, 31 Aug 2022 02:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-30 18:00:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

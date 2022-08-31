@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[토스뱅크, 반가운 '님' 봤다…고객 수 440만명 돌파한 덕분]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310022</link>
-            <guid>https://www.bloter.net/newsView/blt202208310022</guid>
-            <pubDate>Wed, 31 Aug 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-31 16:51:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310037.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[D램 가격 2달 연속 하락...삼성전자 재고 평가손실 227% 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310023</link>
+            <guid>https://www.bloter.net/newsView/blt202208310023</guid>
+            <pubDate>Wed, 31 Aug 2022 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-31 17:56:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310038.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저축은행 예금금리 치솟자…토스뱅크, 한투증권 상품으로 받아치기]]></title>
-            <link>https://www.bloter.net/newsView/blt202208170005</link>
-            <guid>https://www.bloter.net/newsView/blt202208170005</guid>
-            <pubDate>Wed, 31 Aug 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자, 충당부채 8.2조 사상 최대...세탁기 리콜로 확대 전망]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290011</link>
+            <guid>https://www.bloter.net/newsView/blt202208290011</guid>
+            <pubDate>Wed, 31 Aug 2022 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[토스뱅크, 본격 수수료수익 낸다…한투증권 손잡고 자산관리 서비스]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080011</link>
-            <guid>https://www.bloter.net/newsView/blt202208080011</guid>
-            <pubDate>Wed, 31 Aug 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크의 압축성장…예대마진 흑자에, 카뱅 위협하는 플랫폼전략]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280024</link>
-            <guid>https://www.bloter.net/newsView/blt202206280024</guid>
-            <pubDate>Wed, 31 Aug 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크, 급속히 늘어나는 '위험가중자산'…경제위기 걱정 없나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070006</link>
-            <guid>https://www.bloter.net/newsView/blt202206070006</guid>
-            <pubDate>Wed, 31 Aug 2022 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[TSMC, 내달 3나노 양산...삼성전자와 '수주 전쟁' 펼친다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230003</link>
+            <guid>https://www.bloter.net/newsView/blt202208230003</guid>
+            <pubDate>Wed, 31 Aug 2022 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
