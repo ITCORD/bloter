@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 사업 구조조정으로 확보한 1조원 '반도체·원자력'에 쓴다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310020</link>
+            <guid>https://www.bloter.net/newsView/blt202208310020</guid>
+            <pubDate>Wed, 31 Aug 2022 08:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-31 17:00:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310034.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[㈜두산, '유동성 위기' 때 지킨 두산에너빌리티 지분 왜 팔았을까]]></title>
             <link>https://www.bloter.net/newsView/blt202208310016</link>
             <guid>https://www.bloter.net/newsView/blt202208310016</guid>
             <pubDate>Wed, 31 Aug 2022 07:37:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span><span class="writer">구태우</span>                        <span class="date">2022-08-31 16:27:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]대항해시대 오리진, IP 힘 이어갈까]]></title>
@@ -64,7 +72,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내년부터 삼성전자 '스마트싱스'로 타사 가전 키고 끈다]]></title>
+            <title><![CDATA[내년부터 삼성전자 '스마트싱스'로 타사 가전 켜고 끈다]]></title>
             <link>https://www.bloter.net/newsView/blt202208310006</link>
             <guid>https://www.bloter.net/newsView/blt202208310006</guid>
             <pubDate>Wed, 31 Aug 2022 02:06:59 GMT</pubDate>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 30 Aug 2022 08:23:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-30 16:48:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, '웨일 스페이스' 앞세워 에듀테크 글로벌 진출 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300012</link>
-            <guid>https://www.bloter.net/newsView/blt202208300012</guid>
-            <pubDate>Tue, 30 Aug 2022 06:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-30 14:39:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300020.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
