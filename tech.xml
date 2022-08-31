@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 06:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[㈜두산, '유동성 위기' 때 지킨 두산에너빌리티 지분 왜 팔았을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310016</link>
+            <guid>https://www.bloter.net/newsView/blt202208310016</guid>
+            <pubDate>Wed, 31 Aug 2022 07:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span><span class="writer">구태우</span>                        <span class="date">2022-08-31 16:27:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]대항해시대 오리진, IP 힘 이어갈까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310017</link>
+            <guid>https://www.bloter.net/newsView/blt202208310017</guid>
+            <pubDate>Wed, 31 Aug 2022 07:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-31 16:07:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310028.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[eSIM 기반 1폰2번호 시대, 명의는 1명만 허용...왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202208310014</link>
             <guid>https://www.bloter.net/newsView/blt202208310014</guid>
             <pubDate>Wed, 31 Aug 2022 04:55:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-08-31 13:23:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 공기업·대형병원에 이음5G 장비 공급한다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 30 Aug 2022 06:11:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-30 14:39:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300020.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['마테크' 현장 목소리 듣는다…'마케팅 테크놀로지 인사이트' 개최]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300008</link>
-            <guid>https://www.bloter.net/newsView/blt202208300008</guid>
-            <pubDate>Tue, 30 Aug 2022 06:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-08-30 14:22:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300012.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[더블유게임즈, 4년 만에 자회사 소송 리스크 해소]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300011</link>
-            <guid>https://www.bloter.net/newsView/blt202208300011</guid>
-            <pubDate>Tue, 30 Aug 2022 06:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-08-30 14:06:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
