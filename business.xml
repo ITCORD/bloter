@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 23:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 01:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D램 가격 2달 연속 하락...삼성전자 재고 평가손실 227% 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310023</link>
+            <guid>https://www.bloter.net/newsView/blt202208310023</guid>
+            <pubDate>Thu, 01 Sep 2022 01:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-31 17:56:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310038.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토스뱅크, 반가운 '님' 봤다…고객 수 440만명 돌파한 덕분]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310022</link>
+            <guid>https://www.bloter.net/newsView/blt202208310022</guid>
+            <pubDate>Thu, 01 Sep 2022 01:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-08-31 16:51:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310037.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데케미칼, 레드플러스 사업 검토…탄소배출 저감 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310018</link>
+            <guid>https://www.bloter.net/newsView/blt202208310018</guid>
+            <pubDate>Thu, 01 Sep 2022 01:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-08-31 16:34:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아버님 핸드폰에 기프티콘 놔드려야겠어요"…달라진 명절 풍경]]></title>
             <link>https://www.bloter.net/newsView/blt202208310011</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 31 Aug 2022 08:21:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-31 10:36:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년부터 삼성전자 '스마트싱스'로 타사 가전 켜고 끈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310006</link>
-            <guid>https://www.bloter.net/newsView/blt202208310006</guid>
-            <pubDate>Wed, 31 Aug 2022 07:37:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-31 10:09:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 '스플리트' 투자 결정한 카카오모빌리티, 해외 진출 속도낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310007</link>
-            <guid>https://www.bloter.net/newsView/blt202208310007</guid>
-            <pubDate>Wed, 31 Aug 2022 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-08-31 10:03:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310006.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[또 중국?…IT기업 '시나이 전자', 대규모 정보 유출]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310004</link>
-            <guid>https://www.bloter.net/newsView/blt202208310004</guid>
-            <pubDate>Wed, 31 Aug 2022 06:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-31 09:34:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
