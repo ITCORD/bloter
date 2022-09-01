@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 07:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클린 뷰티', 아모레퍼시픽의 新 북미 공략법…'타타 하퍼' 인수]]></title>
+            <link>https://www.bloter.net/newsView/blt202209010014</link>
+            <guid>https://www.bloter.net/newsView/blt202209010014</guid>
+            <pubDate>Thu, 01 Sep 2022 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[아모레퍼시픽이 '클린 뷰티' 전략으로 북미 시장을 공략한다.1일 아모레퍼시픽은 "종속회사 아모레퍼시픽 US 인베스트먼트가 기타자금 1681억원을 조달하기 위해 주주배정 방식 유상증자를 결정했다"고 공시했다. 신주 발행가는 주당 16만8137원이다.   이날 공시에 따]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]넷이즈, '데바데 모바일' 韓 등급분류…출시 임박]]></title>
             <link>https://www.bloter.net/newsView/blt202209010010</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 28 Aug 2022 11:15:47 GMT</pubDate>
             <content:encoded><![CDATA[젠지가 '2022 리그 오브 레전드 챔피언스코리아(LCK) 서머' 결승전에서 강적 T1을 꺾고 우승컵을 들어올렸다.   28일 오후 젠지는 강원도 강릉시 강릉아레나에서 진행된 LCK 서머 결승전에서 T1에 3대0 퍼펙트 스코어를 거두며 승리의 영광을 안았다. 젠지는 3연승에 성공]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LCK 서머 파이널]③'리헨즈' 손시우의 '조커픽'…젠지 2승 견인]]></title>
-            <link>https://www.bloter.net/newsView/blt202208280010</link>
-            <guid>https://www.bloter.net/newsView/blt202208280010</guid>
-            <pubDate>Sun, 28 Aug 2022 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[젠지가 1세트에 이어 2세트까지 승리하며 '2022 LCK 서머 결승전' 우승컵까지 한 경기를 남겨두게 됐다.   28일 젠지는 강원도 강릉시 강릉아레나에서 개최된 '2022 LCK 리그 오브 레전드 챔피언스코리아(LCK)' 서머 결승전 2세트에서 T1을 꺾고, 세트스코어를 2대0으로 만들]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/28/blt202208280016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
