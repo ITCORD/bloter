@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 07:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 08:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIT·OPA의 수상한  '개인정보 수집과 공유']]></title>
+            <link>https://www.bloter.net/newsView/blt202209010011</link>
+            <guid>https://www.bloter.net/newsView/blt202209010011</guid>
+            <pubDate>Thu, 01 Sep 2022 08:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-01 17:22:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010018.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이젠, 우주]예산안으로 본 尹정부 ‘우주개발’ 의지…민간 생태계 마련 ‘방점’]]></title>
+            <link>https://www.bloter.net/newsView/blt202209010019</link>
+            <guid>https://www.bloter.net/newsView/blt202209010019</guid>
+            <pubDate>Thu, 01 Sep 2022 08:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-01 17:14:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010036.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공시분석]한일네트웍스로 본 '자진상폐' 이모저모]]></title>
+            <link>https://www.bloter.net/newsView/blt202209010018</link>
+            <guid>https://www.bloter.net/newsView/blt202209010018</guid>
+            <pubDate>Thu, 01 Sep 2022 08:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-01 16:54:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010030.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]넷이즈, '데바데 모바일' 韓 등급분류…출시 임박]]></title>
             <link>https://www.bloter.net/newsView/blt202209010010</link>
             <guid>https://www.bloter.net/newsView/blt202209010010</guid>
             <pubDate>Thu, 01 Sep 2022 05:50:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-01 14:04:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG화학 통풍신약, 1차 치료제까지 노린다]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 31 Aug 2022 04:55:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-31 11:18:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ온스타일·AWS는 '생방송 지연 시간' 30초→3초 어떻게 줄였나]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310005</link>
-            <guid>https://www.bloter.net/newsView/blt202208310005</guid>
-            <pubDate>Wed, 31 Aug 2022 04:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-31 11:16:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, '경쟁사·현지 규제'로 인도 사업 확장 골머리]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310008</link>
-            <guid>https://www.bloter.net/newsView/blt202208310008</guid>
-            <pubDate>Wed, 31 Aug 2022 02:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-08-31 10:36:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년부터 삼성전자 '스마트싱스'로 타사 가전 켜고 끈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310006</link>
-            <guid>https://www.bloter.net/newsView/blt202208310006</guid>
-            <pubDate>Wed, 31 Aug 2022 02:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-08-31 10:09:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
