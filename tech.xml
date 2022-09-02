@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 '오브제 무드업' 신제품 출시..."냉장고야 분위기를 부탁해"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020009</link>
+            <guid>https://www.bloter.net/newsView/blt202209020009</guid>
+            <pubDate>Fri, 02 Sep 2022 06:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 13:51:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울바이오시스, IFA서 적층형 구조 마이크로 LED 공개...'초격차란 이런 것']]></title>
+            <link>https://www.bloter.net/newsView/blt202209020006</link>
+            <guid>https://www.bloter.net/newsView/blt202209020006</guid>
+            <pubDate>Fri, 02 Sep 2022 06:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 13:46:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020008.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이크론, 20조 투자해 메모리 반도체 공장 짓는다…”美 반도체법 덕분”]]></title>
             <link>https://www.bloter.net/newsView/blt202209020003</link>
             <guid>https://www.bloter.net/newsView/blt202209020003</guid>
             <pubDate>Fri, 02 Sep 2022 01:48:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-02 10:13:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[트위터, 유료 구독 서비스 ‘블루’에 ‘편집 기능’ 추가 임박]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 31 Aug 2022 09:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-08-31 18:14:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310036.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2분기 최대 실적 냈지만 현금 안 들어오는 LG CNS…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310026</link>
-            <guid>https://www.bloter.net/newsView/blt202208310026</guid>
-            <pubDate>Wed, 31 Aug 2022 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-08-31 18:14:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310046.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 사업 구조조정으로 확보한 1조원 '반도체·원자력'에 쓴다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310020</link>
-            <guid>https://www.bloter.net/newsView/blt202208310020</guid>
-            <pubDate>Wed, 31 Aug 2022 08:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-08-31 17:00:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310034.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

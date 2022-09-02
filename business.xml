@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 04:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[①덩치 커졌지만…’지배력∙자본조달’ 고민]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020004</link>
+            <guid>https://www.bloter.net/newsView/blt202209020004</guid>
+            <pubDate>Fri, 02 Sep 2022 06:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-02 11:19:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크론, 20조 투자해 메모리 반도체 공장 짓는다…”美 반도체법 덕분”]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020003</link>
+            <guid>https://www.bloter.net/newsView/blt202209020003</guid>
+            <pubDate>Fri, 02 Sep 2022 06:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-02 10:13:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 유료 구독 서비스 ‘블루’에 ‘편집 기능’ 추가 임박]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020002</link>
+            <guid>https://www.bloter.net/newsView/blt202209020002</guid>
+            <pubDate>Fri, 02 Sep 2022 06:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-02 09:21:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[英 반독점 당국 “MS의 액티비전 인수 경쟁 제한 우려 있다”]]></title>
             <link>https://www.bloter.net/newsView/blt202209020001</link>
@@ -30,30 +54,6 @@
             <pubDate>Fri, 02 Sep 2022 01:47:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-01 17:57:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010040.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맵-대리운전 업계 갈등, '사회적 가치' 내세운 SK로 번졌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010016</link>
-            <guid>https://www.bloter.net/newsView/blt202209010016</guid>
-            <pubDate>Fri, 02 Sep 2022 01:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-01 16:10:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['클린 뷰티', 아모레퍼시픽의 新 북미 공략법…'타타 하퍼' 인수]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010014</link>
-            <guid>https://www.bloter.net/newsView/blt202209010014</guid>
-            <pubDate>Thu, 01 Sep 2022 23:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-01 16:01:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6년 만에 임시주총 여는 삼성전자...이재용 부회장, 이사회 복귀 수순 밟나]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010012</link>
-            <guid>https://www.bloter.net/newsView/blt202209010012</guid>
-            <pubDate>Thu, 01 Sep 2022 11:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-01 15:46:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010019.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
