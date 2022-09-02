@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[타다, '출혈 경쟁' 속 불투명한 차량 1500대 운영 계획]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020011</link>
-            <guid>https://www.bloter.net/newsView/blt202209020011</guid>
-            <pubDate>Fri, 02 Sep 2022 06:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-02 14:43:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020014.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[한국타이어, 2.1조 美 투자...투자금 어떻게 조달할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020014</link>
+            <guid>https://www.bloter.net/newsView/blt202209020014</guid>
+            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 17:31:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020040.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쏘카 방향성 동의한 롯데렌탈, 다음 스텝은]]></title>
-            <link>https://www.bloter.net/newsView/blt202208110005</link>
-            <guid>https://www.bloter.net/newsView/blt202208110005</guid>
-            <pubDate>Fri, 02 Sep 2022 06:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한국타이어, 美 테네시공장 증설...2.1조 투자 프로젝트]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290016</link>
+            <guid>https://www.bloter.net/newsView/blt202208290016</guid>
+            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['드라이버' 필요한 타다, 친화 정책 연달아 내놓는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207270007</link>
-            <guid>https://www.bloter.net/newsView/blt202207270007</guid>
-            <pubDate>Fri, 02 Sep 2022 06:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한국타이어, 기타손익 1900억의 정체는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030004</link>
+            <guid>https://www.bloter.net/newsView/blt202208030004</guid>
+            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['고급 대형택시'로 택시업계  문제 푼다는 '타다'...어떻게?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204140040</link>
-            <guid>https://www.bloter.net/newsView/blt202204140040</guid>
-            <pubDate>Fri, 02 Sep 2022 06:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['타다' 떼어낸 '쏘카', 매출 늘었지만 여전히 적자]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310061</link>
-            <guid>https://www.bloter.net/newsView/blt202203310061</guid>
-            <pubDate>Fri, 02 Sep 2022 06:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한국타이어, 매출 늘었지만…확 늘어난 재고부담]]></title>
+            <link>https://www.bloter.net/newsView/blt202208020018</link>
+            <guid>https://www.bloter.net/newsView/blt202208020018</guid>
+            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

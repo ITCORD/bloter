@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK케미칼, 자본조달 ‘쉬운 길’ 택했더니…끝없는 ‘주주가치’ 논란]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020005</link>
+            <guid>https://www.bloter.net/newsView/blt202209020005</guid>
+            <pubDate>Fri, 02 Sep 2022 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-02 11:50:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010045.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[①덩치 커졌지만…’지배력∙자본조달’ 고민]]></title>
             <link>https://www.bloter.net/newsView/blt202209020004</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 02 Sep 2022 04:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-01 18:25:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010045.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성카드, 테슬라 타고 '성장주' 될 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010020</link>
-            <guid>https://www.bloter.net/newsView/blt202209010020</guid>
-            <pubDate>Fri, 02 Sep 2022 01:47:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-01 17:57:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010040.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

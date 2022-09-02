@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마켓리뷰]'뮤' 매출 의존도 심화…웹젠, '돌파구' 찾을 수 있나]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020020</link>
+            <guid>https://www.bloter.net/newsView/blt202209020020</guid>
+            <pubDate>Fri, 02 Sep 2022 09:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-02 17:40:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단순 매출증가? 스카이라이프TV·미디어지니 합병 기대 효과는]]></title>
             <link>https://www.bloter.net/newsView/blt202209020019</link>
             <guid>https://www.bloter.net/newsView/blt202209020019</guid>
             <pubDate>Fri, 02 Sep 2022 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-02 17:22:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020024.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020024.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오늘회 '전직원 권고사직'...커지는 스타트업 '적자 성장' 우려]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 01 Sep 2022 01:45:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-01 10:18:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스X, 나사 우주비행사 수송 계약 체결...1조8800억원 규모]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010002</link>
-            <guid>https://www.bloter.net/newsView/blt202209010002</guid>
-            <pubDate>Thu, 01 Sep 2022 01:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-01 09:12:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
