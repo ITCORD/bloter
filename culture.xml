@@ -4,15 +4,23 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해외>국내' 매출 역전 '데브시스터즈', 향후 과제는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209010025</link>
+            <guid>https://www.bloter.net/newsView/blt202209010025</guid>
+            <pubDate>Fri, 02 Sep 2022 10:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[데브시스터즈의 해외 게임 매출 규모가 올 상반기 처음으로 국내를 앞지르는 '매출 역전' 현상을 보였다. 이는 데브시스터즈가 '쿠키런: 킹덤'의 신규 서비스 지역을 늘리는 등 해외 서비스를 강화한 것이 주효했다는 평가다. 다만, 같은 기간 데브시스터즈의 국내]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010046.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[마켓리뷰]'뮤' 매출 의존도 심화…웹젠, '돌파구' 찾을 수 있나]]></title>
             <link>https://www.bloter.net/newsView/blt202209020020</link>
             <guid>https://www.bloter.net/newsView/blt202209020020</guid>
             <pubDate>Fri, 02 Sep 2022 09:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 상황을 통해 실적을 분석하는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다.- 1월 11일: 캐릭터 브랜드 '웹젠 프렌즈' 무신사 스토어 정식 입점- 2월 23일: 모바일 MMORPG '뮤오리진3',]]></content:encoded>
+            <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 상황을 통해 실적을 분석하는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다. - 1월 11일: 캐릭터 브랜드 '웹젠 프렌즈' 무신사 스토어 정식 입점- 2월 23일: 모바일 MMORPG '뮤오리진3',]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020026.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 Aug 2022 06:12:13 GMT</pubDate>
             <content:encoded><![CDATA[더블유게임즈의 자회사인 더블다운인터액티브(DDI)가 4년 만에 법률적 위험 요소를 해결했다.30일 더블유게임즈에 따르면 DDI가 소비자보호법(CPA) 관련 소송에서 원고들과 합의를 이뤄냈다.   해당 소송은 지난 2018년 4월 제기됐다. 당시 일부 이용자들은 "특정 소셜카]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 콘솔·PC 넘어 모바일 게임으로 사업 확장한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300003</link>
-            <guid>https://www.bloter.net/newsView/blt202208300003</guid>
-            <pubDate>Tue, 30 Aug 2022 02:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[소니가 모바일 게임 사업 확장을 위해 ‘플레이스테이션 스튜디오 모바일 사업부’를 만들었다.   29일(현지시간) 소니는 보도자료를 통해 새로운 모바일 사업부가 콘솔 게임 개발부와 독립적으로 운영되며 “새로운 플레이스테이션 IP와 기존의 IP를 이용]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
