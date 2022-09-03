@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 23:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 01:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울바이오시스, IFA서 적층형 구조 마이크로 LED 공개...'초격차란 이런 것']]></title>
+            <link>https://www.bloter.net/newsView/blt202209020006</link>
+            <guid>https://www.bloter.net/newsView/blt202209020006</guid>
+            <pubDate>Sat, 03 Sep 2022 01:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 13:46:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK케미칼, 자본조달 ‘쉬운 길’ 택했더니…끝없는 ‘주주가치’ 논란]]></title>
             <link>https://www.bloter.net/newsView/blt202209020005</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 02 Sep 2022 04:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-02 08:15:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK디스커버리, SK케미칼 주식 5.22% 공개매수..."연결 편입 목적"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010024</link>
-            <guid>https://www.bloter.net/newsView/blt202209010024</guid>
-            <pubDate>Fri, 02 Sep 2022 04:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-01 18:25:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010045.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

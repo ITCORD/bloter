@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 23:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 01:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 9월 7일 신제품 공개 행사…관전 포인트는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020022</link>
+            <guid>https://www.bloter.net/newsView/blt202209020022</guid>
+            <pubDate>Sat, 03 Sep 2022 01:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-03 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020034.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['해외>국내' 매출 역전 '데브시스터즈', 향후 과제는?]]></title>
             <link>https://www.bloter.net/newsView/blt202209010025</link>
             <guid>https://www.bloter.net/newsView/blt202209010025</guid>
             <pubDate>Fri, 02 Sep 2022 10:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-02 18:24:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010046.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010046.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[마켓리뷰]'뮤' 매출 의존도 심화…웹젠, '돌파구' 찾을 수 있나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 01 Sep 2022 05:50:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-01 13:52:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK바이오사이언스가 잡은 짧은 기회…대상포진 백신 단독 공급]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010006</link>
-            <guid>https://www.bloter.net/newsView/blt202209010006</guid>
-            <pubDate>Thu, 01 Sep 2022 04:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-01 11:24:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

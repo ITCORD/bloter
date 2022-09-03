@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 23:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 01:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한국타이어, 2.1조 美 투자...투자금 어떻게 조달할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020014</link>
-            <guid>https://www.bloter.net/newsView/blt202209020014</guid>
-            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 17:31:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020040.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애플, 9월 7일 신제품 공개 행사…관전 포인트는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020022</link>
+            <guid>https://www.bloter.net/newsView/blt202209020022</guid>
+            <pubDate>Sat, 03 Sep 2022 01:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-03 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020034.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국타이어, 美 테네시공장 증설...2.1조 투자 프로젝트]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290016</link>
-            <guid>https://www.bloter.net/newsView/blt202208290016</guid>
-            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[“애플 MR 헤드셋 출시명은 리얼리티…상표 출원서 통해 확인”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290002</link>
+            <guid>https://www.bloter.net/newsView/blt202208290002</guid>
+            <pubDate>Sat, 03 Sep 2022 01:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국타이어, 기타손익 1900억의 정체는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208030004</link>
-            <guid>https://www.bloter.net/newsView/blt202208030004</guid>
-            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플, 내달 7일 신제품 행사 개최…아이폰14 선보일까]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250003</link>
+            <guid>https://www.bloter.net/newsView/blt202208250003</guid>
+            <pubDate>Sat, 03 Sep 2022 01:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국타이어, 매출 늘었지만…확 늘어난 재고부담]]></title>
-            <link>https://www.bloter.net/newsView/blt202208020018</link>
-            <guid>https://www.bloter.net/newsView/blt202208020018</guid>
-            <pubDate>Fri, 02 Sep 2022 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[“애플, 이르면 2023년 지도 앱에 광고 도입”]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220002</link>
+            <guid>https://www.bloter.net/newsView/blt202208220002</guid>
+            <pubDate>Sat, 03 Sep 2022 01:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플, 채용 담당 인력 감축…고비마다 '계약직' 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170002</link>
+            <guid>https://www.bloter.net/newsView/blt202208170002</guid>
+            <pubDate>Sat, 03 Sep 2022 01:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
