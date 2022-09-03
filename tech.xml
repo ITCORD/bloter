@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 05:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 06:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+] 광고, 다시 TV로…CTV 시대를 준비하라]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260014</link>
+            <guid>https://www.bloter.net/newsView/blt202208260014</guid>
+            <pubDate>Sat, 03 Sep 2022 06:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-03 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/26/blt202208260033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[테크체인저]"농수산물, 직거래하면 안돼?"...레드오션 뚫어낸 팔도감]]></title>
             <link>https://www.bloter.net/newsView/blt202208310002</link>
             <guid>https://www.bloter.net/newsView/blt202208310002</guid>
             <pubDate>Sat, 03 Sep 2022 04:04:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-03 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LF의 온라인 실험, '헤지스닷컴'은 어떻게 '버티컬 플랫폼화' 됐나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 01 Sep 2022 08:25:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-01 17:22:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010018.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이젠, 우주]예산안으로 본 尹정부 ‘우주개발’ 의지…민간 생태계 마련 ‘방점’]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010019</link>
-            <guid>https://www.bloter.net/newsView/blt202209010019</guid>
-            <pubDate>Thu, 01 Sep 2022 08:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-01 17:14:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
