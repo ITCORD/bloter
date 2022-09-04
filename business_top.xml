@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 04:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 05:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유튜브 추천 알고리즘, 美 대선 부정선거론 확산에 일조했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020025</link>
-            <guid>https://www.bloter.net/newsView/blt202209020025</guid>
-            <pubDate>Sun, 04 Sep 2022 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-04 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020038.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA['처음처럼 새로' 신제품 내놓는 롯데칠성…기획능력 시험대]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020013</link>
+            <guid>https://www.bloter.net/newsView/blt202209020013</guid>
+            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-04 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020018.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11월 중간 선거 앞둔 美 민주당, 유세에 인플루언서 활용한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208120020</link>
-            <guid>https://www.bloter.net/newsView/blt202208120020</guid>
-            <pubDate>Sun, 04 Sep 2022 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[롯데칠성, 확실히 살아난 주류사업…올해도 최대 실적?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010008</link>
+            <guid>https://www.bloter.net/newsView/blt202208010008</guid>
+            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유튜브, ‘가짜뉴스’ 차단 대책 마련한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202202180007</link>
-            <guid>https://www.bloter.net/newsView/blt202202180007</guid>
-            <pubDate>Sun, 04 Sep 2022 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[롯데칠성, 주류사업 4년 연속 적자...올해는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202102050011</link>
+            <guid>https://www.bloter.net/newsView/blt202102050011</guid>
+            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바이든 "시위 아닌 폭동"…트럼프 "돌아가라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202101070006</link>
-            <guid>https://www.bloter.net/newsView/blt202101070006</guid>
-            <pubDate>Sun, 04 Sep 2022 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“이번 선거는 사기”…트럼프, “선거 결과 대법원에서 결정될 것”]]></title>
-            <link>https://www.bloter.net/newsView/blt202011060009</link>
-            <guid>https://www.bloter.net/newsView/blt202011060009</guid>
-            <pubDate>Sun, 04 Sep 2022 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김명상</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['롯데칠성음료-롯데지주'의 이상한 자본거래]]></title>
+            <link>https://www.bloter.net/newsView/blt202008200007</link>
+            <guid>https://www.bloter.net/newsView/blt202008200007</guid>
+            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">문병선</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
