@@ -4,37 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 10:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 11:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['처음처럼 새로' 신제품 내놓는 롯데칠성…기획능력 시험대]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020013</link>
-            <guid>https://www.bloter.net/newsView/blt202209020013</guid>
-            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-04 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020018.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘MBK의 메가스터디교육 M&A 실패’서 배우는 투자 교훈]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020029</link>
+            <guid>https://www.bloter.net/newsView/blt202209020029</guid>
+            <pubDate>Sun, 04 Sep 2022 11:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-04 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020047.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[롯데칠성, 확실히 살아난 주류사업…올해도 최대 실적?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208010008</link>
-            <guid>https://www.bloter.net/newsView/blt202208010008</guid>
-            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[합작법인 세우는 스켈터랩스·메가스터디교육, '수능 맞춤형 AI' 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202101250015</link>
+            <guid>https://www.bloter.net/newsView/blt202101250015</guid>
+            <pubDate>Sun, 04 Sep 2022 11:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김인경</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[롯데칠성, 주류사업 4년 연속 적자...올해는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202102050011</link>
-            <guid>https://www.bloter.net/newsView/blt202102050011</guid>
-            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['롯데칠성음료-롯데지주'의 이상한 자본거래]]></title>
-            <link>https://www.bloter.net/newsView/blt202008200007</link>
-            <guid>https://www.bloter.net/newsView/blt202008200007</guid>
-            <pubDate>Sun, 04 Sep 2022 05:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">문병선</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[메가스터디 손주은 회장이 말하는 '나의 스타트업 도전 시절']]></title>
+            <link>https://www.bloter.net/newsView/blt201705240002</link>
+            <guid>https://www.bloter.net/newsView/blt201705240002</guid>
+            <pubDate>Sun, 04 Sep 2022 11:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">권도연</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
