@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 22:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 23:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 부회장, 英 출장에 가열되는 'ARM 인수전'...삼성전자 참전할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209040001</link>
+            <guid>https://www.bloter.net/newsView/blt202209040001</guid>
+            <pubDate>Sun, 04 Sep 2022 23:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-04 10:30:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/04/blt202209040001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광물 자원 부족 겪는 미국, 전기차 보급 확대에 차질 생기나]]></title>
             <link>https://www.bloter.net/newsView/blt202209020023</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 04 Sep 2022 01:45:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 13:51:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울바이오시스, IFA서 적층형 구조 마이크로 LED 공개...'초격차란 이런 것']]></title>
-            <link>https://www.bloter.net/newsView/blt202209020006</link>
-            <guid>https://www.bloter.net/newsView/blt202209020006</guid>
-            <pubDate>Sat, 03 Sep 2022 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 13:46:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
