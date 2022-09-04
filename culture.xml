@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 01:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 04:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 추천 알고리즘, 美 대선 부정선거론 확산에 일조했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020025</link>
+            <guid>https://www.bloter.net/newsView/blt202209020025</guid>
+            <pubDate>Sun, 04 Sep 2022 04:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 중간선거가 두 달 남은 가운데 주요 소셜미디어(SNS) 기업들이 허위 정보 단속에 나서고 있다. 메타는 선거일을 앞두고 한 주 동안 선거, 미국 정치 등에 대한 광고를 제한한다고 밝혔다. 틱톡은 유료 정치 광고를 금지하고 선거와 관련된 콘텐츠에는 별도의 표]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020038.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[LF의 온라인 실험, '헤지스닷컴'은 어떻게 '버티컬 플랫폼화' 됐나]]></title>
             <link>https://www.bloter.net/newsView/blt202209020028</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 Aug 2022 12:37:46 GMT</pubDate>
             <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 구독 서비스를 신규 론칭하며 4년 만에 구독 경제 플랫폼으로의 전환을 선언했다. 업계 최다 클래스 수를 쌓은 데 힘입어 내린 결정이다. 코로나19 대유행 이후 온라인 강의 플랫폼 업계가 급성장한 동시에 경쟁이 치열해진 가운]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300054.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['사업 다각화'한 야놀자, 신의 한수는 '디지털 마케팅'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300016</link>
-            <guid>https://www.bloter.net/newsView/blt202208300016</guid>
-            <pubDate>Tue, 30 Aug 2022 08:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[여가 플랫폼 기업을 표방하는 '야놀자'가 사업영역 확대에 힘입어 올 상반기 매출 신장을 이뤘다. 30일 야놀자에 따르면 올 상반기 야놀자는 연결 기준 매출 약 2521억원, 영업이익 103억원을 기록했다. 야놀자의 올 상반기 매출은 전년 동기 대비 71% 증가했다.   야놀자]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300026.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

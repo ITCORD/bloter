@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 01:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 04:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국타이어, 2.1조 美 투자...투자금 어떻게 조달할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209020014</link>
+            <guid>https://www.bloter.net/newsView/blt202209020014</guid>
+            <pubDate>Sun, 04 Sep 2022 04:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-02 17:31:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020040.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타다, '출혈 경쟁' 속 불투명한 차량 1500대 운영 계획]]></title>
             <link>https://www.bloter.net/newsView/blt202209020011</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 02 Sep 2022 06:00:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-02 11:19:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크론, 20조 투자해 메모리 반도체 공장 짓는다…”美 반도체법 덕분”]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020003</link>
-            <guid>https://www.bloter.net/newsView/blt202209020003</guid>
-            <pubDate>Fri, 02 Sep 2022 06:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-02 10:13:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020003.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
