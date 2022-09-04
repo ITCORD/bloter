@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 08:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]신진 브랜드와의 상생…무신사가 보는 '넥스트 패션'은]]></title>
+            <link>https://www.bloter.net/newsView/blt202209040004</link>
+            <guid>https://www.bloter.net/newsView/blt202209040004</guid>
+            <pubDate>Sun, 04 Sep 2022 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA["브랜드를 키울 수 있는 역량 마련이 중요한 신진 브랜드라면, 패션 플랫폼과 상생하거나 이같은 패션 페스티벌 참여도 좋은 방법이 될 수 있다." 박화목 마르디 메크르디 대표가 패션 페스티벌 '넥스트패션 2022' 중 진행된 프로그램 '토크 얼라이브' 강연 이후 &lt;블]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/04/blt202209040009.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스 2022]⑧'오징어게임' 추석 흥행, '수리남'으로?]]></title>
             <link>https://www.bloter.net/newsView/blt202209040002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 31 Aug 2022 07:38:34 GMT</pubDate>
             <content:encoded><![CDATA['대항해시대' 지식재산권(IP)을 기반으로 한 '대항해시대 오리진'이 상승세를 이어가고 있다.  31일 게임업계에 따르면 대항해시대 오리진은 지난 23일 출시 후 iOS에 이어 구글플레이에서도 인기 순위 1위에 올랐다. 현재 대항해시대 오리진은 양대 앱마켓 인기 순위]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310028.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스냅챗' 개발사, 직원 20% 해고…긴축경영 돌입]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310001</link>
-            <guid>https://www.bloter.net/newsView/blt202208310001</guid>
-            <pubDate>Wed, 31 Aug 2022 02:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 네트워크 서비스(SNS) '스냅챗'의 개발사인 '스냅'이 직원 20%를 해고한다.30일(현지시간) IT전문매체 &lt;더버지&gt;에 따르면, 스냅이 전체 직원 6400명 중 약 20% 규모에 해당하는 1000여명을 감원한다.   이번 인력 감축 대상은 △스냅챗 미니 앱·게임 개발 △하]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
