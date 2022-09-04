@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 06:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 07:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스 2022]⑧'오징어게임' 추석 흥행, '수리남'으로?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209040002</link>
+            <guid>https://www.bloter.net/newsView/blt202209040002</guid>
+            <pubDate>Sun, 04 Sep 2022 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 넷플릭스는 추석 시즌을 겨냥한 오리지널시리즈 '오징어게임'으로 글로벌 흥행에 성공했다. 올해도 넷플릭스는 오는 9일 한국 오리지널 시리즈 '수리남'을 통해 국내외 팬들을 공략할 계획이다. 수리남은 남미 국가 수리남을 장악한 마약 대부로 인해 누명을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/04/blt202209040003.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 추천 알고리즘, 美 대선 부정선거론 확산에 일조했다]]></title>
             <link>https://www.bloter.net/newsView/blt202209020025</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 31 Aug 2022 02:07:35 GMT</pubDate>
             <content:encoded><![CDATA[소셜 네트워크 서비스(SNS) '스냅챗'의 개발사인 '스냅'이 직원 20%를 해고한다.30일(현지시간) IT전문매체 &lt;더버지&gt;에 따르면, 스냅이 전체 직원 6400명 중 약 20% 규모에 해당하는 1000여명을 감원한다.   이번 인력 감축 대상은 △스냅챗 미니 앱·게임 개발 △하]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/08/31/blt202208310001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[클래스101, '구독 경제 플랫폼' 전환한 이유 뜯어보니]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300026</link>
-            <guid>https://www.bloter.net/newsView/blt202208300026</guid>
-            <pubDate>Tue, 30 Aug 2022 12:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 구독 서비스를 신규 론칭하며 4년 만에 구독 경제 플랫폼으로의 전환을 선언했다. 업계 최다 클래스 수를 쌓은 데 힘입어 내린 결정이다. 코로나19 대유행 이후 온라인 강의 플랫폼 업계가 급성장한 동시에 경쟁이 치열해진 가운]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/08/30/blt202208300054.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
