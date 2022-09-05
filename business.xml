@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏘카 흑자 이끈 일레클, 전기자전거 '효율성 개선' 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202209050002</link>
+            <guid>https://www.bloter.net/newsView/blt202209050002</guid>
+            <pubDate>Mon, 05 Sep 2022 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-05 09:17:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타·퀄컴, '완전한 메타버스 구현' 위해 손잡는다]]></title>
             <link>https://www.bloter.net/newsView/blt202209050001</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 05 Sep 2022 01:57:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-04 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020038.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용 부회장, 英 출장에 가열되는 'ARM 인수전'...삼성전자 참전할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209040001</link>
-            <guid>https://www.bloter.net/newsView/blt202209040001</guid>
-            <pubDate>Sun, 04 Sep 2022 23:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-04 10:30:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/04/blt202209040001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
