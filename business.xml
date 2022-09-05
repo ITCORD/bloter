@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 21:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 22:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국이 '전기차 생산' 늘리면 디트로이트 지역 일자리가 감소하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202209050003</link>
+            <guid>https://www.bloter.net/newsView/blt202209050003</guid>
+            <pubDate>Mon, 05 Sep 2022 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-05 09:41:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쏘카 흑자 이끈 일레클, 전기자전거 '효율성 개선' 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202209050002</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 05 Sep 2022 01:57:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-04 14:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 추천 알고리즘, 美 대선 부정선거론 확산에 일조했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020025</link>
-            <guid>https://www.bloter.net/newsView/blt202209020025</guid>
-            <pubDate>Mon, 05 Sep 2022 01:57:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-04 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020038.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

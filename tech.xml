@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 21:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 22:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 부회장의 첫 '빅딜'...하만 대신 ARM을 택했다면]]></title>
+            <link>https://www.bloter.net/newsView/blt202209050008</link>
+            <guid>https://www.bloter.net/newsView/blt202209050008</guid>
+            <pubDate>Mon, 05 Sep 2022 22:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-06 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050036.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“지난해 총매출 올 상반기에 달성”…아이앤나 ‘육아 종합 플랫폼’ 전략 통했다]]></title>
             <link>https://www.bloter.net/newsView/blt202209050017</link>
             <guid>https://www.bloter.net/newsView/blt202209050017</guid>
             <pubDate>Mon, 05 Sep 2022 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-05 18:00:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[식약처, 염색약 금지 성분 추가했지만…소비자는 어느 제품인지 알기 어렵다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 04 Sep 2022 04:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-04 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020041.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 추천 알고리즘, 美 대선 부정선거론 확산에 일조했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020025</link>
-            <guid>https://www.bloter.net/newsView/blt202209020025</guid>
-            <pubDate>Sun, 04 Sep 2022 04:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-04 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020038.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
