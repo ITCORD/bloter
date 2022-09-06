@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 13:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 14:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스 "마케터, 이제 SQL 안 배워도 됩니다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209060013</link>
+            <guid>https://www.bloter.net/newsView/blt202209060013</guid>
+            <pubDate>Tue, 06 Sep 2022 14:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-06 22:59:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1000만회분 계약, 첫날 3명 접종…SK바사 韓 첫 코로나19 백신 ‘어쩌나’]]></title>
             <link>https://www.bloter.net/newsView/blt202209060011</link>
             <guid>https://www.bloter.net/newsView/blt202209060011</guid>
             <pubDate>Tue, 06 Sep 2022 10:20:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-06 18:30:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보안社 클라우드 전략]'관제·솔루션·MSP'로 차별화 나선 안랩]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 05 Sep 2022 01:57:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-05 09:41:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘카 흑자 이끈 일레클, 전기자전거 '효율성 개선' 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202209050002</link>
-            <guid>https://www.bloter.net/newsView/blt202209050002</guid>
-            <pubDate>Mon, 05 Sep 2022 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-05 09:17:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

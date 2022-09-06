@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 13:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 14:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[택시 기사 반발에 '기밀' 내놓은 카카오, '배차 알고리즘' 문제 없었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209060004</link>
+            <guid>https://www.bloter.net/newsView/blt202209060004</guid>
+            <pubDate>Tue, 06 Sep 2022 14:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-06 15:17:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 구내식당 직원 노조 결성 확산…3년 새 90% 가입]]></title>
             <link>https://www.bloter.net/newsView/blt202209060003</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 06 Sep 2022 01:58:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-05 18:04:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050024.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사실'에 무게 가는 현대카드·애플페이 제휴…득실 따져보니]]></title>
-            <link>https://www.bloter.net/newsView/blt202209050005</link>
-            <guid>https://www.bloter.net/newsView/blt202209050005</guid>
-            <pubDate>Tue, 06 Sep 2022 01:58:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-05 13:22:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
