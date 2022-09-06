@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 09:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 10:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1000만회분 계약, 첫날 3명 접종…SK바사 韓 첫 코로나19 백신 ‘어쩌나’]]></title>
+            <link>https://www.bloter.net/newsView/blt202209060011</link>
+            <guid>https://www.bloter.net/newsView/blt202209060011</guid>
+            <pubDate>Tue, 06 Sep 2022 10:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-06 18:30:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보안社 클라우드 전략]'관제·솔루션·MSP'로 차별화 나선 안랩]]></title>
             <link>https://www.bloter.net/newsView/blt202209060008</link>
             <guid>https://www.bloter.net/newsView/blt202209060008</guid>
             <pubDate>Tue, 06 Sep 2022 08:22:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-06 17:20:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['슈퍼앱' 띄운 티맥스…웹호스팅 성공방식 웹 3.0에 이식했다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 05 Sep 2022 01:57:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-05 09:17:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타·퀄컴, '완전한 메타버스 구현' 위해 손잡는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209050001</link>
-            <guid>https://www.bloter.net/newsView/blt202209050001</guid>
-            <pubDate>Mon, 05 Sep 2022 01:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-05 08:27:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
