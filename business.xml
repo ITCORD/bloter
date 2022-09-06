@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 02:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[②SK가스, ‘LNG∙수소∙PDH’ 대형 사업 동시 진행…커지는 재무불안]]></title>
+            <link>https://www.bloter.net/newsView/blt202209050016</link>
+            <guid>https://www.bloter.net/newsView/blt202209050016</guid>
+            <pubDate>Tue, 06 Sep 2022 01:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-05 18:04:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사실'에 무게 가는 현대카드·애플페이 제휴…득실 따져보니]]></title>
+            <link>https://www.bloter.net/newsView/blt202209050005</link>
+            <guid>https://www.bloter.net/newsView/blt202209050005</guid>
+            <pubDate>Tue, 06 Sep 2022 01:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-05 13:22:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 해킹 당했다...삼성전자 美 사용자 개인정보 유출]]></title>
+            <link>https://www.bloter.net/newsView/blt202209050004</link>
+            <guid>https://www.bloter.net/newsView/blt202209050004</guid>
+            <pubDate>Tue, 06 Sep 2022 01:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-05 10:22:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미국이 '전기차 생산' 늘리면 디트로이트 지역 일자리가 감소하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202209050003</link>
@@ -30,30 +54,6 @@
             <pubDate>Mon, 05 Sep 2022 06:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-05 08:27:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[권력3부가 손놓는 보험사기…보험사는 어떻게 대응할까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209040003</link>
-            <guid>https://www.bloter.net/newsView/blt202209040003</guid>
-            <pubDate>Mon, 05 Sep 2022 01:57:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-05 07:56:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/04/blt202209040007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘MBK의 메가스터디교육 M&A 실패’서 배우는 투자 교훈]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020029</link>
-            <guid>https://www.bloter.net/newsView/blt202209020029</guid>
-            <pubDate>Mon, 05 Sep 2022 01:57:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-04 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020047.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['처음처럼 새로' 신제품 내놓는 롯데칠성…기획능력 시험대]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020013</link>
-            <guid>https://www.bloter.net/newsView/blt202209020013</guid>
-            <pubDate>Mon, 05 Sep 2022 01:57:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-04 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
