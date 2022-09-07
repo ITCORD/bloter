@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 22:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 23:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 트위터 인수 재판에서 '내부고발' 추가 인용할 수 있다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080004</link>
+            <guid>https://www.bloter.net/newsView/blt202209080004</guid>
+            <pubDate>Wed, 07 Sep 2022 23:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 테슬라 최고경영자(CEO)가 트위터 인수 계약 관련 소송에서 트위터 내부고발자의 주장을 포함시킬 수 있게 됐다.   7일(이하 현지시간) IT전문매체 &lt;테크크런치&gt; 등 외신에 따르면 델라웨어 형평법 법원은 트위터가 보안과 허위 계정 관리를 제대로 하]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080013.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램, '미성년자 개인정보' 관련 5500억원 벌금 부과받아]]></title>
             <link>https://www.bloter.net/newsView/blt202209060002</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Sep 2022 07:19:54 GMT</pubDate>
             <content:encoded><![CDATA[아모레퍼시픽이 '클린 뷰티' 전략으로 북미 시장을 공략한다.1일 아모레퍼시픽은 "종속회사 아모레퍼시픽 US 인베스트먼트가 기타자금 1681억원을 조달하기 위해 주주배정 방식 유상증자를 결정했다"고 공시했다. 신주 발행가는 주당 16만8137원이다.   이날 공시에 따]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[게임인사이드]넷이즈, '데바데 모바일' 韓 등급분류…출시 임박]]></title>
-            <link>https://www.bloter.net/newsView/blt202209010010</link>
-            <guid>https://www.bloter.net/newsView/blt202209010010</guid>
-            <pubDate>Thu, 01 Sep 2022 05:51:24 GMT</pubDate>
-            <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다.넷이즈게임]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/01/blt202209010014.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
