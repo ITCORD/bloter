@@ -4,43 +4,36 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 11:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['얼라이'에 소극적인 현대차...KT에 왜 달랐을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070020</link>
+            <guid>https://www.bloter.net/newsView/blt202209070020</guid>
+            <pubDate>Wed, 07 Sep 2022 11:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 19:39:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070041.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT-현대차그룹 7500억원 규모 자사주 교환...'모빌리티 혈맹' 선언]]></title>
             <link>https://www.bloter.net/newsView/blt202209070018</link>
             <guid>https://www.bloter.net/newsView/blt202209070018</guid>
             <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 18:12:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070035.570x320.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[민영화 20주년 KT, 새얼굴 '디지코'는 어디까지 왔나]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310025</link>
-            <guid>https://www.bloter.net/newsView/blt202208310025</guid>
-            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KT '상반기 최대 매출' 이끈 B2B의 힘…통신 인프라·영업력·DX]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100025</link>
-            <guid>https://www.bloter.net/newsView/blt202208100025</guid>
-            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['현대차 잘 팔리니'...현대모비스, 전기차 부품 매출·R&D '역대급']]></title>
-            <link>https://www.bloter.net/newsView/blt202207220005</link>
-            <guid>https://www.bloter.net/newsView/blt202207220005</guid>
-            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <title><![CDATA[바이든, '100억불 투자자' 현대차에 전기차 보조금 외면했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208230008</link>
+            <guid>https://www.bloter.net/newsView/blt202208230008</guid>
+            <pubDate>Wed, 07 Sep 2022 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대차그룹, 항공 엔진 '톱티어' 롤스로이스와 MOU...수소전지 UAM 공동 개발]]></title>
-            <link>https://www.bloter.net/newsView/blt202207190001</link>
-            <guid>https://www.bloter.net/newsView/blt202207190001</guid>
-            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <title><![CDATA['보호무역' 파고에 현대차 해외공장 건설 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220014</link>
+            <guid>https://www.bloter.net/newsView/blt202208220014</guid>
+            <pubDate>Wed, 07 Sep 2022 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
