@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한화솔루션, GS와 합작사 설립...엑손모빌 제치고 EVA 글로벌 1위 도약]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070012</link>
-            <guid>https://www.bloter.net/newsView/blt202209070012</guid>
-            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 16:56:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070022.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[KT-현대차그룹 7500억원 규모 자사주 교환...'모빌리티 혈맹' 선언]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070018</link>
+            <guid>https://www.bloter.net/newsView/blt202209070018</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 18:12:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070035.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[김동관 한화솔루션 사장, 부회장 승진…승계 구도 명확]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290010</link>
-            <guid>https://www.bloter.net/newsView/blt202208290010</guid>
-            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[민영화 20주년 KT, 새얼굴 '디지코'는 어디까지 왔나]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310025</link>
+            <guid>https://www.bloter.net/newsView/blt202208310025</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한화솔루션 태양광 사업, 아직 멀고 먼 홀로서기]]></title>
-            <link>https://www.bloter.net/newsView/blt202206270010</link>
-            <guid>https://www.bloter.net/newsView/blt202206270010</guid>
-            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KT '상반기 최대 매출' 이끈 B2B의 힘…통신 인프라·영업력·DX]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100025</link>
+            <guid>https://www.bloter.net/newsView/blt202208100025</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[수소 사업 속도 내는 한화솔루션...쉘에 수소탱크 공급]]></title>
-            <link>https://www.bloter.net/newsView/blt202206210003</link>
-            <guid>https://www.bloter.net/newsView/blt202206210003</guid>
-            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['현대차 잘 팔리니'...현대모비스, 전기차 부품 매출·R&D '역대급']]></title>
+            <link>https://www.bloter.net/newsView/blt202207220005</link>
+            <guid>https://www.bloter.net/newsView/blt202207220005</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대차그룹, 항공 엔진 '톱티어' 롤스로이스와 MOU...수소전지 UAM 공동 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202207190001</link>
+            <guid>https://www.bloter.net/newsView/blt202207190001</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

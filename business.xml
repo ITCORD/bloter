@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[70조원 규모 美 ‘반도체법’ 세부사항 공개…"中 투자시 지원금 회수"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070006</link>
+            <guid>https://www.bloter.net/newsView/blt202209070006</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-07 10:30:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070010.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이재용 부회장, 회장 승진·대통령특사보다 '이사회 복귀'가 먼저]]></title>
             <link>https://www.bloter.net/newsView/blt202209070004</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 07 Sep 2022 01:54:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-06 18:28:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060029.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 청주 반도체 공장 증설...불황 때 투자해 '호황기 대비']]></title>
-            <link>https://www.bloter.net/newsView/blt202209060007</link>
-            <guid>https://www.bloter.net/newsView/blt202209060007</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-06 17:08:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
