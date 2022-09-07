@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]'점안제 전문' 삼천당제약, '먹는 코로나 백신'꿈에서 깬 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070010</link>
+            <guid>https://www.bloter.net/newsView/blt202209070010</guid>
+            <pubDate>Wed, 07 Sep 2022 07:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-07 15:28:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070020.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[통신사 SKB는 왜 워크OS '스윗'에 투자했나]]></title>
             <link>https://www.bloter.net/newsView/blt202209070011</link>
             <guid>https://www.bloter.net/newsView/blt202209070011</guid>
             <pubDate>Wed, 07 Sep 2022 04:26:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 13:07:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴먼스케이프, 마미톡으로 베트남 '임신·육아' 시장 노린다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 06 Sep 2022 01:58:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-06 08:57:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["참 잘했어요!" 도장과 실시간 퀴즈, 낙서까지…가상교실 KT '크루디' 체험기]]></title>
-            <link>https://www.bloter.net/newsView/blt202209050018</link>
-            <guid>https://www.bloter.net/newsView/blt202209050018</guid>
-            <pubDate>Mon, 05 Sep 2022 23:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-06 08:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050041.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
