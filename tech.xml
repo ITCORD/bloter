@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 11:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 12:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스핀테크가 'AI 애널리스트' 주역인 이유? '클라우드'가 있으니까!]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070024</link>
+            <guid>https://www.bloter.net/newsView/blt202209070024</guid>
+            <pubDate>Wed, 07 Sep 2022 12:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-07 21:16:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070050.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티맥스 '슈퍼앱'의 킬링 포인트, 탈 OS와 초개인화]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070023</link>
+            <guid>https://www.bloter.net/newsView/blt202209070023</guid>
+            <pubDate>Wed, 07 Sep 2022 12:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-07 20:18:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070047.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT-현대차그룹 7500억원 규모 자사주 교환...'모빌리티 혈맹' 선언]]></title>
             <link>https://www.bloter.net/newsView/blt202209070018</link>
             <guid>https://www.bloter.net/newsView/blt202209070018</guid>
             <pubDate>Wed, 07 Sep 2022 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 18:12:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070035.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070035.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['공장 보안'서 클레로티와 경쟁할 노조미, 'HW·SW 통합'에 방점]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 06 Sep 2022 14:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-06 22:59:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1000만회분 계약, 첫날 3명 접종…SK바사 韓 첫 코로나19 백신 ‘어쩌나’]]></title>
-            <link>https://www.bloter.net/newsView/blt202209060011</link>
-            <guid>https://www.bloter.net/newsView/blt202209060011</guid>
-            <pubDate>Tue, 06 Sep 2022 10:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-06 18:30:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보안社 클라우드 전략]'관제·솔루션·MSP'로 차별화 나선 안랩]]></title>
-            <link>https://www.bloter.net/newsView/blt202209060008</link>
-            <guid>https://www.bloter.net/newsView/blt202209060008</guid>
-            <pubDate>Tue, 06 Sep 2022 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-06 17:20:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
