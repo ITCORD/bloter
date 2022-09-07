@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 07:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 08:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['모빌리티 상생' 택한 카카오, 종사자 위해 100억원 기금 조성]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070007</link>
-            <guid>https://www.bloter.net/newsView/blt202209070007</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-07 10:30:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070011.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한화솔루션, GS와 합작사 설립...엑손모빌 제치고 EVA 글로벌 1위 도약]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070012</link>
+            <guid>https://www.bloter.net/newsView/blt202209070012</guid>
+            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 16:56:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070022.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[영국 '스플리트' 투자 결정한 카카오모빌리티, 해외 진출 속도낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208310007</link>
-            <guid>https://www.bloter.net/newsView/blt202208310007</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[김동관 한화솔루션 사장, 부회장 승진…승계 구도 명확]]></title>
+            <link>https://www.bloter.net/newsView/blt202208290010</link>
+            <guid>https://www.bloter.net/newsView/blt202208290010</guid>
+            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['상생' 외친 카카오모빌리티, 신사업 자금 확보 방안은]]></title>
-            <link>https://www.bloter.net/newsView/blt202208190002</link>
-            <guid>https://www.bloter.net/newsView/blt202208190002</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한화솔루션 태양광 사업, 아직 멀고 먼 홀로서기]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270010</link>
+            <guid>https://www.bloter.net/newsView/blt202206270010</guid>
+            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카카오, 모빌리티 매각 중단…'계열사 정리' 미칠 영향은]]></title>
-            <link>https://www.bloter.net/newsView/blt202208180007</link>
-            <guid>https://www.bloter.net/newsView/blt202208180007</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 본사에 '협의체 구성' 요청...매각 재검토되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202207250021</link>
-            <guid>https://www.bloter.net/newsView/blt202207250021</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[수소 사업 속도 내는 한화솔루션...쉘에 수소탱크 공급]]></title>
+            <link>https://www.bloter.net/newsView/blt202206210003</link>
+            <guid>https://www.bloter.net/newsView/blt202206210003</guid>
+            <pubDate>Wed, 07 Sep 2022 08:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
