@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 20:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 21:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화솔루션, GS와 합작사 설립...엑손모빌 제치고 EVA 글로벌 1위 도약]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070012</link>
+            <guid>https://www.bloter.net/newsView/blt202209070012</guid>
+            <pubDate>Wed, 07 Sep 2022 21:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 16:56:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070022.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 2나노 개발에 49조 투입...삼성전자와 개발 경쟁 '선전포고']]></title>
             <link>https://www.bloter.net/newsView/blt202209070014</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 07 Sep 2022 08:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-07 08:56:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["애플, ‘앱추적금지’ 정책 시행 후 광고 점유율 늘어"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070002</link>
-            <guid>https://www.bloter.net/newsView/blt202209070002</guid>
-            <pubDate>Wed, 07 Sep 2022 01:54:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-07 08:22:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

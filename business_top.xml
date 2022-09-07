@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 20:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 21:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[④SK바사 ‘손자회사’ 딜레마, SK하이닉스와 닮은 꼴...자회사로 올릴까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070022</link>
+            <guid>https://www.bloter.net/newsView/blt202209070022</guid>
+            <pubDate>Wed, 07 Sep 2022 21:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-08 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070038.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티맥스핀테크가 'AI 애널리스트' 주역인 이유? '클라우드'가 있으니까!]]></title>
             <link>https://www.bloter.net/newsView/blt202209070024</link>
             <guid>https://www.bloter.net/newsView/blt202209070024</guid>
             <pubDate>Wed, 07 Sep 2022 12:36:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-07 21:16:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070050.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티맥스 '슈퍼앱'의 킬링 포인트, 탈 OS와 초개인화]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070023</link>
-            <guid>https://www.bloter.net/newsView/blt202209070023</guid>
-            <pubDate>Wed, 07 Sep 2022 12:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['얼라이'에 소극적인 현대차...KT에 왜 달랐을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070020</link>
+            <guid>https://www.bloter.net/newsView/blt202209070020</guid>
+            <pubDate>Wed, 07 Sep 2022 21:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 19:39:44</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['1세대 창업가' 박대연 티맥스 회장, '슈퍼앱'으로 웹·모바일 이후를 외치다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070001</link>
-            <guid>https://www.bloter.net/newsView/blt202209070001</guid>
-            <pubDate>Wed, 07 Sep 2022 12:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[KT-현대차그룹 7500억원 규모 자사주 교환...'모빌리티 혈맹' 선언]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070018</link>
+            <guid>https://www.bloter.net/newsView/blt202209070018</guid>
+            <pubDate>Wed, 07 Sep 2022 21:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 18:12:15</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[티맥스 "마케터, 이제 SQL 안 배워도 됩니다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209060013</link>
-            <guid>https://www.bloter.net/newsView/blt202209060013</guid>
-            <pubDate>Wed, 07 Sep 2022 12:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼앱' 띄운 티맥스…웹호스팅 성공방식 웹 3.0에 이식했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209060006</link>
-            <guid>https://www.bloter.net/newsView/blt202209060006</guid>
-            <pubDate>Wed, 07 Sep 2022 12:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한화솔루션, GS와 합작사 설립...엑손모빌 제치고 EVA 글로벌 1위 도약]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070012</link>
+            <guid>https://www.bloter.net/newsView/blt202209070012</guid>
+            <pubDate>Wed, 07 Sep 2022 21:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 16:56:56</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
