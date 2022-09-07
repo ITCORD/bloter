@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 21:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 22:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['M자' 벗고 위성통신 탑재, 新 프로까지 확 달라진 아이폰14]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080001</link>
+            <guid>https://www.bloter.net/newsView/blt202209080001</guid>
+            <pubDate>Wed, 07 Sep 2022 22:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-08 06:57:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티맥스핀테크가 'AI 애널리스트' 주역인 이유? '클라우드'가 있으니까!]]></title>
             <link>https://www.bloter.net/newsView/blt202209070024</link>
             <guid>https://www.bloter.net/newsView/blt202209070024</guid>
             <pubDate>Wed, 07 Sep 2022 12:38:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-07 21:16:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070050.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070050.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티맥스 '슈퍼앱'의 킬링 포인트, 탈 OS와 초개인화]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 06 Sep 2022 22:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/05/blt202209050020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티맥스 "마케터, 이제 SQL 안 배워도 됩니다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209060013</link>
-            <guid>https://www.bloter.net/newsView/blt202209060013</guid>
-            <pubDate>Tue, 06 Sep 2022 14:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-06 22:59:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
