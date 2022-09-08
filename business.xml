@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 23:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 01:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맥스핀테크가 'AI 애널리스트' 주역인 이유? '클라우드'가 있으니까!]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070024</link>
+            <guid>https://www.bloter.net/newsView/blt202209070024</guid>
+            <pubDate>Thu, 08 Sep 2022 01:51:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-07 21:16:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070050.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['얼라이'에 소극적인 현대차...KT에 왜 달랐을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070020</link>
+            <guid>https://www.bloter.net/newsView/blt202209070020</guid>
+            <pubDate>Thu, 08 Sep 2022 01:51:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 19:39:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070041.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT-현대차그룹 7500억원 규모 자사주 교환...'모빌리티 혈맹' 선언]]></title>
             <link>https://www.bloter.net/newsView/blt202209070018</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 07 Sep 2022 11:17:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-07 10:30:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[70조원 규모 美 ‘반도체법’ 세부사항 공개…"中 투자시 지원금 회수"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070006</link>
-            <guid>https://www.bloter.net/newsView/blt202209070006</guid>
-            <pubDate>Wed, 07 Sep 2022 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-07 10:30:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070010.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용 부회장, 회장 승진·대통령특사보다 '이사회 복귀'가 먼저]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070004</link>
-            <guid>https://www.bloter.net/newsView/blt202209070004</guid>
-            <pubDate>Wed, 07 Sep 2022 08:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-07 10:00:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
