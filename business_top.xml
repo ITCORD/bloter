@@ -4,23 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[포스코, '힌남노'가 세운 고로...10일 순차 가동]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080013</link>
-            <guid>https://www.bloter.net/newsView/blt202209080013</guid>
-            <pubDate>Thu, 08 Sep 2022 04:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-08 11:17:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080031.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 대통령이 역점 둔 '금리공시'…이복현 금감원장 "문제 있다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080016</link>
+            <guid>https://www.bloter.net/newsView/blt202209080016</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-08 14:44:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080039.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코그룹, '환율·금리·물가' 3고에 비상경영 돌입..."현금 중심 경영해야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207240001</link>
-            <guid>https://www.bloter.net/newsView/blt202207240001</guid>
-            <pubDate>Thu, 08 Sep 2022 04:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[케이뱅크 대출금리는 카뱅·토뱅과 다르게 간다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208250015</link>
+            <guid>https://www.bloter.net/newsView/blt202208250015</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[저축은행 예금금리 치솟자…토스뱅크, 한투증권 상품으로 받아치기]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170005</link>
+            <guid>https://www.bloter.net/newsView/blt202208170005</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[금리 인상기에 아담대·전세대출 금리 낮춘 케이뱅크, 왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202208040009</link>
+            <guid>https://www.bloter.net/newsView/blt202208040009</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JB금융, '금리 오기'로 회사채 재발행한 사연...(feat. BIS는 좋네)]]></title>
+            <link>https://www.bloter.net/newsView/blt202207280027</link>
+            <guid>https://www.bloter.net/newsView/blt202207280027</guid>
+            <pubDate>Thu, 08 Sep 2022 06:00:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

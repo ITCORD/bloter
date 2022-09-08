@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버웹툰, 일본 '앱-웹 플랫폼' 월 거래액 100억엔 달성의 의미는]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080014</link>
+            <guid>https://www.bloter.net/newsView/blt202209080014</guid>
+            <pubDate>Thu, 08 Sep 2022 06:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰의 일본 플랫폼 '라인망가'와 '이북재팬'의 8월 합산 거래액이 역대 최고치인 100억엔(약 970억원)을 기록했다. 월 거래액 기준 역대 최대 기록이다. 2013년 세로형 웹툰이 낯설었던 일본 시장을 공략하기 위해 '애플리케이션(앱)' 플랫폼을 활용했다면, 이제]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080033.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소니, 블리자드 인수 후 ‘콜 오브 듀티’ 제공한다는 MS에 불만 표출]]></title>
             <link>https://www.bloter.net/newsView/blt202209080011</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 02 Sep 2022 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[마켓리뷰는 기업의 분기별 사업활동을 살펴보고 시장 상황을 통해 실적을 분석하는 코너입니다. 사업 성과와 신사업 계획을 더해 기업 성장 가능성을 짚어봅니다. - 1월 11일: 캐릭터 브랜드 '웹젠 프렌즈' 무신사 스토어 정식 입점- 2월 23일: 모바일 MMORPG '뮤오리진3',]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020026.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 유료 구독 서비스 ‘블루’에 ‘편집 기능’ 추가 임박]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020002</link>
-            <guid>https://www.bloter.net/newsView/blt202209020002</guid>
-            <pubDate>Fri, 02 Sep 2022 01:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 트위터가 트윗 텍스트를 수정할 수 있는 편집 기능을 조만간 출시한다.1일(현지시간) 트위터는 트윗 편집 기능을 현재 내부 테스트 중이며 향후 몇 주 안에 유료 구독 서비스인 ‘트위터 블루’ 이용자에게 선보일 계획이라고 밝혔다. 트위터는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
