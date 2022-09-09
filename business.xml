@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 02:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 04:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지누스 활용 나선 현대百...시너지 창출로 수익성 개선할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080015</link>
+            <guid>https://www.bloter.net/newsView/blt202209080015</guid>
+            <pubDate>Fri, 09 Sep 2022 04:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-08 13:34:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코, '힌남노'가 세운 고로...10일 순차 가동]]></title>
             <link>https://www.bloter.net/newsView/blt202209080013</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 08 Sep 2022 04:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-08 08:17:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080013.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[④SK바사 ‘손자회사’ 딜레마, SK하이닉스와 닮은 꼴...자회사로 올릴까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070022</link>
-            <guid>https://www.bloter.net/newsView/blt202209070022</guid>
-            <pubDate>Thu, 08 Sep 2022 04:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-08 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070038.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
