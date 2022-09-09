@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 04:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 05:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비용 절감 나선 메타, ‘책임 혁신 팀’ 해체]]></title>
+            <link>https://www.bloter.net/newsView/blt202209090006</link>
+            <guid>https://www.bloter.net/newsView/blt202209090006</guid>
+            <pubDate>Fri, 09 Sep 2022 05:56:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-09 14:35:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090010.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리비안·벤츠, 전기 밴 공동 생산 위해 합작법인 설립]]></title>
             <link>https://www.bloter.net/newsView/blt202209090005</link>
             <guid>https://www.bloter.net/newsView/blt202209090005</guid>
             <pubDate>Fri, 09 Sep 2022 04:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-09 11:57:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090009.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090009.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NASA, 유인 달 탐사 ‘아르테미스 1호’ 이르면 23일 발사]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 07 Sep 2022 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-07 18:12:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070035.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['공장 보안'서 클레로티와 경쟁할 노조미, 'HW·SW 통합'에 방점]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070019</link>
-            <guid>https://www.bloter.net/newsView/blt202209070019</guid>
-            <pubDate>Wed, 07 Sep 2022 09:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-07 17:47:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
