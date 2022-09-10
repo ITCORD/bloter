@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 21:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 22:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리비안·벤츠, 전기 밴 공동 생산 위해 합작법인 설립]]></title>
+            <link>https://www.bloter.net/newsView/blt202209090005</link>
+            <guid>https://www.bloter.net/newsView/blt202209090005</guid>
+            <pubDate>Sat, 10 Sep 2022 22:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-09 11:57:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090009.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NASA, 유인 달 탐사 ‘아르테미스 1호’ 이르면 23일 발사]]></title>
             <link>https://www.bloter.net/newsView/blt202209090004</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 09 Sep 2022 01:58:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-08 11:17:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DB하이텍, 전기차·데이터센터향 반도체 기술 개발]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080012</link>
-            <guid>https://www.bloter.net/newsView/blt202209080012</guid>
-            <pubDate>Thu, 08 Sep 2022 06:54:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-08 10:57:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080030.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
