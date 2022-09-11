@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 23:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 01:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포켓몬고'의 국내 첫 사파리존, 포켓몬빵으로 본 흥행 방정식]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080029</link>
+            <guid>https://www.bloter.net/newsView/blt202209080029</guid>
+            <pubDate>Sun, 11 Sep 2022 01:50:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-11 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080073.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플이 ‘파란 말풍선’을 고집하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202209090009</link>
             <guid>https://www.bloter.net/newsView/blt202209090009</guid>
             <pubDate>Sat, 10 Sep 2022 22:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-11 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090014.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090014.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘환경파괴’ 비판받는 가상자산, 미국서 채굴에 소모되는 전력량은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 08 Sep 2022 01:51:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-08 09:24:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아기상어와 라인프렌즈가 만났다… 핑크퐁·IPX, 콘텐츠·굿즈 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080006</link>
-            <guid>https://www.bloter.net/newsView/blt202209080006</guid>
-            <pubDate>Thu, 08 Sep 2022 01:51:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-08 09:22:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
