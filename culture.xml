@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 04:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 06:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라그나로크'와 '메이플스토리', 웹3.0에서도 '이게 되네']]></title>
+            <link>https://www.bloter.net/newsView/blt202209080026</link>
+            <guid>https://www.bloter.net/newsView/blt202209080026</guid>
+            <pubDate>Mon, 12 Sep 2022 06:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[그라비티 '라그나로크'와 넥슨 '메이플스토리'가 다른 듯 같은 행보를 보이고 있다. 귀여운 2D 그래픽에 횡스크롤 게임 방식으로 오랜 기간 서비스해 온 두 게임이 나란히 웹3.0으로도 진출한 것이다. 서비스 기간 흥망성쇠를 겪은 두 게임이 이용자가 데이터 주권을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080063.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아트씬 입장' 위메이드, 나일은 여전히 '미지수']]></title>
             <link>https://www.bloter.net/newsView/blt202209080024</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 04 Sep 2022 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[지난해 넷플릭스는 추석 시즌을 겨냥한 오리지널시리즈 '오징어게임'으로 글로벌 흥행에 성공했다. 올해도 넷플릭스는 오는 9일 한국 오리지널 시리즈 '수리남'을 통해 국내외 팬들을 공략할 계획이다. 수리남은 남미 국가 수리남을 장악한 마약 대부로 인해 누명을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/04/blt202209040003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 추천 알고리즘, 美 대선 부정선거론 확산에 일조했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020025</link>
-            <guid>https://www.bloter.net/newsView/blt202209020025</guid>
-            <pubDate>Sun, 04 Sep 2022 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 중간선거가 두 달 남은 가운데 주요 소셜미디어(SNS) 기업들이 허위 정보 단속에 나서고 있다. 메타는 선거일을 앞두고 한 주 동안 선거, 미국 정치 등에 대한 광고를 제한한다고 밝혔다. 틱톡은 유료 정치 광고를 금지하고 선거와 관련된 콘텐츠에는 별도의 표]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/02/blt202209020038.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
