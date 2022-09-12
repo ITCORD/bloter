@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 07:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 08:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뇌질환·암환자 필수품 '피딩라인', 왜 유료화됐나]]></title>
+            <link>https://www.bloter.net/newsView/blt202209070017</link>
+            <guid>https://www.bloter.net/newsView/blt202209070017</guid>
+            <pubDate>Mon, 12 Sep 2022 08:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-12 17:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080032.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[韓 외국계 IT]'온라인 서점'서 출발한 아마존은 어떻게 클라우드 1위 'AWS'를 탄생시켰나]]></title>
             <link>https://www.bloter.net/newsView/blt202209080027</link>
             <guid>https://www.bloter.net/newsView/blt202209080027</guid>
             <pubDate>Mon, 12 Sep 2022 07:40:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-12 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080069.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080069.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[이젠, 우주]스페이스X 꿈꾸는 韓 ‘괴짜들’…페리지에어로 상장 추진의 의미]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 09 Sep 2022 05:56:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-09 14:35:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090010.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리비안·벤츠, 전기 밴 공동 생산 위해 합작법인 설립]]></title>
-            <link>https://www.bloter.net/newsView/blt202209090005</link>
-            <guid>https://www.bloter.net/newsView/blt202209090005</guid>
-            <pubDate>Fri, 09 Sep 2022 04:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-09 11:57:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090009.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
