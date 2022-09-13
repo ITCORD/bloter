@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버, '스타트업 불황' 우려에도 투자 확대..."오히려 기회"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130011</link>
+            <guid>https://www.bloter.net/newsView/blt202209130011</guid>
+            <pubDate>Tue, 13 Sep 2022 07:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-13 16:24:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130016.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['국산 양자내성암호' 국제망까지 닿았다…SKT·SKB 합작품]]></title>
             <link>https://www.bloter.net/newsView/blt202209130004</link>
             <guid>https://www.bloter.net/newsView/blt202209130004</guid>
             <pubDate>Tue, 13 Sep 2022 01:58:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-13 10:57:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인스타 릴스 이용시간, 틱톡의 '11분의 1'...크리에이터 지원금 '남아돌아']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 10 Sep 2022 22:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-11 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘환경파괴’ 비판받는 가상자산, 미국서 채굴에 소모되는 전력량은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209090008</link>
-            <guid>https://www.bloter.net/newsView/blt202209090008</guid>
-            <pubDate>Sat, 10 Sep 2022 08:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-10 16:46:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
