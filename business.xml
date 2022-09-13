@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 04:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라, ‘태양광 지붕’ 판매 방침 변경…’가정용 패널’도 구매해야]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130001</link>
+            <guid>https://www.bloter.net/newsView/blt202209130001</guid>
+            <pubDate>Tue, 13 Sep 2022 06:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-13 09:00:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[임영진 신한카드 사장, '현대카드·애플페이 연합' 전략적 활용할까?]]></title>
             <link>https://www.bloter.net/newsView/blt202209120001</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 12 Sep 2022 21:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-11 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090014.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘환경파괴’ 비판받는 가상자산, 미국서 채굴에 소모되는 전력량은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209090008</link>
-            <guid>https://www.bloter.net/newsView/blt202209090008</guid>
-            <pubDate>Mon, 12 Sep 2022 02:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-10 16:46:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
