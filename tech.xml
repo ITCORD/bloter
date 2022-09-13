@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 07:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 08:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스원·SK쉴더스, 물리보안 시장 '9조원 시대' 이끌었지만…한 자릿수 이익률 어쩌나]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130010</link>
+            <guid>https://www.bloter.net/newsView/blt202209130010</guid>
+            <pubDate>Tue, 13 Sep 2022 08:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-13 17:05:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130014.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[네이버, '스타트업 불황' 우려에도 투자 확대..."오히려 기회"]]></title>
             <link>https://www.bloter.net/newsView/blt202209130011</link>
             <guid>https://www.bloter.net/newsView/blt202209130011</guid>
             <pubDate>Tue, 13 Sep 2022 07:36:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-13 16:24:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130016.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130016.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['국산 양자내성암호' 국제망까지 닿았다…SKT·SKB 합작품]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 11 Sep 2022 01:50:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-11 09:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080073.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플이 ‘파란 말풍선’을 고집하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202209090009</link>
-            <guid>https://www.bloter.net/newsView/blt202209090009</guid>
-            <pubDate>Sat, 10 Sep 2022 22:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-11 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/09/blt202209090014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
