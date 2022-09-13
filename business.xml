@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9년만 가격 올리는 오리온…’넘사벽’ 수익성 지킨다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130007</link>
+            <guid>https://www.bloter.net/newsView/blt202209130007</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-13 11:21:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타 릴스 이용시간, 틱톡의 '11분의 1'...크리에이터 지원금 '남아돌아']]></title>
+            <link>https://www.bloter.net/newsView/blt202209130003</link>
+            <guid>https://www.bloter.net/newsView/blt202209130003</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-13 10:24:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 픽셀북 개발 중단…크롬북 사업 철수 가닥]]></title>
             <link>https://www.bloter.net/newsView/blt202209130002</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 13 Sep 2022 01:58:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span><span class="writer">구태우</span>                        <span class="date">2022-09-12 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/12/blt202209120001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제네시스, G90에 레벨3 자율주행 탑재...현대차, 기술 성숙도 '판가름']]></title>
-            <link>https://www.bloter.net/newsView/blt202209110002</link>
-            <guid>https://www.bloter.net/newsView/blt202209110002</guid>
-            <pubDate>Tue, 13 Sep 2022 01:58:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-11 22:29:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/11/blt202209110002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소재사업은 내가 직접'…SK, 음극재 사업 투자 잰걸음]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080019</link>
-            <guid>https://www.bloter.net/newsView/blt202209080019</guid>
-            <pubDate>Tue, 13 Sep 2022 01:58:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-11 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080051.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

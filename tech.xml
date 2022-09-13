@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿을 건 가격뿐인데...알뜰폰 경쟁, 벌써 벼랑 끝?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130015</link>
+            <guid>https://www.bloter.net/newsView/blt202209130015</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-13 18:42:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['극한의 원가절감' 나선 삼성디스플레이...QD-OLED 40% 절감 목표]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130012</link>
+            <guid>https://www.bloter.net/newsView/blt202209130012</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-13 18:31:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130034.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘신호등 옆 필수품’ 배출한 학생발명대회, 1만3880명 제친 올해 작품은?]]></title>
             <link>https://www.bloter.net/newsView/blt202209130017</link>
             <guid>https://www.bloter.net/newsView/blt202209130017</guid>
             <pubDate>Tue, 13 Sep 2022 09:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-13 18:18:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스원·SK쉴더스, 물리보안 시장 '9조원 시대' 이끌었지만…한 자릿수 이익률 어쩌나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 12 Sep 2022 02:02:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-12 09:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080056.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 돋보기]투자 시장 불황에도 '130억원' 조달한 뷰티셀렉션]]></title>
-            <link>https://www.bloter.net/newsView/blt202209070008</link>
-            <guid>https://www.bloter.net/newsView/blt202209070008</guid>
-            <pubDate>Sun, 11 Sep 2022 04:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-11 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/07/blt202209070034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]'CB 발행' 디엑스앤브이엑스, '자금 조달·신뢰회복' 일거양득]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080018</link>
-            <guid>https://www.bloter.net/newsView/blt202209080018</guid>
-            <pubDate>Sun, 11 Sep 2022 04:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-11 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080050.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

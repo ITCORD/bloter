@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[쿠팡 “쿠팡이츠 지속투자”…신사업 실적 들여다보니]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130009</link>
-            <guid>https://www.bloter.net/newsView/blt202209130009</guid>
-            <pubDate>Tue, 13 Sep 2022 07:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-13 16:25:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130010.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['극한의 원가절감' 나선 삼성디스플레이...QD-OLED 40% 절감 목표]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130012</link>
+            <guid>https://www.bloter.net/newsView/blt202209130012</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-13 18:31:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130034.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠팡플레이, '안나 감독판' 공개 임박…"5~8화 심의만 남아"]]></title>
-            <link>https://www.bloter.net/newsView/blt202208080017</link>
-            <guid>https://www.bloter.net/newsView/blt202208080017</guid>
-            <pubDate>Tue, 13 Sep 2022 07:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['저성장 늪' 삼성디스플레이...최권영 "메타버스용 마이크로 디스플레이로 돌파"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207280016</link>
+            <guid>https://www.bloter.net/newsView/blt202207280016</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이마트 '최저가' 선언...'레거시 유통기업' 체력으로 쿠팡 꺾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202207040007</link>
-            <guid>https://www.bloter.net/newsView/blt202207040007</guid>
-            <pubDate>Tue, 13 Sep 2022 07:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 '달라진 빚의 무게'...'묻지마 성장' 이제는 어렵다]]></title>
-            <link>https://www.bloter.net/newsView/blt202206160010</link>
-            <guid>https://www.bloter.net/newsView/blt202206160010</guid>
-            <pubDate>Tue, 13 Sep 2022 07:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 이커머스 사업, 에비타 기준 첫 흑자]]></title>
-            <link>https://www.bloter.net/newsView/blt202205120049</link>
-            <guid>https://www.bloter.net/newsView/blt202205120049</guid>
-            <pubDate>Tue, 13 Sep 2022 07:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202201270081</link>
+            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
+            <pubDate>Tue, 13 Sep 2022 10:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
