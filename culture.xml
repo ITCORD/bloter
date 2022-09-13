@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 20:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 21:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크체인저]모바일 커머스 '출사표' 머스트잇, 명품 플랫폼 시장 변화 이끌까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130019</link>
+            <guid>https://www.bloter.net/newsView/blt202209130019</guid>
+            <pubDate>Tue, 13 Sep 2022 21:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 25일 찾은 서울 강남구 명품 플랫폼 '머스트잇' 사옥 1층에 위치한 쇼룸은 방송 장비들과 사람들로 북적였다. 이날 저녁 7시 진행되는 '머스트잇 X CJ온스타일 라이브 커머스' 첫 방송을 앞두고 있었기 때문이다. 머스트잇은 지난 6월 CJ온스타일에 200억원 규모]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130037.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타 릴스 이용시간, 틱톡의 '11분의 1'...크리에이터 지원금 '남아돌아']]></title>
             <link>https://www.bloter.net/newsView/blt202209130003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 06 Sep 2022 01:59:34 GMT</pubDate>
             <content:encoded><![CDATA[인스타그램이 아일랜드 데이터보호위원회(DPC)로부터 5000억원이 넘는 벌금을 부과받았다. 아동·청소년의 개인정보를 제대로 관리하지 못했다는 이유에서다. 이번 과징금 규모는 메타가 DPC로부터 부과받은 벌금 중 최대 규모다. 5일(현지시간) IT전문매체 &lt;엔]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, '해킹 의혹' 부인…'보안 취약점' 불안감 커져]]></title>
-            <link>https://www.bloter.net/newsView/blt202209060001</link>
-            <guid>https://www.bloter.net/newsView/blt202209060001</guid>
-            <pubDate>Tue, 06 Sep 2022 01:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 동영상 공유 플랫폼 틱톡이 해킹으로 최대 수십억 명의 개인정보가 유출됐다는 의혹을 전면 부인했다. 하지만 틱톡의 보안 시스템이 취약하다는 지적이 이어지고 있어 이용자들의 불안은 커지고 있다. 틱톡은 지난 5일(현지시간) 트위터를 통해 "우리 보안팀이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/06/blt202209060003.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
