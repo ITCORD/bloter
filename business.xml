@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍라희 전 리움미술관장, 하와이에 295억 호화저택 구입…삼성전자 주식매각 직후]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140012</link>
+            <guid>https://www.bloter.net/newsView/blt202209140012</guid>
+            <pubDate>Wed, 14 Sep 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-14 15:35:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK그룹, "BBC 산업 중심은 국내"...5년간 비수도권에 67조 투자]]></title>
             <link>https://www.bloter.net/newsView/blt202209140010</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 14 Sep 2022 06:06:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 08:43:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극한의 원가절감' 나선 삼성디스플레이...QD-OLED 40% 절감 목표]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130012</link>
-            <guid>https://www.bloter.net/newsView/blt202209130012</guid>
-            <pubDate>Wed, 14 Sep 2022 01:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-13 18:31:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130034.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
