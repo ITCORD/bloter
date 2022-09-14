@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 21:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 22:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[갈림길에 선 DB그룹]김남호 회장, '신경영' 필요한 DB하이텍을 바꿔낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130013</link>
+            <guid>https://www.bloter.net/newsView/blt202209130013</guid>
+            <pubDate>Wed, 14 Sep 2022 22:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-15 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130019.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[테크체인저]분산된 고객 데이터 한 눈에…빅인사이트의 '커머스 데이터 기업' 출사표]]></title>
             <link>https://www.bloter.net/newsView/blt202209010017</link>
             <guid>https://www.bloter.net/newsView/blt202209010017</guid>
             <pubDate>Wed, 14 Sep 2022 21:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-15 06:00:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130040.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130040.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“제품 정보 알고 맞아야…내성 위험 낮은 ‘순수 톡신’ 권장”]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 13 Sep 2022 21:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-14 06:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿을 건 가격뿐인데...알뜰폰 경쟁, 벌써 벼랑 끝?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130015</link>
-            <guid>https://www.bloter.net/newsView/blt202209130015</guid>
-            <pubDate>Tue, 13 Sep 2022 10:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-13 18:42:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

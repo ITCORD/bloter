@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 21:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 22:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외부링크 타고 앱 유입' 중 20%는 직접 검색해 들어왔다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140011</link>
+            <guid>https://www.bloter.net/newsView/blt202209140011</guid>
+            <pubDate>Wed, 14 Sep 2022 22:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-14 17:18:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140019.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[동반위, '콜 공유' 허용 여부 한달 연기...티맵-대리업계 갈등 지속]]></title>
             <link>https://www.bloter.net/newsView/blt202209140015</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 14 Sep 2022 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 10:21:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['겹치면 안 돼'...SSG닷컴, 오픈마켓 사업 접는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140003</link>
-            <guid>https://www.bloter.net/newsView/blt202209140003</guid>
-            <pubDate>Wed, 14 Sep 2022 07:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-14 10:18:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140031.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
