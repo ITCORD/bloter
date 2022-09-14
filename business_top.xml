@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 23:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 01:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['극한의 원가절감' 나선 삼성디스플레이...QD-OLED 40% 절감 목표]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130012</link>
-            <guid>https://www.bloter.net/newsView/blt202209130012</guid>
-            <pubDate>Tue, 13 Sep 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-13 18:31:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130034.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[허리띠 졸라매는 美 IT기업, 창작자 후원 플랫폼 ‘패트리온’도 인력감축]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140004</link>
+            <guid>https://www.bloter.net/newsView/blt202209140004</guid>
+            <pubDate>Wed, 14 Sep 2022 01:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 10:21:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140005.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['저성장 늪' 삼성디스플레이...최권영 "메타버스용 마이크로 디스플레이로 돌파"]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280016</link>
-            <guid>https://www.bloter.net/newsView/blt202207280016</guid>
-            <pubDate>Tue, 13 Sep 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플, 채용 담당 인력 감축…고비마다 '계약직' 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170002</link>
+            <guid>https://www.bloter.net/newsView/blt202208170002</guid>
+            <pubDate>Wed, 14 Sep 2022 01:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성디스플레이, 대형 사업부 적자 ‘QD'로 풀어낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202201270081</link>
-            <guid>https://www.bloter.net/newsView/blt202201270081</guid>
-            <pubDate>Tue, 13 Sep 2022 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[미 온라인 증권사 로빈후드, 인력 23% 감축한다…올해 들어 두 번째]]></title>
+            <link>https://www.bloter.net/newsView/blt202208030003</link>
+            <guid>https://www.bloter.net/newsView/blt202208030003</guid>
+            <pubDate>Wed, 14 Sep 2022 01:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글, '인력 감축' 대신 '업무 효율성 제고 프로그램' 가동]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010002</link>
+            <guid>https://www.bloter.net/newsView/blt202208010002</guid>
+            <pubDate>Wed, 14 Sep 2022 01:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['포켓몬GO' 개발사, 대규모 인력 감축 단행…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202206300004</link>
+            <guid>https://www.bloter.net/newsView/blt202206300004</guid>
+            <pubDate>Wed, 14 Sep 2022 01:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
