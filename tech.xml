@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 홍라희 전 리움미술관장, 하와이에 295억 호화저택 구입…삼성전자 주식매각 직후]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140012</link>
+            <guid>https://www.bloter.net/newsView/blt202209140012</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-14 15:35:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이든의 '바이오 미국 우선주의'…대웅 나보타 수출 타격 받나]]></title>
             <link>https://www.bloter.net/newsView/blt202209140007</link>
             <guid>https://www.bloter.net/newsView/blt202209140007</guid>
             <pubDate>Wed, 14 Sep 2022 06:06:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-14 14:19:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SKT 에어택시 연합, 2025년 제주도 상용화 추진]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 13 Sep 2022 01:58:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-13 09:41:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, ‘태양광 지붕’ 판매 방침 변경…’가정용 패널’도 구매해야]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130001</link>
-            <guid>https://www.bloter.net/newsView/blt202209130001</guid>
-            <pubDate>Tue, 13 Sep 2022 01:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-13 09:00:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

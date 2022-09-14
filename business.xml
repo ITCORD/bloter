@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['겹치면 안 돼'...SSG닷컴, 오픈마켓 사업 접는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140003</link>
+            <guid>https://www.bloter.net/newsView/blt202209140003</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-14 10:18:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, “中 정보요원 최소 1명 있다” 경고에도 대책 없이 방치했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140002</link>
+            <guid>https://www.bloter.net/newsView/blt202209140002</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 09:44:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플 인앱결제액, 미국서 1년 사이 40% 상승]]></title>
             <link>https://www.bloter.net/newsView/blt202209140001</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 14 Sep 2022 01:50:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-13 16:25:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양광 더 키우는 한화솔루션...美 법인 지배구조 '뜯어 고쳤다']]></title>
-            <link>https://www.bloter.net/newsView/blt202209130006</link>
-            <guid>https://www.bloter.net/newsView/blt202209130006</guid>
-            <pubDate>Wed, 14 Sep 2022 01:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-13 13:55:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9년만 가격 올리는 오리온…’넘사벽’ 수익성 지킨다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130007</link>
-            <guid>https://www.bloter.net/newsView/blt202209130007</guid>
-            <pubDate>Tue, 13 Sep 2022 10:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-13 11:21:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
