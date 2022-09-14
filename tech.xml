@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 07:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 08:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외부링크 타고 앱 유입' 중 20%는 직접 검색해 들어왔다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140011</link>
+            <guid>https://www.bloter.net/newsView/blt202209140011</guid>
+            <pubDate>Wed, 14 Sep 2022 08:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-14 17:18:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140019.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[동반위, '콜 공유' 허용 여부 한달 연기...티맵-대리업계 갈등 지속]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140015</link>
+            <guid>https://www.bloter.net/newsView/blt202209140015</guid>
+            <pubDate>Wed, 14 Sep 2022 08:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-14 17:06:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140033.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 홍라희 전 리움미술관장, 하와이에 295억 호화저택 구입…삼성전자 주식매각 직후]]></title>
             <link>https://www.bloter.net/newsView/blt202209140012</link>
             <guid>https://www.bloter.net/newsView/blt202209140012</guid>
             <pubDate>Wed, 14 Sep 2022 07:35:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-14 15:35:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140020.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바이든의 '바이오 미국 우선주의'…대웅 나보타 수출 타격 받나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 13 Sep 2022 01:58:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-13 10:57:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타 릴스 이용시간, 틱톡의 '11분의 1'...크리에이터 지원금 '남아돌아']]></title>
-            <link>https://www.bloter.net/newsView/blt202209130003</link>
-            <guid>https://www.bloter.net/newsView/blt202209130003</guid>
-            <pubDate>Tue, 13 Sep 2022 01:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-13 10:24:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 픽셀북 개발 중단…크롬북 사업 철수 가닥]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130002</link>
-            <guid>https://www.bloter.net/newsView/blt202209130002</guid>
-            <pubDate>Tue, 13 Sep 2022 01:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-13 09:41:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
