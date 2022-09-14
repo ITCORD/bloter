@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 10:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태림포장, 태림클러스터 흡수합병...골판지 사업 키우는 세아상역]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140013</link>
+            <guid>https://www.bloter.net/newsView/blt202209140013</guid>
+            <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-14 16:15:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍라희 전 리움미술관장, 하와이에 295억 호화저택 구입…삼성전자 주식매각 직후]]></title>
             <link>https://www.bloter.net/newsView/blt202209140012</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 14 Sep 2022 07:35:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 09:44:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 인앱결제액, 미국서 1년 사이 40% 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140001</link>
-            <guid>https://www.bloter.net/newsView/blt202209140001</guid>
-            <pubDate>Wed, 14 Sep 2022 06:06:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 08:43:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
