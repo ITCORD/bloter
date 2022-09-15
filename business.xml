@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분산된 고객 데이터 한 눈에…빅인사이트의 '커머스 데이터 기업' 출사표]]></title>
+            <link>https://www.bloter.net/newsView/blt202209010017</link>
+            <guid>https://www.bloter.net/newsView/blt202209010017</guid>
+            <pubDate>Thu, 15 Sep 2022 01:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-15 06:00:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130040.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[산은 매각관행 질타한 강석훈 회장 "시간 끌다 대우조선 가치 5조 하락"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140020</link>
+            <guid>https://www.bloter.net/newsView/blt202209140020</guid>
+            <pubDate>Thu, 15 Sep 2022 01:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-09-14 19:00:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140043.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["압도적 시청 경험"...LG전자 세계 최대 97형  올레드TV 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140017</link>
+            <guid>https://www.bloter.net/newsView/blt202209140017</guid>
+            <pubDate>Thu, 15 Sep 2022 01:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-14 17:32:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['외부링크 타고 앱 유입' 중 20%는 직접 검색해 들어왔다]]></title>
             <link>https://www.bloter.net/newsView/blt202209140011</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-14 16:15:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍라희 전 리움미술관장, 하와이에 295억 호화저택 구입…삼성전자 주식매각 직후]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140012</link>
-            <guid>https://www.bloter.net/newsView/blt202209140012</guid>
-            <pubDate>Wed, 14 Sep 2022 09:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-14 15:35:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK그룹, "BBC 산업 중심은 국내"...5년간 비수도권에 67조 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140010</link>
-            <guid>https://www.bloter.net/newsView/blt202209140010</guid>
-            <pubDate>Wed, 14 Sep 2022 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-14 14:11:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허리띠 졸라매는 美 IT기업, 창작자 후원 플랫폼 ‘패트리온’도 인력감축]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140004</link>
-            <guid>https://www.bloter.net/newsView/blt202209140004</guid>
-            <pubDate>Wed, 14 Sep 2022 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-14 10:21:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

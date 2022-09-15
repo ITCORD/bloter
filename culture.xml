@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 02:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 美 의회 청문회서 “중국 정부에 데이터 제공 안 해”]]></title>
+            <link>https://www.bloter.net/newsView/blt202209150003</link>
+            <guid>https://www.bloter.net/newsView/blt202209150003</guid>
+            <pubDate>Thu, 15 Sep 2022 02:01:19 GMT</pubDate>
+            <content:encoded><![CDATA[미국 의회 청문회에 참석한 숏폼 동영상 공유 플랫폼 틱톡 고위 간부가 중국 정부에 데이터를 제공하지 않는다고 밝혔다.14일(현지시간) &lt;뉴욕타임즈(NYT)&gt;에 따르면 바네사 파파스 틱톡 최고운영책임자(COO)는 이날 미국 상원 국토안보·정부업무 위원회에 출]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['우마무스메' 위기…카카오게임즈의 '끝장 간담회'는 어떤 모습일까]]></title>
             <link>https://www.bloter.net/newsView/blt202209140019</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Sep 2022 01:52:05 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS)와 소니가 액티비전 블리자드(이하 블리자드)의 인기 게임인 ‘콜 오브 듀티’를 두고 신경전을 이어나가고 있다. 7일(현지시간) 게임산업 매체 &lt;게임인더스트리&gt;에 따르면 소니는 MS가 블리자드 인수 후에도 인기 게임인 ‘콜 오브]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080029.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[긴축경영 돌입한 스냅…“내년 매출 목표는 8조원”]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080007</link>
-            <guid>https://www.bloter.net/newsView/blt202209080007</guid>
-            <pubDate>Thu, 08 Sep 2022 01:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 스냅챗 운영사 스냅이 내년 연매출을 8조원 이상으로 성장시키고 사용자 수를 30% 늘린다는 목표를 설정했다. 이는 최근 스냅이 부진한 2분기 실적과 직원 20%를 해고한다고 발표한 후 이뤄지는 것이어서 더욱 주목된다.   7일(현지시간) IT전문매체 &lt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080023.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
