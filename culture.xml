@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 02:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 04:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1인 작가' 돕는 보조작가 플랫폼 '콜레리' 론칭…AI·블록체인 결합]]></title>
+            <link>https://www.bloter.net/newsView/blt202209150007</link>
+            <guid>https://www.bloter.net/newsView/blt202209150007</guid>
+            <pubDate>Thu, 15 Sep 2022 04:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[1인 창작자를 위한 콘텐츠 창작 플랫폼이 인공지능(AI)과 블록체인이 결합된 형태로 발전했다. AI를 통해 작가들의 그림과 소설 창작 활동을 지원하는 동시에 블록체인 기술로 저작권 보호도 가능해질 것으로 전망된다.   AI 기반 콘텐츠 전문 스타트업 내스타일은 1인]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 美 의회 청문회서 “중국 정부에 데이터 제공 안 해”]]></title>
             <link>https://www.bloter.net/newsView/blt202209150003</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Sep 2022 06:02:09 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰의 일본 플랫폼 '라인망가'와 '이북재팬'의 8월 합산 거래액이 역대 최고치인 100억엔(약 970억원)을 기록했다. 월 거래액 기준 역대 최대 기록이다. 2013년 세로형 웹툰이 낯설었던 일본 시장을 공략하기 위해 '애플리케이션(앱)' 플랫폼을 활용했다면, 이제]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080033.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니, 블리자드 인수 후 ‘콜 오브 듀티’ 제공한다는 MS에 불만 표출]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080011</link>
-            <guid>https://www.bloter.net/newsView/blt202209080011</guid>
-            <pubDate>Thu, 08 Sep 2022 01:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)와 소니가 액티비전 블리자드(이하 블리자드)의 인기 게임인 ‘콜 오브 듀티’를 두고 신경전을 이어나가고 있다. 7일(현지시간) 게임산업 매체 &lt;게임인더스트리&gt;에 따르면 소니는 MS가 블리자드 인수 후에도 인기 게임인 ‘콜 오브]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080029.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

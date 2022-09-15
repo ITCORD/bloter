@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 02:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 04:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[③김남호 회장, '신경영' 필요한 DB하이텍을 바꿔낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130013</link>
+            <guid>https://www.bloter.net/newsView/blt202209130013</guid>
+            <pubDate>Thu, 15 Sep 2022 04:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-15 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130019.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[분산된 고객 데이터 한 눈에…빅인사이트의 '커머스 데이터 기업' 출사표]]></title>
             <link>https://www.bloter.net/newsView/blt202209010017</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 14 Sep 2022 21:16:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-14 17:06:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140033.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태림포장, 태림클러스터 흡수합병...골판지 사업 키우는 세아상역]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140013</link>
-            <guid>https://www.bloter.net/newsView/blt202209140013</guid>
-            <pubDate>Wed, 14 Sep 2022 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-14 16:15:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140030.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
