@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우버 운전자 얼마나 보호하나…美당국, ‘긱 이코노미’ 기업 단속한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160002</link>
+            <guid>https://www.bloter.net/newsView/blt202209160002</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-16 09:12:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어도비, 경쟁업체 ‘피그마’ 28조원에 인수…”협업 툴 강화”]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160001</link>
+            <guid>https://www.bloter.net/newsView/blt202209160001</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-16 08:59:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[①양계업자서 총수가 된 김홍국...'나폴레옹 정신' 앞세운 M&A]]></title>
             <link>https://www.bloter.net/newsView/blt202209150016</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 16 Sep 2022 02:01:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-15 10:11:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150003.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 美 의회 청문회서 “중국 정부에 데이터 제공 안 해”]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150003</link>
-            <guid>https://www.bloter.net/newsView/blt202209150003</guid>
-            <pubDate>Thu, 15 Sep 2022 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-15 09:32:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 6조원 EU 과징금 취소소송 패소…”반독점법 위반 확인”]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150001</link>
-            <guid>https://www.bloter.net/newsView/blt202209150001</guid>
-            <pubDate>Thu, 15 Sep 2022 06:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-15 08:29:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
