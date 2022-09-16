@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 02:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[①양계업자서 총수가 된 김홍국...'나폴레옹 정신' 앞세운 M&A]]></title>
+            <link>https://www.bloter.net/newsView/blt202209150016</link>
+            <guid>https://www.bloter.net/newsView/blt202209150016</guid>
+            <pubDate>Fri, 16 Sep 2022 04:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-15 17:42:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['신환경경영' 발표한 삼성전자, 2050년까지 반도체 사업도 탄소중립 달성]]></title>
             <link>https://www.bloter.net/newsView/blt202209150008</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 15 Sep 2022 06:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-15 08:29:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[③김남호 회장, '신경영' 필요한 DB하이텍을 바꿔낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130013</link>
-            <guid>https://www.bloter.net/newsView/blt202209130013</guid>
-            <pubDate>Thu, 15 Sep 2022 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-15 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130019.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
