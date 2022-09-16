@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 10:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 11:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베일 벗은 오버워치2 '배틀패스', 무과금으로 어디까지 갈 수 있을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160021</link>
+            <guid>https://www.bloter.net/newsView/blt202209160021</guid>
+            <pubDate>Fri, 16 Sep 2022 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-16 19:28:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160041.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오라클은 왜 AWS·MS 클라우드서 자사 DB를 쓰게 하나]]></title>
             <link>https://www.bloter.net/newsView/blt202209160020</link>
             <guid>https://www.bloter.net/newsView/blt202209160020</guid>
             <pubDate>Fri, 16 Sep 2022 10:21:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-16 19:08:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160040.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160040.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[LG유플러스 3.0]③디지털 느림보 통신…'DIY요금제'가 혁신할까?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 15 Sep 2022 07:30:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-15 15:45:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차 파트너십·국제 공조·인프라 확장…KT SAT 변화의 지향점은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150011</link>
-            <guid>https://www.bloter.net/newsView/blt202209150011</guid>
-            <pubDate>Thu, 15 Sep 2022 06:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-15 14:45:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
