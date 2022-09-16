@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 일상샷 공유하는 '나우' 기능 출시…경쟁사 ‘비리얼’ 모방하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160003</link>
+            <guid>https://www.bloter.net/newsView/blt202209160003</guid>
+            <pubDate>Fri, 16 Sep 2022 08:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-16 10:08:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우버 운전자 얼마나 보호하나…美당국, ‘긱 이코노미’ 기업 단속한다]]></title>
             <link>https://www.bloter.net/newsView/blt202209160002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 16 Sep 2022 02:01:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-15 11:40:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크의 위성인터넷 ‘스타링크’, 남극에서 서비스 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150004</link>
-            <guid>https://www.bloter.net/newsView/blt202209150004</guid>
-            <pubDate>Fri, 16 Sep 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-15 10:11:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150003.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

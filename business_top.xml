@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG전자 미국법인 사상 최대 매출...순이익은 600% 감소]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160006</link>
-            <guid>https://www.bloter.net/newsView/blt202209160006</guid>
-            <pubDate>Fri, 16 Sep 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-16 14:54:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160011.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[현대백화점그룹, 지주사 체제로 전환한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160012</link>
+            <guid>https://www.bloter.net/newsView/blt202209160012</guid>
+            <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-16 16:32:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160016.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["압도적 시청 경험"...LG전자 세계 최대 97형  올레드TV 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140017</link>
-            <guid>https://www.bloter.net/newsView/blt202209140017</guid>
-            <pubDate>Fri, 16 Sep 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대백화점, 지누스 잇딴 지분 매집 … "미래 가치에 집중"]]></title>
+            <link>https://www.bloter.net/newsView/blt202207010011</link>
+            <guid>https://www.bloter.net/newsView/blt202207010011</guid>
+            <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자 '오브제 무드업' 신제품 출시..."냉장고야 분위기를 부탁해"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209020009</link>
-            <guid>https://www.bloter.net/newsView/blt202209020009</guid>
-            <pubDate>Fri, 16 Sep 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대백화점이 품은 지누스, 역대 분기 최대 실적]]></title>
+            <link>https://www.bloter.net/newsView/blt202205040073</link>
+            <guid>https://www.bloter.net/newsView/blt202205040073</guid>
+            <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG전자, IFA서 97형 올레드 TV 공개...4분기 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202208290004</link>
-            <guid>https://www.bloter.net/newsView/blt202208290004</guid>
-            <pubDate>Fri, 16 Sep 2022 06:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대백화점, 온라인 매트리스 업체 '지누스' 인수...자금조달 어떻게?]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220203</link>
+            <guid>https://www.bloter.net/newsView/blt202203220203</guid>
+            <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이커머스 시대 '전문몰' 전략으로 승부 거는 현대백화점]]></title>
+            <link>https://www.bloter.net/newsView/blt202105260032</link>
+            <guid>https://www.bloter.net/newsView/blt202105260032</guid>
+            <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
