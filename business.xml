@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 08:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 SW 기업 '앱러빈' 아태 총괄에 한국인 리더…'빨리빨리 DNA' 전파한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209150014</link>
+            <guid>https://www.bloter.net/newsView/blt202209150014</guid>
+            <pubDate>Fri, 16 Sep 2022 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-09-16 14:49:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사업 확장' 쏘카 일레클, 어떻게 '가맹 사업' 진출 가능했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160004</link>
+            <guid>https://www.bloter.net/newsView/blt202209160004</guid>
+            <pubDate>Fri, 16 Sep 2022 09:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-16 11:57:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 일상샷 공유하는 '나우' 기능 출시…경쟁사 ‘비리얼’ 모방하나]]></title>
             <link>https://www.bloter.net/newsView/blt202209160003</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 16 Sep 2022 04:29:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-15 17:42:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신환경경영' 발표한 삼성전자, 2050년까지 반도체 사업도 탄소중립 달성]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150008</link>
-            <guid>https://www.bloter.net/newsView/blt202209150008</guid>
-            <pubDate>Fri, 16 Sep 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-15 14:46:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[⑤최창원 부회장과 'SK 내 소그룹'을 움직이는 핵심 3인방은]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150002</link>
-            <guid>https://www.bloter.net/newsView/blt202209150002</guid>
-            <pubDate>Fri, 16 Sep 2022 02:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-15 11:40:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

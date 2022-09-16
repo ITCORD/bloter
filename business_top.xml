@@ -4,16 +4,23 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 08:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대백화점그룹, ‘자사주 마법’ 쓴다…오너일가 지배력 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160016</link>
+            <guid>https://www.bloter.net/newsView/blt202209160016</guid>
+            <pubDate>Fri, 16 Sep 2022 09:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-16 17:55:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160027.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대백화점그룹, 지주사 체제로 전환한다]]></title>
             <link>https://www.bloter.net/newsView/blt202209160012</link>
             <guid>https://www.bloter.net/newsView/blt202209160012</guid>
             <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-16 16:32:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160016.570x320.0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대백화점, 지누스 잇딴 지분 매집 … "미래 가치에 집중"]]></title>
@@ -33,13 +40,6 @@
             <title><![CDATA[현대백화점, 온라인 매트리스 업체 '지누스' 인수...자금조달 어떻게?]]></title>
             <link>https://www.bloter.net/newsView/blt202203220203</link>
             <guid>https://www.bloter.net/newsView/blt202203220203</guid>
-            <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이커머스 시대 '전문몰' 전략으로 승부 거는 현대백화점]]></title>
-            <link>https://www.bloter.net/newsView/blt202105260032</link>
-            <guid>https://www.bloter.net/newsView/blt202105260032</guid>
             <pubDate>Fri, 16 Sep 2022 08:23:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
