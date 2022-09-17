@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 05:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 06:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 미국법인 사상 최대 매출]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160006</link>
+            <guid>https://www.bloter.net/newsView/blt202209160006</guid>
+            <pubDate>Sat, 17 Sep 2022 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-16 14:54:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 SW 기업 '앱러빈' 아태 총괄에 한국인 리더…'빨리빨리 DNA' 전파한다]]></title>
             <link>https://www.bloter.net/newsView/blt202209150014</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 16 Sep 2022 06:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-16 08:59:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[①양계업자서 총수가 된 김홍국...'나폴레옹 정신' 앞세운 M&A]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150016</link>
-            <guid>https://www.bloter.net/newsView/blt202209150016</guid>
-            <pubDate>Fri, 16 Sep 2022 04:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-15 17:42:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
