@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 01:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 04:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자  '게임플러스' 상표 등록...TV서 온라인 게임 지원할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160009</link>
+            <guid>https://www.bloter.net/newsView/blt202209160009</guid>
+            <pubDate>Sat, 17 Sep 2022 04:00:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-17 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160014.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삼바·셀트·SK바사 '삼바' 사례로 본 바이오기업의 환경 경영 전략]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160017</link>
+            <guid>https://www.bloter.net/newsView/blt202209160017</guid>
+            <pubDate>Sat, 17 Sep 2022 04:00:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-17 11:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160030.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[휴대폰 톡]값비싼 아이폰14, 직구가 이득일까?]]></title>
             <link>https://www.bloter.net/newsView/blt202209140018</link>
             <guid>https://www.bloter.net/newsView/blt202209140018</guid>
             <pubDate>Sat, 17 Sep 2022 01:46:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-17 08:41:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140035.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140035.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[베일 벗은 오버워치2 '배틀패스', 무과금으로 어디까지 갈 수 있을까]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 15 Sep 2022 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-15 18:05:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부가 선택한 공공의료 디지털 전환 선봉장 ‘라이프시맨틱스’…경쟁력은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150018</link>
-            <guid>https://www.bloter.net/newsView/blt202209150018</guid>
-            <pubDate>Thu, 15 Sep 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-15 17:45:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150026.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LG유플러스 3.0]①찐팬 외길 황현식, 플랫폼 컴퍼니 답 '고객'서 찾은 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150017</link>
-            <guid>https://www.bloter.net/newsView/blt202209150017</guid>
-            <pubDate>Thu, 15 Sep 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-15 17:30:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
