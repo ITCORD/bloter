@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 23:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 01:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[휴대폰 톡]값비싼 아이폰14, 직구가 이득일까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209140018</link>
+            <guid>https://www.bloter.net/newsView/blt202209140018</guid>
+            <pubDate>Sat, 17 Sep 2022 01:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-17 08:41:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140035.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베일 벗은 오버워치2 '배틀패스', 무과금으로 어디까지 갈 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202209160021</link>
             <guid>https://www.bloter.net/newsView/blt202209160021</guid>
             <pubDate>Fri, 16 Sep 2022 11:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-16 19:28:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160041.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160041.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오라클은 왜 AWS·MS 클라우드서 자사 DB를 쓰게 하나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 15 Sep 2022 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-15 17:30:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[韓 개발 희귀 소아질환 골육종 치료 후보물질 ‘백토서팁’…美 FDA 주목]]></title>
-            <link>https://www.bloter.net/newsView/blt202209150013</link>
-            <guid>https://www.bloter.net/newsView/blt202209150013</guid>
-            <pubDate>Thu, 15 Sep 2022 07:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-15 15:45:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/15/blt202209150015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
