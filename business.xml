@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 04:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대백화점그룹, ‘자사주 마법’ 쓴다…오너일가 지배력 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160016</link>
+            <guid>https://www.bloter.net/newsView/blt202209160016</guid>
+            <pubDate>Sun, 18 Sep 2022 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-16 17:55:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두산테스나 김도원 대표 선임...인수 후 경영진 교체 가속화]]></title>
+            <link>https://www.bloter.net/newsView/blt202209160013</link>
+            <guid>https://www.bloter.net/newsView/blt202209160013</guid>
+            <pubDate>Sun, 18 Sep 2022 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-16 17:41:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대백화점그룹, 지주사 체제로 전환한다]]></title>
             <link>https://www.bloter.net/newsView/blt202209160012</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 16 Sep 2022 09:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-16 11:57:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 일상샷 공유하는 '나우' 기능 출시…경쟁사 ‘비리얼’ 모방하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160003</link>
-            <guid>https://www.bloter.net/newsView/blt202209160003</guid>
-            <pubDate>Fri, 16 Sep 2022 08:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-16 10:08:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우버 운전자 얼마나 보호하나…美당국, ‘긱 이코노미’ 기업 단속한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160002</link>
-            <guid>https://www.bloter.net/newsView/blt202209160002</guid>
-            <pubDate>Fri, 16 Sep 2022 06:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-16 09:12:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
