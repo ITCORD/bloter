@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 07:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 08:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오버워치2 '키리코', 밸런스 영웅이 될 수 있을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209170003</link>
+            <guid>https://www.bloter.net/newsView/blt202209170003</guid>
+            <pubDate>Sun, 18 Sep 2022 08:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[블리자드엔터테인먼트가 내달 공개하는 신작 하이퍼 FPS(1인칭 슈팅 게임) '오버워치2'의 핵심 신규 영웅으로 '키리코'를 내세웠다. 오버워치2에서 선보이는 5대 5 대전이나 다양한 지형, 타 영웅들의 기술을 고려할 때 키리코가 전체 밸런스를 맞추는 중요한 역할을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/17/blt202209170005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베일 벗은 오버워치2 '배틀패스', 무과금으로 어디까지 갈 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202209160021</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Sep 2022 06:17:00 GMT</pubDate>
             <content:encoded><![CDATA[그라비티 '라그나로크'와 넥슨 '메이플스토리'가 다른 듯 같은 행보를 보이고 있다. 귀여운 2D 그래픽에 횡스크롤 게임 방식으로 오랜 기간 서비스해 온 두 게임이 나란히 웹3.0으로도 진출한 것이다. 서비스 기간 흥망성쇠를 겪은 두 게임이 이용자가 데이터 주권을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080063.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아트씬 입장' 위메이드, 나일은 여전히 '미지수']]></title>
-            <link>https://www.bloter.net/newsView/blt202209080024</link>
-            <guid>https://www.bloter.net/newsView/blt202209080024</guid>
-            <pubDate>Mon, 12 Sep 2022 02:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 새로운 방식의 '아트마켓 플레이어'로서 예술계를 '설득'하고 나섰다. '대체 불가능한 토큰(NFT)'과 '탈중앙화 자율조직(DAO)'을 결합한 형태의 비즈니스 모델(플랫폼) '나일' 론칭을 앞두고서다. 위메이드는 아트마켓 비즈니스 모델의 시작이 될 '아트 다오']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/08/blt202209080061.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
