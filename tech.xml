@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라, '블록체인 게이머 커뮤니티 연합체' 출범시킨 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190012</link>
+            <guid>https://www.bloter.net/newsView/blt202209190012</guid>
+            <pubDate>Mon, 19 Sep 2022 07:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-19 16:27:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 충당부채 4개 분기 연속 2조 규모...지출시 현금흐름에 '부정적']]></title>
+            <link>https://www.bloter.net/newsView/blt202208300009</link>
+            <guid>https://www.bloter.net/newsView/blt202208300009</guid>
+            <pubDate>Mon, 19 Sep 2022 07:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-19 15:59:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190018.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독감 백신 무료접종 21일 스타트…접종시 입원·사망 확률 최대 56% 줄인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190011</link>
+            <guid>https://www.bloter.net/newsView/blt202209190011</guid>
+            <pubDate>Mon, 19 Sep 2022 07:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-19 15:16:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190017.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배달앱 지각변동]①네이버, 왜 '둔화기 배달 시장' 진출 고민할까]]></title>
             <link>https://www.bloter.net/newsView/blt202209190010</link>
             <guid>https://www.bloter.net/newsView/blt202209190010</guid>
             <pubDate>Mon, 19 Sep 2022 06:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-19 14:52:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190014.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190014.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인도네시아 진출 화웨이 클라우드, 12억달러 시장 정조준]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Sat, 17 Sep 2022 04:00:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-17 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[휴대폰 톡]값비싼 아이폰14, 직구가 이득일까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140018</link>
-            <guid>https://www.bloter.net/newsView/blt202209140018</guid>
-            <pubDate>Sat, 17 Sep 2022 01:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-17 08:41:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140035.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베일 벗은 오버워치2 '배틀패스', 무과금으로 어디까지 갈 수 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160021</link>
-            <guid>https://www.bloter.net/newsView/blt202209160021</guid>
-            <pubDate>Fri, 16 Sep 2022 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-16 19:28:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160041.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오라클은 왜 AWS·MS 클라우드서 자사 DB를 쓰게 하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160020</link>
-            <guid>https://www.bloter.net/newsView/blt202209160020</guid>
-            <pubDate>Fri, 16 Sep 2022 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-16 19:08:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160040.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

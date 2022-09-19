@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 07:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라, '블록체인 게이머 커뮤니티 연합체' 출범시킨 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190012</link>
+            <guid>https://www.bloter.net/newsView/blt202209190012</guid>
+            <pubDate>Mon, 19 Sep 2022 07:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[카카오게임즈 자회사 '메타보라'의 블록체인 생태계인 '보라네트워크'가 글로벌 유저 확보를 위한 커뮤니티 연합체를 구성한다. 보라네트워크는 블록체인 게임시장의 수요층인 커뮤니티를 한 데 모아 관련 인프라를 확대할 계획이다.  19일 메타보라는 "글로벌 게이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GTA6 개발 영상 90편 유출…해커 "테스트빌드 등 추가 공개할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202209190004</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 13 Sep 2022 01:59:09 GMT</pubDate>
             <content:encoded><![CDATA[메타가 내부 보고서에서 인스타그램의 숏폼 동영상 ‘릴스’로 인해 막대한 손실이 발생했지만 정작 사용자 및 크리에이터 참여도를 끌어올리는데 어려움을 겪고 있다고 밝혔다.   12일(현지시간) &lt;월스트릿저널(WSJ)&gt;이 입수한 메타의 내부 문건에 따르면]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]넷마블, YGG 재팬 손잡고 MBX 생태계 알린다…TGS 출격]]></title>
-            <link>https://www.bloter.net/newsView/blt202209110001</link>
-            <guid>https://www.bloter.net/newsView/blt202209110001</guid>
-            <pubDate>Mon, 12 Sep 2022 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블의 블록체인 자회사 '마브렉스'가 일본 현지 파트너사와 손잡고 '도쿄게임쇼(TGS)'를 공략한다. 12일 &lt;블로터&gt; 취재 결과, 마브렉스가 일본의 '일드길드게임즈(YGG) 재팬'과 함께 오는 15~18일 진행되는 'TGS 2022'에 참가한다. 마브렉스는 TGS 2022에 참가해 자체 블]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/11/blt202209110001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
