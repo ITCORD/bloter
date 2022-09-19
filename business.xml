@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차-카카오 '모빌리티' 협업 이어간다...연내 '자율주행' 시범 서비스 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190005</link>
+            <guid>https://www.bloter.net/newsView/blt202209190005</guid>
+            <pubDate>Mon, 19 Sep 2022 10:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-19 10:05:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GTA6 개발 영상 90편 유출…해커 "테스트빌드 등 추가 공개할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202209190004</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 19 Sep 2022 02:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-18 14:38:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/18/blt202209180001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[②'떼고 붙이고 합치고'…끝없는 지배구조 논란]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160019</link>
-            <guid>https://www.bloter.net/newsView/blt202209160019</guid>
-            <pubDate>Mon, 19 Sep 2022 02:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-18 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160037.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

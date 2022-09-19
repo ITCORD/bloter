@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]4조원 ‘잭팟’…KAI의 초음속 경공격기 ‘폴란드 수출’ 의미]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190018</link>
+            <guid>https://www.bloter.net/newsView/blt202209190018</guid>
+            <pubDate>Mon, 19 Sep 2022 10:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-19 18:33:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190031.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰 작가들 "여기가 천국"…이유있는 '엄지 척']]></title>
             <link>https://www.bloter.net/newsView/blt202209190015</link>
             <guid>https://www.bloter.net/newsView/blt202209190015</guid>
             <pubDate>Mon, 19 Sep 2022 08:28:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-19 17:09:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보라, '블록체인 게이머 커뮤니티 연합체' 출범시킨 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 17 Sep 2022 06:23:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-17 14:20:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자  '게임플러스' 상표 등록...TV서 온라인 게임 지원할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160009</link>
-            <guid>https://www.bloter.net/newsView/blt202209160009</guid>
-            <pubDate>Sat, 17 Sep 2022 04:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-17 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
