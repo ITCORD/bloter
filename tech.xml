@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버웹툰 작가들 "여기가 천국"…이유있는 '엄지 척']]></title>
+            <link>https://www.bloter.net/newsView/blt202209190015</link>
+            <guid>https://www.bloter.net/newsView/blt202209190015</guid>
+            <pubDate>Mon, 19 Sep 2022 08:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-19 17:09:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보라, '블록체인 게이머 커뮤니티 연합체' 출범시킨 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202209190012</link>
             <guid>https://www.bloter.net/newsView/blt202209190012</guid>
             <pubDate>Mon, 19 Sep 2022 07:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-19 16:27:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자 충당부채 4개 분기 연속 2조 규모...지출시 현금흐름에 '부정적']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 17 Sep 2022 04:00:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-17 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼바·셀트·SK바사 '삼바' 사례로 본 바이오기업의 환경 경영 전략]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160017</link>
-            <guid>https://www.bloter.net/newsView/blt202209160017</guid>
-            <pubDate>Sat, 17 Sep 2022 04:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-17 11:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
