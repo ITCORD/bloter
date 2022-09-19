@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배달앱 지각변동]①네이버, 왜 '둔화기 배달 시장' 진출 고민할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190010</link>
+            <guid>https://www.bloter.net/newsView/blt202209190010</guid>
+            <pubDate>Mon, 19 Sep 2022 06:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-19 14:52:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190014.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인도네시아 진출 화웨이 클라우드, 12억달러 시장 정조준]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190007</link>
+            <guid>https://www.bloter.net/newsView/blt202209190007</guid>
+            <pubDate>Mon, 19 Sep 2022 06:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-19 13:36:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190009.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GTA6 개발 영상 90편 유출…해커 "테스트빌드 등 추가 공개할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202209190004</link>
             <guid>https://www.bloter.net/newsView/blt202209190004</guid>
             <pubDate>Mon, 19 Sep 2022 02:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-19 10:03:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 새 펀치홀 프로에만 탑재…아이폰15선 전 제품 적용?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 16 Sep 2022 10:21:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-16 19:08:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160040.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LG유플러스 3.0]③디지털 느림보 통신…'DIY요금제'가 혁신할까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160018</link>
-            <guid>https://www.bloter.net/newsView/blt202209160018</guid>
-            <pubDate>Fri, 16 Sep 2022 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-16 18:27:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두산테스나 김도원 대표 선임...인수 후 경영진 교체 가속화]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160013</link>
-            <guid>https://www.bloter.net/newsView/blt202209160013</guid>
-            <pubDate>Fri, 16 Sep 2022 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-16 17:41:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
