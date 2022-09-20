@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]신라젠 주식 거래 재개 마지막 퍼즐…'고난이도 항암제 개발 기술' 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202209200007</link>
+            <guid>https://www.bloter.net/newsView/blt202209200007</guid>
+            <pubDate>Tue, 20 Sep 2022 07:27:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-20 16:18:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200010.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[배달앱 지각변동]②시장 키운 배민·요기요, 영업비용 급증에 부담 가중]]></title>
             <link>https://www.bloter.net/newsView/blt202209200006</link>
             <guid>https://www.bloter.net/newsView/blt202209200006</guid>
             <pubDate>Tue, 20 Sep 2022 06:05:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-20 14:42:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이저 스페이스, 우주정거장 숙박 시설 힐튼호텔에 맡긴다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 18 Sep 2022 08:22:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-18 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/17/blt202209170005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 주행보조기능 '허위 논란'...美, "자율주행 신기술 규제 강화해야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209160026</link>
-            <guid>https://www.bloter.net/newsView/blt202209160026</guid>
-            <pubDate>Sun, 18 Sep 2022 08:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-18 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160051.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
