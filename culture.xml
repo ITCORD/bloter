@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 08:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 09:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'고어 끝판왕' 칼리스토 프로토콜, 韓·美 청불 등급 받아]]></title>
+            <link>https://www.bloter.net/newsView/blt202209200014</link>
+            <guid>https://www.bloter.net/newsView/blt202209200014</guid>
+            <pubDate>Tue, 20 Sep 2022 09:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[오는 12월 출시를 앞둔 호러 게임 '칼리스토 프로토콜'이 한국과 미국에서 청소년이용불가 등급을 받았다. 칼리스토 프로토콜은 글로벌 호러 게임 '데드 스페이스'를 만든 글렌 스코필드의 노하우가 그대로 녹아든 만큼 출시 후 크래프톤의 또 다른 캐시카우(수익창]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200026.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰 작가들 "여기가 천국"…이유있는 '엄지 척']]></title>
             <link>https://www.bloter.net/newsView/blt202209190015</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Sep 2022 01:51:11 GMT</pubDate>
             <content:encoded><![CDATA[소셜미디어(SNS) 업체 트위터가 연방수사국(FBI)으로부터 회사에 최소 1명의 중국 정보 요원이 잠입해있다고 통보받은 것으로 밝혀졌다.13일(현지시간) 척 그래슬리 상원의원은 피터 자트코 전 트위터 보안책임자를 불러 개최한 미국 상원 법제사법위원회 청문회에서]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크체인저]모바일 커머스 '출사표' 머스트잇, 명품 플랫폼 시장 변화 이끌까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209130019</link>
-            <guid>https://www.bloter.net/newsView/blt202209130019</guid>
-            <pubDate>Tue, 13 Sep 2022 21:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 25일 찾은 서울 강남구 명품 플랫폼 '머스트잇' 사옥 1층에 위치한 쇼룸은 방송 장비들과 사람들로 북적였다. 이날 저녁 7시 진행되는 '머스트잇 X CJ온스타일 라이브 커머스' 첫 방송을 앞두고 있었기 때문이다. 머스트잇은 지난 6월 CJ온스타일에 200억원 규모]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/13/blt202209130037.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
