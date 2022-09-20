@@ -4,7 +4,7 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 04:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190027.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대백화점그룹, 지주사 전환 시 '사익편취 규제대상'서 대거 빠진다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190006</link>
-            <guid>https://www.bloter.net/newsView/blt202209190006</guid>
-            <pubDate>Tue, 20 Sep 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-19 14:21:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/16/blt202209160027.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[현대차-카카오 '모빌리티' 협업 이어간다...연내 '자율주행' 시범 서비스 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202209190005</link>
             <guid>https://www.bloter.net/newsView/blt202209190005</guid>
             <pubDate>Mon, 19 Sep 2022 10:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-19 10:05:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GTA6 개발 영상 90편 유출…해커 "테스트빌드 등 추가 공개할 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209190004</link>
+            <guid>https://www.bloter.net/newsView/blt202209190004</guid>
+            <pubDate>Tue, 20 Sep 2022 06:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-19 10:03:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
