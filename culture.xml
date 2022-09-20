@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 10:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]콩스튜디오의 '가디언 테일즈', 닌텐도 스위치로 발 뻗는 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202209200016</link>
+            <guid>https://www.bloter.net/newsView/blt202209200016</guid>
+            <pubDate>Tue, 20 Sep 2022 10:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[퍼즐형 SRPG '던전링크'와 RPG '가디언테일즈'로 모바일 게임으로 기반을 다져온 콩스튜디오가 콘솔 플랫폼으로 영역을 확장한다. 다음달 글로벌 지역에 가디언테일즈의 닌텐도 스위치 버전을 출시하기로 하면서다. 콩스튜디오코리아는 오는 21일 '가디언테일즈 닌텐]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200033.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'고어 끝판왕' 칼리스토 프로토콜, 韓·美 청불 등급 받아]]></title>
             <link>https://www.bloter.net/newsView/blt202209200014</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 14 Sep 2022 09:21:11 GMT</pubDate>
             <content:encoded><![CDATA[카카오게임즈가 오는 17일 개최될 모바일 게임 '우마무스메 프리티더비(이하 우마무스메)' 간담회에서 게임 운영과 관련한 이용자들의 불만사항을 청취한다. 최근 발생한 우마무스메 운영 논란과 관련해 이용자 대표를 만나 '양측이 동의할 때까지' 간담회를 이어가]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140040.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, “中 정보요원 최소 1명 있다” 경고에도 대책 없이 방치했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202209140002</link>
-            <guid>https://www.bloter.net/newsView/blt202209140002</guid>
-            <pubDate>Wed, 14 Sep 2022 01:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 업체 트위터가 연방수사국(FBI)으로부터 회사에 최소 1명의 중국 정보 요원이 잠입해있다고 통보받은 것으로 밝혀졌다.13일(현지시간) 척 그래슬리 상원의원은 피터 자트코 전 트위터 보안책임자를 불러 개최한 미국 상원 법제사법위원회 청문회에서]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/14/blt202209140003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 10:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]콩스튜디오의 '가디언 테일즈', 닌텐도 스위치로 발 뻗는 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202209200016</link>
+            <guid>https://www.bloter.net/newsView/blt202209200016</guid>
+            <pubDate>Tue, 20 Sep 2022 10:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-20 19:05:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'고어 끝판왕' 칼리스토 프로토콜, 韓·美 청불 등급 받아]]></title>
             <link>https://www.bloter.net/newsView/blt202209200014</link>
             <guid>https://www.bloter.net/newsView/blt202209200014</guid>
             <pubDate>Tue, 20 Sep 2022 09:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-09-20 18:22:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200026.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200026.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[갈 길 먼 '넷플릭스 망 이용료' 분쟁…첫 국회 공청회도 '반쪽짜리']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 19 Sep 2022 06:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-09-19 13:36:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GTA6 개발 영상 90편 유출…해커 "테스트빌드 등 추가 공개할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190004</link>
-            <guid>https://www.bloter.net/newsView/blt202209190004</guid>
-            <pubDate>Mon, 19 Sep 2022 02:00:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-19 10:03:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190007.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
