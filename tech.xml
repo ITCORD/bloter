@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 07:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 08:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년 만에 열린 SOVAC...최태원 "위기는 연결과 협력으로 해결"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209200011</link>
+            <guid>https://www.bloter.net/newsView/blt202209200011</guid>
+            <pubDate>Tue, 20 Sep 2022 08:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-09-20 17:16:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['5G 28㎓망 입장차' 과기정통부와 SKT·KT·LGU+, 해법 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202209200009</link>
+            <guid>https://www.bloter.net/newsView/blt202209200009</guid>
+            <pubDate>Tue, 20 Sep 2022 08:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-09-20 16:36:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]신라젠 주식 거래 재개 마지막 퍼즐…'고난이도 항암제 개발 기술' 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202209200007</link>
             <guid>https://www.bloter.net/newsView/blt202209200007</guid>
             <pubDate>Tue, 20 Sep 2022 07:27:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-09-20 16:18:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[배달앱 지각변동]②시장 키운 배민·요기요, 영업비용 급증에 부담 가중]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 18 Sep 2022 10:20:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-18 19:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/09/17/blt202209170004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 남동부 규모 7.2 강진...TSMC "심각한 피해 없어"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209180002</link>
-            <guid>https://www.bloter.net/newsView/blt202209180002</guid>
-            <pubDate>Sun, 18 Sep 2022 10:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-18 18:33:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/18/blt202209180003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오버워치2 '키리코', 밸런스 영웅이 될 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202209170003</link>
-            <guid>https://www.bloter.net/newsView/blt202209170003</guid>
-            <pubDate>Sun, 18 Sep 2022 08:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-09-18 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/17/blt202209170005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
