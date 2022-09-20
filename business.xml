@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블로터 ─ 비즈니스</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:34:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[또 해킹당한 우버, “범인은 삼성·LG 공격한 해커 랩서스”]]></title>
-            <link>https://www.bloter.net/newsView/blt202209200001</link>
-            <guid>https://www.bloter.net/newsView/blt202209200001</guid>
-            <pubDate>Tue, 20 Sep 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-20 08:53:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[4조원 ‘잭팟’…KAI의 초음속 경공격기 ‘폴란드 수출’ 의미]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190018</link>
-            <guid>https://www.bloter.net/newsView/blt202209190018</guid>
-            <pubDate>Tue, 20 Sep 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date">2022-09-19 18:33:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190031.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[③논란 속 양재물류단지 투자...NS쇼핑 분할 승인 관건]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190016</link>
-            <guid>https://www.bloter.net/newsView/blt202209190016</guid>
-            <pubDate>Tue, 20 Sep 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-09-19 18:14:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국타이어, 온실가스 배출 대전·금산 등 국내에 집중...감축 목표 달성할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190014</link>
-            <guid>https://www.bloter.net/newsView/blt202209190014</guid>
-            <pubDate>Tue, 20 Sep 2022 01:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-19 18:01:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190027.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차-카카오 '모빌리티' 협업 이어간다...연내 '자율주행' 시범 서비스 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190005</link>
-            <guid>https://www.bloter.net/newsView/blt202209190005</guid>
-            <pubDate>Mon, 19 Sep 2022 10:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date">2022-09-19 10:05:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GTA6 개발 영상 90편 유출…해커 "테스트빌드 등 추가 공개할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202209190004</link>
-            <guid>https://www.bloter.net/newsView/blt202209190004</guid>
-            <pubDate>Tue, 20 Sep 2022 06:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-09-19 10:03:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/19/blt202209190007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
+    <title>블로터 ─ 비즈니스</title>
+    <updated>2022-09-20T17:32:55.400Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bloter.net/favicon.png</icon>
+</feed>

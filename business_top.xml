@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:34:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자동차의 전장화 '보안이 걱정'...HL만도, 아르거스와 MOU 체결]]></title>
-            <link>https://www.bloter.net/newsView/blt202209200005</link>
-            <guid>https://www.bloter.net/newsView/blt202209200005</guid>
-            <pubDate>Tue, 20 Sep 2022 01:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-09-20 10:50:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/09/20/blt202209200005.570x320.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만도, 최첨단 브레이크로 'CES 2022' 혁신상 수상]]></title>
-            <link>https://www.bloter.net/newsView/blt202201040118</link>
-            <guid>https://www.bloter.net/newsView/blt202201040118</guid>
-            <pubDate>Tue, 20 Sep 2022 01:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
+    <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
+    <updated>2022-09-20T17:32:55.409Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bloter.net/favicon.png</icon>
+</feed>
