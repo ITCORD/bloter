@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
-    <title>블로터 ─ 비즈니스</title>
-    <updated>2022-11-16T15:20:42.031Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bloter.net/favicon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블로터 ─ 비즈니스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:25:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 원격으로 로그인 기기 관리한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211160007</link>
+            <guid>https://www.bloter.net/newsView/blt202211160007</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 10:04:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160013.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브 쇼츠, 수익성 개선 위해 쇼핑 기능 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202211160006</link>
+            <guid>https://www.bloter.net/newsView/blt202211160006</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 09:17:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160012.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 아이폰14 '인공위성 긴급 SOS’ 서비스 美 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202211160005</link>
+            <guid>https://www.bloter.net/newsView/blt202211160005</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 08:16:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160011.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX서 온 '이주민' 받아라…가상자산거래소 '새단장' 박차]]></title>
+            <link>https://www.bloter.net/newsView/blt202211150015</link>
+            <guid>https://www.bloter.net/newsView/blt202211150015</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-15 20:47:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150039.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외주식에 힘준 토스증권 실적, 중소형 증권사 거의 따라잡았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211150011</link>
+            <guid>https://www.bloter.net/newsView/blt202211150011</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-15 16:43:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150042.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['단일 로그인' 전환하는 업비트, 애플보다 신뢰 얻을 수 있을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211150006</link>
+            <guid>https://www.bloter.net/newsView/blt202211150006</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-15 16:28:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
