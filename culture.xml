@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 22:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 23:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170003</link>
+            <guid>https://www.bloter.net/newsView/blt202211170003</guid>
+            <pubDate>Wed, 16 Nov 2022 23:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[트위터의 새로운 최고경영자(CEO) 일론 머스크가 정리해고에서 살아남은 직원들에게 고강도로 장시간 일하고 싶지 않다면 회사를 떠나라고 최후통첩을 보냈다.    16일(현지시간) &lt;워싱턴포스트(WP)&gt;에 따르면 머스크는 사내 이메일을 통해 “경쟁이 점점 더 치]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]올해 게임대상은 '던전앤파이터 모바일'…다관왕 속 '낭중지추']]></title>
             <link>https://www.bloter.net/newsView/blt202211160022</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크가 인수한 트위터가 최근 정규직 절반을 감원한데 이어 글로벌에서 일하는 수천명의 계약직을 해고한 것으로 확인됐다.  13일(이하 현지시간) IT전문매체 &lt;플랫포머&gt;의 케이시 뉴튼 기자는 트위터가 전날부터 계약직 감원에 나섰으며 총 4400명이 해고]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이노션, 남은 과제는]②현기차 의존도 여전…'단기 전략' 어디에]]></title>
-            <link>https://www.bloter.net/newsView/blt202211080021</link>
-            <guid>https://www.bloter.net/newsView/blt202211080021</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[현대자동차그룹 광고대행 계열사 '이노션'의 계열사 의존도가 70% 수준에 달하며, 대규모 전시회 등 빅 이벤트에 따라 실적이 좌우되고 있다는 평가다. 이노션이 비계열사 물량을 늘려 계열사 의존도를 해소하는 방법이 있지만, 대부분의 신사업 계획이 현대기아차]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/08/blt202211080025.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
