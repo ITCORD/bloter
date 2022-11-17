@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 04:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 05:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타]'대항해시대 오리진', 게임대상 4관왕…IP 저력 빛났다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170013</link>
+            <guid>https://www.bloter.net/newsView/blt202211170013</guid>
+            <pubDate>Thu, 17 Nov 2022 05:18:18 GMT</pubDate>
+            <content:encoded><![CDATA['모티프'와 '코에이테크모게임스'가 공동 개발하고 '라인게임즈'가 서비스하는 '대항해시대 오리진'이 대한민국 게임대상에서 4관왕을 차지했다. 대항해시대 오리진은 비록 '대상'은 아니지만 '최우수상'을 포함해 4개 부문에서 수상하며, 올해 게임대상 기준 단일]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]벡스코 뒤덮은 관객들…안전·흥행 다 잡을까]]></title>
             <link>https://www.bloter.net/newsView/blt202211170009</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
             <content:encoded><![CDATA[패션 브랜드 ‘널디’, 뷰티 브랜드 ‘메디큐브’ 등을 성공시킨 에이피알이 기업공개(IPO)에 착수한다. ‘비 플랫폼’ 출신 스타트업임에도 조 단위의 ‘유니콘’ 기업가치를 평가받을 수 있을지 주목된다.  에이피알은 14일 2022년 3분기 실]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["TV없어도 월드컵 본다"…네이버·아프리카TV, 온라인 중계권 확보]]></title>
-            <link>https://www.bloter.net/newsView/blt202211140013</link>
-            <guid>https://www.bloter.net/newsView/blt202211140013</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[네이버와 아프리카TV가 '2022 FIFA 카타르 월드컵' 온라인 생중계권을 확보했다. 이를 통해 TV 없이 온라인 채널에서도 월드컵 전 경기를 실시간 감상할 수 있게 됐다.14일 아프리카TV는 "카타르 월드컵 기간 동안 대한민국 대표팀 경기 일정에 맞춰 국가대표 출신 선수들]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
