@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[달로 향하는 아르테미스 우주선, 지구 모습 담은 셀카 보냈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170006</link>
-            <guid>https://www.bloter.net/newsView/blt202211170006</guid>
-            <pubDate>Thu, 17 Nov 2022 01:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:54:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170009.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[9.3조 투자하는 에쓰오일, 보유 현금 8000억...사우디 아람코 지원 나설 듯]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170007</link>
+            <guid>https://www.bloter.net/newsView/blt202211170007</guid>
+            <pubDate>Thu, 17 Nov 2022 04:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-17 12:56:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170013.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NASA, 유인 달 탐사 ‘아르테미스 1호’ 이르면 23일 발사]]></title>
-            <link>https://www.bloter.net/newsView/blt202209090004</link>
-            <guid>https://www.bloter.net/newsView/blt202209090004</guid>
-            <pubDate>Thu, 17 Nov 2022 01:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[에쓰오일, 고유가 잭팟…'7조 규모' 샤힌 프로젝트 힘받나]]></title>
+            <link>https://www.bloter.net/newsView/blt202207280008</link>
+            <guid>https://www.bloter.net/newsView/blt202207280008</guid>
+            <pubDate>Thu, 17 Nov 2022 04:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['50년만의 달탐사' 美 아르테미스 1호, 엔진 문제로 발사 연기]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300001</link>
-            <guid>https://www.bloter.net/newsView/blt202208300001</guid>
-            <pubDate>Thu, 17 Nov 2022 01:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[에쓰오일과 수소 사업 협력 맺은 삼성물산...빅픽처는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202109220001</link>
+            <guid>https://www.bloter.net/newsView/blt202109220001</guid>
+            <pubDate>Thu, 17 Nov 2022 04:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인류, 달로 복귀하다…韓 참여 ‘아르테미스 계획’ 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202208280013</link>
-            <guid>https://www.bloter.net/newsView/blt202208280013</guid>
-            <pubDate>Thu, 17 Nov 2022 01:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NASA, 유인 달 탐사 때 쓸 ‘초강력’ 로켓 최종 점검…6월 발사?]]></title>
-            <link>https://www.bloter.net/newsView/blt202206070010</link>
-            <guid>https://www.bloter.net/newsView/blt202206070010</guid>
-            <pubDate>Thu, 17 Nov 2022 01:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[에쓰오일도 ‘수소사업’ 올라탔다]]></title>
+            <link>https://www.bloter.net/newsView/blt202103070005</link>
+            <guid>https://www.bloter.net/newsView/blt202103070005</guid>
+            <pubDate>Thu, 17 Nov 2022 04:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

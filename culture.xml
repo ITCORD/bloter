@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타]벡스코 뒤덮은 관객들…안전·흥행 다 잡을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170009</link>
+            <guid>https://www.bloter.net/newsView/blt202211170009</guid>
+            <pubDate>Thu, 17 Nov 2022 04:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[국제게임전시회 '지스타 2022'가 17일 오전을 기해 본격적으로 관람객을 맞아들였다. 이번 지스타는 3년 만에 정상 운영되는 만큼, 역대 최다 관객이 예상된다.  안전 또 안전, 분산 관리로 인원 몰림 해소 실제로 지스타 입장을 기다렸던 관람객들은 일찌감치 벡스코]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170015.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라”]]></title>
             <link>https://www.bloter.net/newsView/blt202211170003</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
             <content:encoded><![CDATA[네이버와 아프리카TV가 '2022 FIFA 카타르 월드컵' 온라인 생중계권을 확보했다. 이를 통해 TV 없이 온라인 채널에서도 월드컵 전 경기를 실시간 감상할 수 있게 됐다.14일 아프리카TV는 "카타르 월드컵 기간 동안 대한민국 대표팀 경기 일정에 맞춰 국가대표 출신 선수들]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 트위터 계약직도 수천명 해고 "시스템 차단으로 해고 사실 알아"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211140003</link>
-            <guid>https://www.bloter.net/newsView/blt202211140003</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크가 인수한 트위터가 최근 정규직 절반을 감원한데 이어 글로벌에서 일하는 수천명의 계약직을 해고한 것으로 확인됐다.  13일(이하 현지시간) IT전문매체 &lt;플랫포머&gt;의 케이시 뉴튼 기자는 트위터가 전날부터 계약직 감원에 나섰으며 총 4400명이 해고]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앱 출시한 '제이스톡 비상장', 매물 등록 이벤트 연다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170008</link>
+            <guid>https://www.bloter.net/newsView/blt202211170008</guid>
+            <pubDate>Thu, 17 Nov 2022 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-17 13:02:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170018.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여기는 지스타]벡스코 뒤덮은 관객들…안전·흥행 다 잡을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170009</link>
+            <guid>https://www.bloter.net/newsView/blt202211170009</guid>
+            <pubDate>Thu, 17 Nov 2022 04:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-17 12:27:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170015.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달로 향하는 아르테미스 우주선, 지구 모습 담은 셀카 보냈다]]></title>
             <link>https://www.bloter.net/newsView/blt202211170006</link>
             <guid>https://www.bloter.net/newsView/blt202211170006</guid>
             <pubDate>Thu, 17 Nov 2022 01:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:54:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170009.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170009.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 내년 2월 ‘MLS 시즌 패스’ 출시…美프로축구 독점 생중계]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 09:17:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160012.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 지스타]벡스코 3층까지 B2C관…"P의 거짓·원신도 잊지마세요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160001</link>
-            <guid>https://www.bloter.net/newsView/blt202211160001</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-16 08:49:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 지스타]'게임사업 본격화' 하이브…방시혁에 쏠리는 눈]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160004</link>
-            <guid>https://www.bloter.net/newsView/blt202211160004</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-16 08:47:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
