@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 23:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 01:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코빗, 국내 최초 거래소 보유 가상자산 내역 공개 '파격 결정']]></title>
+            <link>https://www.bloter.net/newsView/blt202211160012</link>
+            <guid>https://www.bloter.net/newsView/blt202211160012</guid>
+            <pubDate>Thu, 17 Nov 2022 01:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-16 13:24:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보 판매 논란겪은 토스, '데이터보호 준법 자문위원회' 출범]]></title>
+            <link>https://www.bloter.net/newsView/blt202211160011</link>
+            <guid>https://www.bloter.net/newsView/blt202211160011</guid>
+            <pubDate>Thu, 17 Nov 2022 01:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-16 13:22:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박정원 두산 회장, "신규 원전 프로젝트 만반의 준비하라"]]></title>
             <link>https://www.bloter.net/newsView/blt202211160009</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 08:16:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160011.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[FTX서 온 '이주민' 받아라…가상자산거래소 '새단장' 박차]]></title>
-            <link>https://www.bloter.net/newsView/blt202211150015</link>
-            <guid>https://www.bloter.net/newsView/blt202211150015</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-15 20:47:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150039.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외주식에 힘준 토스증권 실적, 중소형 증권사 거의 따라잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211150011</link>
-            <guid>https://www.bloter.net/newsView/blt202211150011</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-15 16:43:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150042.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
