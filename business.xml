@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170003</link>
+            <guid>https://www.bloter.net/newsView/blt202211170003</guid>
+            <pubDate>Thu, 17 Nov 2022 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 08:14:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["가상자산 규제국 아니었어?"…FTX 사태에 중국계 영향력 '더 커졌다']]></title>
             <link>https://www.bloter.net/newsView/blt202211160018</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 10:04:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160013.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 쇼츠, 수익성 개선 위해 쇼핑 기능 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160006</link>
-            <guid>https://www.bloter.net/newsView/blt202211160006</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 09:17:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160012.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

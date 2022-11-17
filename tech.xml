@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타]1호 입장객 "가장 기대되는 것은 굿즈·게임 시연"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170010</link>
+            <guid>https://www.bloter.net/newsView/blt202211170010</guid>
+            <pubDate>Thu, 17 Nov 2022 07:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-17 15:48:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]'대항해시대 오리진', 게임대상 4관왕…IP 저력 빛났다]]></title>
             <link>https://www.bloter.net/newsView/blt202211170013</link>
             <guid>https://www.bloter.net/newsView/blt202211170013</guid>
             <pubDate>Thu, 17 Nov 2022 05:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-17 14:10:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앱 출시한 '제이스톡 비상장', 매물 등록 이벤트 연다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-16 10:04:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[구광모號 전략 점검]⑤글로벌 제약사 꿈꾸는 LG화학…수익성 창출 ‘과제’]]></title>
-            <link>https://www.bloter.net/newsView/blt202211150009</link>
-            <guid>https://www.bloter.net/newsView/blt202211150009</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-16 09:18:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

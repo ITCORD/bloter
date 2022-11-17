@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타]1호 입장객 "가장 기대되는 것은 굿즈·게임 시연"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170010</link>
+            <guid>https://www.bloter.net/newsView/blt202211170010</guid>
+            <pubDate>Thu, 17 Nov 2022 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA["어제부터 기다렸어요"17일 부산 벡스코에서 개막한 국제게임전시회 '지스타2022' 현장 입장을 위해 줄을 서 있는 관람객 중에서도 첫 번째순서를 차지한 정은수 씨(20대·경주)가 한 말이다.     &lt;블로터&gt;는 이날 오전 10시 진행되는 지스타 2022 개막식이 시작되]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170026.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]'대항해시대 오리진', 게임대상 4관왕…IP 저력 빛났다]]></title>
             <link>https://www.bloter.net/newsView/blt202211170013</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.  공시분석 '시각특수효과(VFX) 및 콘텐츠 전문기업'을 표방하고 있는 '덱스터(DEXTER)'가 15일 '단일판매·공급계약체결' 정정 공시를 냈습니다. 이는 덱스터가 VFX를 공급하기로 한 영화 '원더랜드'에 대한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/15/blt202211150030.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼어붙은 IPO 시장에 ‘패션·뷰티’  강자 뜬다...에이피알, 상장 주관사 선정]]></title>
-            <link>https://www.bloter.net/newsView/blt202211140021</link>
-            <guid>https://www.bloter.net/newsView/blt202211140021</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[패션 브랜드 ‘널디’, 뷰티 브랜드 ‘메디큐브’ 등을 성공시킨 에이피알이 기업공개(IPO)에 착수한다. ‘비 플랫폼’ 출신 스타트업임에도 조 단위의 ‘유니콘’ 기업가치를 평가받을 수 있을지 주목된다.  에이피알은 14일 2022년 3분기 실]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140030.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
