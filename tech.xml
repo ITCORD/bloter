@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 07:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 08:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180011</link>
+            <guid>https://www.bloter.net/newsView/blt202211180011</guid>
+            <pubDate>Fri, 18 Nov 2022 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span><span class="writer">김수민</span>                        <span class="date">2022-11-18 16:58:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180017.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[차세대 사업서 '검수 거부하고 잔금 지급 미룬' 대한건설기계안전관리원…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202211180007</link>
             <guid>https://www.bloter.net/newsView/blt202211180007</guid>
             <pubDate>Fri, 18 Nov 2022 04:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-18 13:01:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아마존, 2023년에도 정리해고 이어나간다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-16 18:58:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 인공지능은 무엇이 다른가…'AI 풀스택' 가치에 쏠리는 눈]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160020</link>
-            <guid>https://www.bloter.net/newsView/blt202211160020</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-16 18:58:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

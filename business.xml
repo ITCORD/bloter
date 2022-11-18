@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 07:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 08:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 2023년에도 정리해고 이어나간다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180003</link>
+            <guid>https://www.bloter.net/newsView/blt202211180003</guid>
+            <pubDate>Fri, 18 Nov 2022 08:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 10:01:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크 비판해 해고당한 스페이스X 직원, 美연방기관에 회사 고발]]></title>
             <link>https://www.bloter.net/newsView/blt202211180002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 18 Nov 2022 01:26:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-17 15:34:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9.3조 투자하는 에쓰오일, 보유 현금 8000억...사우디 아람코 지원 나설 듯]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170007</link>
-            <guid>https://www.bloter.net/newsView/blt202211170007</guid>
-            <pubDate>Thu, 17 Nov 2022 23:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-17 12:56:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
