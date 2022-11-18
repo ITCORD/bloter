@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 21:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 22:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,12 +389,20 @@ DB하이텍이 창사 최대 실적을 바탕으로 역대급 유동성을 확�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[투자?수요? 5G 28㎓, 닭이 먼저인가, 달걀이 먼저인가 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190001</link>
+            <guid>https://www.bloter.net/newsView/blt202211190001</guid>
+            <pubDate>Fri, 18 Nov 2022 22:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-19 07:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넘버스]평판조회 '스펙터' 쓰면 공정한 채용 가능할까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211180016</link>
             <guid>https://www.bloter.net/newsView/blt202211180016</guid>
             <pubDate>Fri, 18 Nov 2022 11:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-18 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 의약품 수출 실적, 백신 업고 고공 행진 (블로터 ─ 테크)]]></title>
@@ -523,14 +531,6 @@ DB하이텍이 창사 최대 실적을 바탕으로 역대급 유동성을 확�
             <pubDate>Thu, 17 Nov 2022 01:22:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:11:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라” (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170003</link>
-            <guid>https://www.bloter.net/newsView/blt202211170003</guid>
-            <pubDate>Wed, 16 Nov 2022 23:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 08:14:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
