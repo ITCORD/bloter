@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 23:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 01:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 2023년에도 정리해고 이어나간다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180003</link>
+            <guid>https://www.bloter.net/newsView/blt202211180003</guid>
+            <pubDate>Fri, 18 Nov 2022 01:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 10:01:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머스크 비판해 해고당한 스페이스X 직원, 美연방기관에 회사 고발]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180002</link>
+            <guid>https://www.bloter.net/newsView/blt202211180002</guid>
+            <pubDate>Fri, 18 Nov 2022 01:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 09:17:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180002.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[FTX 새 CEO “40년 구조조정 경험 중 이런 실패는 처음”]]></title>
             <link>https://www.bloter.net/newsView/blt202211180001</link>
             <guid>https://www.bloter.net/newsView/blt202211180001</guid>
             <pubDate>Thu, 17 Nov 2022 23:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 08:13:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]일동홀딩스, 출범 이후 첫 CB 발행 이유는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-16 18:29:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["가상자산 규제국 아니었어?"…FTX 사태에 중국계 영향력 '더 커졌다']]></title>
-            <link>https://www.bloter.net/newsView/blt202211160018</link>
-            <guid>https://www.bloter.net/newsView/blt202211160018</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-16 18:17:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코가 '웹엑스 경쟁자' MS와 손 잡은 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160016</link>
-            <guid>https://www.bloter.net/newsView/blt202211160016</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-16 16:26:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160024.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
