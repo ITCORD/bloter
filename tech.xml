@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 08:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 09:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 의약품 수출 실적, 백신 업고 고공 행진]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180010</link>
+            <guid>https://www.bloter.net/newsView/blt202211180010</guid>
+            <pubDate>Fri, 18 Nov 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-18 17:43:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’]]></title>
             <link>https://www.bloter.net/newsView/blt202211180011</link>
             <guid>https://www.bloter.net/newsView/blt202211180011</guid>
             <pubDate>Fri, 18 Nov 2022 08:22:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span><span class="writer">김수민</span>                        <span class="date">2022-11-18 16:58:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180017.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180017.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[차세대 사업서 '검수 거부하고 잔금 지급 미룬' 대한건설기계안전관리원…왜?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-16 19:07:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160039.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1조원 현금 모은 SK스퀘어…투자는 어디로?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160019</link>
-            <guid>https://www.bloter.net/newsView/blt202211160019</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-16 18:58:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160034.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
