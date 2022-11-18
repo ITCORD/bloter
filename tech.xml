@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 10:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 11:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]평판조회 '스펙터' 쓰면 공정한 채용 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180016</link>
+            <guid>https://www.bloter.net/newsView/blt202211180016</guid>
+            <pubDate>Fri, 18 Nov 2022 11:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-18 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 의약품 수출 실적, 백신 업고 고공 행진]]></title>
             <link>https://www.bloter.net/newsView/blt202211180010</link>
             <guid>https://www.bloter.net/newsView/blt202211180010</guid>
             <pubDate>Fri, 18 Nov 2022 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-18 17:43:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 16 Nov 2022 23:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 08:14:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]올해 게임대상은 '던전앤파이터 모바일'…다관왕 속 '낭중지추']]></title>
-            <link>https://www.bloter.net/newsView/blt202211160022</link>
-            <guid>https://www.bloter.net/newsView/blt202211160022</guid>
-            <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-16 19:07:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
