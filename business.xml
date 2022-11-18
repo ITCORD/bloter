@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 01:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 03:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['창사 첫 적자' 유력한 롯데케미칼...불황기 대형투자 부담 커]]></title>
+            <link>https://www.bloter.net/newsView/blt202211170017</link>
+            <guid>https://www.bloter.net/newsView/blt202211170017</guid>
+            <pubDate>Fri, 18 Nov 2022 03:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-18 06:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[⑥LG 사장단 인사, '변화보다 안정'에 무게]]></title>
             <link>https://www.bloter.net/newsView/blt202211170020</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 17 Nov 2022 10:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:11:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라”]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170003</link>
-            <guid>https://www.bloter.net/newsView/blt202211170003</guid>
-            <pubDate>Thu, 17 Nov 2022 07:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 08:14:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
