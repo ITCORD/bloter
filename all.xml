@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,40 +301,56 @@ SK스퀘어의 3분기 연결기준 실적은 2분기보다 뒷걸음질쳤다. 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160020.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이병철 삼성 창업회장 35주기…이재용·이재현 등 선영 참배 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180008</link>
-            <guid>https://www.bloter.net/newsView/blt202211180008</guid>
-            <pubDate>Fri, 18 Nov 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-18 13:44:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180010.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[JP모건 "미국 투자자 '런'하는 중국 시장, 우리는 밝게 본다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180006</link>
+            <guid>https://www.bloter.net/newsView/blt202211180006</guid>
+            <pubDate>Fri, 18 Nov 2022 06:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-18 14:25:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180005.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반도체 설계 역량 필요한 삼성전자, 과연 ARM 품을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211120005</link>
-            <guid>https://www.bloter.net/newsView/blt202211120005</guid>
-            <pubDate>Fri, 18 Nov 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[해외주식에 힘준 토스증권 실적, 중소형 증권사 거의 따라잡았다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211150011</link>
+            <guid>https://www.bloter.net/newsView/blt202211150011</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ARM 출신 삼성 부사장의 구인공고에 업계가 술렁이는 이유는? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211110012</link>
-            <guid>https://www.bloter.net/newsView/blt202211110012</guid>
-            <pubDate>Fri, 18 Nov 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['상테크' 막힌 뒤 투자상품권 내놓은 신한투자증권…뒷북 전략? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211070005</link>
+            <guid>https://www.bloter.net/newsView/blt202211070005</guid>
+            <pubDate>Fri, 18 Nov 2022 06:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이사회 보강한 삼성전자…이재용 등기이사 복귀 임박? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211070011</link>
-            <guid>https://www.bloter.net/newsView/blt202211070011</guid>
-            <pubDate>Fri, 18 Nov 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["금융 부문이 한화그룹의 구심점"...김승연 회장의 약속 '현실이 됐다' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202210050004</link>
+            <guid>https://www.bloter.net/newsView/blt202210050004</guid>
+            <pubDate>Fri, 18 Nov 2022 06:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 세계 최고 용량 8세대 V낸드 양산…‘전장’ 시장 공략 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211070007</link>
-            <guid>https://www.bloter.net/newsView/blt202211070007</guid>
-            <pubDate>Fri, 18 Nov 2022 05:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[M&A '각' 잘 보는 한화…대형 보험대리점 '피플라이프' 인수한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202209290020</link>
+            <guid>https://www.bloter.net/newsView/blt202209290020</guid>
+            <pubDate>Fri, 18 Nov 2022 06:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[머스크 비판해 해고당한 스페이스X 직원, 美연방기관에 회사 고발 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180002</link>
+            <guid>https://www.bloter.net/newsView/blt202211180002</guid>
+            <pubDate>Fri, 18 Nov 2022 01:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 09:17:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX 새 CEO “40년 구조조정 경험 중 이런 실패는 처음” (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180001</link>
+            <guid>https://www.bloter.net/newsView/blt202211180001</guid>
+            <pubDate>Thu, 17 Nov 2022 23:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 08:13:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180001.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['창사 첫 적자' 유력한 롯데케미칼...불황기 대형투자 부담 커 (블로터 ─ 비즈니스)]]></title>
@@ -367,22 +383,6 @@ SK스퀘어의 3분기 연결기준 실적은 2분기보다 뒷걸음질쳤다. 
             <pubDate>Thu, 17 Nov 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-17 12:56:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달로 향하는 아르테미스 우주선, 지구 모습 담은 셀카 보냈다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170006</link>
-            <guid>https://www.bloter.net/newsView/blt202211170006</guid>
-            <pubDate>Thu, 17 Nov 2022 01:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:54:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170009.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 내년 2월 ‘MLS 시즌 패스’ 출시…美프로축구 독점 생중계 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170005</link>
-            <guid>https://www.bloter.net/newsView/blt202211170005</guid>
-            <pubDate>Thu, 17 Nov 2022 01:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:11:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>

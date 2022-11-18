@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 05:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 06:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 비판해 해고당한 스페이스X 직원, 美연방기관에 회사 고발]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180002</link>
+            <guid>https://www.bloter.net/newsView/blt202211180002</guid>
+            <pubDate>Fri, 18 Nov 2022 06:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 09:17:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX 새 CEO “40년 구조조정 경험 중 이런 실패는 처음”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180001</link>
+            <guid>https://www.bloter.net/newsView/blt202211180001</guid>
+            <pubDate>Fri, 18 Nov 2022 06:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 08:13:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['창사 첫 적자' 유력한 롯데케미칼...불황기 대형투자 부담 커]]></title>
             <link>https://www.bloter.net/newsView/blt202211170017</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 17 Nov 2022 23:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-17 12:56:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달로 향하는 아르테미스 우주선, 지구 모습 담은 셀카 보냈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170006</link>
-            <guid>https://www.bloter.net/newsView/blt202211170006</guid>
-            <pubDate>Thu, 17 Nov 2022 21:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:54:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170009.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 내년 2월 ‘MLS 시즌 패스’ 출시…美프로축구 독점 생중계]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170005</link>
-            <guid>https://www.bloter.net/newsView/blt202211170005</guid>
-            <pubDate>Thu, 17 Nov 2022 10:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:11:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
