@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 21:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 22:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,40 +331,48 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180018</link>
-            <guid>https://www.bloter.net/newsView/blt202211180018</guid>
-            <pubDate>Sat, 19 Nov 2022 05:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[KT 업고도…케이뱅크, 재해 복구·클라우드 전환 모두 '낫 오케이' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190004</link>
+            <guid>https://www.bloter.net/newsView/blt202211190004</guid>
+            <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-20 07:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190003.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170003</link>
-            <guid>https://www.bloter.net/newsView/blt202211170003</guid>
-            <pubDate>Wed, 16 Nov 2022 23:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’ (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180011</link>
+            <guid>https://www.bloter.net/newsView/blt202211180011</guid>
+            <pubDate>Fri, 18 Nov 2022 08:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span><span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[머스크, 트위터 계약직도 수천명 해고 "시스템 차단으로 해고 사실 알아" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211140003</link>
-            <guid>https://www.bloter.net/newsView/blt202211140003</guid>
-            <pubDate>Sat, 19 Nov 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['단일 로그인' 전환하는 업비트, 애플보다 신뢰 얻을 수 있을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211150006</link>
+            <guid>https://www.bloter.net/newsView/blt202211150006</guid>
+            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美 반독점 당국, “머스크가 이끄는 트위터에 깊은 우려” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211110004</link>
-            <guid>https://www.bloter.net/newsView/blt202211110004</guid>
-            <pubDate>Sat, 19 Nov 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[케이뱅크, 기민한 금리전략에 3분기 최대 실적…IPO '청신호' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211070008</link>
+            <guid>https://www.bloter.net/newsView/blt202211070008</guid>
+            <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[머스크, 트위터 '해고 칼춤' 추더니...일부 직원에게 복귀 요청 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211070001</link>
-            <guid>https://www.bloter.net/newsView/blt202211070001</guid>
-            <pubDate>Sat, 19 Nov 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[케이뱅크는 카카오뱅크와 '같지만 다른 은행' 될 수 있을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202210260009</link>
+            <guid>https://www.bloter.net/newsView/blt202210260009</guid>
+            <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원재료 가격 부담에…대상, 영업현금 550억 적자 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180013</link>
+            <guid>https://www.bloter.net/newsView/blt202211180013</guid>
+            <pubDate>Fri, 18 Nov 2022 08:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-18 16:28:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JP모건 "미국 투자자 '런'하는 중국 시장, 우리는 밝게 본다" (블로터 ─ 비즈니스)]]></title>
@@ -407,14 +415,6 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180002.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[FTX 새 CEO “40년 구조조정 경험 중 이런 실패는 처음” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180001</link>
-            <guid>https://www.bloter.net/newsView/blt202211180001</guid>
-            <pubDate>Thu, 17 Nov 2022 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 08:13:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -451,12 +451,20 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[KT 업고도…케이뱅크, 재해 복구·클라우드 전환 모두 '낫 오케이' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190004</link>
+            <guid>https://www.bloter.net/newsView/blt202211190004</guid>
+            <pubDate>Sat, 19 Nov 2022 22:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-20 07:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211190003</link>
             <guid>https://www.bloter.net/newsView/blt202211190003</guid>
             <pubDate>Sat, 19 Nov 2022 08:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-19 16:39:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜? (블로터 ─ 테크)]]></title>
@@ -585,14 +593,6 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <pubDate>Thu, 17 Nov 2022 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-17 15:48:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]'대항해시대 오리진', 게임대상 4관왕…IP 저력 빛났다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170013</link>
-            <guid>https://www.bloter.net/newsView/blt202211170013</guid>
-            <pubDate>Thu, 17 Nov 2022 05:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-17 14:10:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
