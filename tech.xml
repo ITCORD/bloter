@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 01:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 03:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엇갈린 실적에 우는 타겟과 웃는 월마트…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180019</link>
+            <guid>https://www.bloter.net/newsView/blt202211180019</guid>
+            <pubDate>Sat, 19 Nov 2022 03:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180037.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[꼭 1등이 최고? 사내 메신저, 슬랙 대신 두레이는 어떨까]]></title>
             <link>https://www.bloter.net/newsView/blt202211140023</link>
             <guid>https://www.bloter.net/newsView/blt202211140023</guid>
             <pubDate>Sat, 19 Nov 2022 01:26:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-19 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140034.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/14/blt202211140034.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자?수요? 5G 28㎓, 닭이 먼저인가, 달걀이 먼저인가]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 17 Nov 2022 04:22:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-17 12:27:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달로 향하는 아르테미스 우주선, 지구 모습 담은 셀카 보냈다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170006</link>
-            <guid>https://www.bloter.net/newsView/blt202211170006</guid>
-            <pubDate>Thu, 17 Nov 2022 01:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-17 09:54:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170009.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

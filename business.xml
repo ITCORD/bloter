@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 01:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 03:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병철 삼성 창업회장 35주기…이재용·이재현 등 선영 참배]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180008</link>
+            <guid>https://www.bloter.net/newsView/blt202211180008</guid>
+            <pubDate>Sat, 19 Nov 2022 03:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-18 13:44:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180010.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘야구단 우승 NFT로 박제’…SSG닷컴, 한정판 NFT 단독 판매]]></title>
             <link>https://www.bloter.net/newsView/blt202211180005</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 18 Nov 2022 03:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-18 06:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[⑥LG 사장단 인사, '변화보다 안정'에 무게]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170020</link>
-            <guid>https://www.bloter.net/newsView/blt202211170020</guid>
-            <pubDate>Fri, 18 Nov 2022 01:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">구태우</span><span class="writer">김수민</span>                        <span class="date">2022-11-17 18:24:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170038.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
