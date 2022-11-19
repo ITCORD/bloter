@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 07:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 08:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -403,12 +403,20 @@ DB하이텍이 창사 최대 실적을 바탕으로 역대급 유동성을 확�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190003</link>
+            <guid>https://www.bloter.net/newsView/blt202211190003</guid>
+            <pubDate>Sat, 19 Nov 2022 08:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-19 16:39:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211180018</link>
             <guid>https://www.bloter.net/newsView/blt202211180018</guid>
             <pubDate>Sat, 19 Nov 2022 05:14:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엇갈린 실적에 우는 타겟과 웃는 월마트…왜? (블로터 ─ 테크)]]></title>
@@ -537,14 +545,6 @@ DB하이텍이 창사 최대 실적을 바탕으로 역대급 유동성을 확�
             <pubDate>Thu, 17 Nov 2022 05:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-17 14:10:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앱 출시한 '제이스톡 비상장', 매물 등록 이벤트 연다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170008</link>
-            <guid>https://www.bloter.net/newsView/blt202211170008</guid>
-            <pubDate>Thu, 17 Nov 2022 04:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-17 13:02:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -822,6 +822,14 @@ DB하이텍이 창사 최대 실적을 바탕으로 역대급 유동성을 확�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/10/blt202211100020.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190003</link>
+            <guid>https://www.bloter.net/newsView/blt202211190003</guid>
+            <pubDate>Sat, 19 Nov 2022 08:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[하이브가 '별이되어라2: 베다의 기사들(이하 별이되어라2)'로 게임 퍼블리싱(서비스)사업을 본격화한다. 방탄소년단(BTS)을 출범시키며 성공 신화를 썼던 방시혁 의장의 사업철학이 게임 분야에서도 통할 수 있을 지 주목된다.19일 방시혁 하이브 의장은 '지스타 2022']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜? (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202211180018</link>
             <guid>https://www.bloter.net/newsView/blt202211180018</guid>
@@ -908,14 +916,6 @@ DB하이텍이 창사 최대 실적을 바탕으로 역대급 유동성을 확�
             <pubDate>Wed, 16 Nov 2022 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[국제게임전시회 '지스타2022'에서 일반 관람객을 대상으로 한 BTC 전시관이 부산 벡스코 제 1전시관뿐만 아니라 3층 제 2전시관으로까지 가득찰 예정이다. 코로나19 팬데믹 이후 3년 만에 열리며 역대 최대 규모로 개최되기 때문이다. 제 2전시관에는 올해 글로벌 게임]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 지스타]'게임사업 본격화' 하이브…방시혁에 쏠리는 눈 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160004</link>
-            <guid>https://www.bloter.net/newsView/blt202211160004</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[엔터 플랫폼 기업 '하이브'가 17~20일 부산 벡스코에서 개최되는 국제게임전시회 '지스타 2022'에서 게임 사업 청사진을 선보이며 출사표를 던진다. 하이브는 개발 자회사 '하이브아이엠(IM)'을 통해 외부 퍼블리싱 등 신규 사업을 진행하는 등 게임을 주요 사업으로 키]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]ENA, '연애에 진심인 편→보라데보라'…타이틀 바꾼다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

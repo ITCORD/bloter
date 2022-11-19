@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 07:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 08:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190003</link>
+            <guid>https://www.bloter.net/newsView/blt202211190003</guid>
+            <pubDate>Sat, 19 Nov 2022 08:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-19 16:39:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202211180018</link>
             <guid>https://www.bloter.net/newsView/blt202211180018</guid>
             <pubDate>Sat, 19 Nov 2022 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엇갈린 실적에 우는 타겟과 웃는 월마트…왜?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 17 Nov 2022 05:17:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-17 14:10:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앱 출시한 '제이스톡 비상장', 매물 등록 이벤트 연다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170008</link>
-            <guid>https://www.bloter.net/newsView/blt202211170008</guid>
-            <pubDate>Thu, 17 Nov 2022 04:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-17 13:02:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
