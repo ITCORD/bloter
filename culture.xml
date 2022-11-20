@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 04:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 05:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美청소년 “SNS, 친구 관계에 도움 되지만 감정 소모 유발”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180017</link>
+            <guid>https://www.bloter.net/newsView/blt202211180017</guid>
+            <pubDate>Sun, 20 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국 청소년들이 소셜미디어(SNS)가 친구 관계를 유지하는 데 도움이 되는 한편 감정 소모를 유발한다고 생각한다는 설문조사 결과가 나왔다. 또 SNS가 청소년의 정신건강에 부정적인 영향을 미칠 수 있다는 우려가 제기되고 있지만 정작 10대 본인들은 SNS가 자신에게]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180030.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202211190003</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
             <content:encoded><![CDATA[북미 서비스를 시작한 국내 MMORPG '서머너즈 워: 크로니클(이하 크로니클)'이 현지 이용층의 긍정적 반응을 이끌어내고 있다. 컴투스는 크로니클을 통해 서비스 지역을 확대하는 한편 서구권 시장에서 유의미한 성과를 거둘 것으로 기대하는 모습이다.16일 컴투스에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160015.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 지스타]벡스코 3층까지 B2C관…"P의 거짓·원신도 잊지마세요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160001</link>
-            <guid>https://www.bloter.net/newsView/blt202211160001</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[국제게임전시회 '지스타2022'에서 일반 관람객을 대상으로 한 BTC 전시관이 부산 벡스코 제 1전시관뿐만 아니라 3층 제 2전시관으로까지 가득찰 예정이다. 코로나19 팬데믹 이후 3년 만에 열리며 역대 최대 규모로 개최되기 때문이다. 제 2전시관에는 올해 글로벌 게임]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
