@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 11:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 12:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타]2연속 참가 '니케'의 금의환향, 올해는 무엇이 달랐을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211200004</link>
+            <guid>https://www.bloter.net/newsView/blt202211200004</guid>
+            <pubDate>Sun, 20 Nov 2022 12:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[시프트업이 개발하고 레벨 인피니트가 서비스하는 미소녀 건슈팅 액션  모바일 게임 '승리의 여신: 니케(이하 니케)'가 지난해에 이어 올해까지 2연속 국제게임전시회 지스타에 참가했다. 지난해 개발사 시프트업의 김형태 대표까지 나서 출시 막바지 홍보를 진행한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200018.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타] '나 혼자만 레벨업', 넷마블 귀환의 '복병'될까]]></title>
             <link>https://www.bloter.net/newsView/blt202211200003</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 23:19:07 GMT</pubDate>
             <content:encoded><![CDATA[트위터의 새로운 최고경영자(CEO) 일론 머스크가 정리해고에서 살아남은 직원들에게 고강도로 장시간 일하고 싶지 않다면 회사를 떠나라고 최후통첩을 보냈다.    16일(현지시간) &lt;워싱턴포스트(WP)&gt;에 따르면 머스크는 사내 이메일을 통해 “경쟁이 점점 더 치]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]올해 게임대상은 '던전앤파이터 모바일'…다관왕 속 '낭중지추']]></title>
-            <link>https://www.bloter.net/newsView/blt202211160022</link>
-            <guid>https://www.bloter.net/newsView/blt202211160022</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[네오플이 개발한 벨트스크롤 액션 모바일 게임 '던전앤파이터 모바일'이 올해를 빛낸 최고의 게임에 선정됐다. 이날 4관왕, 3관왕 등 '다관왕' 게임이 다수 배출된 상황에서 던전앤파이터는 단 한 번의 수상으로 대상의 영예를 안았다.   16일 부산 벡스코에서 열린 '20]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160039.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
