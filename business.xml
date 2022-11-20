@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 05:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 06:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180018</link>
+            <guid>https://www.bloter.net/newsView/blt202211180018</guid>
+            <pubDate>Sun, 20 Nov 2022 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[엇갈린 실적에 우는 타겟과 웃는 월마트…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202211180019</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 19 Nov 2022 03:09:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-18 13:44:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180010.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘야구단 우승 NFT로 박제’…SSG닷컴, 한정판 NFT 단독 판매]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180005</link>
-            <guid>https://www.bloter.net/newsView/blt202211180005</guid>
-            <pubDate>Fri, 18 Nov 2022 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-18 10:44:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
