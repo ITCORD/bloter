@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 07:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 08:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카뱅 이어 케뱅도 전산장애, 인뱅 전체 IT 투자 필요성]]></title>
+            <link>https://www.bloter.net/newsView/blt202211190004</link>
+            <guid>https://www.bloter.net/newsView/blt202211190004</guid>
+            <pubDate>Sun, 20 Nov 2022 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-20 07:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202211180018</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 19 Nov 2022 05:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-18 14:25:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이병철 삼성 창업회장 35주기…이재용·이재현 등 선영 참배]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180008</link>
-            <guid>https://www.bloter.net/newsView/blt202211180008</guid>
-            <pubDate>Sat, 19 Nov 2022 03:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-18 13:44:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180010.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
