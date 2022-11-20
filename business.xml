@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 01:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 03:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코케미칼·GM 합작사의 특이한 지분구조...'85대 15' 이례적 사례]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180012</link>
+            <guid>https://www.bloter.net/newsView/blt202211180012</guid>
+            <pubDate>Sun, 20 Nov 2022 03:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-18 17:41:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180023.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[원재료 가격 부담에…대상, 영업현금 550억 적자]]></title>
             <link>https://www.bloter.net/newsView/blt202211180013</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 18 Nov 2022 08:21:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 10:01:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크 비판해 해고당한 스페이스X 직원, 美연방기관에 회사 고발]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180002</link>
-            <guid>https://www.bloter.net/newsView/blt202211180002</guid>
-            <pubDate>Fri, 18 Nov 2022 06:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 09:17:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

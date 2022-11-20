@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 01:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 03:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,40 +331,48 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT 업고도…케이뱅크, 재해 복구·클라우드 전환 모두 '낫 오케이' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211190004</link>
-            <guid>https://www.bloter.net/newsView/blt202211190004</guid>
-            <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-20 07:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['바이오' 투자 늘리는 오리온그룹, 추가 ‘신사업’ 이어질까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180009</link>
+            <guid>https://www.bloter.net/newsView/blt202211180009</guid>
+            <pubDate>Sun, 20 Nov 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-20 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180011.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’ (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180011</link>
-            <guid>https://www.bloter.net/newsView/blt202211180011</guid>
-            <pubDate>Fri, 18 Nov 2022 08:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span><span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['투자유치 무산' 오리온그룹, 멀어진 쇼박스 신사업 확장의 꿈 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202210040005</link>
+            <guid>https://www.bloter.net/newsView/blt202210040005</guid>
+            <pubDate>Sun, 20 Nov 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['단일 로그인' 전환하는 업비트, 애플보다 신뢰 얻을 수 있을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211150006</link>
-            <guid>https://www.bloter.net/newsView/blt202211150006</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[오리온 베트남 시장, 심상치 않은 성장세 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202209210012</link>
+            <guid>https://www.bloter.net/newsView/blt202209210012</guid>
+            <pubDate>Sun, 20 Nov 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케이뱅크, 기민한 금리전략에 3분기 최대 실적…IPO '청신호' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211070008</link>
-            <guid>https://www.bloter.net/newsView/blt202211070008</guid>
-            <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[9년만 가격 올리는 오리온…’넘사벽’ 수익성 지킨다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202209130007</link>
+            <guid>https://www.bloter.net/newsView/blt202209130007</guid>
+            <pubDate>Sun, 20 Nov 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[케이뱅크는 카카오뱅크와 '같지만 다른 은행' 될 수 있을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202210260009</link>
-            <guid>https://www.bloter.net/newsView/blt202210260009</guid>
-            <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[실적 대박 오리온의 고민…1조 육박 현금 어디에 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180018</link>
+            <guid>https://www.bloter.net/newsView/blt202208180018</guid>
+            <pubDate>Sun, 20 Nov 2022 03:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[포스코케미칼·GM 합작사의 특이한 지분구조...'85대 15' 이례적 사례 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180012</link>
+            <guid>https://www.bloter.net/newsView/blt202211180012</guid>
+            <pubDate>Fri, 18 Nov 2022 09:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-18 17:41:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180023.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[원재료 가격 부담에…대상, 영업현금 550억 적자 (블로터 ─ 비즈니스)]]></title>
@@ -407,14 +415,6 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[머스크 비판해 해고당한 스페이스X 직원, 美연방기관에 회사 고발 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180002</link>
-            <guid>https://www.bloter.net/newsView/blt202211180002</guid>
-            <pubDate>Fri, 18 Nov 2022 01:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 09:17:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -451,7 +451,7 @@ CNBC는 이를 통해 두 기업의 사업에 극명한 차이가 있으며 특�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[KT 업고도…케이뱅크, 재해 복구·클라우드 전환 모두 '낫 오케이' (블로터 ─ 테크)]]></title>
+            <title><![CDATA["재해복구에 얼마나 투자했나"…케이뱅크에 드는 의문 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211190004</link>
             <guid>https://www.bloter.net/newsView/blt202211190004</guid>
             <pubDate>Sat, 19 Nov 2022 22:17:48 GMT</pubDate>
