@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 08:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 09:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타] '나 혼자만 레벨업', 넷마블 귀환의 '복병'될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211200003</link>
+            <guid>https://www.bloter.net/newsView/blt202211200003</guid>
+            <pubDate>Sun, 20 Nov 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-20 18:09:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공시분석]쏘카, 173만주 보호예수 해제…‘오버행’ 우려 여전]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180014</link>
+            <guid>https://www.bloter.net/newsView/blt202211180014</guid>
+            <pubDate>Sun, 20 Nov 2022 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-20 18:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180021.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]넷마블 '오버프라임' 시연해보니…'하고 보는' 재미 다 잡았다]]></title>
             <link>https://www.bloter.net/newsView/blt202211200001</link>
             <guid>https://www.bloter.net/newsView/blt202211200001</guid>
             <pubDate>Sun, 20 Nov 2022 07:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-20 16:13:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광동제약이 제약업 복귀 위해 해결할 과제…백신 매출 회복]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Thu, 17 Nov 2022 23:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-18 08:13:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]일동홀딩스, 출범 이후 첫 CB 발행 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170021</link>
-            <guid>https://www.bloter.net/newsView/blt202211170021</guid>
-            <pubDate>Thu, 17 Nov 2022 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-17 18:36:51</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170044.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]'여전한 게임 사랑'…남궁훈 카카오 전 대표, 조용히 부스 관람]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170015</link>
-            <guid>https://www.bloter.net/newsView/blt202211170015</guid>
-            <pubDate>Thu, 17 Nov 2022 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-17 16:49:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

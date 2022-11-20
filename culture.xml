@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 08:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 09:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기는 지스타] '나 혼자만 레벨업', 넷마블 귀환의 '복병'될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211200003</link>
+            <guid>https://www.bloter.net/newsView/blt202211200003</guid>
+            <pubDate>Sun, 20 Nov 2022 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블이 부산 벡스코 '지스타 2022'에서 시연대를 마련한 싱글 플레이 RPG '나 혼자만 레벨업: ARISE(이하 나 혼자만 레벨업)'가 선전했다. '파라곤: 디 오버프라임', '하이프스쿼드' 등 새로운 대작으로 이목이 집중되며 비교적 기대감이 낮은 게임이었지만 시연대에 오]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]넷마블 '오버프라임' 시연해보니…'하고 보는' 재미 다 잡았다]]></title>
             <link>https://www.bloter.net/newsView/blt202211200001</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
             <content:encoded><![CDATA[네오플이 개발한 벨트스크롤 액션 모바일 게임 '던전앤파이터 모바일'이 올해를 빛낸 최고의 게임에 선정됐다. 이날 4관왕, 3관왕 등 '다관왕' 게임이 다수 배출된 상황에서 던전앤파이터는 단 한 번의 수상으로 대상의 영예를 안았다.   16일 부산 벡스코에서 열린 '20]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160039.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]문체부 "게임산업 규제, 적극 개선할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160021</link>
-            <guid>https://www.bloter.net/newsView/blt202211160021</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[문화체육관광부가 국내 게임산업 육성을 위해 관련 규제를 적극적으로 개선하겠다고 강조했다.16일 부산 벡스코에서 열린 '2022 대한민국 게임대상'에서 개회사를 맡은 전병극 문체부 제 1차관은 국내 게임 콘텐츠의 우수성에 대해 설명했다.  그는 "대한민국은 K-컬]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/16/blt202211160032.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
