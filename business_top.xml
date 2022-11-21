@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 11:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 12:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[①SK하이닉스 업황 악화에 SK스퀘어도 ‘적신호’]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210011</link>
-            <guid>https://www.bloter.net/newsView/blt202211210011</guid>
-            <pubDate>Mon, 21 Nov 2022 08:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-21 17:09:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210018.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[금융권 연탄배달 봉사활동이 필요한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210017</link>
+            <guid>https://www.bloter.net/newsView/blt202211210017</guid>
+            <pubDate>Mon, 21 Nov 2022 12:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-21 19:58:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210034.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1조원 현금 모은 SK스퀘어…투자는 어디로?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160019</link>
-            <guid>https://www.bloter.net/newsView/blt202211160019</guid>
-            <pubDate>Mon, 21 Nov 2022 08:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[모바일티머니도 카카오뱅크도 회원수 '2000만명'…공생의 결과물?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211110007</link>
+            <guid>https://www.bloter.net/newsView/blt202211110007</guid>
+            <pubDate>Mon, 21 Nov 2022 12:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘반도체 한파’…SK하이닉스, 3Q 주요 종속회사 순손실 1조원]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160014</link>
-            <guid>https://www.bloter.net/newsView/blt202211160014</guid>
-            <pubDate>Mon, 21 Nov 2022 08:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[흥국생명, 볼펜값 아끼더니 '콜옵션 사태'까지…금융위·금감원도 책임론]]></title>
+            <link>https://www.bloter.net/newsView/blt202211090014</link>
+            <guid>https://www.bloter.net/newsView/blt202211090014</guid>
+            <pubDate>Mon, 21 Nov 2022 12:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[T우주·이프랜드 수익화는 언제?…SKT 별도매출 8할, 여전히 '통신']]></title>
-            <link>https://www.bloter.net/newsView/blt202211100017</link>
-            <guid>https://www.bloter.net/newsView/blt202211100017</guid>
-            <pubDate>Mon, 21 Nov 2022 08:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[자본시장에 '하이킥'한 카카오뱅크…실적 우상향 기대되는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202211020014</link>
+            <guid>https://www.bloter.net/newsView/blt202211020014</guid>
+            <pubDate>Mon, 21 Nov 2022 12:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령이 역점 둔 '금리공시'…이복현 금감원장 "문제 있다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080016</link>
+            <guid>https://www.bloter.net/newsView/blt202209080016</guid>
+            <pubDate>Mon, 21 Nov 2022 12:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
