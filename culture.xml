@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[지스타 이야기]하이브·플린트 게임 동맹, 어떻게 이뤄졌을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210013</link>
+            <guid>https://www.bloter.net/newsView/blt202211210013</guid>
+            <pubDate>Mon, 21 Nov 2022 10:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[하이브가 '하이브IM'을 통해 게임 퍼블리싱 사업을 본격화한다고 했을 때만 해도 많은 사람들이 의구심을 품었다. 이 전에도 일부 엔터테인먼트 기업들이 게임사업에 도전했지만 운영 노하우나 개발 프로젝트의 인지도 면에서 큰 성공을 거두지 못 했기 때문이다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허들러스, 구글애널리틱스4 대비…유성민 대표 강의 나선다]]></title>
             <link>https://www.bloter.net/newsView/blt202211210015</link>
@@ -56,7 +64,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200018.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[여기는 지스타] '나 혼자만 레벨업', 넷마블 귀환의 '복병'될까]]></title>
+            <title><![CDATA[[여기는 지스타]'나 혼자만 레벨업', 넷마블 귀환의 '복병'될까]]></title>
             <link>https://www.bloter.net/newsView/blt202211200003</link>
             <guid>https://www.bloter.net/newsView/blt202211200003</guid>
             <pubDate>Sun, 20 Nov 2022 09:21:03 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 19 Nov 2022 05:16:27 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크가 트위터를 인수한지 한 달이 채 지나지 않았지만 플랫폼에 대한 신뢰를 잃었다며 유명 인사를 중심으로 트위터 탈출 움직임이 나타나고 있다. 또 머스크의 광폭행보에 트위터가 각종 혼란에 빠지며 제너럴모터스(GM), 폭스바겐 등 주요 광고주들이 트]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]'여전한 게임 사랑'…남궁훈 카카오 전 대표, 조용히 부스 관람]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170015</link>
-            <guid>https://www.bloter.net/newsView/blt202211170015</guid>
-            <pubDate>Thu, 17 Nov 2022 08:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[남궁훈 카카오 전 대표가 국제게임전시회 '지스타 2022'를 찾았다. 남궁 전 대표는 국내 게임업계에 남다른 애정을 가지고 있는 것으로 잘 알려진 만큼, 올해도 지스타 BTC관을 둘러보며 국내 게임 동향을 살핀 것으로 보여진다.   남궁훈 카카오 전 대표는 17일 지스타]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170025.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
