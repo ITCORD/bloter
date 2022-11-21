@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 01:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트럼프 "트위터 복귀 없다"…한 발 늦은 계정 부활]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210001</link>
+            <guid>https://www.bloter.net/newsView/blt202211210001</guid>
+            <pubDate>Mon, 21 Nov 2022 01:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[도널드 트럼프 전 미국 대통령이 트위터로 돌아가지 않겠다고 밝혔다. 자신이 만든 SNS '트루르소셜'의 이용자 참여가 높은 데다 가짜 계정 등 트위터 자체의 문제가 많기 때문인 것으로 풀이된다.   20일(이하 현지시간) &lt;로이터통신&gt;에 따르면 트럼프는 전날 참]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[여기는 지스타]2연속 참가 '니케'의 금의환향, 올해는 무엇이 달랐을까]]></title>
             <link>https://www.bloter.net/newsView/blt202211200004</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 17 Nov 2022 04:23:54 GMT</pubDate>
             <content:encoded><![CDATA[국제게임전시회 '지스타 2022'가 17일 오전을 기해 본격적으로 관람객을 맞아들였다. 이번 지스타는 3년 만에 정상 운영되는 만큼, 역대 최다 관객이 예상된다.  안전 또 안전, 분산 관리로 인원 몰림 해소 실제로 지스타 입장을 기다렸던 관람객들은 일찌감치 벡스코]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170015.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 트위터 직원에 최후통첩...”고강도, 장시간 근무 싫으면 떠나라”]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170003</link>
-            <guid>https://www.bloter.net/newsView/blt202211170003</guid>
-            <pubDate>Wed, 16 Nov 2022 23:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[트위터의 새로운 최고경영자(CEO) 일론 머스크가 정리해고에서 살아남은 직원들에게 고강도로 장시간 일하고 싶지 않다면 회사를 떠나라고 최후통첩을 보냈다.    16일(현지시간) &lt;워싱턴포스트(WP)&gt;에 따르면 머스크는 사내 이메일을 통해 “경쟁이 점점 더 치]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170005.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

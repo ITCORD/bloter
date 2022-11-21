@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 23:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 01:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포스코케미칼 음극재 美 시장 '돌풍' 예상...'인니산 니켈'은 어쩌나]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180004</link>
+            <guid>https://www.bloter.net/newsView/blt202211180004</guid>
+            <pubDate>Mon, 21 Nov 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-20 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美청소년 “SNS, 친구 관계에 도움 되지만 감정 소모 유발”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180017</link>
+            <guid>https://www.bloter.net/newsView/blt202211180017</guid>
+            <pubDate>Mon, 21 Nov 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-20 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180030.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['바이오' 투자 늘리는 오리온그룹, 추가 ‘신사업’ 이어질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180009</link>
+            <guid>https://www.bloter.net/newsView/blt202211180009</guid>
+            <pubDate>Mon, 21 Nov 2022 01:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-20 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카뱅 이어 케뱅도 전산장애, 인뱅 전체 IT 투자 필요성]]></title>
             <link>https://www.bloter.net/newsView/blt202211190004</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 20 Nov 2022 05:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180037.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코케미칼·GM 합작사의 특이한 지분구조...'85대 15' 이례적 사례]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180012</link>
-            <guid>https://www.bloter.net/newsView/blt202211180012</guid>
-            <pubDate>Sun, 20 Nov 2022 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-18 17:41:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180023.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[원재료 가격 부담에…대상, 영업현금 550억 적자]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180013</link>
-            <guid>https://www.bloter.net/newsView/blt202211180013</guid>
-            <pubDate>Sat, 19 Nov 2022 22:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-18 16:28:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JP모건 "미국 투자자 '런'하는 중국 시장, 우리는 밝게 본다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180006</link>
-            <guid>https://www.bloter.net/newsView/blt202211180006</guid>
-            <pubDate>Sat, 19 Nov 2022 05:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-18 14:25:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
