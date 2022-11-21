@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 08:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 09:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허들러스, 구글애널리틱스4 대비…유성민 대표 강의 나선다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210015</link>
+            <guid>https://www.bloter.net/newsView/blt202211210015</guid>
+            <pubDate>Mon, 21 Nov 2022 09:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-11-21 18:15:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210030.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[지스타 이야기]'아레스'로 본 카겜표 MMORPG, 그래픽·액션성 '합격점']]></title>
+            <link>https://www.bloter.net/newsView/blt202211210012</link>
+            <guid>https://www.bloter.net/newsView/blt202211210012</guid>
+            <pubDate>Mon, 21 Nov 2022 09:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-21 17:47:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210025.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SKT·SK스퀘어 1년]①SK하이닉스 업황 악화에 SK스퀘어도 ‘적신호’]]></title>
             <link>https://www.bloter.net/newsView/blt202211210011</link>
             <guid>https://www.bloter.net/newsView/blt202211210011</guid>
             <pubDate>Mon, 21 Nov 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-21 17:09:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지오영, '지르텍' 독점 영업한다…의약품유통사 최초]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 19 Nov 2022 08:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">부산=채성오</span>                        <span class="date">2022-11-19 16:39:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 대안으로 떠오른 마스토돈, 일부는 '회의적'…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180018</link>
-            <guid>https://www.bloter.net/newsView/blt202211180018</guid>
-            <pubDate>Sat, 19 Nov 2022 05:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180031.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엇갈린 실적에 우는 타겟과 웃는 월마트…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180019</link>
-            <guid>https://www.bloter.net/newsView/blt202211180019</guid>
-            <pubDate>Sat, 19 Nov 2022 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-19 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180037.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
