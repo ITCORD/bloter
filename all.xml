@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 04:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -463,12 +463,28 @@ LG 그룹의 통신 계열사 LG유플러스를 이끌고 있는 황현식 대�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[피플바이오, 알츠하이머병 혈액검사 브랜드 ‘알츠온’ 론칭 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210002</link>
+            <guid>https://www.bloter.net/newsView/blt202211210002</guid>
+            <pubDate>Mon, 21 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-21 14:14:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210005.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['던파의 아버지' 윤명진, '네오플' 대표된다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210005</link>
+            <guid>https://www.bloter.net/newsView/blt202211210005</guid>
+            <pubDate>Mon, 21 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-21 14:04:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210007.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테슬라, 후미등 오작동에 미국서 32만1000대 리콜…올해 19건 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211210004</link>
             <guid>https://www.bloter.net/newsView/blt202211210004</guid>
             <pubDate>Mon, 21 Nov 2022 01:24:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-21 09:56:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210006.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210006.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘파산 신청’ FTX, 상위 채권자 50명에게 4조원 이상 부채 (블로터 ─ 테크)]]></title>
@@ -589,22 +605,6 @@ LG 그룹의 통신 계열사 LG유플러스를 이끌고 있는 황현식 대�
             <pubDate>Fri, 18 Nov 2022 11:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-18 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 의약품 수출 실적, 백신 업고 고공 행진 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180010</link>
-            <guid>https://www.bloter.net/newsView/blt202211180010</guid>
-            <pubDate>Fri, 18 Nov 2022 09:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-18 17:43:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’ (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180011</link>
-            <guid>https://www.bloter.net/newsView/blt202211180011</guid>
-            <pubDate>Fri, 18 Nov 2022 08:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span><span class="writer">김수민</span>                        <span class="date">2022-11-18 16:58:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180017.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -882,6 +882,14 @@ LG 그룹의 통신 계열사 LG유플러스를 이끌고 있는 황현식 대�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/10/blt202211100020.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['던파의 아버지' 윤명진, '네오플' 대표된다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210005</link>
+            <guid>https://www.bloter.net/newsView/blt202211210005</guid>
+            <pubDate>Mon, 21 Nov 2022 05:21:24 GMT</pubDate>
+            <content:encoded><![CDATA['던전 앤 파이터(이하 던파)' 개발을 총괄했던 윤명진 액션스튜디오 이사가 본진 '네오플'의 대표이사로 내정됐다. 네오플은 대표이사 교체를 통해 던파 IP 가치를 확대하는 한편 글로벌 경쟁력을 확대할 계기로 삼을 계획이다.   윤명진 네오플 신임 대표 내정자는 ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트럼프 "트위터 복귀 없다"…한 발 늦은 계정 부활 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202211210001</link>
             <guid>https://www.bloter.net/newsView/blt202211210001</guid>
@@ -894,7 +902,7 @@ LG 그룹의 통신 계열사 LG유플러스를 이끌고 있는 황현식 대�
             <link>https://www.bloter.net/newsView/blt202211200004</link>
             <guid>https://www.bloter.net/newsView/blt202211200004</guid>
             <pubDate>Sun, 20 Nov 2022 12:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[시프트업이 개발하고 레벨 인피니트가 서비스하는 미소녀 건슈팅 액션  모바일 게임 '승리의 여신: 니케(이하 니케)'가 지난해에 이어 올해까지 2연속 국제게임전시회 지스타에 참가했다. 지난해 개발사 시프트업의 김형태 대표까지 나서 출시 막바지 홍보를 진행한]]></content:encoded>
+            <content:encoded><![CDATA[시프트업이 개발하고 레벨인피니트가 서비스하는 미소녀 건슈팅 액션  모바일 게임 '승리의 여신: 니케(이하 니케)'가 지난해에 이어 올해까지 2연속 국제게임전시회 지스타에 참가했다. 지난해 개발사 시프트업의 김형태 대표까지 나서 출시 막바지 홍보를 진행한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200018.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -968,14 +976,6 @@ LG 그룹의 통신 계열사 LG유플러스를 이끌고 있는 황현식 대�
             <pubDate>Thu, 17 Nov 2022 05:17:42 GMT</pubDate>
             <content:encoded><![CDATA['모티프'와 '코에이테크모게임스'가 공동 개발하고 '라인게임즈'가 서비스하는 '대항해시대 오리진'이 대한민국 게임대상에서 4관왕을 차지했다. 대항해시대 오리진은 비록 '대상'은 아니지만 '최우수상'을 포함해 4개 부문에서 수상하며, 올해 게임대상 기준 단일]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170019.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]벡스코 뒤덮은 관객들…안전·흥행 다 잡을까 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170009</link>
-            <guid>https://www.bloter.net/newsView/blt202211170009</guid>
-            <pubDate>Thu, 17 Nov 2022 04:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[국제게임전시회 '지스타 2022'가 17일 오전을 기해 본격적으로 관람객을 맞아들였다. 이번 지스타는 3년 만에 정상 운영되는 만큼, 역대 최다 관객이 예상된다.  안전 또 안전, 분산 관리로 인원 몰림 해소 실제로 지스타 입장을 기다렸던 관람객들은 일찌감치 벡스코]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]ENA, '연애에 진심인 편→보라데보라'…타이틀 바꾼다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 04:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 05:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피플바이오, 알츠하이머병 혈액검사 브랜드 ‘알츠온’ 론칭]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210002</link>
+            <guid>https://www.bloter.net/newsView/blt202211210002</guid>
+            <pubDate>Mon, 21 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-21 14:14:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210005.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['던파의 아버지' 윤명진, '네오플' 대표된다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210005</link>
+            <guid>https://www.bloter.net/newsView/blt202211210005</guid>
+            <pubDate>Mon, 21 Nov 2022 05:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-21 14:04:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210007.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 후미등 오작동에 미국서 32만1000대 리콜…올해 19건]]></title>
             <link>https://www.bloter.net/newsView/blt202211210004</link>
             <guid>https://www.bloter.net/newsView/blt202211210004</guid>
             <pubDate>Mon, 21 Nov 2022 01:25:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-21 09:56:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210006.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210006.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[‘파산 신청’ FTX, 상위 채권자 50명에게 4조원 이상 부채]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 18 Nov 2022 11:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-11-18 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 의약품 수출 실적, 백신 업고 고공 행진]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180010</link>
-            <guid>https://www.bloter.net/newsView/blt202211180010</guid>
-            <pubDate>Fri, 18 Nov 2022 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-18 17:43:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, KT·LGU+ 5G 28㎓ 할당 취소…의무 기지국 설치 ‘미달’]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180011</link>
-            <guid>https://www.bloter.net/newsView/blt202211180011</guid>
-            <pubDate>Fri, 18 Nov 2022 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span><span class="writer">김수민</span>                        <span class="date">2022-11-18 16:58:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180017.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
