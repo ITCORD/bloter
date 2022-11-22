@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 01:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 03:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]넷플릭스 '썸바디', 극단의 이질감을 만나다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220005</link>
+            <guid>https://www.bloter.net/newsView/blt202211220005</guid>
+            <pubDate>Tue, 22 Nov 2022 03:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 안에서 구현되는 '캐릭터'는 극의 집중도를 견인하는 필수 요소다. 특정 사건·내레이션(독백)·말투 등 극본에 의한 인물 설정을 통해 입체적인 캐릭터가 만들어지는데, 이런 설정의 대비차가 클 경우 호불호도 커지기 마련이다. 지난 18일 공개된 넷]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220006.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 인스타그램·페이스북 '청소년 보호 강화' 업데이트]]></title>
             <link>https://www.bloter.net/newsView/blt202211220002</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Nov 2022 05:18:58 GMT</pubDate>
             <content:encoded><![CDATA[미국 청소년들이 소셜미디어(SNS)가 친구 관계를 유지하는 데 도움이 되는 한편 감정 소모를 유발한다고 생각한다는 설문조사 결과가 나왔다. 또 SNS가 청소년의 정신건강에 부정적인 영향을 미칠 수 있다는 우려가 제기되고 있지만 정작 10대 본인들은 SNS가 자신에게]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180030.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211190003</link>
-            <guid>https://www.bloter.net/newsView/blt202211190003</guid>
-            <pubDate>Sat, 19 Nov 2022 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[하이브가 '별이되어라2: 베다의 기사들(이하 별이되어라2)'로 게임 퍼블리싱(서비스)사업을 본격화한다. 방탄소년단(BTS)을 출범시키며 성공 신화를 썼던 방시혁 의장의 사업철학이 게임 분야에서도 통할 수 있을 지 주목된다.19일 방시혁 하이브 의장은 '지스타 2022']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
