@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 05:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 06:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,40 +324,48 @@ STX중공업 밸류체인에 속한 캐스코는 최근 3년간 300억원대 영
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210002.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[애플 '데이터 익명화'는 거짓?…"앱스토어로 정보 식별" 의혹 제기 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220004</link>
-            <guid>https://www.bloter.net/newsView/blt202211220004</guid>
-            <pubDate>Tue, 22 Nov 2022 01:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-22 10:26:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220005.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[보험업계 메기 탄생할까…세이브노트, 10억원 시드 투자 유치 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220007</link>
+            <guid>https://www.bloter.net/newsView/blt202211220007</guid>
+            <pubDate>Tue, 22 Nov 2022 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-22 14:32:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220012.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보 판매 논란겪은 토스, '데이터보호 준법 자문위원회' 출범 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160011</link>
-            <guid>https://www.bloter.net/newsView/blt202211160011</guid>
-            <pubDate>Wed, 16 Nov 2022 17:20:07 GMT</pubDate>
+            <title><![CDATA[권력3부가 손놓는 보험사기…보험사는 어떻게 대응할까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202209040003</link>
+            <guid>https://www.bloter.net/newsView/blt202209040003</guid>
+            <pubDate>Tue, 22 Nov 2022 06:22:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[토요타, 미국서 30만명 개인정보 5년 가까이 노출 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202210130002</link>
-            <guid>https://www.bloter.net/newsView/blt202210130002</guid>
-            <pubDate>Tue, 22 Nov 2022 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[캐롯손해보험, 연내 3000억 증자 예정…'양식 유니콘'의 탄생? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208220010</link>
+            <guid>https://www.bloter.net/newsView/blt202208220010</guid>
+            <pubDate>Tue, 22 Nov 2022 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[페이스북 앱 브라우저가 개인정보 무단수집? 메타, 美 집단소송 직면 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202209230003</link>
-            <guid>https://www.bloter.net/newsView/blt202209230003</guid>
-            <pubDate>Tue, 22 Nov 2022 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[⑤디지털 전환에 진심인 메리츠화재…"보험료 산출시간 1/60로 줄였죠" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208180021</link>
+            <guid>https://www.bloter.net/newsView/blt202208180021</guid>
+            <pubDate>Tue, 22 Nov 2022 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플·메타·디스코드, 해킹된 계정에 속아 개인정보 공유했다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202203310011</link>
-            <guid>https://www.bloter.net/newsView/blt202203310011</guid>
-            <pubDate>Tue, 22 Nov 2022 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[①카카오의 플랫폼 전략, 손해보험서 실패 맛볼까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208080022</link>
+            <guid>https://www.bloter.net/newsView/blt202208080022</guid>
+            <pubDate>Tue, 22 Nov 2022 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['루시와 함께 산책'...롯데호텔, 메타버스 마케팅 실험 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220003</link>
+            <guid>https://www.bloter.net/newsView/blt202211220003</guid>
+            <pubDate>Tue, 22 Nov 2022 04:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-22 09:25:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융권 연탄배달 봉사활동이 필요한 이유 (블로터 ─ 비즈니스)]]></title>
@@ -400,14 +408,6 @@ STX중공업 밸류체인에 속한 캐스코는 최근 3년간 300억원대 영
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210006.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[‘파산 신청’ FTX, 상위 채권자 50명에게 4조원 이상 부채 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210003</link>
-            <guid>https://www.bloter.net/newsView/blt202211210003</guid>
-            <pubDate>Mon, 21 Nov 2022 01:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-21 09:05:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -444,12 +444,28 @@ STX중공업 밸류체인에 속한 캐스코는 최근 3년간 300억원대 영
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[종근당그룹, 보툴리눔톡신 자체 개발로 미용성형 강자 도전 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220006</link>
+            <guid>https://www.bloter.net/newsView/blt202211220006</guid>
+            <pubDate>Tue, 22 Nov 2022 06:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-22 15:19:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG, 경기 침체에도 글로벌 TV 시장 점유율 ‘1·2위’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220008</link>
+            <guid>https://www.bloter.net/newsView/blt202211220008</guid>
+            <pubDate>Tue, 22 Nov 2022 06:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-22 14:39:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220010.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[OTT오리지널]넷플릭스 '썸바디', 극단의 이질감을 만나다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211220005</link>
             <guid>https://www.bloter.net/newsView/blt202211220005</guid>
             <pubDate>Tue, 22 Nov 2022 03:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-22 11:46:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 '데이터 익명화'는 거짓?…"앱스토어로 정보 식별" 의혹 제기 (블로터 ─ 테크)]]></title>
@@ -570,22 +586,6 @@ STX중공업 밸류체인에 속한 캐스코는 최근 3년간 300억원대 영
             <pubDate>Mon, 21 Nov 2022 01:24:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-21 08:55:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]2연속 참가 '니케'의 금의환향, 올해는 무엇이 달랐을까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211200004</link>
-            <guid>https://www.bloter.net/newsView/blt202211200004</guid>
-            <pubDate>Sun, 20 Nov 2022 12:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-20 20:30:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]'나 혼자만 레벨업', 넷마블 귀환의 '복병'될까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211200003</link>
-            <guid>https://www.bloter.net/newsView/blt202211200003</guid>
-            <pubDate>Sun, 20 Nov 2022 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">부산=안신혜</span>                        <span class="date">2022-11-20 18:09:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
