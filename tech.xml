@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 22:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 23:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[英, 애플·구글 브라우저 독점 심층조사 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230001</link>
+            <guid>https://www.bloter.net/newsView/blt202211230001</guid>
+            <pubDate>Tue, 22 Nov 2022 23:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 08:17:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글이 '멀티 클라우드' 원하는 기업의 선택을 받는 법]]></title>
             <link>https://www.bloter.net/newsView/blt202211220015</link>
             <guid>https://www.bloter.net/newsView/blt202211220015</guid>
             <pubDate>Tue, 22 Nov 2022 10:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-22 18:20:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220029.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220029.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[단독]'오딘' 개발사 차기작은 '서브컬쳐'…카카오게임즈 시너지 눈 앞]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 21 Nov 2022 08:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-21 16:22:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210013.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[피플바이오, 알츠하이머병 혈액검사 브랜드 ‘알츠온’ 론칭]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210002</link>
-            <guid>https://www.bloter.net/newsView/blt202211210002</guid>
-            <pubDate>Mon, 21 Nov 2022 05:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-21 14:14:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
