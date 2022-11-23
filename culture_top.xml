@@ -4,9 +4,18 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]팀 맥소노미 "데이터 저장 중독 버려라, 실시간이 관건"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220018</link>
+            <guid>https://www.bloter.net/newsView/blt202211220018</guid>
+            <pubDate>Wed, 23 Nov 2022 03:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>
+                        <span class="date">2022-11-23 10:57:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230009.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]스튜디오산타클로스, 11월 주가는 왜 연이어 상승했나]]></title>
             <link>https://www.bloter.net/newsView/blt202211220016</link>
@@ -14,7 +23,7 @@
             <pubDate>Tue, 22 Nov 2022 10:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>
                         <span class="date">2022-11-22 18:52:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220033.601x301.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220033.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독]'오딘' 개발사 차기작은 '서브컬쳐'…카카오게임즈 시너지 눈 앞]]></title>
@@ -33,15 +42,6 @@
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2022-11-22 11:46:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220006.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니, 밥 아이거 CEO 재선임…'왕국 부활' 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220001</link>
-            <guid>https://www.bloter.net/newsView/blt202211220001</guid>
-            <pubDate>Tue, 22 Nov 2022 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>
-                        <span class="date">2022-11-22 09:30:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220001.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
