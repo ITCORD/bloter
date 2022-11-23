@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 05:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 06:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[英, 애플·구글 브라우저 독점 심층조사 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230001</link>
+            <guid>https://www.bloter.net/newsView/blt202211230001</guid>
+            <pubDate>Wed, 23 Nov 2022 06:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 08:17:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230003.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[①글로벌 기업 도약 정조준...재무전략 고도화 핵심]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220017</link>
+            <guid>https://www.bloter.net/newsView/blt202211220017</guid>
+            <pubDate>Wed, 23 Nov 2022 06:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-22 20:10:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인강 듣고 치킨 먹으니 이자가 따라왔다…적금의 '부품화']]></title>
             <link>https://www.bloter.net/newsView/blt202211220010</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 22 Nov 2022 11:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-22 09:40:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니, 밥 아이거 CEO 재선임…'왕국 부활' 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220001</link>
-            <guid>https://www.bloter.net/newsView/blt202211220001</guid>
-            <pubDate>Tue, 22 Nov 2022 08:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-22 09:30:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['루시와 함께 산책'...롯데호텔, 메타버스 마케팅 실험]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220003</link>
-            <guid>https://www.bloter.net/newsView/blt202211220003</guid>
-            <pubDate>Tue, 22 Nov 2022 06:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-22 09:25:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 05:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 06:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,7 @@
             <link>https://www.bloter.net/newsView/blt202211220018</link>
             <guid>https://www.bloter.net/newsView/blt202211220018</guid>
             <pubDate>Wed, 23 Nov 2022 03:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>
-                        <span class="date">2022-11-23 10:57:44</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230009.601x301.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
