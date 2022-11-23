@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인강 듣고 치킨 먹으니 이자가 따라왔다…적금의 '부품화']]></title>
+            <link>https://www.bloter.net/newsView/blt202211220010</link>
+            <guid>https://www.bloter.net/newsView/blt202211220010</guid>
+            <pubDate>Wed, 23 Nov 2022 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-22 15:41:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보험업계 메기 탄생할까…세이브노트, 10억원 시드 투자 유치]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220007</link>
+            <guid>https://www.bloter.net/newsView/blt202211220007</guid>
+            <pubDate>Wed, 23 Nov 2022 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-22 14:32:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 '데이터 익명화'는 거짓?…"앱스토어로 정보 식별" 의혹 제기]]></title>
             <link>https://www.bloter.net/newsView/blt202211220004</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 22 Nov 2022 06:23:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-22 09:25:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융권 연탄배달 봉사활동이 필요한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210017</link>
-            <guid>https://www.bloter.net/newsView/blt202211210017</guid>
-            <pubDate>Tue, 22 Nov 2022 03:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-21 19:58:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210034.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[①SK하이닉스 업황 악화에 SK스퀘어도 ‘적신호’]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210011</link>
-            <guid>https://www.bloter.net/newsView/blt202211210011</guid>
-            <pubDate>Tue, 22 Nov 2022 03:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-21 17:09:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

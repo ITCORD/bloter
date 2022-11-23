@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU, 틱톡 대상 조사 진행 중…"사용자 데이터 이전, 미성년자 정책 포함"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230003</link>
+            <guid>https://www.bloter.net/newsView/blt202211230003</guid>
+            <pubDate>Wed, 23 Nov 2022 01:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU) 집행위원회가 숏폼 동영상 공유 플랫폼 틱톡에 대해 다수의 조사를 진행 중이다.   22일(현지시간) IT전문매체 &lt;엔가젯&gt;에 따르면 EU는 틱톡이 유럽 사용자의 데이터를 중국으로 이전한다는 의혹과 미성년 사용자를 겨냥한 표적 광고에 대한 조사를]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 인스타그램·페이스북 '청소년 보호 강화' 업데이트]]></title>
             <link>https://www.bloter.net/newsView/blt202211220002</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Nov 2022 05:18:58 GMT</pubDate>
             <content:encoded><![CDATA[미국 청소년들이 소셜미디어(SNS)가 친구 관계를 유지하는 데 도움이 되는 한편 감정 소모를 유발한다고 생각한다는 설문조사 결과가 나왔다. 또 SNS가 청소년의 정신건강에 부정적인 영향을 미칠 수 있다는 우려가 제기되고 있지만 정작 10대 본인들은 SNS가 자신에게]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180030.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]하이브IM 품에 안긴 '별되2'…방시혁 사업철학 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211190003</link>
-            <guid>https://www.bloter.net/newsView/blt202211190003</guid>
-            <pubDate>Tue, 22 Nov 2022 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[하이브가 '별이되어라2: 베다의 기사들(이하 별이되어라2)'로 게임 퍼블리싱(서비스)사업을 본격화한다. 방탄소년단(BTS)을 출범시키며 성공 신화를 썼던 방시혁 의장의 사업철학이 게임 분야에서도 통할 수 있을 지 주목된다.19일 방시혁 하이브 의장은 '지스타 2022']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/19/blt202211190002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
