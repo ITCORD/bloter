@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230013</link>
+            <guid>https://www.bloter.net/newsView/blt202211230013</guid>
+            <pubDate>Wed, 23 Nov 2022 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[풀퍼널 마케팅 전문기업 '마티니아이오(이하 마티니)'가 마테크(마케팅+테크) 시장 변화에 맞춰 마케팅·고객 관계 관리(CRM)·그로스(Growth) 통합 역량의 중요성을 강조했다.이선규 마티니 대표는 지난 22일 CJ올리브네트웍스가 개최한 데이터 마케팅 컨퍼런스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EU, 틱톡 대상 조사 진행 중…"사용자 데이터 이전, 미성년자 정책 포함"]]></title>
             <link>https://www.bloter.net/newsView/blt202211230003</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Nov 2022 07:16:52 GMT</pubDate>
             <content:encoded><![CDATA[넷마블이 지난 17일부터 개막한 국제게임전시회 '지스타 2022'에서 PC게임 '파라곤: 디 오버프라임'을 선보이고 시연대를 마련했다. 파라곤: 디 오버프라임은 3D TPS MOBA(진지점령) 장르로, 두 팀으로 나뉘어 대결을 펼치는 게임인 만큼 승부에 집중하는 재미를 느낄 수]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200005.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美청소년 “SNS, 친구 관계에 도움 되지만 감정 소모 유발”]]></title>
-            <link>https://www.bloter.net/newsView/blt202211180017</link>
-            <guid>https://www.bloter.net/newsView/blt202211180017</guid>
-            <pubDate>Sun, 20 Nov 2022 05:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국 청소년들이 소셜미디어(SNS)가 친구 관계를 유지하는 데 도움이 되는 한편 감정 소모를 유발한다고 생각한다는 설문조사 결과가 나왔다. 또 SNS가 청소년의 정신건강에 부정적인 영향을 미칠 수 있다는 우려가 제기되고 있지만 정작 10대 본인들은 SNS가 자신에게]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/18/blt202211180030.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

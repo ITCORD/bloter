@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도건설, '유보라 천안 두정역' 선착순 동·호수 지정 계약중]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230006</link>
+            <guid>https://www.bloter.net/newsView/blt202211230006</guid>
+            <pubDate>Wed, 23 Nov 2022 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-23 14:16:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU, 틱톡 대상 조사 진행 중…"사용자 데이터 이전, 미성년자 정책 포함"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230003</link>
+            <guid>https://www.bloter.net/newsView/blt202211230003</guid>
+            <pubDate>Wed, 23 Nov 2022 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 09:51:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[FTX, 창업자·임직원 위해 고급 주택 19채 구매]]></title>
             <link>https://www.bloter.net/newsView/blt202211230002</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 23 Nov 2022 01:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-22 15:41:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보험업계 메기 탄생할까…세이브노트, 10억원 시드 투자 유치]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220007</link>
-            <guid>https://www.bloter.net/newsView/blt202211220007</guid>
-            <pubDate>Wed, 23 Nov 2022 01:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-22 14:32:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 '데이터 익명화'는 거짓?…"앱스토어로 정보 식별" 의혹 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220004</link>
-            <guid>https://www.bloter.net/newsView/blt202211220004</guid>
-            <pubDate>Tue, 22 Nov 2022 23:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-22 10:26:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

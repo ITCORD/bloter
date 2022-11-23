@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230013</link>
+            <guid>https://www.bloter.net/newsView/blt202211230013</guid>
+            <pubDate>Wed, 23 Nov 2022 09:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-11-23 18:06:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TSMC, 3나노 웨이퍼 가격 25% 인상…삼성전자, 반사이익 얻을까?]]></title>
             <link>https://www.bloter.net/newsView/blt202211230009</link>
             <guid>https://www.bloter.net/newsView/blt202211230009</guid>
             <pubDate>Wed, 23 Nov 2022 07:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-23 15:22:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드 열풍에도 '서버 제조사' 델이 잘나가는 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 21 Nov 2022 10:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-21 18:24:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허들러스, 구글애널리틱스4 대비…유성민 대표 강의 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210015</link>
-            <guid>https://www.bloter.net/newsView/blt202211210015</guid>
-            <pubDate>Mon, 21 Nov 2022 09:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-11-21 18:15:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210030.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
