@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 09:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 10:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,12 +396,20 @@ KT와 LG유플러스의 '28GHz' 대역 5G 주파수 할당 최종 취소가 유�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[네옴시티 도전 네이버, 출사표는 '메가시티 스케일 디지털 트윈' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230012</link>
+            <guid>https://www.bloter.net/newsView/blt202211230012</guid>
+            <pubDate>Wed, 23 Nov 2022 10:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-23 18:23:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230024.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211230013</link>
             <guid>https://www.bloter.net/newsView/blt202211230013</guid>
             <pubDate>Wed, 23 Nov 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-11-23 18:06:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TSMC, 3나노 웨이퍼 가격 25% 인상…삼성전자, 반사이익 얻을까? (블로터 ─ 테크)]]></title>
@@ -530,14 +538,6 @@ KT와 LG유플러스의 '28GHz' 대역 5G 주파수 할당 최종 취소가 유�
             <pubDate>Mon, 21 Nov 2022 10:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-21 18:28:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210031.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 이야기]하이브·플린트 게임 동맹, 어떻게 이뤄졌을까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210013</link>
-            <guid>https://www.bloter.net/newsView/blt202211210013</guid>
-            <pubDate>Mon, 21 Nov 2022 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-21 18:24:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -818,7 +818,7 @@ KT와 LG유플러스의 '28GHz' 대역 5G 주파수 할당 최종 취소가 유�
             <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202211230013</link>
             <guid>https://www.bloter.net/newsView/blt202211230013</guid>
-            <pubDate>Wed, 23 Nov 2022 09:19:19 GMT</pubDate>
+            <pubDate>Wed, 23 Nov 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[풀퍼널 마케팅 전문기업 '마티니아이오(이하 마티니)'가 마테크(마케팅+테크) 시장 변화에 맞춰 마케팅·고객 관계 관리(CRM)·그로스(Growth) 통합 역량의 중요성을 강조했다.이선규 마티니 대표는 지난 22일 CJ올리브네트웍스가 개최한 데이터 마케팅 컨퍼런스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>

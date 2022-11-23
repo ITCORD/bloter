@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 09:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 10:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네옴시티 도전 네이버, 출사표는 '메가시티 스케일 디지털 트윈']]></title>
+            <link>https://www.bloter.net/newsView/blt202211230012</link>
+            <guid>https://www.bloter.net/newsView/blt202211230012</guid>
+            <pubDate>Wed, 23 Nov 2022 10:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-23 18:23:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230024.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?"]]></title>
             <link>https://www.bloter.net/newsView/blt202211230013</link>
             <guid>https://www.bloter.net/newsView/blt202211230013</guid>
             <pubDate>Wed, 23 Nov 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-11-23 18:06:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TSMC, 3나노 웨이퍼 가격 25% 인상…삼성전자, 반사이익 얻을까?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 21 Nov 2022 10:20:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-21 18:28:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210031.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 이야기]하이브·플린트 게임 동맹, 어떻게 이뤄졌을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210013</link>
-            <guid>https://www.bloter.net/newsView/blt202211210013</guid>
-            <pubDate>Mon, 21 Nov 2022 10:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-21 18:24:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
