@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 06:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 07:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FTX, 창업자·임직원 위해 고급 주택 19채 구매]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230002</link>
+            <guid>https://www.bloter.net/newsView/blt202211230002</guid>
+            <pubDate>Wed, 23 Nov 2022 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 08:59:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[英, 애플·구글 브라우저 독점 심층조사 착수]]></title>
             <link>https://www.bloter.net/newsView/blt202211230001</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 22 Nov 2022 23:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-22 10:26:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 인스타그램·페이스북 '청소년 보호 강화' 업데이트]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220002</link>
-            <guid>https://www.bloter.net/newsView/blt202211220002</guid>
-            <pubDate>Tue, 22 Nov 2022 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-22 09:40:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
