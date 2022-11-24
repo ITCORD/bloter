@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 10:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG그룹 인사, 미래 먹거리 챙길 '에너지솔루션·화학·전장'에 방점]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240017</link>
+            <guid>https://www.bloter.net/newsView/blt202211240017</guid>
+            <pubDate>Thu, 24 Nov 2022 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">김수민</span>                        <span class="date">2022-11-24 18:47:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['고객' 강조 LG유플러스, 임원 인사도 서비스 품질 개선 공로자 중용]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240021</link>
+            <guid>https://www.bloter.net/newsView/blt202211240021</guid>
+            <pubDate>Thu, 24 Nov 2022 10:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-24 18:32:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240041.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG이노텍, ‘성과주의’ 임원인사…전무 2명·상무 8명 등 10명 승진]]></title>
             <link>https://www.bloter.net/newsView/blt202211240019</link>
             <guid>https://www.bloter.net/newsView/blt202211240019</guid>
             <pubDate>Thu, 24 Nov 2022 09:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-24 18:03:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240039.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240039.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 류재철 H&A사업본부장 사장 승진…‘고객경험·전장사업’ 강화]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 22 Nov 2022 23:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 08:17:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글이 '멀티 클라우드' 원하는 기업의 선택을 받는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220015</link>
-            <guid>https://www.bloter.net/newsView/blt202211220015</guid>
-            <pubDate>Tue, 22 Nov 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-22 18:20:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220029.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'오딘' 개발사 차기작은 '서브컬쳐'…카카오게임즈 시너지 눈 앞]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220014</link>
-            <guid>https://www.bloter.net/newsView/blt202211220014</guid>
-            <pubDate>Tue, 22 Nov 2022 09:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-22 18:08:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

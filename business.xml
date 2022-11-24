@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 10:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스뱅크의 화두는 '카드업'…신규 주주로 하나카드 합류]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240015</link>
+            <guid>https://www.bloter.net/newsView/blt202211240015</guid>
+            <pubDate>Thu, 24 Nov 2022 10:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-24 16:36:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘전략재무통’ 정호영 LGD 사장 유임…위기관리 능력 빛볼까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240013</link>
+            <guid>https://www.bloter.net/newsView/blt202211240013</guid>
+            <pubDate>Thu, 24 Nov 2022 10:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-24 15:54:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[승진한 이명우 부회장, 동원그룹 ‘스마트 연어 키우기’ 주력]]></title>
             <link>https://www.bloter.net/newsView/blt202211240011</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 24 Nov 2022 07:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-24 10:03:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 폭스콘 근로자, 근무 환경에 불만 '폭력 행사']]></title>
-            <link>https://www.bloter.net/newsView/blt202211240001</link>
-            <guid>https://www.bloter.net/newsView/blt202211240001</guid>
-            <pubDate>Thu, 24 Nov 2022 06:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-24 09:20:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['KB라이프생명' 사령탑에 이환주 KB생명 대표…선정 배경은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230015</link>
-            <guid>https://www.bloter.net/newsView/blt202211230015</guid>
-            <pubDate>Thu, 24 Nov 2022 06:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-23 19:24:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230032.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
