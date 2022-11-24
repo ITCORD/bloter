@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 03:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 04:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베일 벗는 르세라핌 웹툰·웹소설…'크림슨 하트' 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240006</link>
+            <guid>https://www.bloter.net/newsView/blt202211240006</guid>
+            <pubDate>Thu, 24 Nov 2022 04:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰이 하이브의 아이돌그룹 '르세라핌(LE SSERAFIM)' IP 기반 콘텐츠를 24일부터 순차 공개한다.24일 네이버웹툰과 하이브에 따르면, 하이브의 네 번째 오리지널 스토리인 '크림슨 하트(Crimson Heart)'의 웹툰이 이 날 밤 10시부터 매주 금요일마다 네이버웹툰 글로벌]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설문조사에 빠진 일론 머스크...'영구 금지'된 트위터 계정 복구 찬반투표]]></title>
             <link>https://www.bloter.net/newsView/blt202211240003</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Nov 2022 12:31:41 GMT</pubDate>
             <content:encoded><![CDATA[시프트업이 개발하고 레벨인피니트가 서비스하는 미소녀 건슈팅 액션  모바일 게임 '승리의 여신: 니케(이하 니케)'가 지난해에 이어 올해까지 2연속 국제게임전시회 지스타에 참가했다. 지난해 개발사 시프트업의 김형태 대표까지 나서 출시 막바지 홍보를 진행한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]'나 혼자만 레벨업', 넷마블 귀환의 '복병'될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211200003</link>
-            <guid>https://www.bloter.net/newsView/blt202211200003</guid>
-            <pubDate>Sun, 20 Nov 2022 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블이 부산 벡스코 '지스타 2022'에서 시연대를 마련한 싱글 플레이 RPG '나 혼자만 레벨업: ARISE(이하 나 혼자만 레벨업)'가 선전했다. '파라곤: 디 오버프라임', '하이프스쿼드' 등 새로운 대작으로 이목이 집중되며 비교적 기대감이 낮은 게임이었지만 시연대에 오]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
