@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 폭스콘 근로자, 근무 환경에 불만 '폭력 행사']]></title>
+            <link>https://www.bloter.net/newsView/blt202211240001</link>
+            <guid>https://www.bloter.net/newsView/blt202211240001</guid>
+            <pubDate>Thu, 24 Nov 2022 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-24 09:20:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['KB라이프생명' 사령탑에 이환주 KB생명 대표…선정 배경은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230015</link>
+            <guid>https://www.bloter.net/newsView/blt202211230015</guid>
+            <pubDate>Thu, 24 Nov 2022 06:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-23 19:24:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG화학, 선택의 시간 다가오나…지분매각 열쇠 쥔 차동석 CFO]]></title>
             <link>https://www.bloter.net/newsView/blt202211230011</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 23 Nov 2022 11:14:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-23 14:18:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도건설, '유보라 천안 두정역' 선착순 동·호수 지정 계약중]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230006</link>
-            <guid>https://www.bloter.net/newsView/blt202211230006</guid>
-            <pubDate>Wed, 23 Nov 2022 09:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-23 14:16:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 틱톡 대상 조사 진행 중…"사용자 데이터 이전, 미성년자 정책 포함"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230003</link>
-            <guid>https://www.bloter.net/newsView/blt202211230003</guid>
-            <pubDate>Wed, 23 Nov 2022 09:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 09:51:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
