@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG화학 차동석 CFO 사장 승진...첨단소재·생명과학 승진자 '눈길']]></title>
+            <link>https://www.bloter.net/newsView/blt202211230010</link>
+            <guid>https://www.bloter.net/newsView/blt202211230010</guid>
+            <pubDate>Thu, 24 Nov 2022 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-23 17:25:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[①인수금액·지분율 중구난방, 내부혼돈 반영?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220012</link>
+            <guid>https://www.bloter.net/newsView/blt202211220012</guid>
+            <pubDate>Thu, 24 Nov 2022 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span><span class="writer">구태우</span>                        <span class="date">2022-11-23 16:09:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220024.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리볼빙에 '분칠'한 신한카드…불완전판매 근절 가능할지 '의구심']]></title>
             <link>https://www.bloter.net/newsView/blt202211230008</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 23 Nov 2022 07:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 08:59:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[英, 애플·구글 브라우저 독점 심층조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230001</link>
-            <guid>https://www.bloter.net/newsView/blt202211230001</guid>
-            <pubDate>Wed, 23 Nov 2022 06:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-23 08:17:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[①글로벌 기업 도약 정조준...재무전략 고도화 핵심]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220017</link>
-            <guid>https://www.bloter.net/newsView/blt202211220017</guid>
-            <pubDate>Wed, 23 Nov 2022 06:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-22 20:10:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220034.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

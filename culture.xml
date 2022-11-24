@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설문조사에 빠진 일론 머스크...'영구 금지'된 트위터 계정 복구 찬반투표]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240003</link>
+            <guid>https://www.bloter.net/newsView/blt202211240003</guid>
+            <pubDate>Thu, 24 Nov 2022 01:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[소셜미디어(SNS) 트위터를 인수한 일론 머스크가 현재 중단된 모든 계정을 부활시킬지 묻는 설문조사를 게시했다.   23일(이하 현지시간) 머스크는 자신의 트위터에 “법을 어기거나 끔찍한 스팸을 내보내지 않은 경우에 한해 트위터가 모든 정지된 계정에 사면을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?"]]></title>
             <link>https://www.bloter.net/newsView/blt202211230013</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 20 Nov 2022 09:21:03 GMT</pubDate>
             <content:encoded><![CDATA[넷마블이 부산 벡스코 '지스타 2022'에서 시연대를 마련한 싱글 플레이 RPG '나 혼자만 레벨업: ARISE(이하 나 혼자만 레벨업)'가 선전했다. '파라곤: 디 오버프라임', '하이프스쿼드' 등 새로운 대작으로 이목이 집중되며 비교적 기대감이 낮은 게임이었지만 시연대에 오]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기는 지스타]파라곤: 디 오버프라임, '하고 보는' 재미 다 잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211200001</link>
-            <guid>https://www.bloter.net/newsView/blt202211200001</guid>
-            <pubDate>Sun, 20 Nov 2022 07:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블이 지난 17일부터 개막한 국제게임전시회 '지스타 2022'에서 PC게임 '파라곤: 디 오버프라임'을 선보이고 시연대를 마련했다. 파라곤: 디 오버프라임은 3D TPS MOBA(진지점령) 장르로, 두 팀으로 나뉘어 대결을 펼치는 게임인 만큼 승부에 집중하는 재미를 느낄 수]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/20/blt202211200005.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
