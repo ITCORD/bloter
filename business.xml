@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 06:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 07:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설문조사에 빠진 일론 머스크...'영구 금지'된 트위터 계정 복구 찬반투표]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240003</link>
+            <guid>https://www.bloter.net/newsView/blt202211240003</guid>
+            <pubDate>Thu, 24 Nov 2022 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-24 10:03:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[中 폭스콘 근로자, 근무 환경에 불만 '폭력 행사']]></title>
             <link>https://www.bloter.net/newsView/blt202211240001</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 24 Nov 2022 01:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span><span class="writer">구태우</span>                        <span class="date">2022-11-23 16:09:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220024.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리볼빙에 '분칠'한 신한카드…불완전판매 근절 가능할지 '의구심']]></title>
-            <link>https://www.bloter.net/newsView/blt202211230008</link>
-            <guid>https://www.bloter.net/newsView/blt202211230008</guid>
-            <pubDate>Wed, 23 Nov 2022 11:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-23 14:18:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
