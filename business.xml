@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[승진한 이명우 부회장, 동원그룹 ‘스마트 연어 키우기’ 주력]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240011</link>
+            <guid>https://www.bloter.net/newsView/blt202211240011</guid>
+            <pubDate>Thu, 24 Nov 2022 09:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-24 15:08:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[②정의선의 송창현 무한 신뢰, 2000억+사장+고가전세집]]></title>
             <link>https://www.bloter.net/newsView/blt202211240010</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 24 Nov 2022 06:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-23 19:24:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230032.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG화학, 선택의 시간 다가오나…지분매각 열쇠 쥔 차동석 CFO]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230011</link>
-            <guid>https://www.bloter.net/newsView/blt202211230011</guid>
-            <pubDate>Thu, 24 Nov 2022 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-23 17:26:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
