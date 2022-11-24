@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 12:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 13:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고려아연, 18년 만에 자사주 처분...'집안 갈등' 봉합 수순]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240008</link>
+            <guid>https://www.bloter.net/newsView/blt202211240008</guid>
+            <pubDate>Thu, 24 Nov 2022 13:27:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-24 16:41:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240009.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[토스뱅크의 화두는 '카드업'…신규 주주로 하나카드 합류]]></title>
             <link>https://www.bloter.net/newsView/blt202211240015</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 24 Nov 2022 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-24 10:28:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[설문조사에 빠진 일론 머스크...'영구 금지'된 트위터 계정 복구 찬반투표]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240003</link>
-            <guid>https://www.bloter.net/newsView/blt202211240003</guid>
-            <pubDate>Thu, 24 Nov 2022 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-24 10:03:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

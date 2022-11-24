@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 12:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 13:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값']]></title>
+            <link>https://www.bloter.net/newsView/blt202211240025</link>
+            <guid>https://www.bloter.net/newsView/blt202211240025</guid>
+            <pubDate>Thu, 24 Nov 2022 13:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드 장현국 대표는 자사가 발행하는 가상자산 '위믹스(WEMIX)'의 국내 거래소 상장폐지 가능성이 없다고 지난 17일 지스타에서 호언장담했다. 이 말을 믿고 위믹스를 홀딩하고 매수한 투자자들 덕분에 2000원대를 지켰다. 그렇지만 투자자들은 24일 오후 8시 47분]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240050.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[클래스101 픽]"취업 당연한 시대 지났다"…'호야초'가 알려주는 '3D 디자인']]></title>
             <link>https://www.bloter.net/newsView/blt202211240009</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Nov 2022 05:21:24 GMT</pubDate>
             <content:encoded><![CDATA['던전 앤 파이터(이하 던파)' 개발을 총괄했던 윤명진 액션스튜디오 이사가 본진 '네오플'의 대표이사로 내정됐다. 네오플은 대표이사 교체를 통해 던파 IP 가치를 확대하는 한편 글로벌 경쟁력을 확대할 계기로 삼을 계획이다.   윤명진 네오플 신임 대표 내정자는 ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210007.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 "트위터 복귀 없다"…한 발 늦은 계정 부활]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210001</link>
-            <guid>https://www.bloter.net/newsView/blt202211210001</guid>
-            <pubDate>Mon, 21 Nov 2022 01:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[도널드 트럼프 전 미국 대통령이 트위터로 돌아가지 않겠다고 밝혔다. 자신이 만든 SNS '트루르소셜'의 이용자 참여가 높은 데다 가짜 계정 등 트위터 자체의 문제가 많기 때문인 것으로 풀이된다.   20일(이하 현지시간) &lt;로이터통신&gt;에 따르면 트럼프는 전날 참]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
