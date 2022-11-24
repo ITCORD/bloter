@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 07:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 08:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 류재철 H&A사업본부장 사장 승진…‘고객경험·전장사업’ 강화]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240016</link>
+            <guid>https://www.bloter.net/newsView/blt202211240016</guid>
+            <pubDate>Thu, 24 Nov 2022 08:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-24 17:06:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240033.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베일 벗는 르세라핌 웹툰·웹소설…'크림슨 하트' 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202211240006</link>
             <guid>https://www.bloter.net/newsView/blt202211240006</guid>
             <pubDate>Thu, 24 Nov 2022 04:22:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-24 12:40:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴먼스케이프, 희귀·난치질환 환자단체와 손잡고 치료 환경 개선 나서]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 22 Nov 2022 09:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-22 17:36:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사는 경험'으로 나아가는 직방과 '스마트홈' 사업 의미]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220011</link>
-            <guid>https://www.bloter.net/newsView/blt202211220011</guid>
-            <pubDate>Tue, 22 Nov 2022 08:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-22 16:47:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
