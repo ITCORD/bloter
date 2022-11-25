@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 07:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값']]></title>
+            <link>https://www.bloter.net/newsView/blt202211240025</link>
+            <guid>https://www.bloter.net/newsView/blt202211240025</guid>
+            <pubDate>Fri, 25 Nov 2022 07:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-24 22:24:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240050.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG그룹 인사, 미래 먹거리 챙길 '에너지솔루션·화학·전장'에 방점]]></title>
             <link>https://www.bloter.net/newsView/blt202211240017</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 24 Nov 2022 10:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-24 16:36:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전략재무통’ 정호영 LGD 사장 유임…위기관리 능력 빛볼까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240013</link>
-            <guid>https://www.bloter.net/newsView/blt202211240013</guid>
-            <pubDate>Thu, 24 Nov 2022 10:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-24 15:54:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240027.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
