@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 08:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이낸스, FTX 붕괴 피해 막기 위해 ‘가상자산 산업기금’ 10억달러 조성]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250001</link>
+            <guid>https://www.bloter.net/newsView/blt202211250001</guid>
+            <pubDate>Fri, 25 Nov 2022 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 08:21:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값']]></title>
             <link>https://www.bloter.net/newsView/blt202211240025</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 24 Nov 2022 13:27:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-24 16:41:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240009.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크의 화두는 '카드업'…신규 주주로 하나카드 합류]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240015</link>
-            <guid>https://www.bloter.net/newsView/blt202211240015</guid>
-            <pubDate>Thu, 24 Nov 2022 10:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-24 16:36:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240031.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
