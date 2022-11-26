@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 04:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 05:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제레미 위어 트라피구라 회장, 25일 SK이노베이션 최고경영층 만났다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250011</link>
+            <guid>https://www.bloter.net/newsView/blt202211250011</guid>
+            <pubDate>Sat, 26 Nov 2022 05:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-25 16:07:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, ‘업그레이드된 FSD’ 미국·캐나다서 확대 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202211250004</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 25 Nov 2022 01:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">김수민</span>                        <span class="date">2022-11-24 18:47:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240044.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG에너지솔루션 김동명 사장 승진...자동차전지 부문서 승진자 다수 배출]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240020</link>
-            <guid>https://www.bloter.net/newsView/blt202211240020</guid>
-            <pubDate>Fri, 25 Nov 2022 01:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-24 18:45:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240045.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
