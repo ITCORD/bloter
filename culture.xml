@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 23:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 01:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'재벌집 막내아들'은 시작?…컴투스, 콘텐츠 수혜 더 남았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250013</link>
+            <guid>https://www.bloter.net/newsView/blt202211250013</guid>
+            <pubDate>Sat, 26 Nov 2022 01:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[최근 JTBC 드라마 '재벌집 막내아들'이 화제를 모으면서 제작사 SLL과 래몽래인에 관심이 집중되고 있다. 재벌집 막내아들의 경우 본 방송은 JTBC에서 방영되지만 넷플릭스, 디즈니+, 티빙 등 다양한 OTT 채널에서 스트리밍되는 만큼 그 영향력도 빠르게 확산되는 모습이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값']]></title>
             <link>https://www.bloter.net/newsView/blt202211240025</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Nov 2022 09:23:16 GMT</pubDate>
             <content:encoded><![CDATA["PC와 아이패드 모두 퀄리티가 우수하다"카카오게임즈가 '지스타 2022'에 출품한 MMORPG '아레스: 라이즈 오브 가디언즈(이하 아레스)'를 시연한 뒤 든 감상이다. PC에서 아쉬운 부분은 아이패드에서, 아이패드에서 아쉬운 부분은 PC에서 각각 상호보완됐다.    SF 배경&amp;middo]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210025.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['던파의 아버지' 윤명진, '네오플' 대표된다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210005</link>
-            <guid>https://www.bloter.net/newsView/blt202211210005</guid>
-            <pubDate>Mon, 21 Nov 2022 05:21:24 GMT</pubDate>
-            <content:encoded><![CDATA['던전 앤 파이터(이하 던파)' 개발을 총괄했던 윤명진 액션스튜디오 이사가 본진 '네오플'의 대표이사로 내정됐다. 네오플은 대표이사 교체를 통해 던파 IP 가치를 확대하는 한편 글로벌 경쟁력을 확대할 계기로 삼을 계획이다.   윤명진 네오플 신임 대표 내정자는 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210007.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
