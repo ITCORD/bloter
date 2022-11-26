@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 02:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 03:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태풍에 잠겼던 포항제철소...'침수 80일' 쇳물이 콸콸 쏟아진다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250006</link>
-            <guid>https://www.bloter.net/newsView/blt202211250006</guid>
-            <pubDate>Sat, 26 Nov 2022 01:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-26 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250017.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[도박과 비리가 앞당긴 '공공기관 노동이사제']]></title>
+            <link>https://www.bloter.net/newsView/blt202211250022</link>
+            <guid>https://www.bloter.net/newsView/blt202211250022</guid>
+            <pubDate>Sat, 26 Nov 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-26 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250044.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코홀딩스, 3분기 영업이익 1조 하회...'잔치는 끝났다']]></title>
-            <link>https://www.bloter.net/newsView/blt202210190004</link>
-            <guid>https://www.bloter.net/newsView/blt202210190004</guid>
-            <pubDate>Sat, 26 Nov 2022 01:13:25 GMT</pubDate>
+            <title><![CDATA[고려아연, 18년 만에 자사주 처분...'집안 갈등' 봉합 수순]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240008</link>
+            <guid>https://www.bloter.net/newsView/blt202211240008</guid>
+            <pubDate>Sat, 26 Nov 2022 03:23:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코, '힌남노'가 세운 고로...10일 순차 가동]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080013</link>
-            <guid>https://www.bloter.net/newsView/blt202209080013</guid>
-            <pubDate>Sat, 26 Nov 2022 01:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG화학, 선택의 시간 다가오나…지분매각 열쇠 쥔 차동석 CFO]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230011</link>
+            <guid>https://www.bloter.net/newsView/blt202211230011</guid>
+            <pubDate>Sat, 26 Nov 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스튜디오산타클로스, 11월 주가는 왜 연이어 상승했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220016</link>
+            <guid>https://www.bloter.net/newsView/blt202211220016</guid>
+            <pubDate>Sat, 26 Nov 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS·원조 메타버스와 영그는 두나무의 '글로벌 기업' 꿈]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210008</link>
+            <guid>https://www.bloter.net/newsView/blt202211210008</guid>
+            <pubDate>Sat, 26 Nov 2022 03:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
