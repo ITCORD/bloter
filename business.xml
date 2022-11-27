@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 23:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 01:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍에 잠겼던 포항제철소...'침수 80일' 쇳물이 콸콸 쏟아진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250006</link>
+            <guid>https://www.bloter.net/newsView/blt202211250006</guid>
+            <pubDate>Sun, 27 Nov 2022 01:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-26 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[③강신호 대표 ‘풀필먼트 8배 확장’ 약속…공수표 가능성은]]></title>
             <link>https://www.bloter.net/newsView/blt202211250018</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 25 Nov 2022 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 08:21:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값']]></title>
-            <link>https://www.bloter.net/newsView/blt202211240025</link>
-            <guid>https://www.bloter.net/newsView/blt202211240025</guid>
-            <pubDate>Fri, 25 Nov 2022 07:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-24 22:24:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240050.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
