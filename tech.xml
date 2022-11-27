@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 06:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 07:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크체인저]웹에이전시 애드펄스가 '솔루션 기업'으로 거듭나려는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250003</link>
+            <guid>https://www.bloter.net/newsView/blt202211250003</guid>
+            <pubDate>Sun, 27 Nov 2022 07:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-27 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이세계아이돌 팬덤 뺏을까…메타버스로 세계관 확장하는 '트리플에스']]></title>
             <link>https://www.bloter.net/newsView/blt202211240014</link>
             <guid>https://www.bloter.net/newsView/blt202211240014</guid>
             <pubDate>Sun, 27 Nov 2022 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-27 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마존, 창고 AI 카메라 분석에 '값싼 노동력' 투입...고강도 노동 논란]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 24 Nov 2022 11:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-11-24 19:33:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240048.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG그룹 인사, 미래 먹거리 챙길 '에너지솔루션·화학·전장'에 방점]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240017</link>
-            <guid>https://www.bloter.net/newsView/blt202211240017</guid>
-            <pubDate>Thu, 24 Nov 2022 10:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span><span class="writer">김수민</span>                        <span class="date">2022-11-24 18:47:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
