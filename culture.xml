@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 07:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 08:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기어때, 해외로]①김진성 CSO "新서비스, 2년 내 국내 넘어설 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211270001</link>
+            <guid>https://www.bloter.net/newsView/blt202211270001</guid>
+            <pubDate>Sun, 27 Nov 2022 08:22:27 GMT</pubDate>
+            <content:encoded><![CDATA["내년 이맘때면 적어도 일본, 동남아시아 여행을 준비할 때 '여기어때' 애플리케이션(앱)을 열어보지 않으면 손해를 본다는 느낌이 들 겁니다. 여행자들이 이렇게 느끼도록 여기어때 앱을 고도화시키는 것이 당장의 목표입니다"김진성 여기어때 전략총괄 부사장 CSO(]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/27/blt202211270005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'재벌집 막내아들'은 시작?…컴투스, 콘텐츠 수혜 더 남았다]]></title>
             <link>https://www.bloter.net/newsView/blt202211250013</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 21 Nov 2022 09:23:16 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 숏폼 플랫폼 '틱톡'이 지난해에 이어 두 번째로 지스타에 참여했다. 틱톡은 이용자들의 게임 및 게임 영상에 대한 높은 관심도를 바탕으로 게임 광고 플랫폼으로도 자리매김하겠다는 포부다. 이를 통해 틱톡은 특유의 크리에이티브한 숏폼 영상을 이용한 브]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/17/blt202211170001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지스타 이야기]'아레스'로 본 카겜표 MMORPG, 그래픽·액션성 '합격점']]></title>
-            <link>https://www.bloter.net/newsView/blt202211210012</link>
-            <guid>https://www.bloter.net/newsView/blt202211210012</guid>
-            <pubDate>Mon, 21 Nov 2022 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA["PC와 아이패드 모두 퀄리티가 우수하다"카카오게임즈가 '지스타 2022'에 출품한 MMORPG '아레스: 라이즈 오브 가디언즈(이하 아레스)'를 시연한 뒤 든 감상이다. PC에서 아쉬운 부분은 아이패드에서, 아이패드에서 아쉬운 부분은 PC에서 각각 상호보완됐다.    SF 배경&amp;middo]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/21/blt202211210025.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
