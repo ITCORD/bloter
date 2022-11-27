@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 05:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 06:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘잘 싸운 한국’…편의점 월드컵 특수 기대감 상승]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250027</link>
+            <guid>https://www.bloter.net/newsView/blt202211250027</guid>
+            <pubDate>Sun, 27 Nov 2022 06:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-26 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250055.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도박과 비리가 앞당긴 '공공기관 노동이사제']]></title>
             <link>https://www.bloter.net/newsView/blt202211250022</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 26 Nov 2022 03:23:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 10:05:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250004.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 브뤼셀 직원 전원 퇴사...강화되는 EU 규제 어떻게 대응할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250002</link>
-            <guid>https://www.bloter.net/newsView/blt202211250002</guid>
-            <pubDate>Sat, 26 Nov 2022 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 09:06:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
