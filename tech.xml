@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴온스의 리도카인 생산 라인 증설…2025년 매출 고점 분기점 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211280006</link>
+            <guid>https://www.bloter.net/newsView/blt202211280006</guid>
+            <pubDate>Mon, 28 Nov 2022 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-28 14:41:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크 "트위터, 하루 200만명씩 가입했다"]]></title>
             <link>https://www.bloter.net/newsView/blt202211280003</link>
             <guid>https://www.bloter.net/newsView/blt202211280003</guid>
             <pubDate>Mon, 28 Nov 2022 02:59:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 10:20:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美 블랙프라이데이, 온라인 매출만 12조…사상 최대치 기록]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 25 Nov 2022 03:02:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-25 11:51:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, ‘업그레이드된 FSD’ 미국·캐나다서 확대 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250004</link>
-            <guid>https://www.bloter.net/newsView/blt202211250004</guid>
-            <pubDate>Fri, 25 Nov 2022 01:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 10:05:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250004.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
