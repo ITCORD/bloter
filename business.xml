@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 23:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 01:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차, 美 가정용 충전 시스템 ‘현대 홈’ 출시…전기차 진입장벽 낮춘다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250024</link>
+            <guid>https://www.bloter.net/newsView/blt202211250024</guid>
+            <pubDate>Mon, 28 Nov 2022 01:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-27 10:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250051.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테라노스 사기극 엘리자베스 홈즈의 중형, “실리콘밸리 막대한 투자금 때문”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250026</link>
+            <guid>https://www.bloter.net/newsView/blt202211250026</guid>
+            <pubDate>Mon, 28 Nov 2022 01:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-26 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250053.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘잘 싸운 한국’…편의점 월드컵 특수 기대감 상승]]></title>
             <link>https://www.bloter.net/newsView/blt202211250027</link>
@@ -38,22 +54,6 @@
             <pubDate>Sat, 26 Nov 2022 07:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-25 17:47:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250041.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제레미 위어 트라피구라 회장, 25일 SK이노베이션 최고경영층 만났다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250011</link>
-            <guid>https://www.bloter.net/newsView/blt202211250011</guid>
-            <pubDate>Sat, 26 Nov 2022 05:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-25 16:07:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, ‘업그레이드된 FSD’ 미국·캐나다서 확대 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250004</link>
-            <guid>https://www.bloter.net/newsView/blt202211250004</guid>
-            <pubDate>Sat, 26 Nov 2022 03:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 10:05:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250004.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
