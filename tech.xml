@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 01:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크 "트위터, 하루 200만명씩 가입했다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211280003</link>
+            <guid>https://www.bloter.net/newsView/blt202211280003</guid>
+            <pubDate>Mon, 28 Nov 2022 02:59:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 10:20:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280004.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 블랙프라이데이, 온라인 매출만 12조…사상 최대치 기록]]></title>
             <link>https://www.bloter.net/newsView/blt202211280002</link>
             <guid>https://www.bloter.net/newsView/blt202211280002</guid>
             <pubDate>Mon, 28 Nov 2022 01:14:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 09:48:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[中 폭스콘 생산 차질 "애플, 일주일에 1조3000억원 손실"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 25 Nov 2022 01:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 10:05:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250004.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 브뤼셀 직원 전원 퇴사...강화되는 EU 규제 어떻게 대응할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250002</link>
-            <guid>https://www.bloter.net/newsView/blt202211250002</guid>
-            <pubDate>Fri, 25 Nov 2022 01:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-25 09:06:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
