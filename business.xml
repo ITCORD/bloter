@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 04:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 중앙화된 업비트…어느새 쥔 블록체인 프로젝트 '생사여탈권']]></title>
+            <link>https://www.bloter.net/newsView/blt202211280011</link>
+            <guid>https://www.bloter.net/newsView/blt202211280011</guid>
+            <pubDate>Tue, 29 Nov 2022 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-28 16:00:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[④수익부터 챙긴 CJ프레시웨이…3조 매출 재정복 가능할까]]></title>
             <link>https://www.bloter.net/newsView/blt202211280010</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 28 Nov 2022 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 08:34:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세계아이돌 팬덤 뺏을까…메타버스로 세계관 확장하는 '트리플에스']]></title>
-            <link>https://www.bloter.net/newsView/blt202211240014</link>
-            <guid>https://www.bloter.net/newsView/blt202211240014</guid>
-            <pubDate>Mon, 28 Nov 2022 08:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-27 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240025.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
