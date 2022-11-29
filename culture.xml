@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 23:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 01:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보 유출 메타, 아일랜드에서 과징금 3700억원 '철퇴']]></title>
+            <link>https://www.bloter.net/newsView/blt202211290003</link>
+            <guid>https://www.bloter.net/newsView/blt202211290003</guid>
+            <pubDate>Tue, 29 Nov 2022 01:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[메타가 유럽연합(EU)의 개인정보보호 규정을 어겼다는 혐의로 아일랜드 데이터보호위원회(DPC)로부터 2억6500만유로(약 3680억원)의 과징금을 부과 받았다. 메타가 DPC에게 과징금 처분을 받은 것은 최근 2년 사이 이번이 네 번째다.   28일(현지시간) DPC는 지난 2018년 5월]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '외통수' 막아라…韓 IPTV 3사 '아이픽' 공동전선 구축]]></title>
             <link>https://www.bloter.net/newsView/blt202211280014</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 03:01:27 GMT</pubDate>
             <content:encoded><![CDATA[라이온하트스튜디오가 개발중인 신작 '프로젝트C'가 서브컬쳐 장르로 만들어진다. 프로젝트C가 관련 장르로 개발되는 만큼, 라이온하트스튜디오의 최대주주인 카카오게임즈가 퍼블리싱을 맡아 관계사간 시너지를 낼 가능성이 높아진 상황이다.  22일 &lt;블로터&gt;]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220026.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]넷플릭스 '썸바디', 극단의 이질감을 만나다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220005</link>
-            <guid>https://www.bloter.net/newsView/blt202211220005</guid>
-            <pubDate>Mon, 28 Nov 2022 03:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠 안에서 구현되는 '캐릭터'는 극의 집중도를 견인하는 필수 요소다. 특정 사건·내레이션(독백)·말투 등 극본에 의한 인물 설정을 통해 입체적인 캐릭터가 만들어지는데, 이런 설정의 대비차가 클 경우 호불호도 커지기 마련이다. 지난 18일 공개된 넷]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
