@@ -4,23 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 07:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[부동산 경매앱 미스고옥션 "실거래가 정보, 한눈에 보세요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290011</link>
-            <guid>https://www.bloter.net/newsView/blt202211290011</guid>
-            <pubDate>Tue, 29 Nov 2022 06:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 15:06:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290014.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[⑤흑자전환 했지만…CJ CGV, 아직 이자벌이도 힘들다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290018</link>
+            <guid>https://www.bloter.net/newsView/blt202211290018</guid>
+            <pubDate>Tue, 29 Nov 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-29 17:19:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290019.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대출이자 낮추고 투자수익 높이는 핀테크]]></title>
-            <link>https://www.bloter.net/newsView/blt202205110153</link>
-            <guid>https://www.bloter.net/newsView/blt202205110153</guid>
-            <pubDate>Tue, 29 Nov 2022 06:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[④수익부터 챙긴 CJ프레시웨이…3조 매출 재정복 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211280010</link>
+            <guid>https://www.bloter.net/newsView/blt202211280010</guid>
+            <pubDate>Tue, 29 Nov 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[③강신호 대표 ‘풀필먼트 8배 확장’ 약속…공수표 가능성은]]></title>
+            <link>https://www.bloter.net/newsView/blt202211250018</link>
+            <guid>https://www.bloter.net/newsView/blt202211250018</guid>
+            <pubDate>Tue, 29 Nov 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[②'유연'과 '위험' 사이...CJ제일제당, 서울대 출신 CFO 3인방 재무전략은]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240018</link>
+            <guid>https://www.bloter.net/newsView/blt202211240018</guid>
+            <pubDate>Tue, 29 Nov 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[①글로벌 기업 도약 정조준...재무전략 고도화 핵심]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220017</link>
+            <guid>https://www.bloter.net/newsView/blt202211220017</guid>
+            <pubDate>Tue, 29 Nov 2022 08:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
