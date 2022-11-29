@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 22:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 23:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 공장 시위로 혼란 겪는 폭스콘, “복귀하는 근로자에게 보너스 지급”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300001</link>
+            <guid>https://www.bloter.net/newsView/blt202211300001</guid>
+            <pubDate>Tue, 29 Nov 2022 23:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 08:17:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[대웅이 만든 '펙수클루', 일괄 약가 인하 '위기']]></title>
             <link>https://www.bloter.net/newsView/blt202211290021</link>
             <guid>https://www.bloter.net/newsView/blt202211290021</guid>
             <pubDate>Tue, 29 Nov 2022 21:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-30 06:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290028.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AWS 리인벤트 현장]넷플릭스·세일즈포스·넷앱 서비스 속엔 클라우드가 있다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 28 Nov 2022 06:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-28 14:41:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크 "트위터, 하루 200만명씩 가입했다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280003</link>
-            <guid>https://www.bloter.net/newsView/blt202211280003</guid>
-            <pubDate>Mon, 28 Nov 2022 02:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 10:20:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280004.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
