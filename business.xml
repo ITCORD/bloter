@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 06:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 07:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中, 제로 코로나 시위 소식 '쉬쉬'...해외SNS 앱 설치 단속나섰다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290002</link>
+            <guid>https://www.bloter.net/newsView/blt202211290002</guid>
+            <pubDate>Tue, 29 Nov 2022 07:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-29 08:40:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[너무 중앙화된 업비트…어느새 쥔 블록체인 프로젝트 '생사여탈권']]></title>
             <link>https://www.bloter.net/newsView/blt202211280011</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 28 Nov 2022 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 09:48:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中 폭스콘 생산 차질 "애플, 일주일에 1조3000억원 손실"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280001</link>
-            <guid>https://www.bloter.net/newsView/blt202211280001</guid>
-            <pubDate>Mon, 28 Nov 2022 08:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-28 08:34:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
