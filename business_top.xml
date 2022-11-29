@@ -4,30 +4,23 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 06:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[건설도 'ESG 바람'...포스코그룹, '친환경 철강 솔루션' 확대 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290009</link>
-            <guid>https://www.bloter.net/newsView/blt202211290009</guid>
-            <pubDate>Tue, 29 Nov 2022 05:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-29 13:58:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290012.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[부동산 경매앱 미스고옥션 "실거래가 정보, 한눈에 보세요"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290011</link>
+            <guid>https://www.bloter.net/newsView/blt202211290011</guid>
+            <pubDate>Tue, 29 Nov 2022 06:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 15:06:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290014.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[포스코홀딩스, 3분기 영업이익 1조 하회...'잔치는 끝났다']]></title>
-            <link>https://www.bloter.net/newsView/blt202210190004</link>
-            <guid>https://www.bloter.net/newsView/blt202210190004</guid>
-            <pubDate>Tue, 29 Nov 2022 05:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포스코홀딩스·LG엔솔 "배터리로 100년 기업되자"...전 밸류체인 포괄적 협력키로]]></title>
-            <link>https://www.bloter.net/newsView/blt202210100006</link>
-            <guid>https://www.bloter.net/newsView/blt202210100006</guid>
-            <pubDate>Tue, 29 Nov 2022 05:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대출이자 낮추고 투자수익 높이는 핀테크]]></title>
+            <link>https://www.bloter.net/newsView/blt202205110153</link>
+            <guid>https://www.bloter.net/newsView/blt202205110153</guid>
+            <pubDate>Tue, 29 Nov 2022 06:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
