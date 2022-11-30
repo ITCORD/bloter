@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -282,26 +282,49 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290023.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대차그룹 '재무통' 이규복, 현대글로비스 대표이사 선임 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300007</link>
-            <guid>https://www.bloter.net/newsView/blt202211300007</guid>
-            <pubDate>Wed, 30 Nov 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-30 13:14:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300008.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300011</link>
+            <guid>https://www.bloter.net/newsView/blt202211300011</guid>
+            <pubDate>Wed, 30 Nov 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-30 15:19:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300014.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대글로비스, 美 현지 중고차 경매업체 인수 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202210040007</link>
-            <guid>https://www.bloter.net/newsView/blt202210040007</guid>
-            <pubDate>Wed, 30 Nov 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[너무 중앙화된 업비트…어느새 쥔 블록체인 프로젝트 '생사여탈권' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211280011</link>
+            <guid>https://www.bloter.net/newsView/blt202211280011</guid>
+            <pubDate>Mon, 28 Nov 2022 07:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최대 실적 낸 현대글로비스...'외상값'도 역대급, '현금운용 빠듯' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207280023</link>
-            <guid>https://www.bloter.net/newsView/blt202207280023</guid>
-            <pubDate>Wed, 30 Nov 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240025</link>
+            <guid>https://www.bloter.net/newsView/blt202211240025</guid>
+            <pubDate>Thu, 24 Nov 2022 13:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흥국생명, 볼펜값 아끼더니 '콜옵션 사태'까지…금융위·금감원도 책임론 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211090014</link>
+            <guid>https://www.bloter.net/newsView/blt202211090014</guid>
+            <pubDate>Wed, 30 Nov 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[美 점유율 1위 테슬라, “2025년 20% 미만으로 떨어질 것” (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300003</link>
+            <guid>https://www.bloter.net/newsView/blt202211300003</guid>
+            <pubDate>Wed, 30 Nov 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 10:20:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300004.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 코로나19 가짜뉴스 규제 슬그머니 중단 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300002</link>
+            <guid>https://www.bloter.net/newsView/blt202211300002</guid>
+            <pubDate>Wed, 30 Nov 2022 01:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 09:05:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300003.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[中 공장 시위로 혼란 겪는 폭스콘, “복귀하는 근로자에게 보너스 지급” (블로터 ─ 비즈니스)]]></title>
@@ -334,22 +357,6 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <pubDate>Tue, 29 Nov 2022 08:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 16:45:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정준양 포스코 전 회장, 국내 상장사서 연이어 사외이사 '러브콜'...전임 회장 중 이례적 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290013</link>
-            <guid>https://www.bloter.net/newsView/blt202211290013</guid>
-            <pubDate>Tue, 29 Nov 2022 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-29 16:37:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부동산 경매앱 미스고옥션 "실거래가 정보, 한눈에 보세요" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290011</link>
-            <guid>https://www.bloter.net/newsView/blt202211290011</guid>
-            <pubDate>Tue, 29 Nov 2022 06:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 15:06:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290014.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -388,12 +395,28 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300011</link>
+            <guid>https://www.bloter.net/newsView/blt202211300011</guid>
+            <pubDate>Wed, 30 Nov 2022 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-30 15:19:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[디즈니 쇼케이스]루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300010</link>
+            <guid>https://www.bloter.net/newsView/blt202211300010</guid>
+            <pubDate>Wed, 30 Nov 2022 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date">2022-11-30 14:46:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금융권 'Pick' 삼성 폴더블폰, 기업용 태블릿 대안으로 부상 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211300004</link>
             <guid>https://www.bloter.net/newsView/blt202211300004</guid>
             <pubDate>Wed, 30 Nov 2022 02:50:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-30 11:43:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 점유율 1위 테슬라, “2025년 20% 미만으로 떨어질 것” (블로터 ─ 테크)]]></title>
@@ -514,22 +537,6 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <pubDate>Mon, 28 Nov 2022 10:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-28 19:03:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트 현장]삼성·네이버 혁신 사례 체감할 클라우드 컨퍼런스, 라스베이거스 물들인다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280013</link>
-            <guid>https://www.bloter.net/newsView/blt202211280013</guid>
-            <pubDate>Mon, 28 Nov 2022 10:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-28 18:23:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]약한영웅, 시즌2 나올 수 밖에 없는 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280012</link>
-            <guid>https://www.bloter.net/newsView/blt202211280012</guid>
-            <pubDate>Mon, 28 Nov 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-28 17:53:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -808,6 +815,14 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[디즈니 쇼케이스]루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300010</link>
+            <guid>https://www.bloter.net/newsView/blt202211300010</guid>
+            <pubDate>Wed, 30 Nov 2022 06:23:33 GMT</pubDate>
+            <content:encoded><![CDATA["K콘텐츠에서는 카지노와 무빙을 많이 기대하고 있습니다"루크 강 월트디즈니컴퍼니(디즈니) 아시아태평양(아태)지역 총괄 사장은 30일(현지 시간) 열린 '디즈니 콘텐츠 쇼케이스 2022'에서 이같이 말했다.이날 열린 쇼케이스는 디즈니 인터내셔널 콘텐츠 및 오퍼레이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300012.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개인정보 유출 메타, 아일랜드에서 과징금 3700억원 '철퇴' (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202211290003</link>
             <guid>https://www.bloter.net/newsView/blt202211290003</guid>
@@ -894,14 +909,6 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <pubDate>Tue, 22 Nov 2022 10:18:06 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 공시요약 오늘(22일) 소개할 공시는 주식회사 스튜디오산타클로스 엔터테인먼트(이하 스튜디오산타클로스)가 이날 공시한 '주권매매거래정지(무상증자)' 입니다. 스튜디오산타클로스는 1주당 신주 5주를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220033.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'오딘' 개발사 차기작은 '서브컬쳐'…카카오게임즈 시너지 눈 앞 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220014</link>
-            <guid>https://www.bloter.net/newsView/blt202211220014</guid>
-            <pubDate>Tue, 22 Nov 2022 09:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[라이온하트스튜디오가 개발중인 신작 '프로젝트C'가 서브컬쳐 장르로 만들어진다. 프로젝트C가 관련 장르로 개발되는 만큼, 라이온하트스튜디오의 최대주주인 카카오게임즈가 퍼블리싱을 맡아 관계사간 시너지를 낼 가능성이 높아진 상황이다.  22일 &lt;블로터&gt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220026.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'재벌집 막내아들'은 시작?…컴투스, 콘텐츠 수혜 더 남았다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

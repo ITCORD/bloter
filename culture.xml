@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니 쇼케이스]루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300010</link>
+            <guid>https://www.bloter.net/newsView/blt202211300010</guid>
+            <pubDate>Wed, 30 Nov 2022 06:23:33 GMT</pubDate>
+            <content:encoded><![CDATA["K콘텐츠에서는 카지노와 무빙을 많이 기대하고 있습니다"루크 강 월트디즈니컴퍼니(디즈니) 아시아태평양(아태)지역 총괄 사장은 30일(현지 시간) 열린 '디즈니 콘텐츠 쇼케이스 2022'에서 이같이 말했다.이날 열린 쇼케이스는 디즈니 인터내셔널 콘텐츠 및 오퍼레이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300012.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개인정보 유출 메타, 아일랜드에서 과징금 3700억원 '철퇴']]></title>
             <link>https://www.bloter.net/newsView/blt202211290003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Nov 2022 02:55:33 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 공시요약 오늘(22일) 소개할 공시는 주식회사 스튜디오산타클로스 엔터테인먼트(이하 스튜디오산타클로스)가 이날 공시한 '주권매매거래정지(무상증자)' 입니다. 스튜디오산타클로스는 1주당 신주 5주를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220033.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'오딘' 개발사 차기작은 '서브컬쳐'…카카오게임즈 시너지 눈 앞]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220014</link>
-            <guid>https://www.bloter.net/newsView/blt202211220014</guid>
-            <pubDate>Mon, 28 Nov 2022 03:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[라이온하트스튜디오가 개발중인 신작 '프로젝트C'가 서브컬쳐 장르로 만들어진다. 프로젝트C가 관련 장르로 개발되는 만큼, 라이온하트스튜디오의 최대주주인 카카오게임즈가 퍼블리싱을 맡아 관계사간 시너지를 낼 가능성이 높아진 상황이다.  22일 &lt;블로터&gt;]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220026.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

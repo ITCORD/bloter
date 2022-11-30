@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300011</link>
+            <guid>https://www.bloter.net/newsView/blt202211300011</guid>
+            <pubDate>Wed, 30 Nov 2022 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-30 15:19:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[디즈니 쇼케이스]루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300010</link>
+            <guid>https://www.bloter.net/newsView/blt202211300010</guid>
+            <pubDate>Wed, 30 Nov 2022 06:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date">2022-11-30 14:46:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300012.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금융권 'Pick' 삼성 폴더블폰, 기업용 태블릿 대안으로 부상]]></title>
             <link>https://www.bloter.net/newsView/blt202211300004</link>
             <guid>https://www.bloter.net/newsView/blt202211300004</guid>
             <pubDate>Wed, 30 Nov 2022 02:50:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-30 11:43:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 점유율 1위 테슬라, “2025년 20% 미만으로 떨어질 것”]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 28 Nov 2022 10:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-28 19:03:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280028.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트 현장]삼성·네이버 혁신 사례 체감할 클라우드 컨퍼런스, 라스베이거스 물들인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280013</link>
-            <guid>https://www.bloter.net/newsView/blt202211280013</guid>
-            <pubDate>Mon, 28 Nov 2022 10:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-28 18:23:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280025.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]약한영웅, 시즌2 나올 수 밖에 없는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280012</link>
-            <guid>https://www.bloter.net/newsView/blt202211280012</guid>
-            <pubDate>Mon, 28 Nov 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-28 17:53:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
