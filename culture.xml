@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 10:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 11:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니 쇼케이스]韓 드라마·日 애니…로컬 특수성 전략 통할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300021</link>
+            <guid>https://www.bloter.net/newsView/blt202211300021</guid>
+            <pubDate>Wed, 30 Nov 2022 11:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[월트디즈니컴퍼니(이하 디즈니)는 30일 싱가폴 마리나베이에서 연 '콘텐츠 쇼케이스 2022'를 통해 아시아태평양(아태) 지역 신규 콘텐츠 50여편을 공개했다. 지역별 문화적 특수성을 감안한 디즈니는 아태 지역 내 장점을 부각시키는 전략으로 글로벌 지역에 특색 있]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300038.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[클래스101 픽]'이연의 눈'으로 크리에이터를 보다]]></title>
             <link>https://www.bloter.net/newsView/blt202211300018</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Nov 2022 09:19:19 GMT</pubDate>
             <content:encoded><![CDATA[풀퍼널 마케팅 전문기업 '마티니아이오(이하 마티니)'가 마테크(마케팅+테크) 시장 변화에 맞춰 마케팅·고객 관계 관리(CRM)·그로스(Growth) 통합 역량의 중요성을 강조했다.이선규 마티니 대표는 지난 22일 CJ올리브네트웍스가 개최한 데이터 마케팅 컨퍼런스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]팀 맥소노미 "데이터 저장 중독 버려라, 실시간이 관건"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220018</link>
-            <guid>https://www.bloter.net/newsView/blt202211220018</guid>
-            <pubDate>Tue, 29 Nov 2022 02:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅 업계에서는 데이터를 적재적소로 이용해 고객의 소구점을 빠르게 파악할 수 있는 툴이 인기를 얻고 있다. 툴 간 유연한 연동을 기반으로 빠른 데이터 처리와 인사이트를 제공중인 '팀 맥소노미'는 최근 한 컨퍼런스를 통해 관련 솔루션과 성공 사례를 공유했]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230009.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 10:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 11:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -404,12 +404,20 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[디즈니 쇼케이스]韓 드라마·日 애니…로컬 특수성 전략 통할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300021</link>
+            <guid>https://www.bloter.net/newsView/blt202211300021</guid>
+            <pubDate>Wed, 30 Nov 2022 11:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date">2022-11-30 19:53:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300038.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[AWS 리인벤트 현장]데이터에 꽂힌 '클라우드 강자'…왜? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211300020</link>
             <guid>https://www.bloter.net/newsView/blt202211300020</guid>
-            <pubDate>Wed, 30 Nov 2022 10:17:55 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-30 18:56:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300037.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클래스101 픽]'이연의 눈'으로 크리에이터를 보다 (블로터 ─ 테크)]]></title>
@@ -538,14 +546,6 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <pubDate>Tue, 29 Nov 2022 08:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 16:45:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트 현장]CJ가 블록체인 '백신 물류'에 꽂힌 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290007</link>
-            <guid>https://www.bloter.net/newsView/blt202211290007</guid>
-            <pubDate>Tue, 29 Nov 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-29 12:09:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -824,6 +824,14 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[디즈니 쇼케이스]韓 드라마·日 애니…로컬 특수성 전략 통할까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300021</link>
+            <guid>https://www.bloter.net/newsView/blt202211300021</guid>
+            <pubDate>Wed, 30 Nov 2022 11:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[월트디즈니컴퍼니(이하 디즈니)는 30일 싱가폴 마리나베이에서 연 '콘텐츠 쇼케이스 2022'를 통해 아시아태평양(아태) 지역 신규 콘텐츠 50여편을 공개했다. 지역별 문화적 특수성을 감안한 디즈니는 아태 지역 내 장점을 부각시키는 전략으로 글로벌 지역에 특색 있]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300038.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[클래스101 픽]'이연의 눈'으로 크리에이터를 보다 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202211300018</link>
             <guid>https://www.bloter.net/newsView/blt202211300018</guid>
@@ -910,14 +918,6 @@ AWS의 연례 클라우드 컴퓨팅 컨퍼런스 're:Invent 2022'(이하 리인
             <pubDate>Wed, 23 Nov 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[풀퍼널 마케팅 전문기업 '마티니아이오(이하 마티니)'가 마테크(마케팅+테크) 시장 변화에 맞춰 마케팅·고객 관계 관리(CRM)·그로스(Growth) 통합 역량의 중요성을 강조했다.이선규 마티니 대표는 지난 22일 CJ올리브네트웍스가 개최한 데이터 마케팅 컨퍼런스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]팀 맥소노미 "데이터 저장 중독 버려라, 실시간이 관건" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220018</link>
-            <guid>https://www.bloter.net/newsView/blt202211220018</guid>
-            <pubDate>Wed, 23 Nov 2022 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[마케팅 업계에서는 데이터를 적재적소로 이용해 고객의 소구점을 빠르게 파악할 수 있는 툴이 인기를 얻고 있다. 툴 간 유연한 연동을 기반으로 빠른 데이터 처리와 인사이트를 제공중인 '팀 맥소노미'는 최근 한 컨퍼런스를 통해 관련 솔루션과 성공 사례를 공유했]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230009.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'재벌집 막내아들'은 시작?…컴투스, 콘텐츠 수혜 더 남았다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
