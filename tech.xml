@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 18:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AWS 리인벤트 현장]아모레퍼시픽·11번가는 왜 클라우드를 도입했을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010001</link>
+            <guid>https://www.bloter.net/newsView/blt202212010001</guid>
+            <pubDate>Wed, 30 Nov 2022 18:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-12-01 02:51:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니 쇼케이스]韓 드라마·日 애니…로컬 특수성 전략 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202211300021</link>
             <guid>https://www.bloter.net/newsView/blt202211300021</guid>
             <pubDate>Wed, 30 Nov 2022 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date">2022-11-30 19:53:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300038.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AWS 리인벤트 현장]데이터에 꽂힌 '클라우드 강자'…왜?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 29 Nov 2022 08:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-29 17:07:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원 원화 입출금 서비스, 카카오뱅크 타고 '초고속화']]></title>
-            <link>https://www.bloter.net/newsView/blt202211290014</link>
-            <guid>https://www.bloter.net/newsView/blt202211290014</guid>
-            <pubDate>Tue, 29 Nov 2022 08:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 16:45:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
