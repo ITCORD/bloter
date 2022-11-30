@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 01:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융권 'Pick' 삼성 폴더블폰, 기업용 태블릿 대안으로 부상]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300004</link>
+            <guid>https://www.bloter.net/newsView/blt202211300004</guid>
+            <pubDate>Wed, 30 Nov 2022 02:50:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-30 11:43:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 점유율 1위 테슬라, “2025년 20% 미만으로 떨어질 것”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300003</link>
+            <guid>https://www.bloter.net/newsView/blt202211300003</guid>
+            <pubDate>Wed, 30 Nov 2022 02:50:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 10:20:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300004.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 코로나19 가짜뉴스 규제 슬그머니 중단]]></title>
             <link>https://www.bloter.net/newsView/blt202211300002</link>
             <guid>https://www.bloter.net/newsView/blt202211300002</guid>
             <pubDate>Wed, 30 Nov 2022 01:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 09:05:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[中 공장 시위로 혼란 겪는 폭스콘, “복귀하는 근로자에게 보너스 지급”]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 28 Nov 2022 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-11-28 17:53:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 중앙화된 업비트…어느새 쥔 블록체인 프로젝트 '생사여탈권']]></title>
-            <link>https://www.bloter.net/newsView/blt202211280011</link>
-            <guid>https://www.bloter.net/newsView/blt202211280011</guid>
-            <pubDate>Mon, 28 Nov 2022 07:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-28 16:00:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['씽큐' 통합하는 LG전자...초연결 시대 조직 경쟁력 강화]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280009</link>
-            <guid>https://www.bloter.net/newsView/blt202211280009</guid>
-            <pubDate>Mon, 28 Nov 2022 07:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-11-28 15:29:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

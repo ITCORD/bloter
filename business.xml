@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 01:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차그룹·SK온, 美 전기차 시장 공략 위해 손잡았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290015</link>
+            <guid>https://www.bloter.net/newsView/blt202211290015</guid>
+            <pubDate>Wed, 30 Nov 2022 02:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-29 17:17:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코인원 원화 입출금 서비스, 카카오뱅크 타고 '초고속화']]></title>
             <link>https://www.bloter.net/newsView/blt202211290014</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 29 Nov 2022 08:23:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-29 10:13:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 유출 메타, 아일랜드에서 과징금 3700억원 '철퇴']]></title>
-            <link>https://www.bloter.net/newsView/blt202211290003</link>
-            <guid>https://www.bloter.net/newsView/blt202211290003</guid>
-            <pubDate>Tue, 29 Nov 2022 08:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-29 09:08:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
