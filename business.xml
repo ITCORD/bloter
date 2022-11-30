@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 03:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 04:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中 공장 시위로 혼란 겪는 폭스콘, “복귀하는 근로자에게 보너스 지급”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300001</link>
+            <guid>https://www.bloter.net/newsView/blt202211300001</guid>
+            <pubDate>Wed, 30 Nov 2022 04:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 08:17:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[⑤흑자전환 했지만…CJ CGV, 아직 이자벌이도 힘들다]]></title>
             <link>https://www.bloter.net/newsView/blt202211290018</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 29 Nov 2022 08:23:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 15:06:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290014.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건설도 'ESG 바람'...포스코그룹, '친환경 철강 솔루션' 확대 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290009</link>
-            <guid>https://www.bloter.net/newsView/blt202211290009</guid>
-            <pubDate>Tue, 29 Nov 2022 08:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-29 13:58:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
