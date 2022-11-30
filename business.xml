@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 07:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 08:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 배터리코리아 성황리 막 내려...전지산업 트렌드·경영전략 공유]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300006</link>
+            <guid>https://www.bloter.net/newsView/blt202211300006</guid>
+            <pubDate>Wed, 30 Nov 2022 08:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-30 12:10:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 점유율 1위 테슬라, “2025년 20% 미만으로 떨어질 것”]]></title>
             <link>https://www.bloter.net/newsView/blt202211300003</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 30 Nov 2022 02:50:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-11-29 17:17:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290024.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인원 원화 입출금 서비스, 카카오뱅크 타고 '초고속화']]></title>
-            <link>https://www.bloter.net/newsView/blt202211290014</link>
-            <guid>https://www.bloter.net/newsView/blt202211290014</guid>
-            <pubDate>Wed, 30 Nov 2022 01:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-29 16:45:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

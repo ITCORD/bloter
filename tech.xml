@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 07:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 08:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대웅제약과 결별한 '슈펙트', 해외 시장 진출이 '답' 될까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300009</link>
+            <guid>https://www.bloter.net/newsView/blt202211300009</guid>
+            <pubDate>Wed, 30 Nov 2022 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-11-30 17:12:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300010.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신의 탑·여신강림 단행본 美서 통했다…네이버웹툰, '출판'에 공들이는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202211300013</link>
             <guid>https://www.bloter.net/newsView/blt202211300013</guid>
             <pubDate>Wed, 30 Nov 2022 07:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-30 16:06:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300016.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300016.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 29 Nov 2022 01:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-29 09:05:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中, 제로 코로나 시위 소식 '쉬쉬'...해외SNS 앱 설치 단속나섰다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290002</link>
-            <guid>https://www.bloter.net/newsView/blt202211290002</guid>
-            <pubDate>Tue, 29 Nov 2022 01:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-29 08:40:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
