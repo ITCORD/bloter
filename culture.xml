@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신의 탑·여신강림 단행본 美서 통했다…네이버웹툰, '출판'에 공들이는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300013</link>
+            <guid>https://www.bloter.net/newsView/blt202211300013</guid>
+            <pubDate>Wed, 30 Nov 2022 07:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰이 단행본 발간에 공을 들이고 있다. 웹툰에 익숙하지 않은 현지 만화 독자를 단행본을 통해 웹툰 시장으로 이끌 수 있다는 판단에서다. 실제 이달 단행본으로 출간된 네이버웹툰의 대표 인기작 '신의 탑'과 '여신강림'이 미국 아마존 베스트셀러 상위권]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300016.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니 쇼케이스]루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼"]]></title>
             <link>https://www.bloter.net/newsView/blt202211300010</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 23 Nov 2022 01:19:02 GMT</pubDate>
             <content:encoded><![CDATA[유럽연합(EU) 집행위원회가 숏폼 동영상 공유 플랫폼 틱톡에 대해 다수의 조사를 진행 중이다.   22일(현지시간) IT전문매체 &lt;엔가젯&gt;에 따르면 EU는 틱톡이 유럽 사용자의 데이터를 중국으로 이전한다는 의혹과 미성년 사용자를 겨냥한 표적 광고에 대한 조사를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]스튜디오산타클로스, 11월 주가는 왜 연이어 상승했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202211220016</link>
-            <guid>https://www.bloter.net/newsView/blt202211220016</guid>
-            <pubDate>Tue, 29 Nov 2022 02:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 공시요약 오늘(22일) 소개할 공시는 주식회사 스튜디오산타클로스 엔터테인먼트(이하 스튜디오산타클로스)가 이날 공시한 '주권매매거래정지(무상증자)' 입니다. 스튜디오산타클로스는 1주당 신주 5주를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/22/blt202211220033.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

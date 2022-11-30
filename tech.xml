@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신의 탑·여신강림 단행본 美서 통했다…네이버웹툰, '출판'에 공들이는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300013</link>
+            <guid>https://www.bloter.net/newsView/blt202211300013</guid>
+            <pubDate>Wed, 30 Nov 2022 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-30 16:06:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300016.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위]]></title>
             <link>https://www.bloter.net/newsView/blt202211300011</link>
             <guid>https://www.bloter.net/newsView/blt202211300011</guid>
             <pubDate>Wed, 30 Nov 2022 06:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-30 15:19:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[디즈니 쇼케이스]루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 29 Nov 2022 01:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-29 08:40:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '외통수' 막아라…韓 IPTV 3사 '아이픽' 공동전선 구축]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280014</link>
-            <guid>https://www.bloter.net/newsView/blt202211280014</guid>
-            <pubDate>Mon, 28 Nov 2022 10:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-28 19:03:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280028.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
