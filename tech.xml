@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 04:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대웅, 당뇨병 시장 장악 채비 갖추다…'엔블로정' 허가 승인]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010008</link>
+            <guid>https://www.bloter.net/newsView/blt202212010008</guid>
+            <pubDate>Thu, 01 Dec 2022 04:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-01 13:16:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010013.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피플바이오, '알츠온' 매출 실현 눈앞…2분기 연속 매출 10억원]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300017</link>
+            <guid>https://www.bloter.net/newsView/blt202211300017</guid>
+            <pubDate>Thu, 01 Dec 2022 04:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-01 13:09:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300026.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]네이버가 받은 '브랜드 사용료' 72억원, 산정 근거는?]]></title>
             <link>https://www.bloter.net/newsView/blt202211290019</link>
             <guid>https://www.bloter.net/newsView/blt202211290019</guid>
             <pubDate>Thu, 01 Dec 2022 03:10:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-01 11:07:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[AWS 리인벤트 현장]카카오스타일은 데이터 분석 솔루션 '퀵 사이트'를 어떻게 활용했나(feat.지그재그)]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 30 Nov 2022 02:50:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-11-30 11:43:14</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 점유율 1위 테슬라, “2025년 20% 미만으로 떨어질 것”]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300003</link>
-            <guid>https://www.bloter.net/newsView/blt202211300003</guid>
-            <pubDate>Wed, 30 Nov 2022 02:50:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 10:20:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300004.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 코로나19 가짜뉴스 규제 슬그머니 중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300002</link>
-            <guid>https://www.bloter.net/newsView/blt202211300002</guid>
-            <pubDate>Wed, 30 Nov 2022 01:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-11-30 09:05:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
