@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 08:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드플레이, 벤처사들과 위믹스 생태계 육성]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010019</link>
+            <guid>https://www.bloter.net/newsView/blt202212010019</guid>
+            <pubDate>Thu, 01 Dec 2022 09:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드플레이(옛 선데이토즈)가 신사업으로 준비 중인 블록체인 분야와 메타버스, 디지털 콘텐츠 등에 대한 기술 및 지식재산권 확보를 위한 전문 펀드 출자를 진행했다. 차세대 기술 확보를 위한 전략적 투자다.   투자는 주요 게임사와 펀드를 운영하고 있는 코]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010036.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니 쇼케이스]韓 드라마·日 애니…로컬 특수성 전략 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202211300021</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 01:25:02 GMT</pubDate>
             <content:encoded><![CDATA[소셜미디어(SNS) 트위터를 인수한 일론 머스크가 현재 중단된 모든 계정을 부활시킬지 묻는 설문조사를 게시했다.   23일(이하 현지시간) 머스크는 자신의 트위터에 “법을 어기거나 끔찍한 스팸을 내보내지 않은 경우에 한해 트위터가 모든 정지된 계정에 사면을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]마티니 "마케터와 개발자, 그 사이 소통이 필요하다면?"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230013</link>
-            <guid>https://www.bloter.net/newsView/blt202211230013</guid>
-            <pubDate>Wed, 23 Nov 2022 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[풀퍼널 마케팅 전문기업 '마티니아이오(이하 마티니)'가 마테크(마케팅+테크) 시장 변화에 맞춰 마케팅·고객 관계 관리(CRM)·그로스(Growth) 통합 역량의 중요성을 강조했다.이선규 마티니 대표는 지난 22일 CJ올리브네트웍스가 개최한 데이터 마케팅 컨퍼런스]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/23/blt202211230023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

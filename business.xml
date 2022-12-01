@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 08:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코웨이, 고객 관점 케어서비스 주력…고객만족도 조사 1위]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010011</link>
+            <guid>https://www.bloter.net/newsView/blt202212010011</guid>
+            <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-01 15:52:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집사·견주 삼성금융에 다 모이겠네…'아지냥이' 이어 '오모오모' 인기]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010012</link>
+            <guid>https://www.bloter.net/newsView/blt202212010012</guid>
+            <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-01 15:43:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010020.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[조대식 SK수펙스 의장 연임, 위원장은 70% 교체...'불확실성 시기 쇄신 인사']]></title>
+            <link>https://www.bloter.net/newsView/blt202212010010</link>
+            <guid>https://www.bloter.net/newsView/blt202212010010</guid>
+            <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 15:40:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브렛 테일러 세일즈포스 공동 CEO, 선임 1년 만에 사임]]></title>
             <link>https://www.bloter.net/newsView/blt202212010006</link>
@@ -30,30 +54,6 @@
             <pubDate>Thu, 01 Dec 2022 07:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-01 09:08:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010005.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스타링크, 전쟁으로 인터넷 먹통된 우크라이나에서 가격 인상]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010003</link>
-            <guid>https://www.bloter.net/newsView/blt202212010003</guid>
-            <pubDate>Thu, 01 Dec 2022 07:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-01 08:26:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BGF, 계열분리 기반 갖췄다…인적분할 가능성은]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300014</link>
-            <guid>https://www.bloter.net/newsView/blt202211300014</guid>
-            <pubDate>Thu, 01 Dec 2022 01:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-11-30 16:17:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300011</link>
-            <guid>https://www.bloter.net/newsView/blt202211300011</guid>
-            <pubDate>Thu, 01 Dec 2022 01:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-11-30 15:19:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
