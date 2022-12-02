@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 09:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 10:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, "뉴럴링크 칩 뇌 이식 임상 6개월 안에 착수…나도 장착할 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020003</link>
+            <guid>https://www.bloter.net/newsView/blt202212020003</guid>
+            <pubDate>Fri, 02 Dec 2022 10:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:14:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 2023년 MR 헤드셋 출시? 새 운영체제 상표권 출원]]></title>
             <link>https://www.bloter.net/newsView/blt202212020002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 02 Dec 2022 01:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-01 17:20:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코웨이, 고객 관점 케어서비스 주력…고객만족도 조사 1위]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010011</link>
-            <guid>https://www.bloter.net/newsView/blt202212010011</guid>
-            <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-01 15:52:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
