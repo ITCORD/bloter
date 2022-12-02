@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 01:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -269,19 +269,56 @@ K-콘텐츠, '장르물'에 주목하다
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010036.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010016</link>
-            <guid>https://www.bloter.net/newsView/blt202212010016</guid>
-            <pubDate>Thu, 01 Dec 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 18:10:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010037.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일론 머스크, "뉴럴링크 칩 뇌 이식 임상 6개월 안에 착수…나도 장착할 것" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020003</link>
+            <guid>https://www.bloter.net/newsView/blt202212020003</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:14:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020002.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SK E&S, 유정준·추형욱 투톱시대 열리나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202012030014</link>
-            <guid>https://www.bloter.net/newsView/blt202012030014</guid>
-            <pubDate>Thu, 01 Dec 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[일론 머스크 "트위터, 하루 200만명씩 가입했다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211280003</link>
+            <guid>https://www.bloter.net/newsView/blt202211280003</guid>
+            <pubDate>Mon, 28 Nov 2022 02:59:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[美 반독점 당국, “머스크가 이끄는 트위터에 깊은 우려” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211110004</link>
+            <guid>https://www.bloter.net/newsView/blt202211110004</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트위터 인수한 머스크, 테슬라 직원 50명 영입 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211010002</link>
+            <guid>https://www.bloter.net/newsView/blt202211010002</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘원숭이 학대 논란’ 휩싸인 일론 머스크의 뉴럴링크, 의혹 전면 부인 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202160016</link>
+            <guid>https://www.bloter.net/newsView/blt202202160016</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK이노베이션, 경영관리 전문가 사장 승진...SK온 실세 부상한 최영찬 '눈길' (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010013</link>
+            <guid>https://www.bloter.net/newsView/blt202212010013</guid>
+            <pubDate>Thu, 01 Dec 2022 12:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 17:39:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010026.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK하이닉스, ‘글로벌전략’ 신설…국제 정세 대응 ‘안간힘’ (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010014</link>
+            <guid>https://www.bloter.net/newsView/blt202212010014</guid>
+            <pubDate>Thu, 01 Dec 2022 08:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-01 17:20:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010023.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코웨이, 고객 관점 케어서비스 주력…고객만족도 조사 1위 (블로터 ─ 비즈니스)]]></title>
@@ -314,22 +351,6 @@ K-콘텐츠, '장르물'에 주목하다
             <pubDate>Thu, 01 Dec 2022 01:26:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-01 10:15:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스타트업 성장 돕는다’…CJ, ‘친환경 패키징’ 대상 선정 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010005</link>
-            <guid>https://www.bloter.net/newsView/blt202212010005</guid>
-            <pubDate>Thu, 01 Dec 2022 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-01 10:09:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010006.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[저커버그, 머스크 ‘애플과의 전쟁’ 선포 후 애플 공개 저격 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010004</link>
-            <guid>https://www.bloter.net/newsView/blt202212010004</guid>
-            <pubDate>Thu, 01 Dec 2022 01:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-01 09:08:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010005.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -368,12 +389,36 @@ K-콘텐츠, '장르물'에 주목하다
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[AWS 리인벤트 현장]허리케인이 휩쓸고 지나가면 UN이 AWS에게 손 내미는 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020001</link>
+            <guid>https://www.bloter.net/newsView/blt202212020001</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-12-02 10:02:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크, "뉴럴링크 칩 뇌 이식 임상 6개월 안에 착수…나도 장착할 것" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020003</link>
+            <guid>https://www.bloter.net/newsView/blt202212020003</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:14:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020002.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 2023년 MR 헤드셋 출시? 새 운영체제 상표권 출원 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020002</link>
+            <guid>https://www.bloter.net/newsView/blt202212020002</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:09:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[SK스퀘어, 그룹 내 '전략·투자통' 수장으로 맞이한 이유는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212010020</link>
             <guid>https://www.bloter.net/newsView/blt202212010020</guid>
             <pubDate>Thu, 01 Dec 2022 10:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-01 19:17:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010039.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010039.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위메이드플레이, 벤처사들과 위믹스 생태계 육성 (블로터 ─ 테크)]]></title>
@@ -486,30 +531,6 @@ K-콘텐츠, '장르물'에 주목하다
             <pubDate>Wed, 30 Nov 2022 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date">2022-11-30 19:53:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300038.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트 현장]데이터에 꽂힌 '클라우드 강자'…왜? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300020</link>
-            <guid>https://www.bloter.net/newsView/blt202211300020</guid>
-            <pubDate>Wed, 30 Nov 2022 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-30 18:56:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[클래스101 픽]'이연의 눈'으로 크리에이터를 보다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300018</link>
-            <guid>https://www.bloter.net/newsView/blt202211300018</guid>
-            <pubDate>Wed, 30 Nov 2022 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-11-30 18:09:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300027.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트 현장]아스트라제네카 코로나 백신에 숨겨진 '아마존표' 칩 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300016</link>
-            <guid>https://www.bloter.net/newsView/blt202211300016</guid>
-            <pubDate>Wed, 30 Nov 2022 09:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-11-30 17:49:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300025.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

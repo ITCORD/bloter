@@ -4,23 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 01:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010016</link>
-            <guid>https://www.bloter.net/newsView/blt202212010016</guid>
-            <pubDate>Thu, 01 Dec 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 18:10:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010037.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일론 머스크, "뉴럴링크 칩 뇌 이식 임상 6개월 안에 착수…나도 장착할 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020003</link>
+            <guid>https://www.bloter.net/newsView/blt202212020003</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:14:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020002.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SK E&S, 유정준·추형욱 투톱시대 열리나]]></title>
-            <link>https://www.bloter.net/newsView/blt202012030014</link>
-            <guid>https://www.bloter.net/newsView/blt202012030014</guid>
-            <pubDate>Thu, 01 Dec 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[일론 머스크 "트위터, 하루 200만명씩 가입했다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211280003</link>
+            <guid>https://www.bloter.net/newsView/blt202211280003</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[美 반독점 당국, “머스크가 이끄는 트위터에 깊은 우려”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211110004</link>
+            <guid>https://www.bloter.net/newsView/blt202211110004</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트위터 인수한 머스크, 테슬라 직원 50명 영입]]></title>
+            <link>https://www.bloter.net/newsView/blt202211010002</link>
+            <guid>https://www.bloter.net/newsView/blt202211010002</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘원숭이 학대 논란’ 휩싸인 일론 머스크의 뉴럴링크, 의혹 전면 부인]]></title>
+            <link>https://www.bloter.net/newsView/blt202202160016</link>
+            <guid>https://www.bloter.net/newsView/blt202202160016</guid>
+            <pubDate>Fri, 02 Dec 2022 01:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
