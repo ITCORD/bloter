@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 2023년 MR 헤드셋 출시? 새 운영체제 상표권 출원]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020002</link>
+            <guid>https://www.bloter.net/newsView/blt202212020002</guid>
+            <pubDate>Fri, 02 Dec 2022 05:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:09:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다]]></title>
             <link>https://www.bloter.net/newsView/blt202212010016</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-01 15:52:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집사·견주 삼성금융에 다 모이겠네…'아지냥이' 이어 '오모오모' 인기]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010012</link>
-            <guid>https://www.bloter.net/newsView/blt202212010012</guid>
-            <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-01 15:43:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010020.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
