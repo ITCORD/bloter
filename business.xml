@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 01:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010016</link>
+            <guid>https://www.bloter.net/newsView/blt202212010016</guid>
+            <pubDate>Fri, 02 Dec 2022 02:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 18:10:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[⑥CJ ENM, ‘피프스시즌∙라이브시티’ 투자부담…고민 커진 황득수 CFO]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010018</link>
+            <guid>https://www.bloter.net/newsView/blt202212010018</guid>
+            <pubDate>Fri, 02 Dec 2022 02:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-01 17:54:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK이노베이션, 경영관리 전문가 사장 승진...SK온 실세 부상한 최영찬 '눈길']]></title>
             <link>https://www.bloter.net/newsView/blt202212010013</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-01 15:43:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010020.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조대식 SK수펙스 의장 연임, 위원장은 70% 교체...'불확실성 시기 쇄신 인사']]></title>
-            <link>https://www.bloter.net/newsView/blt202212010010</link>
-            <guid>https://www.bloter.net/newsView/blt202212010010</guid>
-            <pubDate>Thu, 01 Dec 2022 09:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 15:40:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브렛 테일러 세일즈포스 공동 CEO, 선임 1년 만에 사임]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010006</link>
-            <guid>https://www.bloter.net/newsView/blt202212010006</guid>
-            <pubDate>Thu, 01 Dec 2022 08:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-01 10:15:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

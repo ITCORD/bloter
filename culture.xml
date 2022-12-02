@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 01:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['구독자 감소' 넷플릭스, 오리지널 콘텐츠 '사전 모니터링' 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020004</link>
+            <guid>https://www.bloter.net/newsView/blt202212020004</guid>
+            <pubDate>Fri, 02 Dec 2022 02:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 오리지널 콘텐츠 사전 모니터링을 강화한다. 지난 상반기에만 구독자 수가 100만명 이상 감소하는 등 구독자 감소 위기에 직면한 넷플릭스가 내놓은 방안이다. 넷플릭스는 내년 오리지널 콘텐츠에 70억달러(약 22조1100억원)를 투자할 계획인 만큼, 사전 모]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위메이드플레이, 벤처사들과 위믹스 생태계 육성]]></title>
             <link>https://www.bloter.net/newsView/blt202212010019</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 04:24:59 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰이 하이브의 아이돌그룹 '르세라핌(LE SSERAFIM)' IP 기반 콘텐츠를 24일부터 순차 공개한다.24일 네이버웹툰과 하이브에 따르면, 하이브의 네 번째 오리지널 스토리인 '크림슨 하트(Crimson Heart)'의 웹툰이 이 날 밤 10시부터 매주 금요일마다 네이버웹툰 글로벌]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240007.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설문조사에 빠진 일론 머스크...'영구 금지'된 트위터 계정 복구 찬반투표]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240003</link>
-            <guid>https://www.bloter.net/newsView/blt202211240003</guid>
-            <pubDate>Thu, 24 Nov 2022 01:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 트위터를 인수한 일론 머스크가 현재 중단된 모든 계정을 부활시킬지 묻는 설문조사를 게시했다.   23일(이하 현지시간) 머스크는 자신의 트위터에 “법을 어기거나 끔찍한 스팸을 내보내지 않은 경우에 한해 트위터가 모든 정지된 계정에 사면을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
