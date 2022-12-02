@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 08:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 09:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 광고 화두는 '공감 콘텐츠'…브랜딩 넘어선 성과 기반 마련]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020010</link>
+            <guid>https://www.bloter.net/newsView/blt202212020010</guid>
+            <pubDate>Fri, 02 Dec 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[올해 국내 광고업계에는 '콘텐츠'가 화두가 됐다. 사회적 문제에 대한 솔루션을 제시하고 콘텐츠처럼 '공유'해 소비자들의 공감을 이끌어 낸 캠페인들이 각광받았다. 브랜딩에 그쳤던 광고가 실질적인 성과로 이어질 수 있는 계기를 마련했다는 평가다.  제 29회 대]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020016.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['구독자 감소' 넷플릭스, 오리지널 콘텐츠 '사전 모니터링' 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202212020004</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 08:23:09 GMT</pubDate>
             <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 올해 구독 서비스를 기반으로 한 새로운 비즈니스 모델 '클래스101+'를 도입하며 재도약을 예고했습니다. 개별 클래스 판매로 성장한 클래스101의 구독 모델은 기업 뿐만 아니라 이용자, 나아가 강의 주체인 '크리에이터'들에게도]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베일 벗는 르세라핌 웹툰·웹소설…'크림슨 하트' 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240006</link>
-            <guid>https://www.bloter.net/newsView/blt202211240006</guid>
-            <pubDate>Thu, 24 Nov 2022 04:24:59 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰이 하이브의 아이돌그룹 '르세라핌(LE SSERAFIM)' IP 기반 콘텐츠를 24일부터 순차 공개한다.24일 네이버웹툰과 하이브에 따르면, 하이브의 네 번째 오리지널 스토리인 '크림슨 하트(Crimson Heart)'의 웹툰이 이 날 밤 10시부터 매주 금요일마다 네이버웹툰 글로벌]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240007.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
