@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 23:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 01:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['구독자 감소' 넷플릭스, 오리지널 콘텐츠 '사전 모니터링' 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020004</link>
+            <guid>https://www.bloter.net/newsView/blt202212020004</guid>
+            <pubDate>Sat, 03 Dec 2022 01:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 11:12:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크, "뉴럴링크 칩 뇌 이식 임상 6개월 안에 착수…나도 장착할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202212020003</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 02 Dec 2022 01:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 17:39:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010026.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, ‘글로벌전략’ 신설…국제 정세 대응 ‘안간힘’]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010014</link>
-            <guid>https://www.bloter.net/newsView/blt202212010014</guid>
-            <pubDate>Fri, 02 Dec 2022 01:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-01 17:20:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010023.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
