@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 02:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 03:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개발까지 단 하루…'그림일기 AI'로 세계 무대 찢은 한국 청년들]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300019</link>
+            <guid>https://www.bloter.net/newsView/blt202211300019</guid>
+            <pubDate>Sun, 04 Dec 2022 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-04 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트렌드리포트]라스베이거스 물들인 AWS 리인벤트, 데이터가 관통했다]]></title>
             <link>https://www.bloter.net/newsView/blt202212020018</link>
             <guid>https://www.bloter.net/newsView/blt202212020018</guid>
             <pubDate>Fri, 02 Dec 2022 22:15:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-12-03 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020045.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020045.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]'엠블' 토큰은 모빌리티 생태계에서 어떻게 작동할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 01 Dec 2022 04:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-01 13:16:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피플바이오, '알츠온' 매출 실현 눈앞…2분기 연속 매출 10억원]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300017</link>
-            <guid>https://www.bloter.net/newsView/blt202211300017</guid>
-            <pubDate>Thu, 01 Dec 2022 04:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-01 13:09:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300026.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
