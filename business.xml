@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위믹스 36% 올랐어도 손실은 '2500만원'…업비트에 투쟁하는 투자자들]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020014</link>
+            <guid>https://www.bloter.net/newsView/blt202212020014</guid>
+            <pubDate>Sun, 04 Dec 2022 05:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-02 18:26:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데쇼핑, 회복기에 마주친 악재…6개월 간 멈추는 홈쇼핑 새벽방송]]></title>
             <link>https://www.bloter.net/newsView/blt202212020009</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 02 Dec 2022 05:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:09:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010016</link>
-            <guid>https://www.bloter.net/newsView/blt202212010016</guid>
-            <pubDate>Fri, 02 Dec 2022 02:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-01 18:10:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010037.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

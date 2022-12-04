@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 04:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[계속 오르는 OTT 구독료…그 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020021</link>
-            <guid>https://www.bloter.net/newsView/blt202212020021</guid>
-            <pubDate>Sun, 04 Dec 2022 04:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-04 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[SK온, 하반기 시장서 수조 조달...해외 공장 증설자금 '급한 불' 껐지만]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020005</link>
+            <guid>https://www.bloter.net/newsView/blt202212020005</guid>
+            <pubDate>Sun, 04 Dec 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-04 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020014.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스, 12개국서 광고 요금제 도입…한국은 월 5500원]]></title>
-            <link>https://www.bloter.net/newsView/blt202211040003</link>
-            <guid>https://www.bloter.net/newsView/blt202211040003</guid>
-            <pubDate>Sun, 04 Dec 2022 04:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK이노베이션, 경영관리 전문가 사장 승진...SK온 실세 부상한 최영찬 '눈길']]></title>
+            <link>https://www.bloter.net/newsView/blt202212010013</link>
+            <guid>https://www.bloter.net/newsView/blt202212010013</guid>
+            <pubDate>Sun, 04 Dec 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['한글 자막' 늘리는 OTT...제작 어디까지 왔나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207230006</link>
-            <guid>https://www.bloter.net/newsView/blt202207230006</guid>
-            <pubDate>Sun, 04 Dec 2022 04:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차그룹·SK온, 美 전기차 시장 공략 위해 손잡았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290015</link>
+            <guid>https://www.bloter.net/newsView/blt202211290015</guid>
+            <pubDate>Sun, 04 Dec 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[법에 이름표 새긴 OTT…웨이브·티빙·왓챠 지원 밑거름될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202205270053</link>
-            <guid>https://www.bloter.net/newsView/blt202205270053</guid>
-            <pubDate>Sun, 04 Dec 2022 04:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 OTT 넷플릭스 구독자 감소…업계 위기 신호탄?]]></title>
-            <link>https://www.bloter.net/newsView/blt202204220144</link>
-            <guid>https://www.bloter.net/newsView/blt202204220144</guid>
-            <pubDate>Sun, 04 Dec 2022 04:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[지동섭 SK온 대표 "IDC 화재, 조사 결과 나와봐야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202211020004</link>
+            <guid>https://www.bloter.net/newsView/blt202211020004</guid>
+            <pubDate>Sun, 04 Dec 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
