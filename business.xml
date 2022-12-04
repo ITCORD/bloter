@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 09:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡∙CJ ‘갑질’ 공방…주도권 싸움 더 번질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020011</link>
+            <guid>https://www.bloter.net/newsView/blt202212020011</guid>
+            <pubDate>Sun, 04 Dec 2022 09:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-03 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LX그룹, LX MDI 설립과 경영 승계의 관계]]></title>
             <link>https://www.bloter.net/newsView/blt202212020016</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 03 Dec 2022 01:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 11:12:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크, "뉴럴링크 칩 뇌 이식 임상 6개월 안에 착수…나도 장착할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020003</link>
-            <guid>https://www.bloter.net/newsView/blt202212020003</guid>
-            <pubDate>Fri, 02 Dec 2022 10:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 09:14:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
