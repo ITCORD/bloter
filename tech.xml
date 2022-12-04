@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 03:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 04:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계속 오르는 OTT 구독료…그 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020021</link>
+            <guid>https://www.bloter.net/newsView/blt202212020021</guid>
+            <pubDate>Sun, 04 Dec 2022 04:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-04 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[개발까지 단 하루…'그림일기 AI'로 세계 무대 찢은 한국 청년들]]></title>
             <link>https://www.bloter.net/newsView/blt202211300019</link>
             <guid>https://www.bloter.net/newsView/blt202211300019</guid>
             <pubDate>Sun, 04 Dec 2022 03:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-04 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트렌드리포트]라스베이거스 물들인 AWS 리인벤트, 데이터가 관통했다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 01 Dec 2022 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-01 15:07:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010014.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[대웅, 당뇨병 시장 장악 채비 갖추다…'엔블로정' 허가 승인]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010008</link>
-            <guid>https://www.bloter.net/newsView/blt202212010008</guid>
-            <pubDate>Thu, 01 Dec 2022 04:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-01 13:16:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

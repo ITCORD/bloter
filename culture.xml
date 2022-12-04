@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 03:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 04:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계속 오르는 OTT 구독료…그 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020021</link>
+            <guid>https://www.bloter.net/newsView/blt202212020021</guid>
+            <pubDate>Sun, 04 Dec 2022 04:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스, 디즈니+, 훌루, ESPN+, 애플TV+ 등 주요 온라인동영상서비스(OTT)가 올해 가격을 인상한다고 발표했다. IT전문매체 &lt;더버지&gt;는 "일부 서비스는 외부 제작사가 만든 콘텐츠를 제공하는데 큰 비용을 지출하고 있는 반면 다른 서비스는 자체 콘텐츠를 제작하]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올해 광고 화두는 '공감 콘텐츠'…브랜딩 넘어선 성과 기반 마련]]></title>
             <link>https://www.bloter.net/newsView/blt202212020010</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 24 Nov 2022 13:29:18 GMT</pubDate>
             <content:encoded><![CDATA[위메이드 장현국 대표는 자사가 발행하는 가상자산 '위믹스(WEMIX)'의 국내 거래소 상장폐지 가능성이 없다고 지난 17일 지스타에서 호언장담했다. 이 말을 믿고 위믹스를 홀딩하고 매수한 투자자들 덕분에 2000원대를 지켰다. 그렇지만 투자자들은 24일 오후 8시 47분]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240050.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[클래스101 픽]"취업 당연한 시대 지났다"…'호야초'가 알려주는 '3D 디자인']]></title>
-            <link>https://www.bloter.net/newsView/blt202211240009</link>
-            <guid>https://www.bloter.net/newsView/blt202211240009</guid>
-            <pubDate>Thu, 24 Nov 2022 08:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 올해 구독 서비스를 기반으로 한 새로운 비즈니스 모델 '클래스101+'를 도입하며 재도약을 예고했습니다. 개별 클래스 판매로 성장한 클래스101의 구독 모델은 기업 뿐만 아니라 이용자, 나아가 강의 주체인 '크리에이터'들에게도]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/24/blt202211240021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
