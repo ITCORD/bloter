@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,6 +348,22 @@ AI 딜리버리를 바탕으로 전략을 세우고 추천 세그먼트들에 �
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[美 샌프란시스코 경찰 '킬러 로봇' 승인…부작용 우려 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020022</link>
+            <guid>https://www.bloter.net/newsView/blt202212020022</guid>
+            <pubDate>Sun, 04 Dec 2022 11:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-04 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020043.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['크라우드 소싱 내비게이션' 웨이즈, 혁신 통해 위기 극복했다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020023</link>
+            <guid>https://www.bloter.net/newsView/blt202212020023</guid>
+            <pubDate>Sun, 04 Dec 2022 09:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-04 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040005.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[SK온 시총 22조 평가, 전지 3사 중 최저지만...SK이노·LG전자보다 높아 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202212040001</link>
             <guid>https://www.bloter.net/newsView/blt202212040001</guid>
@@ -378,22 +394,6 @@ AI 딜리버리를 바탕으로 전략을 세우고 추천 세그먼트들에 �
             <pubDate>Sat, 03 Dec 2022 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-03 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LX그룹, LX MDI 설립과 경영 승계의 관계 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020016</link>
-            <guid>https://www.bloter.net/newsView/blt202212020016</guid>
-            <pubDate>Sat, 03 Dec 2022 01:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-03 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020024.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 36% 올랐어도 손실은 '2500만원'…업비트에 투쟁하는 투자자들 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020014</link>
-            <guid>https://www.bloter.net/newsView/blt202212020014</guid>
-            <pubDate>Fri, 02 Dec 2022 10:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-02 18:26:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -432,18 +432,34 @@ AI 딜리버리를 바탕으로 전략을 세우고 추천 세그먼트들에 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[디즈니쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050004</link>
+            <guid>https://www.bloter.net/newsView/blt202212050004</guid>
+            <pubDate>Mon, 05 Dec 2022 02:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-05 10:31:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국·네덜란드, ASML 中 반도체 장비 판매 두고 갈등 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050003</link>
+            <guid>https://www.bloter.net/newsView/blt202212050003</guid>
+            <pubDate>Mon, 05 Dec 2022 02:44:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-05 10:27:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050003.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[공시분석]이커머스 생존 위한 다나와·코리아센터 '역합병' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212040003</link>
             <guid>https://www.bloter.net/newsView/blt202212040003</guid>
             <pubDate>Mon, 05 Dec 2022 01:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-05 09:35:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, ‘탈중국’ 속도 낸다…인도·베트남 생산 확대 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212050002</link>
             <guid>https://www.bloter.net/newsView/blt202212050002</guid>
-            <pubDate>Mon, 05 Dec 2022 01:10:23 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 01:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-05 09:27:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -558,22 +574,6 @@ AI 딜리버리를 바탕으로 전략을 세우고 추천 세그먼트들에 �
             <pubDate>Fri, 02 Dec 2022 04:19:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-02 12:52:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구독자 감소' 넷플릭스, 오리지널 콘텐츠 '사전 모니터링' 확대 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020004</link>
-            <guid>https://www.bloter.net/newsView/blt202212020004</guid>
-            <pubDate>Fri, 02 Dec 2022 02:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-02 11:12:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[AWS 리인벤트 현장]허리케인이 휩쓸고 지나가면 UN이 AWS에게 손 내미는 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020001</link>
-            <guid>https://www.bloter.net/newsView/blt202212020001</guid>
-            <pubDate>Fri, 02 Dec 2022 01:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=박현준</span>                        <span class="date">2022-12-02 10:02:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -852,10 +852,18 @@ AI 딜리버리를 바탕으로 전략을 세우고 추천 세그먼트들에 �
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[디즈니쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050004</link>
+            <guid>https://www.bloter.net/newsView/blt202212050004</guid>
+            <pubDate>Mon, 05 Dec 2022 02:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[지난해부터 온라인동영상서비스(OTT) 경쟁이 치열한 양상으로 전개됨에 따라, 플랫폼별 콘텐츠 확보전도 발 빠르게 진행되고 있다. 때문에 이야기의 완결성이 보장된 웹툰·웹소설 지식재산권(IP) 기반 콘텐츠가 트렌드로 떠오른 반면 완전히 새로운 오리지널 스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[공시분석]이커머스 생존 위한 다나와·코리아센터 '역합병' (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212040003</link>
             <guid>https://www.bloter.net/newsView/blt202212040003</guid>
-            <pubDate>Mon, 05 Dec 2022 01:11:55 GMT</pubDate>
+            <pubDate>Mon, 05 Dec 2022 01:10:23 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.   공시요약 기자는 지난 1일 저녁 인터넷 포털 창에 인덕션의 특정 모델명을 검색했습니다. 가스레인지를 인덕션을 교체하기 위해서였죠. 찾던 모델은 100만원 가까이 하는 제품이기 때문에 먼저 '가격 비]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -938,14 +946,6 @@ AI 딜리버리를 바탕으로 전략을 세우고 추천 세그먼트들에 �
             <pubDate>Tue, 29 Nov 2022 01:17:22 GMT</pubDate>
             <content:encoded><![CDATA[메타가 유럽연합(EU)의 개인정보보호 규정을 어겼다는 혐의로 아일랜드 데이터보호위원회(DPC)로부터 2억6500만유로(약 3680억원)의 과징금을 부과 받았다. 메타가 DPC에게 과징금 처분을 받은 것은 최근 2년 사이 이번이 네 번째다.   28일(현지시간) DPC는 지난 2018년 5월]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '외통수' 막아라…韓 IPTV 3사 '아이픽' 공동전선 구축 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280014</link>
-            <guid>https://www.bloter.net/newsView/blt202211280014</guid>
-            <pubDate>Mon, 28 Nov 2022 10:17:32 GMT</pubDate>
-            <content:encoded><![CDATA["특정 업체를 비판하려는 건 아니다. 다만 글로벌 OTT(온라인영상서비스)에서 흥행한 콘텐츠의 결과물은 배우나 작가에게 돌아갈 뿐, 콘텐츠 제작 생태계로 돌아오지 않는다. 재생산을 위한 선순환 구조가 아니다 보니, 콘텐츠 제작사들은 제작 단가가 점점 높아져도]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280028.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'재벌집 막내아들'은 시작?…컴투스, 콘텐츠 수혜 더 남았다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

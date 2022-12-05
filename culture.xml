@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050004</link>
+            <guid>https://www.bloter.net/newsView/blt202212050004</guid>
+            <pubDate>Mon, 05 Dec 2022 02:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[지난해부터 온라인동영상서비스(OTT) 경쟁이 치열한 양상으로 전개됨에 따라, 플랫폼별 콘텐츠 확보전도 발 빠르게 진행되고 있다. 때문에 이야기의 완결성이 보장된 웹툰·웹소설 지식재산권(IP) 기반 콘텐츠가 트렌드로 떠오른 반면 완전히 새로운 오리지널 스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]이커머스 생존 위한 다나와·코리아센터 '역합병']]></title>
             <link>https://www.bloter.net/newsView/blt202212040003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Nov 2022 01:19:39 GMT</pubDate>
             <content:encoded><![CDATA[메타가 유럽연합(EU)의 개인정보보호 규정을 어겼다는 혐의로 아일랜드 데이터보호위원회(DPC)로부터 2억6500만유로(약 3680억원)의 과징금을 부과 받았다. 메타가 DPC에게 과징금 처분을 받은 것은 최근 2년 사이 이번이 네 번째다.   28일(현지시간) DPC는 지난 2018년 5월]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '외통수' 막아라…韓 IPTV 3사 '아이픽' 공동전선 구축]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280014</link>
-            <guid>https://www.bloter.net/newsView/blt202211280014</guid>
-            <pubDate>Mon, 28 Nov 2022 10:20:37 GMT</pubDate>
-            <content:encoded><![CDATA["특정 업체를 비판하려는 건 아니다. 다만 글로벌 OTT(온라인영상서비스)에서 흥행한 콘텐츠의 결과물은 배우나 작가에게 돌아갈 뿐, 콘텐츠 제작 생태계로 돌아오지 않는다. 재생산을 위한 선순환 구조가 아니다 보니, 콘텐츠 제작사들은 제작 단가가 점점 높아져도]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280028.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
