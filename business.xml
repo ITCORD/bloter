@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, ‘탈중국’ 속도 낸다…인도·베트남 생산 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050002</link>
+            <guid>https://www.bloter.net/newsView/blt202212050002</guid>
+            <pubDate>Mon, 05 Dec 2022 08:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-05 09:27:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크, “애플, 트위터에서 광고 완전히 재개”]]></title>
             <link>https://www.bloter.net/newsView/blt202212050001</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 05 Dec 2022 01:10:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-04 14:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속 오르는 OTT 구독료…그 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020021</link>
-            <guid>https://www.bloter.net/newsView/blt202212020021</guid>
-            <pubDate>Sun, 04 Dec 2022 11:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-04 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

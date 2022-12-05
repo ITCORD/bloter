@@ -4,37 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성전자가 글로벌 사업서 사장 승진자 대거 배출한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050005</link>
-            <guid>https://www.bloter.net/newsView/blt202212050005</guid>
-            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-05 15:09:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[자본잠식 CJ푸드빌의 투자할 결심...미국 시장 승부수]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050008</link>
+            <guid>https://www.bloter.net/newsView/blt202212050008</guid>
+            <pubDate>Mon, 05 Dec 2022 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-05 16:47:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050012.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 스타트업 지원 확대…“직접 투자, M&A할 것”]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240002</link>
-            <guid>https://www.bloter.net/newsView/blt202211240002</guid>
-            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[쿠팡∙CJ ‘갑질’ 공방…주도권 싸움 더 번질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020011</link>
+            <guid>https://www.bloter.net/newsView/blt202212020011</guid>
+            <pubDate>Mon, 05 Dec 2022 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TSMC, 3나노 웨이퍼 가격 25% 인상…삼성전자, 반사이익 얻을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211230009</link>
-            <guid>https://www.bloter.net/newsView/blt202211230009</guid>
-            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[⑥CJ ENM, ‘피프스시즌·라이브시티’ 투자부담…고민 커진 황득수 CFO]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010018</link>
+            <guid>https://www.bloter.net/newsView/blt202212010018</guid>
+            <pubDate>Mon, 05 Dec 2022 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[반도체 설계 역량 필요한 삼성전자, 과연 ARM 품을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202211120005</link>
-            <guid>https://www.bloter.net/newsView/blt202211120005</guid>
-            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘스타트업 성장 돕는다’…CJ, ‘친환경 패키징’ 대상 선정]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010005</link>
+            <guid>https://www.bloter.net/newsView/blt202212010005</guid>
+            <pubDate>Mon, 05 Dec 2022 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[⑤흑자전환 했지만…CJ CGV, 아직 이자벌이도 힘들다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290018</link>
+            <guid>https://www.bloter.net/newsView/blt202211290018</guid>
+            <pubDate>Mon, 05 Dec 2022 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

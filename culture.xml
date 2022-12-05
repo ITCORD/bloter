@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]넷마블에프앤씨, '비숲' 제작사에 400억 베팅한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050007</link>
+            <guid>https://www.bloter.net/newsView/blt202212050007</guid>
+            <pubDate>Mon, 05 Dec 2022 08:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[넷마블 자회사 넷마블에프엔씨가 tvN 드라마 '비밀의 숲(이하 비숲)' 제작사인 '에이스팩토리'를 인수해 엔터테인먼트 사업을 강화한다. 넷마블에프엔씨는 에이스팩토리 인수를 통해 게임(블록체인 포함), 콘텐츠(웹툰·웹소설), 디지털 휴먼, 메타버스 등 다양한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050010.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202212050004</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 30 Nov 2022 06:23:33 GMT</pubDate>
             <content:encoded><![CDATA["K콘텐츠에서는 카지노와 무빙을 많이 기대하고 있습니다"루크 강 월트디즈니컴퍼니(디즈니) 아시아태평양(아태)지역 총괄 사장은 30일(현지 시간) 열린 '디즈니 콘텐츠 쇼케이스 2022'에서 이같이 말했다.이날 열린 쇼케이스는 디즈니 인터내셔널 콘텐츠 및 오퍼레이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/30/blt202211300012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 유출 메타, 아일랜드에서 과징금 3700억원 '철퇴']]></title>
-            <link>https://www.bloter.net/newsView/blt202211290003</link>
-            <guid>https://www.bloter.net/newsView/blt202211290003</guid>
-            <pubDate>Tue, 29 Nov 2022 01:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[메타가 유럽연합(EU)의 개인정보보호 규정을 어겼다는 혐의로 아일랜드 데이터보호위원회(DPC)로부터 2억6500만유로(약 3680억원)의 과징금을 부과 받았다. 메타가 DPC에게 과징금 처분을 받은 것은 최근 2년 사이 이번이 네 번째다.   28일(현지시간) DPC는 지난 2018년 5월]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/29/blt202211290005.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
