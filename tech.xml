@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 08:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 09:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['화웨이·에릭슨·노키아' 버티고 있지만…삼성전자의 '통신 장비' 향한 의지]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050012</link>
+            <guid>https://www.bloter.net/newsView/blt202212050012</guid>
+            <pubDate>Mon, 05 Dec 2022 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-05 18:12:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["게임은 문화예술"…국회에 'OST 오케스트라' 울려 퍼진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050009</link>
+            <guid>https://www.bloter.net/newsView/blt202212050009</guid>
+            <pubDate>Mon, 05 Dec 2022 09:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-05 17:26:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]넷마블에프앤씨, '비숲' 제작사에 400억 베팅한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202212050007</link>
             <guid>https://www.bloter.net/newsView/blt202212050007</guid>
             <pubDate>Mon, 05 Dec 2022 08:22:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-05 16:33:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK케미칼이 마더스제약 '아세리손'을 택한 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 02 Dec 2022 11:11:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-12-02 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 36% 올랐어도 손실은 '2500만원'…업비트에 투쟁하는 투자자들]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020014</link>
-            <guid>https://www.bloter.net/newsView/blt202212020014</guid>
-            <pubDate>Fri, 02 Dec 2022 10:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-02 18:26:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알부민 유통 비용 걱정 덜은 녹십자…콜드체인 필요 없어져]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020008</link>
-            <guid>https://www.bloter.net/newsView/blt202212020008</guid>
-            <pubDate>Fri, 02 Dec 2022 09:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-02 17:30:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020015.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

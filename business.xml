@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 08:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 09:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국·네덜란드, ASML 中 반도체 장비 판매 두고 갈등]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050003</link>
+            <guid>https://www.bloter.net/newsView/blt202212050003</guid>
+            <pubDate>Mon, 05 Dec 2022 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-05 10:27:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[애플, ‘탈중국’ 속도 낸다…인도·베트남 생산 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202212050002</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 05 Dec 2022 01:10:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-04 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK온, 하반기 시장서 수조 조달...해외 공장 증설자금 '급한 불' 껐지만]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020005</link>
-            <guid>https://www.bloter.net/newsView/blt202212020005</guid>
-            <pubDate>Mon, 05 Dec 2022 01:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-04 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
