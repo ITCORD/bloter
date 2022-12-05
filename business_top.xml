@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050004</link>
-            <guid>https://www.bloter.net/newsView/blt202212050004</guid>
-            <pubDate>Mon, 05 Dec 2022 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-05 10:31:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[삼성전자가 글로벌 사업서 사장 승진자 대거 배출한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050005</link>
+            <guid>https://www.bloter.net/newsView/blt202212050005</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-05 15:09:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050006.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[韓 드라마·日 애니…로컬 특수성 전략 통할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300021</link>
-            <guid>https://www.bloter.net/newsView/blt202211300021</guid>
-            <pubDate>Mon, 05 Dec 2022 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성전자, 스타트업 지원 확대…“직접 투자, M&A할 것”]]></title>
+            <link>https://www.bloter.net/newsView/blt202211240002</link>
+            <guid>https://www.bloter.net/newsView/blt202211240002</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[루크 강 아태사장 "K-콘텐츠 카지노·무빙 기대돼"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300010</link>
-            <guid>https://www.bloter.net/newsView/blt202211300010</guid>
-            <pubDate>Mon, 05 Dec 2022 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">마리나베이(싱가폴)=채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[TSMC, 3나노 웨이퍼 가격 25% 인상…삼성전자, 반사이익 얻을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230009</link>
+            <guid>https://www.bloter.net/newsView/blt202211230009</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[④강풀 유니버스, '무빙'만이 아니다]]></title>
-            <link>https://www.bloter.net/newsView/blt202210230001</link>
-            <guid>https://www.bloter.net/newsView/blt202210230001</guid>
-            <pubDate>Mon, 05 Dec 2022 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[③굳건한 아크미디어 동맹, 1초·겟백까지?]]></title>
-            <link>https://www.bloter.net/newsView/blt202210200014</link>
-            <guid>https://www.bloter.net/newsView/blt202210200014</guid>
-            <pubDate>Mon, 05 Dec 2022 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[반도체 설계 역량 필요한 삼성전자, 과연 ARM 품을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202211120005</link>
+            <guid>https://www.bloter.net/newsView/blt202211120005</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

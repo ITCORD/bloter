@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, “애플, 트위터에서 광고 완전히 재개”]]></title>
+            <link>https://www.bloter.net/newsView/blt202212050001</link>
+            <guid>https://www.bloter.net/newsView/blt202212050001</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-05 08:17:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 샌프란시스코 경찰 '킬러 로봇' 승인…부작용 우려]]></title>
             <link>https://www.bloter.net/newsView/blt202212020022</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 04 Dec 2022 11:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-04 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡∙CJ ‘갑질’ 공방…주도권 싸움 더 번질까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020011</link>
-            <guid>https://www.bloter.net/newsView/blt202212020011</guid>
-            <pubDate>Sun, 04 Dec 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-03 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
