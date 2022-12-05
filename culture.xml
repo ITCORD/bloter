@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 23:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 01:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]이커머스 생존 위한 다나와·코리아센터 '역합병']]></title>
+            <link>https://www.bloter.net/newsView/blt202212040003</link>
+            <guid>https://www.bloter.net/newsView/blt202212040003</guid>
+            <pubDate>Mon, 05 Dec 2022 01:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.   공시요약 기자는 지난 1일 저녁 인터넷 포털 창에 인덕션의 특정 모델명을 검색했습니다. 가스레인지를 인덕션을 교체하기 위해서였죠. 찾던 모델은 100만원 가까이 하는 제품이기 때문에 먼저 '가격 비]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040008.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[디마人]소상공인에게 '똑똑한 직원'이 되어주는 NHN '다이티']]></title>
             <link>https://www.bloter.net/newsView/blt202212020017</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 28 Nov 2022 10:20:37 GMT</pubDate>
             <content:encoded><![CDATA["특정 업체를 비판하려는 건 아니다. 다만 글로벌 OTT(온라인영상서비스)에서 흥행한 콘텐츠의 결과물은 배우나 작가에게 돌아갈 뿐, 콘텐츠 제작 생태계로 돌아오지 않는다. 재생산을 위한 선순환 구조가 아니다 보니, 콘텐츠 제작사들은 제작 단가가 점점 높아져도]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280028.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크 "트위터, 하루 200만명씩 가입했다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280003</link>
-            <guid>https://www.bloter.net/newsView/blt202211280003</guid>
-            <pubDate>Mon, 28 Nov 2022 03:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[트위터를 인수한 일론 머스크가 최근 일주일 동안 일평균 200만명 이상이 플랫폼에 가입해 사상 최고치를 기록했다고 주장했다.26일(현지시간) 일론 머스크는 자신의 트위터에 최근 발표에서 사용했다며 슬라이드를 올렸는데 해당 자료에 따르면 지난 16일 기준 일주]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280004.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
