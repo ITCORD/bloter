@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 08:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 09:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디즈니 오리지널]웹툰 IP '커넥트', 실사화 포인트는 '인간의 마음']]></title>
+            <link>https://www.bloter.net/newsView/blt202212060018</link>
+            <guid>https://www.bloter.net/newsView/blt202212060018</guid>
+            <pubDate>Tue, 06 Dec 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-06 17:50:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060029.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자와 네이버는 왜 'AI 반도체 솔루션'으로 협력할까]]></title>
             <link>https://www.bloter.net/newsView/blt202212060016</link>
             <guid>https://www.bloter.net/newsView/blt202212060016</guid>
             <pubDate>Tue, 06 Dec 2022 08:21:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-06 17:06:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060027.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060027.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[여기어때, 해외로]②김진성 CSO "모바일 앱 하나로 모든 여행 OK"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 05 Dec 2022 02:44:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-05 10:31:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국·네덜란드, ASML 中 반도체 장비 판매 두고 갈등]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050003</link>
-            <guid>https://www.bloter.net/newsView/blt202212050003</guid>
-            <pubDate>Mon, 05 Dec 2022 02:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-05 10:27:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
