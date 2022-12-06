@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여기어때, 해외로]②김진성 CSO "모바일 앱 하나로 모든 여행 OK"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212060015</link>
+            <guid>https://www.bloter.net/newsView/blt202212060015</guid>
+            <pubDate>Tue, 06 Dec 2022 08:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[여기어때는 거래액의 97%가 모바일 애플리케이션(앱)에서 발생하는, '모바일 원 플랫폼(One Platform)' 체제를 중심으로 사업을 운영하고 있다. 모바일 앱으로 효율적인 서비스 모델을 운영하면서 지속가능 선순환 모델을 이어가겠다는 전략이다. 또 국내에서 그랬듯 해]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060025.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS, 내년 출시되는 엑스박스 시리즈 X·S 게임 70달러로 인상]]></title>
             <link>https://www.bloter.net/newsView/blt202212060004</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 02 Dec 2022 02:48:54 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 오리지널 콘텐츠 사전 모니터링을 강화한다. 지난 상반기에만 구독자 수가 100만명 이상 감소하는 등 구독자 감소 위기에 직면한 넷플릭스가 내놓은 방안이다. 넷플릭스는 내년 오리지널 콘텐츠에 170억달러(약 22조1100억원)를 투자할 계획인 만큼, 사전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드플레이, 벤처사들과 위믹스 생태계 육성]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010019</link>
-            <guid>https://www.bloter.net/newsView/blt202212010019</guid>
-            <pubDate>Thu, 01 Dec 2022 09:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드플레이(옛 선데이토즈)가 신사업으로 준비 중인 블록체인 분야와 메타버스, 디지털 콘텐츠 등에 대한 기술 및 지식재산권 확보를 위한 전문 펀드 출자를 진행했다. 차세대 기술 확보를 위한 전략적 투자다.   투자는 주요 게임사와 펀드를 운영하고 있는 코]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/01/blt202212010036.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
