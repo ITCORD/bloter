@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 22:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 23:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, “자율주행차 개발 계획 출소하고 출시 2026년으로 연기”]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070002</link>
+            <guid>https://www.bloter.net/newsView/blt202212070002</guid>
+            <pubDate>Tue, 06 Dec 2022 23:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 08:15:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니 오리지널]웹툰 IP '커넥트', 실사화 포인트는 '인간의 마음']]></title>
             <link>https://www.bloter.net/newsView/blt202212060018</link>
             <guid>https://www.bloter.net/newsView/blt202212060018</guid>
             <pubDate>Tue, 06 Dec 2022 09:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-06 17:50:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자와 네이버는 왜 'AI 반도체 솔루션'으로 협력할까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 05 Dec 2022 08:22:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-05 16:25:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디즈니쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050004</link>
-            <guid>https://www.bloter.net/newsView/blt202212050004</guid>
-            <pubDate>Mon, 05 Dec 2022 02:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-05 10:31:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
