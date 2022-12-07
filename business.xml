@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 01:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, “자율주행차 개발 계획 축소하고 출시 2026년으로 연기”]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070002</link>
+            <guid>https://www.bloter.net/newsView/blt202212070002</guid>
+            <pubDate>Wed, 07 Dec 2022 02:50:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 08:15:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['마통' 뚫는 보험사…깨진 저축보험, 다시 붙이기 어렵다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212060020</link>
+            <guid>https://www.bloter.net/newsView/blt202212060020</guid>
+            <pubDate>Wed, 07 Dec 2022 02:50:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-06 20:00:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코리아세븐, 미니스톱 인수 효과는…매출 늘었지만 수익성은 뚝]]></title>
             <link>https://www.bloter.net/newsView/blt202212060019</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 06 Dec 2022 11:13:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-06 14:33:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중소형 보험사가 '연금저축보험' 수익률 더 좋네]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060010</link>
-            <guid>https://www.bloter.net/newsView/blt202212060010</guid>
-            <pubDate>Tue, 06 Dec 2022 09:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-06 14:10:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060015.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 30대 상무·40대 부사장 발탁…승진 공과는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060006</link>
-            <guid>https://www.bloter.net/newsView/blt202212060006</guid>
-            <pubDate>Tue, 06 Dec 2022 09:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-06 11:12:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
