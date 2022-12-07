@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금호석유화학그룹, ESG 경영 전방위 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070005</link>
+            <guid>https://www.bloter.net/newsView/blt202212070005</guid>
+            <pubDate>Wed, 07 Dec 2022 06:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-07 11:07:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, EU서 맞춤형 광고 퇴출 당하나…"개인정보 사용 동의 금지"]]></title>
             <link>https://www.bloter.net/newsView/blt202212070004</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 07 Dec 2022 01:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-06 18:10:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용 회장, 취임 첫 해외 행보…UAE 찾은 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060017</link>
-            <guid>https://www.bloter.net/newsView/blt202212060017</guid>
-            <pubDate>Wed, 07 Dec 2022 01:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-06 17:29:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060028.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
