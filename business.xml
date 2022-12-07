@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 11:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 12:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투자 혹한기에 스타트업 품는 KB국민카드…'한국의 경영대상' 수상]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070009</link>
+            <guid>https://www.bloter.net/newsView/blt202212070009</guid>
+            <pubDate>Wed, 07 Dec 2022 12:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 12:15:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대자동차, 롤링랩 개발스토리 영상 공개]]></title>
             <link>https://www.bloter.net/newsView/blt202212070007</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 07 Dec 2022 02:50:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 08:15:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['마통' 뚫는 보험사…깨진 저축보험, 다시 붙이기 어렵다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060020</link>
-            <guid>https://www.bloter.net/newsView/blt202212060020</guid>
-            <pubDate>Wed, 07 Dec 2022 02:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-06 20:00:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060034.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
