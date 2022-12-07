@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 23:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 01:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, EU서 맞춤형 광고 퇴출 당하나…"개인정보 사용 동의 금지"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070004</link>
+            <guid>https://www.bloter.net/newsView/blt202212070004</guid>
+            <pubDate>Wed, 07 Dec 2022 01:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[소셜미디어(SNS) 페이스북과 인스타그램 운영사 메타가 유럽연합(EU) 내에서 맞춤형 광고를 금지 당할 것으로 보인다. 메타의 핵심 수익원이 맞춤형 광고인만큼 큰 타격을 입을 것으로 예상된다.    6일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 소식통을 인용해 유럽 데]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[디즈니 오리지널]웹툰 IP '커넥트', 실사화 포인트는 '인간의 마음']]></title>
             <link>https://www.bloter.net/newsView/blt202212060018</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 04 Dec 2022 04:20:52 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스, 디즈니+, 훌루, ESPN+, 애플TV+ 등 주요 온라인동영상서비스(OTT)가 올해 가격을 인상한다고 발표했다. IT전문매체 &lt;더버지&gt;는 "일부 서비스는 외부 제작사가 만든 콘텐츠를 제공하는데 큰 비용을 지출하고 있는 반면 다른 서비스는 자체 콘텐츠를 제작하]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 광고 화두는 '공감 콘텐츠'…브랜딩 넘어선 성과 기반 마련]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020010</link>
-            <guid>https://www.bloter.net/newsView/blt202212020010</guid>
-            <pubDate>Fri, 02 Dec 2022 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[올해 국내 광고업계에는 '콘텐츠'가 화두가 됐다. 사회적 문제에 대한 솔루션을 제시하고 콘텐츠처럼 '공유'해 소비자들의 공감을 이끌어 낸 캠페인들이 각광받았다. 브랜딩에 그쳤던 광고가 실질적인 성과로 이어질 수 있는 계기를 마련했다는 평가다.  제 29회 대]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
