@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LX세미콘, 늘어난 ‘재고자산’ 부담]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070015</link>
+            <guid>https://www.bloter.net/newsView/blt202212070015</guid>
+            <pubDate>Wed, 07 Dec 2022 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-07 17:24:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070018.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[치부 내보이며 사죄한 카카오, 데이터센터 조(兆) 단위 투자 암시]]></title>
             <link>https://www.bloter.net/newsView/blt202212070012</link>
             <guid>https://www.bloter.net/newsView/blt202212070012</guid>
             <pubDate>Wed, 07 Dec 2022 08:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-07 17:16:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['4대 플랫폼' 투자 앞둔 LG유플러스, 총알 얼마나 장전 됐나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 06 Dec 2022 01:11:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-06 09:46:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 美 언론 수익 공유 법안에 반발...“페이스북 뉴스 차단할 수 있다”]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060001</link>
-            <guid>https://www.bloter.net/newsView/blt202212060001</guid>
-            <pubDate>Tue, 06 Dec 2022 01:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-06 08:51:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
