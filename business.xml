@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 09:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 10:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대자동차, 롤링랩 개발스토리 영상 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070007</link>
+            <guid>https://www.bloter.net/newsView/blt202212070007</guid>
+            <pubDate>Wed, 07 Dec 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">블로터</span>                        <span class="date">2022-12-07 11:34:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금호석유화학그룹, ESG 경영 전방위 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202212070005</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 07 Dec 2022 02:50:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-06 20:00:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060034.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코리아세븐, 미니스톱 인수 효과는…매출 늘었지만 수익성은 뚝]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060019</link>
-            <guid>https://www.bloter.net/newsView/blt202212060019</guid>
-            <pubDate>Wed, 07 Dec 2022 01:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-06 18:10:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
