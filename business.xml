@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TSMC, 美애리조나주 투자 53조원으로 확대해 2공장 설립한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070003</link>
+            <guid>https://www.bloter.net/newsView/blt202212070003</guid>
+            <pubDate>Wed, 07 Dec 2022 03:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 09:08:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, “자율주행차 개발 계획 축소하고 출시 2026년으로 연기”]]></title>
             <link>https://www.bloter.net/newsView/blt202212070002</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 06 Dec 2022 23:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-06 16:12:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060022.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['식품업체의 변신'...CJ제일제당, '근감소증' 솔루션 개발한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060011</link>
-            <guid>https://www.bloter.net/newsView/blt202212060011</guid>
-            <pubDate>Tue, 06 Dec 2022 11:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-06 14:33:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
