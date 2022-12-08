@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 01:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080003</link>
+            <guid>https://www.bloter.net/newsView/blt202212080003</guid>
+            <pubDate>Thu, 08 Dec 2022 02:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[숏폼 동영상 공유 플랫폼 틱톡이 미국 인디애나주로부터 두 건의 소송을 당했다. 미국 주정부가 틱톡을 상대로 제기하는 첫 소송으로 이목이 집중되고 있다.  7일(현지시간) &lt;뉴욕타임즈&gt;에 따르면 토드 로키타 인디애나주 법무장관은 소장을 통해 틱톡이 중국]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, EU서 맞춤형 광고 퇴출 당하나…"개인정보 사용 동의 금지"]]></title>
             <link>https://www.bloter.net/newsView/blt202212070004</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070003.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[디즈니 오리지널]웹툰 IP '커넥트', 실사화 포인트는 '인간의 마음']]></title>
+            <title><![CDATA[[디즈니+ 오리지널]⑤웹툰 IP '커넥트', 실사화 포인트는 '인간의 마음']]></title>
             <link>https://www.bloter.net/newsView/blt202212060018</link>
             <guid>https://www.bloter.net/newsView/blt202212060018</guid>
             <pubDate>Tue, 06 Dec 2022 09:19:05 GMT</pubDate>
@@ -72,7 +80,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050010.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[디즈니쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유]]></title>
+            <title><![CDATA[[디즈니 쇼케이스]'범죄도시' 감독, 첫 OTT물 '카지노' 선택한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202212050004</link>
             <guid>https://www.bloter.net/newsView/blt202212050004</guid>
             <pubDate>Mon, 05 Dec 2022 02:47:02 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 04 Dec 2022 10:18:59 GMT</pubDate>
             <content:encoded><![CDATA['디마인'은 '디지털마케팅 종사자(人)'와 영어 'Demine(지뢰를 제거하다)'을 포함한 중의적 표현으로, 치열한 디지털마케팅 시장에서 고군분투하는 업계 종사자들의 목소리를 담습니다."한달에 구매가 500여건 이하로 이뤄지는 중소 규모 업체가 많이 가입하고 있습니]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020031.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속 오르는 OTT 구독료…그 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020021</link>
-            <guid>https://www.bloter.net/newsView/blt202212020021</guid>
-            <pubDate>Sun, 04 Dec 2022 04:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스, 디즈니+, 훌루, ESPN+, 애플TV+ 등 주요 온라인동영상서비스(OTT)가 올해 가격을 인상한다고 발표했다. IT전문매체 &lt;더버지&gt;는 "일부 서비스는 외부 제작사가 만든 콘텐츠를 제공하는데 큰 비용을 지출하고 있는 반면 다른 서비스는 자체 콘텐츠를 제작하]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
