@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 21:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 22:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용병 "체력" 진옥동 "ESG" 임영진 "혁신"…신한금융 회장 후보 키워드]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080004</link>
+            <guid>https://www.bloter.net/newsView/blt202212080004</guid>
+            <pubDate>Thu, 08 Dec 2022 22:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-08 10:29:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출"]]></title>
             <link>https://www.bloter.net/newsView/blt202212080003</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 08 Dec 2022 02:44:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-07 17:27:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070023.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이복현 금감원장 "위믹스 상폐? 닥사, 금융당국과 소통했다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070011</link>
-            <guid>https://www.bloter.net/newsView/blt202212070011</guid>
-            <pubDate>Thu, 08 Dec 2022 01:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 14:27:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
