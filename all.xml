@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 01:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,40 +273,56 @@ LG유플러스가 콘텐츠·온라인동영상플랫폼(OTT)·구독 등 비통
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070023.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위믹스 상폐취소 가처분 '기각'…업비트 "금융질서 확립이 공공이익" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070018</link>
-            <guid>https://www.bloter.net/newsView/blt202212070018</guid>
-            <pubDate>Wed, 07 Dec 2022 12:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 20:19:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070025.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애플, 아이클라우드 데이터 암호화…수사당국 충돌 예상 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080002</link>
+            <guid>https://www.bloter.net/newsView/blt202212080002</guid>
+            <pubDate>Thu, 08 Dec 2022 01:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 09:38:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080002.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이복현 금감원장 "위믹스 상폐? 닥사, 금융당국과 소통했다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <title><![CDATA[애플 '데이터 익명화'는 거짓?…"앱스토어로 정보 식별" 의혹 제기 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211220004</link>
+            <guid>https://www.bloter.net/newsView/blt202211220004</guid>
+            <pubDate>Thu, 08 Dec 2022 01:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플, 월가 전망치 웃도는 실적 발표…아이폰 매출은 하회 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202210280001</link>
+            <guid>https://www.bloter.net/newsView/blt202210280001</guid>
+            <pubDate>Thu, 08 Dec 2022 01:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메타, 메신저 ‘종단 간 암호화’ 대화에 백업 기능 시범 운영 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208120001</link>
+            <guid>https://www.bloter.net/newsView/blt202208120001</guid>
+            <pubDate>Thu, 08 Dec 2022 01:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아 침공 받은 우크라이나, '암호화 메신저' 사용 급증 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203010002</link>
+            <guid>https://www.bloter.net/newsView/blt202203010002</guid>
+            <pubDate>Thu, 08 Dec 2022 01:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이복현 금감원장 "위믹스 상폐? 닥사, 금융당국과 소통했다" (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202212070011</link>
             <guid>https://www.bloter.net/newsView/blt202212070011</guid>
             <pubDate>Wed, 07 Dec 2022 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 14:27:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위믹스 36% 올랐어도 손실은 '2500만원'…업비트에 투쟁하는 투자자들 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020014</link>
-            <guid>https://www.bloter.net/newsView/blt202212020014</guid>
-            <pubDate>Fri, 02 Dec 2022 10:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300011</link>
-            <guid>https://www.bloter.net/newsView/blt202211300011</guid>
-            <pubDate>Wed, 30 Nov 2022 06:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['상장폐지' 위믹스, 70% 폭락…장현국 위메이드 대표의 '오판값' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240025</link>
-            <guid>https://www.bloter.net/newsView/blt202211240025</guid>
-            <pubDate>Thu, 24 Nov 2022 13:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[하림그룹, 한진칼 지분 왜 샀나? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070010</link>
+            <guid>https://www.bloter.net/newsView/blt202212070010</guid>
+            <pubDate>Wed, 07 Dec 2022 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-07 13:42:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투자 혹한기에 스타트업 품는 KB국민카드…'한국의 경영대상' 수상 (블로터 ─ 비즈니스)]]></title>
@@ -339,22 +355,6 @@ LG유플러스가 콘텐츠·온라인동영상플랫폼(OTT)·구독 등 비통
             <pubDate>Wed, 07 Dec 2022 01:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 10:04:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TSMC, 美애리조나주 투자 53조원으로 확대해 2공장 설립한다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070003</link>
-            <guid>https://www.bloter.net/newsView/blt202212070003</guid>
-            <pubDate>Wed, 07 Dec 2022 01:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 09:08:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, “자율주행차 개발 계획 축소하고 출시 2026년으로 연기” (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070002</link>
-            <guid>https://www.bloter.net/newsView/blt202212070002</guid>
-            <pubDate>Tue, 06 Dec 2022 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-07 08:15:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -393,12 +393,28 @@ LG유플러스가 콘텐츠·온라인동영상플랫폼(OTT)·구독 등 비통
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[애플, 아이클라우드 데이터 암호화…수사당국 충돌 예상 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080002</link>
+            <guid>https://www.bloter.net/newsView/blt202212080002</guid>
+            <pubDate>Thu, 08 Dec 2022 01:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 09:38:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 “北, 이태원 참사 악용해 악성 문서로 해킹” (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080001</link>
+            <guid>https://www.bloter.net/newsView/blt202212080001</guid>
+            <pubDate>Thu, 08 Dec 2022 01:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 08:48:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[위믹스 상폐취소 가처분 '기각'…업비트 "금융질서 확립이 공공이익" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212070018</link>
             <guid>https://www.bloter.net/newsView/blt202212070018</guid>
             <pubDate>Wed, 07 Dec 2022 12:29:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 20:19:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LX세미콘, 늘어난 ‘재고자산’ 부담 (블로터 ─ 테크)]]></title>
@@ -519,22 +535,6 @@ LG유플러스가 콘텐츠·온라인동영상플랫폼(OTT)·구독 등 비통
             <pubDate>Tue, 06 Dec 2022 05:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-06 14:10:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 30대 상무·40대 부사장 발탁…승진 공과는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060006</link>
-            <guid>https://www.bloter.net/newsView/blt202212060006</guid>
-            <pubDate>Tue, 06 Dec 2022 02:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-06 11:12:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 내년 출시되는 엑스박스 시리즈 X·S 게임 70달러로 인상 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060004</link>
-            <guid>https://www.bloter.net/newsView/blt202212060004</guid>
-            <pubDate>Tue, 06 Dec 2022 01:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-06 10:08:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060006.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

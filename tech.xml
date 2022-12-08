@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 01:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 아이클라우드 데이터 암호화…수사당국 충돌 예상]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080002</link>
+            <guid>https://www.bloter.net/newsView/blt202212080002</guid>
+            <pubDate>Thu, 08 Dec 2022 01:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 09:38:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 “北, 이태원 참사 악용해 악성 문서로 해킹”]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080001</link>
+            <guid>https://www.bloter.net/newsView/blt202212080001</guid>
+            <pubDate>Thu, 08 Dec 2022 01:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 08:48:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위믹스 상폐취소 가처분 '기각'…업비트 "금융질서 확립이 공공이익"]]></title>
             <link>https://www.bloter.net/newsView/blt202212070018</link>
             <guid>https://www.bloter.net/newsView/blt202212070018</guid>
             <pubDate>Wed, 07 Dec 2022 12:29:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 20:19:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LX세미콘, 늘어난 ‘재고자산’ 부담]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 06 Dec 2022 05:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-06 14:10:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 30대 상무·40대 부사장 발탁…승진 공과는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060006</link>
-            <guid>https://www.bloter.net/newsView/blt202212060006</guid>
-            <pubDate>Tue, 06 Dec 2022 02:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-06 11:12:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 내년 출시되는 엑스박스 시리즈 X·S 게임 70달러로 인상]]></title>
-            <link>https://www.bloter.net/newsView/blt202212060004</link>
-            <guid>https://www.bloter.net/newsView/blt202212060004</guid>
-            <pubDate>Tue, 06 Dec 2022 01:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-06 10:08:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/06/blt202212060006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
