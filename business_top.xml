@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 06:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 07:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['하늘에서 치킨이'...교촌치킨, 드론배달 시범비행]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080005</link>
-            <guid>https://www.bloter.net/newsView/blt202212080005</guid>
-            <pubDate>Thu, 08 Dec 2022 02:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-08 10:31:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080007.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['진옥동 리더십' 택한 신한금융…일본 '새로운 자본주의' 가교 놓을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080007</link>
+            <guid>https://www.bloter.net/newsView/blt202212080007</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-08 13:56:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080010.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['날개∙가슴살' 균형 맞추느라…교촌F&B, 현금흐름 적자에 재고자산 2배 늘어]]></title>
-            <link>https://www.bloter.net/newsView/blt202211170016</link>
-            <guid>https://www.bloter.net/newsView/blt202211170016</guid>
-            <pubDate>Thu, 08 Dec 2022 02:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[조용병 "체력" 진옥동 "ESG" 임영진 "혁신"…신한금융 회장 후보 키워드]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080004</link>
+            <guid>https://www.bloter.net/newsView/blt202212080004</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[원재료 공급가 올린 교촌치킨, 떨어진 수익성 방어 총력]]></title>
-            <link>https://www.bloter.net/newsView/blt202210050018</link>
-            <guid>https://www.bloter.net/newsView/blt202210050018</guid>
-            <pubDate>Thu, 08 Dec 2022 02:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[써니부터 뉴진스까지…신한은행 플랫폼과 비슷한 모델 변천사]]></title>
+            <link>https://www.bloter.net/newsView/blt202210110012</link>
+            <guid>https://www.bloter.net/newsView/blt202210110012</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG카드 통합 15주년 신한카드 "독보적 플랫폼 기업 되겠다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209300016</link>
+            <guid>https://www.bloter.net/newsView/blt202209300016</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신한은행 '땡겨요'...이 방법쓰면 배민보다 싸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202208260013</link>
+            <guid>https://www.bloter.net/newsView/blt202208260013</guid>
+            <pubDate>Thu, 08 Dec 2022 07:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
