@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 04:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 05:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제일기획 신임 대표, 김종현 부사장 내정…"글로벌 비즈니스 전문가"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080006</link>
+            <guid>https://www.bloter.net/newsView/blt202212080006</guid>
+            <pubDate>Thu, 08 Dec 2022 05:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획이 김종현 부사장을 대표이사 사장으로 내정해 글로벌 지역 공략을 강화한다. 대표이사와 이사회 의장을 분리하기로 한 제일기획 내부 정책에 따라 유정근 사장은 이사회 의장직을 유지할 예정이다.8일 제일기획은 김종현 비즈니스 1부문장(부사장)을 대표]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080009.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출"]]></title>
             <link>https://www.bloter.net/newsView/blt202212080003</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Dec 2022 01:11:55 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.   공시요약 기자는 지난 1일 저녁 인터넷 포털 창에 인덕션의 특정 모델명을 검색했습니다. 가스레인지를 인덕션을 교체하기 위해서였죠. 찾던 모델은 100만원 가까이 하는 제품이기 때문에 먼저 '가격 비]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040008.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디마人]소상공인에게 '똑똑한 직원'이 되어주는 NHN '다이티']]></title>
-            <link>https://www.bloter.net/newsView/blt202212020017</link>
-            <guid>https://www.bloter.net/newsView/blt202212020017</guid>
-            <pubDate>Sun, 04 Dec 2022 10:18:59 GMT</pubDate>
-            <content:encoded><![CDATA['디마인'은 '디지털마케팅 종사자(人)'와 영어 'Demine(지뢰를 제거하다)'을 포함한 중의적 표현으로, 치열한 디지털마케팅 시장에서 고군분투하는 업계 종사자들의 목소리를 담습니다."한달에 구매가 500여건 이하로 이뤄지는 중소 규모 업체가 많이 가입하고 있습니]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/02/blt202212020031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
