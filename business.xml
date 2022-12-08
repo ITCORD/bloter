@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 09:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 10:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080003</link>
+            <guid>https://www.bloter.net/newsView/blt202212080003</guid>
+            <pubDate>Thu, 08 Dec 2022 10:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 10:23:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 아이클라우드 데이터 암호화…수사당국 충돌 예상]]></title>
             <link>https://www.bloter.net/newsView/blt202212080002</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 08 Dec 2022 01:12:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 14:27:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하림그룹, 한진칼 지분 왜 샀나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070010</link>
-            <guid>https://www.bloter.net/newsView/blt202212070010</guid>
-            <pubDate>Thu, 08 Dec 2022 01:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-07 13:42:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

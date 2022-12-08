@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 09:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 10:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검증에 진심' 트렌비…이종현 한국정품감정센터장 "사람에 기술 더한 명품 검수로 전문성 확보"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080017</link>
+            <guid>https://www.bloter.net/newsView/blt202212080017</guid>
+            <pubDate>Thu, 08 Dec 2022 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내 온라인 명품 시장이 활성화 및 경쟁 심화로 성장통을 겪은 가운데, 정품 감정 역량이 신성장 동력으로 떠올랐다. 코로나19 이후에도 온라인 명품 시장 성장은 이어질 전망으로, 온라인 플랫폼 업체들은 자체 명품 진위검증 능력을 키우고 있다. 이 중 국내 온라]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080029.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제일기획 신임 대표, 김종현 부사장 내정…"글로벌 비즈니스 전문가"]]></title>
             <link>https://www.bloter.net/newsView/blt202212080006</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Dec 2022 02:47:02 GMT</pubDate>
             <content:encoded><![CDATA[지난해부터 온라인동영상서비스(OTT) 경쟁이 치열한 양상으로 전개됨에 따라, 플랫폼별 콘텐츠 확보전도 발 빠르게 진행되고 있다. 때문에 이야기의 완결성이 보장된 웹툰·웹소설 지식재산권(IP) 기반 콘텐츠가 트렌드로 떠오른 반면 완전히 새로운 오리지널 스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]이커머스 생존 위한 다나와·코리아센터 '역합병']]></title>
-            <link>https://www.bloter.net/newsView/blt202212040003</link>
-            <guid>https://www.bloter.net/newsView/blt202212040003</guid>
-            <pubDate>Mon, 05 Dec 2022 01:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다.   공시요약 기자는 지난 1일 저녁 인터넷 포털 창에 인덕션의 특정 모델명을 검색했습니다. 가스레인지를 인덕션을 교체하기 위해서였죠. 찾던 모델은 100만원 가까이 하는 제품이기 때문에 먼저 '가격 비]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/04/blt202212040008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
