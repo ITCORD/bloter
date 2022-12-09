@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 10:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월드컵으로 '광고' 탄력 받은 '현금 부자' 네이버, 스포츠 투자는 계속된다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090019</link>
+            <guid>https://www.bloter.net/newsView/blt202212090019</guid>
+            <pubDate>Fri, 09 Dec 2022 10:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-09 18:24:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090030.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독]'한게임 오목', 8년 만에 부활…NHN, 웹보드 힘 싣는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212090017</link>
             <guid>https://www.bloter.net/newsView/blt202212090017</guid>
             <pubDate>Fri, 09 Dec 2022 09:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-09 17:51:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090022.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['제값' 찾아가는 쏘카...'모빌리티 슈퍼앱' 성장 기대감 고조]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 07 Dec 2022 08:20:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-07 17:16:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['4대 플랫폼' 투자 앞둔 LG유플러스, 총알 얼마나 장전 됐나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070013</link>
-            <guid>https://www.bloter.net/newsView/blt202212070013</guid>
-            <pubDate>Wed, 07 Dec 2022 08:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-07 16:27:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
