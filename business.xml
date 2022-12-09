@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 23:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 01:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진옥동 리더십' 택한 신한금융…일본 '새로운 자본주의' 가교 놓을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080007</link>
+            <guid>https://www.bloter.net/newsView/blt202212080007</guid>
+            <pubDate>Fri, 09 Dec 2022 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-08 13:56:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['하늘에서 치킨이'...교촌치킨, 드론배달 시범비행]]></title>
+            <link>https://www.bloter.net/newsView/blt202212080005</link>
+            <guid>https://www.bloter.net/newsView/blt202212080005</guid>
+            <pubDate>Fri, 09 Dec 2022 01:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-08 10:31:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조용병 "체력" 진옥동 "ESG" 임영진 "혁신"…신한금융 회장 후보 키워드]]></title>
             <link>https://www.bloter.net/newsView/blt202212080004</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 08 Dec 2022 02:44:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 08:48:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 상폐취소 가처분 '기각'…업비트 "금융질서 확립이 공공이익"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070018</link>
-            <guid>https://www.bloter.net/newsView/blt202212070018</guid>
-            <pubDate>Thu, 08 Dec 2022 02:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-07 20:19:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구 물류센터 찾은 美대사…"쿠팡은 한미동맹 진화 증거"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070016</link>
-            <guid>https://www.bloter.net/newsView/blt202212070016</guid>
-            <pubDate>Thu, 08 Dec 2022 02:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-07 17:27:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070023.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
