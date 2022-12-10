@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 02:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 03:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1조원 관리하는 스타트업 파운트, 신한금융 '최우수상' 받아]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090012</link>
+            <guid>https://www.bloter.net/newsView/blt202212090012</guid>
+            <pubDate>Sat, 10 Dec 2022 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-09 17:03:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동국제강 68년 만에 지주사 전환...열연·냉연 인적분할 추진]]></title>
             <link>https://www.bloter.net/newsView/blt202212090010</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 09 Dec 2022 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-09 08:41:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데 3세 신유열 상무, 롯데캐피탈 대주주 日롯데파이낸셜 임원 됐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080015</link>
-            <guid>https://www.bloter.net/newsView/blt202212080015</guid>
-            <pubDate>Fri, 09 Dec 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-09 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080024.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
