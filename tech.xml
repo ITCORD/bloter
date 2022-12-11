@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 06:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 07:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수익성 빨간불' 켜진 동남아 스타트업, 정리해고 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090026</link>
+            <guid>https://www.bloter.net/newsView/blt202212090026</guid>
+            <pubDate>Sun, 11 Dec 2022 07:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090040.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[머스크 트위터 '올인'하는 동안 테슬라는 '구인난']]></title>
             <link>https://www.bloter.net/newsView/blt202212090025</link>
             <guid>https://www.bloter.net/newsView/blt202212090025</guid>
             <pubDate>Sun, 11 Dec 2022 04:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]에이비엘바이오, 파킨슨병 치료제 임상 변경…FDA가 주는 메시지는]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 08 Dec 2022 08:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-08 17:17:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080003</link>
-            <guid>https://www.bloter.net/newsView/blt202212080003</guid>
-            <pubDate>Thu, 08 Dec 2022 02:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 10:23:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

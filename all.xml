@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 06:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 07:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,40 +328,48 @@ FSN은 2018년 창작자 저작권과 보상을 위한 블록체인 프로젝트
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070008.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[외압에 흔들림 없는 손태승 우리금융 회장, 내년 전략 짰다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212100002</link>
-            <guid>https://www.bloter.net/newsView/blt202212100002</guid>
-            <pubDate>Sun, 11 Dec 2022 06:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-11 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/10/blt202212100006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['수익성 빨간불' 켜진 동남아 스타트업, 정리해고 증가 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090026</link>
+            <guid>https://www.bloter.net/newsView/blt202212090026</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090040.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이복현 금감원장 "위믹스 상폐? 닥사, 금융당국과 소통했다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070011</link>
-            <guid>https://www.bloter.net/newsView/blt202212070011</guid>
-            <pubDate>Wed, 07 Dec 2022 06:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[아마존, 2023년에도 정리해고 이어나간다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211180003</link>
+            <guid>https://www.bloter.net/newsView/blt202211180003</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[윤석열 대통령이 역점 둔 '금리공시'…이복현 금감원장 "문제 있다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202209080016</link>
-            <guid>https://www.bloter.net/newsView/blt202209080016</guid>
-            <pubDate>Sun, 11 Dec 2022 06:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[대규모 해고 단행한 머스크·저커버그…다른 점은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211110022</link>
+            <guid>https://www.bloter.net/newsView/blt202211110022</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리금융, 신임 우리은행장에 이원덕…완전민영화 원팀 시너지 나오나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202070087</link>
-            <guid>https://www.bloter.net/newsView/blt202202070087</guid>
-            <pubDate>Sun, 11 Dec 2022 06:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['스냅챗' 개발사, 직원 20% 해고…긴축경영 돌입 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310001</link>
+            <guid>https://www.bloter.net/newsView/blt202208310001</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['재창업' 선언한 손태승 우리금융 회장…"디지털 플랫폼 되겠다" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202201120147</link>
-            <guid>https://www.bloter.net/newsView/blt202201120147</guid>
-            <pubDate>Sun, 11 Dec 2022 06:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플, 채용 담당 인력 감축…고비마다 '계약직' 해고 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208170002</link>
+            <guid>https://www.bloter.net/newsView/blt202208170002</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 바코드 없이 물품 분류하는 AI 기술 개발 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090023</link>
+            <guid>https://www.bloter.net/newsView/blt202212090023</guid>
+            <pubDate>Sat, 10 Dec 2022 03:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-10 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090036.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SK케미칼 연결 자회사로 편입한 SK디스커버리...최창원의 '빅픽처'는 (블로터 ─ 비즈니스)]]></title>
@@ -404,14 +412,6 @@ FSN은 2018년 창작자 저작권과 보상을 위한 블록체인 프로젝트
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포스코홀딩스, '본점 포항 이전' 100일 앞으로...내년 주총서 결의 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090008</link>
-            <guid>https://www.bloter.net/newsView/blt202212090008</guid>
-            <pubDate>Fri, 09 Dec 2022 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-09 16:17:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -448,12 +448,20 @@ FSN은 2018년 창작자 저작권과 보상을 위한 블록체인 프로젝트
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['수익성 빨간불' 켜진 동남아 스타트업, 정리해고 증가 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090026</link>
+            <guid>https://www.bloter.net/newsView/blt202212090026</guid>
+            <pubDate>Sun, 11 Dec 2022 07:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090040.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[머스크 트위터 '올인'하는 동안 테슬라는 '구인난' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212090025</link>
             <guid>https://www.bloter.net/newsView/blt202212090025</guid>
             <pubDate>Sun, 11 Dec 2022 04:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]에이비엘바이오, 파킨슨병 치료제 임상 변경…FDA가 주는 메시지는 (블로터 ─ 테크)]]></title>
@@ -582,14 +590,6 @@ FSN은 2018년 창작자 저작권과 보상을 위한 블록체인 프로젝트
             <pubDate>Thu, 08 Dec 2022 08:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-08 17:17:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080003</link>
-            <guid>https://www.bloter.net/newsView/blt202212080003</guid>
-            <pubDate>Thu, 08 Dec 2022 02:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 10:23:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -1207,7 +1207,7 @@ FSN은 2018년 창작자 저작권과 보상을 위한 블록체인 프로젝트
             <title><![CDATA[외압에 흔들림 없는 손태승 우리금융 회장, 내년 전략 짰다 (블로터 ─ 금융)]]></title>
             <link>https://www.bloter.net/newsView/blt202212100002</link>
             <guid>https://www.bloter.net/newsView/blt202212100002</guid>
-            <pubDate>Sun, 11 Dec 2022 06:21:52 GMT</pubDate>
+            <pubDate>Sun, 11 Dec 2022 06:18:09 GMT</pubDate>
             <content:encoded><![CDATA[손태승 우리금융그룹 회장이 금융당국의 노골적인 연임 중단 압박에도 불구하고 내년도 경영전략을 수립하며 흔들림 없는 경영행보를 이어가고 있다.11일 우리금융그룹에 따르면 손 회장은 지난 9일 그룹 본사 컨퍼런스룸에서 '2022년 경영성과 리뷰 및 2023년 경영계획 수립 워크숍'을 주관했다. 손 회장은 글로벌 경기침체 등 시계 제로의 경영 환경이 한동안 지속될 수 있다고 진단하고, 우리은행 등 14개 자회사 최고경영자(CEO)들에게 내년 상반기까지는 사실상 비상경영 수준으로 리스크 관리를 최우선으로 해달라고 주문했다.우리금융은 우리은행, 우리카드, 우리금융캐피탈, 우리종합금융 등 영업주력 자회사들과 함께 최악의 위기 시나리오에 대비해, 내년 1~2분기까지는 전 그룹이 일체감을 갖고 리스크관리에 중점을 둔 내실경영을 한다는 계획이다. 이와 동시에 시장 상황을 면밀히 관찰해 위기 상황에서도 증권·보험 포트폴리오 확대 등 우리금융만의 기회를 확실히 잡는 방안도 마련키로 했다. 우리금융은 5대 금융지주 중 유일하게 증권, 보험 계열사가 없다.손 회장은 워크숍 총평에서 "올해는 완전 민영화 원년을 맞아 좋은 성과를 거둔 만큼 2023년에도 자회사들의 본업 경쟁력 강화는 기본"이라며 "디지털 시장을 본격 선도하고 비금융업 확장의 기반을 마련하는 등 획기적인 미래성장도 준비하는 한 해로 만들자"고 강조했다.이어 손 회장은 지난 8월 발표한 "저신용 성실상환자 대상 대출원금 감면, 취약차주 대상 금리 우대 및 수수료 면제, 청년·소상공인 자금 지원 등 23조 규모의 취약계층 상생 프로젝트에도 적극 동참해달라"며 "힘든 시기인 만큼 우리금융이 시장 안정화에 더욱 앞장서고 취약계층 지원에도 전 그룹이 만전을 기해야 한다"고 당부했다.또한 손 회장은 올해 직접 설립한 우리금융미래재단과 창립 10주년을 맞이한 우리다문화장학재단을 통해 취약계층의 생활 자립이나 다문화가족, 미래세대에 대한 지원을 확대하겠다는 계획도 발표했다.이처럼 손 회장이 내년도 경영전략부터 사회공헌까지 전략을 직접 설정한 것은 최근 유동적인 거취와 맞물려 관심이 쏠린다. 내년 3월이 임기 만료인 손 회장은 우리금융을 더 키우고 싶어한다. 매 분기 실적발표 컨퍼런스 콜에 직접 참여해 시장과 소통하는 행보가 그러한 의지를 나타낸다. 임기 중 완전 민영화를 달성하고 올해 3분기까지 최고 실적을 거두면서 손 회장의 연임은 굳어지는 듯했다.  그러나 최근 금융당국이 우리금융에 대한 압박의 강도를 높이자 연임설은 초록불에서 빨간불로 바뀌었다. 금융위원회는 지난달 라임자산운용 사모펀드의 환매 중단 사태와 관련해 손 회장에게 '문책경고' 결정을 내렸다. 이는 금융감독원이 지난해 4월 제재심의위원회에서 결정한 제재안을 원안대로 확정한 것이다. 문책경고 이상은 중징계로 분류돼 금융사 취업이 3~5년간 제한된다.연임을 위해서는 문책경고 결정에 가처분 신청을 해야 하지만 이복현 금감원장은 손 회장에게 "현명한 판단을 내릴 것으로 생각한다"고 했다. 금융권에서는 소송을 하지 말라는 뜻으로 해석한다. 연임을 포기하라는 뜻으로 연결된다. 이러자 이 원장은 "예전 권위주의 시대처럼 CEO 선임에 개입한 일은 없다"면서도 "CEO 리스크 관리를 하는 건 금감원의 재량이 아닌 책무"라고 말했다.즉, 이 원장이 손 회장에 '현명한 선택'을 촉구한 발언은 불완전판매 사태와 관련해 '리스크'가 있다는 인식을 굳혔기 때문이라는 해석이 나온다. 그러나 이 리스크 역시 유동적이다. 손 회장이 해외금리연계 파생결합펀드(DLF) 사태로 인해 금감원으로부터 받은 중징계를 취소해달라고 낸 소송에 대한 대법원 판결이 오는 15일 내려지면서다. 손 회장은 1, 2심에서 승소했다.금감원이 DLF 및 라임펀드 사건과 관련해 손 회장에 중징계를 내린 핵심 근거는 금융사가 내부통제기준을 마련해야 한다고 규정한 금융회사지배구조법이다. 내부통제가 제대로 '마련되지 않아' 상품이 불완전판매됐다는 논지다. 그러나 1, 2심 재판부는 우리금융이 내부통제 기준을 마련했으나 '지키지 않은 것'이므로 금감원의 처분이 잘못됐다는 취지로 판결을 내렸다.만약 대법원 최종 판결에서 새로운 증거가 나오지 않고 기존의 판단이 유지되면 라임펀드 징계에 대한 가처분도 힘을 받을 수 있다. 이 경우 손 회장으로선 라임펀드 중징계에도 가처분 신청을 내는 것이 연임뿐 아니라 '최고경영자의 잘못'이라는 멍에를 벗어나기 위한 현명한 선택이다.금융노조 역시 금융당국의 '관치'를 배척하는 입장을 밝힌 점도 손 회장에 우호적인 상황이다. 금융노조는 11월 발표한 성명에서 "우리금융에 대해 라임펀드 판매를 빌미로 무리한 중징계를 통해 현 회장을 몰아내고 전직 관료를 앉히려 한다는 소문이 시장에서 파다하다"고 주장했다. 우리금융 노조도 관치인사 시 투쟁을 예고했다. 현재 우리금융의 최대주주는 지분 9.48%를 가진 우리사주조합이다.한편 조용병 신한금융지주 회장이 지난 8일 사모펀드 사태에 대한 책임을 언급하며 용퇴를 결정한 상황이 손 회장에 불리하게 작용할 수 있다는 소문도 돈다. 그러나 진옥동 신한금융 회장 내정자는 내부 출신으로 낙하산 인사가 아니며, 신한금융 이사회가 재일교포 주주의 영향력이 크다는 점에서 관치와는 다소 결이 멀다는 분석이다. 면접에서 이사회의 '공기'를 읽고 사모펀드 사태를 안고간다는 긍정적인 명분으로 용퇴를 선언한 것일 수도 있다는 해석이 나온다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/10/blt202212100006.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>

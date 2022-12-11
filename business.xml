@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 06:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 07:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 바코드 없이 물품 분류하는 AI 기술 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090023</link>
+            <guid>https://www.bloter.net/newsView/blt202212090023</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-10 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090036.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK케미칼 연결 자회사로 편입한 SK디스커버리...최창원의 '빅픽처'는]]></title>
             <link>https://www.bloter.net/newsView/blt202212090004</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 10 Dec 2022 01:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-09 16:49:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코홀딩스, '본점 포항 이전' 100일 앞으로...내년 주총서 결의]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090008</link>
-            <guid>https://www.bloter.net/newsView/blt202212090008</guid>
-            <pubDate>Fri, 09 Dec 2022 10:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-09 16:17:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090012.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
