@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 09:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 10:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4주년 맞은 싱가포르 '메이플스토리M', 길거리 광고가 목표한 3가지 유저는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090028</link>
+            <guid>https://www.bloter.net/newsView/blt202212090028</guid>
+            <pubDate>Sun, 11 Dec 2022 10:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[엔데믹(풍토병화) 시대를 맞아 대중의 눈을 사로잡기 위해 광고 업계도 분주하게 움직이고 있다. 고전적인 방식의 옥외광고판이 '전자광고판(디지털 사이니지)'으로 바뀌며 구체적인 타깃팅을 돕고 있다. 광고 표시 횟수에 따라 광고비를 지불할 수 있어 보다 효율]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/11/blt202212110002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]FSN, '크립토 윈터'에 50억 '군불' 땐 '김 회장님' 찬스?]]></title>
             <link>https://www.bloter.net/newsView/blt202212090015</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 05 Dec 2022 11:14:40 GMT</pubDate>
             <content:encoded><![CDATA[2012년 출시 후 '국민 게임' 반열에 올랐던 '애니팡'이 또 다시 그 어느 때보다 주목받았던 시기가 있었으니, 때는 바로 '애니팡4' 홍보 모델로 아이유가 발탁됐던 2020년이다. 당시 선데이토즈(현 위메이드플레이)는 애니팡4 출시를 앞두고 아이유를 공식 홍보모델로 선]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제일기획, 북미서 '인플루언서 마케팅' 더한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050010</link>
-            <guid>https://www.bloter.net/newsView/blt202212050010</guid>
-            <pubDate>Mon, 05 Dec 2022 09:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[북미 지역에서 인수합병(M&amp;A) 대상을 찾던 제일기획이 '인플루언서 마케팅'에 베팅했다.제일기획은 5일(미국 현지시간) 어데이셔스 스튜디오(Audacious Studios)가 보유한 인플루언서 마케팅 사업부를 인수 계약을 체결했다고 밝혔다. 어거스트 유나이티드(August United)]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050017.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
