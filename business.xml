@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 05:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 06:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK케미칼 연결 자회사로 편입한 SK디스커버리...최창원의 '빅픽처'는]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090004</link>
+            <guid>https://www.bloter.net/newsView/blt202212090004</guid>
+            <pubDate>Sun, 11 Dec 2022 06:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-10 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스페이먼츠, 월 거래액 3조6000억원 돌파...KG이니시스에 우세 굳혀]]></title>
             <link>https://www.bloter.net/newsView/blt202212090016</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 09 Dec 2022 10:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-09 16:17:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["구글, 명백히 잘못된 정보 삭제해야"…유럽 최고 법원 판결]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090003</link>
-            <guid>https://www.bloter.net/newsView/blt202212090003</guid>
-            <pubDate>Fri, 09 Dec 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-09 10:13:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
