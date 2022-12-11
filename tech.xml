@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 03:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 04:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 트위터 '올인'하는 동안 테슬라는 '구인난']]></title>
+            <link>https://www.bloter.net/newsView/blt202212090025</link>
+            <guid>https://www.bloter.net/newsView/blt202212090025</guid>
+            <pubDate>Sun, 11 Dec 2022 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]에이비엘바이오, 파킨슨병 치료제 임상 변경…FDA가 주는 메시지는]]></title>
             <link>https://www.bloter.net/newsView/blt202212090021</link>
             <guid>https://www.bloter.net/newsView/blt202212090021</guid>
             <pubDate>Sun, 11 Dec 2022 03:21:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-11 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090032.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090032.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박성현 리벨리온 대표 "AI 반도체는 사치품 아냐"...규모의 경제 '필수품']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 08 Dec 2022 02:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 10:23:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 아이클라우드 데이터 암호화…수사당국 충돌 예상]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080002</link>
-            <guid>https://www.bloter.net/newsView/blt202212080002</guid>
-            <pubDate>Thu, 08 Dec 2022 01:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-08 09:38:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
