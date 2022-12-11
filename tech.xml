@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 08:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 09:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글을 해킹하는 구글 직원…'레드팀'의 정체는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212100001</link>
+            <guid>https://www.bloter.net/newsView/blt202212100001</guid>
+            <pubDate>Sun, 11 Dec 2022 09:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-11 18:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/10/blt202212100003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BMW·토요타가 AWS 클라우드를 주목한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202212090027</link>
             <guid>https://www.bloter.net/newsView/blt202212090027</guid>
             <pubDate>Sun, 11 Dec 2022 08:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-11 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/10/blt202212100001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/10/blt202212100001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['수익성 빨간불' 켜진 동남아 스타트업, 정리해고 증가]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 08 Dec 2022 10:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-08 18:34:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080026.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[주성엔지니어링, 태양전지 조인트벤처 청산…차세대 기술에 ‘집중’]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080014</link>
-            <guid>https://www.bloter.net/newsView/blt202212080014</guid>
-            <pubDate>Thu, 08 Dec 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-08 17:30:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080019.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
