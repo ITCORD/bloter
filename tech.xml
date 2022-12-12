@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 08:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 09:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]LoL 하면서 문화재도 지킨다…11년 맞은 라이엇 韓 사회공헌]]></title>
+            <link>https://www.bloter.net/newsView/blt202212120012</link>
+            <guid>https://www.bloter.net/newsView/blt202212120012</guid>
+            <pubDate>Mon, 12 Dec 2022 09:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-12 18:03:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK·KT·네이버 뭉칫돈 몰리는 국산 AI반도체…엔비디아와 격차 어떻게 좁히나]]></title>
+            <link>https://www.bloter.net/newsView/blt202212120011</link>
+            <guid>https://www.bloter.net/newsView/blt202212120011</guid>
+            <pubDate>Mon, 12 Dec 2022 09:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-12 17:24:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]LF, LG패션 '티피코시' 부활…자력으로 '레트로' 리뉴얼 도전]]></title>
             <link>https://www.bloter.net/newsView/blt202212120010</link>
             <guid>https://www.bloter.net/newsView/blt202212120010</guid>
             <pubDate>Mon, 12 Dec 2022 07:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-12 15:48:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이, 中 경쟁사 오포와 5G 특허 기술 공유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 09 Dec 2022 09:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-09 17:22:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자는 왜 OLED TV 생산을 서두르지 않을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090007</link>
-            <guid>https://www.bloter.net/newsView/blt202212090007</guid>
-            <pubDate>Fri, 09 Dec 2022 07:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-09 15:44:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["구글, 명백히 잘못된 정보 삭제해야"…유럽 최고 법원 판결]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090003</link>
-            <guid>https://www.bloter.net/newsView/blt202212090003</guid>
-            <pubDate>Fri, 09 Dec 2022 02:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-09 10:13:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
