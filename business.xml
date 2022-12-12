@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 07:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 08:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 비싸진 유료 서비스 재출시…검토 거쳐야 '파란색 체크' 부여]]></title>
+            <link>https://www.bloter.net/newsView/blt202212120002</link>
+            <guid>https://www.bloter.net/newsView/blt202212120002</guid>
+            <pubDate>Mon, 12 Dec 2022 08:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-12 10:02:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[美 달 궤도 무인 우주선 '오리온' 지구 귀환…"아르테미스 1단계 성공"]]></title>
             <link>https://www.bloter.net/newsView/blt202212120001</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 12 Dec 2022 01:11:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존, 바코드 없이 물품 분류하는 AI 기술 개발]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090023</link>
-            <guid>https://www.bloter.net/newsView/blt202212090023</guid>
-            <pubDate>Sun, 11 Dec 2022 07:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-10 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090036.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
