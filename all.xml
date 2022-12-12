@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 03:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 04:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,40 +308,48 @@ BMW와 토요타 등 주요 완성차 제조사들이 아마존웹서비스(AWS)
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/11/blt202212110002.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화웨이, 中 경쟁사 오포와 5G 특허 기술 공유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212120003</link>
-            <guid>https://www.bloter.net/newsView/blt202212120003</guid>
-            <pubDate>Mon, 12 Dec 2022 01:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-12 10:10:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120005.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[DL케미칼, 이자비용 12배 증가...'고금리시대' 크레이튼 인수 부담 가시화 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212120005</link>
+            <guid>https://www.bloter.net/newsView/blt202212120005</guid>
+            <pubDate>Mon, 12 Dec 2022 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-12 13:19:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120008.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['화웨이·에릭슨·노키아' 버티고 있지만…삼성전자의 '통신 장비' 향한 의지 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050012</link>
-            <guid>https://www.bloter.net/newsView/blt202212050012</guid>
-            <pubDate>Mon, 12 Dec 2022 01:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[DL㈜, 포천파워 잔여 지분 DL에너지에 매각...'지주사 전환' 남은 과제는 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202209250001</link>
+            <guid>https://www.bloter.net/newsView/blt202209250001</guid>
+            <pubDate>Mon, 12 Dec 2022 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[화웨이 "가정 내 IoT 기기 200개까지 늘 것…5.5G 도약 서둘러야" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202210280016</link>
-            <guid>https://www.bloter.net/newsView/blt202210280016</guid>
-            <pubDate>Mon, 12 Dec 2022 01:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[DL 품에 안긴 크레이튼, 첫 실적은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208010011</link>
+            <guid>https://www.bloter.net/newsView/blt202208010011</guid>
+            <pubDate>Mon, 12 Dec 2022 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美법무부, 화웨이 수사 방해한 中요원 2명 기소 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202210250001</link>
-            <guid>https://www.bloter.net/newsView/blt202210250001</guid>
-            <pubDate>Mon, 12 Dec 2022 01:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[DL케미칼, 美 크레이튼 인수로 재무부담 커졌다...부채비율 150%p 증가 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206240002</link>
+            <guid>https://www.bloter.net/newsView/blt202206240002</guid>
+            <pubDate>Mon, 12 Dec 2022 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[④화웨이, 장비 시장은 지켰다...친환경 띄우고 B2B 솔루션 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204190074</link>
-            <guid>https://www.bloter.net/newsView/blt202204190074</guid>
-            <pubDate>Mon, 12 Dec 2022 01:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[DL케미칼, 美 크레이튼 인수로 유가 불안 덜었다...올해 매출 4조 전망 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206220004</link>
+            <guid>https://www.bloter.net/newsView/blt202206220004</guid>
+            <pubDate>Mon, 12 Dec 2022 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['수익성 빨간불' 켜진 동남아 스타트업, 정리해고 증가 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090026</link>
+            <guid>https://www.bloter.net/newsView/blt202212090026</guid>
+            <pubDate>Sun, 11 Dec 2022 07:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090040.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[외압에 흔들림 없는 손태승 우리금융 회장, 내년 전략 짰다 (블로터 ─ 비즈니스)]]></title>
@@ -382,14 +390,6 @@ BMW와 토요타 등 주요 완성차 제조사들이 아마존웹서비스(AWS)
             <pubDate>Sat, 10 Dec 2022 01:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-10 09:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스페이먼츠, 월 거래액 3조6000억원 돌파...KG이니시스에 우세 굳혀 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090016</link>
-            <guid>https://www.bloter.net/newsView/blt202212090016</guid>
-            <pubDate>Fri, 09 Dec 2022 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-09 17:39:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>

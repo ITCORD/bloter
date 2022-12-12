@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 03:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 04:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수익성 빨간불' 켜진 동남아 스타트업, 정리해고 증가]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090026</link>
+            <guid>https://www.bloter.net/newsView/blt202212090026</guid>
+            <pubDate>Mon, 12 Dec 2022 04:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090040.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[외압에 흔들림 없는 손태승 우리금융 회장, 내년 전략 짰다]]></title>
             <link>https://www.bloter.net/newsView/blt202212100002</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 11 Dec 2022 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-10 09:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스페이먼츠, 월 거래액 3조6000억원 돌파...KG이니시스에 우세 굳혀]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090016</link>
-            <guid>https://www.bloter.net/newsView/blt202212090016</guid>
-            <pubDate>Sun, 11 Dec 2022 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-09 17:39:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
