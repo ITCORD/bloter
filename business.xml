@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 23:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 01:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외압에 흔들림 없는 손태승 우리금융 회장, 내년 전략 짰다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212100002</link>
+            <guid>https://www.bloter.net/newsView/blt202212100002</guid>
+            <pubDate>Mon, 12 Dec 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-11 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/10/blt202212100006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이커머스 기술력 늘린다’…지마켓, 사내혁신 해커톤 진행]]></title>
+            <link>https://www.bloter.net/newsView/blt202212110001</link>
+            <guid>https://www.bloter.net/newsView/blt202212110001</guid>
+            <pubDate>Mon, 12 Dec 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-11 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/11/blt202212110001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머스크 트위터 '올인'하는 동안 테슬라는 '구인난']]></title>
+            <link>https://www.bloter.net/newsView/blt202212090025</link>
+            <guid>https://www.bloter.net/newsView/blt202212090025</guid>
+            <pubDate>Mon, 12 Dec 2022 01:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 13:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[아마존, 바코드 없이 물품 분류하는 AI 기술 개발]]></title>
             <link>https://www.bloter.net/newsView/blt202212090023</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 11 Dec 2022 05:15:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-09 17:39:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데캐피탈 최대주주 日롯데파이낸셜은 어떤 회사]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090006</link>
-            <guid>https://www.bloter.net/newsView/blt202212090006</guid>
-            <pubDate>Sun, 11 Dec 2022 04:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-09 17:14:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1조원 관리하는 스타트업 파운트, 신한금융 '최우수상' 받아]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090012</link>
-            <guid>https://www.bloter.net/newsView/blt202212090012</guid>
-            <pubDate>Sat, 10 Dec 2022 03:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-09 17:03:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동국제강 68년 만에 지주사 전환...열연·냉연 인적분할 추진]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090010</link>
-            <guid>https://www.bloter.net/newsView/blt202212090010</guid>
-            <pubDate>Sat, 10 Dec 2022 01:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-09 16:49:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
