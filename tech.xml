@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 08:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신성이엔지, 실적 상승세에도 현금흐름 마이너스인 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212130016</link>
+            <guid>https://www.bloter.net/newsView/blt202212130016</guid>
+            <pubDate>Tue, 13 Dec 2022 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-13 17:48:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130024.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팍스넷뉴스, ‘딜사이트’로 사명 변경…유료 채널은 '딜사이트 플러스'로]]></title>
+            <link>https://www.bloter.net/newsView/blt202212130017</link>
+            <guid>https://www.bloter.net/newsView/blt202212130017</guid>
+            <pubDate>Tue, 13 Dec 2022 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-13 17:43:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130028.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]60억원 자금조달 나선 '중견 IT서비스' 에스넷…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202212130010</link>
             <guid>https://www.bloter.net/newsView/blt202212130010</guid>
             <pubDate>Tue, 13 Dec 2022 08:20:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-13 17:19:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130023.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130023.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[브랜치, 시리즈F의 자신감]①"달라진 '광고 효율'…파편화된 상황 인정해야"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 11 Dec 2022 04:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-11 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090038.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]에이비엘바이오, 파킨슨병 치료제 임상 변경…FDA가 주는 메시지는]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090021</link>
-            <guid>https://www.bloter.net/newsView/blt202212090021</guid>
-            <pubDate>Sun, 11 Dec 2022 03:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-11 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090032.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박성현 리벨리온 대표 "AI 반도체는 사치품 아냐"...규모의 경제 '필수품']]></title>
-            <link>https://www.bloter.net/newsView/blt202212090022</link>
-            <guid>https://www.bloter.net/newsView/blt202212090022</guid>
-            <pubDate>Sun, 11 Dec 2022 02:50:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-11 10:22:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
