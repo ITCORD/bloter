@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 05:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션, 겨울 디지털 광고비 지출 1위…엔데믹 훈풍 '여행' 2위]]></title>
+            <link>https://www.bloter.net/newsView/blt202212130006</link>
+            <guid>https://www.bloter.net/newsView/blt202212130006</guid>
+            <pubDate>Tue, 13 Dec 2022 06:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 겨울, 가장 많은 디지털 광고비를 투자한 업종에서 '패션'이 단연 앞섰다.이어 코로나19 엔데믹(감염병의 풍토병화) 시대를 맞아 회복 중인 여행 업종이 그 뒤를 쫓았다. 글로벌 애드테크 기업 아드리엘이 13일 겨울철 디지털 마케팅 인사이트를 담은 '2022 겨울]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사원 아이디어가 현실로…메조미디어, 1인가구 커뮤니티 '독립은 처음이라' 출시]]></title>
             <link>https://www.bloter.net/newsView/blt202212130005</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 05:18:02 GMT</pubDate>
             <content:encoded><![CDATA[제일기획이 김종현 부사장을 대표이사 사장으로 내정해 글로벌 지역 공략을 강화한다. 대표이사와 이사회 의장을 분리하기로 한 제일기획 내부 정책에 따라 유정근 사장은 이사회 의장직을 유지할 예정이다.8일 제일기획은 김종현 비즈니스 1부문장(부사장)을 대표]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080009.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 美 인디애나주서 피소..."청소년에 부적절한 콘텐츠 노출"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212080003</link>
-            <guid>https://www.bloter.net/newsView/blt202212080003</guid>
-            <pubDate>Thu, 08 Dec 2022 02:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[숏폼 동영상 공유 플랫폼 틱톡이 미국 인디애나주로부터 두 건의 소송을 당했다. 미국 주정부가 틱톡을 상대로 제기하는 첫 소송으로 이목이 집중되고 있다.  7일(현지시간) &lt;뉴욕타임즈&gt;에 따르면 토드 로키타 인디애나주 법무장관은 소장을 통해 틱톡이 중국]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
