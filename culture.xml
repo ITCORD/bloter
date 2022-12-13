@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 01:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사원 아이디어가 현실로…메조미디어, 1인가구 커뮤니티 '독립은 처음이라' 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202212130005</link>
+            <guid>https://www.bloter.net/newsView/blt202212130005</guid>
+            <pubDate>Tue, 13 Dec 2022 01:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대 사원이 낸 아이디어가 실제 사업화됐다. 메조미디어 사내 신사업 아이디어 공모전에서 발굴된 1인가구를 위한 웹 커뮤니티 '독립은 처음이라'가 그 주인공이다. 3일 CJ ENM의 디지털 마케팅 솔루션 기업 메조미디어에 따르면 독립은 처음이라는 지난해 진행한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]LoL 하면서 문화재도 지킨다…11년 맞은 라이엇 韓 사회공헌]]></title>
             <link>https://www.bloter.net/newsView/blt202212120012</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 02:46:52 GMT</pubDate>
             <content:encoded><![CDATA[숏폼 동영상 공유 플랫폼 틱톡이 미국 인디애나주로부터 두 건의 소송을 당했다. 미국 주정부가 틱톡을 상대로 제기하는 첫 소송으로 이목이 집중되고 있다.  7일(현지시간) &lt;뉴욕타임즈&gt;에 따르면 토드 로키타 인디애나주 법무장관은 소장을 통해 틱톡이 중국]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/08/blt202212080003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, EU서 맞춤형 광고 퇴출 당하나…"개인정보 사용 동의 금지"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212070004</link>
-            <guid>https://www.bloter.net/newsView/blt202212070004</guid>
-            <pubDate>Wed, 07 Dec 2022 01:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 페이스북과 인스타그램 운영사 메타가 유럽연합(EU) 내에서 맞춤형 광고를 금지 당할 것으로 보인다. 메타의 핵심 수익원이 맞춤형 광고인만큼 큰 타격을 입을 것으로 예상된다.    6일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 소식통을 인용해 유럽 데]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/07/blt202212070003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
