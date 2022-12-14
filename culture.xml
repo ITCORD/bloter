@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 08:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]"나 한국 사랑하냐?"…LoL로 본 라이엇의 韓 사랑]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140013</link>
+            <guid>https://www.bloter.net/newsView/blt202212140013</guid>
+            <pubDate>Wed, 14 Dec 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2012년 한 외국계 게임사가 한국 문화재청과 '문화재지킴이 협약'을 맺고 국내 문화재 환수 및 지원 사업을 전개했다. 그로부터 10여년이 지난 현재, 해당 기업은 글로벌 e스포츠계의 중심으로 우뚝서며 한국에서 진행하는 문화재지킴이 사업도 활발히 전개하고]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140021.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 상·하원, 틱톡 금지 법안 발의…미국 내 서비스 중단될까]]></title>
             <link>https://www.bloter.net/newsView/blt202212140003</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 09 Dec 2022 09:17:33 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 종합 디지털 마케팅 그룹 FSN이 50억원 유상증자를 통해 신사업 동력인 블록체인에 소신을 드러냈습니다. 옐로모바일 수렁에서 꺼내준 '은인', 온라인 게임 '라그나로크'의 신화를 쓴 김정률 회장과의 관계]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]'한게임 오목', 8년 만에 부활…NHN, 웹보드 힘 싣는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090017</link>
-            <guid>https://www.bloter.net/newsView/blt202212090017</guid>
-            <pubDate>Fri, 09 Dec 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[NHN이 8년 만에 '한게임 오목' 서비스를 부활시킨다. 이를 통해 NHN은 웹보드 라인업을 늘리는 한편 게임사업 내 주력 브랜드 '한게임'의 경쟁력을 제고한다는 계획이다.9일 &lt;블로터&gt; 취재 결과, NHN이 한게임 내 오목 서비스를 추가하고 관련 애플리케이션(앱) 및 웹]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
