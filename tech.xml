@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멤버십 연계부터 AI 자율 계산대까지...'신세계 유니버스' 파고든 KT]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140004</link>
+            <guid>https://www.bloter.net/newsView/blt202212140004</guid>
+            <pubDate>Wed, 14 Dec 2022 06:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-14 14:58:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 상·하원, 틱톡 금지 법안 발의…미국 내 서비스 중단될까]]></title>
             <link>https://www.bloter.net/newsView/blt202212140003</link>
             <guid>https://www.bloter.net/newsView/blt202212140003</guid>
             <pubDate>Wed, 14 Dec 2022 01:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 10:04:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘녹십자의 정신’ 목암생명과학연구소, 서울로 이전하는 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 12 Dec 2022 01:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-12 10:02:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120003.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인 日 개발자가 본 초거대 AI의 양면…"성대모사랑 비교하면요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050014</link>
-            <guid>https://www.bloter.net/newsView/blt202212050014</guid>
-            <pubDate>Mon, 12 Dec 2022 01:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-12 09:42:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/05/blt202212050027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

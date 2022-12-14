@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 검찰·금융당국 FTX 창업자 고소…최대 115년형 전망]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140002</link>
+            <guid>https://www.bloter.net/newsView/blt202212140002</guid>
+            <pubDate>Wed, 14 Dec 2022 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 09:21:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 유럽에서 앱스토어 외 '제3의 앱마켓' 허용하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140001</link>
+            <guid>https://www.bloter.net/newsView/blt202212140001</guid>
+            <pubDate>Wed, 14 Dec 2022 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 08:24:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데정밀화학, 세계 최초 상업 생산된 암모니아 국내 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202212130015</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 14 Dec 2022 01:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-13 13:09:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리비안, 벤츠와의 전기 밴 생산 계획 중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130004</link>
-            <guid>https://www.bloter.net/newsView/blt202212130004</guid>
-            <pubDate>Tue, 13 Dec 2022 08:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-13 09:19:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 런던증권거래소에 10년간 클라우드 지원한다…지분 4% 인수]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130003</link>
-            <guid>https://www.bloter.net/newsView/blt202212130003</guid>
-            <pubDate>Tue, 13 Dec 2022 08:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-13 08:34:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
