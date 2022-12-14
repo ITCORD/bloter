@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 08:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["불황기 투자가 호황기 대비 수익률 10%포인트 더 높다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140006</link>
+            <guid>https://www.bloter.net/newsView/blt202212140006</guid>
+            <pubDate>Wed, 14 Dec 2022 08:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 14:22:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20년 전 외환위기 촉발한 종금사…캐피탈사에서 재현되나]]></title>
             <link>https://www.bloter.net/newsView/blt202212140005</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 14 Dec 2022 04:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-13 16:56:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KCC, 모멘티브 인수 재무부담 가중...총차입금 5조 돌파 창사 이래 최대]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130008</link>
-            <guid>https://www.bloter.net/newsView/blt202212130008</guid>
-            <pubDate>Wed, 14 Dec 2022 01:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-13 16:38:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
