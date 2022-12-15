@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 23:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 01:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘퀵 커머스’ 나선 GS리테일, 돈 아끼는 슈퍼마켓 활용법]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140008</link>
+            <guid>https://www.bloter.net/newsView/blt202212140008</guid>
+            <pubDate>Thu, 15 Dec 2022 01:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-14 15:52:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘네이버가 못 해준 것 KT가?'...신세계그룹, 협업으로 살 길 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140007</link>
+            <guid>https://www.bloter.net/newsView/blt202212140007</guid>
+            <pubDate>Thu, 15 Dec 2022 01:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-14 14:23:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["불황기 투자가 호황기 대비 수익률 10%포인트 더 높다"]]></title>
             <link>https://www.bloter.net/newsView/blt202212140006</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 14 Dec 2022 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 09:21:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 유럽에서 앱스토어 외 '제3의 앱마켓' 허용하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140001</link>
-            <guid>https://www.bloter.net/newsView/blt202212140001</guid>
-            <pubDate>Wed, 14 Dec 2022 06:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 08:24:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데정밀화학, 세계 최초 상업 생산된 암모니아 국내 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130015</link>
-            <guid>https://www.bloter.net/newsView/blt202212130015</guid>
-            <pubDate>Wed, 14 Dec 2022 04:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-13 16:56:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
