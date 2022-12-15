@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 07:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[클래스101픽]흔한 브이로그?…'슛뚜'의 꾸준함은 '글로벌'로 간다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150012</link>
+            <guid>https://www.bloter.net/newsView/blt202212150012</guid>
+            <pubDate>Thu, 15 Dec 2022 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 올해 구독 서비스를 기반으로 한 새로운 비즈니스 모델 '클래스101+'를 도입하며 재도약을 예고했습니다. 개별 클래스 판매로 성장한 클래스101의 구독 모델은 기업 뿐만 아니라 이용자, 나아가 강의 주체인 '크리에이터'들에게도]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]"나 한국 사랑하냐?"…LoL로 본 라이엇의 韓 사랑]]></title>
             <link>https://www.bloter.net/newsView/blt202212140013</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 11 Dec 2022 10:17:01 GMT</pubDate>
             <content:encoded><![CDATA[엔데믹(풍토병화) 시대를 맞아 대중의 눈을 사로잡기 위해 광고 업계도 분주하게 움직이고 있다. 고전적인 방식의 옥외광고판이 '전자광고판(디지털 사이니지)'으로 바뀌며 구체적인 타깃팅을 돕고 있다. 광고 표시 횟수에 따라 광고비를 지불할 수 있어 보다 효율]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/11/blt202212110002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]FSN, '크립토 윈터'에 50억 '군불' 땐 '김 회장님' 찬스?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090015</link>
-            <guid>https://www.bloter.net/newsView/blt202212090015</guid>
-            <pubDate>Fri, 09 Dec 2022 09:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 종합 디지털 마케팅 그룹 FSN이 50억원 유상증자를 통해 신사업 동력인 블록체인에 소신을 드러냈습니다. 옐로모바일 수렁에서 꺼내준 '은인', 온라인 게임 '라그나로크'의 신화를 쓴 김정률 회장과의 관계]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/09/blt202212090021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

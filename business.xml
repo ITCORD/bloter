@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 07:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美레드우드, 4.5조원 투자해 전기차 폐배터리 재활용 공장 짓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150002</link>
+            <guid>https://www.bloter.net/newsView/blt202212150002</guid>
+            <pubDate>Thu, 15 Dec 2022 08:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 09:41:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150003.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터서 '표현의 자유' 강조한 머스크, 개인 제트기 추적 계정 차단]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150001</link>
+            <guid>https://www.bloter.net/newsView/blt202212150001</guid>
+            <pubDate>Thu, 15 Dec 2022 08:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 08:25:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[금융권 3조원 번 중도상환수수료…토스뱅크는 8만6500명에 돌려줬다]]></title>
             <link>https://www.bloter.net/newsView/blt202212140011</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 15 Dec 2022 01:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-14 14:23:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["불황기 투자가 호황기 대비 수익률 10%포인트 더 높다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140006</link>
-            <guid>https://www.bloter.net/newsView/blt202212140006</guid>
-            <pubDate>Wed, 14 Dec 2022 08:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 14:22:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년 전 외환위기 촉발한 종금사…캐피탈사에서 재현되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140005</link>
-            <guid>https://www.bloter.net/newsView/blt202212140005</guid>
-            <pubDate>Wed, 14 Dec 2022 07:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 12:41:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

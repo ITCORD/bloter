@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 07:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[클래스101픽]흔한 브이로그?…'슛뚜'의 꾸준함은 '글로벌'로 간다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150012</link>
+            <guid>https://www.bloter.net/newsView/blt202212150012</guid>
+            <pubDate>Thu, 15 Dec 2022 08:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-15 17:19:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김범준 이어 우아한형제들 이끄는 이국환 부사장은 누구?…배민·B마트 이끈 '전략통']]></title>
             <link>https://www.bloter.net/newsView/blt202212150007</link>
             <guid>https://www.bloter.net/newsView/blt202212150007</guid>
             <pubDate>Thu, 15 Dec 2022 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-15 16:01:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한미약품의 영업 수장 교체, 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 13 Dec 2022 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-13 17:48:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130024.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팍스넷뉴스, ‘딜사이트’로 사명 변경…유료 채널은 '딜사이트 플러스'로]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130017</link>
-            <guid>https://www.bloter.net/newsView/blt202212130017</guid>
-            <pubDate>Tue, 13 Dec 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-13 17:43:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130028.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
