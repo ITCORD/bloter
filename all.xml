@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,12 +390,28 @@ KT의 멤버십과 IT 더한다
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[부적+디지털=성공적?…IMI·아이템베이, '신의 한 수' 노린다 (블로터 ─ 테크)]]></title>
+            <title><![CDATA[공정위에 찍힌 '카카오 김범수'의 케이큐브, 셀프 정의도 어려운 '회사 정체성' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150015</link>
+            <guid>https://www.bloter.net/newsView/blt202212150015</guid>
+            <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-15 18:31:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150030.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스토리지 후발주자' 퓨어가 델·넷앱 추격하는 법 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150016</link>
+            <guid>https://www.bloter.net/newsView/blt202212150016</guid>
+            <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-15 18:30:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150033.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[부적·디지털·성공적…IMI-아이템베이, '신의 한 수' 노릴까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212150014</link>
             <guid>https://www.bloter.net/newsView/blt202212150014</guid>
             <pubDate>Thu, 15 Dec 2022 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-15 17:37:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브랜치, 시리즈F의 자신감]②"디지털전환, 사용자 여정에서 다시 생각해야" (블로터 ─ 테크)]]></title>
@@ -516,22 +532,6 @@ KT의 멤버십과 IT 더한다
             <pubDate>Wed, 14 Dec 2022 01:10:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-14 09:29:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130041.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 검찰·금융당국 FTX 창업자 고소…최대 115년형 전망 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140002</link>
-            <guid>https://www.bloter.net/newsView/blt202212140002</guid>
-            <pubDate>Wed, 14 Dec 2022 01:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 09:21:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 유럽에서 앱스토어 외 '제3의 앱마켓' 허용하나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140001</link>
-            <guid>https://www.bloter.net/newsView/blt202212140001</guid>
-            <pubDate>Wed, 14 Dec 2022 01:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 08:24:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -813,7 +813,7 @@ KT의 멤버십과 IT 더한다
             <title><![CDATA[[브랜치, 시리즈F의 자신감]②"디지털전환, 사용자 여정에서 다시 생각해야" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212130012</link>
             <guid>https://www.bloter.net/newsView/blt202212130012</guid>
-            <pubDate>Thu, 15 Dec 2022 09:20:02 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2022 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[많은 기업들이 디지털 전환(디지털트랜스포메이션, DT)이나 모바일 퍼스트를 표방한 지 수년이 지났다. 그러나 '하루에 이용하는 앱이 몇 개나 될까?'라는 질문에 답을 해보면 진정한 디지털 전환은 앱을 설치시키는 데서 끝나선 안된다는 것을 알 수 있다. 더욱이 CPA]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130012.293x165.0.png" length="0" type="image/png"/>
         </item>

@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 09:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 10:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[부적+디지털=성공적?…IMI·아이템베이, '신의 한 수' 노린다]]></title>
+            <title><![CDATA[공정위에 찍힌 '카카오 김범수'의 케이큐브, 셀프 정의도 어려운 '회사 정체성']]></title>
+            <link>https://www.bloter.net/newsView/blt202212150015</link>
+            <guid>https://www.bloter.net/newsView/blt202212150015</guid>
+            <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-15 18:31:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150030.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스토리지 후발주자' 퓨어가 델·넷앱 추격하는 법]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150016</link>
+            <guid>https://www.bloter.net/newsView/blt202212150016</guid>
+            <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-15 18:30:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150033.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[부적·디지털·성공적…IMI-아이템베이, '신의 한 수' 노릴까]]></title>
             <link>https://www.bloter.net/newsView/blt202212150014</link>
             <guid>https://www.bloter.net/newsView/blt202212150014</guid>
             <pubDate>Thu, 15 Dec 2022 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-15 17:37:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브랜치, 시리즈F의 자신감]②"디지털전환, 사용자 여정에서 다시 생각해야"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 14 Dec 2022 01:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-14 09:29:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130041.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 검찰·금융당국 FTX 창업자 고소…최대 115년형 전망]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140002</link>
-            <guid>https://www.bloter.net/newsView/blt202212140002</guid>
-            <pubDate>Wed, 14 Dec 2022 01:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 09:21:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 유럽에서 앱스토어 외 '제3의 앱마켓' 허용하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140001</link>
-            <guid>https://www.bloter.net/newsView/blt202212140001</guid>
-            <pubDate>Wed, 14 Dec 2022 01:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 08:24:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
