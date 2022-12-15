@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브랜치, 시리즈F의 자신감]②"디지털전환, 사용자 여정에서 다시 생각해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212130012</link>
+            <guid>https://www.bloter.net/newsView/blt202212130012</guid>
+            <pubDate>Thu, 15 Dec 2022 09:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업들이 디지털 전환(디지털트랜스포메이션, DT)이나 모바일 퍼스트를 표방한 지 수년이 지났다. 그러나 '하루에 이용하는 앱이 몇 개나 될까?'라는 질문에 답을 해보면 진정한 디지털 전환은 앱을 설치시키는 데서 끝나선 안된다는 것을 알 수 있다. 더욱이 CPA]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130012.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[클래스101픽]흔한 브이로그?…'슛뚜'의 꾸준함은 '글로벌'로 간다]]></title>
             <link>https://www.bloter.net/newsView/blt202212150012</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Dec 2022 01:12:43 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 유료 구독 서비스 '트위터 블루'를 개편하 재출시한다. 인증 과정을 거쳐야 블루 체크 표시를 달 수 있게 됐다.  트위터는 회사 공식 트위터 계정을 통해 12일 트위터 블루를 재출시한다고 밝혔다. 트위터에 따르면 웹에서 결제하면 월 이용료 8달러에 구독]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120003.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4주년 맞은 싱가포르 '메이플스토리M', 길거리 광고가 목표한 3가지 유저는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090028</link>
-            <guid>https://www.bloter.net/newsView/blt202212090028</guid>
-            <pubDate>Sun, 11 Dec 2022 10:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[엔데믹(풍토병화) 시대를 맞아 대중의 눈을 사로잡기 위해 광고 업계도 분주하게 움직이고 있다. 고전적인 방식의 옥외광고판이 '전자광고판(디지털 사이니지)'으로 바뀌며 구체적인 타깃팅을 돕고 있다. 광고 표시 횟수에 따라 광고비를 지불할 수 있어 보다 효율]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/11/blt202212110002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
