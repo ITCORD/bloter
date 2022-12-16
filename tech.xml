@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 02:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 03:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진입장벽 낮추는' 디지털 마케팅 솔루션, '고객 경험' 개선에 주력]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160001</link>
+            <guid>https://www.bloter.net/newsView/blt202212160001</guid>
+            <pubDate>Fri, 16 Dec 2022 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-16 11:47:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타·MS·AWS, 개방형 지도 데이터세트 구축 위해 손잡는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212160003</link>
             <guid>https://www.bloter.net/newsView/blt202212160003</guid>
             <pubDate>Fri, 16 Dec 2022 01:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 09:25:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[美, 中 반도체·AI 기업 수출통제 대상 추가…"국가 안보 위협"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 14 Dec 2022 08:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-14 16:35:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[멤버십 연계부터 AI 자율 계산대까지...'신세계 유니버스' 파고든 KT]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140004</link>
-            <guid>https://www.bloter.net/newsView/blt202212140004</guid>
-            <pubDate>Wed, 14 Dec 2022 06:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-14 14:58:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
