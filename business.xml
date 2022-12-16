@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 23:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 01:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화그룹의 대우조선 M&A 셈법...'손해는 없다']]></title>
+            <link>https://www.bloter.net/newsView/blt202212140016</link>
+            <guid>https://www.bloter.net/newsView/blt202212140016</guid>
+            <pubDate>Fri, 16 Dec 2022 01:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-15 16:07:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150008.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['6명 중 3명 교체'...롯데그룹, 주요 사업군 대표 절반 바꿨다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150008</link>
+            <guid>https://www.bloter.net/newsView/blt202212150008</guid>
+            <pubDate>Fri, 16 Dec 2022 01:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-15 15:58:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150015.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美레드우드, 4.5조원 투자해 전기차 폐배터리 재활용 공장 짓는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212150002</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 15 Dec 2022 07:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 16:08:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘퀵 커머스’ 나선 GS리테일, 돈 아끼는 슈퍼마켓 활용법]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140008</link>
-            <guid>https://www.bloter.net/newsView/blt202212140008</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-14 15:52:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘네이버가 못 해준 것 KT가?'...신세계그룹, 협업으로 살 길 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140007</link>
-            <guid>https://www.bloter.net/newsView/blt202212140007</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-14 14:23:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

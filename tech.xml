@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 23:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 01:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타·MS·AWS, 개방형 지도 데이터세트 구축 위해 손잡는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160003</link>
+            <guid>https://www.bloter.net/newsView/blt202212160003</guid>
+            <pubDate>Fri, 16 Dec 2022 01:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 09:25:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 中 반도체·AI 기업 수출통제 대상 추가…"국가 안보 위협"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160002</link>
+            <guid>https://www.bloter.net/newsView/blt202212160002</guid>
+            <pubDate>Fri, 16 Dec 2022 01:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 08:41:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공정위에 찍힌 '카카오 김범수'의 케이큐브, 셀프 정의도 어려운 '회사 정체성']]></title>
             <link>https://www.bloter.net/newsView/blt202212150015</link>
             <guid>https://www.bloter.net/newsView/blt202212150015</guid>
             <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-15 18:31:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150030.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스토리지 후발주자' 퓨어가 델·넷앱 추격하는 법]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 14 Dec 2022 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-14 14:58:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 상·하원, 틱톡 금지 법안 발의…미국 내 서비스 중단될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140003</link>
-            <guid>https://www.bloter.net/newsView/blt202212140003</guid>
-            <pubDate>Wed, 14 Dec 2022 01:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-14 10:04:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘녹십자의 정신’ 목암생명과학연구소, 서울로 이전하는 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130020</link>
-            <guid>https://www.bloter.net/newsView/blt202212130020</guid>
-            <pubDate>Wed, 14 Dec 2022 01:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-14 09:29:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130041.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
