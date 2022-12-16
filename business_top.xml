@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 21:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 22:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한화그룹, 대우조선 인수 본계약 체결...2009년 멈춘 시계 14년 만에 움직였다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160013</link>
-            <guid>https://www.bloter.net/newsView/blt202212160013</guid>
-            <pubDate>Fri, 16 Dec 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-16 17:42:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160053.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘신세계 유니버스’ 위해 인수했는데…SSG랜더스 비선실세 논란]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160012</link>
+            <guid>https://www.bloter.net/newsView/blt202212160012</guid>
+            <pubDate>Fri, 16 Dec 2022 22:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-17 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160042.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한화그룹의 대우조선 M&A 셈법...'손해는 없다']]></title>
-            <link>https://www.bloter.net/newsView/blt202212140016</link>
-            <guid>https://www.bloter.net/newsView/blt202212140016</guid>
-            <pubDate>Fri, 16 Dec 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[멤버십 연계부터 AI 자율 계산대까지...'신세계 유니버스' 파고든 KT]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140004</link>
+            <guid>https://www.bloter.net/newsView/blt202212140004</guid>
+            <pubDate>Fri, 16 Dec 2022 22:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조선업은 '고비용·저수익' 구조...한화의 대우조선 인수 '낙관론은 없다']]></title>
-            <link>https://www.bloter.net/newsView/blt202209290007</link>
-            <guid>https://www.bloter.net/newsView/blt202209290007</guid>
-            <pubDate>Fri, 16 Dec 2022 09:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘네이버가 못 해준 것 KT가?'...신세계그룹, 협업으로 살 길 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140007</link>
+            <guid>https://www.bloter.net/newsView/blt202212140007</guid>
+            <pubDate>Fri, 16 Dec 2022 22:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['단기차입'꺼리는 신세계푸드, 유동성 확보 나섰다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211100016</link>
+            <guid>https://www.bloter.net/newsView/blt202211100016</guid>
+            <pubDate>Fri, 16 Dec 2022 22:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신세계, 또 최대 실적…정유경 매직 어디까지]]></title>
+            <link>https://www.bloter.net/newsView/blt202211070012</link>
+            <guid>https://www.bloter.net/newsView/blt202211070012</guid>
+            <pubDate>Fri, 16 Dec 2022 22:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
