@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 05:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 06:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["슈카월드 보고 매수했어요"…인플루언서가 펀드시장 핵심 공급망 된다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212150010</link>
+            <guid>https://www.bloter.net/newsView/blt202212150010</guid>
+            <pubDate>Fri, 16 Dec 2022 06:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-15 17:03:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150020.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데그룹, 달라진 리더십 체제...'새로운 롯데 만들기']]></title>
             <link>https://www.bloter.net/newsView/blt202212150011</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 15 Dec 2022 08:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 08:25:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[금융권 3조원 번 중도상환수수료…토스뱅크는 8만6500명에 돌려줬다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140011</link>
-            <guid>https://www.bloter.net/newsView/blt202212140011</guid>
-            <pubDate>Thu, 15 Dec 2022 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 17:07:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140017.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
