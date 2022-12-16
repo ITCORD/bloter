@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美, 中 반도체·AI 기업 수출통제 대상 추가…"국가 안보 위협"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160002</link>
+            <guid>https://www.bloter.net/newsView/blt202212160002</guid>
+            <pubDate>Fri, 16 Dec 2022 08:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 08:41:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160001.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["슈카월드 보고 매수했어요"…인플루언서가 펀드시장 핵심 공급망 된다]]></title>
             <link>https://www.bloter.net/newsView/blt202212150010</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 15 Dec 2022 08:20:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 09:41:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터서 '표현의 자유' 강조한 머스크, 개인 제트기 추적 계정 차단]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150001</link>
-            <guid>https://www.bloter.net/newsView/blt202212150001</guid>
-            <pubDate>Thu, 15 Dec 2022 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 08:25:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
