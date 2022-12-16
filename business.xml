@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 04:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 05:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데그룹, 달라진 리더십 체제...'새로운 롯데 만들기']]></title>
+            <link>https://www.bloter.net/newsView/blt202212150011</link>
+            <guid>https://www.bloter.net/newsView/blt202212150011</guid>
+            <pubDate>Fri, 16 Dec 2022 05:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-15 16:52:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150028.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한화그룹의 대우조선 M&A 셈법...'손해는 없다']]></title>
             <link>https://www.bloter.net/newsView/blt202212140016</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 15 Dec 2022 07:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 17:07:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카드사 무이자할부 없앨수록…롯데카드 회원은 늘어난다?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140009</link>
-            <guid>https://www.bloter.net/newsView/blt202212140009</guid>
-            <pubDate>Thu, 15 Dec 2022 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-14 16:08:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140013.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
