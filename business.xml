@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 09:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타·MS·AWS, 개방형 지도 데이터세트 구축 위해 손잡는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160003</link>
+            <guid>https://www.bloter.net/newsView/blt202212160003</guid>
+            <pubDate>Fri, 16 Dec 2022 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 09:25:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 中 반도체·AI 기업 수출통제 대상 추가…"국가 안보 위협"]]></title>
             <link>https://www.bloter.net/newsView/blt202212160002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 16 Dec 2022 01:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-15 15:58:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美레드우드, 4.5조원 투자해 전기차 폐배터리 재활용 공장 짓는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150002</link>
-            <guid>https://www.bloter.net/newsView/blt202212150002</guid>
-            <pubDate>Thu, 15 Dec 2022 08:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 09:41:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

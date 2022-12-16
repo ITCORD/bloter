@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 09:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이중화도 소용없었다…네이버 뉴스 오류 원인 뭐길래?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160014</link>
+            <guid>https://www.bloter.net/newsView/blt202212160014</guid>
+            <pubDate>Fri, 16 Dec 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-16 17:21:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160046.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임신중절 의약품 ‘미프지미소정’, 법 체계 미비로 허가 '좌초']]></title>
             <link>https://www.bloter.net/newsView/blt202212160006</link>
             <guid>https://www.bloter.net/newsView/blt202212160006</guid>
             <pubDate>Fri, 16 Dec 2022 06:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-16 14:38:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160006.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160006.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['진입장벽 낮추는' 디지털 마케팅 솔루션, '고객 경험' 개선에 주력]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 14 Dec 2022 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-14 17:46:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140021.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]한컴라이프케어 성장판 자극한 New 키워드 '국방']]></title>
-            <link>https://www.bloter.net/newsView/blt202212140012</link>
-            <guid>https://www.bloter.net/newsView/blt202212140012</guid>
-            <pubDate>Wed, 14 Dec 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-14 17:34:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
