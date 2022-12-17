@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 01:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메가마트, 호텔농심 흡수합병…흑자전환 가능할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160008</link>
+            <guid>https://www.bloter.net/newsView/blt202212160008</guid>
+            <pubDate>Sat, 17 Dec 2022 01:05:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-16 14:50:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160009.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['ATM 앞에서 모자 쓰지 말라'…신한은행 전 영업점서 AI 이상행동탐지]]></title>
             <link>https://www.bloter.net/newsView/blt202212160004</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 16 Dec 2022 05:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-15 16:52:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화그룹의 대우조선 M&A 셈법...'손해는 없다']]></title>
-            <link>https://www.bloter.net/newsView/blt202212140016</link>
-            <guid>https://www.bloter.net/newsView/blt202212140016</guid>
-            <pubDate>Fri, 16 Dec 2022 01:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-15 16:07:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150008.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
