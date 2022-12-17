@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 02:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 03:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PC 매출 반토막…위기의 주연테크, 주변기기에 '눈독']]></title>
+            <link>https://www.bloter.net/newsView/blt202212160018</link>
+            <guid>https://www.bloter.net/newsView/blt202212160018</guid>
+            <pubDate>Sat, 17 Dec 2022 03:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-17 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160058.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]많고 많은 AI 기업, ‘스켈터랩스’의 경쟁력은 뭘까]]></title>
             <link>https://www.bloter.net/newsView/blt202212160015</link>
             <guid>https://www.bloter.net/newsView/blt202212160015</guid>
             <pubDate>Fri, 16 Dec 2022 11:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-12-16 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160047.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이중화도 소용없었다…네이버 뉴스 오류 원인 뭐길래?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 15 Dec 2022 01:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 08:25:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[그룹이 밀어주는 SK바이오팜, 디지털 입고 종합 헬스케어 기업 도약 꿈꾸나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140014</link>
-            <guid>https://www.bloter.net/newsView/blt202212140014</guid>
-            <pubDate>Wed, 14 Dec 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-14 18:09:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/14/blt202212140024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
