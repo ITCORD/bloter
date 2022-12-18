@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 10:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 11:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -385,12 +385,20 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]2023 Outlook : “위험자산이 위험하다” I 배리 아이켄그린 교수 인터뷰 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212180003</link>
+            <guid>https://www.bloter.net/newsView/blt202212180003</guid>
+            <pubDate>Sun, 18 Dec 2022 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-18 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/18/blt202212180008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[韓 외국계 IT]PC 좋아했던 14세 소년, 서버·스토리지 강자 '델'을 일구다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212170001</link>
             <guid>https://www.bloter.net/newsView/blt202212170001</guid>
             <pubDate>Sun, 18 Dec 2022 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-18 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/17/blt202212170001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/17/blt202212170001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핵융합 점화 최초 성공한 미국…'꿈의 에너지' 상용화까지 넘어야 할 산은? (블로터 ─ 테크)]]></title>
@@ -519,14 +527,6 @@
             <pubDate>Thu, 15 Dec 2022 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-15 16:01:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미약품의 영업 수장 교체, 이유는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150005</link>
-            <guid>https://www.bloter.net/newsView/blt202212150005</guid>
-            <pubDate>Thu, 15 Dec 2022 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-15 15:40:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
