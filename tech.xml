@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 04:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서플러스글로벌, 호실적에도 늘어난 ‘부채비율’…선수금 증가 영향]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160011</link>
+            <guid>https://www.bloter.net/newsView/blt202212160011</guid>
+            <pubDate>Sun, 18 Dec 2022 05:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-18 14:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160011.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[마케팅+] 글로벌 서비스, 광고에 '머신러닝'을 써야하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202212160007</link>
             <guid>https://www.bloter.net/newsView/blt202212160007</guid>
             <pubDate>Sun, 18 Dec 2022 04:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-18 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[PC 매출 반토막…위기의 주연테크, 주변기기에 '눈독']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 15 Dec 2022 01:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 09:41:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[블로터언팩]"너 뒤에 쟤 있다…화면 가릴게!" '알잘딱' 비즈니스 노트북, 델 래티튜드 9330 2-in-1]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130019</link>
-            <guid>https://www.bloter.net/newsView/blt202212130019</guid>
-            <pubDate>Thu, 15 Dec 2022 01:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-15 09:12:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
