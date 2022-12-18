@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 07:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,26 +253,48 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160056.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한화그룹을 바꾼 김승연 회장의 '프로펠러론'...세계 3위 대우조선을 움직인다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212180001</link>
-            <guid>https://www.bloter.net/newsView/blt202212180001</guid>
-            <pubDate>Sun, 18 Dec 2022 06:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-18 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/18/blt202212180003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[핵융합 점화 최초 성공한 미국…'꿈의 에너지' 상용화까지 넘어야 할 산은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160017</link>
+            <guid>https://www.bloter.net/newsView/blt202212160017</guid>
+            <pubDate>Sun, 18 Dec 2022 07:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-18 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160060.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한화그룹, 대우조선 인수 본계약 체결...2009년 멈춘 시계 14년 만에 움직였다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160013</link>
-            <guid>https://www.bloter.net/newsView/blt202212160013</guid>
-            <pubDate>Fri, 16 Dec 2022 09:14:40 GMT</pubDate>
+            <title><![CDATA[과기정통부, 사업 구조조정으로 확보한 1조원 '반도체·원자력'에 쓴다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202208310020</link>
+            <guid>https://www.bloter.net/newsView/blt202208310020</guid>
+            <pubDate>Sun, 18 Dec 2022 07:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[尹 정부 핵심 ‘원자력·우주’ 진흥, 미국 이어 프랑스로 협력 폭 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202207220018</link>
+            <guid>https://www.bloter.net/newsView/blt202207220018</guid>
+            <pubDate>Sun, 18 Dec 2022 07:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['재생에너지 제국' 꿈꾸는 현대중공업그룹...아람코 이어 美 GE와 '파트너십' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202160074</link>
+            <guid>https://www.bloter.net/newsView/blt202202160074</guid>
+            <pubDate>Sun, 18 Dec 2022 07:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한화그룹의 대우조선 M&A 셈법...'손해는 없다' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140016</link>
-            <guid>https://www.bloter.net/newsView/blt202212140016</guid>
-            <pubDate>Sun, 18 Dec 2022 06:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘1억도 30초’ 세계 기록 보유한 KSTAR…핵융합 고도화 전략 타고 ‘훨훨’ (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202112300230</link>
+            <guid>https://www.bloter.net/newsView/blt202112300230</guid>
+            <pubDate>Sun, 18 Dec 2022 07:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">정두용</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[환율이 생명인 하나금융…디지털통 대신 '외환은행' 출신 중용한 이유? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160016</link>
+            <guid>https://www.bloter.net/newsView/blt202212160016</guid>
+            <pubDate>Sat, 17 Dec 2022 01:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-17 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160056.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘신세계 유니버스’ 위해 인수했는데…SSG랜더스 비선실세 논란 (블로터 ─ 비즈니스)]]></title>
@@ -315,14 +337,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메타·MS·AWS, 개방형 지도 데이터세트 구축 위해 손잡는다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160003</link>
-            <guid>https://www.bloter.net/newsView/blt202212160003</guid>
-            <pubDate>Fri, 16 Dec 2022 01:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 09:25:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -359,12 +373,20 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[핵융합 점화 최초 성공한 미국…'꿈의 에너지' 상용화까지 넘어야 할 산은? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160017</link>
+            <guid>https://www.bloter.net/newsView/blt202212160017</guid>
+            <pubDate>Sun, 18 Dec 2022 07:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-18 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160060.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[서플러스글로벌, 호실적에도 늘어난 ‘부채비율’…선수금 증가 영향 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212160011</link>
             <guid>https://www.bloter.net/newsView/blt202212160011</guid>
             <pubDate>Sun, 18 Dec 2022 05:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-18 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160011.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160011.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[마케팅+] 글로벌 서비스, 광고에 '머신러닝'을 써야하는 이유 (블로터 ─ 테크)]]></title>
@@ -493,14 +515,6 @@
             <pubDate>Thu, 15 Dec 2022 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-15 15:28:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美레드우드, 4.5조원 투자해 전기차 폐배터리 재활용 공장 짓는다 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150002</link>
-            <guid>https://www.bloter.net/newsView/blt202212150002</guid>
-            <pubDate>Thu, 15 Dec 2022 01:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 09:41:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
