@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 07:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 08:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최고 부자 등극한 '캐시미어를 두른 늑대'…베르나르 아르노는 누구?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160019</link>
+            <guid>https://www.bloter.net/newsView/blt202212160019</guid>
+            <pubDate>Sun, 18 Dec 2022 08:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-18 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160063.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[환율이 생명인 하나금융…디지털통 대신 '외환은행' 출신 중용한 이유?]]></title>
             <link>https://www.bloter.net/newsView/blt202212160016</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 17 Dec 2022 01:05:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-16 14:50:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160009.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['ATM 앞에서 모자 쓰지 말라'…신한은행 전 영업점서 AI 이상행동탐지]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160004</link>
-            <guid>https://www.bloter.net/newsView/blt202212160004</guid>
-            <pubDate>Fri, 16 Dec 2022 22:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-16 13:38:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
