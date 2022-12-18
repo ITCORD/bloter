@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 08:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[韓 외국계 IT]PC 좋아했던 14세 소년, 서버·스토리지 강자 '델'을 일구다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212170001</link>
+            <guid>https://www.bloter.net/newsView/blt202212170001</guid>
+            <pubDate>Sun, 18 Dec 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-18 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/17/blt202212170001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핵융합 점화 최초 성공한 미국…'꿈의 에너지' 상용화까지 넘어야 할 산은?]]></title>
             <link>https://www.bloter.net/newsView/blt202212160017</link>
             <guid>https://www.bloter.net/newsView/blt202212160017</guid>
             <pubDate>Sun, 18 Dec 2022 07:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-18 16:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160060.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160060.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[서플러스글로벌, 호실적에도 늘어난 ‘부채비율’…선수금 증가 영향]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 15 Dec 2022 07:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-15 15:40:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]LGD, LCD 출구전략 임박…빨라진 ‘사업재편’]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150004</link>
-            <guid>https://www.bloter.net/newsView/blt202212150004</guid>
-            <pubDate>Thu, 15 Dec 2022 07:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-15 15:28:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
