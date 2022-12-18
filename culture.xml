@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 03:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 04:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅+] 글로벌 서비스, 광고에 '머신러닝'을 써야하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160007</link>
+            <guid>https://www.bloter.net/newsView/blt202212160007</guid>
+            <pubDate>Sun, 18 Dec 2022 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[무수히 많은 애플리케이션, 매체의 등장과 더불어 개인정보 보호 이슈가 급부상하며 마케터들에게 많은 업무 부담을 주고 있다. 어떠한 광고 지면을 통해 어떤 이용자에게 다가가야 할 지 선택하는 데에 시간과 노력이 들기 때문이다. 글로벌로 가면 그 부담은 가중]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['진입장벽 낮추는' 디지털 마케팅 솔루션, '고객 경험' 개선에 주력]]></title>
             <link>https://www.bloter.net/newsView/blt202212160001</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 12 Dec 2022 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[제일기획이 정기임원 인사를 통해 해외사업 전문가들을 승진시키며 글로벌 역량 강화에 나섰다.12일 제일기획은 김종현 부사장을 신임 대표로 내정한 데 이어 부사장과 상무 등 총 3명의 승진 인사를 내놨다.   윤영석 부사장은 통찰력과 전략 마인드가 강점인 브랜]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120006.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]LF, LG패션 '티피코시' 부활…자력으로 '레트로' 리뉴얼 도전]]></title>
-            <link>https://www.bloter.net/newsView/blt202212120010</link>
-            <guid>https://www.bloter.net/newsView/blt202212120010</guid>
-            <pubDate>Mon, 12 Dec 2022 07:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[패션기업 LF가 전신인 LG패션 시절 운영했던 추억의 브랜드 '티피코시'(TIPI COSI)를 되살린다. 패션업계 레트로가 화두로 떠오르면서 1990년대와 2000년대 브랜드인 피티코시 재판매에 나선 것이다. LF는 지난 2019년 패션 브랜드 '챔피온' 판권을, 지난 4월에는 '리복' 판권]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

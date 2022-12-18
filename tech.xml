@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 03:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 04:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅+] 글로벌 서비스, 광고에 '머신러닝'을 써야하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160007</link>
+            <guid>https://www.bloter.net/newsView/blt202212160007</guid>
+            <pubDate>Sun, 18 Dec 2022 04:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-18 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[PC 매출 반토막…위기의 주연테크, 주변기기에 '눈독']]></title>
             <link>https://www.bloter.net/newsView/blt202212160018</link>
             <guid>https://www.bloter.net/newsView/blt202212160018</guid>
             <pubDate>Sat, 17 Dec 2022 03:17:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-17 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160058.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160058.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]많고 많은 AI 기업, ‘스켈터랩스’의 경쟁력은 뭘까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 15 Dec 2022 01:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-15 09:12:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130033.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터서 '표현의 자유' 강조한 머스크, 개인 제트기 추적 계정 차단]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150001</link>
-            <guid>https://www.bloter.net/newsView/blt202212150001</guid>
-            <pubDate>Thu, 15 Dec 2022 01:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-15 08:25:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
