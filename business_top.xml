@@ -1,47 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 22:16:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[머스크, 테슬라 '자동차 보험'으로 버핏의 '경제적 해자' 뺏을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190016</link>
-            <guid>https://www.bloter.net/newsView/blt202212190016</guid>
-            <pubDate>Mon, 19 Dec 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-19 18:11:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190030.570x320.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터서 '표현의 자유' 강조한 머스크, 개인 제트기 추적 계정 차단]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150001</link>
-            <guid>https://www.bloter.net/newsView/blt202212150001</guid>
-            <pubDate>Mon, 19 Dec 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[머스크 트위터 '올인'하는 동안 테슬라는 '구인난']]></title>
-            <link>https://www.bloter.net/newsView/blt202212090025</link>
-            <guid>https://www.bloter.net/newsView/blt202212090025</guid>
-            <pubDate>Mon, 19 Dec 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, ‘업그레이드된 FSD’ 미국·캐나다서 확대 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250004</link>
-            <guid>https://www.bloter.net/newsView/blt202211250004</guid>
-            <pubDate>Mon, 19 Dec 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[버핏이 '찜'한 브라질 누뱅크, IPO로 기업가치 '60조원' 노리나]]></title>
-            <link>https://www.bloter.net/newsView/blt202108260006</link>
-            <guid>https://www.bloter.net/newsView/blt202108260006</guid>
-            <pubDate>Mon, 19 Dec 2022 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
+    <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
+    <updated>2022-12-19T23:19:33.115Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bloter.net/favicon.png</icon>
+</feed>
