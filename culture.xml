@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 01:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 02:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인디게임 랩소디]①스마일게이트, 가로수길에 80개 부스 모은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202212180005</link>
+            <guid>https://www.bloter.net/newsView/blt202212180005</guid>
+            <pubDate>Mon, 19 Dec 2022 02:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[스마일게이트가 서울 강남구 가로수길 메인 스트리트에 인디게임 80여개를 모았다. 스마일게이트 퓨처랩이 지난 16일부터 18일까지 인디게임 페스티벌 '버닝비버 2022'를 개최하면서다. 단순히 인디게임 부스 마련에 그치지 않고 페스티벌을 찾은 관람객들이 충분히]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/18/blt202212180013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 타 SNS·링크 금지…"더 이상 무료 홍보 허용 안 할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202212190002</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 13 Dec 2022 01:17:28 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대 사원이 낸 아이디어가 실제 사업화됐다. 메조미디어 사내 신사업 아이디어 공모전에서 발굴된 1인가구를 위한 웹 커뮤니티 '독립은 처음이라'가 그 주인공이다. 3일 CJ ENM의 디지털 마케팅 솔루션 기업 메조미디어에 따르면 독립은 처음이라는 지난해 진행한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]LoL 하면서 문화재도 지킨다…11년 맞은 라이엇 韓 사회공헌]]></title>
-            <link>https://www.bloter.net/newsView/blt202212120012</link>
-            <guid>https://www.bloter.net/newsView/blt202212120012</guid>
-            <pubDate>Mon, 12 Dec 2022 09:16:41 GMT</pubDate>
-            <content:encoded><![CDATA["한국 문화유산 보호 지원이라는 프로젝트는 제가 라이엇게임즈에 합류한 후 저희 팀과 함께 10년 이상 이끌어 온 프로젝트예요. 본사를 비롯해 해외 다른 지사에서도 지속적으로 저희 활동에 대한 사례와 설명을 들어왔고, 플레이어들의 뜨거운 반응도 계속 봤기에]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/12/blt202212120023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
