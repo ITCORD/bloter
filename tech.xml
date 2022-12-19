@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[N플레이]넥슨 '카트라이더 섭종'에 숨겨진 비하인드]]></title>
+            <link>https://www.bloter.net/newsView/blt202212190011</link>
+            <guid>https://www.bloter.net/newsView/blt202212190011</guid>
+            <pubDate>Mon, 19 Dec 2022 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-19 17:13:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 미디어 믹스 모델링?…메타 "로빈으로 야, 너두 할 수 있어!"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212190008</link>
+            <guid>https://www.bloter.net/newsView/blt202212190008</guid>
+            <pubDate>Mon, 19 Dec 2022 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-19 17:00:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190011.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복지부가 그리는 보건산업정책…저무는 코로나19 백신 개발, 떠오르는 의료데이터 산업]]></title>
             <link>https://www.bloter.net/newsView/blt202212190006</link>
             <guid>https://www.bloter.net/newsView/blt202212190006</guid>
             <pubDate>Mon, 19 Dec 2022 07:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-19 15:51:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인디게임 랩소디]①스마일게이트, 가로수길에 80개 부스 모은 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 16 Dec 2022 01:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 08:41:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공정위에 찍힌 '카카오 김범수'의 케이큐브, 셀프 정의도 어려운 '회사 정체성']]></title>
-            <link>https://www.bloter.net/newsView/blt202212150015</link>
-            <guid>https://www.bloter.net/newsView/blt202212150015</guid>
-            <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-15 18:31:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스토리지 후발주자' 퓨어가 델·넷앱 추격하는 법]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150016</link>
-            <guid>https://www.bloter.net/newsView/blt202212150016</guid>
-            <pubDate>Thu, 15 Dec 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-15 18:30:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/15/blt202212150033.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
