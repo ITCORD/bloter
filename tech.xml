@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 09:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은]]></title>
+            <link>https://www.bloter.net/newsView/blt202212190015</link>
+            <guid>https://www.bloter.net/newsView/blt202212190015</guid>
+            <pubDate>Mon, 19 Dec 2022 09:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-19 18:03:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190029.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이종호 과기정통부 장관도 "어렵다"는 CSAP 등급제…KT·네이버·NHN과 AWS도 촉각]]></title>
+            <link>https://www.bloter.net/newsView/blt202212190012</link>
+            <guid>https://www.bloter.net/newsView/blt202212190012</guid>
+            <pubDate>Mon, 19 Dec 2022 09:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-19 17:20:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190017.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[N플레이]넥슨 '카트라이더 섭종'에 숨겨진 비하인드]]></title>
             <link>https://www.bloter.net/newsView/blt202212190011</link>
             <guid>https://www.bloter.net/newsView/blt202212190011</guid>
             <pubDate>Mon, 19 Dec 2022 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-19 17:13:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차세대 미디어 믹스 모델링?…메타 "로빈으로 야, 너두 할 수 있어!"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 16 Dec 2022 03:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-16 11:47:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타·MS·AWS, 개방형 지도 데이터세트 구축 위해 손잡는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160003</link>
-            <guid>https://www.bloter.net/newsView/blt202212160003</guid>
-            <pubDate>Fri, 16 Dec 2022 01:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 09:25:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 中 반도체·AI 기업 수출통제 대상 추가…"국가 안보 위협"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160002</link>
-            <guid>https://www.bloter.net/newsView/blt202212160002</guid>
-            <pubDate>Fri, 16 Dec 2022 01:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-16 08:41:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
