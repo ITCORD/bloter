@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
-    <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
-    <updated>2022-12-20T02:44:23.246Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bloter.net/favicon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Dec 2022 03:20:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과학도시 넘어 '창업도시' 자리잡는 대전…투자자들이 점찍었다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200004</link>
+            <guid>https://www.bloter.net/newsView/blt202212200004</guid>
+            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-20 12:00:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200006.570x320.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[태광산업의 뒤늦은 투자...'지금 늦으면 영원히 뒤처진다']]></title>
+            <link>https://www.bloter.net/newsView/blt202212190005</link>
+            <guid>https://www.bloter.net/newsView/blt202212190005</guid>
+            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[불황 때 투자늘리는 롯데케미칼, 인니 화학사 건설에 3.1조 차입]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160009</link>
+            <guid>https://www.bloter.net/newsView/blt202212160009</guid>
+            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["불황기 투자가 호황기 대비 수익률 10%포인트 더 높다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140006</link>
+            <guid>https://www.bloter.net/newsView/blt202212140006</guid>
+            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[투자 혹한기에 스타트업 품는 KB국민카드…'한국의 경영대상' 수상]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070009</link>
+            <guid>https://www.bloter.net/newsView/blt202212070009</guid>
+            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
