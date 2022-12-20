@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -327,19 +327,27 @@ EMC 인수하며 스토리지 시장에서도 우뚝
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/17/blt202212170001.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실적·현금흐름 악화된 태광산업, 8조 투자금 대부분 금융권서 조달 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200007</link>
-            <guid>https://www.bloter.net/newsView/blt202212200007</guid>
-            <pubDate>Tue, 20 Dec 2022 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-20 15:44:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200010.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[공정위, 기업총수의 '사실혼 배우자' 친족 인정...자녀 낳은 생모에 한정 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200009</link>
+            <guid>https://www.bloter.net/newsView/blt202212200009</guid>
+            <pubDate>Tue, 20 Dec 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-20 16:18:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200016.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태광산업의 뒤늦은 투자...'지금 늦으면 영원히 뒤처진다' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190005</link>
-            <guid>https://www.bloter.net/newsView/blt202212190005</guid>
-            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
+            <title><![CDATA[SK온 최초 필드사고...최태원 SK그룹 회장 고개 숙였다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202210250004</link>
+            <guid>https://www.bloter.net/newsView/blt202210250004</guid>
+            <pubDate>Tue, 20 Dec 2022 08:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200002</link>
+            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
+            <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 09:22:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['포트나이트'의 에픽게임즈, 어린이 보호 위반으로 거액 벌금 합의 (블로터 ─ 비즈니스)]]></title>
@@ -382,14 +390,6 @@ EMC 인수하며 스토리지 시장에서도 우뚝
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190005.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트위터, 타 SNS·링크 금지…"더 이상 무료 홍보 허용 안 할 것" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190002</link>
-            <guid>https://www.bloter.net/newsView/blt202212190002</guid>
-            <pubDate>Mon, 19 Dec 2022 01:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-19 09:30:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -426,12 +426,36 @@ EMC 인수하며 스토리지 시장에서도 우뚝
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[마크비전, 위조 상품 탐지·제거는 기본…IP비즈니스까지 논스톱 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200013</link>
+            <guid>https://www.bloter.net/newsView/blt202212200013</guid>
+            <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-20 17:09:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1900만 가입자 티맵모빌리티, 사내 정보보호 전담은 1명이었다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200010</link>
+            <guid>https://www.bloter.net/newsView/blt202212200010</guid>
+            <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-20 16:51:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200014.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전자상거래 플랫폼 '카페24'와 '유튜브 쇼핑'이 만난 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200011</link>
+            <guid>https://www.bloter.net/newsView/blt202212200011</guid>
+            <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-20 16:26:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200019.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[컴투스그룹 코인 XPLA, 글로벌 거래소 '코인엑스' 상장 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212200003</link>
             <guid>https://www.bloter.net/newsView/blt202212200003</guid>
             <pubDate>Tue, 20 Dec 2022 02:37:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-20 11:31:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승 (블로터 ─ 테크)]]></title>
@@ -544,30 +568,6 @@ EMC 인수하며 스토리지 시장에서도 우뚝
             <pubDate>Sun, 18 Dec 2022 07:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-18 16:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160060.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[서플러스글로벌, 호실적에도 늘어난 ‘부채비율’…선수금 증가 영향 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160011</link>
-            <guid>https://www.bloter.net/newsView/blt202212160011</guid>
-            <pubDate>Sun, 18 Dec 2022 05:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-18 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160011.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅+] 글로벌 서비스, 광고에 '머신러닝'을 써야하는 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160007</link>
-            <guid>https://www.bloter.net/newsView/blt202212160007</guid>
-            <pubDate>Sun, 18 Dec 2022 04:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-18 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시장 한파에 PC 매출 뚝...주연테크, 주변기기에 '눈독' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160018</link>
-            <guid>https://www.bloter.net/newsView/blt202212160018</guid>
-            <pubDate>Sat, 17 Dec 2022 03:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-17 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160058.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -846,6 +846,14 @@ EMC 인수하며 스토리지 시장에서도 우뚝
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마크비전, 위조 상품 탐지·제거는 기본…IP비즈니스까지 논스톱 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200013</link>
+            <guid>https://www.bloter.net/newsView/blt202212200013</guid>
+            <pubDate>Tue, 20 Dec 2022 08:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 기업 마크비전이 'IP 비즈니스 인프라 SaaS 기업'을 새 비전으로 선포했다. 유튜브나 틱톡으로 위조 상품 모니터링을 확대하는 한편, 지식재산권(IP) 관리를 총체적으로 관리한다. 특히 마크비전코리아는 아시아 허브로써 K-패션 브랜드 및 K-콘텐츠 기업들을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컴투스그룹 코인 XPLA, 글로벌 거래소 '코인엑스' 상장 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212200003</link>
             <guid>https://www.bloter.net/newsView/blt202212200003</guid>
@@ -932,14 +940,6 @@ EMC 인수하며 스토리지 시장에서도 우뚝
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[디지털화의 첫 번째 단계인 '데이터 활용'을 위한 솔루션들이 늘어나고 있다. 기업들이 스타트업이나 소상공인도 이용할 수 있도록 진입장벽을 낮추고 있는 것인데, 이에 따라 종합 마케팅 서비스를 제공하는 컨설팅 기업도 주목받는 추세다.  디지털 전환(디지털]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브랜치, 시리즈F의 자신감]②"디지털전환, 사용자 여정에서 다시 생각해야" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130012</link>
-            <guid>https://www.bloter.net/newsView/blt202212130012</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 디지털 전환(디지털트랜스포메이션, DT)이나 모바일 퍼스트를 표방한 지 수년이 지났다. 그러나 '하루에 이용하는 앱이 몇 개나 될까?'라는 질문에 답을 해보면 진정한 디지털 전환은 앱을 설치시키는 데서 끝나선 안된다는 것을 알 수 있다. 더욱이 CPA]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130012.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

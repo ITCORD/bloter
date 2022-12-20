@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크비전, 위조 상품 탐지·제거는 기본…IP비즈니스까지 논스톱]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200013</link>
+            <guid>https://www.bloter.net/newsView/blt202212200013</guid>
+            <pubDate>Tue, 20 Dec 2022 08:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 기업 마크비전이 'IP 비즈니스 인프라 SaaS 기업'을 새 비전으로 선포했다. 유튜브나 틱톡으로 위조 상품 모니터링을 확대하는 한편, 지식재산권(IP) 관리를 총체적으로 관리한다. 특히 마크비전코리아는 아시아 허브로써 K-패션 브랜드 및 K-콘텐츠 기업들을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컴투스그룹 코인 XPLA, 글로벌 거래소 '코인엑스' 상장]]></title>
             <link>https://www.bloter.net/newsView/blt202212200003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[디지털화의 첫 번째 단계인 '데이터 활용'을 위한 솔루션들이 늘어나고 있다. 기업들이 스타트업이나 소상공인도 이용할 수 있도록 진입장벽을 낮추고 있는 것인데, 이에 따라 종합 마케팅 서비스를 제공하는 컨설팅 기업도 주목받는 추세다.  디지털 전환(디지털]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[브랜치, 시리즈F의 자신감]②"디지털전환, 사용자 여정에서 다시 생각해야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130012</link>
-            <guid>https://www.bloter.net/newsView/blt202212130012</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 디지털 전환(디지털트랜스포메이션, DT)이나 모바일 퍼스트를 표방한 지 수년이 지났다. 그러나 '하루에 이용하는 앱이 몇 개나 될까?'라는 질문에 답을 해보면 진정한 디지털 전환은 앱을 설치시키는 데서 끝나선 안된다는 것을 알 수 있다. 더욱이 CPA]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/13/blt202212130012.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
