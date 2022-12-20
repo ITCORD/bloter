@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 23:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 01:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200002</link>
+            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
+            <pubDate>Tue, 20 Dec 2022 01:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 09:22:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['포트나이트'의 에픽게임즈, 어린이 보호 위반으로 거액 벌금 합의]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200001</link>
+            <guid>https://www.bloter.net/newsView/blt202212200001</guid>
+            <pubDate>Tue, 20 Dec 2022 01:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 08:27:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200001.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[계속된 통신 적자, 신사업은 물음표…'전기공사'로 버틴 세종텔레콤]]></title>
             <link>https://www.bloter.net/newsView/blt202212190014</link>
             <guid>https://www.bloter.net/newsView/blt202212190014</guid>
             <pubDate>Mon, 19 Dec 2022 21:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-20 06:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 16 Dec 2022 11:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2022-12-16 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160047.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이중화도 소용없었다…네이버 뉴스 오류 원인 뭐길래?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160014</link>
-            <guid>https://www.bloter.net/newsView/blt202212160014</guid>
-            <pubDate>Fri, 16 Dec 2022 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-16 17:21:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160046.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임신중절 의약품 ‘미프지미소정’, 법 체계 미비로 허가 '좌초']]></title>
-            <link>https://www.bloter.net/newsView/blt202212160006</link>
-            <guid>https://www.bloter.net/newsView/blt202212160006</guid>
-            <pubDate>Fri, 16 Dec 2022 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-16 14:38:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
