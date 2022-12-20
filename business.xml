@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 06:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포트나이트'의 에픽게임즈, 어린이 보호 위반으로 거액 벌금 합의]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200001</link>
+            <guid>https://www.bloter.net/newsView/blt202212200001</guid>
+            <pubDate>Tue, 20 Dec 2022 07:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 08:27:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[머스크, 테슬라 '자동차 보험'으로 버핏의 '경제적 해자' 뺏을까]]></title>
             <link>https://www.bloter.net/newsView/blt202212190016</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 20 Dec 2022 04:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-19 09:30:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, M2 탑재한 독립형 모니터 개발…맥프로 출시는 지연]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190001</link>
-            <guid>https://www.bloter.net/newsView/blt202212190001</guid>
-            <pubDate>Tue, 20 Dec 2022 04:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-19 09:22:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

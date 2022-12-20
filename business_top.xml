@@ -4,44 +4,23 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 06:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[효성첨단소재, 언양공장 매각 불발...1년치 CAPEX 비용 마련 숙제]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200005</link>
-            <guid>https://www.bloter.net/newsView/blt202212200005</guid>
-            <pubDate>Tue, 20 Dec 2022 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-20 13:23:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200007.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[실적·현금흐름 악화된 태광산업, 8조 투자금 대부분 금융권서 조달]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200007</link>
+            <guid>https://www.bloter.net/newsView/blt202212200007</guid>
+            <pubDate>Tue, 20 Dec 2022 07:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-20 15:44:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200010.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[효성그룹, 전지소재 사업 진출...전구체·폐배터리 재활용 분야]]></title>
-            <link>https://www.bloter.net/newsView/blt202211110016</link>
-            <guid>https://www.bloter.net/newsView/blt202211110016</guid>
-            <pubDate>Tue, 20 Dec 2022 05:13:51 GMT</pubDate>
+            <title><![CDATA[태광산업의 뒤늦은 투자...'지금 늦으면 영원히 뒤처진다']]></title>
+            <link>https://www.bloter.net/newsView/blt202212190005</link>
+            <guid>https://www.bloter.net/newsView/blt202212190005</guid>
+            <pubDate>Tue, 20 Dec 2022 07:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효성화학 베트남 투자 재무부담 현실로...'관건은 수율']]></title>
-            <link>https://www.bloter.net/newsView/blt202210160005</link>
-            <guid>https://www.bloter.net/newsView/blt202210160005</guid>
-            <pubDate>Tue, 20 Dec 2022 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구멍난 단통법? "벌점제 실효성 없다"…뿔난 휴대폰 유통점들]]></title>
-            <link>https://www.bloter.net/newsView/blt202204260061</link>
-            <guid>https://www.bloter.net/newsView/blt202204260061</guid>
-            <pubDate>Tue, 20 Dec 2022 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글·애플의 '탄소중립' 점수는...독일 NCI "실효성 미미"]]></title>
-            <link>https://www.bloter.net/newsView/blt202202110324</link>
-            <guid>https://www.bloter.net/newsView/blt202202110324</guid>
-            <pubDate>Tue, 20 Dec 2022 05:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
