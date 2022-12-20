@@ -1,47 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 01:11:13 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200002</link>
-            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 09:22:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.570x320.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 타 SNS·링크 금지…"더 이상 무료 홍보 허용 안 할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190002</link>
-            <guid>https://www.bloter.net/newsView/blt202212190002</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터서 '표현의 자유' 강조한 머스크, 개인 제트기 추적 계정 차단]]></title>
-            <link>https://www.bloter.net/newsView/blt202212150001</link>
-            <guid>https://www.bloter.net/newsView/blt202212150001</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 비싸진 유료 서비스 재출시…검토 거쳐야 '파란색 체크' 부여]]></title>
-            <link>https://www.bloter.net/newsView/blt202212120002</link>
-            <guid>https://www.bloter.net/newsView/blt202212120002</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[머스크 트위터 '올인'하는 동안 테슬라는 '구인난']]></title>
-            <link>https://www.bloter.net/newsView/blt202212090025</link>
-            <guid>https://www.bloter.net/newsView/blt202212090025</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
+    <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
+    <updated>2022-12-20T02:44:23.246Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bloter.net/favicon.png</icon>
+</feed>
