@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 08:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 09:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['면세점도 이커머스가 대세'...신라면세점, 온라인 서비스 힘준다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212210003</link>
+            <guid>https://www.bloter.net/newsView/blt202212210003</guid>
+            <pubDate>Wed, 21 Dec 2022 09:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-21 11:32:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마크 저커버그 메타 CEO, VR 피트니스 기업 인수로  법적 공방]]></title>
+            <link>https://www.bloter.net/newsView/blt202212210002</link>
+            <guid>https://www.bloter.net/newsView/blt202212210002</guid>
+            <pubDate>Wed, 21 Dec 2022 09:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-21 09:27:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[애플, 탈중국 본격화하나…"이르면 내년 베트남서 맥북 생산"]]></title>
             <link>https://www.bloter.net/newsView/blt202212210001</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 21 Dec 2022 01:06:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-20 13:23:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200007.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[과학도시 넘어 '창업도시' 자리잡는 대전…투자자들이 점찍었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200004</link>
-            <guid>https://www.bloter.net/newsView/blt202212200004</guid>
-            <pubDate>Wed, 21 Dec 2022 01:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-20 12:00:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200006.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200002</link>
-            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
-            <pubDate>Tue, 20 Dec 2022 08:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 09:22:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
