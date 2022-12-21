@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 23:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 01:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크 저커버그 메타 CEO, VR 피트니스 기업 인수로  법적 공방]]></title>
+            <link>https://www.bloter.net/newsView/blt202212210002</link>
+            <guid>https://www.bloter.net/newsView/blt202212210002</guid>
+            <pubDate>Wed, 21 Dec 2022 01:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[마크 저커버그 메타 최고경영자(CEO)가 인기 가상현실(VR) 피트니스 애플리케이션 ‘슈퍼내추럴’의 개발사 ‘위드인’(Within) 인수와 관련해 법정에 섰다.  20일(현지시간) IT전문매체 &lt;테크크런치&gt; 등 외신에 따르면 저커버그는 미국 캘리포니아주 산]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[마크비전, 위조 상품 탐지·제거는 기본…IP비즈니스까지 논스톱]]></title>
             <link>https://www.bloter.net/newsView/blt202212200013</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[무수히 많은 애플리케이션, 매체의 등장과 더불어 개인정보 보호 이슈가 급부상하며 마케터들에게 많은 업무 부담을 주고 있다. 어떠한 광고 지면을 통해 어떤 이용자에게 다가가야 할 지 선택하는 데에 시간과 노력이 들기 때문이다. 글로벌로 가면 그 부담은 가중]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['진입장벽 낮추는' 디지털 마케팅 솔루션, '고객 경험' 개선에 주력]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160001</link>
-            <guid>https://www.bloter.net/newsView/blt202212160001</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[디지털화의 첫 번째 단계인 '데이터 활용'을 위한 솔루션들이 늘어나고 있다. 기업들이 스타트업이나 소상공인도 이용할 수 있도록 진입장벽을 낮추고 있는 것인데, 이에 따라 종합 마케팅 서비스를 제공하는 컨설팅 기업도 주목받는 추세다.  디지털 전환(디지털]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
