@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 02:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 03:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,7 +317,7 @@
             <title><![CDATA['면세점도 이커머스가 대세'...신라면세점, 온라인 서비스 힘준다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202212210003</link>
             <guid>https://www.bloter.net/newsView/blt202212210003</guid>
-            <pubDate>Wed, 21 Dec 2022 02:34:08 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 02:33:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-21 11:32:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210003.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -334,6 +334,14 @@
             <guid>https://www.bloter.net/newsView/blt202102030007</guid>
             <pubDate>Wed, 21 Dec 2022 02:34:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[실적·현금흐름 악화된 태광산업, 8조 투자금 대부분 금융권서 조달 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200007</link>
+            <guid>https://www.bloter.net/newsView/blt202212200007</guid>
+            <pubDate>Tue, 20 Dec 2022 11:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-20 15:44:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효성첨단소재, 언양공장 매각 불발...1년치 CAPEX 비용 마련 숙제 (블로터 ─ 비즈니스)]]></title>
@@ -374,14 +382,6 @@
             <pubDate>Mon, 19 Dec 2022 10:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-19 18:11:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태광산업의 뒤늦은 투자...'지금 늦으면 영원히 뒤처진다' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190005</link>
-            <guid>https://www.bloter.net/newsView/blt202212190005</guid>
-            <pubDate>Tue, 20 Dec 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-19 17:28:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
