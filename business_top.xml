@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 08:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['면세점도 이커머스가 대세'...신라면세점, 온라인 서비스 힘준다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210003</link>
-            <guid>https://www.bloter.net/newsView/blt202212210003</guid>
-            <pubDate>Wed, 21 Dec 2022 02:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-21 11:32:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["금감원, '자부치' 개선안 보험사들에 먼저 제시했다"…관치 노골화]]></title>
+            <link>https://www.bloter.net/newsView/blt202212210007</link>
+            <guid>https://www.bloter.net/newsView/blt202212210007</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-21 16:36:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210011.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘호재인가 악재인가’…고환율에 울고 웃는 호텔신라]]></title>
-            <link>https://www.bloter.net/newsView/blt202210140010</link>
-            <guid>https://www.bloter.net/newsView/blt202210140010</guid>
-            <pubDate>Wed, 21 Dec 2022 02:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[이복현 금감원장 "위믹스 상폐? 닥사, 금융당국과 소통했다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070011</link>
+            <guid>https://www.bloter.net/newsView/blt202212070011</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[적자 호텔신라, 힘들 때 누가 도와주나]]></title>
-            <link>https://www.bloter.net/newsView/blt202102030007</link>
-            <guid>https://www.bloter.net/newsView/blt202102030007</guid>
-            <pubDate>Wed, 21 Dec 2022 02:34:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[가상자산 주무부처라면서…'위믹스 사태' 수수방관하는 김주현 금융위]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300011</link>
+            <guid>https://www.bloter.net/newsView/blt202211300011</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[흥국생명, 볼펜값 아끼더니 '콜옵션 사태'까지…금융위·금감원도 책임론]]></title>
+            <link>https://www.bloter.net/newsView/blt202211090014</link>
+            <guid>https://www.bloter.net/newsView/blt202211090014</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령이 역점 둔 '금리공시'…이복현 금감원장 "문제 있다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209080016</link>
+            <guid>https://www.bloter.net/newsView/blt202209080016</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

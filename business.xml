@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 07:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 08:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 탈중국 본격화하나…"이르면 내년 베트남서 맥북 생산"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212210001</link>
+            <guid>https://www.bloter.net/newsView/blt202212210001</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-21 08:44:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공정위, 기업총수의 '사실혼 배우자' 친족 인정...자녀 낳은 생모에 한정]]></title>
+            <link>https://www.bloter.net/newsView/blt202212200009</link>
+            <guid>https://www.bloter.net/newsView/blt202212200009</guid>
+            <pubDate>Wed, 21 Dec 2022 08:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-20 16:18:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실적·현금흐름 악화된 태광산업, 8조 투자금 대부분 금융권서 조달]]></title>
             <link>https://www.bloter.net/newsView/blt202212200007</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 20 Dec 2022 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 09:22:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['포트나이트'의 에픽게임즈, 어린이 보호 위반으로 거액 벌금 합의]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200001</link>
-            <guid>https://www.bloter.net/newsView/blt202212200001</guid>
-            <pubDate>Tue, 20 Dec 2022 07:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 08:27:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크, 테슬라 '자동차 보험'으로 버핏의 '경제적 해자' 뺏을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190016</link>
-            <guid>https://www.bloter.net/newsView/blt202212190016</guid>
-            <pubDate>Tue, 20 Dec 2022 05:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-19 18:11:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190030.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
