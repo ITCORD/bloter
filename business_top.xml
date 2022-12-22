@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[MS, 장바구니에 넷플릭스 담았다?…인수 추진설 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220003</link>
-            <guid>https://www.bloter.net/newsView/blt202212220003</guid>
-            <pubDate>Thu, 22 Dec 2022 01:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-22 09:43:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220003.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[SK온, 해외증설 총투자금 중 20% 확보...SK이노베이션, '주주 눈치보며 영끌']]></title>
+            <link>https://www.bloter.net/newsView/blt202212220005</link>
+            <guid>https://www.bloter.net/newsView/blt202212220005</guid>
+            <pubDate>Thu, 22 Dec 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 11:49:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220006.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[美 당국, MS-블리자드 인수에 반독점 소송 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090001</link>
-            <guid>https://www.bloter.net/newsView/blt202212090001</guid>
-            <pubDate>Thu, 22 Dec 2022 01:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK온 기업가치 22조...SK이노·LG전자보다 시총 높아]]></title>
+            <link>https://www.bloter.net/newsView/blt202212040001</link>
+            <guid>https://www.bloter.net/newsView/blt202212040001</guid>
+            <pubDate>Thu, 22 Dec 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['구독자 감소' 넷플릭스, 오리지널 콘텐츠 '사전 모니터링' 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020004</link>
-            <guid>https://www.bloter.net/newsView/blt202212020004</guid>
-            <pubDate>Thu, 22 Dec 2022 01:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[게임 사업 강화하는 넷플릭스, 개발사 '스프라이폭스' 인수]]></title>
-            <link>https://www.bloter.net/newsView/blt202211010003</link>
-            <guid>https://www.bloter.net/newsView/blt202211010003</guid>
-            <pubDate>Thu, 22 Dec 2022 01:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3분기 선방한 MS, '클라우드' 성장세는 둔화]]></title>
-            <link>https://www.bloter.net/newsView/blt202210260003</link>
-            <guid>https://www.bloter.net/newsView/blt202210260003</guid>
-            <pubDate>Thu, 22 Dec 2022 01:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[SK온, 1.3조 유상증자...해외 공장 증설 자금 '급한 불'껐지만]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020005</link>
+            <guid>https://www.bloter.net/newsView/blt202212020005</guid>
+            <pubDate>Thu, 22 Dec 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
