@@ -4,44 +4,23 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 08:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 09:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['펫 사업 쉽지 않네'...GS리테일, 적자 어바웃펫 자금 지원]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220006</link>
-            <guid>https://www.bloter.net/newsView/blt202212220006</guid>
-            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-22 12:22:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220008.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK E&S의 '적극적 레버리지' 전략...'RCPS 리스크'는 없을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220011</link>
+            <guid>https://www.bloter.net/newsView/blt202212220011</guid>
+            <pubDate>Thu, 22 Dec 2022 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 18:10:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220037.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘퀵 커머스’ 나선 GS리테일, 돈 아끼는 슈퍼마켓 활용법]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140008</link>
-            <guid>https://www.bloter.net/newsView/blt202212140008</guid>
-            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GS리테일, 이커머스 투자 속 신사업 적자 부담]]></title>
-            <link>https://www.bloter.net/newsView/blt202211210010</link>
-            <guid>https://www.bloter.net/newsView/blt202211210010</guid>
-            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘이커머스 괜히 했나’…GS리테일, 적자 충격에 전략 수정]]></title>
-            <link>https://www.bloter.net/newsView/blt202208100019</link>
-            <guid>https://www.bloter.net/newsView/blt202208100019</guid>
-            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GS리테일이 인수한 '쿠캣', 글로벌 MZ세대를 사로잡은 방법]]></title>
-            <link>https://www.bloter.net/newsView/blt202201240042</link>
-            <guid>https://www.bloter.net/newsView/blt202201240042</guid>
-            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212010016</link>
+            <guid>https://www.bloter.net/newsView/blt202212010016</guid>
+            <pubDate>Thu, 22 Dec 2022 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

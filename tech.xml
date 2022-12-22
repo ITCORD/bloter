@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 08:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 09:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기 대응 2023]통신사 SKT가 'AI 컴퍼니'로 거듭나는 법]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220016</link>
+            <guid>https://www.bloter.net/newsView/blt202212220016</guid>
+            <pubDate>Thu, 22 Dec 2022 09:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-22 17:43:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 23 티저]롯데정보통신 '초실감 메타버스 확장판', 얼마나 리얼할까]]></title>
             <link>https://www.bloter.net/newsView/blt202212220015</link>
             <guid>https://www.bloter.net/newsView/blt202212220015</guid>
             <pubDate>Thu, 22 Dec 2022 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-22 17:10:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위기 대응 2023]SK하이닉스, 감산·서버 D램으로 반도체 ‘겨울나기’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 20 Dec 2022 02:37:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-20 11:31:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200002</link>
-            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-20 09:22:15</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
