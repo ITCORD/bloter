@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 05:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보령의 우주 산업 투자, 유동성도 '탄탄대로']]></title>
+            <link>https://www.bloter.net/newsView/blt202212220009</link>
+            <guid>https://www.bloter.net/newsView/blt202212220009</guid>
+            <pubDate>Thu, 22 Dec 2022 06:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-22 15:00:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토종 OTT '웨이브', 미주 플랫폼 '코코와' 품는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212220004</link>
             <guid>https://www.bloter.net/newsView/blt202212220004</guid>
             <pubDate>Thu, 22 Dec 2022 02:38:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-22 11:01:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS, 장바구니에 넷플릭스 담았다?…인수 추진설 제기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 19 Dec 2022 21:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-20 06:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190026.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190015</link>
-            <guid>https://www.bloter.net/newsView/blt202212190015</guid>
-            <pubDate>Mon, 19 Dec 2022 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-19 18:03:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
