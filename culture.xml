@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 01:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 02:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토종 OTT '웨이브', 미주 플랫폼 '코코와' 품는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220004</link>
+            <guid>https://www.bloter.net/newsView/blt202212220004</guid>
+            <pubDate>Thu, 22 Dec 2022 02:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[토종 온라인 동영상 서비스(OTT) '웨이브(Wavve)'가 미주지역 K-콘텐츠 플랫폼인 '코코와(KOCOWA)를 인수한다.  22일 웨이브는 이사회를 통해 코코와 인수를 확정하고 미주지역 서비스를 시작으로 글로벌 사업을 확대할 계획이라고 밝혔다.코코와는 현재 미국, 캐나다, 멕]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크 저커버그 메타 CEO, VR 피트니스 기업 인수로  법적 공방]]></title>
             <link>https://www.bloter.net/newsView/blt202212210002</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 인스타그램 등 타 소셜미디어(SNS)를 홍보하기 위한 계정이나 다른 SNS로 연결되는 링크를 금지한다.   18일(현지시간) 트위터는 “우리는 다수의 이용자가 다른 SNS 플랫폼에서 활동 중이라는 것을 알고 있다”며 “트위터에서 특정 SNS 플랫폼에 대]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅+] 글로벌 서비스, 광고에 '머신러닝'을 써야하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212160007</link>
-            <guid>https://www.bloter.net/newsView/blt202212160007</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[무수히 많은 애플리케이션, 매체의 등장과 더불어 개인정보 보호 이슈가 급부상하며 마케터들에게 많은 업무 부담을 주고 있다. 어떠한 광고 지면을 통해 어떤 이용자에게 다가가야 할 지 선택하는 데에 시간과 노력이 들기 때문이다. 글로벌로 가면 그 부담은 가중]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/16/blt202212160007.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
