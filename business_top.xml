@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 03:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 04:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SK온, 해외증설 총투자금 중 20% 확보...SK이노베이션, '주주 눈치보며 영끌']]></title>
-            <link>https://www.bloter.net/newsView/blt202212220005</link>
-            <guid>https://www.bloter.net/newsView/blt202212220005</guid>
-            <pubDate>Thu, 22 Dec 2022 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 11:49:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['펫 사업 쉽지 않네'...GS리테일, 적자 어바웃펫 자금 지원]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220006</link>
+            <guid>https://www.bloter.net/newsView/blt202212220006</guid>
+            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-22 12:22:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220008.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SK온 기업가치 22조...SK이노·LG전자보다 시총 높아]]></title>
-            <link>https://www.bloter.net/newsView/blt202212040001</link>
-            <guid>https://www.bloter.net/newsView/blt202212040001</guid>
-            <pubDate>Thu, 22 Dec 2022 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘퀵 커머스’ 나선 GS리테일, 돈 아끼는 슈퍼마켓 활용법]]></title>
+            <link>https://www.bloter.net/newsView/blt202212140008</link>
+            <guid>https://www.bloter.net/newsView/blt202212140008</guid>
+            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SK온, 1.3조 유상증자...해외 공장 증설 자금 '급한 불'껐지만]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020005</link>
-            <guid>https://www.bloter.net/newsView/blt202212020005</guid>
-            <pubDate>Thu, 22 Dec 2022 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[GS리테일, 이커머스 투자 속 신사업 적자 부담]]></title>
+            <link>https://www.bloter.net/newsView/blt202211210010</link>
+            <guid>https://www.bloter.net/newsView/blt202211210010</guid>
+            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘이커머스 괜히 했나’…GS리테일, 적자 충격에 전략 수정]]></title>
+            <link>https://www.bloter.net/newsView/blt202208100019</link>
+            <guid>https://www.bloter.net/newsView/blt202208100019</guid>
+            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GS리테일이 인수한 '쿠캣', 글로벌 MZ세대를 사로잡은 방법]]></title>
+            <link>https://www.bloter.net/newsView/blt202201240042</link>
+            <guid>https://www.bloter.net/newsView/blt202201240042</guid>
+            <pubDate>Thu, 22 Dec 2022 04:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
