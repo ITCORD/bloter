@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 회장 공들인 ‘베트남 R&D센터’, 글로벌 전략기지로]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230003</link>
+            <guid>https://www.bloter.net/newsView/blt202212230003</guid>
+            <pubDate>Fri, 23 Dec 2022 08:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-23 11:20:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 직원 평가 제도 강화…감원으로 이어지나]]></title>
             <link>https://www.bloter.net/newsView/blt202212230002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 23 Dec 2022 01:07:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 11:49:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 장바구니에 넷플릭스 담았다?…인수 추진설 제기]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220003</link>
-            <guid>https://www.bloter.net/newsView/blt202212220003</guid>
-            <pubDate>Fri, 23 Dec 2022 01:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-22 09:43:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니팡 시리즈, 인기순위 역주행…'임영웅 효과' 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230013</link>
+            <guid>https://www.bloter.net/newsView/blt202212230013</guid>
+            <pubDate>Fri, 23 Dec 2022 08:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 퍼즐게임 '애니팡' 시리즈가 인기순위 역주행에 성공하며 상승세를 이어가고 있다. 지난 15일 '애니팡 시리즈X임영웅'의 캠페인인 '애니팡 페스타' 이후 약 일주일만에 거둔 성과로, 향후 더 큰 폭의 상승세도 예상된다.23일 오후 2시 기준 애니팡2, 애니팡3, 애]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토종 OTT '웨이브', 미주 플랫폼 '코코와' 품는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212220004</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[스마일게이트가 서울 강남구 가로수길 메인 스트리트에 인디게임 80여개를 모았다. 스마일게이트 퓨처랩이 지난 16일부터 18일까지 인디게임 페스티벌 '버닝비버 2022'를 개최하면서다. 단순히 인디게임 부스 마련에 그치지 않고 페스티벌을 찾은 관람객들이 충분히]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/18/blt202212180013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 타 SNS·링크 금지…"더 이상 무료 홍보 허용 안 할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190002</link>
-            <guid>https://www.bloter.net/newsView/blt202212190002</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 인스타그램 등 타 소셜미디어(SNS)를 홍보하기 위한 계정이나 다른 SNS로 연결되는 링크를 금지한다.   18일(현지시간) 트위터는 “우리는 다수의 이용자가 다른 SNS 플랫폼에서 활동 중이라는 것을 알고 있다”며 “트위터에서 특정 SNS 플랫폼에 대]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

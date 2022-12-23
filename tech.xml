@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안전상비약 자판기 도입, 보류된 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230014</link>
+            <guid>https://www.bloter.net/newsView/blt202212230014</guid>
+            <pubDate>Fri, 23 Dec 2022 08:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-23 16:38:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230038.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애니팡 시리즈, 인기순위 역주행…'임영웅 효과' 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230013</link>
+            <guid>https://www.bloter.net/newsView/blt202212230013</guid>
+            <pubDate>Fri, 23 Dec 2022 08:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-23 16:31:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["7대 퍼드 반박한다" 강경모드 바이낸스…'코인런' 막을 수 있을까?]]></title>
             <link>https://www.bloter.net/newsView/blt202212230009</link>
             <guid>https://www.bloter.net/newsView/blt202212230009</guid>
             <pubDate>Fri, 23 Dec 2022 06:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 14:49:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상품 수거부터 배송까지...더 친절해진 네이버의 '물류 윈윈' 비즈니스]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 21 Dec 2022 08:20:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-21 16:16:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210008.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 저커버그 메타 CEO, VR 피트니스 기업 인수로  법적 공방]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210002</link>
-            <guid>https://www.bloter.net/newsView/blt202212210002</guid>
-            <pubDate>Wed, 21 Dec 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-21 09:27:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['신신제약 오너2세' 이병기 사장이 경영에 전념해야 하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200012</link>
-            <guid>https://www.bloter.net/newsView/blt202212200012</guid>
-            <pubDate>Wed, 21 Dec 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-21 09:14:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200021.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
