@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 01:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 02:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재용 회장 공들인 ‘베트남 R&D센터’, 글로벌 전략기지로]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230003</link>
+            <guid>https://www.bloter.net/newsView/blt202212230003</guid>
+            <pubDate>Fri, 23 Dec 2022 02:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-23 11:20:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글, 직원 평가 제도 강화…감원으로 이어지나]]></title>
             <link>https://www.bloter.net/newsView/blt202212230002</link>
             <guid>https://www.bloter.net/newsView/blt202212230002</guid>
             <pubDate>Fri, 23 Dec 2022 01:07:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 09:42:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 교통국, 테슬라 추돌사고 추가 조사…원인은 자율주행 급제동?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-20 17:09:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1900만 가입자 티맵모빌리티, 사내 정보보호 전담은 1명이었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200010</link>
-            <guid>https://www.bloter.net/newsView/blt202212200010</guid>
-            <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-20 16:51:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
