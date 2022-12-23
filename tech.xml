@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["7대 퍼드 반박한다" 강경모드 바이낸스…'코인런' 막을 수 있을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230009</link>
+            <guid>https://www.bloter.net/newsView/blt202212230009</guid>
+            <pubDate>Fri, 23 Dec 2022 06:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 14:49:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상품 수거부터 배송까지...더 친절해진 네이버의 '물류 윈윈' 비즈니스]]></title>
             <link>https://www.bloter.net/newsView/blt202212230007</link>
             <guid>https://www.bloter.net/newsView/blt202212230007</guid>
             <pubDate>Fri, 23 Dec 2022 04:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-23 13:00:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재용 회장 공들인 ‘베트남 R&D센터’, 글로벌 전략기지로]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 21 Dec 2022 01:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-21 09:14:24</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200021.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 탈중국 본격화하나…"이르면 내년 베트남서 맥북 생산"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210001</link>
-            <guid>https://www.bloter.net/newsView/blt202212210001</guid>
-            <pubDate>Wed, 21 Dec 2022 01:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-21 08:44:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
