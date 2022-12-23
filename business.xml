@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 23:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 01:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK온, 해외 증설 총투자금 중 20% 확보...전지사업 성장 속도낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220005</link>
+            <guid>https://www.bloter.net/newsView/blt202212220005</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 11:49:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 장바구니에 넷플릭스 담았다?…인수 추진설 제기]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220003</link>
+            <guid>https://www.bloter.net/newsView/blt202212220003</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-22 09:43:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 2023년에 추가 감원…신규 채용은 이미 중단]]></title>
             <link>https://www.bloter.net/newsView/blt202212220002</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 22 Dec 2022 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-21 17:49:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["금감원, '자부치' 개선안 보험사들에 먼저 제시했다"…관치 노골화]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210007</link>
-            <guid>https://www.bloter.net/newsView/blt202212210007</guid>
-            <pubDate>Thu, 22 Dec 2022 01:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-21 16:36:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직원 건강 챙기는 삼성전자 DS부문, 향후 누릴 수 있는 이득은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210005</link>
-            <guid>https://www.bloter.net/newsView/blt202212210005</guid>
-            <pubDate>Wed, 21 Dec 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-21 16:16:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210009.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

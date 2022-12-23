@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 23:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 01:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,19 +272,56 @@ SK온의 3분기 감사보고서에 따르면 앞으로 SK온은 국내 및 해�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190026.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SK E&S의 '적극적 레버리지' 전략...'RCPS 리스크'는 없을까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220011</link>
-            <guid>https://www.bloter.net/newsView/blt202212220011</guid>
-            <pubDate>Thu, 22 Dec 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 18:10:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220037.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[구글, 직원 평가 제도 강화…감원으로 이어지나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230002</link>
+            <guid>https://www.bloter.net/newsView/blt202212230002</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 09:42:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230003.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유정준 SK E&S 부회장, 10년 만에 대표이사 떠난다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212010016</link>
-            <guid>https://www.bloter.net/newsView/blt202212010016</guid>
-            <pubDate>Thu, 22 Dec 2022 09:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[구글을 해킹하는 구글 직원…'레드팀'의 정체는? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212100001</link>
+            <guid>https://www.bloter.net/newsView/blt202212100001</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["구글, 명백히 잘못된 정보 삭제해야"…유럽 최고 법원 판결 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090003</link>
+            <guid>https://www.bloter.net/newsView/blt202212090003</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글, '동의 없는 위치추적 논란' 보상…美 40개 주에 5200억 푼다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211150002</link>
+            <guid>https://www.bloter.net/newsView/blt202211150002</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알파벳, 3분기 매출·주당 순이익 모두 전망치 하회…광고 시장 둔화 탓 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202210260002</link>
+            <guid>https://www.bloter.net/newsView/blt202210260002</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK온, 해외 증설 총투자금 중 20% 확보...전지사업 성장 속도낸다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220005</link>
+            <guid>https://www.bloter.net/newsView/blt202212220005</guid>
+            <pubDate>Thu, 22 Dec 2022 03:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-22 11:49:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 장바구니에 넷플릭스 담았다?…인수 추진설 제기 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220003</link>
+            <guid>https://www.bloter.net/newsView/blt202212220003</guid>
+            <pubDate>Thu, 22 Dec 2022 01:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-22 09:43:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220003.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 2023년에 추가 감원…신규 채용은 이미 중단 (블로터 ─ 비즈니스)]]></title>
@@ -317,22 +354,6 @@ SK온의 3분기 감사보고서에 따르면 앞으로 SK온은 국내 및 해�
             <pubDate>Wed, 21 Dec 2022 10:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-21 17:49:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["금감원, '자부치' 개선안 보험사들에 먼저 제시했다"…관치 노골화 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210007</link>
-            <guid>https://www.bloter.net/newsView/blt202212210007</guid>
-            <pubDate>Wed, 21 Dec 2022 10:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-21 16:36:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직원 건강 챙기는 삼성전자 DS부문, 향후 누릴 수 있는 이득은? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210005</link>
-            <guid>https://www.bloter.net/newsView/blt202212210005</guid>
-            <pubDate>Wed, 21 Dec 2022 10:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-21 16:16:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210009.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -371,12 +392,28 @@ SK온의 3분기 감사보고서에 따르면 앞으로 SK온은 국내 및 해�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[구글, 직원 평가 제도 강화…감원으로 이어지나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230002</link>
+            <guid>https://www.bloter.net/newsView/blt202212230002</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 09:42:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 교통국, 테슬라 추돌사고 추가 조사…원인은 자율주행 급제동? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230001</link>
+            <guid>https://www.bloter.net/newsView/blt202212230001</guid>
+            <pubDate>Fri, 23 Dec 2022 01:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 08:55:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230001.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[위기 대응 2023]통신사 SKT가 'AI 컴퍼니'로 거듭나는 법 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212220016</link>
             <guid>https://www.bloter.net/newsView/blt202212220016</guid>
             <pubDate>Thu, 22 Dec 2022 09:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-22 17:43:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 23 티저]롯데정보통신 '초실감 메타버스 확장판', 얼마나 리얼할까 (블로터 ─ 테크)]]></title>
@@ -497,22 +534,6 @@ SK온의 3분기 감사보고서에 따르면 앞으로 SK온은 국내 및 해�
             <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-20 16:51:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자상거래 플랫폼 '카페24'와 '유튜브 쇼핑'이 만난 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200011</link>
-            <guid>https://www.bloter.net/newsView/blt202212200011</guid>
-            <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-20 16:26:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200019.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스그룹 코인 XPLA, 글로벌 거래소 '코인엑스' 상장 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200003</link>
-            <guid>https://www.bloter.net/newsView/blt202212200003</guid>
-            <pubDate>Tue, 20 Dec 2022 02:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-20 11:31:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
