@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 08:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 09:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인디게임 랩소디]②7종 직접 해보니…개발자 '땀방울' 느껴진 버닝비버]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230011</link>
+            <guid>https://www.bloter.net/newsView/blt202212230011</guid>
+            <pubDate>Fri, 23 Dec 2022 09:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[지난 16~18일 스마일게이트 인디게임 페스티벌 '버닝비버 2022'를 계기로 인디게임 80여종이 서울 신사동 가로수길 팝업 빌딩에서 모였다. 이용자들의 반응 역시 상당히 뜨거웠는데, 주최 측인 스마일게이트에 따르면 주말 한파를 뚫고 현장을 찾은 이용자들은 약 8000]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230037.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애니팡 시리즈, 인기순위 역주행…'임영웅 효과' 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202212230013</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[최근 디지털마케팅업계에서 마케팅 예산을 '감'이 아닌 데이터 기반으로 배분하는 미디어믹스모델링(이하 'MMM')이 떠오르고 있다. 디지털 광고에서 노하우를 쌓아온 메타(구 페이스북)가 오픈소스 '로빈'을 제공하는 가운데, 에코마케팅이 로빈을 기반으로 한 MMM을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인디게임 랩소디]①스마일게이트, 가로수길에 80개 부스 모은 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212180005</link>
-            <guid>https://www.bloter.net/newsView/blt202212180005</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[스마일게이트가 서울 강남구 가로수길 메인 스트리트에 인디게임 80여개를 모았다. 스마일게이트 퓨처랩이 지난 16일부터 18일까지 인디게임 페스티벌 '버닝비버 2022'를 개최하면서다. 단순히 인디게임 부스 마련에 그치지 않고 페스티벌을 찾은 관람객들이 충분히]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/18/blt202212180013.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
