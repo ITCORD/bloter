@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 11:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 12:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['러시아 전쟁' 여파로 돈 쓸어담은 SK그룹...SK E&S 내년도 '실적잔치']]></title>
-            <link>https://www.bloter.net/newsView/blt202212230006</link>
-            <guid>https://www.bloter.net/newsView/blt202212230006</guid>
-            <pubDate>Sat, 24 Dec 2022 01:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-24 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230023.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['인명사고·허영인 회장 배임'...논란 속 SPC, 실적 방어는]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220012</link>
+            <guid>https://www.bloter.net/newsView/blt202212220012</guid>
+            <pubDate>Sat, 24 Dec 2022 12:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-24 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220013.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SK E&S의 '적극적 레버리지' 전략...'RCPS 리스크'는 없을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220011</link>
-            <guid>https://www.bloter.net/newsView/blt202212220011</guid>
-            <pubDate>Sat, 24 Dec 2022 01:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[②계열사 부당지원 재수사…승계작업 미뤄지나]]></title>
+            <link>https://www.bloter.net/newsView/blt202210250008</link>
+            <guid>https://www.bloter.net/newsView/blt202210250008</guid>
+            <pubDate>Sat, 24 Dec 2022 12:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최종현·최태원 부자...매출 2조였던 SK이노베이션을 47조로 키웠다]]></title>
-            <link>https://www.bloter.net/newsView/blt202208300014</link>
-            <guid>https://www.bloter.net/newsView/blt202208300014</guid>
-            <pubDate>Sat, 24 Dec 2022 01:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[①양산빵 제국이 흔들린다...허영선 전 회장 무너뜨렸던 '도덕성' 논란]]></title>
+            <link>https://www.bloter.net/newsView/blt202210240011</link>
+            <guid>https://www.bloter.net/newsView/blt202210240011</guid>
+            <pubDate>Sat, 24 Dec 2022 12:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SPC, 6개월 전 '안전' 약속했는데…무용지물 된 산업안전 TFT]]></title>
+            <link>https://www.bloter.net/newsView/blt202210170005</link>
+            <guid>https://www.bloter.net/newsView/blt202210170005</guid>
+            <pubDate>Sat, 24 Dec 2022 12:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SPC삼립도 코로나19에 영업이익 '반토막']]></title>
+            <link>https://www.bloter.net/newsView/blt202008070016</link>
+            <guid>https://www.bloter.net/newsView/blt202008070016</guid>
+            <pubDate>Sat, 24 Dec 2022 12:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김주리</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
