@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 02:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 03:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,12 +372,20 @@ GS리테일이 펫(PET) 시장 진출을 위해 투자한 반려동물용품 전
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[위기 대응 2023]DB하이텍-LX세미콘, 불황에 ‘숨고르기’…전력반도체 ‘승부수’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230016</link>
+            <guid>https://www.bloter.net/newsView/blt202212230016</guid>
+            <pubDate>Sat, 24 Dec 2022 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-24 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230042.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5G 28GHz 주파수 할당 취소, 과기정통부 칼날에 자비 없었던 까닭 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212230017</link>
             <guid>https://www.bloter.net/newsView/blt202212230017</guid>
             <pubDate>Fri, 23 Dec 2022 09:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-23 17:40:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230041.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230041.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인디게임 랩소디]②7종 직접 해보니…개발자 '땀방울' 느껴진 버닝비버 (블로터 ─ 테크)]]></title>
@@ -506,14 +514,6 @@ GS리테일이 펫(PET) 시장 진출을 위해 투자한 반려동물용품 전
             <pubDate>Wed, 21 Dec 2022 10:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-21 18:39:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210022.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버가 야구·월드컵·농구에 응원톡·오픈톡 만든 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210013</link>
-            <guid>https://www.bloter.net/newsView/blt202212210013</guid>
-            <pubDate>Wed, 21 Dec 2022 10:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-21 18:21:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210031.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
