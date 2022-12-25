@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 06:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IFRS17·디지털화 기대감 힘입은 보험사…시장서 '우주방어']]></title>
+            <link>https://www.bloter.net/newsView/blt202212230015</link>
+            <guid>https://www.bloter.net/newsView/blt202212230015</guid>
+            <pubDate>Sun, 25 Dec 2022 06:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 17:37:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230039.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데그룹, 상생∙나눔 적극 실천]]></title>
             <link>https://www.bloter.net/newsView/blt202212230012</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 23 Dec 2022 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-23 11:20:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 직원 평가 제도 강화…감원으로 이어지나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230002</link>
-            <guid>https://www.bloter.net/newsView/blt202212230002</guid>
-            <pubDate>Fri, 23 Dec 2022 06:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 09:42:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
