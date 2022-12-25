@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 02:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 03:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,12 +372,20 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[공시분석] 동영상 편집 시장 개척하는 '키네마스터', 크리스마스에도 졸라매는 허리띠 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230019</link>
+            <guid>https://www.bloter.net/newsView/blt202212230019</guid>
+            <pubDate>Sun, 25 Dec 2022 03:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-25 11:55:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230047.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위기 대응 2023]DB하이텍-LX세미콘, 불황에 ‘숨고르기’…전력반도체 ‘승부수’ (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212230016</link>
             <guid>https://www.bloter.net/newsView/blt202212230016</guid>
             <pubDate>Sat, 24 Dec 2022 03:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-24 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5G 28GHz 주파수 할당 취소, 과기정통부 칼날에 자비 없었던 까닭 (블로터 ─ 테크)]]></title>
@@ -506,14 +514,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Thu, 22 Dec 2022 01:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-22 08:27:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220001.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 23 티저]SKT, AI 결합한 '넷제로 에어택시'로 무엇을 노리나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210012</link>
-            <guid>https://www.bloter.net/newsView/blt202212210012</guid>
-            <pubDate>Wed, 21 Dec 2022 10:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-21 18:39:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210022.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -792,6 +792,14 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공시분석] 동영상 편집 시장 개척하는 '키네마스터', 크리스마스에도 졸라매는 허리띠 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230019</link>
+            <guid>https://www.bloter.net/newsView/blt202212230019</guid>
+            <pubDate>Sun, 25 Dec 2022 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 키네마스터가 동영상 편집을 쉽게 하기 위한 템플릿 제작 등 투자로 말미암아 적자 행진을 계속하고 있습니다. 이번에는 기존 사무실을 떠나 투자사인 솔본 빌딩으로 회사를 이전하며 부가 비용 절감에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230047.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인디게임 랩소디]②7종 직접 해보니…개발자 '땀방울' 느껴진 버닝비버 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212230011</link>
             <guid>https://www.bloter.net/newsView/blt202212230011</guid>
@@ -878,14 +886,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Mon, 19 Dec 2022 08:19:59 GMT</pubDate>
             <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.  최근 '크레이지 레이싱: 카트라이더(이하 카트라이더)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 미디어 믹스 모델링?…메타 "로빈으로 야, 너두 할 수 있어!" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190008</link>
-            <guid>https://www.bloter.net/newsView/blt202212190008</guid>
-            <pubDate>Mon, 19 Dec 2022 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[최근 디지털마케팅업계에서 마케팅 예산을 '감'이 아닌 데이터 기반으로 배분하는 미디어믹스모델링(이하 'MMM')이 떠오르고 있다. 디지털 광고에서 노하우를 쌓아온 메타(구 페이스북)가 오픈소스 '로빈'을 제공하는 가운데, 에코마케팅이 로빈을 기반으로 한 MMM을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
