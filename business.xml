@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 06:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 07:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국가 대항전' 원전 수출 성공시켜라…5대 시중은행 다 모였다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230018</link>
+            <guid>https://www.bloter.net/newsView/blt202212230018</guid>
+            <pubDate>Sun, 25 Dec 2022 07:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 17:42:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230046.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IFRS17·디지털화 기대감 힘입은 보험사…시장서 '우주방어']]></title>
             <link>https://www.bloter.net/newsView/blt202212230015</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 23 Dec 2022 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 11:47:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용 회장 공들인 ‘베트남 R&D센터’, 글로벌 전략기지로]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230003</link>
-            <guid>https://www.bloter.net/newsView/blt202212230003</guid>
-            <pubDate>Fri, 23 Dec 2022 08:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-23 11:20:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
