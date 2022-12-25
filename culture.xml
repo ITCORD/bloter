@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 10:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 11:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]지속되는 '업사이클링 패션' 인기…성수동에 모인 소규모 브랜드]]></title>
+            <link>https://www.bloter.net/newsView/blt202212250001</link>
+            <guid>https://www.bloter.net/newsView/blt202212250001</guid>
+            <pubDate>Sun, 25 Dec 2022 11:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[국내 패션업계에 '업사이클링(Upcycling)'에 대한 관심이 커지고 있는 가운데, 패션기업의 브랜드가 아닌 개인이 운영하는 소규모 브랜드들 또한 늘어나고 있다. 업사이클링 제품은 불용 원단을 활용한 한복이나 반려동물 물품, 액세서리, 소품 등 품목도 다양해지는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[N플레이]엔픽셀 '생존기사단', 신작 혹은 타이틀 변화?]]></title>
             <link>https://www.bloter.net/newsView/blt202212250003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[인기 온라인 게임 ‘포트나이트’ 제작사 에픽게임즈가 어린이 보호 의무를 위반하고 고객이 의도하지 않은 결제를 유도했다는 혐의로 6700억원의 벌금을 내기로 합의했다.   19일(현지시간) 미국 연방거래위원회(FTC)는 성명을 내고 “에픽게임즈가 다크패]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200001.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190015</link>
-            <guid>https://www.bloter.net/newsView/blt202212190015</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[네이버시리즈 '화산귀환'이 2022년 종이책 크라우드 펀딩에서 12억원을 모으며 출판 펀딩 분야 역대 최고 기록을 세웠다.19일 네이버웹툰 등에 따르면 지난 7월에 진행된 웹소설 화산귀환 종이책 텀블벅 크라우드 펀딩은 오픈 전부터 사전 알림 신청자만 1만5000명이 몰]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
