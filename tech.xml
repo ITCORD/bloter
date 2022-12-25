@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 08:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['토종 통신 장비' 다산네트웍스, 매출 키웠지만 늘어난 적자폭…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230024</link>
+            <guid>https://www.bloter.net/newsView/blt202212230024</guid>
+            <pubDate>Sun, 25 Dec 2022 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-25 18:03:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230056.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[N플레이]엔픽셀 '생존기사단', 신작 혹은 타이틀 변화?]]></title>
             <link>https://www.bloter.net/newsView/blt202212250003</link>
             <guid>https://www.bloter.net/newsView/blt202212250003</guid>
             <pubDate>Sun, 25 Dec 2022 08:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-25 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IRA '핵심광물·배터리 부품 조건' 시행 유예, 최대 수혜자는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 22 Dec 2022 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-22 17:10:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위기 대응 2023]SK하이닉스, 감산·서버 D램으로 반도체 ‘겨울나기’]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220010</link>
-            <guid>https://www.bloter.net/newsView/blt202212220010</guid>
-            <pubDate>Thu, 22 Dec 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-22 16:27:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
