@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 03:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 04:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅+] '디지털 바디랭귀지'를 분석한다, 콘텐츠스퀘어]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230021</link>
+            <guid>https://www.bloter.net/newsView/blt202212230021</guid>
+            <pubDate>Sun, 25 Dec 2022 04:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠스퀘어가 데이터 기반으로 웹·애플리케이션에서 이용자들의 더 나은 경험을 돕는다. 일명 '디지털 바디랭귀지', 즉 해당 페이지에서 이용자들이 어떤 행동을 했는지를 수치화·시각화해 인사이트를 제공한다. 이를 토대로 회사는 서비스 페이지의]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230050.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석] 동영상 편집 시장 개척하는 '키네마스터', 크리스마스에도 졸라매는 허리띠]]></title>
             <link>https://www.bloter.net/newsView/blt202212230019</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[BAT가 브랜드를 떠올릴 수 있는 이미지를 활용해 효과적으로 전달한 공로를 인정받아 독일 디자인 어워드에서 2관왕을 기록했다.19일 글로벌 종합 브랜드 에이전시 BAT는 '렛츠와인'과 '웨이브(wavve)' 등 두 브랜드 리뉴얼 프로젝트가 2023 독일 디자인 어워드(GDA)의 커뮤]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190015.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N플레이]넥슨 '카트라이더 섭종' 비하인드 스토리]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190011</link>
-            <guid>https://www.bloter.net/newsView/blt202212190011</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.  최근 '크레이지 레이싱: 카트라이더(이하 카트라이더)]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/19/blt202212190012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
