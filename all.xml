@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 07:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 08:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -275,26 +275,42 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210018.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['흑자 전환' 절박한 삼성중공업, 삼성전자 평택공장 누적 수주액 1조 육박 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260007</link>
-            <guid>https://www.bloter.net/newsView/blt202212260007</guid>
-            <pubDate>Mon, 26 Dec 2022 03:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-26 11:37:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260007.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260015</link>
+            <guid>https://www.bloter.net/newsView/blt202212260015</guid>
+            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-26 17:17:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260022.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성중공업, 암모니아 인증...'재무난' 속 친환경 선박 준비 '착착' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202108200003</link>
-            <guid>https://www.bloter.net/newsView/blt202108200003</guid>
-            <pubDate>Mon, 26 Dec 2022 03:17:19 GMT</pubDate>
+            <title><![CDATA[현대중공업그룹 '빨라진 승계시계'...정기선 사장 등기임원됐다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202203220152</link>
+            <guid>https://www.bloter.net/newsView/blt202203220152</guid>
+            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['수소 선박' 추진 삼성중공업, 1조2000억 유상증자...재무구조 개선될까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202108170021</link>
-            <guid>https://www.bloter.net/newsView/blt202108170021</guid>
-            <pubDate>Mon, 26 Dec 2022 03:17:19 GMT</pubDate>
+            <title><![CDATA['지주사 저평가'에 사명 바꾼 현대중공업지주 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202202240093</link>
+            <guid>https://www.bloter.net/newsView/blt202202240093</guid>
+            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260003</link>
+            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰 14 탑재 'A16 칩', A15와 성능 비슷한 이유 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260002</link>
+            <guid>https://www.bloter.net/newsView/blt202212260002</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 08:33:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260001.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IRA '핵심광물·배터리 부품 조건' 시행 유예, 최대 수혜자는? (블로터 ─ 비즈니스)]]></title>
@@ -327,22 +343,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Sat, 24 Dec 2022 04:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-24 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국가 대항전' 원전 수출 성공시켜라…5대 시중은행 다 모였다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230018</link>
-            <guid>https://www.bloter.net/newsView/blt202212230018</guid>
-            <pubDate>Fri, 23 Dec 2022 09:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 17:42:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230046.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IFRS17·디지털화 기대감 힘입은 보험사…시장서 '우주방어' (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230015</link>
-            <guid>https://www.bloter.net/newsView/blt202212230015</guid>
-            <pubDate>Fri, 23 Dec 2022 09:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 17:37:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230039.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
