@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 07:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,12 +381,28 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[위기 대응 2023]LG전자, 효자사업 전장…TV 수익 정상화 ‘관건’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260009</link>
+            <guid>https://www.bloter.net/newsView/blt202212260009</guid>
+            <pubDate>Mon, 26 Dec 2022 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-26 16:12:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[질병관리청의 예산 급감, 일동제약·HLB테라퓨틱스가 우울한 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260005</link>
+            <guid>https://www.bloter.net/newsView/blt202212260005</guid>
+            <pubDate>Mon, 26 Dec 2022 07:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-26 15:56:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260006.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212260003</link>
             <guid>https://www.bloter.net/newsView/blt202212260003</guid>
             <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[아이폰 14 탑재 'A16 칩', A15와 성능 비슷한 이유 (블로터 ─ 테크)]]></title>
@@ -507,22 +523,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Fri, 23 Dec 2022 02:37:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-23 11:20:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 직원 평가 제도 강화…감원으로 이어지나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230002</link>
-            <guid>https://www.bloter.net/newsView/blt202212230002</guid>
-            <pubDate>Fri, 23 Dec 2022 01:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 09:42:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 교통국, 테슬라 추돌사고 추가 조사…원인은 자율주행 급제동? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230001</link>
-            <guid>https://www.bloter.net/newsView/blt202212230001</guid>
-            <pubDate>Fri, 23 Dec 2022 01:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 08:55:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
