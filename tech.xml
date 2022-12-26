@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 22:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 23:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]'애플의 힘' 믿는 LG이노텍…카메라 모듈에 1.7조원 쏟는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270001</link>
+            <guid>https://www.bloter.net/newsView/blt202212270001</guid>
+            <pubDate>Mon, 26 Dec 2022 23:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-27 07:50:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[CES 23 티저]삼성전자가 가전으로 '지속 가능 미래' 설계하는 법]]></title>
             <link>https://www.bloter.net/newsView/blt202212260016</link>
             <guid>https://www.bloter.net/newsView/blt202212260016</guid>
             <pubDate>Mon, 26 Dec 2022 09:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-26 18:09:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비덴트, 방송장비 글로벌 성장세 지속…연 매출 150억원 전망]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 23 Dec 2022 08:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-23 16:31:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["7대 퍼드 반박한다" 강경모드 바이낸스…'코인런' 막을 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230009</link>
-            <guid>https://www.bloter.net/newsView/blt202212230009</guid>
-            <pubDate>Fri, 23 Dec 2022 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 14:49:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
