@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 08:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260015</link>
-            <guid>https://www.bloter.net/newsView/blt202212260015</guid>
-            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-26 17:17:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260022.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이마트24, 백조되기 위한 미운오리의 발버둥]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260017</link>
+            <guid>https://www.bloter.net/newsView/blt202212260017</guid>
+            <pubDate>Mon, 26 Dec 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 17:52:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260028.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대중공업그룹 '빨라진 승계시계'...정기선 사장 등기임원됐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203220152</link>
-            <guid>https://www.bloter.net/newsView/blt202203220152</guid>
-            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['살아나는 호텔업'...조선호텔 적자 탈출 반가운 이마트]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230010</link>
+            <guid>https://www.bloter.net/newsView/blt202212230010</guid>
+            <pubDate>Mon, 26 Dec 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['지주사 저평가'에 사명 바꾼 현대중공업지주]]></title>
-            <link>https://www.bloter.net/newsView/blt202202240093</link>
-            <guid>https://www.bloter.net/newsView/blt202202240093</guid>
-            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘희망퇴직’ 롯데하이마트, 인건비 줄이고 광고∙판촉비 늘리고]]></title>
+            <link>https://www.bloter.net/newsView/blt202212130009</link>
+            <guid>https://www.bloter.net/newsView/blt202212130009</guid>
+            <pubDate>Mon, 26 Dec 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘유통 1번지 바뀌나’…쿠팡∙이마트, 서로 다른 ‘1000억’의 의미]]></title>
+            <link>https://www.bloter.net/newsView/blt202211100012</link>
+            <guid>https://www.bloter.net/newsView/blt202211100012</guid>
+            <pubDate>Mon, 26 Dec 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['코로나 끝났더니'...롯데하이마트, 창사 이래 첫 연간 적자 내나]]></title>
+            <link>https://www.bloter.net/newsView/blt202211030011</link>
+            <guid>https://www.bloter.net/newsView/blt202211030011</guid>
+            <pubDate>Mon, 26 Dec 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

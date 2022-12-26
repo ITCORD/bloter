@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 08:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비덴트, 방송장비 글로벌 성장세 지속…연 매출 150억원 전망]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260018</link>
+            <guid>https://www.bloter.net/newsView/blt202212260018</guid>
+            <pubDate>Mon, 26 Dec 2022 09:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[비덴트의 방송장비사업부가 올 한해 국내외에서 가파른 성장세를 이어가고 있다. 또 코로나19 팬데믹 이후 영상 제작 인프라가 안정적으로 조성되고 있는 만큼 내년 시장 여건 전망 또한 긍정적이다.  비덴트는 올해 방송장비사업부 매출이 전년(116억 원) 대비 약 28%]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260031.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수]]></title>
             <link>https://www.bloter.net/newsView/blt202212260003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[컴투스홀딩스 등 컴투스그룹은 20일 블록체인 메인넷의 거버넌스 코인 '엑스플라(XPLA)'를 글로벌 가상자산 거래소 코인엑스(CoinEX)에 상장했다고 밝혔다.    이를 통해 XPLA 코인은 코인엑스에서도 거래가 가능하다. 컴투스그룹은 XPLA의 코인엑스 상장을 통해 글로벌 투]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200002</link>
-            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[약 두 달 전 트위터를 인수한 일론 머스크가 자신의 트위터 팔로워를 대상으로 트위터 대표직 유지 여부를 투표에 부친 가운데 응답자의 과반수가 그의 퇴임에 찬성했다. 머스크가 트위터 경영에서 손을 뗄 수도 있다는 기대감에 그가 운영하는 전기차 기업 테슬라]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
