@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260003</link>
+            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
+            <pubDate>Mon, 26 Dec 2022 01:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 인수 이후 논란이 끊이지 않는 트위터가 이번에는 사용자 정보를 유출한 혐의로 유럽에서 조사를 받게 됐다. 당국은 조사 결과에 따라 회사 연간 매출의 최대 4%에 달하는 벌금을 부과할 수 있다.   24일(현지시간) &lt;블룸버그통신&gt;에 따르면 아일랜드]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]지속되는 '업사이클링 패션' 인기…성수동에 모인 소규모 브랜드]]></title>
             <link>https://www.bloter.net/newsView/blt202212250001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
             <content:encoded><![CDATA[약 두 달 전 트위터를 인수한 일론 머스크가 자신의 트위터 팔로워를 대상으로 트위터 대표직 유지 여부를 투표에 부친 가운데 응답자의 과반수가 그의 퇴임에 찬성했다. 머스크가 트위터 경영에서 손을 뗄 수도 있다는 기대감에 그가 운영하는 전기차 기업 테슬라]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['포트나이트'의 에픽게임즈, 어린이 보호 위반으로 거액 벌금 합의]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200001</link>
-            <guid>https://www.bloter.net/newsView/blt202212200001</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[인기 온라인 게임 ‘포트나이트’ 제작사 에픽게임즈가 어린이 보호 의무를 위반하고 고객이 의도하지 않은 결제를 유도했다는 혐의로 6700억원의 벌금을 내기로 합의했다.   19일(현지시간) 미국 연방거래위원회(FTC)는 성명을 내고 “에픽게임즈가 다크패]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200001.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

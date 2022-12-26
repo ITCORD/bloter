@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,30 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["기업들 2023년에 구조조정할 것"…채권시장 '비정상의 장기화' 때문 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212250002</link>
+            <guid>https://www.bloter.net/newsView/blt202212250002</guid>
+            <pubDate>Sun, 25 Dec 2022 06:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-25 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 주목받은 글로벌 M&A는? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230022</link>
+            <guid>https://www.bloter.net/newsView/blt202212230022</guid>
+            <pubDate>Sun, 25 Dec 2022 05:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-25 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230052.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['인명사고·허영인 회장 배임'...논란 속 SPC, 실적 방어는 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220012</link>
+            <guid>https://www.bloter.net/newsView/blt202212220012</guid>
+            <pubDate>Sat, 24 Dec 2022 04:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-24 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['국가 대항전' 원전 수출 성공시켜라…5대 시중은행 다 모였다 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202212230018</link>
             <guid>https://www.bloter.net/newsView/blt202212230018</guid>
@@ -310,30 +334,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Fri, 23 Dec 2022 07:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-23 15:45:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살아나는 호텔업'...조선호텔 적자 탈출 반가운 이마트 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230010</link>
-            <guid>https://www.bloter.net/newsView/blt202212230010</guid>
-            <pubDate>Fri, 23 Dec 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-23 15:15:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["7대 퍼드 반박한다" 강경모드 바이낸스…'코인런' 막을 수 있을까? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230009</link>
-            <guid>https://www.bloter.net/newsView/blt202212230009</guid>
-            <pubDate>Fri, 23 Dec 2022 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 14:49:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["음식값 대신 결제해줘"…페이코 '결제 조르기' 부부사이서 인기 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230005</link>
-            <guid>https://www.bloter.net/newsView/blt202212230005</guid>
-            <pubDate>Fri, 23 Dec 2022 03:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 11:47:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -372,12 +372,28 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260003</link>
+            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰 14 탑재 'A16 칩', A15와 성능 비슷한 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260002</link>
+            <guid>https://www.bloter.net/newsView/blt202212260002</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 08:33:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['토종 통신 장비' 다산네트웍스, 매출 키웠지만 늘어난 적자폭…왜? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212230024</link>
             <guid>https://www.bloter.net/newsView/blt202212230024</guid>
             <pubDate>Sun, 25 Dec 2022 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-25 18:03:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230056.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230056.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[N플레이]엔픽셀 '생존기사단', 신작 혹은 타이틀 변화? (블로터 ─ 테크)]]></title>
@@ -498,22 +514,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Fri, 23 Dec 2022 01:07:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-23 08:55:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230001.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위기 대응 2023]통신사 SKT가 'AI 컴퍼니'로 거듭나는 법 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220016</link>
-            <guid>https://www.bloter.net/newsView/blt202212220016</guid>
-            <pubDate>Thu, 22 Dec 2022 09:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-22 17:43:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 23 티저]롯데정보통신 '초실감 메타버스 확장판', 얼마나 리얼할까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212220015</link>
-            <guid>https://www.bloter.net/newsView/blt202212220015</guid>
-            <pubDate>Thu, 22 Dec 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-22 17:10:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -792,6 +792,14 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260003</link>
+            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
+            <pubDate>Mon, 26 Dec 2022 01:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 인수 이후 논란이 끊이지 않는 트위터가 이번에는 사용자 정보를 유출한 혐의로 유럽에서 조사를 받게 됐다. 당국은 조사 결과에 따라 회사 연간 매출의 최대 4%에 달하는 벌금을 부과할 수 있다.   24일(현지시간) &lt;블룸버그통신&gt;에 따르면 아일랜드]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]지속되는 '업사이클링 패션' 인기…성수동에 모인 소규모 브랜드 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212250001</link>
             <guid>https://www.bloter.net/newsView/blt202212250001</guid>
@@ -878,14 +886,6 @@ DB하이텍은 2021년 IT(정보통신) 기기의 수요가 늘면서 창사 이
             <pubDate>Tue, 20 Dec 2022 01:09:36 GMT</pubDate>
             <content:encoded><![CDATA[약 두 달 전 트위터를 인수한 일론 머스크가 자신의 트위터 팔로워를 대상으로 트위터 대표직 유지 여부를 투표에 부친 가운데 응답자의 과반수가 그의 퇴임에 찬성했다. 머스크가 트위터 경영에서 손을 뗄 수도 있다는 기대감에 그가 운영하는 전기차 기업 테슬라]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['포트나이트'의 에픽게임즈, 어린이 보호 위반으로 거액 벌금 합의 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200001</link>
-            <guid>https://www.bloter.net/newsView/blt202212200001</guid>
-            <pubDate>Tue, 20 Dec 2022 01:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[인기 온라인 게임 ‘포트나이트’ 제작사 에픽게임즈가 어린이 보호 의무를 위반하고 고객이 의도하지 않은 결제를 유도했다는 혐의로 6700억원의 벌금을 내기로 합의했다.   19일(현지시간) 미국 연방거래위원회(FTC)는 성명을 내고 “에픽게임즈가 다크패]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200001.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>

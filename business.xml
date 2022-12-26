@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기업들 2023년에 구조조정할 것"…채권시장 '비정상의 장기화' 때문]]></title>
+            <link>https://www.bloter.net/newsView/blt202212250002</link>
+            <guid>https://www.bloter.net/newsView/blt202212250002</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-25 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 주목받은 글로벌 M&A는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212230022</link>
+            <guid>https://www.bloter.net/newsView/blt202212230022</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-25 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230052.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['인명사고·허영인 회장 배임'...논란 속 SPC, 실적 방어는]]></title>
+            <link>https://www.bloter.net/newsView/blt202212220012</link>
+            <guid>https://www.bloter.net/newsView/blt202212220012</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-24 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국가 대항전' 원전 수출 성공시켜라…5대 시중은행 다 모였다]]></title>
             <link>https://www.bloter.net/newsView/blt202212230018</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 25 Dec 2022 05:14:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-23 15:45:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230012.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살아나는 호텔업'...조선호텔 적자 탈출 반가운 이마트]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230010</link>
-            <guid>https://www.bloter.net/newsView/blt202212230010</guid>
-            <pubDate>Fri, 23 Dec 2022 22:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-23 15:15:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["7대 퍼드 반박한다" 강경모드 바이낸스…'코인런' 막을 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230009</link>
-            <guid>https://www.bloter.net/newsView/blt202212230009</guid>
-            <pubDate>Fri, 23 Dec 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 14:49:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["음식값 대신 결제해줘"…페이코 '결제 조르기' 부부사이서 인기]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230005</link>
-            <guid>https://www.bloter.net/newsView/blt202212230005</guid>
-            <pubDate>Fri, 23 Dec 2022 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-23 11:47:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
