@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 08:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260008</link>
+            <guid>https://www.bloter.net/newsView/blt202212260008</guid>
+            <pubDate>Tue, 27 Dec 2022 09:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이가 성장세를 이어가기 위해 '보상형 광고'로 소비자들을 유인한다. '쉬운 금융'을 표방하는 회사인 만큼 보상형 광고에서도 간단한 참여나 출석 체크 등으로 보상을 받고 쉽게 이용하는 경험을 이어갈 수 있는 방식을 택했다. 보상을 위해 온 이용자들은]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212270008</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 21 Dec 2022 01:08:23 GMT</pubDate>
             <content:encoded><![CDATA[마크 저커버그 메타 최고경영자(CEO)가 인기 가상현실(VR) 피트니스 애플리케이션 ‘슈퍼내추럴’의 개발사 ‘위드인’(Within) 인수와 관련해 법정에 섰다.  20일(현지시간) IT전문매체 &lt;테크크런치&gt; 등 외신에 따르면 저커버그는 미국 캘리포니아주 산]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크비전, 위조 상품 탐지·제거는 기본…IP비즈니스까지 논스톱]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200013</link>
-            <guid>https://www.bloter.net/newsView/blt202212200013</guid>
-            <pubDate>Tue, 20 Dec 2022 08:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 기업 마크비전이 'IP 비즈니스 인프라 SaaS 기업'을 새 비전으로 선포했다. 유튜브나 틱톡으로 위조 상품 모니터링을 확대하는 한편, 지식재산권(IP) 관리를 총체적으로 관리한다. 특히 마크비전코리아는 아시아 허브로써 K-패션 브랜드 및 K-콘텐츠 기업들을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 08:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,6 +290,22 @@
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[HD현대 건설기계, 북미·신흥국서 '잭팟' 기대...'탈중국'에 속도 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270005</link>
+            <guid>https://www.bloter.net/newsView/blt202212270005</guid>
+            <pubDate>Tue, 27 Dec 2022 05:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-27 13:19:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270013.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["시장에 털리느니, 로보어드바이저에 40억원 투자한다" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270007</link>
+            <guid>https://www.bloter.net/newsView/blt202212270007</guid>
+            <pubDate>Tue, 27 Dec 2022 04:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-27 12:35:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["리플 승소하면 알트코인 가격에 호재" (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202212270006</link>
             <guid>https://www.bloter.net/newsView/blt202212270006</guid>
@@ -320,22 +336,6 @@
             <pubDate>Mon, 26 Dec 2022 09:14:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 17:52:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260028.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260015</link>
-            <guid>https://www.bloter.net/newsView/blt202212260015</guid>
-            <pubDate>Mon, 26 Dec 2022 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-26 17:17:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대홈쇼핑, 렌탈사업 손 뗀다…지분 80% 매각 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260014</link>
-            <guid>https://www.bloter.net/newsView/blt202212260014</guid>
-            <pubDate>Mon, 26 Dec 2022 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 16:23:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260021.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -374,12 +374,52 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260008</link>
+            <guid>https://www.bloter.net/newsView/blt202212260008</guid>
+            <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-27 18:11:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['AI·DX' 떼고도 급성장 KT알파...커머스 투자 유종의 미 거두나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270013</link>
+            <guid>https://www.bloter.net/newsView/blt202212270013</guid>
+            <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-27 18:09:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270025.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어진 안국약품 부회장, 상속세 해결 위해 경영 복귀? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270016</link>
+            <guid>https://www.bloter.net/newsView/blt202212270016</guid>
+            <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-27 18:08:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270040.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최적의 투자 조합 찾아준다…후지쯔의 '디지털 어닐러'는 무엇?(feat.양자컴퓨터) (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270017</link>
+            <guid>https://www.bloter.net/newsView/blt202212270017</guid>
+            <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-27 18:06:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270038.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG전자 ESG 생산 거점으로 떠오른 ‘창원 스마트파크’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270018</link>
+            <guid>https://www.bloter.net/newsView/blt202212270018</guid>
+            <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-27 18:03:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270041.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국퀄컴, '반도체 한파' 속 어떻게 매출 30% 늘렸나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212270011</link>
             <guid>https://www.bloter.net/newsView/blt202212270011</guid>
-            <pubDate>Tue, 27 Dec 2022 08:19:33 GMT</pubDate>
+            <pubDate>Tue, 27 Dec 2022 08:18:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-27 16:24:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270024.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270024.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다 (블로터 ─ 테크)]]></title>
@@ -476,46 +516,6 @@
             <pubDate>Sun, 25 Dec 2022 09:13:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-25 18:03:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230056.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[N플레이]엔픽셀 '생존기사단', 신작 혹은 타이틀 변화? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212250003</link>
-            <guid>https://www.bloter.net/newsView/blt202212250003</guid>
-            <pubDate>Sun, 25 Dec 2022 08:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-25 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IRA '핵심광물·배터리 부품 조건' 시행 유예, 최대 수혜자는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230023</link>
-            <guid>https://www.bloter.net/newsView/blt202212230023</guid>
-            <pubDate>Sun, 25 Dec 2022 07:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-25 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230054.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 주목받은 글로벌 M&A는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230022</link>
-            <guid>https://www.bloter.net/newsView/blt202212230022</guid>
-            <pubDate>Sun, 25 Dec 2022 05:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-25 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230052.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅+] '디지털 바디랭귀지'를 분석한다, 콘텐츠스퀘어 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230021</link>
-            <guid>https://www.bloter.net/newsView/blt202212230021</guid>
-            <pubDate>Sun, 25 Dec 2022 04:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-25 12:55:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230051.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]동영상 편집 시장 개척하는 '키네마스터', 크리스마스에도 졸라매는 허리띠 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230019</link>
-            <guid>https://www.bloter.net/newsView/blt202212230019</guid>
-            <pubDate>Sun, 25 Dec 2022 03:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-25 11:55:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -794,6 +794,14 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260008</link>
+            <guid>https://www.bloter.net/newsView/blt202212260008</guid>
+            <pubDate>Tue, 27 Dec 2022 09:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이가 성장세를 이어가기 위해 '보상형 광고'로 소비자들을 유인한다. '쉬운 금융'을 표방하는 회사인 만큼 보상형 광고에서도 간단한 참여나 출석 체크 등으로 보상을 받고 쉽게 이용하는 경험을 이어갈 수 있는 방식을 택했다. 보상을 위해 온 이용자들은]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212270008</link>
             <guid>https://www.bloter.net/newsView/blt202212270008</guid>
@@ -880,14 +888,6 @@
             <pubDate>Wed, 21 Dec 2022 01:06:31 GMT</pubDate>
             <content:encoded><![CDATA[마크 저커버그 메타 최고경영자(CEO)가 인기 가상현실(VR) 피트니스 애플리케이션 ‘슈퍼내추럴’의 개발사 ‘위드인’(Within) 인수와 관련해 법정에 섰다.  20일(현지시간) IT전문매체 &lt;테크크런치&gt; 등 외신에 따르면 저커버그는 미국 캘리포니아주 산]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마크비전, 위조 상품 탐지·제거는 기본…IP비즈니스까지 논스톱 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200013</link>
-            <guid>https://www.bloter.net/newsView/blt202212200013</guid>
-            <pubDate>Tue, 20 Dec 2022 08:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 기업 마크비전이 'IP 비즈니스 인프라 SaaS 기업'을 새 비전으로 선포했다. 유튜브나 틱톡으로 위조 상품 모니터링을 확대하는 한편, 지식재산권(IP) 관리를 총체적으로 관리한다. 특히 마크비전코리아는 아시아 허브로써 K-패션 브랜드 및 K-콘텐츠 기업들을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
