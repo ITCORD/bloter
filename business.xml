@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 04:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 05:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日당국, 애플에 1200억원 체납세 부과…"리셀러에 아이폰 대량 판매"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270002</link>
+            <guid>https://www.bloter.net/newsView/blt202212270002</guid>
+            <pubDate>Tue, 27 Dec 2022 05:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 08:25:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이마트24, 백조되기 위한 미운오리의 발버둥]]></title>
             <link>https://www.bloter.net/newsView/blt202212260017</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 26 Dec 2022 09:15:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 10:01:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260003</link>
-            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
-            <pubDate>Mon, 26 Dec 2022 08:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
