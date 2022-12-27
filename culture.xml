@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 06:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270008</link>
+            <guid>https://www.bloter.net/newsView/blt202212270008</guid>
+            <pubDate>Tue, 27 Dec 2022 06:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[정보기술(IT) 인프라 설비업체인 '소프트센'이 게임 퍼블리싱 사업을 본격화한다. 이를 통해 소프트센은 2023년을 기점으로 게임 지적재산권(IP) 투자를 확대하고, 메타버스 사업까지 사업 영역을 확장한다는 계획이다.  27일 소프트센은 클라우드·솔루션 관리서]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270016.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비덴트, 방송장비 글로벌 성장세 지속…연 매출 150억원 전망]]></title>
             <link>https://www.bloter.net/newsView/blt202212260018</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 20 Dec 2022 08:21:26 GMT</pubDate>
             <content:encoded><![CDATA[인공지능 기업 마크비전이 'IP 비즈니스 인프라 SaaS 기업'을 새 비전으로 선포했다. 유튜브나 틱톡으로 위조 상품 모니터링을 확대하는 한편, 지식재산권(IP) 관리를 총체적으로 관리한다. 특히 마크비전코리아는 아시아 허브로써 K-패션 브랜드 및 K-콘텐츠 기업들을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴투스그룹 코인 XPLA, 글로벌 거래소 '코인엑스' 상장]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200003</link>
-            <guid>https://www.bloter.net/newsView/blt202212200003</guid>
-            <pubDate>Tue, 20 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스홀딩스 등 컴투스그룹은 20일 블록체인 메인넷의 거버넌스 코인 '엑스플라(XPLA)'를 글로벌 가상자산 거래소 코인엑스(CoinEX)에 상장했다고 밝혔다.    이를 통해 XPLA 코인은 코인엑스에서도 거래가 가능하다. 컴투스그룹은 XPLA의 코인엑스 상장을 통해 글로벌 투]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/20/blt202212200004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
