@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 06:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["리플 승소하면 알트코인 가격에 호재"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270006</link>
+            <guid>https://www.bloter.net/newsView/blt202212270006</guid>
+            <pubDate>Tue, 27 Dec 2022 07:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-27 12:32:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라 상하이 공장, 연말 생산 중단 이례적으로 연장]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270004</link>
+            <guid>https://www.bloter.net/newsView/blt202212270004</guid>
+            <pubDate>Tue, 27 Dec 2022 07:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 09:13:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270010.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[日당국, 애플에 1200억원 체납세 부과…"리셀러에 아이폰 대량 판매"]]></title>
             <link>https://www.bloter.net/newsView/blt202212270002</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 27 Dec 2022 01:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 16:23:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['흑자 전환' 절박한 삼성중공업, 삼성전자 평택공장 누적 수주액 1조 육박]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260007</link>
-            <guid>https://www.bloter.net/newsView/blt202212260007</guid>
-            <pubDate>Tue, 27 Dec 2022 01:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-26 11:37:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심, 메타버스 '레시피' 신라면 내놓는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260004</link>
-            <guid>https://www.bloter.net/newsView/blt202212260004</guid>
-            <pubDate>Mon, 26 Dec 2022 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 10:01:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
