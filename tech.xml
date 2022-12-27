@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 01:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 상하이 공장, 연말 생산 중단 이례적으로 연장]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270004</link>
+            <guid>https://www.bloter.net/newsView/blt202212270004</guid>
+            <pubDate>Tue, 27 Dec 2022 01:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 09:13:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270010.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[日당국, 애플에 1200억원 체납세 부과…"리셀러에 아이폰 대량 판매"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270002</link>
+            <guid>https://www.bloter.net/newsView/blt202212270002</guid>
+            <pubDate>Tue, 27 Dec 2022 01:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 08:25:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270004.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]'애플의 힘' 믿는 LG이노텍…카메라 모듈에 1.7조원 쏟는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202212270001</link>
             <guid>https://www.bloter.net/newsView/blt202212270001</guid>
             <pubDate>Mon, 26 Dec 2022 23:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-27 07:50:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[CES 23 티저]삼성전자가 가전으로 '지속 가능 미래' 설계하는 법]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 23 Dec 2022 09:17:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-23 17:30:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230037.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전상비약 자판기 도입, 보류된 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230014</link>
-            <guid>https://www.bloter.net/newsView/blt202212230014</guid>
-            <pubDate>Fri, 23 Dec 2022 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-23 16:38:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230038.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애니팡 시리즈, 인기순위 역주행…'임영웅 효과' 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230013</link>
-            <guid>https://www.bloter.net/newsView/blt202212230013</guid>
-            <pubDate>Fri, 23 Dec 2022 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-23 16:31:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

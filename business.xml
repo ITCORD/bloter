@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 01:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대홈쇼핑, 렌탈사업 손 뗀다…지분 80% 매각]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260014</link>
+            <guid>https://www.bloter.net/newsView/blt202212260014</guid>
+            <pubDate>Tue, 27 Dec 2022 01:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-26 16:23:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['흑자 전환' 절박한 삼성중공업, 삼성전자 평택공장 누적 수주액 1조 육박]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260007</link>
+            <guid>https://www.bloter.net/newsView/blt202212260007</guid>
+            <pubDate>Tue, 27 Dec 2022 01:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-26 11:37:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[농심, 메타버스 '레시피' 신라면 내놓는다]]></title>
             <link>https://www.bloter.net/newsView/blt202212260004</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 26 Dec 2022 03:17:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-25 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230054.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["기업들 2023년에 구조조정할 것"…채권시장 '비정상의 장기화' 때문]]></title>
-            <link>https://www.bloter.net/newsView/blt202212250002</link>
-            <guid>https://www.bloter.net/newsView/blt202212250002</guid>
-            <pubDate>Mon, 26 Dec 2022 01:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-25 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 주목받은 글로벌 M&A는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230022</link>
-            <guid>https://www.bloter.net/newsView/blt202212230022</guid>
-            <pubDate>Mon, 26 Dec 2022 01:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-25 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230052.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
