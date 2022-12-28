@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 08:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[2022 디지털마케팅 연말결산] 슬슬 실감되는 '쿠키리스시대']]></title>
+            <title><![CDATA[[위기 대응 2023]LG이노텍, 역대급 실적 냈지만…여전히 '애플 그늘' 속]]></title>
+            <link>https://www.bloter.net/newsView/blt202212280014</link>
+            <guid>https://www.bloter.net/newsView/blt202212280014</guid>
+            <pubDate>Wed, 28 Dec 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-28 18:04:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280026.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[27명 경쟁한 KT 차기 CEO…주인 없는 기업 '수장 경선' 선례 남겼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212280016</link>
+            <guid>https://www.bloter.net/newsView/blt202212280016</guid>
+            <pubDate>Wed, 28 Dec 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-28 17:38:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280027.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022 디지털마케팅 연말결산]슬슬 실감되는 '쿠키리스시대']]></title>
             <link>https://www.bloter.net/newsView/blt202212280015</link>
             <guid>https://www.bloter.net/newsView/blt202212280015</guid>
             <pubDate>Wed, 28 Dec 2022 08:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-28 17:14:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]음원부터 웹소설까지…'2022 콘텐츠 트렌드'는 '역주행']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 27 Dec 2022 04:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-27 12:32:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 상하이 공장, 연말 생산 중단 이례적으로 연장]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270004</link>
-            <guid>https://www.bloter.net/newsView/blt202212270004</guid>
-            <pubDate>Tue, 27 Dec 2022 01:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 09:13:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270010.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[日당국, 애플에 1200억원 체납세 부과…"리셀러에 아이폰 대량 판매"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270002</link>
-            <guid>https://www.bloter.net/newsView/blt202212270002</guid>
-            <pubDate>Tue, 27 Dec 2022 01:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 08:25:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

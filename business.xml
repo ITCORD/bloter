@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 08:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국힘, '실손보험 청구 간소화' 관철해낼까…"의협, 전향적 태도 기대"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270015</link>
+            <guid>https://www.bloter.net/newsView/blt202212270015</guid>
+            <pubDate>Wed, 28 Dec 2022 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-27 17:20:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['편법논란 이익 기부 안 끝났는데'...오리온 3세 담서원, 승계자금 마련 어떻게]]></title>
             <link>https://www.bloter.net/newsView/blt202212270010</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 27 Dec 2022 07:14:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-27 12:32:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 상하이 공장, 연말 생산 중단 이례적으로 연장]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270004</link>
-            <guid>https://www.bloter.net/newsView/blt202212270004</guid>
-            <pubDate>Tue, 27 Dec 2022 07:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-27 09:13:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270010.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
