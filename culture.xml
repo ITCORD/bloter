@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 01:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이제는 체리슈머]②보상형 광고, '짠테크' 열풍에 성장궤도 올랐다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270003</link>
+            <guid>https://www.bloter.net/newsView/blt202212270003</guid>
+            <pubDate>Wed, 28 Dec 2022 02:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 보상형 광고가 절약을 통한 '짠테크' 열풍에 부상하고 있다. 보상형 광고의 인지도가 높아지면서 유의미한 이용자들이 늘었고, 이에 보상형 광고를 찾는 브랜드들도 다양화되고 있다. 오퍼월(무료 충전소) 사업자 등 기존 보상형 광고 플랫폼 또한 유기적으]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'?]]></title>
             <link>https://www.bloter.net/newsView/blt202212260008</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 22 Dec 2022 02:39:38 GMT</pubDate>
             <content:encoded><![CDATA[토종 온라인 동영상 서비스(OTT) '웨이브(Wavve)'가 미주지역 K-콘텐츠 플랫폼인 '코코와(KOCOWA)를 인수한다.  22일 웨이브는 이사회를 통해 코코와 인수를 확정하고 미주지역 서비스를 시작으로 글로벌 사업을 확대할 계획이라고 밝혔다.코코와는 현재 미국, 캐나다, 멕]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 저커버그 메타 CEO, VR 피트니스 기업 인수로  법적 공방]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210002</link>
-            <guid>https://www.bloter.net/newsView/blt202212210002</guid>
-            <pubDate>Wed, 21 Dec 2022 01:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[마크 저커버그 메타 최고경영자(CEO)가 인기 가상현실(VR) 피트니스 애플리케이션 ‘슈퍼내추럴’의 개발사 ‘위드인’(Within) 인수와 관련해 법정에 섰다.  20일(현지시간) IT전문매체 &lt;테크크런치&gt; 등 외신에 따르면 저커버그는 미국 캘리포니아주 산]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

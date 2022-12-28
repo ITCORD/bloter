@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 01:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미디어 전문가' 박란 KBCA 신임회장, 콘텐츠 사용료·광고규제 해결할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212280004</link>
+            <guid>https://www.bloter.net/newsView/blt202212280004</guid>
+            <pubDate>Wed, 28 Dec 2022 02:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-28 11:12:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이제는 체리슈머]②보상형 광고, '짠테크' 열풍에 성장궤도 올랐다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270003</link>
+            <guid>https://www.bloter.net/newsView/blt202212270003</guid>
+            <pubDate>Wed, 28 Dec 2022 02:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-28 10:37:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 IT업계 근로자, 3개월 이내 재취업 79%…빅테크 대규모 감원 속 '반전']]></title>
             <link>https://www.bloter.net/newsView/blt202212280002</link>
             <guid>https://www.bloter.net/newsView/blt202212280002</guid>
             <pubDate>Wed, 28 Dec 2022 01:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-28 10:07:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IBM, 주가 6% 상승…'최악 성적표' 뉴욕 증시서 '선방']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 26 Dec 2022 07:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-26 16:12:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[질병관리청의 예산 급감, 일동제약·HLB테라퓨틱스가 우울한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260005</link>
-            <guid>https://www.bloter.net/newsView/blt202212260005</guid>
-            <pubDate>Mon, 26 Dec 2022 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-26 15:56:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260003</link>
-            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
-            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 01:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,12 +384,28 @@ LG이노텍 사업별 매출.(단위:억원, 자료:LG이노텍 실적발표)&nb
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['미디어 전문가' 박란 KBCA 신임회장, 콘텐츠 사용료·광고규제 해결할까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212280004</link>
+            <guid>https://www.bloter.net/newsView/blt202212280004</guid>
+            <pubDate>Wed, 28 Dec 2022 02:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-28 11:12:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이제는 체리슈머]②보상형 광고, '짠테크' 열풍에 성장궤도 올랐다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270003</link>
+            <guid>https://www.bloter.net/newsView/blt202212270003</guid>
+            <pubDate>Wed, 28 Dec 2022 02:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-28 10:37:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[美 IT업계 근로자, 3개월 이내 재취업 79%…빅테크 대규모 감원 속 '반전' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212280002</link>
             <guid>https://www.bloter.net/newsView/blt202212280002</guid>
-            <pubDate>Wed, 28 Dec 2022 01:08:10 GMT</pubDate>
+            <pubDate>Wed, 28 Dec 2022 01:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-28 10:07:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IBM, 주가 6% 상승…'최악 성적표' 뉴욕 증시서 '선방' (블로터 ─ 테크)]]></title>
@@ -510,22 +526,6 @@ LG이노텍 사업별 매출.(단위:억원, 자료:LG이노텍 실적발표)&nb
             <pubDate>Mon, 26 Dec 2022 07:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-26 16:12:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[질병관리청의 예산 급감, 일동제약·HLB테라퓨틱스가 우울한 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260005</link>
-            <guid>https://www.bloter.net/newsView/blt202212260005</guid>
-            <pubDate>Mon, 26 Dec 2022 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-26 15:56:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260003</link>
-            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
-            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -804,6 +804,14 @@ LG이노텍 사업별 매출.(단위:억원, 자료:LG이노텍 실적발표)&nb
             <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이제는 체리슈머]②보상형 광고, '짠테크' 열풍에 성장궤도 올랐다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270003</link>
+            <guid>https://www.bloter.net/newsView/blt202212270003</guid>
+            <pubDate>Wed, 28 Dec 2022 02:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 보상형 광고가 절약을 통한 '짠테크' 열풍에 부상하고 있다. 보상형 광고의 인지도가 높아지면서 유의미한 이용자들이 늘었고, 이에 보상형 광고를 찾는 브랜드들도 다양화되고 있다. 오퍼월(무료 충전소) 사업자 등 기존 보상형 광고 플랫폼 또한 유기적으]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'? (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212260008</link>
             <guid>https://www.bloter.net/newsView/blt202212260008</guid>
@@ -890,14 +898,6 @@ LG이노텍 사업별 매출.(단위:억원, 자료:LG이노텍 실적발표)&nb
             <pubDate>Thu, 22 Dec 2022 02:38:12 GMT</pubDate>
             <content:encoded><![CDATA[토종 온라인 동영상 서비스(OTT) '웨이브(Wavve)'가 미주지역 K-콘텐츠 플랫폼인 '코코와(KOCOWA)를 인수한다.  22일 웨이브는 이사회를 통해 코코와 인수를 확정하고 미주지역 서비스를 시작으로 글로벌 사업을 확대할 계획이라고 밝혔다.코코와는 현재 미국, 캐나다, 멕]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/22/blt202212220004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크 저커버그 메타 CEO, VR 피트니스 기업 인수로  법적 공방 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210002</link>
-            <guid>https://www.bloter.net/newsView/blt202212210002</guid>
-            <pubDate>Wed, 21 Dec 2022 01:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[마크 저커버그 메타 최고경영자(CEO)가 인기 가상현실(VR) 피트니스 애플리케이션 ‘슈퍼내추럴’의 개발사 ‘위드인’(Within) 인수와 관련해 법정에 섰다.  20일(현지시간) IT전문매체 &lt;테크크런치&gt; 등 외신에 따르면 저커버그는 미국 캘리포니아주 산]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/21/blt202212210002.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버시리즈 '화산귀환', 출판 펀딩 1위 비결은 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
