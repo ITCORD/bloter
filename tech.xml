@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 23:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 01:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 IT업계 근로자, 3개월 이내 재취업 79%…빅테크 대규모 감원 속 '반전']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280002</link>
+            <guid>https://www.bloter.net/newsView/blt202212280002</guid>
+            <pubDate>Wed, 28 Dec 2022 01:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-28 10:07:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM, 주가 6% 상승…'최악 성적표' 뉴욕 증시서 '선방']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280001</link>
+            <guid>https://www.bloter.net/newsView/blt202212280001</guid>
+            <pubDate>Wed, 28 Dec 2022 01:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-28 09:09:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280002.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'?]]></title>
             <link>https://www.bloter.net/newsView/blt202212260008</link>
             <guid>https://www.bloter.net/newsView/blt202212260008</guid>
             <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2022-12-27 18:11:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['AI·DX' 떼고도 급성장 KT알파...커머스 투자 유종의 미 거두나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 09:30:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰 14 탑재 'A16 칩', A15와 성능 비슷한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260002</link>
-            <guid>https://www.bloter.net/newsView/blt202212260002</guid>
-            <pubDate>Mon, 26 Dec 2022 01:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-26 08:33:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['토종 통신 장비' 다산네트웍스, 매출 키웠지만 늘어난 적자폭…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230024</link>
-            <guid>https://www.bloter.net/newsView/blt202212230024</guid>
-            <pubDate>Sun, 25 Dec 2022 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-25 18:03:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230056.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
