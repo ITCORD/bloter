@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 08:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022 디지털마케팅 연말결산] 슬슬 실감되는 '쿠키리스시대']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280015</link>
+            <guid>https://www.bloter.net/newsView/blt202212280015</guid>
+            <pubDate>Wed, 28 Dec 2022 08:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[서드파티 데이터(3rd party data)의 종말이 다가오고 있다. 빅테크 실적이 확연히 떨어지는 것을 볼 때, 그 충격은 당분간 지속될 것으로 보인다. 이에 업계는 각자도생을 준비하고 있다. 광고 지면을 늘리며 지위를 공고히 하려는 플랫폼사, 확보한 고객을 충성 고객으]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280024.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]음원부터 웹소설까지…'2022 콘텐츠 트렌드'는 '역주행']]></title>
             <link>https://www.bloter.net/newsView/blt202212280010</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Dec 2022 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 키네마스터가 동영상 편집을 쉽게 하기 위한 템플릿 제작 등 투자로 말미암아 적자 행진을 계속하고 있습니다. 이번에는 기존 사무실을 떠나 투자사인 솔본 빌딩으로 회사를 이전하며 부가 비용 절감에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230047.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인디게임 랩소디]②7종 직접 해보니…개발자 '땀방울' 느껴진 버닝비버]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230011</link>
-            <guid>https://www.bloter.net/newsView/blt202212230011</guid>
-            <pubDate>Fri, 23 Dec 2022 09:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[지난 16~18일 스마일게이트 인디게임 페스티벌 '버닝비버 2022'를 계기로 인디게임 80여종이 서울 신사동 가로수길 팝업 빌딩에서 모였다. 이용자들의 반응 역시 상당히 뜨거웠는데, 주최 측인 스마일게이트에 따르면 주말 한파를 뚫고 현장을 찾은 이용자들은 약 8000]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230037.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
