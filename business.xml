@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 05:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 06:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['CJ·쿠팡·롯데' 유통가 마진 전쟁...'한 푼이라도 더']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280019</link>
+            <guid>https://www.bloter.net/newsView/blt202212280019</guid>
+            <pubDate>Thu, 29 Dec 2022 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-28 18:16:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280037.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강석훈 회장 불도저식 '산은 부산 이전'에…수험생 '복불복 진학'하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202212280017</link>
+            <guid>https://www.bloter.net/newsView/blt202212280017</guid>
+            <pubDate>Thu, 29 Dec 2022 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-28 18:08:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 IT업계 근로자, 3개월 이내 재취업 79%…빅테크 대규모 감원 속 '반전']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280002</link>
+            <guid>https://www.bloter.net/newsView/blt202212280002</guid>
+            <pubDate>Thu, 29 Dec 2022 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-28 10:07:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IBM, 주가 6% 상승…'최악 성적표' 뉴욕 증시서 '선방']]></title>
             <link>https://www.bloter.net/newsView/blt202212280001</link>
@@ -30,30 +54,6 @@
             <pubDate>Wed, 28 Dec 2022 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-27 17:20:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['편법논란 이익 기부 안 끝났는데'...오리온 3세 담서원, 승계자금 마련 어떻게]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270010</link>
-            <guid>https://www.bloter.net/newsView/blt202212270010</guid>
-            <pubDate>Wed, 28 Dec 2022 01:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-27 16:01:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극한 마진 싸움'...롯데, CJ제일제당·풀무원·대상과 거래중단]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270009</link>
-            <guid>https://www.bloter.net/newsView/blt202212270009</guid>
-            <pubDate>Wed, 28 Dec 2022 01:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-27 15:21:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HD현대 건설기계, 북미·신흥국서 '잭팟' 기대...'탈중국'에 속도]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270005</link>
-            <guid>https://www.bloter.net/newsView/blt202212270005</guid>
-            <pubDate>Tue, 27 Dec 2022 09:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-27 13:19:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270013.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
