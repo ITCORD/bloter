@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 09:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 10:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위믹스 3.0 추가 상장하는 지닥…54만명 투자자 손실복구 도울까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290006</link>
+            <guid>https://www.bloter.net/newsView/blt202212290006</guid>
+            <pubDate>Thu, 29 Dec 2022 10:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-29 16:00:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290012.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대상, 중국 라이신 사업 3번째 연기...사업 가능할까]]></title>
             <link>https://www.bloter.net/newsView/blt202212290004</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 29 Dec 2022 06:22:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-28 18:16:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280037.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강석훈 회장 불도저식 '산은 부산 이전'에…수험생 '복불복 진학'하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212280017</link>
-            <guid>https://www.bloter.net/newsView/blt202212280017</guid>
-            <pubDate>Thu, 29 Dec 2022 06:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-28 18:08:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280034.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
