@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 06:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 07:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["신도림만 지나면 끊기더니..." 속도만? LG유플러스, 5G·LTE 품질도 경쟁사에 완패]]></title>
+            <title><![CDATA[위믹스 3.0 추가 상장하는 지닥…54만명 투자자 손실복구 도울까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290006</link>
+            <guid>https://www.bloter.net/newsView/blt202212290006</guid>
+            <pubDate>Thu, 29 Dec 2022 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-29 16:00:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290012.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["신도림만 지나면 끊기더니..." 속도만? LG유플러스, 5G·LTE 품질 개선 노력도 미흡]]></title>
             <link>https://www.bloter.net/newsView/blt202212290005</link>
             <guid>https://www.bloter.net/newsView/blt202212290005</guid>
             <pubDate>Thu, 29 Dec 2022 06:24:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-29 14:47:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'발로란트', e스포츠 운영으로 보는 'LoL 닮은꼴']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-27 18:08:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최적의 투자 조합 찾아준다…후지쯔의 '디지털 어닐러'는 무엇?(feat.양자컴퓨터)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270017</link>
-            <guid>https://www.bloter.net/newsView/blt202212270017</guid>
-            <pubDate>Tue, 27 Dec 2022 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-27 18:06:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270038.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
