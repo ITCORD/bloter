@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 03:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 04:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'발로란트', e스포츠 운영으로 보는 'LoL 닮은꼴']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280021</link>
+            <guid>https://www.bloter.net/newsView/blt202212280021</guid>
+            <pubDate>Thu, 29 Dec 2022 04:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[라이엇 게임즈가 자사 1인칭 전술 슈팅 PC 게임 '발로란트'의 e스포츠 운영을 확대하고 있다. 아마추어(일반인)의 참여를 독려하는 데다 내년부터 국제 리그를 만드는 등 e스포츠 체제를 개편하고 있다. 10년여간 서비스한 '리그 오브 레전드'로 글로벌 e스포츠 대회를]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280041.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中, 18개월 만에 외산 게임 45종 허가…한국 게임 7개 포함]]></title>
             <link>https://www.bloter.net/newsView/blt202212290002</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Dec 2022 08:20:01 GMT</pubDate>
             <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.'그랑사가'를 서비스하고 있는 '엔픽셀'의 신작 개발이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250006.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅+] '디지털 바디랭귀지'를 분석한다, 콘텐츠스퀘어]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230021</link>
-            <guid>https://www.bloter.net/newsView/blt202212230021</guid>
-            <pubDate>Sun, 25 Dec 2022 04:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠스퀘어가 데이터 기반으로 웹·애플리케이션에서 이용자들의 더 나은 경험을 돕는다. 일명 '디지털 바디랭귀지', 즉 해당 페이지에서 이용자들이 어떤 행동을 했는지를 수치화·시각화해 인사이트를 제공한다. 이를 토대로 회사는 서비스 페이지의]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/23/blt202212230051.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
