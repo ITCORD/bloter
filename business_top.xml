@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 23:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 01:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[태광산업, 흥국생명 보유 흥국화재 지분 19.5% 취득]]></title>
-            <link>https://www.bloter.net/newsView/blt202212280011</link>
-            <guid>https://www.bloter.net/newsView/blt202212280011</guid>
-            <pubDate>Wed, 28 Dec 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-28 19:30:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280043.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[中, 18개월 만에 외산 게임 45종 허가…한국 게임 7개 포함]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290002</link>
+            <guid>https://www.bloter.net/newsView/blt202212290002</guid>
+            <pubDate>Thu, 29 Dec 2022 01:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-29 09:18:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290003.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[실적·현금흐름 악화된 태광산업, 8조 투자금 대부분 금융권서 조달]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200007</link>
-            <guid>https://www.bloter.net/newsView/blt202212200007</guid>
-            <pubDate>Wed, 28 Dec 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[중국 게임사, 한국 전통의상 저작권 침해 후 '나 몰라라']]></title>
+            <link>https://www.bloter.net/newsView/blt202109290015</link>
+            <guid>https://www.bloter.net/newsView/blt202109290015</guid>
+            <pubDate>Thu, 29 Dec 2022 01:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태광산업의 뒤늦은 투자...'지금 늦으면 영원히 뒤처진다']]></title>
-            <link>https://www.bloter.net/newsView/blt202212190005</link>
-            <guid>https://www.bloter.net/newsView/blt202212190005</guid>
-            <pubDate>Wed, 28 Dec 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['검은사막 모바일' 판호 발급…중국 게임시장 열리나]]></title>
+            <link>https://www.bloter.net/newsView/blt202106290028</link>
+            <guid>https://www.bloter.net/newsView/blt202106290028</guid>
+            <pubDate>Thu, 29 Dec 2022 01:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['어쌔신 크리드', 모바일게임 나온다…파트너사는 '텐센트']]></title>
+            <link>https://www.bloter.net/newsView/blt202102150007</link>
+            <guid>https://www.bloter.net/newsView/blt202102150007</guid>
+            <pubDate>Thu, 29 Dec 2022 01:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[텐센트, '짝퉁 트위치'로 e스포츠 사업 확대…LEC 파트너십]]></title>
+            <link>https://www.bloter.net/newsView/blt202101290015</link>
+            <guid>https://www.bloter.net/newsView/blt202101290015</guid>
+            <pubDate>Thu, 29 Dec 2022 01:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
