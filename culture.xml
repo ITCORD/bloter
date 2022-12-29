@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 08:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 09:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]K-게임 인색했던 중국, '판호 대량 발급' 속내는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290007</link>
+            <guid>https://www.bloter.net/newsView/blt202212290007</guid>
+            <pubDate>Thu, 29 Dec 2022 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[중국이 굳게 닫았던 외자판호(해외 게임에 내주는 유통 허가 권리)를 풀면서 국내 게임사에 대한 장밋빛 전망이 쏟아지고 있다. 최근 중국이 발표한 외자판호 명단에 한국 게임사의 게임이 6개나 포함되면서 향후 더 큰 규모로 확대될 것이라는 분석이다. 특히 선전&amp;]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'발로란트', e스포츠 운영으로 보는 'LoL 닮은꼴']]></title>
             <link>https://www.bloter.net/newsView/blt202212280021</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 25 Dec 2022 11:15:25 GMT</pubDate>
             <content:encoded><![CDATA[국내 패션업계에 '업사이클링(Upcycling)'에 대한 관심이 커지고 있는 가운데, 패션기업의 브랜드가 아닌 개인이 운영하는 소규모 브랜드들 또한 늘어나고 있다. 업사이클링 제품은 불용 원단을 활용한 한복이나 반려동물 물품, 액세서리, 소품 등 품목도 다양해지는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250004.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N플레이]엔픽셀 '생존기사단', 신작 혹은 타이틀 변화?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212250003</link>
-            <guid>https://www.bloter.net/newsView/blt202212250003</guid>
-            <pubDate>Sun, 25 Dec 2022 08:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.'그랑사가'를 서비스하고 있는 '엔픽셀'의 신작 개발이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
