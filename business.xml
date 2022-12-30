@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 04:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 05:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준기 DB 전 회장, DB INC 지분 4% 인수 배경은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290013</link>
+            <guid>https://www.bloter.net/newsView/blt202212290013</guid>
+            <pubDate>Fri, 30 Dec 2022 05:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-29 19:10:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290022.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포스코, 13년 연속 세계 최고 철강사…ESG 경영도 입증]]></title>
             <link>https://www.bloter.net/newsView/blt202212290010</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 29 Dec 2022 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-29 13:35:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[中, 18개월 만에 외산 게임 45종 허가…한국 게임 7개 포함]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290002</link>
-            <guid>https://www.bloter.net/newsView/blt202212290002</guid>
-            <pubDate>Thu, 29 Dec 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-29 09:18:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
