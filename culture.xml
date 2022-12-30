@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 21:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 22:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022 게임업계]①MS 빅딜부터 P2E까지…숨가빴던 임인년]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300015</link>
+            <guid>https://www.bloter.net/newsView/blt202212300015</guid>
+            <pubDate>Fri, 30 Dec 2022 22:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[다사다난했던 2022년이 저물고 계묘년(癸卯年) 새해가 코 앞으로 다가왔다. 올해는 마이크로소프트(MS)의 액티비전 블리자드(이하 블리자드) 인수 발표를 시작으로 그 어느 때보다 굵직한 이슈들이 업계를 관통했다. &lt;블로터&gt;는 2022년 게임업계에서 발생한 '빅 이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300018.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[日 무비자 여행 2개월…야놀자, 코로나19 이전 대비 482% 성장]]></title>
             <link>https://www.bloter.net/newsView/blt202212300019</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Dec 2022 09:16:36 GMT</pubDate>
             <content:encoded><![CDATA[비덴트의 방송장비사업부가 올 한해 국내외에서 가파른 성장세를 이어가고 있다. 또 코로나19 팬데믹 이후 영상 제작 인프라가 안정적으로 조성되고 있는 만큼 내년 시장 여건 전망 또한 긍정적이다.  비덴트는 올해 방송장비사업부 매출이 전년(116억 원) 대비 약 28%]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260031.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260003</link>
-            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
-            <pubDate>Mon, 26 Dec 2022 01:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크 인수 이후 논란이 끊이지 않는 트위터가 이번에는 사용자 정보를 유출한 혐의로 유럽에서 조사를 받게 됐다. 당국은 조사 결과에 따라 회사 연간 매출의 최대 4%에 달하는 벌금을 부과할 수 있다.   24일(현지시간) &lt;블룸버그통신&gt;에 따르면 아일랜드]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
