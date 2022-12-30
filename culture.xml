@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 11:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 12:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日 무비자 여행 2개월…야놀자, 코로나19 이전 대비 482% 성장]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300019</link>
+            <guid>https://www.bloter.net/newsView/blt202212300019</guid>
+            <pubDate>Fri, 30 Dec 2022 12:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[해외여행 수요 잡기에 나선 야놀자가 일본 숙소 예약에서 성과를 내고 있다. 강원도, 부산 등 국내 주요 지역에서 '워케이션(사무실이 아닌 곳에서 일하는 형태)' 캠페인을 진행했던 야놀자가 해외여행 수요 잡기에 본격적으로 나선 뒤 약 2개월 만에 받아든 성적표]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300029.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]K-게임 인색했던 중국, '판호 대량 발급' 속내는?]]></title>
             <link>https://www.bloter.net/newsView/blt202212290007</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 26 Dec 2022 01:12:54 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 인수 이후 논란이 끊이지 않는 트위터가 이번에는 사용자 정보를 유출한 혐의로 유럽에서 조사를 받게 됐다. 당국은 조사 결과에 따라 회사 연간 매출의 최대 4%에 달하는 벌금을 부과할 수 있다.   24일(현지시간) &lt;블룸버그통신&gt;에 따르면 아일랜드]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260003.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]지속되는 '업사이클링 패션' 인기…성수동에 모인 소규모 브랜드]]></title>
-            <link>https://www.bloter.net/newsView/blt202212250001</link>
-            <guid>https://www.bloter.net/newsView/blt202212250001</guid>
-            <pubDate>Sun, 25 Dec 2022 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[국내 패션업계에 '업사이클링(Upcycling)'에 대한 관심이 커지고 있는 가운데, 패션기업의 브랜드가 아닌 개인이 운영하는 소규모 브랜드들 또한 늘어나고 있다. 업사이클링 제품은 불용 원단을 활용한 한복이나 반려동물 물품, 액세서리, 소품 등 품목도 다양해지는]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/25/blt202212250004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
