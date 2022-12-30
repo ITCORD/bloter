@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 06:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 07:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]카카오에게 보상액 수천억원보다 중요한 것]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300010</link>
+            <guid>https://www.bloter.net/newsView/blt202212300010</guid>
+            <pubDate>Fri, 30 Dec 2022 07:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-30 15:41:44</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300009.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[제약업계 반발에 '호주 약가 참조' 무산됐지만…멈추지 않는 약가 인하 정책]]></title>
             <link>https://www.bloter.net/newsView/blt202212300009</link>
             <guid>https://www.bloter.net/newsView/blt202212300009</guid>
             <pubDate>Fri, 30 Dec 2022 05:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-30 13:43:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[최악의 가뭄 겪은 美 테크기업 IPO…2023년에도 지속되나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 28 Dec 2022 04:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-28 13:13:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미디어 전문가' 박란 KBCA 신임회장, 콘텐츠 사용료·광고규제 해결할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212280004</link>
-            <guid>https://www.bloter.net/newsView/blt202212280004</guid>
-            <pubDate>Wed, 28 Dec 2022 02:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-28 11:12:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
