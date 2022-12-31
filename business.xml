@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 21:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 22:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['컬리·오아시스' 상장 도전...첫 타자에 업계 가치 달렸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300011</link>
+            <guid>https://www.bloter.net/newsView/blt202212300011</guid>
+            <pubDate>Sat, 31 Dec 2022 22:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-30 14:14:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권오갑 HD그룹 회장 "변화의 시기 기술 경영·환경 경영으로 돌파"]]></title>
             <link>https://www.bloter.net/newsView/blt202212300005</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 30 Dec 2022 04:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-29 17:10:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유통 격전지 떠오른 광주...신세계, '그랜드 스타필드' 짓는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290009</link>
-            <guid>https://www.bloter.net/newsView/blt202212290009</guid>
-            <pubDate>Fri, 30 Dec 2022 01:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-29 16:48:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 21:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 22:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,14 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['컬리·오아시스' 상장 도전...첫 타자에 업계 가치 달렸다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300011</link>
+            <guid>https://www.bloter.net/newsView/blt202212300011</guid>
+            <pubDate>Fri, 30 Dec 2022 06:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-30 14:14:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[권오갑 HD그룹 회장 "변화의 시기 기술 경영·환경 경영으로 돌파" (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202212300005</link>
             <guid>https://www.bloter.net/newsView/blt202212300005</guid>
@@ -382,14 +390,6 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유통 격전지 떠오른 광주...신세계, '그랜드 스타필드' 짓는다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290009</link>
-            <guid>https://www.bloter.net/newsView/blt202212290009</guid>
-            <pubDate>Thu, 29 Dec 2022 10:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-29 16:48:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -426,12 +426,20 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[세계가 열광하는 챗GPT, 수익 창출에도 성공할 수 있을까? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300021</link>
+            <guid>https://www.bloter.net/newsView/blt202212300021</guid>
+            <pubDate>Sat, 31 Dec 2022 22:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-01 07:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300031.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212310001</link>
             <guid>https://www.bloter.net/newsView/blt202212310001</guid>
             <pubDate>Sat, 31 Dec 2022 15:13:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-31 23:18:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후변화 대응을 위한 기후기술, 2023년 트렌드는? (블로터 ─ 테크)]]></title>
@@ -560,14 +568,6 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <pubDate>Wed, 28 Dec 2022 10:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-28 18:31:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280040.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[위기 대응 2023]LG이노텍, 역대급 실적 냈지만…여전히 '애플 그늘' 속 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212280014</link>
-            <guid>https://www.bloter.net/newsView/blt202212280014</guid>
-            <pubDate>Wed, 28 Dec 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-28 18:04:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
