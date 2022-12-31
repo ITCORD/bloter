@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 04:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 05:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,14 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[권오갑 HD그룹 회장 "변화의 시기 기술 경영·환경 경영으로 돌파" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300005</link>
+            <guid>https://www.bloter.net/newsView/blt202212300005</guid>
+            <pubDate>Fri, 30 Dec 2022 04:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-30 13:16:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최악의 가뭄 겪은 美 테크기업 IPO…2023년에도 지속되나 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202212300002</link>
             <guid>https://www.bloter.net/newsView/blt202212300002</guid>
@@ -360,14 +368,6 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <pubDate>Thu, 29 Dec 2022 10:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-29 16:48:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대오일뱅크·GS칼텍스 등 정유사, '러시아 전쟁'에 돈 쓸어 담았다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290003</link>
-            <guid>https://www.bloter.net/newsView/blt202212290003</guid>
-            <pubDate>Thu, 29 Dec 2022 10:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2022-12-29 16:04:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -409,7 +409,7 @@ DB가 29일 금융감독원 전자공시시스템(DART)에 공시한 '최대주�
             <title><![CDATA[기후변화 대응을 위한 기후기술, 2023년 트렌드는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202212300020</link>
             <guid>https://www.bloter.net/newsView/blt202212300020</guid>
-            <pubDate>Sat, 31 Dec 2022 04:20:02 GMT</pubDate>
+            <pubDate>Sat, 31 Dec 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-31 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300030.620x344.0.jpg" length="0" type="image/jpg"/>
         </item>
