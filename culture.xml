@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘']]></title>
+            <link>https://www.bloter.net/newsView/blt202212310001</link>
+            <guid>https://www.bloter.net/newsView/blt202212310001</guid>
+            <pubDate>Sat, 31 Dec 2022 15:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[T1 선수들이 2022년의 마지막 날에 팬들과 만났다. 1600여명의 팬들이 한 자리에 모인 팬미팅 'T1 CON 2022(이하 T1콘)'를 통해 T1 선수들은 한 해 동안 응원해 준 팬들에게 보답하는 자리를 마련했다. 특히 이번 T1콘은 T1이 마련한 첫 대규모 팬미팅으로, 선수와 팬들에게 의]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022 게임업계]①MS 빅딜부터 P2E까지…숨가빴던 임인년]]></title>
             <link>https://www.bloter.net/newsView/blt202212300015</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Dec 2022 06:21:53 GMT</pubDate>
             <content:encoded><![CDATA[정보기술(IT) 인프라 설비업체인 '소프트센'이 게임 퍼블리싱 사업을 본격화한다. 이를 통해 소프트센은 2023년을 기점으로 게임 지적재산권(IP) 투자를 확대하고, 메타버스 사업까지 사업 영역을 확장한다는 계획이다.  27일 소프트센은 클라우드·솔루션 관리서]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270016.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비덴트, 방송장비 글로벌 성장세 지속…연 매출 150억원 전망]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260018</link>
-            <guid>https://www.bloter.net/newsView/blt202212260018</guid>
-            <pubDate>Mon, 26 Dec 2022 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[비덴트의 방송장비사업부가 올 한해 국내외에서 가파른 성장세를 이어가고 있다. 또 코로나19 팬데믹 이후 영상 제작 인프라가 안정적으로 조성되고 있는 만큼 내년 시장 여건 전망 또한 긍정적이다.  비덴트는 올해 방송장비사업부 매출이 전년(116억 원) 대비 약 28%]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
