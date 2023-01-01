@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 02:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 03:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[세계가 열광하는 챗GPT, 수익 창출에도 성공할 수 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300021</link>
-            <guid>https://www.bloter.net/newsView/blt202212300021</guid>
-            <pubDate>Sat, 31 Dec 2022 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-01 07:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300031.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA['팬데믹 2년' 일감 두둑하게 채운 조선 3사...2023년 '쨍하고 해뜬다']]></title>
+            <link>https://www.bloter.net/newsView/blt202212300008</link>
+            <guid>https://www.bloter.net/newsView/blt202212300008</guid>
+            <pubDate>Sun, 01 Jan 2023 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-01 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300024.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT 인공지능은 무엇이 다른가…'AI 풀스택' 가치에 쏠리는 눈]]></title>
-            <link>https://www.bloter.net/newsView/blt202211160020</link>
-            <guid>https://www.bloter.net/newsView/blt202211160020</guid>
-            <pubDate>Sat, 31 Dec 2022 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한화그룹을 바꾼 김승연 회장의 '프로펠러론'...세계 3위 대우조선을 움직인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212180001</link>
+            <guid>https://www.bloter.net/newsView/blt202212180001</guid>
+            <pubDate>Sun, 01 Jan 2023 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그림 그리는 AI ‘DALL·E’, 저작권 문제 없을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202207290022</link>
-            <guid>https://www.bloter.net/newsView/blt202207290022</guid>
-            <pubDate>Sat, 31 Dec 2022 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한화그룹, 대우조선 인수 본계약 체결...2009년 멈춘 시계 14년 만에 움직였다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212160013</link>
+            <guid>https://www.bloter.net/newsView/blt202212160013</guid>
+            <pubDate>Sun, 01 Jan 2023 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인공지능에 빠진 네이버, 'D2SF' 활용법]]></title>
-            <link>https://www.bloter.net/newsView/blt202206280010</link>
-            <guid>https://www.bloter.net/newsView/blt202206280010</guid>
-            <pubDate>Sat, 31 Dec 2022 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IBM 왓슨, "한글 공부 다 했어요"]]></title>
-            <link>https://www.bloter.net/newsView/blt201709060010</link>
-            <guid>https://www.bloter.net/newsView/blt201709060010</guid>
-            <pubDate>Sat, 31 Dec 2022 23:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이경은</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['슈퍼싸이클'에 불안한 한국조선해양이 꺼낸 카드...'사업형 지주사']]></title>
+            <link>https://www.bloter.net/newsView/blt202204280078</link>
+            <guid>https://www.bloter.net/newsView/blt202204280078</guid>
+            <pubDate>Sun, 01 Jan 2023 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
