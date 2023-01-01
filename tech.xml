@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 23:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020001</link>
+            <guid>https://www.bloter.net/newsView/blt202301020001</guid>
+            <pubDate>Sun, 01 Jan 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 08:05:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[사업 혁신+흑자 달성했던 드림어스컴퍼니, 1년만에 다시 적자?]]></title>
             <link>https://www.bloter.net/newsView/blt202212280013</link>
             <guid>https://www.bloter.net/newsView/blt202212280013</guid>
             <pubDate>Sun, 01 Jan 2023 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-01 17:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위기 대응 2023]삼성전기, 수익성 악화에 ‘기판·전장’으로 새판짜기]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 29 Dec 2022 07:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-29 16:00:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290012.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["신도림만 지나면 끊기더니..." 속도만? LG유플러스, 5G·LTE 품질 개선 노력도 미흡]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290005</link>
-            <guid>https://www.bloter.net/newsView/blt202212290005</guid>
-            <pubDate>Thu, 29 Dec 2022 06:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-29 14:47:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

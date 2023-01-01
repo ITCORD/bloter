@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 23:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대형마트, 새벽휴일 배송 길 열린다...'이커머스' 사정 나아질까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300016</link>
+            <guid>https://www.bloter.net/newsView/blt202212300016</guid>
+            <pubDate>Sun, 01 Jan 2023 23:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-31 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배민 게섰거라…한용구 신한은행장 "손익 안 따지고 '땡겨요' 키운다"]]></title>
             <link>https://www.bloter.net/newsView/blt202212300012</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 30 Dec 2022 06:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-30 08:11:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준기 DB 전 회장, DB INC 지분 4% 인수 배경은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290013</link>
-            <guid>https://www.bloter.net/newsView/blt202212290013</guid>
-            <pubDate>Fri, 30 Dec 2022 05:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-29 19:10:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

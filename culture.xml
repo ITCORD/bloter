@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 23:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020001</link>
+            <guid>https://www.bloter.net/newsView/blt202301020001</guid>
+            <pubDate>Sun, 01 Jan 2023 23:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 미국 본사 건물 임대료를 지불하지 않아 건물주로부터 소송을 당했다.    31일(이하 현지시간) &lt;블룸버그통신&gt;은 샌프란시스코의 트위터 본사 건물주는 지난 29일 트위터가 13만6250달러(1억7200만원)의 임대료를 내지 않았다며 샌프란시스코 법원에 소송]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘']]></title>
             <link>https://www.bloter.net/newsView/blt202212310001</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Dec 2022 09:19:07 GMT</pubDate>
             <content:encoded><![CDATA[카카오페이가 성장세를 이어가기 위해 '보상형 광고'로 소비자들을 유인한다. '쉬운 금융'을 표방하는 회사인 만큼 보상형 광고에서도 간단한 참여나 출석 체크 등으로 보상을 받고 쉽게 이용하는 경험을 이어갈 수 있는 방식을 택했다. 보상을 위해 온 이용자들은]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270008</link>
-            <guid>https://www.bloter.net/newsView/blt202212270008</guid>
-            <pubDate>Tue, 27 Dec 2022 06:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[정보기술(IT) 인프라 설비업체인 '소프트센'이 게임 퍼블리싱 사업을 본격화한다. 이를 통해 소프트센은 2023년을 기점으로 게임 지적재산권(IP) 투자를 확대하고, 메타버스 사업까지 사업 영역을 확장한다는 계획이다.  27일 소프트센은 클라우드·솔루션 관리서]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270016.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
