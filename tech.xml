@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 23:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 01:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020002</link>
+            <guid>https://www.bloter.net/newsView/blt202301020002</guid>
+            <pubDate>Mon, 02 Jan 2023 01:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
             <link>https://www.bloter.net/newsView/blt202301020001</link>
             <guid>https://www.bloter.net/newsView/blt202301020001</guid>
             <pubDate>Sun, 01 Jan 2023 23:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 08:05:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[사업 혁신+흑자 달성했던 드림어스컴퍼니, 1년만에 다시 적자?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 29 Dec 2022 08:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-29 16:49:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위믹스 3.0 추가 상장하는 지닥…54만명 투자자 손실복구 도울까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290006</link>
-            <guid>https://www.bloter.net/newsView/blt202212290006</guid>
-            <pubDate>Thu, 29 Dec 2022 07:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-29 16:00:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290012.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
