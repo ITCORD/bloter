@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 04:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 05:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한종희 삼성전자 부회장이 강조한 '신환경 경영전략'은 무엇?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020006</link>
+            <guid>https://www.bloter.net/newsView/blt202301020006</guid>
+            <pubDate>Mon, 02 Jan 2023 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-02 14:09:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
             <link>https://www.bloter.net/newsView/blt202301020002</link>
             <guid>https://www.bloter.net/newsView/blt202301020002</guid>
             <pubDate>Mon, 02 Jan 2023 01:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 29 Dec 2022 08:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-29 17:00:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]전기차 시장 ‘정조준’…체질개선 한창인 LS전선]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290008</link>
-            <guid>https://www.bloter.net/newsView/blt202212290008</guid>
-            <pubDate>Thu, 29 Dec 2022 08:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2022-12-29 16:49:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
