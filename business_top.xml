@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['올해도 쉽지 않아'...유통 공룡들, 입 모아 '위기극복' 강조]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020005</link>
-            <guid>https://www.bloter.net/newsView/blt202301020005</guid>
-            <pubDate>Mon, 02 Jan 2023 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-02 11:27:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김승연 한화 회장 "대우조선 인수...국대 책임감 필요"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020004</link>
+            <guid>https://www.bloter.net/newsView/blt202301020004</guid>
+            <pubDate>Mon, 02 Jan 2023 04:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-02 12:20:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020010.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유통 격전지 떠오른 광주...신세계, '그랜드 스타필드' 짓는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290009</link>
-            <guid>https://www.bloter.net/newsView/blt202212290009</guid>
-            <pubDate>Mon, 02 Jan 2023 02:37:34 GMT</pubDate>
+            <title><![CDATA[한화그룹을 바꾼 김승연 회장의 '프로펠러론'...세계 3위 대우조선을 움직인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212180001</link>
+            <guid>https://www.bloter.net/newsView/blt202212180001</guid>
+            <pubDate>Mon, 02 Jan 2023 04:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한화그룹 70주년…김승연 회장 "새로운 패러다임 이끌자"]]></title>
+            <link>https://www.bloter.net/newsView/blt202210110003</link>
+            <guid>https://www.bloter.net/newsView/blt202210110003</guid>
+            <pubDate>Mon, 02 Jan 2023 04:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['CJ·쿠팡·롯데' 유통가 마진 전쟁...'한 푼이라도 더']]></title>
-            <link>https://www.bloter.net/newsView/blt202212280019</link>
-            <guid>https://www.bloter.net/newsView/blt202212280019</guid>
-            <pubDate>Mon, 02 Jan 2023 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['가치 폭락했는데'...식지 않는 유통가 NFT 열풍]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190010</link>
-            <guid>https://www.bloter.net/newsView/blt202212190010</guid>
-            <pubDate>Mon, 02 Jan 2023 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[알부민 유통 비용 걱정 덜은 녹십자…콜드체인 필요 없어져]]></title>
-            <link>https://www.bloter.net/newsView/blt202212020008</link>
-            <guid>https://www.bloter.net/newsView/blt202212020008</guid>
-            <pubDate>Mon, 02 Jan 2023 02:37:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

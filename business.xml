@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020001</link>
+            <guid>https://www.bloter.net/newsView/blt202301020001</guid>
+            <pubDate>Mon, 02 Jan 2023 04:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 08:05:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA['팬데믹 2년' 일감 두둑하게 채운 조선 3사...2023년 '쨍하고 해뜬다']]></title>
             <link>https://www.bloter.net/newsView/blt202212300008</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 01 Jan 2023 03:20:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-30 15:03:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['컬리·오아시스' 상장 도전...첫 타자에 업계 가치 달렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300011</link>
-            <guid>https://www.bloter.net/newsView/blt202212300011</guid>
-            <pubDate>Sat, 31 Dec 2022 22:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-30 14:14:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
