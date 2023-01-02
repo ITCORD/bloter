@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 11:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 12:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['올해도 쉽지 않아'...유통 공룡들, 입 모아 '위기극복' 강조]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020005</link>
+            <guid>https://www.bloter.net/newsView/blt202301020005</guid>
+            <pubDate>Mon, 02 Jan 2023 12:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-02 11:27:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG그룹 화학부문 CEO 신학철·권영수 부회장 "강한 실행력으로 미래 준비해야"]]></title>
             <link>https://www.bloter.net/newsView/blt202301020003</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 02 Jan 2023 02:37:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-01 07:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300031.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화 대응을 위한 기후기술, 2023년 트렌드는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300020</link>
-            <guid>https://www.bloter.net/newsView/blt202212300020</guid>
-            <pubDate>Mon, 02 Jan 2023 01:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-31 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300030.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
