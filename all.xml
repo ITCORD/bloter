@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 09:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 10:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,12 +390,28 @@ LG그룹의 핵심 화학 계열사인 LG화학과 LG에너지솔루션의 최�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[비전2023]카카오게임즈, 'IP 확대·장르 다각화' 올인 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020015</link>
+            <guid>https://www.bloter.net/newsView/blt202301020015</guid>
+            <pubDate>Mon, 02 Jan 2023 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-02 19:16:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020027.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[감기약 사재기 제한, '제약사 매출 증가' 기대되는 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020013</link>
+            <guid>https://www.bloter.net/newsView/blt202301020013</guid>
+            <pubDate>Mon, 02 Jan 2023 10:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-02 18:38:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020023.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[비전2023]'컴투스 청사진'은 '콘텐츠'…글로벌 마켓 두드린다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301020012</link>
             <guid>https://www.bloter.net/newsView/blt202301020012</guid>
             <pubDate>Mon, 02 Jan 2023 08:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-02 17:21:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박정호 SK하이닉스 부회장의 반도체 겨울나기 키워드 ‘자동차·AI’ (블로터 ─ 테크)]]></title>
@@ -516,22 +532,6 @@ LG그룹의 핵심 화학 계열사인 LG화학과 LG에너지솔루션의 최�
             <pubDate>Fri, 30 Dec 2022 07:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2022-12-30 15:41:44</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300009.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[제약업계 반발에 '호주 약가 참조' 무산됐지만…멈추지 않는 약가 인하 정책 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300009</link>
-            <guid>https://www.bloter.net/newsView/blt202212300009</guid>
-            <pubDate>Fri, 30 Dec 2022 05:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2022-12-30 13:43:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300004.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최악의 가뭄 겪은 美 테크기업 IPO…2023년에도 지속되나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300002</link>
-            <guid>https://www.bloter.net/newsView/blt202212300002</guid>
-            <pubDate>Fri, 30 Dec 2022 01:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-30 09:25:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -774,56 +774,48 @@ LG그룹의 핵심 화학 계열사인 LG화학과 LG에너지솔루션의 최�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/05/25/blt202205250015.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[OTT오리지널]약한영웅, 시즌2 나올 수 밖에 없는 이유 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280012</link>
-            <guid>https://www.bloter.net/newsView/blt202211280012</guid>
-            <pubDate>Mon, 28 Nov 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-11-28 17:53:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280021.601x301.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더에스엠씨그룹, 퍼포먼스 마케팅 기업 '민트' 품었다 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211280005</link>
-            <guid>https://www.bloter.net/newsView/blt202211280005</guid>
-            <pubDate>Mon, 28 Nov 2022 03:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>
-                        <span class="date">2022-11-28 11:24:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/28/blt202211280006.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여기어때, 해외로]①김진성 CSO "新서비스, 2년 내 국내 넘어설 것" (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211270001</link>
-            <guid>https://www.bloter.net/newsView/blt202211270001</guid>
-            <pubDate>Sun, 27 Nov 2022 08:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-11-27 16:54:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/27/blt202211270005.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'재벌집 막내아들'은 시작?…컴투스, 콘텐츠 수혜 더 남았다 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211250013</link>
-            <guid>https://www.bloter.net/newsView/blt202211250013</guid>
-            <pubDate>Sat, 26 Nov 2022 01:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2022-11-26 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/11/25/blt202211250034.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비전2023]'컴투스 청사진'은 '콘텐츠'…글로벌 마켓 두드린다 (블로터 ─ 컬처)]]></title>
+            <title><![CDATA[[비전2023]'컴투스 청사진'은 '콘텐츠'…글로벌 마켓 두드린다 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301020012</link>
             <guid>https://www.bloter.net/newsView/blt202301020012</guid>
             <pubDate>Mon, 02 Jan 2023 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스가 'K-콘텐츠 투 글로벌'을 강조하며 콘텐츠사업의 다각화를 예고했다. 지난해 게임 및 미디어콘텐츠 사업에서 꾸준한 성과를 내며 '종합 콘텐츠 기업'을 표방해 온 컴투스는 올해 글로벌 사업에서 더 높은 성과를 거둬들일 수 있는 청사진으로 '게임'과 '메타]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.293x165.0.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2023-01-02 17:21:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.601x301.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리 (블로터 ─ 컬처)]]></title>
+            <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301020002</link>
             <guid>https://www.bloter.net/newsView/blt202301020002</guid>
             <pubDate>Mon, 02 Jan 2023 01:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)의 액티비전 블리자드(이하 블리자드) 인수에 제동을 걸기 위해 미국 연방거래위원회(FTC)가 제기한 반독점 소송에 대한 첫 재판 전 심리가 오는 3일 열린다고 1일 IT전문매체 &lt;엔가젯&gt;이 보도했다.   앞서 FTC는 지난 12월 8일 MS가 690억달러(약 87]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.293x165.0.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.282x159.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘' (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212310001</link>
+            <guid>https://www.bloter.net/newsView/blt202212310001</guid>
+            <pubDate>Sat, 31 Dec 2022 15:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-12-31 23:18:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 무비자 여행 2개월…야놀자, 코로나19 이전 대비 482% 성장 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300019</link>
+            <guid>https://www.bloter.net/newsView/blt202212300019</guid>
+            <pubDate>Fri, 30 Dec 2022 12:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>
+                        <span class="date">2022-12-30 21:20:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300029.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비전2023]카카오게임즈, 'IP 확대·장르 다각화' 올인 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020015</link>
+            <guid>https://www.bloter.net/newsView/blt202301020015</guid>
+            <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA["안팎으로 녹록치 않은 시장 환경 속 속도를 줄이고 주변을 살필 시기로, 무엇보다 가치를 끌어올리며 우리의 고객들을 만족시키는 것이 목표다. 매년 새로운 게임을 선보이며 성과를 내고 있으며, 차곡차곡 여러 프로젝트들의 서비스를 도모해 나가고 있다."조계현]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020027.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크 (블로터 ─ 컬처)]]></title>
@@ -834,28 +826,12 @@ LG그룹의 핵심 화학 계열사인 LG화학과 LG에너지솔루션의 최�
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘' (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212310001</link>
-            <guid>https://www.bloter.net/newsView/blt202212310001</guid>
-            <pubDate>Sat, 31 Dec 2022 15:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[T1 선수들이 2022년의 마지막 날에 팬들과 만났다. 1600여명의 팬들이 한 자리에 모인 팬미팅 'T1 CON 2022(이하 T1콘)'를 통해 T1 선수들은 한 해 동안 응원해 준 팬들에게 보답하는 자리를 마련했다. 특히 이번 T1콘은 T1이 마련한 첫 대규모 팬미팅으로, 선수와 팬들에게 의]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 게임업계]①MS 빅딜부터 P2E까지…숨가빴던 임인년 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202212300015</link>
             <guid>https://www.bloter.net/newsView/blt202212300015</guid>
             <pubDate>Fri, 30 Dec 2022 22:15:08 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2022년이 저물고 계묘년(癸卯年) 새해가 코 앞으로 다가왔다. 올해는 마이크로소프트(MS)의 액티비전 블리자드(이하 블리자드) 인수 발표를 시작으로 그 어느 때보다 굵직한 이슈들이 업계를 관통했다. &lt;블로터&gt;는 2022년 게임업계에서 발생한 '빅 이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 무비자 여행 2개월…야놀자, 코로나19 이전 대비 482% 성장 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300019</link>
-            <guid>https://www.bloter.net/newsView/blt202212300019</guid>
-            <pubDate>Fri, 30 Dec 2022 12:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[해외여행 수요 잡기에 나선 야놀자가 일본 숙소 예약에서 성과를 내고 있다. 강원도, 부산 등 국내 주요 지역에서 '워케이션(사무실이 아닌 곳에서 일하는 형태)' 캠페인을 진행했던 야놀자가 해외여행 수요 잡기에 본격적으로 나선 뒤 약 2개월 만에 받아든 성적표]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]K-게임 인색했던 중국, '판호 대량 발급' 속내는? (블로터 ─ 컬처)]]></title>
@@ -904,6 +880,30 @@ LG그룹의 핵심 화학 계열사인 LG화학과 LG에너지솔루션의 최�
             <pubDate>Wed, 28 Dec 2022 07:14:26 GMT</pubDate>
             <content:encoded><![CDATA['롱코비드'와 '갓생' 트렌드를 통해 성장한 '챌린저스'가 최근 마케팅 채널로도 인기를 끌고 있다. 건강 브랜드는 물론 지자체나 정부부처의 시민 참여형 이벤트들이 많은 주목을 받은 것으로 알려졌다. 28일 건강습관 형성 플랫폼 챌린저스는 2022년 한 해 동안 사용]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280007.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이제는 체리슈머]②보상형 광고, '짠테크' 열풍에 성장궤도 올랐다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270003</link>
+            <guid>https://www.bloter.net/newsView/blt202212270003</guid>
+            <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 보상형 광고가 절약을 통한 '짠테크' 열풍에 부상하고 있다. 보상형 광고의 인지도가 높아지면서 유의미한 이용자들이 늘었고, 이에 보상형 광고를 찾는 브랜드들도 다양화되고 있다. 오퍼월(무료 충전소) 사업자 등 기존 보상형 광고 플랫폼 또한 유기적으]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260008</link>
+            <guid>https://www.bloter.net/newsView/blt202212260008</guid>
+            <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[카카오페이가 성장세를 이어가기 위해 '보상형 광고'로 소비자들을 유인한다. '쉬운 금융'을 표방하는 회사인 만큼 보상형 광고에서도 간단한 참여나 출석 체크 등으로 보상을 받고 쉽게 이용하는 경험을 이어갈 수 있는 방식을 택했다. 보상을 위해 온 이용자들은]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270008</link>
+            <guid>https://www.bloter.net/newsView/blt202212270008</guid>
+            <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[정보기술(IT) 인프라 설비업체인 '소프트센'이 게임 퍼블리싱 사업을 본격화한다. 이를 통해 소프트센은 2023년을 기점으로 게임 지적재산권(IP) 투자를 확대하고, 메타버스 사업까지 사업 영역을 확장한다는 계획이다.  27일 소프트센은 클라우드·솔루션 관리서]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270016.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]K-게임 인색했던 중국, '판호 대량 발급' 속내는? (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
