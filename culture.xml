@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 08:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비전2023]'컴투스 청사진'은 '콘텐츠'…글로벌 마켓 두드린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020012</link>
+            <guid>https://www.bloter.net/newsView/blt202301020012</guid>
+            <pubDate>Mon, 02 Jan 2023 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[컴투스가 'K-콘텐츠 투 글로벌'을 강조하며 콘텐츠사업의 다각화를 예고했다. 지난해 게임 및 미디어콘텐츠 사업에서 꾸준한 성과를 내며 '종합 콘텐츠 기업'을 표방해 온 컴투스는 올해 글로벌 사업에서 더 높은 성과를 거둬들일 수 있는 청사진으로 '게임'과 '메타]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
             <link>https://www.bloter.net/newsView/blt202301020002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Dec 2022 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA['롱코비드'와 '갓생' 트렌드를 통해 성장한 '챌린저스'가 최근 마케팅 채널로도 인기를 끌고 있다. 건강 브랜드는 물론 지자체나 정부부처의 시민 참여형 이벤트들이 많은 주목을 받은 것으로 알려졌다. 28일 건강습관 형성 플랫폼 챌린저스는 2022년 한 해 동안 사용]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280007.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이제는 체리슈머]②보상형 광고, '짠테크' 열풍에 성장궤도 올랐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270003</link>
-            <guid>https://www.bloter.net/newsView/blt202212270003</guid>
-            <pubDate>Wed, 28 Dec 2022 02:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[기업의 보상형 광고가 절약을 통한 '짠테크' 열풍에 부상하고 있다. 보상형 광고의 인지도가 높아지면서 유의미한 이용자들이 늘었고, 이에 보상형 광고를 찾는 브랜드들도 다양화되고 있다. 오퍼월(무료 충전소) 사업자 등 기존 보상형 광고 플랫폼 또한 유기적으]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

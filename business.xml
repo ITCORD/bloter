@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 08:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG그룹 화학부문 CEO 신학철·권영수 부회장 "강한 실행력으로 미래 준비해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020003</link>
+            <guid>https://www.bloter.net/newsView/blt202301020003</guid>
+            <pubDate>Mon, 02 Jan 2023 08:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-02 11:09:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020002</link>
+            <guid>https://www.bloter.net/newsView/blt202301020002</guid>
+            <pubDate>Mon, 02 Jan 2023 08:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
             <link>https://www.bloter.net/newsView/blt202301020001</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 02 Jan 2023 01:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-31 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대형마트, 새벽휴일 배송 길 열린다...'이커머스' 사정 나아질까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300016</link>
-            <guid>https://www.bloter.net/newsView/blt202212300016</guid>
-            <pubDate>Sun, 01 Jan 2023 23:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2022-12-31 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배민 게섰거라…한용구 신한은행장 "손익 안 따지고 '땡겨요' 키운다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300012</link>
-            <guid>https://www.bloter.net/newsView/blt202212300012</guid>
-            <pubDate>Sun, 01 Jan 2023 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2022-12-30 15:03:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
