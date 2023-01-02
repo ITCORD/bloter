@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 05:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 06:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHN이 신년 메시지서 '수익성 강화' 강조한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020008</link>
+            <guid>https://www.bloter.net/newsView/blt202301020008</guid>
+            <pubDate>Mon, 02 Jan 2023 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-02 15:07:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한종희 삼성전자 부회장이 강조한 '신환경 경영전략'은 무엇?]]></title>
             <link>https://www.bloter.net/newsView/blt202301020006</link>
             <guid>https://www.bloter.net/newsView/blt202301020006</guid>
             <pubDate>Mon, 02 Jan 2023 05:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-02 14:09:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 29 Dec 2022 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2022-12-29 17:36:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290021.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]K-게임 인색했던 중국, '판호 대량 발급' 속내는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290007</link>
-            <guid>https://www.bloter.net/newsView/blt202212290007</guid>
-            <pubDate>Thu, 29 Dec 2022 08:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-29 17:00:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
