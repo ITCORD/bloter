@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 08:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비전2023]'컴투스 청사진'은 '콘텐츠'…글로벌 마켓 두드린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020012</link>
+            <guid>https://www.bloter.net/newsView/blt202301020012</guid>
+            <pubDate>Mon, 02 Jan 2023 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-02 17:21:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박정호 SK하이닉스 부회장의 반도체 겨울나기 키워드 ‘자동차·AI’]]></title>
             <link>https://www.bloter.net/newsView/blt202301020009</link>
             <guid>https://www.bloter.net/newsView/blt202301020009</guid>
             <pubDate>Mon, 02 Jan 2023 07:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-02 15:51:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NHN이 신년 메시지서 '수익성 강화' 강조한 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 30 Dec 2022 01:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-30 09:25:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 中 아이폰 생산공장 가동 70% 회복…코로나19 최대 변수 되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300001</link>
-            <guid>https://www.bloter.net/newsView/blt202212300001</guid>
-            <pubDate>Thu, 29 Dec 2022 23:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-30 08:11:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
