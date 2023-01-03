@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 23:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 01:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전지3사 CEO의 2023년 경영 목표...LG는 '소프트웨어', 삼성·SK는 "질적 성장"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020010</link>
+            <guid>https://www.bloter.net/newsView/blt202301020010</guid>
+            <pubDate>Tue, 03 Jan 2023 01:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-02 17:17:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생수사업 넘긴 동원시스템즈...배터리 소재 집중하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020011</link>
+            <guid>https://www.bloter.net/newsView/blt202301020011</guid>
+            <pubDate>Tue, 03 Jan 2023 01:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-02 16:39:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020016.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김승연 한화 회장 "대우조선 인수...국대 책임감 필요"]]></title>
             <link>https://www.bloter.net/newsView/blt202301020004</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 02 Jan 2023 08:20:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020001</link>
-            <guid>https://www.bloter.net/newsView/blt202301020001</guid>
-            <pubDate>Mon, 02 Jan 2023 04:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 08:05:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA['팬데믹 2년' 일감 두둑하게 채운 조선 3사...2023년 '쨍하고 해뜬다']]></title>
-            <link>https://www.bloter.net/newsView/blt202212300008</link>
-            <guid>https://www.bloter.net/newsView/blt202212300008</guid>
-            <pubDate>Mon, 02 Jan 2023 02:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-01 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300024.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

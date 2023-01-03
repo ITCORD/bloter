@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 23:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 01:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美하원 중국특별위원장 내정자 "틱톡은 마약…미국 내 사용 금지해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301030002</link>
+            <guid>https://www.bloter.net/newsView/blt202301030002</guid>
+            <pubDate>Tue, 03 Jan 2023 01:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[올해 신설되는 미국 하원 중국특별위원회 위원장 내정자가 중국의 숏폼 동영상 공유 플랫폼 틱톡에 대해 중국이 미국인들에게 배포한 중독성 높은 디지털 마약이라며 미국 내 사용을 금지해야 한다고 주장했다.   2일(이하 현지시간) &lt;씨엔엔(CNN)&gt;에 따르면 마이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[비전2023]카카오게임즈, 'IP 확대·장르 다각화' 올인]]></title>
             <link>https://www.bloter.net/newsView/blt202301020015</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
             <content:encoded><![CDATA[카카오페이가 성장세를 이어가기 위해 '보상형 광고'로 소비자들을 유인한다. '쉬운 금융'을 표방하는 회사인 만큼 보상형 광고에서도 간단한 참여나 출석 체크 등으로 보상을 받고 쉽게 이용하는 경험을 이어갈 수 있는 방식을 택했다. 보상을 위해 온 이용자들은]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT인프라 기업 '소프트센', 게임사업 노크…미래 성장동력 삼는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270008</link>
-            <guid>https://www.bloter.net/newsView/blt202212270008</guid>
-            <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[정보기술(IT) 인프라 설비업체인 '소프트센'이 게임 퍼블리싱 사업을 본격화한다. 이를 통해 소프트센은 2023년을 기점으로 게임 지적재산권(IP) 투자를 확대하고, 메타버스 사업까지 사업 영역을 확장한다는 계획이다.  27일 소프트센은 클라우드·솔루션 관리서]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270016.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
