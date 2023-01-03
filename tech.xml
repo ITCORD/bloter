@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 05:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 06:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반도체 대기업 세액공제 최대 25%…숨돌린 삼성·SK하이닉스]]></title>
+            <link>https://www.bloter.net/newsView/blt202301030008</link>
+            <guid>https://www.bloter.net/newsView/blt202301030008</guid>
+            <pubDate>Tue, 03 Jan 2023 06:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-03 15:04:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030010.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기 대응 2023]LG유플러스가 웹 3.0에 꽂힌 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202301030006</link>
+            <guid>https://www.bloter.net/newsView/blt202301030006</guid>
+            <pubDate>Tue, 03 Jan 2023 06:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-03 14:19:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030006.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT 부·울·경 '인터넷 접속 이상' 원인은 DNS 스위치…26분만에 정상화]]></title>
             <link>https://www.bloter.net/newsView/blt202301030004</link>
             <guid>https://www.bloter.net/newsView/blt202301030004</guid>
             <pubDate>Tue, 03 Jan 2023 02:35:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-03 11:08:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美하원 중국특별위원장 내정자 "틱톡은 마약…미국 내 사용 금지해야"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 31 Dec 2022 15:15:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-31 23:18:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후변화 대응을 위한 기후기술, 2023년 트렌드는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300020</link>
-            <guid>https://www.bloter.net/newsView/blt202212300020</guid>
-            <pubDate>Sat, 31 Dec 2022 04:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2022-12-31 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 게임업계]①MS 빅딜부터 P2E까지…숨가빴던 임인년]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300015</link>
-            <guid>https://www.bloter.net/newsView/blt202212300015</guid>
-            <pubDate>Fri, 30 Dec 2022 22:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2022-12-31 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
