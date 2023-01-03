@@ -4,9 +4,26 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 07:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]어떤 '증오'는 '그리움'을 닮는다…'더 글로리']]></title>
+            <link>https://www.bloter.net/newsView/blt202301030010</link>
+            <guid>https://www.bloter.net/newsView/blt202301030010</guid>
+            <pubDate>Tue, 03 Jan 2023 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030017.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비전2023]치열한 경쟁 속 NHN데이터의 생존 방정식, '뭉쳐야 산다']]></title>
+            <link>https://www.bloter.net/newsView/blt202301030009</link>
+            <guid>https://www.bloter.net/newsView/blt202301030009</guid>
+            <pubDate>Tue, 03 Jan 2023 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>
+                        <span class="date">2023-01-03 15:52:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030014.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비전2023]'컴투스 청사진'은 '콘텐츠'…글로벌 마켓 두드린다]]></title>
             <link>https://www.bloter.net/newsView/blt202301020012</link>
@@ -14,7 +31,7 @@
             <pubDate>Mon, 02 Jan 2023 10:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>
                         <span class="date">2023-01-02 17:21:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.601x301.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
@@ -24,24 +41,6 @@
             <content:encoded><![CDATA[<span class="writer">최경미</span>
                         <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.282x159.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘']]></title>
-            <link>https://www.bloter.net/newsView/blt202212310001</link>
-            <guid>https://www.bloter.net/newsView/blt202212310001</guid>
-            <pubDate>Mon, 02 Jan 2023 10:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-12-31 23:18:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.282x159.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 무비자 여행 2개월…야놀자, 코로나19 이전 대비 482% 성장]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300019</link>
-            <guid>https://www.bloter.net/newsView/blt202212300019</guid>
-            <pubDate>Mon, 02 Jan 2023 10:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>
-                        <span class="date">2022-12-30 21:20:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300029.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
