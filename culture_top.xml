@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 08:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,8 @@
             <link>https://www.bloter.net/newsView/blt202301030010</link>
             <guid>https://www.bloter.net/newsView/blt202301030010</guid>
             <pubDate>Tue, 03 Jan 2023 08:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2023-01-03 16:54:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030017.601x301.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -34,13 +35,13 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020002</link>
-            <guid>https://www.bloter.net/newsView/blt202301020002</guid>
-            <pubDate>Mon, 02 Jan 2023 10:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>
-                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.282x159.0.png" length="0" type="image/png"/>
+            <title><![CDATA[[비전2023]카카오게임즈, 'IP 확대·장르 다각화' 올인]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020015</link>
+            <guid>https://www.bloter.net/newsView/blt202301020015</guid>
+            <pubDate>Tue, 03 Jan 2023 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>
+                        <span class="date">2023-01-02 19:16:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020027.282x159.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
