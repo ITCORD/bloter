@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 06:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 07:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비전2023]치열한 경쟁 속 NHN데이터의 생존 방정식, '뭉쳐야 산다']]></title>
+            <link>https://www.bloter.net/newsView/blt202301030009</link>
+            <guid>https://www.bloter.net/newsView/blt202301030009</guid>
+            <pubDate>Tue, 03 Jan 2023 07:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-03 15:52:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030014.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반도체 대기업 세액공제 최대 25%…숨돌린 삼성·SK하이닉스]]></title>
             <link>https://www.bloter.net/newsView/blt202301030008</link>
             <guid>https://www.bloter.net/newsView/blt202301030008</guid>
             <pubDate>Tue, 03 Jan 2023 06:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-03 15:04:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[위기 대응 2023]LG유플러스가 웹 3.0에 꽂힌 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 31 Dec 2022 22:15:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-01 07:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300031.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]T1, 팬들과 만나다…선수단·1600팬 하나된 'T1콘']]></title>
-            <link>https://www.bloter.net/newsView/blt202212310001</link>
-            <guid>https://www.bloter.net/newsView/blt202212310001</guid>
-            <pubDate>Sat, 31 Dec 2022 15:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2022-12-31 23:18:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/31/blt202212310044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

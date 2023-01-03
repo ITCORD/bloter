@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 06:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 07:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비전2023]치열한 경쟁 속 NHN데이터의 생존 방정식, '뭉쳐야 산다']]></title>
+            <link>https://www.bloter.net/newsView/blt202301030009</link>
+            <guid>https://www.bloter.net/newsView/blt202301030009</guid>
+            <pubDate>Tue, 03 Jan 2023 07:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[NHN데이터가 '그로스 오리엔티드 마케팅 사이언스(Growth Oriented Marketing Science)'를 2023년 핵심 가치로 내세웠다. 이는 고객이 원하는 맞춤형 인사이트와 실행 전략을 제시하는 것을 중심으로 한 방향성이다. 이에 따라 NHN데이터는 각 플랫폼별로 파편화된 국내 이커머스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美하원 중국특별위원장 내정자 "틱톡은 마약…미국 내 사용 금지해야"]]></title>
             <link>https://www.bloter.net/newsView/blt202301030002</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
             <content:encoded><![CDATA[기업의 보상형 광고가 절약을 통한 '짠테크' 열풍에 부상하고 있다. 보상형 광고의 인지도가 높아지면서 유의미한 이용자들이 늘었고, 이에 보상형 광고를 찾는 브랜드들도 다양화되고 있다. 오퍼월(무료 충전소) 사업자 등 기존 보상형 광고 플랫폼 또한 유기적으]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/27/blt202212270006.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이제는 체리슈머]①카카오페이, 성장 묘안은 '보상형 광고'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260008</link>
-            <guid>https://www.bloter.net/newsView/blt202212260008</guid>
-            <pubDate>Mon, 02 Jan 2023 10:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[카카오페이가 성장세를 이어가기 위해 '보상형 광고'로 소비자들을 유인한다. '쉬운 금융'을 표방하는 회사인 만큼 보상형 광고에서도 간단한 참여나 출석 체크 등으로 보상을 받고 쉽게 이용하는 경험을 이어갈 수 있는 방식을 택했다. 보상을 위해 온 이용자들은]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/26/blt202212260014.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
