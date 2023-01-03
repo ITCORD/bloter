@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 11:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 12:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혹한기 상장 나선 '오브젠'…마테크가 뭐길래?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301030015</link>
+            <guid>https://www.bloter.net/newsView/blt202301030015</guid>
+            <pubDate>Tue, 03 Jan 2023 12:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[경기 침체기에 접어들며 많은 회사들이 기업공개(IPO)를 미루고 있는 상황에 기술성장특례로 정면돌파에 나선 회사가 있다. 일명 데이터와 기술을 합쳐 마케팅에 도움을 주는 '마테크(MarTech)' 회사인 '오브젠'이다. 애드테크가 지고 마테크가 뜨는 가운데, 네이버클라]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030031.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비전2023]'경쟁력 확보' 당부한 방준혁…넷마블 '위기 탈출' 시그널은?]]></title>
             <link>https://www.bloter.net/newsView/blt202301030014</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 28 Dec 2022 08:20:15 GMT</pubDate>
             <content:encoded><![CDATA[서드파티 데이터(3rd party data)의 종말이 다가오고 있다. 빅테크 실적이 확연히 떨어지는 것을 볼 때, 그 충격은 당분간 지속될 것으로 보인다. 이에 업계는 각자도생을 준비하고 있다. 광고 지면을 늘리며 지위를 공고히 하려는 플랫폼사, 확보한 고객을 충성 고객으]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]음원부터 웹소설까지…'2022 콘텐츠 트렌드'는 '역주행']]></title>
-            <link>https://www.bloter.net/newsView/blt202212280010</link>
-            <guid>https://www.bloter.net/newsView/blt202212280010</guid>
-            <pubDate>Wed, 28 Dec 2022 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA["저기 사라진 별의 자리 아스라이 하얀 빛 한동안은 꺼내 볼 수 있을 거야. 아낌없이 반짝인 시간은 조금씩 옅어져 가더라도 너와 내 맘에 살아 숨 쉴 테니"  이는 가수 윤하의 노래 '사건의 지평선' 중 일부분이다. 사건의 지평선은 지난 3월 발매 당시에는 큰 화제를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
