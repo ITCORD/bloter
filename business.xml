@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 04:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 05:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 경제 위기…최태원 회장이 손자병법서 희망 찾은 사연]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020014</link>
+            <guid>https://www.bloter.net/newsView/blt202301020014</guid>
+            <pubDate>Tue, 03 Jan 2023 05:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-02 18:34:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020025.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전지3사 CEO의 2023년 경영 목표...LG는 '소프트웨어', 삼성·SK는 "질적 성장"]]></title>
             <link>https://www.bloter.net/newsView/blt202301020010</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 02 Jan 2023 08:20:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-02 11:09:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 블리자드 인수 제동에 美 FTC와 법정 공방 예고…3일 재판 전 심리]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020002</link>
-            <guid>https://www.bloter.net/newsView/blt202301020002</guid>
-            <pubDate>Mon, 02 Jan 2023 08:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
