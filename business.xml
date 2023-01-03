@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 22:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美하원 중국특별위원장 내정자 "틱톡은 마약…미국 내 사용 금지해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301030002</link>
+            <guid>https://www.bloter.net/newsView/blt202301030002</guid>
+            <pubDate>Tue, 03 Jan 2023 23:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-03 09:22:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[테슬라, 2022년 전기차 131만대 인도…시장 전망치 하회]]></title>
             <link>https://www.bloter.net/newsView/blt202301030001</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 03 Jan 2023 01:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-02 16:39:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020016.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김승연 한화 회장 "대우조선 인수...국대 책임감 필요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020004</link>
-            <guid>https://www.bloter.net/newsView/blt202301020004</guid>
-            <pubDate>Mon, 02 Jan 2023 22:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-02 12:20:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

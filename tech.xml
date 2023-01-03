@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 22:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 23:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 새해 첫 거래일에 시총 2조달러 붕괴]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040001</link>
+            <guid>https://www.bloter.net/newsView/blt202301040001</guid>
+            <pubDate>Tue, 03 Jan 2023 23:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-04 07:58:14</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혹한기 상장 나선 '오브젠'…마테크가 뭐길래?]]></title>
             <link>https://www.bloter.net/newsView/blt202301030015</link>
             <guid>https://www.bloter.net/newsView/blt202301030015</guid>
             <pubDate>Tue, 03 Jan 2023 12:29:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-03 20:35:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비전2023]'경쟁력 확보' 당부한 방준혁…넷마블 '위기 탈출' 시그널은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 02 Jan 2023 01:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 09:07:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020001</link>
-            <guid>https://www.bloter.net/newsView/blt202301020001</guid>
-            <pubDate>Sun, 01 Jan 2023 23:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-02 08:05:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
