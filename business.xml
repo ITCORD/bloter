@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 04:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 05:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온라인에서 관심 최하위권인 '인터넷은행' 토스뱅크, 왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040006</link>
+            <guid>https://www.bloter.net/newsView/blt202301040006</guid>
+            <pubDate>Wed, 04 Jan 2023 05:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-04 10:26:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태광산업 조진환·정철현 대표 "올해는 신사업 투자 원년"]]></title>
             <link>https://www.bloter.net/newsView/blt202301040003</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 04 Jan 2023 02:40:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-03 16:42:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존리 뿐이랴…메리츠금융 '도덕적 해이'에 제재만 쌓이네]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030005</link>
-            <guid>https://www.bloter.net/newsView/blt202301030005</guid>
-            <pubDate>Wed, 04 Jan 2023 01:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-03 13:35:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 04:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 05:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CES 23 라이브]‘압도적 화질’…미리보는 삼성의 새로운 스크린 시대는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040011</link>
+            <guid>https://www.bloter.net/newsView/blt202301040011</guid>
+            <pubDate>Wed, 04 Jan 2023 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-04 13:24:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출시 100일 '라그나로크 아레나', 보스 경쟁전 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202301040008</link>
             <guid>https://www.bloter.net/newsView/blt202301040008</guid>
             <pubDate>Wed, 04 Jan 2023 02:40:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-04 11:36:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040007.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040007.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HK이노엔, 백신 설비투자 ‘물실호기’…투자하면 세금 감면]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 02 Jan 2023 09:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-02 17:21:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020019.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박정호 SK하이닉스 부회장의 반도체 겨울나기 키워드 ‘자동차·AI’]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020009</link>
-            <guid>https://www.bloter.net/newsView/blt202301020009</guid>
-            <pubDate>Mon, 02 Jan 2023 07:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-02 15:51:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/02/blt202301020015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
