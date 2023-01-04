@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 06:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['팀 페이커' vs '팀 데프트' 격돌…시즌 개막 특별전 열린다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040014</link>
+            <guid>https://www.bloter.net/newsView/blt202301040014</guid>
+            <pubDate>Wed, 04 Jan 2023 06:21:24 GMT</pubDate>
+            <content:encoded><![CDATA['페이커' 이상혁과 '데프트' 김혁규가 '리그 오브 레전드(LoL)' 특별전에서 맞붙는다.4일 라이엇게임즈에 따르면 LoL e스포츠 시작을 알리는 '시즌 개막 특별전'이 오는 10일 오후 6시부터 11일까지 전 세계 9개 지역에서 순차 진행된다.  특별전의 스타트는 LCK(한국 리그)]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출시 100일 '라그나로크 아레나', 보스 경쟁전 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202301040008</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 29 Dec 2022 04:25:46 GMT</pubDate>
             <content:encoded><![CDATA[라이엇 게임즈가 자사 1인칭 전술 슈팅 PC 게임 '발로란트'의 e스포츠 운영을 확대하고 있다. 아마추어(일반인)의 참여를 독려하는 데다 내년부터 국제 리그를 만드는 등 e스포츠 체제를 개편하고 있다. 10년여간 서비스한 '리그 오브 레전드'로 글로벌 e스포츠 대회를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280041.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[中, 18개월 만에 외산 게임 45종 허가…한국 게임 7개 포함]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290002</link>
-            <guid>https://www.bloter.net/newsView/blt202212290002</guid>
-            <pubDate>Thu, 29 Dec 2022 01:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[중국 규제 당국이 1년 6개월 만에 외산 게임 45개에 대한 외자판호(중국 내 해외 게임 라이선스)를 발급했다. 이번 게임 판호 발급 대상에는 한국 게임 7개도 포함된 것으로 알려졌다.   28일(현지시간) &lt;로이터통신&gt;에 따르면 중국국가신문출판국이 허가한 외산 게]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
