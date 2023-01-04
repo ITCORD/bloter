@@ -4,44 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 23:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 01:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[애플, 새해 첫 거래일에 시총 2조달러 붕괴]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040001</link>
-            <guid>https://www.bloter.net/newsView/blt202301040001</guid>
-            <pubDate>Tue, 03 Jan 2023 23:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-04 07:58:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040001.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[엔비디아·폭스콘, 자율주행차 개발 위해 협력]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040004</link>
+            <guid>https://www.bloter.net/newsView/blt202301040004</guid>
+            <pubDate>Wed, 04 Jan 2023 01:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-04 09:06:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040002.570x320.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[애플, 中 아이폰 생산공장 가동 70% 회복…코로나19 최대 변수 되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300001</link>
-            <guid>https://www.bloter.net/newsView/blt202212300001</guid>
-            <pubDate>Tue, 03 Jan 2023 23:15:07 GMT</pubDate>
+            <title><![CDATA[사우디 국부펀드, 대만 폭스콘과 전기차 합작회사 설립]]></title>
+            <link>https://www.bloter.net/newsView/blt202211040004</link>
+            <guid>https://www.bloter.net/newsView/blt202211040004</guid>
+            <pubDate>Wed, 04 Jan 2023 01:10:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, 탈중국 본격화하나…"이르면 내년 베트남서 맥북 생산"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210001</link>
-            <guid>https://www.bloter.net/newsView/blt202212210001</guid>
-            <pubDate>Tue, 03 Jan 2023 23:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[엔비디아-Arm '48조 딜' 무산...소프트뱅크, Arm 상장 준비할 듯]]></title>
+            <link>https://www.bloter.net/newsView/blt202202080180</link>
+            <guid>https://www.bloter.net/newsView/blt202202080180</guid>
+            <pubDate>Wed, 04 Jan 2023 01:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, 유럽에서 앱스토어 외 '제3의 앱마켓' 허용하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202212140001</link>
-            <guid>https://www.bloter.net/newsView/blt202212140001</guid>
-            <pubDate>Tue, 03 Jan 2023 23:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘트럭운전사 부족현상’…엔비디아 “자율주행으로 해결”]]></title>
+            <link>https://www.bloter.net/newsView/blt202201050001</link>
+            <guid>https://www.bloter.net/newsView/blt202201050001</guid>
+            <pubDate>Wed, 04 Jan 2023 01:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, ‘탈중국’ 속도 낸다…인도·베트남 생산 확대]]></title>
-            <link>https://www.bloter.net/newsView/blt202212050002</link>
-            <guid>https://www.bloter.net/newsView/blt202212050002</guid>
-            <pubDate>Tue, 03 Jan 2023 23:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[아이폰 조립업체 폭스콘이 만드는 '전기차' 외관은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202110180011</link>
+            <guid>https://www.bloter.net/newsView/blt202110180011</guid>
+            <pubDate>Wed, 04 Jan 2023 01:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
