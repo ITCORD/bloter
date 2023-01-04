@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 03:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 04:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[삼성중공업, '해상 원전' 만든다...ABS 기본 인증 획득]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040007</link>
-            <guid>https://www.bloter.net/newsView/blt202301040007</guid>
-            <pubDate>Wed, 04 Jan 2023 02:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-04 11:09:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040006.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문동권 체제 신한카드 첫 상품, 삼성카드보다 더 깎아준다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040010</link>
+            <guid>https://www.bloter.net/newsView/blt202301040010</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-04 12:44:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040012.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['흑자 전환' 절박한 삼성중공업, 삼성전자 평택공장 누적 수주액 1조 육박]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260007</link>
-            <guid>https://www.bloter.net/newsView/blt202212260007</guid>
-            <pubDate>Wed, 04 Jan 2023 02:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG카드 통합 15주년 신한카드 "독보적 플랫폼 기업 되겠다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202209300016</link>
+            <guid>https://www.bloter.net/newsView/blt202209300016</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 삼성중공업 유상증자에 1710억원 출자]]></title>
-            <link>https://www.bloter.net/newsView/blt202110280023</link>
-            <guid>https://www.bloter.net/newsView/blt202110280023</guid>
-            <pubDate>Wed, 04 Jan 2023 02:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[삼성카드, 테슬라 타고 '성장주' 될 수 있을까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202209010020</link>
+            <guid>https://www.bloter.net/newsView/blt202209010020</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최대 30% 할인 '티머니 신한카드'…알뜰교통카드 부럽지가 않어]]></title>
+            <link>https://www.bloter.net/newsView/blt202206270005</link>
+            <guid>https://www.bloter.net/newsView/blt202206270005</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[배민 현대카드? 나는 ‘땡겨요 신한카드!’…형보다 나은 신상카드는]]></title>
+            <link>https://www.bloter.net/newsView/blt202203080086</link>
+            <guid>https://www.bloter.net/newsView/blt202203080086</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
