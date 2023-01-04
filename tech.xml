@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 22:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 23:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[B.플패뷰]에이피알 뷰티 R&D센터, 글로벌 판로 단축할 '에이스' 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040026</link>
+            <guid>https://www.bloter.net/newsView/blt202301040026</guid>
+            <pubDate>Wed, 04 Jan 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-05 08:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타, 유럽서 또 과징금…맞춤형 광고 관련 5000억원 부과]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050001</link>
+            <guid>https://www.bloter.net/newsView/blt202301050001</guid>
+            <pubDate>Wed, 04 Jan 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-05 07:58:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['가전 강자' LG전자는 '로봇·전기차 충전' 기업으로 거듭날 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202301040024</link>
             <guid>https://www.bloter.net/newsView/blt202301040024</guid>
             <pubDate>Wed, 04 Jan 2023 22:16:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-05 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040036.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]카카오 외화벌이 담당 '그라운드엑스', 130억원도 안 아깝네]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 03 Jan 2023 08:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-03 16:54:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비전2023]치열한 경쟁 속 NHN데이터의 생존 방정식, '뭉쳐야 산다']]></title>
-            <link>https://www.bloter.net/newsView/blt202301030009</link>
-            <guid>https://www.bloter.net/newsView/blt202301030009</guid>
-            <pubDate>Tue, 03 Jan 2023 07:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-03 15:52:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 대기업 세액공제 최대 25%…숨돌린 삼성·SK하이닉스]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030008</link>
-            <guid>https://www.bloter.net/newsView/blt202301030008</guid>
-            <pubDate>Tue, 03 Jan 2023 06:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-03 15:04:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030010.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

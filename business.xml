@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 22:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 23:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문동권 체제 신한카드 첫 상품, 삼성카드보다 더 깎아준다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040010</link>
+            <guid>https://www.bloter.net/newsView/blt202301040010</guid>
+            <pubDate>Wed, 04 Jan 2023 23:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-04 12:44:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040012.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['상투 경고' 적중시킨 이창용 한국은행 총재의 2023년 경제전망은?]]></title>
             <link>https://www.bloter.net/newsView/blt202301040009</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 04 Jan 2023 04:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-04 09:06:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 새해 첫 거래일에 시총 2조달러 붕괴]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040001</link>
-            <guid>https://www.bloter.net/newsView/blt202301040001</guid>
-            <pubDate>Wed, 04 Jan 2023 02:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-04 07:58:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
