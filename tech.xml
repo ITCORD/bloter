@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 09:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 10:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비전2023]'데드사이드클럽' 등급분류 완료…반전 노리는 '데브시스터즈']]></title>
+            <link>https://www.bloter.net/newsView/blt202301040023</link>
+            <guid>https://www.bloter.net/newsView/blt202301040023</guid>
+            <pubDate>Wed, 04 Jan 2023 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-04 18:34:06</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CES 23 라이브]냄새나는 VR 수술, 수중 온실이 주목받은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040017</link>
+            <guid>https://www.bloter.net/newsView/blt202301040017</guid>
+            <pubDate>Wed, 04 Jan 2023 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-04 18:19:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040028.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["시작이 반, 취미 시작해요"…클래스101, 첫 구독 '천 원' 프로모션 진행]]></title>
             <link>https://www.bloter.net/newsView/blt202301040016</link>
             <guid>https://www.bloter.net/newsView/blt202301040016</guid>
             <pubDate>Wed, 04 Jan 2023 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-04 16:28:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040024.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자, 효자사업 전장 ‘자신감’…마그나와 자율주행도 협력]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 03 Jan 2023 02:35:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-03 11:08:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美하원 중국특별위원장 내정자 "틱톡은 마약…미국 내 사용 금지해야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030002</link>
-            <guid>https://www.bloter.net/newsView/blt202301030002</guid>
-            <pubDate>Tue, 03 Jan 2023 01:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-03 09:22:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 2022년 전기차 131만대 인도…시장 전망치 하회]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030001</link>
-            <guid>https://www.bloter.net/newsView/blt202301030001</guid>
-            <pubDate>Tue, 03 Jan 2023 01:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-03 08:22:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
