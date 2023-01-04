@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 11:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 12:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,12 +375,20 @@ LG디스플레이는 수주형 사업 확대를 위해 중소형 OLED와 차량�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[공시분석]카카오 외화벌이 담당 '그라운드엑스', 130억원도 안 아깝네 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040027</link>
+            <guid>https://www.bloter.net/newsView/blt202301040027</guid>
+            <pubDate>Wed, 04 Jan 2023 12:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-04 21:28:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[비전2023]'데드사이드클럽' 등급분류 완료…반전 노리는 '데브시스터즈' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301040023</link>
             <guid>https://www.bloter.net/newsView/blt202301040023</guid>
             <pubDate>Wed, 04 Jan 2023 10:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-04 18:34:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040031.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 23 라이브]냄새나는 VR 수술, 수중 온실이 주목받은 이유 (블로터 ─ 테크)]]></title>
@@ -509,14 +517,6 @@ LG디스플레이는 수주형 사업 확대를 위해 중소형 OLED와 차량�
             <pubDate>Tue, 03 Jan 2023 06:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-03 14:19:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 부·울·경 '인터넷 접속 이상' 원인은 DNS 스위치…26분만에 정상화 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030004</link>
-            <guid>https://www.bloter.net/newsView/blt202301030004</guid>
-            <pubDate>Tue, 03 Jan 2023 02:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-03 11:08:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -795,6 +795,14 @@ LG디스플레이는 수주형 사업 확대를 위해 중소형 OLED와 차량�
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030025.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[공시분석]카카오 외화벌이 담당 '그라운드엑스', 130억원도 안 아깝네 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040027</link>
+            <guid>https://www.bloter.net/newsView/blt202301040027</guid>
+            <pubDate>Wed, 04 Jan 2023 12:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 그라운드엑스가 130억원의 추가 자금을 투입해 클레이튼 생태계 확장에 박차를 가할 것으로 예상됩니다.  이는 그라운드엑스가 4일 공시한 '유상증자결정' 공시에서 확인할 수 있었는데요. 그라운드엑스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040044.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[출시 100일 '라그나로크 아레나', 보스 경쟁전 도입 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301040008</link>
             <guid>https://www.bloter.net/newsView/blt202301040008</guid>
@@ -881,14 +889,6 @@ LG디스플레이는 수주형 사업 확대를 위해 중소형 OLED와 차량�
             <pubDate>Fri, 30 Dec 2022 22:15:08 GMT</pubDate>
             <content:encoded><![CDATA[다사다난했던 2022년이 저물고 계묘년(癸卯年) 새해가 코 앞으로 다가왔다. 올해는 마이크로소프트(MS)의 액티비전 블리자드(이하 블리자드) 인수 발표를 시작으로 그 어느 때보다 굵직한 이슈들이 업계를 관통했다. &lt;블로터&gt;는 2022년 게임업계에서 발생한 '빅 이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300018.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日 무비자 여행 2개월…야놀자, 코로나19 이전 대비 482% 성장 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300019</link>
-            <guid>https://www.bloter.net/newsView/blt202212300019</guid>
-            <pubDate>Fri, 30 Dec 2022 12:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[해외여행 수요 잡기에 나선 야놀자가 일본 숙소 예약에서 성과를 내고 있다. 강원도, 부산 등 국내 주요 지역에서 '워케이션(사무실이 아닌 곳에서 일하는 형태)' 캠페인을 진행했던 야놀자가 해외여행 수요 잡기에 본격적으로 나선 뒤 약 2개월 만에 받아든 성적표]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/30/blt202212300029.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]K-게임 인색했던 중국, '판호 대량 발급' 속내는? (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
