@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 01:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 02:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출시 100일 '라그나로크 아레나', 보스 경쟁전 도입]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040008</link>
+            <guid>https://www.bloter.net/newsView/blt202301040008</guid>
+            <pubDate>Wed, 04 Jan 2023 02:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[그라비티가 모바일 SRPG '라그나로크 아레나'의 론칭 100일 기념 업데이트를 기념해 새로운 보스 경쟁전을 추가했다. 이를 통해 그라비티는 라그나로크 아레나 유저들의 게임 유입률을 높이는 한편 기존 플레이어들의 경쟁 요소를 자극할 계획이다.  4일 그라비티에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040007.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[혹한기 상장 나선 '오브젠'…마테크가 뭐길래?]]></title>
             <link>https://www.bloter.net/newsView/blt202301030015</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 29 Dec 2022 01:19:31 GMT</pubDate>
             <content:encoded><![CDATA[중국 규제 당국이 1년 6개월 만에 외산 게임 45개에 대한 외자판호(중국 내 해외 게임 라이선스)를 발급했다. 이번 게임 판호 발급 대상에는 한국 게임 7개도 포함된 것으로 알려졌다.   28일(현지시간) &lt;로이터통신&gt;에 따르면 중국국가신문출판국이 허가한 외산 게]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/29/blt202212290003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 디지털마케팅 연말결산]슬슬 실감되는 '쿠키리스시대']]></title>
-            <link>https://www.bloter.net/newsView/blt202212280015</link>
-            <guid>https://www.bloter.net/newsView/blt202212280015</guid>
-            <pubDate>Wed, 28 Dec 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[서드파티 데이터(3rd party data)의 종말이 다가오고 있다. 빅테크 실적이 확연히 떨어지는 것을 볼 때, 그 충격은 당분간 지속될 것으로 보인다. 이에 업계는 각자도생을 준비하고 있다. 광고 지면을 늘리며 지위를 공고히 하려는 플랫폼사, 확보한 고객을 충성 고객으]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280024.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
