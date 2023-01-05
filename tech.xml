@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 07:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 08:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨어스토리지가 랜섬웨어 공격 당한 기업 데이터를 수시간만에 복구하는 법]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050009</link>
+            <guid>https://www.bloter.net/newsView/blt202301050009</guid>
+            <pubDate>Thu, 05 Jan 2023 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-05 17:18:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050029.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 23 라이브]집에선 애플과도 '한 몸'…확 달라질 삼성의 '초(超)연결' 스마트홈]]></title>
             <link>https://www.bloter.net/newsView/blt202301050010</link>
             <guid>https://www.bloter.net/newsView/blt202301050010</guid>
             <pubDate>Thu, 05 Jan 2023 07:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-05 15:36:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 23 라이브]'무선의 미학' 과시한 LG전자 올레드 10주년 TV]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 04 Jan 2023 01:11:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-04 09:30:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030027.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[엔비디아·폭스콘, 자율주행차 개발 위해 협력]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040004</link>
-            <guid>https://www.bloter.net/newsView/blt202301040004</guid>
-            <pubDate>Wed, 04 Jan 2023 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-04 09:06:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040002.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
