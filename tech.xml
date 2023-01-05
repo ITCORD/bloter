@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 22:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 23:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[테슬라 12월 중국산 전기차 판매 부진…5개월만에 최저]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060001</link>
+            <guid>https://www.bloter.net/newsView/blt202301060001</guid>
+            <pubDate>Thu, 05 Jan 2023 23:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-06 08:12:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060001.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]'IPO 혹한기' 속 '상장 잠정 연기'…샌즈랩은 다르다?]]></title>
             <link>https://www.bloter.net/newsView/blt202301050015</link>
             <guid>https://www.bloter.net/newsView/blt202301050015</guid>
             <pubDate>Thu, 05 Jan 2023 11:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-05 19:59:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050043.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050043.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LGD, 2023년엔 반등할까…중소형 OLED 수익성 ‘관건’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 04 Jan 2023 06:19:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-04 15:07:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 23 라이브]‘압도적 화질’…미리보는 삼성의 새로운 스크린 시대는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040011</link>
-            <guid>https://www.bloter.net/newsView/blt202301040011</guid>
-            <pubDate>Wed, 04 Jan 2023 05:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-04 13:24:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
