@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 01:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'우마무스메' 열기 이을까…카카오게임즈, '에버소울' 출격]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050005</link>
+            <guid>https://www.bloter.net/newsView/blt202301050005</guid>
+            <pubDate>Thu, 05 Jan 2023 02:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-05 11:20:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050004.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美, 공급망 불안과 가격 인상에 신차 판매 11년 만에 최저]]></title>
             <link>https://www.bloter.net/newsView/blt202301050002</link>
             <guid>https://www.bloter.net/newsView/blt202301050002</guid>
             <pubDate>Thu, 05 Jan 2023 01:12:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-05 09:14:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일동제약 '조코바' 정식 품목 허가 신청…남은 허들은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 03 Jan 2023 12:29:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-03 20:35:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비전2023]'경쟁력 확보' 당부한 방준혁…넷마블 '위기 탈출' 시그널은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030014</link>
-            <guid>https://www.bloter.net/newsView/blt202301030014</guid>
-            <pubDate>Tue, 03 Jan 2023 11:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-03 19:53:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
