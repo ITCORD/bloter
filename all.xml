@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 08:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 09:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -251,7 +251,7 @@ LG전자는 이번 협력으로 전장 3대 핵심 사업인 인포테인먼트 
             <title><![CDATA[콧대높은 금융사가 스타트업 '핀다'와 상생관계 맺는 이유는? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301050012</link>
             <guid>https://www.bloter.net/newsView/blt202301050012</guid>
-            <pubDate>Thu, 05 Jan 2023 08:20:07 GMT</pubDate>
+            <pubDate>Thu, 05 Jan 2023 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-05 17:15:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050035.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -368,12 +368,20 @@ LG전자는 이번 협력으로 전장 3대 핵심 사업인 인포테인먼트 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[LGD, 2023년도 어렵다…중소형 OLED 수익성 ‘관건’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050013</link>
+            <guid>https://www.bloter.net/newsView/blt202301050013</guid>
+            <pubDate>Thu, 05 Jan 2023 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-05 17:50:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050036.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[퓨어스토리지가 랜섬웨어 공격 당한 기업 데이터를 수시간만에 복구하는 법 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301050009</link>
             <guid>https://www.bloter.net/newsView/blt202301050009</guid>
-            <pubDate>Thu, 05 Jan 2023 08:20:30 GMT</pubDate>
+            <pubDate>Thu, 05 Jan 2023 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-05 17:18:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050029.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050029.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 23 라이브]집에선 애플과도 '한 몸'…확 달라질 삼성의 '초(超)연결' 스마트홈 (블로터 ─ 테크)]]></title>
@@ -502,14 +510,6 @@ LG전자는 이번 협력으로 전장 3대 핵심 사업인 인포테인먼트 
             <pubDate>Wed, 04 Jan 2023 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-04 11:36:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040007.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HK이노엔, 백신 설비투자 ‘물실호기’…투자하면 세금 감면 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030013</link>
-            <guid>https://www.bloter.net/newsView/blt202301030013</guid>
-            <pubDate>Wed, 04 Jan 2023 01:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-04 09:30:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/03/blt202301030027.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
