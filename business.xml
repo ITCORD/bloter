@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이석용 NH농협은행장 '뼈' 있는 취임사…"투자업, NH투증과 협업해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040022</link>
+            <guid>https://www.bloter.net/newsView/blt202301040022</guid>
+            <pubDate>Thu, 05 Jan 2023 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-04 18:04:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털화 앞서나가는 HJ중공업, 4270억 대형공사 따내...새해 '수주 낭보']]></title>
             <link>https://www.bloter.net/newsView/blt202301040012</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 04 Jan 2023 09:15:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-04 11:09:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온라인에서 관심 최하위권인 '인터넷은행' 토스뱅크, 왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040006</link>
-            <guid>https://www.bloter.net/newsView/blt202301040006</guid>
-            <pubDate>Wed, 04 Jan 2023 05:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-04 10:26:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
