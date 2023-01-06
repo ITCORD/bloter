@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 08:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자 '가전·TV'의 눈물…연매출 80조원 돌파했지만 영업익 후퇴]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060019</link>
+            <guid>https://www.bloter.net/newsView/blt202301060019</guid>
+            <pubDate>Fri, 06 Jan 2023 09:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-06 18:16:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060028.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피리부는 강아지, 지난해 산책·기부·편의성 다 잡았다]]></title>
             <link>https://www.bloter.net/newsView/blt202301050007</link>
             <guid>https://www.bloter.net/newsView/blt202301050007</guid>
             <pubDate>Fri, 06 Jan 2023 08:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-06 16:37:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]식약처, 제테마 중국 임상 발목 잡을 가능성은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 04 Jan 2023 23:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-05 08:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 유럽서 또 과징금…맞춤형 광고 관련 5000억원 부과]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050001</link>
-            <guid>https://www.bloter.net/newsView/blt202301050001</guid>
-            <pubDate>Wed, 04 Jan 2023 23:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-05 07:58:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050001.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
