@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 10:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 11:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -410,18 +410,26 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넘버스]네이버는 왜 '엔라이튼'에게 재생에너지를 받아 쓸까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060017</link>
+            <guid>https://www.bloter.net/newsView/blt202301060017</guid>
+            <pubDate>Fri, 06 Jan 2023 11:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-01-06 20:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060037.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[CES 23 라이브]게임은 메타버스라 부를 수 없게 만든 롯데정보통신 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060015</link>
             <guid>https://www.bloter.net/newsView/blt202301060015</guid>
-            <pubDate>Fri, 06 Jan 2023 10:16:26 GMT</pubDate>
+            <pubDate>Fri, 06 Jan 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-06 19:09:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'쿠로미'로 추진력?…넷마블, '머지 쿵야' 저력 보여줄까 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060022</link>
             <guid>https://www.bloter.net/newsView/blt202301060022</guid>
-            <pubDate>Fri, 06 Jan 2023 10:16:26 GMT</pubDate>
+            <pubDate>Fri, 06 Jan 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-06 18:51:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -429,7 +437,7 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <title><![CDATA[[현장+]마테크 기업 '오브젠', 중견기업 타깃한 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060018</link>
             <guid>https://www.bloter.net/newsView/blt202301060018</guid>
-            <pubDate>Fri, 06 Jan 2023 10:16:26 GMT</pubDate>
+            <pubDate>Fri, 06 Jan 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-06 18:30:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -544,14 +552,6 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <pubDate>Thu, 05 Jan 2023 06:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-05 14:30:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'우마무스메' 열기 이을까…카카오게임즈, '에버소울' 출격 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050005</link>
-            <guid>https://www.bloter.net/newsView/blt202301050005</guid>
-            <pubDate>Thu, 05 Jan 2023 02:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-05 11:20:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -797,7 +797,7 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <title><![CDATA[[오~컬쳐]'쿠로미'로 추진력?…넷마블, '머지 쿵야' 저력 보여줄까 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060022</link>
             <guid>https://www.bloter.net/newsView/blt202301060022</guid>
-            <pubDate>Fri, 06 Jan 2023 10:16:52 GMT</pubDate>
+            <pubDate>Fri, 06 Jan 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>
                         <span class="date">2023-01-06 18:51:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060045.601x301.0.jpg" length="0" type="image/jpg"/>
@@ -806,7 +806,7 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <title><![CDATA[[현장+]마테크 기업 '오브젠', 중견기업 타깃한 이유 (블로터 ─ 컬처 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060018</link>
             <guid>https://www.bloter.net/newsView/blt202301060018</guid>
-            <pubDate>Fri, 06 Jan 2023 10:16:52 GMT</pubDate>
+            <pubDate>Fri, 06 Jan 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>
                         <span class="date">2023-01-06 18:30:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060033.282x159.0.jpg" length="0" type="image/jpg"/>
@@ -929,7 +929,7 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <title><![CDATA[[오~컬쳐]'쿠로미'로 추진력?…넷마블, '머지 쿵야' 저력 보여줄까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060022</link>
             <guid>https://www.bloter.net/newsView/blt202301060022</guid>
-            <pubDate>Fri, 06 Jan 2023 10:17:13 GMT</pubDate>
+            <pubDate>Fri, 06 Jan 2023 10:15:44 GMT</pubDate>
             <content:encoded><![CDATA[넷마블이 '머지 쿵야 아일랜드'의 첫 콜라보레이션(이하 콜라보) 브랜드로 '산리오'를 선택했다. 자체 IP인 '쿵야' 캐릭터의 활용도를 최대한 높여 서비스를 이끌어 나가겠다는 넷마블의 자구책으로 풀이된다.  '작은 게임도 맵다'…대형 게임 속 인기 넷마블은 6일 머지 쿵야 아일랜드에 '산리오코리아' 콜라보 업데이트를 진행했다. 이번 업데이트는 지난해 12월 8일 시작한 1차 콜라보에 이어 두 번째다. 1차 콜라보에서 산리오 캐릭터 '헬로티', '시나모롤', '폼폼푸린' 인형이 추가된 데 이어 2차에서는 '마이멜로디'와 '쿠로미' 인형이 신규 캐릭터로 등장했다.   또 2차 콜라보에서는 건물 자원인 '마이멜로디 마카롱 가게', '쿠로미 까눌레 가게' 등이 추가됐다. 1차 콜라보 때와 같이 섬을 꾸밀 수 있는 장식과 타일도 '마이멜로디'와 '쿠로미' 콘셉트로 제작됐다. 산리오 캐릭터는 국내 기업들에게는 콜라보 단골 손님으로 꼽힌다. 그만큼 산리오의 캐릭터 인지가 높아 탄탄한 마니아층을 보유하고 있는데, '번개장터', '콜리' 등 굿즈를 사고 파는 플랫폼에서도 산리오 캐릭터 상품을 쉽게 찾을 수 있을 정도다. 실제로 지난 6개월 간 산리오는 △롯데칠성음료 델몬트 굿즈 △롯데시네마 △텐바이텐 △생활용품 브랜드 등 유통업계와 브랜드 협업을 이어갔다. 넷마블의 산리오 콜라보 차별점은 '쿵야'를 활용한다는 점이다. 단순히 산리오 캐릭터를 제품(게임)에 얹는 데 그치지 않고 캐릭터를 3개 이상 합치면 다음 단계 캐릭터로 성장하는 '머지 쿵야'의 특성을 활용한 것이 특징이다. 머지 쿵야에서는 '룽'을 시작으로 이후 5~6단계로 쿵야가 성장하는데 산리오 캐릭터인 시나모롤, 폼폼푸린, 마이멜로디, 쿠로미 역시 각각 5단계로 업그레이드할 수 있다. 유저는 이를 통해 각 캐릭터당 총 6개의 버전으로 그려진 산리오 쿵야를 즐길 수 있다. 머지 쿵야 아일랜드는 지난해 대한민국게임대상에서 본상인 우수상을 깜짝 수상하며 저력을 발휘한 바 있어 이번 산리오 콜라보레이션을 통해 다수의 복귀, 신규 이용자들도 기대할 수 있을 것으로 보인다.  그래서 '만렙' 업데이트는 언제? 다만 머지 쿵야 아일랜드의 인기만큼 이용자들의 불만도 이어지고 있다. 만렙(최고 레벨) 업데이트 지연에 따른 불만 사항이 잇따르고 있는 것이다. 이용자들은 게임 속도에 비해 업데이트 속도가 현저히 느리다며 레벨 업데이트를 요구하고 있다. 현재 머지 쿵야 아일랜드의 최고 레벨은 200레벨로, 지난 5일 진행한 업데이트에서도 레벨 업데이트는 포함되지 않았다. 자칫 머지 쿵야 아일랜드 이용자들은 소외감을 느낄 수 있는 부분이다.   일부 이용자들은 "최고 레벨 업데이트가 계속 연기되면 서비스 종료까지 생각하게 된다"며 "앞서 모아둔 보상 정리를 위해서라도 레벨 업데이트에 대한 입장을 달라"고 요구하고 있다.  일각에서는 넷마블의 대형 게임 속 머지 쿵야 아일랜드가 겪을 수밖에 없는 규모의 문제라는 시선도 있다. 넷마블 게임의 매출 성과에서도 규모 차이는 드러난다. 넷마블에 따르면 지난해 3분기 넷마블의 주요 게임별 매출 비중은 △마블 콘테스트 오브 챔피언스 △캐시프렌지 △제2의나라: 크로스월드 △잭팟월드 △랏차 슬롯 △일곱개의 대죄: 그랜드 크로스 순이다. 기존 게임 외 지난해 인수한 스핀엑스의 게임(매시프렌지, 랏차 슬롯)도 다수 포함됐지만 힐링 캐주얼 게임인 머지 쿵야 아일랜드는 기타 항목에 포함된 게임에 그쳤다. 머지 쿵야 아일랜드의 개발사 넷마블엔투는 '모두의 마블: 메타월드', '하이프스쿼드', '신의 탑: 새로운 세계', 'RF프로젝트'를 등 신작 개발에 분주한 상황으로 이용자들의 불안감은 커지고 있다. 이에 넷마블 관계자는 5일 업데이트 전 &lt;블로터&gt;에 "업데이트 내용에 대해 협의 중"이라며 "아직 최고 레벨 업데이트에 대한 결정이 나지는 않았다"고 전했다. 다만 넷마블이 머지 쿵야 아일랜드에 첫 콜라보레이션을 진행하며 서비스를 업데이트하고 있는 만큼, 최고 레벨 업데이트 역시 기대할 만하다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060045.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
