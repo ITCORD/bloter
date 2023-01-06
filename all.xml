@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 03:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 04:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -420,12 +420,20 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['반도체 혹한' 속 빛바랜 삼성전자의 사상 첫 연매출 300조원 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060008</link>
+            <guid>https://www.bloter.net/newsView/blt202301060008</guid>
+            <pubDate>Fri, 06 Jan 2023 04:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-06 13:02:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060010.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]넷플릭스·카카오엔터 맞손…韓 좀비 예능 나온다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301060006</link>
             <guid>https://www.bloter.net/newsView/blt202301060006</guid>
             <pubDate>Fri, 06 Jan 2023 02:43:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-06 11:39:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버, 포시마크에 '스마트렌즈·라이브커머스' 먼저 적용하는 이유 (블로터 ─ 테크)]]></title>
@@ -554,14 +562,6 @@ CES 2023 삼성전자 부스 전경. (사진=삼성전자)]]></content:encoded>
             <pubDate>Wed, 04 Jan 2023 12:28:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-04 21:28:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비전2023]'데드사이드클럽' 등급분류 완료…반전 노리는 '데브시스터즈' (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040023</link>
-            <guid>https://www.bloter.net/newsView/blt202301040023</guid>
-            <pubDate>Wed, 04 Jan 2023 10:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-04 18:34:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
