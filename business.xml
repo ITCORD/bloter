@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 23:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 01:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 힘싣는 롯데...핵심은 VR기기 보급]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050003</link>
+            <guid>https://www.bloter.net/newsView/blt202301050003</guid>
+            <pubDate>Fri, 06 Jan 2023 01:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-05 09:52:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美, 공급망 불안과 가격 인상에 신차 판매 11년 만에 최저]]></title>
             <link>https://www.bloter.net/newsView/blt202301050002</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 05 Jan 2023 01:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-04 14:02:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문동권 체제 신한카드 첫 상품, 삼성카드보다 더 깎아준다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040010</link>
-            <guid>https://www.bloter.net/newsView/blt202301040010</guid>
-            <pubDate>Wed, 04 Jan 2023 23:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-04 12:44:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040012.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
