@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 07:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 08:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피리부는 강아지, 지난해 산책·기부·편의성 다 잡았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050007</link>
+            <guid>https://www.bloter.net/newsView/blt202301050007</guid>
+            <pubDate>Fri, 06 Jan 2023 08:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-06 16:37:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]식약처, 제테마 중국 임상 발목 잡을 가능성은?]]></title>
             <link>https://www.bloter.net/newsView/blt202301060010</link>
             <guid>https://www.bloter.net/newsView/blt202301060010</guid>
             <pubDate>Fri, 06 Jan 2023 07:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-06 16:04:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060015.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060015.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['반도체 혹한' 속 빛바랜 삼성전자의 사상 첫 연매출 300조원]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 04 Jan 2023 23:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-05 07:58:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['가전 강자' LG전자는 '로봇·전기차 충전' 기업으로 거듭날 수 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040024</link>
-            <guid>https://www.bloter.net/newsView/blt202301040024</guid>
-            <pubDate>Wed, 04 Jan 2023 22:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-05 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040036.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
