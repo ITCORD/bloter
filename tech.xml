@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 14:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 15:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[블로터언팩]‘삶의 질이 달라졌다’…LG전자, 로봇청소기 R9·M9]]></title>
+            <link>https://www.bloter.net/newsView/blt202301070010</link>
+            <guid>https://www.bloter.net/newsView/blt202301070010</guid>
+            <pubDate>Sat, 07 Jan 2023 15:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-07 23:14:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CES 23 라이브]VR 게임·댄스 캡처·위성 조작까지...지루할 틈 없는 '소니']]></title>
             <link>https://www.bloter.net/newsView/blt202301070008</link>
             <guid>https://www.bloter.net/newsView/blt202301070008</guid>
             <pubDate>Sat, 07 Jan 2023 06:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-07 14:54:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CES 23 라이브]"무릉도원 다녀오셨어요?" 관람객 활력 충전소 '바디프랜드']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 05 Jan 2023 23:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-06 08:12:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060001.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]'IPO 혹한기' 속 '상장 잠정 연기'…샌즈랩은 다르다?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050015</link>
-            <guid>https://www.bloter.net/newsView/blt202301050015</guid>
-            <pubDate>Thu, 05 Jan 2023 11:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-05 19:59:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050043.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
