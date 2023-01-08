@@ -4,36 +4,43 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 06:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 07:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
-            <link>https://www.bloter.net/newsView/blt202301080001</link>
-            <guid>https://www.bloter.net/newsView/blt202301080001</guid>
-            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-08 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/08/blt202301080001.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[급성장하는 전기차 시장, 2023년 기대되는 변화는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060025</link>
+            <guid>https://www.bloter.net/newsView/blt202301060025</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-08 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060053.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김승연 한화 회장 "대우조선 인수...국대 책임감 필요"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020004</link>
-            <guid>https://www.bloter.net/newsView/blt202301020004</guid>
-            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라 12월 중국산 전기차 판매 부진…5개월만에 최저]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060001</link>
+            <guid>https://www.bloter.net/newsView/blt202301060001</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['팬데믹 2년' 일감 두둑하게 채운 조선 3사...2023년 '쨍하고 해뜬다']]></title>
-            <link>https://www.bloter.net/newsView/blt202212300008</link>
-            <guid>https://www.bloter.net/newsView/blt202212300008</guid>
-            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[전기차 시장 ‘정조준’…체질개선 한창인 LS전선]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290008</link>
+            <guid>https://www.bloter.net/newsView/blt202212290008</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한화그룹을 바꾼 김승연 회장의 '프로펠러론'...세계 3위 대우조선을 움직인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212180001</link>
-            <guid>https://www.bloter.net/newsView/blt202212180001</guid>
-            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
+            <title><![CDATA[‘전기차 충전’ 사업 힘주는 LG전자…내년 수익성 확보할까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212020012</link>
+            <guid>https://www.bloter.net/newsView/blt202212020012</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현대차그룹·SK온, 美 전기차 시장 공략 위해 손잡았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290015</link>
+            <guid>https://www.bloter.net/newsView/blt202211290015</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>

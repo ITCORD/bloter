@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 06:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 07:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외부 인재' 적극 영입하는 포스코그룹...이차전지연구소장에 LG화학 출신 홍영준 전무]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060013</link>
+            <guid>https://www.bloter.net/newsView/blt202301060013</guid>
+            <pubDate>Sun, 08 Jan 2023 07:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-06 18:01:18</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[납품가 갈등 피곤한 식품사들...‘자사몰’ 키우는 게 답?]]></title>
             <link>https://www.bloter.net/newsView/blt202301060011</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 06 Jan 2023 07:14:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-05 17:15:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050035.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신동빈 회장, ‘주가 관리’ 지시했는데…무거워진 각사 CEO 어깨]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050008</link>
-            <guid>https://www.bloter.net/newsView/blt202301050008</guid>
-            <pubDate>Fri, 06 Jan 2023 05:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-05 15:35:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
