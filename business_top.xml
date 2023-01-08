@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 06:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[PB가격 올린 이마트…수익성 개선 총력]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060007</link>
-            <guid>https://www.bloter.net/newsView/blt202301060007</guid>
-            <pubDate>Sun, 08 Jan 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-08 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060008.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
+            <link>https://www.bloter.net/newsView/blt202301080001</link>
+            <guid>https://www.bloter.net/newsView/blt202301080001</guid>
+            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-08 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/08/blt202301080001.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이마트24, 백조되기 위한 미운오리의 발버둥]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260017</link>
-            <guid>https://www.bloter.net/newsView/blt202212260017</guid>
-            <pubDate>Sun, 08 Jan 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[김승연 한화 회장 "대우조선 인수...국대 책임감 필요"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301020004</link>
+            <guid>https://www.bloter.net/newsView/blt202301020004</guid>
+            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['살아나는 호텔업'...조선호텔 적자 탈출 반가운 이마트]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230010</link>
-            <guid>https://www.bloter.net/newsView/blt202212230010</guid>
-            <pubDate>Sun, 08 Jan 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['팬데믹 2년' 일감 두둑하게 채운 조선 3사...2023년 '쨍하고 해뜬다']]></title>
+            <link>https://www.bloter.net/newsView/blt202212300008</link>
+            <guid>https://www.bloter.net/newsView/blt202212300008</guid>
+            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘희망퇴직’ 롯데하이마트, 인건비 줄이고 광고∙판촉비 늘리고]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130009</link>
-            <guid>https://www.bloter.net/newsView/blt202212130009</guid>
-            <pubDate>Sun, 08 Jan 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘유통 1번지 바뀌나’…쿠팡∙이마트, 서로 다른 ‘1000억’의 의미]]></title>
-            <link>https://www.bloter.net/newsView/blt202211100012</link>
-            <guid>https://www.bloter.net/newsView/blt202211100012</guid>
-            <pubDate>Sun, 08 Jan 2023 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[한화그룹을 바꾼 김승연 회장의 '프로펠러론'...세계 3위 대우조선을 움직인다]]></title>
+            <link>https://www.bloter.net/newsView/blt202212180001</link>
+            <guid>https://www.bloter.net/newsView/blt202212180001</guid>
+            <pubDate>Sun, 08 Jan 2023 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
