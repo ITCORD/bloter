@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 02:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 03:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대오일뱅크, 역대 최대 과징금 처분...2021년부터 ESG 경영 '이상 징후' 다수 발견]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060005</link>
+            <guid>https://www.bloter.net/newsView/blt202301060005</guid>
+            <pubDate>Sun, 08 Jan 2023 03:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-06 13:30:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캘리포니아 ‘급여투명법’ 시행으로 빅테크 연봉 공개]]></title>
             <link>https://www.bloter.net/newsView/blt202301060002</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 06 Jan 2023 01:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-05 09:52:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 공급망 불안과 가격 인상에 신차 판매 11년 만에 최저]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050002</link>
-            <guid>https://www.bloter.net/newsView/blt202301050002</guid>
-            <pubDate>Thu, 05 Jan 2023 23:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-05 09:14:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
