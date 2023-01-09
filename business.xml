@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 07:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 08:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기아, 영업직 명칭 '오토컨설턴트'로 개편]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060004</link>
+            <guid>https://www.bloter.net/newsView/blt202301060004</guid>
+            <pubDate>Mon, 09 Jan 2023 08:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">블로터</span>                        <span class="date">2023-01-09 12:46:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["트위터, 콘텐츠 감시 담당 인력 추가 해고"]]></title>
             <link>https://www.bloter.net/newsView/blt202301090002</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 09 Jan 2023 01:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-08 15:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/08/blt202301080001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[PB가격 올린 이마트…수익성 개선 총력]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060007</link>
-            <guid>https://www.bloter.net/newsView/blt202301060007</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-08 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
