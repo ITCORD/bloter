@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 04:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보안 이슈 제기된 '슬랙'...세일즈포스와 '시너지' 의문]]></title>
+            <link>https://www.bloter.net/newsView/blt202301070001</link>
+            <guid>https://www.bloter.net/newsView/blt202301070001</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-08 18:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[급성장하는 전기차 시장, 2023년 기대되는 변화는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060025</link>
+            <guid>https://www.bloter.net/newsView/blt202301060025</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-08 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060053.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
             <link>https://www.bloter.net/newsView/blt202301080001</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 08 Jan 2023 07:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-06 18:01:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[납품가 갈등 피곤한 식품사들...‘자사몰’ 키우는 게 답?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060011</link>
-            <guid>https://www.bloter.net/newsView/blt202301060011</guid>
-            <pubDate>Sun, 08 Jan 2023 06:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-06 16:02:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060017.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대오일뱅크, 역대 최대 과징금 처분...2021년부터 ESG 경영 '이상 징후' 다수 발견]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060005</link>
-            <guid>https://www.bloter.net/newsView/blt202301060005</guid>
-            <pubDate>Sun, 08 Jan 2023 03:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-06 13:30:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

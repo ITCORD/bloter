@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 04:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["트위터, 콘텐츠 감시 담당 인력 추가 해고"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301090002</link>
-            <guid>https://www.bloter.net/newsView/blt202301090002</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-09 09:14:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090002.570x320.0.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[LG화학 석화 부문, 65개 분기 만에 적자 유력...고유가에 '봄날'은 갔나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090004</link>
+            <guid>https://www.bloter.net/newsView/blt202301090004</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-09 13:04:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090004.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트위터, 임대료 미납해 소송 당해…고강도 비용 절감 나선 머스크]]></title>
-            <link>https://www.bloter.net/newsView/blt202301020001</link>
-            <guid>https://www.bloter.net/newsView/blt202301020001</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['외부 인재' 적극 영입하는 포스코그룹...이차전지연구소장에 LG화학 출신 홍영준 전무]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060013</link>
+            <guid>https://www.bloter.net/newsView/blt202301060013</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EU 당국, 540만명 개인정보 유출 혐의로 트위터 조사 착수]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260003</link>
-            <guid>https://www.bloter.net/newsView/blt202212260003</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG화학 차동석 CFO 사장 승진...첨단소재·생명과학 승진자 '눈길']]></title>
+            <link>https://www.bloter.net/newsView/blt202211230010</link>
+            <guid>https://www.bloter.net/newsView/blt202211230010</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["머스크, 트위터 대표 사직하라" 57.5% 찬성…테슬라 주가 상승]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200002</link>
-            <guid>https://www.bloter.net/newsView/blt202212200002</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[트위터, 타 SNS·링크 금지…"더 이상 무료 홍보 허용 안 할 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212190002</link>
-            <guid>https://www.bloter.net/newsView/blt202212190002</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG화학, 첨단소재 영업익 증가율 750%...양극재 투자 '이유 있네']]></title>
+            <link>https://www.bloter.net/newsView/blt202210310013</link>
+            <guid>https://www.bloter.net/newsView/blt202210310013</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
