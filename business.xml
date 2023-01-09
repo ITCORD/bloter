@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 01:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
+            <link>https://www.bloter.net/newsView/blt202301080001</link>
+            <guid>https://www.bloter.net/newsView/blt202301080001</guid>
+            <pubDate>Mon, 09 Jan 2023 01:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-08 15:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/08/blt202301080001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[PB가격 올린 이마트…수익성 개선 총력]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060007</link>
+            <guid>https://www.bloter.net/newsView/blt202301060007</guid>
+            <pubDate>Mon, 09 Jan 2023 01:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-08 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안드로이드폰도 위성통신 기능 제공…애플 '긴급 SOS' 뛰어넘나]]></title>
             <link>https://www.bloter.net/newsView/blt202301060024</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 08 Jan 2023 03:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-06 13:30:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아 ‘급여투명법’ 시행으로 빅테크 연봉 공개]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060002</link>
-            <guid>https://www.bloter.net/newsView/blt202301060002</guid>
-            <pubDate>Sat, 07 Jan 2023 02:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-06 09:22:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 12월 중국산 전기차 판매 부진…5개월만에 최저]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060001</link>
-            <guid>https://www.bloter.net/newsView/blt202301060001</guid>
-            <pubDate>Fri, 06 Jan 2023 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-06 08:12:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
