@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 08:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 10:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG화학 석화 부문, 65개 분기 만에 적자 유력...고유가에 '봄날'은 갔나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090004</link>
+            <guid>https://www.bloter.net/newsView/blt202301090004</guid>
+            <pubDate>Mon, 09 Jan 2023 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-09 13:04:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090004.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[기아, 영업직 명칭 '오토컨설턴트'로 개편]]></title>
             <link>https://www.bloter.net/newsView/blt202301060004</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 09 Jan 2023 04:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-08 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060053.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
-            <link>https://www.bloter.net/newsView/blt202301080001</link>
-            <guid>https://www.bloter.net/newsView/blt202301080001</guid>
-            <pubDate>Mon, 09 Jan 2023 01:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-08 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/08/blt202301080001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
