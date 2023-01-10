@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 23:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 01:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,12 +397,28 @@ LG화학의 석유화학 사업부문의 적자는 2006년 2분기 이후로 없
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[유튜브 쇼츠, 2월부터 광고 수익 공유한다…숏폼 플랫폼 최초 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301100002</link>
+            <guid>https://www.bloter.net/newsView/blt202301100002</guid>
+            <pubDate>Tue, 10 Jan 2023 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-10 09:12:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 서비스 부문 부사장, 회사 떠난다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301100001</link>
+            <guid>https://www.bloter.net/newsView/blt202301100001</guid>
+            <pubDate>Tue, 10 Jan 2023 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-10 08:15:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[클래스101 픽]발전하는 '러셀' 이야기 "크리에이터도 함께 공부합니다" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301090014</link>
             <guid>https://www.bloter.net/newsView/blt202301090014</guid>
             <pubDate>Mon, 09 Jan 2023 10:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-09 17:49:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023 마케팅 핫키워드]①GA4, 이제는 정말 전환해야 할 때 (블로터 ─ 테크)]]></title>
@@ -523,22 +539,6 @@ LG화학의 석유화학 사업부문의 적자는 2006년 2분기 이후로 없
             <pubDate>Sat, 07 Jan 2023 04:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-07 13:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안드로이드폰도 위성통신 기능 제공…애플 '긴급 SOS' 뛰어넘나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060024</link>
-            <guid>https://www.bloter.net/newsView/blt202301060024</guid>
-            <pubDate>Sat, 07 Jan 2023 02:36:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-07 11:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060049.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크체인저]엑셀올리면 쇼핑몰 등록·진열 끝…디자인교과서가 4달만에 개발한 사연 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050014</link>
-            <guid>https://www.bloter.net/newsView/blt202301050014</guid>
-            <pubDate>Fri, 06 Jan 2023 22:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-07 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050040.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -817,6 +817,14 @@ LG화학의 석유화학 사업부문의 적자는 2006년 2분기 이후로 없
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090011.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유튜브 쇼츠, 2월부터 광고 수익 공유한다…숏폼 플랫폼 최초 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301100002</link>
+            <guid>https://www.bloter.net/newsView/blt202301100002</guid>
+            <pubDate>Tue, 10 Jan 2023 01:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브가 다음 달부터 짧은 동영상인 ‘쇼츠’ 창작자에게도 광고 수익을 공유한다.   9일(현지시간) 유튜브는 오는 2월 1일부터 15초~3분 분량의 쇼츠 크리에이터들에게 동영상 사이에 재생되는 광고 수익을 공유한다고 발표했다.쇼츠 동영상의 광고 수익를 받]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100003.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]로블록스, 7만건 계정정지…'대리 구매' 맡긴 어린이 피해 속출 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301090003</link>
             <guid>https://www.bloter.net/newsView/blt202301090003</guid>
@@ -903,14 +911,6 @@ LG화학의 석유화학 사업부문의 적자는 2006년 2분기 이후로 없
             <pubDate>Wed, 04 Jan 2023 12:28:47 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 그라운드엑스가 130억원의 추가 자금을 투입해 클레이튼 생태계 확장에 박차를 가할 것으로 예상됩니다.  이는 그라운드엑스가 4일 공시한 '유상증자결정' 공시에서 확인할 수 있었는데요. 그라운드엑스]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040044.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비전2023]'데드사이드클럽' 등급분류 완료…반전 노리는 '데브시스터즈' (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040023</link>
-            <guid>https://www.bloter.net/newsView/blt202301040023</guid>
-            <pubDate>Wed, 04 Jan 2023 10:16:24 GMT</pubDate>
-            <content:encoded><![CDATA['쿠키런' IP를 통해 수익원을 확대해온 데브시스터즈가 새로운 캐시카우 창출에 나선다. 데브시스터즈는 개발 자회사가 개발 중인 서바이벌 장르 신작을 올 1분기 내 공개해 라인업을 다각화한다는 계획이다. 4일 &lt;블로터&gt; 취재 결과 데브시스터즈의 개발 자회사]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040031.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]이수만 SM 총괄PD는 왜 CES에 갔을까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
