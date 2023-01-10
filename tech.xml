@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 03:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 05:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미반도체가 반도체 불황 뚫을 무기로 '웨이퍼 쏘' 삼은 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090013</link>
+            <guid>https://www.bloter.net/newsView/blt202301090013</guid>
+            <pubDate>Tue, 10 Jan 2023 05:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-10 14:03:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090024.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 쇼츠, 2월부터 광고 수익 공유한다…숏폼 플랫폼 최초]]></title>
             <link>https://www.bloter.net/newsView/blt202301100002</link>
             <guid>https://www.bloter.net/newsView/blt202301100002</guid>
             <pubDate>Tue, 10 Jan 2023 01:16:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-10 09:12:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플 서비스 부문 부사장, 회사 떠난다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 07 Jan 2023 06:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-07 14:54:57</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CES 23 라이브]"무릉도원 다녀오셨어요?" 관람객 활력 충전소 '바디프랜드']]></title>
-            <link>https://www.bloter.net/newsView/blt202301070002</link>
-            <guid>https://www.bloter.net/newsView/blt202301070002</guid>
-            <pubDate>Sat, 07 Jan 2023 04:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date">2023-01-07 13:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
