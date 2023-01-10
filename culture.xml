@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 11:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'한-UAE 경제사절단' 속 '진짜 게임'은 없다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301100013</link>
+            <guid>https://www.bloter.net/newsView/blt202301100013</guid>
+            <pubDate>Tue, 10 Jan 2023 11:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[오는 14~17일 윤석열 대통령과 함께 아랍에미리트(UAE)를 방문하는 100인의 경제사절단 명단에 게임사 임원들이 포함돼 'K-게임'의 중동 공략 가능성에 기대가 모였지만, &lt;블로터&gt; 취재 결과 직접적인 연관성은 없는 것으로 확인됐다.10일 한국무역협회(이하 무협)에]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100034.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 쇼츠, 2월부터 광고 수익 공유한다…숏폼 플랫폼 최초]]></title>
             <link>https://www.bloter.net/newsView/blt202301100002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 04 Jan 2023 23:15:51 GMT</pubDate>
             <content:encoded><![CDATA[소셜미디어(SNS) 페이스북과 인스타그램의 모회사인 메타가 유럽에서 맞춤형 광고에 대한 사용자 정보 처리와 관련해 5000억원 이상의 대규모 벌금을 부과받았다.   4일(현지시간) &lt;씨엔비씨(CNBC)&gt;에 따르면 아일랜드 데이터보호위원회(DPC)는 페이스북과 인스타그]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]카카오 외화벌이 담당 '그라운드엑스', 130억원도 안 아깝네]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040027</link>
-            <guid>https://www.bloter.net/newsView/blt202301040027</guid>
-            <pubDate>Fri, 06 Jan 2023 10:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 그라운드엑스가 130억원의 추가 자금을 투입해 클레이튼 생태계 확장에 박차를 가할 것으로 예상됩니다.  이는 그라운드엑스가 4일 공시한 '유상증자결정' 공시에서 확인할 수 있었는데요. 그라운드엑스]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

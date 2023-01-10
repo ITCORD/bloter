@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 11:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[LG에너지솔루션, 일회성 비용 2800억 반영...'규모의 경제' 어렵네]]></title>
-            <link>https://www.bloter.net/newsView/blt202301100005</link>
-            <guid>https://www.bloter.net/newsView/blt202301100005</guid>
-            <pubDate>Tue, 10 Jan 2023 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-10 16:30:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100022.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[여기가 바닥인가요...빅테크 추락, 어디까지?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301100010</link>
+            <guid>https://www.bloter.net/newsView/blt202301100010</guid>
+            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-01-10 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100028.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LG에너지솔루션·GM 합작사, 美 정책자금 3.2조 확보]]></title>
-            <link>https://www.bloter.net/newsView/blt202212130007</link>
-            <guid>https://www.bloter.net/newsView/blt202212130007</guid>
-            <pubDate>Tue, 10 Jan 2023 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[네이버는 왜 '엔라이튼'에게 재생에너지를 받아 쓸까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060017</link>
+            <guid>https://www.bloter.net/newsView/blt202301060017</guid>
+            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG에너지솔루션 김동명 사장 승진...자동차전지 부문서 승진자 다수 배출]]></title>
-            <link>https://www.bloter.net/newsView/blt202211240020</link>
-            <guid>https://www.bloter.net/newsView/blt202211240020</guid>
-            <pubDate>Tue, 10 Jan 2023 08:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[애플, 새해 첫 거래일에 시총 2조달러 붕괴]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040001</link>
+            <guid>https://www.bloter.net/newsView/blt202301040001</guid>
+            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['릴리커버'는 어쩌다 자판기에서 '화장품'을 팔게 됐을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300017</link>
+            <guid>https://www.bloter.net/newsView/blt202212300017</guid>
+            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[美 IT업계 근로자, 3개월 이내 재취업 79%…빅테크 대규모 감원 속 '반전']]></title>
+            <link>https://www.bloter.net/newsView/blt202212280002</link>
+            <guid>https://www.bloter.net/newsView/blt202212280002</guid>
+            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
