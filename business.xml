@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 14:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 15:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JP모건, 올해 최고의 성적 거둘 빅테크는 메타…최악은 넷플릭스]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110003</link>
+            <guid>https://www.bloter.net/newsView/blt202301110003</guid>
+            <pubDate>Wed, 11 Jan 2023 15:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 09:24:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 챗GPT 개발사 오픈AI에 100억달러 투자 추진]]></title>
             <link>https://www.bloter.net/newsView/blt202301110001</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 11 Jan 2023 03:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-10 15:09:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸집 키우는 컬리, 뷰티사업 판매 늘렸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301100003</link>
-            <guid>https://www.bloter.net/newsView/blt202301100003</guid>
-            <pubDate>Tue, 10 Jan 2023 11:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-10 10:05:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
