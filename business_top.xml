@@ -4,37 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 03:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JP모건, 올해 최고의 성적 거둘 빅테크는 메타…최악은 넷플릭스]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110003</link>
+            <guid>https://www.bloter.net/newsView/blt202301110003</guid>
+            <pubDate>Wed, 11 Jan 2023 03:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 09:24:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110002.570x320.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[여기가 바닥인가요...빅테크 추락, 어디까지?]]></title>
             <link>https://www.bloter.net/newsView/blt202301100010</link>
             <guid>https://www.bloter.net/newsView/blt202301100010</guid>
             <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-01-10 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100028.570x320.0.png" length="0" type="image/png"/>
+            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버는 왜 '엔라이튼'에게 재생에너지를 받아 쓸까]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060017</link>
-            <guid>https://www.bloter.net/newsView/blt202301060017</guid>
-            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플, 새해 첫 거래일에 시총 2조달러 붕괴]]></title>
-            <link>https://www.bloter.net/newsView/blt202301040001</link>
-            <guid>https://www.bloter.net/newsView/blt202301040001</guid>
-            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
+            <title><![CDATA[캘리포니아 ‘급여투명법’ 시행으로 빅테크 연봉 공개]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060002</link>
+            <guid>https://www.bloter.net/newsView/blt202301060002</guid>
+            <pubDate>Wed, 11 Jan 2023 03:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['릴리커버'는 어쩌다 자판기에서 '화장품'을 팔게 됐을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202212300017</link>
-            <guid>https://www.bloter.net/newsView/blt202212300017</guid>
-            <pubDate>Tue, 10 Jan 2023 11:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[최악의 가뭄 겪은 美 테크기업 IPO…2023년에도 지속되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202212300002</link>
+            <guid>https://www.bloter.net/newsView/blt202212300002</guid>
+            <pubDate>Wed, 11 Jan 2023 03:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[美 IT업계 근로자, 3개월 이내 재취업 79%…빅테크 대규모 감원 속 '반전']]></title>
