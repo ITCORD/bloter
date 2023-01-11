@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 05:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 06:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG에너지솔루션, 일회성 비용 2800억 반영...'규모의 경제' 어렵네]]></title>
+            <link>https://www.bloter.net/newsView/blt202301100005</link>
+            <guid>https://www.bloter.net/newsView/blt202301100005</guid>
+            <pubDate>Wed, 11 Jan 2023 06:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-10 16:30:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100022.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['통 큰 배당' 시몬스, '수익성 중심' 에이스…같은 듯 다른 경영 스타일]]></title>
             <link>https://www.bloter.net/newsView/blt202301100006</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 10 Jan 2023 07:13:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-10 08:15:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메리츠자산운용 품는 강성부펀드…"한국의 버크셔해서웨이 만들겠다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301090015</link>
-            <guid>https://www.bloter.net/newsView/blt202301090015</guid>
-            <pubDate>Tue, 10 Jan 2023 06:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-09 17:44:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090032.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
