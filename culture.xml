@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 07:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비덴트 티브이로직, 세계 최대 방송장비 전시회 NAB 간다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110013</link>
+            <guid>https://www.bloter.net/newsView/blt202301110013</guid>
+            <pubDate>Wed, 11 Jan 2023 08:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[방송장비업체 '비덴트'가 세계 최대 규모 방송장비 전시회인 'NAB 2023'에 참여한다고 밝혔다. NAB는 미국을 포함해 전 세계의 방송장비가 전시되는 행사로, 매년 1700여 개의 업체가 참가해 최신 방송장비 동향을 소개하는 한편 신기술 발표 및 콘텐츠 트렌드를 주제로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]한-UAE 경제사절단, 게임사업 새 활로 찾을까]]></title>
             <link>https://www.bloter.net/newsView/blt202301100013</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 04 Jan 2023 23:15:51 GMT</pubDate>
             <content:encoded><![CDATA[플랫폼 업계의 이슈를 보다 심도있게 살펴보겠습니다. 전통 IT 플랫폼 업계부터 최근 디지털 전환을 통해 변화하고 있는 패션·뷰티 업계까지 &lt;블로터&gt;에서만 다룰 수 있는 이슈를 전합니다. 작은 궁금증부터 짚고가야 할 이야기까지 심층취재하며 풍성한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/04/blt202301040040.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 유럽서 또 과징금…맞춤형 광고 관련 5000억원 부과]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050001</link>
-            <guid>https://www.bloter.net/newsView/blt202301050001</guid>
-            <pubDate>Wed, 04 Jan 2023 23:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 페이스북과 인스타그램의 모회사인 메타가 유럽에서 맞춤형 광고에 대한 사용자 정보 처리와 관련해 5000억원 이상의 대규모 벌금을 부과받았다.   4일(현지시간) &lt;씨엔비씨(CNBC)&gt;에 따르면 아일랜드 데이터보호위원회(DPC)는 페이스북과 인스타그]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
