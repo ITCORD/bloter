@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 08:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 09:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소재 기업 솔브레인, 삼성·SK 첨단 공정에 거는 ‘기대감’]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120013</link>
+            <guid>https://www.bloter.net/newsView/blt202301120013</guid>
+            <pubDate>Thu, 12 Jan 2023 09:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-12 17:36:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시스코의 '기업 DX 전환' 지원 활동은 어떻게 매출의 10%를 책임졌나]]></title>
             <link>https://www.bloter.net/newsView/blt202301120011</link>
             <guid>https://www.bloter.net/newsView/blt202301120011</guid>
             <pubDate>Thu, 12 Jan 2023 08:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-12 16:53:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏘카 박재욱, 첫 주식 매수에 담은 '성장 시그널']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-11 10:23:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오페이와 손잡은 카페24, 정기결제 수단 늘리는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301110004</link>
-            <guid>https://www.bloter.net/newsView/blt202301110004</guid>
-            <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-11 09:42:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
