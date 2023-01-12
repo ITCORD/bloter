@@ -4,7 +4,7 @@
         <title>블로터 ─ 실시간 랭킹</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 12:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 13:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -59,6 +59,16 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110018.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 시장 1위 굳힐 PC용 고성능 SSD 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120006</link>
+            <guid>https://www.bloter.net/newsView/blt202301120006</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 새롭게 출시한 PC용 고성능 SSD PM9C1a. (사진=삼성전자)&nbsp;
+
+삼성전자가 고성능 PC용 SSD(Solid State Drive) 신제품을 출시하며 시장 1위 리더십 강화에 나섰다.삼성전자는 5nm(나노미터, 10억분의 1m) 기반 신규 컨트롤러를 탑재한 PC용 고성능 NVMe SSD ‘PM9C1a’를 양산한다고 12일 밝혔다.&nbsp;SSD는 반도체를 이용해 정보를 저장하는 장치다. 삼성전자는 SSD 시장에서 2006년부터 시장 점유율 1위를 유지해오고 있다. 시장조사업체 옴디아에 따르면 삼성전자는 2022년 3분기 기준 전체 SSD 시장에서 39.6% 차지했다.삼성전자는 PM9C1a에 최신 공정을 접목해 기술 초격차를 강화했다. 첨단 5나노 파운드리 공정으로 자체 설계한 신규 컨트롤러와 7세대 V낸드가 탑재됐다. 삼성전자가 PC용 SSD에 5나노 기반 컨트롤러를 탑재한 것은 이번이 처음이다. 기존 제품에는 12나노 컨트롤러가 적용됐다. 나노값이 작을수록 더 많은 회로를 그려 넣을수 있어 성능이 향상된다.PM9C1a의 1W(와트)당 전력 효율은 기존 제품보다 최대 70%가량 향상됐다. 노트북 PC의 절전모드에서는 소비전력이 10% 이상 줄어든다.또 PCIe 4.0을 지원해 기존 제품보다 연속 읽기 속도는 1.6배, 연속 쓰기 속도는 1.8배 빨라졌다. 연속 읽기·쓰기 성능은 각각 최대 6000MB/s, 5600MB/s이며, 임의 읽기·쓰기 성능은 각각 최대 900K IOPS, 1000K IOPS이다.PM9C1a는 보다 강화된 보안 솔루션도 제공한다. 국제 보안 표준 기구 TCG의 암호 아이디 기술인 DICE(Device Identifier Composition Engine) 표준을 새로 지원한다. 강화된 보안 솔루션은 SSD 내부에서 안전하게 키를 생성해 생산이나 유통 과정에서 펌웨어를 변조하는 공급망 해킹을 방지할 수 있다. 이를 위해 디바이스 인증과 SSD 펌웨어 변조 방지를 위한 증명 기술을 지원한다.삼성전자는 PM9C1a의 라인업을 M.2 규격의 256GB, 512GB, 1TB 등으로 다양화하고 글로벌 고객들과 협력해 시장을 확대할 계획이다.송용호 삼성전자 메모리사업부 솔루션개발실장 부사장은 “PM9C1a는 고성능·저전력·보안성 등 PC 사용자들에게 중요한 모든 요소를 갖춘 제품”이라며 “앞으로도 다양한 시장 요구에 맞는 제품 개발을 통해 PC용 SSD 시장을 견인할 것”이라고 말했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120006.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자 등에 업은 동진쎄미켐, EUV PR 양산에 ‘기대감’]]></title>
             <link>https://www.bloter.net/newsView/blt202301110015</link>
             <guid>https://www.bloter.net/newsView/blt202301110015</guid>
@@ -75,16 +85,6 @@
 
 디스플레이 분야에서도 동진쎄미켐은 안정적인 수익을 창출하고 있다. 국내 디스플레이 산업은 전방산업의 침체로 인해 어려운 시기를 겪고있지만, 동진쎄미켐은 중국 등 글로벌 사업자를 대상으로 소재를 판매하기 때문이다.특히 중국의 경우 BOE를 비롯한 디스플레이 제조사들의 신규 투자와 신규공장 가동 등으로 인해 매출 증대가 예상되는 상황이다. 또 TV 대형화에 따라 10세대 이상의 디스플레이 신규공장 투자가 예상되고 있다. 이에 따라 동진쎄미켐에 대한 소재 수요는 더욱 커질 것으로 보이다.다만 업황 악화에 따라 동진쎄미켐도 여타 기업처럼 보유 현금을 늘리는 모양새다. 2022년 3분기 기준 동진쎄미켐의 단기금융자산을 포함한 현금성자산은 4118억원으로 2021년 말 2866억원 대비 43.7% 늘었다. 같은 기간 단기차입금도 2859억원에서 3540억원으로 36.7% 증가했다.2022년 3분기 누적 투자활동 현금흐름은 1211억원으로 전년 동기(740억원) 대비 63.6% 증가했다. 이중 단기금융자산의 취득 항목의 증가 영향이 주효했다. 3분기 누적 단기금융자산 취득은 806억원으로 전년 동기(227억원) 대비 255.1% 늘었다. 산업 침체기에 대비해 금융자산 투자 비중을 높이는 모양새다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110025.291x174.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 시장 1위 굳힐 PC용 고성능 SSD 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202301120006</link>
-            <guid>https://www.bloter.net/newsView/blt202301120006</guid>
-            <pubDate>Thu, 12 Jan 2023 11:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 새롭게 출시한 PC용 고성능 SSD PM9C1a. (사진=삼성전자)&nbsp;
-
-삼성전자가 고성능 PC용 SSD(Solid State Drive) 신제품을 출시하며 시장 1위 리더십 강화에 나섰다.삼성전자는 5nm(나노미터, 10억분의 1m) 기반 신규 컨트롤러를 탑재한 PC용 고성능 NVMe SSD ‘PM9C1a’를 양산한다고 12일 밝혔다.&nbsp;SSD는 반도체를 이용해 정보를 저장하는 장치다. 삼성전자는 SSD 시장에서 2006년부터 시장 점유율 1위를 유지해오고 있다. 시장조사업체 옴디아에 따르면 삼성전자는 2022년 3분기 기준 전체 SSD 시장에서 39.6% 차지했다.삼성전자는 PM9C1a에 최신 공정을 접목해 기술 초격차를 강화했다. 첨단 5나노 파운드리 공정으로 자체 설계한 신규 컨트롤러와 7세대 V낸드가 탑재됐다. 삼성전자가 PC용 SSD에 5나노 기반 컨트롤러를 탑재한 것은 이번이 처음이다. 기존 제품에는 12나노 컨트롤러가 적용됐다. 나노값이 작을수록 더 많은 회로를 그려 넣을수 있어 성능이 향상된다.PM9C1a의 1W(와트)당 전력 효율은 기존 제품보다 최대 70%가량 향상됐다. 노트북 PC의 절전모드에서는 소비전력이 10% 이상 줄어든다.또 PCIe 4.0을 지원해 기존 제품보다 연속 읽기 속도는 1.6배, 연속 쓰기 속도는 1.8배 빨라졌다. 연속 읽기·쓰기 성능은 각각 최대 6000MB/s, 5600MB/s이며, 임의 읽기·쓰기 성능은 각각 최대 900K IOPS, 1000K IOPS이다.PM9C1a는 보다 강화된 보안 솔루션도 제공한다. 국제 보안 표준 기구 TCG의 암호 아이디 기술인 DICE(Device Identifier Composition Engine) 표준을 새로 지원한다. 강화된 보안 솔루션은 SSD 내부에서 안전하게 키를 생성해 생산이나 유통 과정에서 펌웨어를 변조하는 공급망 해킹을 방지할 수 있다. 이를 위해 디바이스 인증과 SSD 펌웨어 변조 방지를 위한 증명 기술을 지원한다.삼성전자는 PM9C1a의 라인업을 M.2 규격의 256GB, 512GB, 1TB 등으로 다양화하고 글로벌 고객들과 협력해 시장을 확대할 계획이다.송용호 삼성전자 메모리사업부 솔루션개발실장 부사장은 “PM9C1a는 고성능·저전력·보안성 등 PC 사용자들에게 중요한 모든 요소를 갖춘 제품”이라며 “앞으로도 다양한 시장 요구에 맞는 제품 개발을 통해 PC용 SSD 시장을 견인할 것”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120006.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제약업계 어르신의 퇴장…팔진회(八進會) 활동 마무리]]></title>
