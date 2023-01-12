@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 22:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 23:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글·엔비디아, MS-블리자드 인수에 우려 표출]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130001</link>
+            <guid>https://www.bloter.net/newsView/blt202301130001</guid>
+            <pubDate>Thu, 12 Jan 2023 23:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[구글과 엔비디아가 마이크로소프트(MS)의 액티비전 블리자드(이하 블리자드) 인수에 대해 우려를 표출했다.12일(현지시간) &lt;블룸버그통신&gt;은 소식통을 인용해 구글과 엔비디아가 미국 연방거래위원회(FTC)에 MS가 블리자드를 인수하면 모바일 게임, 게임 구독과]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크]]></title>
             <link>https://www.bloter.net/newsView/blt202301120018</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 09 Jan 2023 10:19:05 GMT</pubDate>
             <content:encoded><![CDATA[유수 대기업에 IT 솔루션을 제공해 온 오브젠이 중견·중소기업으로 사업영역을 확장한다고 밝혔다. 오브젠은 대기업에 비해 자원이 부족한 중견기업들에게 맞춤형 마케팅 솔루션을 제공하는 한편 네이버클라우드와 함께 아시아를 거점으로 글로벌 공략을 추]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060033.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피리부는 강아지, 지난해 산책·기부·편의성 다 잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301050007</link>
-            <guid>https://www.bloter.net/newsView/blt202301050007</guid>
-            <pubDate>Mon, 09 Jan 2023 10:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[올바른 반려문화 정착을 위해 힘쓰는 '피리부는 강아지'가 기부 효과와 함께 편의성을 늘리며 빠르게 성장 중이다. 에임드의 반려견 라이프 스타일 애플리케이션(앱) '피리부는 강아지'는 2022년 한 해 동안(1월~ 11월 합산 데이터) 집계된 반려견 산책 횟수·거리&amp;m]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
