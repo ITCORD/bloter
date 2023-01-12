@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 02:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -412,18 +412,26 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[가상 UAM 전시만? SKT 유영상 대표, CES서 '조비' 직접 만났다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120004</link>
+            <guid>https://www.bloter.net/newsView/blt202301120004</guid>
+            <pubDate>Thu, 12 Jan 2023 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-12 11:54:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LS전선, 전기차용 ‘알루미늄 고유 합금번호’ 인증의 의미는? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301120003</link>
             <guid>https://www.bloter.net/newsView/blt202301120003</guid>
-            <pubDate>Thu, 12 Jan 2023 02:41:16 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 02:40:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-12 11:22:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1.15조원 투자 유치 카카오엔터, K웹툰·웹소설로 글로벌 공략 '올인' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301120002</link>
             <guid>https://www.bloter.net/newsView/blt202301120002</guid>
-            <pubDate>Thu, 12 Jan 2023 02:41:16 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 02:40:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-12 10:50:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120002.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
@@ -546,14 +554,6 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <pubDate>Tue, 10 Jan 2023 11:13:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-10 19:28:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100034.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제약업계 어르신의 퇴장…팔진회(八進會) 활동 마무리 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301100012</link>
-            <guid>https://www.bloter.net/newsView/blt202301100012</guid>
-            <pubDate>Tue, 10 Jan 2023 09:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-10 17:44:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
