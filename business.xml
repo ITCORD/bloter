@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 10:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 11:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 FAA 시스템 오류로 미 전역서 항공편 연기·취소...”복구에 진전"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110019</link>
+            <guid>https://www.bloter.net/newsView/blt202301110019</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 22:43:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110036.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[KB금융 비은행서 입지 격상한 '보험'…국민카드의 전략은?]]></title>
             <link>https://www.bloter.net/newsView/blt202301110017</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 11 Jan 2023 08:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 08:25:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기가 바닥인가요...빅테크 추락, 어디까지?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301100010</link>
-            <guid>https://www.bloter.net/newsView/blt202301100010</guid>
-            <pubDate>Wed, 11 Jan 2023 08:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-01-10 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100028.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

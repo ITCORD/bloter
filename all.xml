@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 10:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 11:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,16 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110025.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 시장 1위 굳힐 PC용 고성능 SSD 출시 (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120006</link>
+            <guid>https://www.bloter.net/newsView/blt202301120006</guid>
+            <pubDate>Thu, 12 Jan 2023 05:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 새롭게 출시한 PC용 고성능 SSD PM9C1a. (사진=삼성전자)&nbsp;
+
+삼성전자가 고성능 PC용 SSD(Solid State Drive) 신제품을 출시하며 시장 1위 리더십 강화에 나섰다.삼성전자는 5nm(나노미터, 10억분의 1m) 기반 신규 컨트롤러를 탑재한 PC용 고성능 NVMe SSD ‘PM9C1a’를 양산한다고 12일 밝혔다.&nbsp;SSD는 반도체를 이용해 정보를 저장하는 장치다. 삼성전자는 SSD 시장에서 2006년부터 시장 점유율 1위를 유지해오고 있다. 시장조사업체 옴디아에 따르면 삼성전자는 2022년 3분기 기준 전체 SSD 시장에서 39.6% 차지했다.삼성전자는 PM9C1a에 최신 공정을 접목해 기술 초격차를 강화했다. 첨단 5나노 파운드리 공정으로 자체 설계한 신규 컨트롤러와 7세대 V낸드가 탑재됐다. 삼성전자가 PC용 SSD에 5나노 기반 컨트롤러를 탑재한 것은 이번이 처음이다. 기존 제품에는 12나노 컨트롤러가 적용됐다. 나노값이 작을수록 더 많은 회로를 그려 넣을수 있어 성능이 향상된다.PM9C1a의 1W(와트)당 전력 효율은 기존 제품보다 최대 70%가량 향상됐다. 노트북 PC의 절전모드에서는 소비전력이 10% 이상 줄어든다.또 PCIe 4.0을 지원해 기존 제품보다 연속 읽기 속도는 1.6배, 연속 쓰기 속도는 1.8배 빨라졌다. 연속 읽기·쓰기 성능은 각각 최대 6000MB/s, 5600MB/s이며, 임의 읽기·쓰기 성능은 각각 최대 900K IOPS, 1000K IOPS이다.PM9C1a는 보다 강화된 보안 솔루션도 제공한다. 국제 보안 표준 기구 TCG의 암호 아이디 기술인 DICE(Device Identifier Composition Engine) 표준을 새로 지원한다. 강화된 보안 솔루션은 SSD 내부에서 안전하게 키를 생성해 생산이나 유통 과정에서 펌웨어를 변조하는 공급망 해킹을 방지할 수 있다. 이를 위해 디바이스 인증과 SSD 펌웨어 변조 방지를 위한 증명 기술을 지원한다.삼성전자는 PM9C1a의 라인업을 M.2 규격의 256GB, 512GB, 1TB 등으로 다양화하고 글로벌 고객들과 협력해 시장을 확대할 계획이다.송용호 삼성전자 메모리사업부 솔루션개발실장 부사장은 “PM9C1a는 고성능·저전력·보안성 등 PC 사용자들에게 중요한 모든 요소를 갖춘 제품”이라며 “앞으로도 다양한 시장 요구에 맞는 제품 개발을 통해 PC용 SSD 시장을 견인할 것”이라고 말했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120006.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제약업계 어르신의 퇴장…팔진회(八進會) 활동 마무리 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202301100012</link>
             <guid>https://www.bloter.net/newsView/blt202301100012</guid>
@@ -244,17 +254,6 @@ S&amp;P500 시가총액 상위 기업들(출처=월스트리트저널)
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100028.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SK하이닉스, 해외서 1.2조원 조달…‘지속가능연계채권’ 뭐길래 (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301110007</link>
-            <guid>https://www.bloter.net/newsView/blt202301110007</guid>
-            <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스 청주 캠퍼스 전경. (사진=SK하이닉스)
-
-SK하이닉스가 ESG(환경, 사회, 지배구조) 경영의 성과에 따라 금리가 낮아지는 글로벌 채권을 발행했다. 당초 계획 대비 2배 규모인 10억달러(1조2000억원)의 자금을 조달하면서 글로벌 투자자들로부터 기후변화 대응에 대한 의지도 인정받았다는 평가다.
-SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 성공했다고 11일 밝혔다.SLB는 ESG 경영 목표 달성 여부에 따라 금리 등이 조정되는 채권이다. 발행 기업이 목표치를 설정하고 이를 달성할 경우 낮은 이자율이 유지된다. 반대로 달성하지 못하면 이자율이 높아지는 구조다.SK하이닉스는 SLB 발행 조건으로 온실가스 Scope 1, 2(직·간접 배출) 집약도를 2026년까지 2020년 대비 57% 감축하겠다는 목표를 설정했다. 온실가스 배출량 집약도는 메모리 반도체 생산 용량 단위(비트) 당 온실가스 배출량을 말한다.SK하이닉스는 목표 대비 감축 실적을 ‘지속가능성 보고 시스템(SRS)’에 매년 투명하게 공개할 예정이다. 이어 2026년 지나면 이듬해 상반기 중 최종 목표 달성도를 측정해 공개하고, 결과에 맞게 금리를 조정하기로 했다.당초 SK하이닉스는 SLB 목표 발행액을 5억달러(6000억원)로 설정했다. 그러나 글로벌 304개의 기관을 중심으로 다수의 투자자들이 기대 이상의 관심을 보이면서 10억달러까지 발행 규모를 확대했다.SK하이닉스의 SLB 발행은 글로벌 메모리 반도체 기업 중 최초다. 반도체 산업은 제품 생산 과정에서 다량의 용수와 유해물질이 발생해 산업 특성상 온실가스를 감축하기 어렵다. 그럼에도 SLB 발행이 성공적으로 이뤄진 것에 대해 SK하이닉스는 “회사의 기후변화 대응 의지에 대해 신뢰를 보내준 결과물”이라고 평가했다.이와 함께 SK하이닉스는 7억5000만달러(9000억원) 규모의 그린본드도 발행했다. 그린본드는 환경친화적 투자에 필요한 자금 조달을 위한 용도로만 쓸 수 있는 특수목적 채권이다. SK하이닉스는 해당 재원을 수질 관리, 에너지 효율화, 오염 방지, 생태환경 복원 등 친환경 사업에 투자할 예정이다.김우현 SK하이닉스 부사장(CFO)은 “이번 SLB의 성공적인 발행은 기후변화 대응에 대한 당사의 의지를 글로벌 투자자들에 인정받은 결과라고 본다”며 “앞으로도 당사는 ESG 경영을 선도하며 경제적 가치(EV)와 사회적 가치(SV)를 공히 높여가도록 노력하겠다”고 말했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110009.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[반도체 혹한기 속 원익IPS…삼성전자에 쏠린 ‘눈’ (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202301100011</link>
             <guid>https://www.bloter.net/newsView/blt202301100011</guid>
@@ -282,50 +281,59 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110001.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오페이와 손잡은 카페24, 정기결제 수단 늘리는 이유 (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301110004</link>
-            <guid>https://www.bloter.net/newsView/blt202301110004</guid>
+            <title><![CDATA[SK하이닉스, 해외서 1.2조원 조달…‘지속가능연계채권’ 뭐길래 (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110007</link>
+            <guid>https://www.bloter.net/newsView/blt202301110007</guid>
             <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[온라인 사업자가 이용 가능한 카카오페이를 비롯한 카카오의 서비스를 소개하는 카페24의 쇼핑몰센터 페이지.(이미지=카페24)&nbsp;
+            <content:encoded><![CDATA[SK하이닉스 청주 캠퍼스 전경. (사진=SK하이닉스)
 
-글로벌 전자상거래 플랫폼 '카페24'가 자사 플랫폼에 정기결제 수단을 확대하는 것은 온라인 쇼핑몰 사업자들의 보다 효과적인 구독 서비스 고객 유치를 지원하기 위해서다.&nbsp;카페24는 온라인 쇼핑몰 사업자들이 쉽게 쇼핑몰을 구축하고 운영할 수 있는 플랫폼을 제공한다. 사업자들이 다양한 서비스와 편리한 결제수단을 갖추면서 매출을 늘리면 카페24의 플랫폼 생태계과 매출도 확대되는 구조다.최근 구독 서비스가 업종을 불문하고 관심을 받으면서 온라인 쇼핑몰 사업자들도 차별화된 구독 서비스 발굴에 힘을 쏟고 있다. 구독은 고객이 지속적으로 상품이나 서비스를 제공받으면서 매월 이용료를 지불하는 형태의 서비스를 말한다. 화장품·면도기·커피 등 일상에서 지속적으로 이용하는 상품이나 서비스도 구독의 대상이 된다.&nbsp;사업자는 구독 서비스 이용자들을 확대하면 그만큼 고정적인 매출을 확보할 수 있다. 또 구독자의 규모를 기반으로 향후 발생할 수요를 예측할 수 있어 재고관리도 더 효율적으로 할 수 있다. 소비자는 원하는 제품이나 서비스를 정기적으로 받아볼 수 있다. 정기결제를 설정해놓는 경우가 많기 때문에 사업자가 다양하고 편리한 정기결제 수단들을 제공하면 소비자 입장에서는 더욱 편리하다.이에 카페24는 기존 6개의 전자지급결제대행(PG)사와 손잡고 정기결제 수단을 고객사들에게 제공했다. 여기에 11일 카카오페이로도 정기결제를 할 수 있도록 했다. 카카오페이는 카카오의 자회사 카카오페이가 제공하는 간편결제 서비스다. 네이버의 자회사 네이버파이낸셜이 선보인 네이버페이, NHN의 자회사 NHN페이코의 페이코와 함께 대표적인 간편결제 서비스로 꼽힌다.카카오페이 정기결제는 신용카드, 체크카드를 비롯해 충전해서 현금처럼 사용할 수 있는 선불전자지급수단 '카카오페이머니'도 지원한다. 카페24 플랫폼을 이용 중인 사업자는 카카오페이 사용 신청·승인 후 설정 과정을 거치면 정기결제 서비스를 이용할 수 있다. 정기결제를 적용하고자 하는 상품이나 주기 등 세부 항목은 카페24 관리자 페이지에서 설정할 수 있다. 카카오페이가 도입되면서 카페24의 플랫폼에서 사용할 수 있는 정기결제 수단은 총 7개로 늘었다. 카페24는 신용카드·간편결제·휴대폰결제·편의점결제 등의 결제 수단도 제공하고 있다.이재석 카페24 대표는 "정기결제 서비스 도입으로 안정적인 매출을 확보한 온라인 사업자가 새로운 비즈니스 기회를 창출하기 위해 혁신적이고 도전적인 시도를 이어갈 수 있는 환경이 조성될 것"이라며 "온라인 사업자의 빠른 사업 성장과 시장 조기 안착을 돕는 다양한 서비스를 플랫폼에 연결할 것"이라고 말했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110003.291x174.0.png" length="0" type="image/png"/>
+SK하이닉스가 ESG(환경, 사회, 지배구조) 경영의 성과에 따라 금리가 낮아지는 글로벌 채권을 발행했다. 당초 계획 대비 2배 규모인 10억달러(1조2000억원)의 자금을 조달하면서 글로벌 투자자들로부터 기후변화 대응에 대한 의지도 인정받았다는 평가다.
+SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 성공했다고 11일 밝혔다.SLB는 ESG 경영 목표 달성 여부에 따라 금리 등이 조정되는 채권이다. 발행 기업이 목표치를 설정하고 이를 달성할 경우 낮은 이자율이 유지된다. 반대로 달성하지 못하면 이자율이 높아지는 구조다.SK하이닉스는 SLB 발행 조건으로 온실가스 Scope 1, 2(직·간접 배출) 집약도를 2026년까지 2020년 대비 57% 감축하겠다는 목표를 설정했다. 온실가스 배출량 집약도는 메모리 반도체 생산 용량 단위(비트) 당 온실가스 배출량을 말한다.SK하이닉스는 목표 대비 감축 실적을 ‘지속가능성 보고 시스템(SRS)’에 매년 투명하게 공개할 예정이다. 이어 2026년 지나면 이듬해 상반기 중 최종 목표 달성도를 측정해 공개하고, 결과에 맞게 금리를 조정하기로 했다.당초 SK하이닉스는 SLB 목표 발행액을 5억달러(6000억원)로 설정했다. 그러나 글로벌 304개의 기관을 중심으로 다수의 투자자들이 기대 이상의 관심을 보이면서 10억달러까지 발행 규모를 확대했다.SK하이닉스의 SLB 발행은 글로벌 메모리 반도체 기업 중 최초다. 반도체 산업은 제품 생산 과정에서 다량의 용수와 유해물질이 발생해 산업 특성상 온실가스를 감축하기 어렵다. 그럼에도 SLB 발행이 성공적으로 이뤄진 것에 대해 SK하이닉스는 “회사의 기후변화 대응 의지에 대해 신뢰를 보내준 결과물”이라고 평가했다.이와 함께 SK하이닉스는 7억5000만달러(9000억원) 규모의 그린본드도 발행했다. 그린본드는 환경친화적 투자에 필요한 자금 조달을 위한 용도로만 쓸 수 있는 특수목적 채권이다. SK하이닉스는 해당 재원을 수질 관리, 에너지 효율화, 오염 방지, 생태환경 복원 등 친환경 사업에 투자할 예정이다.김우현 SK하이닉스 부사장(CFO)은 “이번 SLB의 성공적인 발행은 기후변화 대응에 대한 당사의 의지를 글로벌 투자자들에 인정받은 결과라고 본다”며 “앞으로도 당사는 ESG 경영을 선도하며 경제적 가치(EV)와 사회적 가치(SV)를 공히 높여가도록 노력하겠다”고 말했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110009.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테슬라, 인도네시아에 공장 짓나…"계약 임박" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301120001</link>
-            <guid>https://www.bloter.net/newsView/blt202301120001</guid>
-            <pubDate>Thu, 12 Jan 2023 01:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-12 08:54:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120001.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[롯데, 3년 만에 '대면 VCM'…신동빈 회장 “기업가치 제고가 목표” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120017</link>
+            <guid>https://www.bloter.net/newsView/blt202301120017</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-12 18:37:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120021.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테슬라 12월 중국산 전기차 판매 부진…5개월만에 최저 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060001</link>
-            <guid>https://www.bloter.net/newsView/blt202301060001</guid>
-            <pubDate>Thu, 12 Jan 2023 01:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[게임은 메타버스라 부를 수 없게 만든 롯데정보통신 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060015</link>
+            <guid>https://www.bloter.net/newsView/blt202301060015</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테슬라, 2022년 전기차 131만대 인도…시장 전망치 하회 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301030001</link>
-            <guid>https://www.bloter.net/newsView/blt202301030001</guid>
-            <pubDate>Thu, 12 Jan 2023 01:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[메타버스 힘싣는 롯데...핵심은 VR기기 보급 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050003</link>
+            <guid>https://www.bloter.net/newsView/blt202301050003</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테슬라 상하이 공장, 연말 생산 중단 이례적으로 연장 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270004</link>
-            <guid>https://www.bloter.net/newsView/blt202212270004</guid>
-            <pubDate>Thu, 12 Jan 2023 01:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['CJ·쿠팡·롯데' 유통가 마진 전쟁...'한 푼이라도 더' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212280019</link>
+            <guid>https://www.bloter.net/newsView/blt202212280019</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[美 교통국, 테슬라 추돌사고 추가 조사…원인은 자율주행 급제동? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230001</link>
-            <guid>https://www.bloter.net/newsView/blt202212230001</guid>
-            <pubDate>Thu, 12 Jan 2023 01:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['극한 마진 싸움'...롯데, CJ제일제당·풀무원·대상과 거래중단 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270009</link>
+            <guid>https://www.bloter.net/newsView/blt202212270009</guid>
+            <pubDate>Thu, 12 Jan 2023 11:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미 FAA 시스템 오류로 미 전역서 항공편 연기·취소...”복구에 진전" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110019</link>
+            <guid>https://www.bloter.net/newsView/blt202301110019</guid>
+            <pubDate>Wed, 11 Jan 2023 15:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 22:43:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110036.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KB금융 비은행서 입지 격상한 '보험'…국민카드의 전략은? (블로터 ─ 비즈니스)]]></title>
@@ -366,14 +374,6 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 08:25:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기가 바닥인가요...빅테크 추락, 어디까지? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301100010</link>
-            <guid>https://www.bloter.net/newsView/blt202301100010</guid>
-            <pubDate>Tue, 10 Jan 2023 11:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-01-10 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100028.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -835,7 +835,7 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301120018</link>
             <guid>https://www.bloter.net/newsView/blt202301120018</guid>
-            <pubDate>Thu, 12 Jan 2023 10:25:03 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 10:22:44 GMT</pubDate>
             <content:encoded><![CDATA[올해 '리그 오브 레전드 챔피언스코리아(LCK)' 스프링 시즌이 오는 18일 개막하는 가운데 '디플러스 기아(DK)'와 'T1'의 양강 구도가 수면위로 부상했다. T1의 경우 로스터의 변화가 없어 팀워크가 뛰어날 것으로 예상되는 한편 DK는 라인전에 강한 에이스들의 모임으로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120023.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
