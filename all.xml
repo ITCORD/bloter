@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 09:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 10:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -412,12 +412,28 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120018</link>
+            <guid>https://www.bloter.net/newsView/blt202301120018</guid>
+            <pubDate>Thu, 12 Jan 2023 10:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-12 18:54:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['5G 28GHz'에 부정적인 SKT…투자 바라는 장비사 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120015</link>
+            <guid>https://www.bloter.net/newsView/blt202301120015</guid>
+            <pubDate>Thu, 12 Jan 2023 10:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-12 18:51:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120022.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소재 기업 솔브레인, 삼성·SK 첨단 공정에 거는 ‘기대감’ (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301120013</link>
             <guid>https://www.bloter.net/newsView/blt202301120013</guid>
             <pubDate>Thu, 12 Jan 2023 09:20:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-12 17:36:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시스코의 '기업 DX 전환' 지원 활동은 어떻게 매출의 10%를 책임졌나 (블로터 ─ 테크)]]></title>
@@ -538,22 +554,6 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <pubDate>Wed, 11 Jan 2023 06:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-11 14:17:09</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 해외서 1.2조원 조달…‘지속가능연계채권’ 뭐길래 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301110007</link>
-            <guid>https://www.bloter.net/newsView/blt202301110007</guid>
-            <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-11 10:59:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시S23 공개 초읽기…언팩 초대장 속 '스포트라이트' 의미는? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301110006</link>
-            <guid>https://www.bloter.net/newsView/blt202301110006</guid>
-            <pubDate>Wed, 11 Jan 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-11 10:23:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -832,6 +832,14 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090011.282x159.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120018</link>
+            <guid>https://www.bloter.net/newsView/blt202301120018</guid>
+            <pubDate>Thu, 12 Jan 2023 10:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[올해 '리그 오브 레전드 챔피언스코리아(LCK)' 스프링 시즌이 오는 18일 개막하는 가운데 '디플러스 기아(DK)'와 'T1'의 양강 구도가 수면위로 부상했다. T1의 경우 로스터의 변화가 없어 팀워크가 뛰어날 것으로 예상되는 한편 DK는 라인전에 강한 에이스들의 모임으로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[N플레이]모두의마블: 메타월드, 타이틀 변화에 숨겨진 의미 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301110018</link>
             <guid>https://www.bloter.net/newsView/blt202301110018</guid>
@@ -918,14 +926,6 @@ SK하이닉스는 10억달러 규모의 지속가능연계채권(SLB) 발행에 
             <pubDate>Fri, 06 Jan 2023 08:18:06 GMT</pubDate>
             <content:encoded><![CDATA[올바른 반려문화 정착을 위해 힘쓰는 '피리부는 강아지'가 기부 효과와 함께 편의성을 늘리며 빠르게 성장 중이다. 에임드의 반려견 라이프 스타일 애플리케이션(앱) '피리부는 강아지'는 2022년 한 해 동안(1월~ 11월 합산 데이터) 집계된 반려견 산책 횟수·거리&amp;m]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/05/blt202301050015.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]넷플릭스·카카오엔터 맞손…韓 좀비 예능 나온다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060006</link>
-            <guid>https://www.bloter.net/newsView/blt202301060006</guid>
-            <pubDate>Fri, 06 Jan 2023 02:43:14 GMT</pubDate>
-            <content:encoded><![CDATA['넷플릭스'와 '카카오엔터테인먼트'가 '좀비'로 똘똘 뭉친다. 양사는 좀비를 주제로 한 예능 콘텐츠를 제작해 전 세계에 전파할 계획이다.6일 &lt;블로터&gt; 취재 결과 넷플릭스가 오리지널 예능 '좀비버스(가제)'를 준비 중이다. 좀비버스는 카카오엔터테인먼트가 제]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]한-UAE 경제사절단, 게임사업 새 활로 찾을까 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
