@@ -4,7 +4,7 @@
         <title>블로터 ─ 컬처 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 20:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 21:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,7 @@
             <link>https://www.bloter.net/newsView/blt202301130018</link>
             <guid>https://www.bloter.net/newsView/blt202301130018</guid>
             <pubDate>Fri, 13 Jan 2023 12:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>
-                        <span class="date">2023-01-13 18:58:57</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130042.601x301.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
