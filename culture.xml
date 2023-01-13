@@ -4,17 +4,9 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[구글·엔비디아, MS-블리자드 인수에 우려 표출]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130001</link>
-            <guid>https://www.bloter.net/newsView/blt202301130001</guid>
-            <pubDate>Thu, 12 Jan 2023 23:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글과 엔비디아가 마이크로소프트(MS)의 액티비전 블리자드(이하 블리자드) 인수에 대해 우려를 표출했다.12일(현지시간) &lt;블룸버그통신&gt;은 소식통을 인용해 구글과 엔비디아가 미국 연방거래위원회(FTC)에 MS가 블리자드를 인수하면 모바일 게임, 게임 구독과]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.293x165.0.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크]]></title>
             <link>https://www.bloter.net/newsView/blt202301120018</link>
@@ -64,6 +56,38 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/10/blt202301100003.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[클래스101 픽]발전하는 '러셀' 이야기 "크리에이터도 함께 공부합니다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090014</link>
+            <guid>https://www.bloter.net/newsView/blt202301090014</guid>
+            <pubDate>Fri, 13 Jan 2023 12:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 올해 구독 서비스를 기반으로 한 새로운 비즈니스 모델 '클래스101+'를 도입하며 재도약을 예고했습니다. 개별 클래스 판매로 성장한 클래스101의 구독 모델은 기업 뿐만 아니라 이용자, 나아가 강의 주체인 '크리에이터'들에게도]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090027.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023 마케팅 핫키워드]①GA4, 이제는 정말 전환해야 할 때]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090012</link>
+            <guid>https://www.bloter.net/newsView/blt202301090012</guid>
+            <pubDate>Fri, 13 Jan 2023 12:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[20여년 가까이 서비스해 온 구글 애널리틱스(GA)의 기존 버전 '유니버셜 애널리틱스'가 올해 7월 종료를 앞두게 되면서 차세대 분석 툴인 'GA4'로의 전환 필요성이 높아지고 있다. GA4를 시작할 때부터 데이터가 쌓이기 시작하고, '빅쿼리' 이용 등에 있어 적응하는 시간]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090022.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]이수만 SM 총괄PD는 왜 CES에 갔을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090010</link>
+            <guid>https://www.bloter.net/newsView/blt202301090010</guid>
+            <pubDate>Fri, 13 Jan 2023 12:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[이수만 SM엔터테인먼트(이하 SM) 총괄프로듀서가 세계 최대 IT·가전 전시회인 'CES 2023'을 방문한 것으로 알려졌다. 이를 두고 업계에서는 'SM이 엔터테인먼트와 융합할 콘텐츠 및 미래 기술을 파악하기 위해 CES 현장을 방문한 것 아니겠냐'는 추측을 내놓고 있다.9]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090017.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]박범진 넷마블네오 대표 사임…개발 자문역 유력]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090006</link>
+            <guid>https://www.bloter.net/newsView/blt202301090006</guid>
+            <pubDate>Fri, 13 Jan 2023 12:32:59 GMT</pubDate>
+            <content:encoded><![CDATA['리니지2 레볼루션', '제2의나라: 크로스월드' 등을 개발총괄했던 핵심 개발자이자, 넷마블네오 각자대표 자리에 올라 경영 일선을 담당했던 박범진 대표가 최근 일신상의 이유로 대표직을 사임한 것으로 알려졌다. 이에 따라 권영식·박범진 각자대표 체제로 운]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독]로블록스, 7만건 계정정지…'대리 구매' 맡긴 어린이 피해 속출]]></title>
             <link>https://www.bloter.net/newsView/blt202301090003</link>
             <guid>https://www.bloter.net/newsView/blt202301090003</guid>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 09 Jan 2023 01:10:45 GMT</pubDate>
             <content:encoded><![CDATA[트위터가 콘텐츠 감시와 온라인 혐오 발언 및 괴롭힘을 단속하는 부서 인력을 추가로 감원한 것으로 알려졌다.  8일(이하 현지시간) &lt;블룸버그통신&gt;은 소식통을 인용해 트위터가 아일랜드 더블린과 싱가포르에 있는 아시아태평양 지사 직원 최소 12명을 지난 6일]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090002.293x165.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 이슈 제기된 '슬랙'...세일즈포스와 '시너지' 의문]]></title>
-            <link>https://www.bloter.net/newsView/blt202301070001</link>
-            <guid>https://www.bloter.net/newsView/blt202301070001</guid>
-            <pubDate>Sun, 08 Jan 2023 09:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 기반 팀 협업 도구 '슬랙'에 보안 이슈가 제기됐다. 회사 측은 고객 데이터엔 문제가 없다고 밝혔다. 그럼에도 세일즈포스와 합병 이후 지속적으로 버그 이슈와 해킹 위협에 놓여있는 상황. 세일즈포스 및 슬랙 또한 경제침체기를 맞아 구조조정이 이뤄질]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/07/blt202301070001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'쿠로미'로 추진력?…넷마블, '머지 쿵야' 저력 보여줄까]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060022</link>
-            <guid>https://www.bloter.net/newsView/blt202301060022</guid>
-            <pubDate>Mon, 09 Jan 2023 10:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[넷마블이 '머지 쿵야 아일랜드'의 첫 콜라보레이션(이하 콜라보) 브랜드로 '산리오'를 선택했다. 자체 IP인 '쿵야' 캐릭터의 활용도를 최대한 높여 서비스를 이끌어 나가겠다는 넷마블의 자구책으로 풀이된다.  '작은 게임도 맵다'…대형 게임 속 인기 넷마블은 6]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060045.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]마테크 기업 '오브젠', 중견기업 타깃한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301060018</link>
-            <guid>https://www.bloter.net/newsView/blt202301060018</guid>
-            <pubDate>Mon, 09 Jan 2023 10:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[유수 대기업에 IT 솔루션을 제공해 온 오브젠이 중견·중소기업으로 사업영역을 확장한다고 밝혔다. 오브젠은 대기업에 비해 자원이 부족한 중견기업들에게 맞춤형 마케팅 솔루션을 제공하는 한편 네이버클라우드와 함께 아시아를 거점으로 글로벌 공략을 추]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/06/blt202301060033.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
