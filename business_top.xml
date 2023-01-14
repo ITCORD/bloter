@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 02:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 03:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[美서 틱톡 '현대·기아차 절도 챌린지' 인기…도난 급증]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130020</link>
-            <guid>https://www.bloter.net/newsView/blt202301130020</guid>
-            <pubDate>Sat, 14 Jan 2023 01:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-14 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/14/blt202301140003.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[“애플, 폭스콘과 전기차 협업하면 성공할 것” I 앨런 영 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130010</link>
+            <guid>https://www.bloter.net/newsView/blt202301130010</guid>
+            <pubDate>Sat, 14 Jan 2023 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span><span class="writer">이일호</span>                        <span class="date">2023-01-14 12:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130021.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['소프트웨어가 좋아야 좋은 차'...현대차, 2030년까지 SW에 18조 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202210130007</link>
-            <guid>https://www.bloter.net/newsView/blt202210130007</guid>
-            <pubDate>Sat, 14 Jan 2023 01:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현대차 아이오닉 5, 美 워즈오토 선정 '최고 10대 엔진' 수상]]></title>
-            <link>https://www.bloter.net/newsView/blt202209280004</link>
-            <guid>https://www.bloter.net/newsView/blt202209280004</guid>
-            <pubDate>Sat, 14 Jan 2023 01:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[美 '현대·기아차 절도' SNS 챌린지 유행, 피해자 집단소송 확산세]]></title>
-            <link>https://www.bloter.net/newsView/blt202209220001</link>
-            <guid>https://www.bloter.net/newsView/blt202209220001</guid>
-            <pubDate>Sat, 14 Jan 2023 01:06:12 GMT</pubDate>
+            <title><![CDATA[엔비디아·폭스콘, 자율주행차 개발 위해 협력]]></title>
+            <link>https://www.bloter.net/newsView/blt202301040004</link>
+            <guid>https://www.bloter.net/newsView/blt202301040004</guid>
+            <pubDate>Sat, 14 Jan 2023 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기아, 글로벌 시장서 점유율 5% 최초 달성...10%까지 '한 걸음 더']]></title>
-            <link>https://www.bloter.net/newsView/blt202207230001</link>
-            <guid>https://www.bloter.net/newsView/blt202207230001</guid>
-            <pubDate>Sat, 14 Jan 2023 01:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[우여곡절 '애플카' 프로젝트…이번에는 끝장 볼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202111190063</link>
+            <guid>https://www.bloter.net/newsView/blt202111190063</guid>
+            <pubDate>Sat, 14 Jan 2023 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아이폰 조립업체 폭스콘이 만드는 '전기차' 외관은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202110180011</link>
+            <guid>https://www.bloter.net/newsView/blt202110180011</guid>
+            <pubDate>Sat, 14 Jan 2023 03:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
