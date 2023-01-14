@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 23:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 01:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 의회, 군용 홀로렌즈 도입 위한 육군 예산 요청 거부]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130002</link>
+            <guid>https://www.bloter.net/newsView/blt202301130002</guid>
+            <pubDate>Sat, 14 Jan 2023 01:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-13 09:12:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글·엔비디아, MS-블리자드 인수에 우려 표출]]></title>
             <link>https://www.bloter.net/newsView/blt202301130001</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 12 Jan 2023 23:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-12 08:54:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미 FAA 시스템 오류로 미 전역서 항공편 연기·취소...”복구에 진전"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301110019</link>
-            <guid>https://www.bloter.net/newsView/blt202301110019</guid>
-            <pubDate>Thu, 12 Jan 2023 11:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-11 22:43:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110036.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
