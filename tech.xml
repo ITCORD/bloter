@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 02:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 03:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인도 시장 공략하는 애플, 새 전환점 맞이할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130019</link>
+            <guid>https://www.bloter.net/newsView/blt202301130019</guid>
+            <pubDate>Sun, 15 Jan 2023 03:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-15 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130044.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플코리아, 3년간 매출 늘었지만 영업익 33% 빠진 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202301140001</link>
             <guid>https://www.bloter.net/newsView/blt202301140001</guid>
             <pubDate>Fri, 13 Jan 2023 22:13:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-14 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/14/blt202301140001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/14/blt202301140001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]'탄소중립연구원'이 진짜 ESG 기업을 가려내는 방법]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 12 Jan 2023 08:22:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-12 16:53:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏘카 박재욱, 첫 주식 매수에 담은 '성장 시그널']]></title>
-            <link>https://www.bloter.net/newsView/blt202301120010</link>
-            <guid>https://www.bloter.net/newsView/blt202301120010</guid>
-            <pubDate>Thu, 12 Jan 2023 08:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-12 16:18:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
