@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 06:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 07:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포시마크는 왜 네이버를 택했나…3가지 키워드 풀이]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130016</link>
+            <guid>https://www.bloter.net/newsView/blt202301130016</guid>
+            <pubDate>Sun, 15 Jan 2023 07:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-15 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130035.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰]이지훈 젠지 단장 "애지중지 키운 페이즈, 제 2의 룰러로 키운다"]]></title>
             <link>https://www.bloter.net/newsView/blt202301130014</link>
             <guid>https://www.bloter.net/newsView/blt202301130014</guid>
             <pubDate>Sun, 15 Jan 2023 05:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-15 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130039.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[벌어진 삼성전자-TSMC 격차…'3나노 경쟁'서 우위 차지하려면?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 12 Jan 2023 10:22:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-12 18:54:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['5G 28GHz'에 부정적인 SKT…투자 바라는 장비사]]></title>
-            <link>https://www.bloter.net/newsView/blt202301120015</link>
-            <guid>https://www.bloter.net/newsView/blt202301120015</guid>
-            <pubDate>Thu, 12 Jan 2023 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-12 18:51:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120022.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
