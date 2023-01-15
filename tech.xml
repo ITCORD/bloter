@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 07:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 08:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]샌드박스네트워크, 웹드라마 만든다…적자 탈출 활로 찾을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301150002</link>
+            <guid>https://www.bloter.net/newsView/blt202301150002</guid>
+            <pubDate>Sun, 15 Jan 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-15 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/15/blt202301150002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포시마크는 왜 네이버를 택했나…3가지 키워드 풀이]]></title>
             <link>https://www.bloter.net/newsView/blt202301130016</link>
             <guid>https://www.bloter.net/newsView/blt202301130016</guid>
             <pubDate>Sun, 15 Jan 2023 07:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-15 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]이지훈 젠지 단장 "애지중지 키운 페이즈, 제 2의 룰러로 키운다"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 12 Jan 2023 23:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-13 08:05:56</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크]]></title>
-            <link>https://www.bloter.net/newsView/blt202301120018</link>
-            <guid>https://www.bloter.net/newsView/blt202301120018</guid>
-            <pubDate>Thu, 12 Jan 2023 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-12 18:54:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/12/blt202301120023.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
