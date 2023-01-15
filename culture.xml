@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 04:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 05:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰]이지훈 젠지 단장 "애지중지 키운 페이즈, 제 2의 룰러로 키운다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130014</link>
+            <guid>https://www.bloter.net/newsView/blt202301130014</guid>
+            <pubDate>Sun, 15 Jan 2023 05:14:53 GMT</pubDate>
+            <content:encoded><![CDATA["페이즈 김수환 선수는 이번 스토브리그 기간 적응에 초점을 맞췄어요. 대선배이자 슈퍼스타인 형들과 합을 맞추는 과정이 귀여워요. 페이즈를 잘 키워 '제 2의 룰러'로 만드는 게 저희의 새로운 목표예요"이지훈 젠지 이스포츠 단장(상무)이 오는 18일 LCK(리그 오브]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130039.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]DK·T1, 이유있는 양강 구도…리브랜딩 vs 팀워크]]></title>
             <link>https://www.bloter.net/newsView/blt202301120018</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 09 Jan 2023 01:10:45 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 메타버스 게임으로 잘 알려진 '로블록스'에서 대량 계정정지 사태가 벌어졌다. 이는 로블록스에서 화폐로 통용되는 '로벅스'의 대리 구매로 발생한 사건이다. 문제는 피해자 대부분이 '더 저렴한 금액으로 충전해 주겠다'는 업자에게 속아 계정까지 정지됐다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["트위터, 콘텐츠 감시 담당 인력 추가 해고"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301090002</link>
-            <guid>https://www.bloter.net/newsView/blt202301090002</guid>
-            <pubDate>Mon, 09 Jan 2023 01:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[트위터가 콘텐츠 감시와 온라인 혐오 발언 및 괴롭힘을 단속하는 부서 인력을 추가로 감원한 것으로 알려졌다.  8일(이하 현지시간) &lt;블룸버그통신&gt;은 소식통을 인용해 트위터가 아일랜드 더블린과 싱가포르에 있는 아시아태평양 지사 직원 최소 12명을 지난 6일]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090002.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
