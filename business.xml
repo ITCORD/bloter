@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 01:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 02:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1.2조 도전' 오아시스, 상장 후 더 중요…구주매출 30% 변수]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130012</link>
+            <guid>https://www.bloter.net/newsView/blt202301130012</guid>
+            <pubDate>Mon, 16 Jan 2023 02:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-15 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인도 시장 공략하는 애플, 새 전환점 맞이할까]]></title>
             <link>https://www.bloter.net/newsView/blt202301130019</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 15 Jan 2023 03:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-13 14:55:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ제일제당, 배당·성과급 미스매치…해외사업·CJ대한통운 걸림돌]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130003</link>
-            <guid>https://www.bloter.net/newsView/blt202301130003</guid>
-            <pubDate>Sat, 14 Jan 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-13 13:50:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
