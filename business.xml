@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 07:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 08:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수요 감소로 테슬라 판매가 대폭 인하…첫 시험대 오른 전기차 시장]]></title>
+            <link>https://www.bloter.net/newsView/blt202301160001</link>
+            <guid>https://www.bloter.net/newsView/blt202301160001</guid>
+            <pubDate>Mon, 16 Jan 2023 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-16 08:48:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[북미서 시장 확대하는 LG엔솔...日 혼다와 5.4조 규모 JV 설립]]></title>
             <link>https://www.bloter.net/newsView/blt202301150001</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 15 Jan 2023 09:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-14 09:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/14/blt202301140003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['친서울' 색 짙은 두나무·람다256…박형준 부산시장에는 심대한 위협]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130008</link>
-            <guid>https://www.bloter.net/newsView/blt202301130008</guid>
-            <pubDate>Sun, 15 Jan 2023 06:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-13 15:50:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130016.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
