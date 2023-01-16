@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 08:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 09:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]키네마스터 지배력 강화하는 솔본…경영·매각, 어떤 패 꺼낼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301160008</link>
+            <guid>https://www.bloter.net/newsView/blt202301160008</guid>
+            <pubDate>Mon, 16 Jan 2023 09:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 최근 '키네마스터'의 최대주주인 '솔본'이 해당 기업의 지배력을 강화하는 움직임을 보이고 있습니다. 최대주주의 경영권 개입이 없었던 키네마스터에 솔본 경영진이 사내이사로 합류할 가능성이 높아지]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160007.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]샌드박스네트워크, 웹드라마 만든다…적자 탈출 활로 찾을까]]></title>
             <link>https://www.bloter.net/newsView/blt202301150002</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 12:32:59 GMT</pubDate>
             <content:encoded><![CDATA[이수만 SM엔터테인먼트(이하 SM) 총괄프로듀서가 세계 최대 IT·가전 전시회인 'CES 2023'을 방문한 것으로 알려졌다. 이를 두고 업계에서는 'SM이 엔터테인먼트와 융합할 콘텐츠 및 미래 기술을 파악하기 위해 CES 현장을 방문한 것 아니겠냐'는 추측을 내놓고 있다.9]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090017.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]박범진 넷마블네오 대표 사임…개발 자문역 유력]]></title>
-            <link>https://www.bloter.net/newsView/blt202301090006</link>
-            <guid>https://www.bloter.net/newsView/blt202301090006</guid>
-            <pubDate>Fri, 13 Jan 2023 12:32:59 GMT</pubDate>
-            <content:encoded><![CDATA['리니지2 레볼루션', '제2의나라: 크로스월드' 등을 개발총괄했던 핵심 개발자이자, 넷마블네오 각자대표 자리에 올라 경영 일선을 담당했던 박범진 대표가 최근 일신상의 이유로 대표직을 사임한 것으로 알려졌다. 이에 따라 권영식·박범진 각자대표 체제로 운]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/09/blt202301090011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
