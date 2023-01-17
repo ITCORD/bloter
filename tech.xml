@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종근당·대웅바이오, 옥시라세탐 퇴출로 반사이익 얻나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170006</link>
+            <guid>https://www.bloter.net/newsView/blt202301170006</guid>
+            <pubDate>Tue, 17 Jan 2023 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-17 15:49:20</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이익률 37%' 토종 SW 티맥스소프트, 409억원 현금에 쏠린 눈]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170005</link>
+            <guid>https://www.bloter.net/newsView/blt202301170005</guid>
+            <pubDate>Tue, 17 Jan 2023 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-17 15:14:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170006.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 2억 화소 이미지센서 ‘아이소셀 HP2’로 1위 소니 추격]]></title>
             <link>https://www.bloter.net/newsView/blt202301170003</link>
             <guid>https://www.bloter.net/newsView/blt202301170003</guid>
             <pubDate>Tue, 17 Jan 2023 02:40:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-17 11:15:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고]커넥티드TV, 디지털 광고 채널로 급부상한 이유는]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 15 Jan 2023 03:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-15 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플코리아, 3년간 매출 늘었지만 영업익 33% 빠진 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301140001</link>
-            <guid>https://www.bloter.net/newsView/blt202301140001</guid>
-            <pubDate>Fri, 13 Jan 2023 22:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-14 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/14/blt202301140001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]'탄소중립연구원'이 진짜 ESG 기업을 가려내는 방법]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130015</link>
-            <guid>https://www.bloter.net/newsView/blt202301130015</guid>
-            <pubDate>Fri, 13 Jan 2023 12:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-01-13 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130031.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
