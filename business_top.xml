@@ -4,44 +4,30 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 05:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 06:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[커넥티드TV, 디지털 광고 채널로 급부상한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202211090009</link>
-            <guid>https://www.bloter.net/newsView/blt202211090009</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:34:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170004.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국조선해양, 새해부터 '수주 낭보'...1조 규모 LNG선 수주]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170004</link>
+            <guid>https://www.bloter.net/newsView/blt202301170004</guid>
+            <pubDate>Tue, 17 Jan 2023 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-17 15:09:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170008.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자, 2억 화소 이미지센서 ‘아이소셀 HP2’로 1위 소니 추격]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170003</link>
-            <guid>https://www.bloter.net/newsView/blt202301170003</guid>
-            <pubDate>Tue, 17 Jan 2023 02:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-17 11:15:27</span>]]></content:encoded>
+            <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
+            <link>https://www.bloter.net/newsView/blt202301080001</link>
+            <guid>https://www.bloter.net/newsView/blt202301080001</guid>
+            <pubDate>Tue, 17 Jan 2023 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[업비트 등 '닥사' 고삐 죄는 이복현 금감원장…"자율규제는 규제 아냐"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160013</link>
-            <guid>https://www.bloter.net/newsView/blt202301160013</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-17 09:30:04</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[③다시 TV에 주목해야 하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160012</link>
-            <guid>https://www.bloter.net/newsView/blt202301160012</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:20:30</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[美 퇴출 위기 놓인 틱톡, 15억달러 투입해 투명성 강화한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170001</link>
-            <guid>https://www.bloter.net/newsView/blt202301170001</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-17 08:21:11</span>]]></content:encoded>
+            <title><![CDATA['HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202212260015</link>
+            <guid>https://www.bloter.net/newsView/blt202212260015</guid>
+            <pubDate>Tue, 17 Jan 2023 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
