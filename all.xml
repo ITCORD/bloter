@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 08:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 09:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -257,7 +257,7 @@
             <title><![CDATA[나영호, 구원투수 등판 곧 만 2년...롯데온, 점차 줄어드는 반전 가능성 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170012</link>
             <guid>https://www.bloter.net/newsView/blt202301170012</guid>
-            <pubDate>Tue, 17 Jan 2023 08:19:10 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 08:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-17 17:12:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170020.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -374,18 +374,26 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[공시분석]전기차 충전 사업 판 LG헬로비전, 꿩 대신 닭 '지역 사업' 눈독 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170013</link>
+            <guid>https://www.bloter.net/newsView/blt202301170013</guid>
+            <pubDate>Tue, 17 Jan 2023 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-17 18:12:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['불통' 지적한 카카오 노조…"김범수부터 대화 나서라" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170010</link>
             <guid>https://www.bloter.net/newsView/blt202301170010</guid>
-            <pubDate>Tue, 17 Jan 2023 08:19:31 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 08:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-17 17:17:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반도체 부품 기업 해성디에스, 3200억원 설비투자의 의미 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170009</link>
             <guid>https://www.bloter.net/newsView/blt202301170009</guid>
-            <pubDate>Tue, 17 Jan 2023 08:19:31 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 08:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-17 16:47:21</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170018.290x163.0.png" length="0" type="image/png"/>
         </item>
@@ -508,14 +516,6 @@
             <pubDate>Sun, 15 Jan 2023 07:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-15 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]이지훈 젠지 단장 "애지중지 키운 페이즈, 제 2의 룰러로 키운다" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130014</link>
-            <guid>https://www.bloter.net/newsView/blt202301130014</guid>
-            <pubDate>Sun, 15 Jan 2023 05:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-15 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130039.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -1132,7 +1132,7 @@
             <title><![CDATA[열 중 여덟은 비대면 가입…은행권, 디지털금융에 역량 총결집 (블로터 ─ 금융)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170011</link>
             <guid>https://www.bloter.net/newsView/blt202301170011</guid>
-            <pubDate>Tue, 17 Jan 2023 08:20:41 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 08:18:48 GMT</pubDate>
             <content:encoded><![CDATA[은행업권이 디지털금융 경쟁력 강화에 역량을 총결집하고 있다. 은행 내 펀드상품 가입자 열 명 중 여덟 명이 비대면으로 가입하는 실정이다.17일 업계에 따르면 우리금융그룹은 그룹사 역량을 집중해 자사 금융 플랫폼인 '우리원(WON)뱅킹'을 새롭게 재구축하기로 했다. 이를 위해 서울 중구 소재 우리금융 본사에서 '뉴원(New WON)' 추진 등 그룹 디지털 현안 논의를 위한 '유니버셜뱅킹추진협의회'를 이날 개최했다. 유니버셜뱅킹추진협의회는 그룹 통합플랫폼 사업 추진에 따른 이슈 및 중점 추진사항 관련 의사결정을 수행하기 위해 2022년 9월 신설됐다. 협의회에는 우리금융그룹 최고디지털책임자(CDO) 옥일진 상무와 우리금융지주, 우리은행, 우리카드 등 7개 그룹사 디지털 부서장 등이 참석해 뉴원 추진 현황 공유 및 사업 추진에 따른 의견을 나눴다.2022년 열린 세 차례의 회의에서는 그룹 통합플랫폼 사업 추진과 관련해, 모바일 뱅킹 중장기 과제 및 새롭게 적용할 회원 정책 등에 대해 논의한 바 있다. 우리은행은 조직개편을 통해 우리원뱅킹을 새롭게 재구축하기 위한 '뉴원추진부'를 신설했다. 기존 뱅킹앱 재구축 준비 조직을 상설 부서로 확대 재편해 성공적인 우리원뱅킹 재구축을 위한 기반을 마련한다는 계획이다.옥일진 CDO는 "손태승 우리금융 회장이 신년사를 통해 '고객 중심 디지털 플랫폼 확장' 전략을 추진하겠다고 밝힌 바 있다"며 "최고디지털책임자이자 유니버셜뱅킹추진협의회의 의장으로서 우리금융의 대표 플랫폼인 우리원뱅킹의 성공적인 재구축에 역량을 집중할 것"이라고 말했다.영업전략을 짜는 '싱크탱크'격 조직에 디지털 전문가를 배치한 은행도 있다. IBK기업은행은 2023년 상반기 정기인사에서 디지털 전환 관련 선제적인 경영전략 마련을 위해 박태상 디지털기획부장을 경제경영연구실장, 윤석연 수탁부장을 정보보호최고책임자, 정성진 경제경영연구실장을 검사본부장으로 각각 선임했다. 경제경영연구실장은 IBK기업은행 경제연구소 내에서 미래전략팀과 경제연구팀을 아우른다.김성태 기업은행장의 첫 번째 조직개편은 '튼튼한 은행', '반듯한 금융'에 방점을 뒀다. 'IT개발본부'를 신설해 안정적인 시스템 운영과 디지털 전환 개발을 주도하고, '마이데이터사업셀(Cell)'을 정식조직인 '마이데이터사업팀'으로 편제해 마이데이터 사업고도화를 지원한다. 또 '금융사기예방팀'과 '사고분석·대응팀' 신설을 통해 금융소비자 보호와 내부통제를 강화한다.이렇게 은행업권이 연초부터 디지털에 사활을 거는 건 오프라인 영업창구보다 디지털 채널을 통해 더 많은 고객을 받는 추세가 자리잡고 있어서다. 우리금융에 따르면 펀드 신규가입자 중 비대면을 통한 비중은 2022년 3분기 누적으로 81.6%에 달했다. 신용대출도 67.8%의 고객이 비대면으로 받았다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170019.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
