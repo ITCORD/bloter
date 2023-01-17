@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 07:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 08:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업비트 등 '닥사' 고삐 죄는 이복현 금감원장…"자율규제는 규제 아냐"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301160013</link>
+            <guid>https://www.bloter.net/newsView/blt202301160013</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-17 09:30:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160021.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기차, 지난해 글로벌 신차 판매 점유율 사상 최초 10% 달성]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170002</link>
+            <guid>https://www.bloter.net/newsView/blt202301170002</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-17 09:21:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 퇴출 위기 놓인 틱톡, 15억달러 투입해 투명성 강화한다]]></title>
             <link>https://www.bloter.net/newsView/blt202301170001</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 17 Jan 2023 01:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-16 11:42:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美에너지부, 리튬 채굴업체에 자금 지원…야생화 훼손 우려로 최종 승인은 보류]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160002</link>
-            <guid>https://www.bloter.net/newsView/blt202301160002</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-16 10:04:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[수요 감소로 테슬라 판매가 대폭 인하…첫 시험대 오른 전기차 시장]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160001</link>
-            <guid>https://www.bloter.net/newsView/blt202301160001</guid>
-            <pubDate>Mon, 16 Jan 2023 08:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-16 08:48:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160001.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 07:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 08:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[한국조선해양, 새해부터 '수주 낭보'...1조 규모 LNG선 수주]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170004</link>
-            <guid>https://www.bloter.net/newsView/blt202301170004</guid>
-            <pubDate>Tue, 17 Jan 2023 06:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-17 15:09:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170008.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA[나영호, 구원투수 등판 곧 만 2년...롯데온, 점차 줄어드는 반전 가능성]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170012</link>
+            <guid>https://www.bloter.net/newsView/blt202301170012</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-17 17:12:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170020.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국조선해양, 올해 조선 부문 수주 목표 41% 하향 조정...조선·해운 경기 반영]]></title>
-            <link>https://www.bloter.net/newsView/blt202301080001</link>
-            <guid>https://www.bloter.net/newsView/blt202301080001</guid>
-            <pubDate>Tue, 17 Jan 2023 06:18:21 GMT</pubDate>
+            <title><![CDATA[롯데케미칼 파키스탄 법인 1923억에 매각...PTA 사업 철수]]></title>
+            <link>https://www.bloter.net/newsView/blt202301160003</link>
+            <guid>https://www.bloter.net/newsView/blt202301160003</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212260015</link>
-            <guid>https://www.bloter.net/newsView/blt202212260015</guid>
-            <pubDate>Tue, 17 Jan 2023 06:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[롯데, 3년 만에 '대면 VCM'…신동빈 회장 “기업가치 제고가 목표”]]></title>
+            <link>https://www.bloter.net/newsView/blt202301120017</link>
+            <guid>https://www.bloter.net/newsView/blt202301120017</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[게임은 메타버스라 부를 수 없게 만든 롯데정보통신]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060015</link>
+            <guid>https://www.bloter.net/newsView/blt202301060015</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">라스베이거스(미국)=이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 힘싣는 롯데...핵심은 VR기기 보급]]></title>
+            <link>https://www.bloter.net/newsView/blt202301050003</link>
+            <guid>https://www.bloter.net/newsView/blt202301050003</guid>
+            <pubDate>Tue, 17 Jan 2023 08:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
