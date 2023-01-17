@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 01:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 02:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 2억 화소 이미지센서 ‘아이소셀 HP2’로 1위 소니 추격 (블로터 ─ 최신기사)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170003</link>
+            <guid>https://www.bloter.net/newsView/blt202301170003</guid>
+            <pubDate>Tue, 17 Jan 2023 02:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 최신 기술이 대거 적용된 이미지센서 ‘아이소셀 HP2’를 출시하며 시장 1위 사업자 소니의 추격에 나선다.삼성전자는 17일 0.6㎛(마이크로미터) 크기의 픽셀 2억개를 탑재한 이미지센서 아이소셀 HP2를 출시했다고 밝혔다. 이미지센서는 카메라 렌즈를 통해 들어온 빛을 디지털 신호로 바꿔주는 시스템 반도체다.시장조사업체 스트레티지 애널리스트에 따르면 지난해 상반기 기준 스마트폰 이미지센서 시장 점유율은 소니가 44%로 1위를 차지하고 있다. 삼성전자는 30%로 2위다. 삼성전자는 이 시장에서 매년 점유율을 끌어올리며 소니를 추격하고 있다.업계에 따르면 HP2는 내달 1일 공개될 삼성전자의 신형 스마트폰 갤럭시S23에 탑재될 것으로 알려졌다. 소니는 애플과 중국의 샤오미 등 회사에 이미지센서를 납품하고 있다. 갤럭시S23의 흥행 여부가 소니와의 점유율 격차를 줄이는 데 중요한 역할을 할 것으로 보인다.삼성전자는 HP2에 초고화소에 최적화된 업계 최신 기술을 대거 적용했다.먼저 업계 최초로 ‘듀얼 버티컬 트랜스퍼 게이트’ 기술을 적용해 전하저장용량을 이전 2억 화소 제품 대비 최대 33%까지 높였다. 전하저장용량이 높아지면 각 픽셀이 더 많은 빛을 활용할 수 있어 보다 풍부한 색 표현이 가능하다.조도 조건에 따라 4개 또는 16개의 인접 픽셀을 묶어 수광 면적을 확대하는 ‘테트라 스퀘어드 픽셀’ 기술도 적용했다. 어두운 날씨나 저조도 환경에서도 1.2㎛(5000만 화소) 또는 2.4㎛(1250만 화소) 크기의 픽셀과 같은 수광 면적을 확보해 선명한 사진 촬영이 가능하다.또 HDR(High Dynamic Range) 기능 강화를 위해 기존 ‘스마트 ISO 프로’, ‘듀얼 슬로프 게인’ 기술도 새로 적용했다.듀얼 슬로프 게인은 픽셀에 들어온 빛의 아날로그 정보를 서로 다른 2개의 신호로 증폭하고 이를 디지털 신호로 변환해 하나의 데이터로 합성하는 기술이다. 센서가 표현할 수 있는 색의 범위를 넓혀준다. 삼성전자는 이 기술을 통해 업계 최초로 모바일 AP(어플리케이션프로세서)의 지원 없이 이미지센서만으로 5000만 화소의 HDR 촬영을 구현했다.HP2에는 2억개 화소를 모두 활용해 위상차 자동 초점 기능을 수행하는 ‘슈퍼 QPD’ 기능도 탑재됐다. 거실 밝기보다 100배 가량 낮은 밝기의 달빛 아래(약 1룩스)에서도 위상차를 이용해 빠르고 정확하게 초점을 맞출 수 있다.이 밖에 딥러닝 기반의 리모자이크 알고리즘을 적용해 촬영 속도와 품질을 향상시켰다. HP2의 2억 화소 촬영 속도는 이전 제품 대비 2배가량 빨라졌으며, 초당 30프레임의 8K 해상도, 120프레임의 4K 해상도를 지원한다.임준서 삼성전자 시스템LSI사업부 센서사업팀장(부사장)은 "'아이소셀 HP2'에는 삼성전자의 차별화된 초고화소 센서 기술과 노하우가 집약됐다"며 "고객 요구에 기반한 끊임없는 기술 혁신과 딥 러닝 기반의 화질 최적화 기술을 통해 지속 성장하고 있는 초고화소 이미지센서 시장에서 리더십을 강화할 것"이라고 말했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170005.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고]커넥티드TV, 디지털 광고 채널로 급부상한 이유는 (블로터 ─ 최신기사)]]></title>
             <link>https://www.bloter.net/newsView/blt202211090009</link>
@@ -120,14 +128,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160002.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[수요 감소로 테슬라 판매가 대폭 인하…첫 시험대 오른 전기차 시장 (블로터 ─ 최신기사)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160001</link>
-            <guid>https://www.bloter.net/newsView/blt202301160001</guid>
-            <pubDate>Mon, 16 Jan 2023 01:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라가 판매 부진으로 대규모 가격 인하를 발표했다. 최근 한국, 중국, 일본, 호주를 비롯한 아시아 전역에서 약 10% 인하를 단행하기 시작한데 이어 지난 14일(이하 현지시간) 미국과 유럽 내에서도 전기차 가격을 최대 20% 낮추기로 했다. 현지 언론에 따르면 이로 인해 할인 전에 테슬라를 구매한 소비자들 사이에서 불만이 속출하고 있다. 한편 증시 전문가들은 이번 조치에 대해 엇갈린 평가를 내놓고 있다.    &lt;씨엔비씨(CNBC&gt;에 따르면 구겐하임 로널드 주시코프 애널리스트는 테슬라가 큰 폭의 가격 인하와 인센티브를 제공했기 때문에 지난해 4분기 매출이 예상치를 크게 하회할 수 있다고 봤다. 이에 따라 구겐하임은 테슬라의 이익률을 월가 전망치보다 25% 낮게 조정했다.반면 웨드부시 애널리스트 댄 아이브스는 “거시 경제적 불확실성 가운데 전기차 전환을 가속화할 수 있는 적절하고 공격적인 조치”라고 평가했다. 이번 조치는 전기차 생산량이 폭발적으로 늘고 있는 가운데 수요가 감소하는 가운데 이뤄졌다. 20여 년 전 닷컴버블 당시 테크주가 폭락했던 것과 마찬가지로 지난해 전기차 기업의 주가도 크게 떨어졌다. 테슬라, 피스커, 루시드의 주가는 각각 65%, 54%, 82% 하락했다.CNBC는“현재 전기차 시장이 2000년~2001년 사이에 나스닥 시장을 붕괴시킨 닷컴버블 당시의 아마존과 이베이와 같은 기업들이 직면했던 것과 유사한 역학관계를 형성하고 있다”고 분석했다. 나아가 “앞으로 전기차 기업 주가가 반등할지, 신생 전기차 제조업체들이 필요한 자금을 확보할 수 있을지, 전기차 부문에서의 일자리가 증가할지 등은 경기 침체 발생 여부를 포함한 거시적 환경에 의해 좌우될 것”이라고 전했다. 웨드부시의 아이브스는 “테슬라가 현금 고갈을 겪을 위험은 없다”고 분석했다. 아이브스는 테슬라가 3분기 말에 약 210억달러의 현금을 창출했고 오는 25일 있을 4분기 실적 발표에서 40억달러 이상의 현금을 창출했다고 밝힐 것으로 예상했다. CFRA리서치 개럿 넬슨 애널리스트는 “전기차 시장에서 가장 좋은 입지를 가진 회사는 여전히 테슬라”라고 말했다. 넬슨은 전기차 할인 이후 테슬라의 이익률은 줄어들겠지만 차량 판매량은 늘어날 것이라며 “회사의 경쟁 우위가 더욱 확대되고 더 많은 테슬라 차량이 7500달러의 전기차 세액 공제를 받을 수 있게 될 것”이라고 말했다. 다만 넬슨은 “테슬라가 현재 직면하고 있는 최대 문제는 트위터”라고 지적했다. 웨드부시의 아이브스도 일론 머스크가 테슬라 경영에 집중해야 한다고 강조했다. 아이브스는 “현재 월가는 머스크가 테슬라 경영에서 손을 놓고 있다고 인식하고 있는데 지금은 테슬라가 머스크의 리더십으로 어두운 거시 환경과 수요 부진의 때를 헤쳐 나가야할 때”라며 “올해는 다음 성장을 위한 토대가 마련되거나 추락이 지속될지를 결정지을 분기점의 해”라고 지적했다. 로즈타운, 카누, 패러데이퓨처와 같은 전기차 스타트업은 경기 침체 우려에 따른 현금 고갈을 피하기 위해 비용을 줄이거나 대규모 자금 조달에 나섰다.그레그 비숙 AXS인베스트먼츠 최고경영자(CEO)는 “우리는 대차대조표에서 안정성과 더 많은 자본을 조달할 수 있는 능력을 같이 본다”며 “특히 중간층에 속한 전기차 제조업체들이 힘든 한 해를 보낼 것”이라고 말했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160001.291x174.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[팅크웨어, BMW 업고 매출 늘렸지만 이익률은 1%대…왜? (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160010</link>
             <guid>https://www.bloter.net/newsView/blt202301160010</guid>
@@ -169,16 +169,6 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/14/blt202301140004.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[롯데케미칼 파키스탄 법인 1923억에 매각...PTA 사업 철수 (블로터 ─ 실시간 랭킹)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160003</link>
-            <guid>https://www.bloter.net/newsView/blt202301160003</guid>
-            <pubDate>Mon, 16 Jan 2023 02:43:03 GMT</pubDate>
-            <content:encoded><![CDATA[(사진=롯데케미칼)
-
-롯데케미칼이 파키스탄 법인(LOTTE Chemical Pakistan Limited)을 1924억원에 처분한다. 롯데케미칼은 동박 제조사인 일진머티리얼즈를 인수하고, 인도네시아에 초대형 화학단지를 건설하고 있다. 자금 수요가 상당한 만큼 비핵심 자산을 매각하고 있다.롯데케미칼은 16일 이사회를 열고 파키스탄 법인의 지분 75.01%를 파키스탄 화학사 럭키코어인더스트리에 매각하는 안건을 의결했다. 롯데케미칼과 럭키코어인더스트리는 26일 주식매매계약(SPA)을 체결한다. 양사는 파키스탄 당국의 기업결합 심사를 거쳐 올해 안에 딜을 마무리한다.롯데케미칼은 "사업 포트폴리오를 최적화하기 위해 매각한다"고 밝혔다. 롯데케미칼은 파키스탄 법인의 매각 가격이 1924억원에 달할 것이라고 설명했다. 롯데케미칼은 매각 자금을 기존 석유화학 설비와 친환경 사업에 투자한다. 롯데케미칼은 매각 자금을 일진머티리얼즈 인수 자금에 활용할 것으로 예상된다. 일진머티리얼즈 인수에 2조7000억원이 필요한 만큼 롯데케미칼은 매각 대금을 활용할 것으로 전망된다.파키스탄 법인은 롯데케미칼이 2009년 네덜란드 페인트업체인 악조노벨로부터 147억원에 인수한 업체다. 자산 규모는 2425억원이다. 2021년 매출은 4721억원, 순이익은 326억원을 기록했다.이 법인은 합성섬유와 페트의 중간 원료인 고순도테레프탈산(PTA)을 생산한다. 롯데케미칼은 이번 매각으로 PTA 사업에서 완전히 손을 뗀다. 롯데케미칼은 사업 경쟁력을 제고하기 위해 2020년 울산공장부터 PTA 생산을 중단했다. PTA 사업이 롯데케미칼의 포트폴리오에 맞지 않는 만큼 매각이 불가피했다.롯데케미칼은 인수대금의 약 13배를 더해 매각해 매각차익을 올리게 됐다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160003.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['1.2조 도전' 오아시스, 상장 후 더 중요…구주매출 30% 변수 (블로터 ─ 실시간 랭킹)]]></title>
             <link>https://www.bloter.net/newsView/blt202301130012</link>
             <guid>https://www.bloter.net/newsView/blt202301130012</guid>
@@ -187,6 +177,16 @@
 
 지난 12일 금융감독원에 증권신고서를 제출하고 코스닥 상장 절차에 돌입한다고 밝힌 오아시스가 과연 상장 후 1조원 이상의 몸값을 유지할 수 있을지 주목된다. 지난해 1조1000억원의 기업가치를 인정받고 투자유치를 받은 오아시스는 희망 공모가 범위를 3만500~3만9500원으로 제시했다. 최대 1조2535억원의 가치를 평가받을 수 있는 수준이다. 그러나 공모가를 최상단인 3만9500원으로 확정하고 상장 직후 1조2000억원의 가치를 인정받더라도 이후 주가가 공모가 수준을 유지할지는 미지수다. 현재 비상장 주식거래 시장에서 받는 가치와는 다소 차이가 나기 때문이다. 지난 13일 기준 비상장주식 거래 플랫폼 서울거래소 비상장에 따르면 오아시스의 기업가치는 약 8000억원에 형성돼 있다. 공모가 최하단 3만500원에 상장할 경우의 기업가치 1조원보다 2000억원이나 낮다. 1주당 가격이 지난 11일 2만2900원에서 13일 2만9000원 선으로 폭등했음에도 아직은 몸값이 희망 공모가에 못미치는 수준이다. 투자자로부터는 1조원 이상의 가치를 평가받아 ‘유니콘’ 기업으로 등극했지만 비상장거래 시장에서는 ‘유니콘’의 지위를 상실한 셈이다.&nbsp;오아시스의 최대주주인 구주매출을 실시하는 것도 향후 주가 향방을 부정적으로 예상케 하는 요소 중 하나다. 구주매출은 기존 주주가 상장과 함께 보유한 주식을 공모로 매도해 이익을 실현하는 것으로, 이 경우 공모자금이 상장사가 아닌 상장사 주주의 호주머니로 들어가게 된다. 이번 오아시스의 구주매출 물량은 157만1000주로 전체 공모주 523만6000주 중 30%를 차지한다. 공모가 범위에 따라 최소 479억에서 최대 621억원까지 이익 실현이 가능하다. 대주주인 지어소프트가 구주매출을 하지 않을 경우 오아시스의 미래 투자자금으로 사용될 수 있는 돈이다. 오아시스는 구주매출을 제외하고 신주발행을 통해 최대 1448억원의 자금을 조달할 것으로 예상된다. 해당 자금은 향후 시설확보와 M&amp;A(인수합병)에 사용할 예정이다. 오아시스가 증권신고서에 밝힌 자금목적에 따르면 오는 2025년까지 시설자금 725억원, M&amp;A 369억원을 책정했다. 시설자금에는 물류센터 비용이 580억원으로 대부분을 차지했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130027.291x174.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데케미칼 파키스탄 법인 1923억에 매각...PTA 사업 철수 (블로터 ─ 실시간 랭킹)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301160003</link>
+            <guid>https://www.bloter.net/newsView/blt202301160003</guid>
+            <pubDate>Mon, 16 Jan 2023 02:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[(사진=롯데케미칼)
+
+롯데케미칼이 파키스탄 법인(LOTTE Chemical Pakistan Limited)을 1924억원에 처분한다. 롯데케미칼은 동박 제조사인 일진머티리얼즈를 인수하고, 인도네시아에 초대형 화학단지를 건설하고 있다. 자금 수요가 상당한 만큼 비핵심 자산을 매각하고 있다.롯데케미칼은 16일 이사회를 열고 파키스탄 법인의 지분 75.01%를 파키스탄 화학사 럭키코어인더스트리에 매각하는 안건을 의결했다. 롯데케미칼과 럭키코어인더스트리는 26일 주식매매계약(SPA)을 체결한다. 양사는 파키스탄 당국의 기업결합 심사를 거쳐 올해 안에 딜을 마무리한다.롯데케미칼은 "사업 포트폴리오를 최적화하기 위해 매각한다"고 밝혔다. 롯데케미칼은 파키스탄 법인의 매각 가격이 1924억원에 달할 것이라고 설명했다. 롯데케미칼은 매각 자금을 기존 석유화학 설비와 친환경 사업에 투자한다. 롯데케미칼은 매각 자금을 일진머티리얼즈 인수 자금에 활용할 것으로 예상된다. 일진머티리얼즈 인수에 2조7000억원이 필요한 만큼 롯데케미칼은 매각 대금을 활용할 것으로 전망된다.파키스탄 법인은 롯데케미칼이 2009년 네덜란드 페인트업체인 악조노벨로부터 147억원에 인수한 업체다. 자산 규모는 2425억원이다. 2021년 매출은 4721억원, 순이익은 326억원을 기록했다.이 법인은 합성섬유와 페트의 중간 원료인 고순도테레프탈산(PTA)을 생산한다. 롯데케미칼은 이번 매각으로 PTA 사업에서 완전히 손을 뗀다. 롯데케미칼은 사업 경쟁력을 제고하기 위해 2020년 울산공장부터 PTA 생산을 중단했다. PTA 사업이 롯데케미칼의 포트폴리오에 맞지 않는 만큼 매각이 불가피했다.롯데케미칼은 인수대금의 약 13배를 더해 매각해 매각차익을 올리게 됐다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160003.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포시마크는 왜 네이버를 택했나…3가지 키워드 풀이 (블로터 ─ 실시간 랭킹)]]></title>
@@ -257,37 +257,37 @@
             <title><![CDATA[커넥티드TV, 디지털 광고 채널로 급부상한 이유는 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202211090009</link>
             <guid>https://www.bloter.net/newsView/blt202211090009</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:34:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170004.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 2억 화소 이미지센서 ‘아이소셀 HP2’로 1위 소니 추격 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170003</link>
+            <guid>https://www.bloter.net/newsView/blt202301170003</guid>
+            <pubDate>Tue, 17 Jan 2023 02:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-17 11:15:27</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[업비트 등 '닥사' 고삐 죄는 이복현 금감원장…"자율규제는 규제 아냐" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160013</link>
             <guid>https://www.bloter.net/newsView/blt202301160013</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-17 09:30:04</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[③다시 TV에 주목해야 하는 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160012</link>
             <guid>https://www.bloter.net/newsView/blt202301160012</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:20:30</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[美 퇴출 위기 놓인 틱톡, 15억달러 투입해 투명성 강화한다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170001</link>
             <guid>https://www.bloter.net/newsView/blt202301170001</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-17 08:21:11</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팅크웨어, BMW 업고 매출 늘렸지만 이익률은 1%대…왜? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160010</link>
-            <guid>https://www.bloter.net/newsView/blt202301160010</guid>
-            <pubDate>Mon, 16 Jan 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-16 17:58:53</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LG엔솔·한화그룹 '배터리 동맹'...ESS·UAM 전방위 사업 협력 (블로터 ─ 비즈니스)]]></title>
@@ -374,18 +374,26 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, 2억 화소 이미지센서 ‘아이소셀 HP2’로 1위 소니 추격 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170003</link>
+            <guid>https://www.bloter.net/newsView/blt202301170003</guid>
+            <pubDate>Tue, 17 Jan 2023 02:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-17 11:15:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[기고]커넥티드TV, 디지털 광고 채널로 급부상한 이유는 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202211090009</link>
             <guid>https://www.bloter.net/newsView/blt202211090009</guid>
-            <pubDate>Tue, 17 Jan 2023 01:10:03 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:34:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업비트 등 '닥사' 고삐 죄는 이복현 금감원장…"자율규제는 규제 아냐" (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160013</link>
             <guid>https://www.bloter.net/newsView/blt202301160013</guid>
-            <pubDate>Tue, 17 Jan 2023 01:10:03 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-17 09:30:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -393,7 +401,7 @@
             <title><![CDATA[[2023 마케팅 핫키워드]③다시 TV에 주목해야 하는 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160012</link>
             <guid>https://www.bloter.net/newsView/blt202301160012</guid>
-            <pubDate>Tue, 17 Jan 2023 01:10:03 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:20:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160019.290x163.0.png" length="0" type="image/png"/>
         </item>
@@ -401,7 +409,7 @@
             <title><![CDATA[美 퇴출 위기 놓인 틱톡, 15억달러 투입해 투명성 강화한다 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170001</link>
             <guid>https://www.bloter.net/newsView/blt202301170001</guid>
-            <pubDate>Tue, 17 Jan 2023 01:10:03 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-17 08:21:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170001.290x163.0.png" length="0" type="image/png"/>
         </item>
@@ -508,14 +516,6 @@
             <pubDate>Fri, 13 Jan 2023 12:29:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-01-13 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]에버소울, 리니지2M 매출 넘었다…서브컬쳐 적중 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301130018</link>
-            <guid>https://www.bloter.net/newsView/blt202301130018</guid>
-            <pubDate>Fri, 13 Jan 2023 12:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-13 18:58:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -796,7 +796,7 @@
             <title><![CDATA[[2023 마케팅 핫키워드]③다시 TV에 주목해야 하는 이유 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160012</link>
             <guid>https://www.bloter.net/newsView/blt202301160012</guid>
-            <pubDate>Tue, 17 Jan 2023 01:11:32 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[국내 광고 시장은 이미 디지털 부문이 과반을 차지하는 상태로 방송 광고는 침체기를 겪고 있다. 이에 어드레서블TV 등 기술과 결합하며 디지털-방송간 시너지를 낼 수 있는 플랫폼들이 부상하고 있다. 해외에서는 이들 플랫폼이 점유율을 높여가고 있는 만큼, 방송]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160019.293x165.0.png" length="0" type="image/png"/>
         </item>
@@ -804,7 +804,7 @@
             <title><![CDATA[美 퇴출 위기 놓인 틱톡, 15억달러 투입해 투명성 강화한다 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301170001</link>
             <guid>https://www.bloter.net/newsView/blt202301170001</guid>
-            <pubDate>Tue, 17 Jan 2023 01:11:32 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[미국에서 퇴출될 위기에 놓인 숏폼 동영상 틱톡이 미국 내 사업 재편에 15억달러(약1조 8600억원)를 투입할 계획인 것으로 알려졌다.   16일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 틱톡 측이 최근 미국 의원과 시민단체와 대화를 내눴으며 이때 미국 내 사업 재편을 위]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170001.293x165.0.png" length="0" type="image/png"/>
         </item>
@@ -1132,7 +1132,7 @@
             <title><![CDATA[업비트 등 '닥사' 고삐 죄는 이복현 금감원장…"자율규제는 규제 아냐" (블로터 ─ 금융)]]></title>
             <link>https://www.bloter.net/newsView/blt202301160013</link>
             <guid>https://www.bloter.net/newsView/blt202301160013</guid>
-            <pubDate>Tue, 17 Jan 2023 01:13:05 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[이복현 금융감독원장이 가상자산거래소들이 주장하는 '자율규제론'을 곧이곧대로 수용하지 않겠다는 의중을 드러냈다. 금감원 주도로 가상자산시장 모니터링 도구를 개발하고 공시를 강화토록 하는 등 규제 능력 강화에 나섰다.이 원장은 16일 서울 마포구 프론트원에서 '가상자산 관련 금융리스크 점검 회의'를 마친 후 기자 질의를 받고 "자율규제는 규제가 아니다"라며 "자율규제가 적절한지 다른 강력한 규제가 필요한지에 대해서는 이렇게 열린 자리에서 말씀드리는 건 조심스럽다"고 말했다.앞서 업비트, 빗썸, 코인원, 코빗, 고팍스 5대 원화마켓거래소로 구성된 '디지털자산 거래소 공동협의체(DAXA, 닥사)'는 지난 12일 국회에서 심포지엄을 열고 거래소 차원의 자율규제 시행으로 시장 내 자정작용을 극대화했다고 자평한 바 있다.이 자리에서 이석우 닥사 의장(두나무 대표)은 "닥사 출범은 자율규제의 기반을 마련한 것"이라며 "닥사는 외부 전문가로 구성된 자문위원과 분과위원회를 운영하며 공동의 자율규제안을 수립하고 이를 이행해 나가고 있다"고 강조했다. 강현정 변호사는 "민간이 전문성이나 효율성을 가지고 있다면 규제 일부를 민간으로 이양할 수도 있다"고 주장했다.닥사가 주창하는 '민간 주도의 자율규제'에 이 원장도 지난해까지는 "시장의 자율규제를 확립하는 게 필요하다"며 공감하는 듯한 모습이었지만, 최근 들어선 규제기능을 적극 발휘하겠다는 쪽으로 입장이 선회한 것으로 풀이된다.이 원장은 "이런 자리를 마련한 것 자체가 종전과는 입장과 변했다는 걸로도 볼 수 있을 것 같다"며 "진흥을 위해서라도 룰 메이킹을 확실히 하지 않으면 더 이상 소비자의 신뢰를 얻기 어렵다는 전제하에 금융당국도 적극적으로 입법 노력이나 가이드라인 마련에 동참할 것"이라 했다.김부곤 금감원 디지털금융혁신국장은 가상자산 시장이 국내 금융시장에 미치는 영향과 관련해 잠재리스크가 전이되는 경로로 총 9개의 경로가 있다고 분석하고 각 경로별 국내 위험도를 평가했다. 법정화폐 등 실물자산과 1:1로 연동되는 스테이블코인을 그 경로 중 하나로 꼽았다.김 국장은 "그동안 가상자산 시장의 성장에도 불구하고 아직까지 금융시스템 안정성에 직접적으로 미치는 영향은 낮은 수준이었다"면서도 "다만 최근 양 시장 간 직·간접적인 연결고리가 발생한 사례가 지속적으로 드러났기 때문에 향후 감독당국 및 학계 등의 관련 연구 및 검토 등이 필요하다"고 강조했다.이대기 한국금융연구원 선임연구위원에 따르면 비트코인과 미국 S&amp;P지수 변동률 간 상관관계는 2017~2019년 9%에서 2020~2022년 39%로 급증했다. 폭락장 시 '스테이블코인런'이 금융시장까지 파급될 수 있다는 우려다. 이 연구위원은 스테이블코인이나 CBDC(중앙은행 디지털화폐)가 은행예금을 대체할 경우 은행의 자금조달 비용상승과 자금중개 기능 약화, 자원배분의 효율성 저하 등으로 금융시스템의 리스크를 확대할 가능성이 있다고 짚었다. 가상자산 시장이 확대될 경우 전통적 금융시장으로의 위험전이 가능성을 최소화할 수 있는 제도적 장치를 구축해야 한다고 했다.금감원은 이런 의견들을 향후 가상자산 규율체계 마련과 금융시스템 안정을 위한 감독에 반영하겠다는 의지다. 이복현 원장은 2023년 가상자산 시장 리스크 관리 및 금융시스템 안정을 위해 다양한 업무를 계획하고 있다고 밝혔다. 우선 회계 유관기관과 함께 가상자산 발행과 보유와 관련한 주석공시 의무를 신설하고, 모범사례도 배포하는 등 가상자산에 대한 충실한 회계정보 공시 유도를 통해 회계기준을 정립한다는 계획이다.아울러 가상자산 관련 데이터 확보의 중요성을 강조하며 가상자산 시장 모니터링 툴을 개발해 잠재리스크 측정 및 평가역량을 제고하겠다고 밝혔다. 가상자산과 관련해 금융회사, 가상자산 업계 등의 다양한 의견을 수렴할 수 있는 설문조사를 계획하고 있다고 설명했다.이와 관련해 국내 대표 가상자산 공시 플랫폼 쟁글(Xangle)을 운영하는 크로스앵글의 역할이 주목된다. 이번 금감원 회의에 초청받은 김준우 크로스앵글 대표는 모니터링 툴이 부재해 정보비대칭 문제가 심각하고 이로 인한 투자자 피해 우려도 있다고 언급했다. 가상자산 시장의 건전한 발전과 성장을 위해서는 규제와 함께 온-체인(On-chain) 정보를 활용할 수 있는 모니터링 툴의 발전이 점점 더 중요해질 것으로 예상된다고 덧붙였다.크로스앵글은 최근 가상자산 실시간 유통량 모니터링 서비스 '라이브워치'를 선보였다. 프로젝트에서 공시한 유통 계획과 실제로 유통되고 있는 블록체인 네트워크상의 온체인 토큰 정보를 교차검증해 투자자들에게 보다 정확한 정보를 제공한다. 이는 유통량 불일치 문제로 4대 거래소에서 상장폐지 처리된 '위믹스 사태'의 재발을 방지하고자 하는 의도다. 향후 금감원의 모니터링 툴에 크로스앵글과 공조가 이뤄질 경우 금감원의 규제 권능을 높여줄 수 있을 것으로 보인다. 잠재 리스크가 있는 블록체인 프로젝트에 대해선 5대 거래소가 닥사를 활용해 처분을 결정하는 현행 방식이 아닌, 금감원이 선제적으로 규제 방향을 제시할 수 있게 된다는 뜻이다. 이 원장은 "루나·테라 사태 이후에 닥사를 중심으로 업계 자체에서 노력을 하고 있다는 선의에 대해서 폄훼할 생각은 없다"고 했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160021.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>

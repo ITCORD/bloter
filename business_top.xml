@@ -4,7 +4,7 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 01:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 02:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:34:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170004.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 2억 화소 이미지센서 ‘아이소셀 HP2’로 1위 소니 추격]]></title>
+            <link>https://www.bloter.net/newsView/blt202301170003</link>
+            <guid>https://www.bloter.net/newsView/blt202301170003</guid>
+            <pubDate>Tue, 17 Jan 2023 02:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-17 11:15:27</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[업비트 등 '닥사' 고삐 죄는 이복현 금감원장…"자율규제는 규제 아냐"]]></title>
@@ -35,13 +42,6 @@
             <guid>https://www.bloter.net/newsView/blt202301170001</guid>
             <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-17 08:21:11</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팅크웨어, BMW 업고 매출 늘렸지만 이익률은 1%대…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160010</link>
-            <guid>https://www.bloter.net/newsView/blt202301160010</guid>
-            <pubDate>Tue, 17 Jan 2023 01:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-16 17:58:53</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
