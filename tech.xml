@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 08:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 09:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]북미 MAU 1위 네이버웹툰, 미국에 주목한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202301180016</link>
+            <guid>https://www.bloter.net/newsView/blt202301180016</guid>
+            <pubDate>Wed, 18 Jan 2023 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-18 17:29:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180024.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다른 통신장비사 울 때 웃은 머큐리…와이파이 AP 시장은 23년도 '맑음']]></title>
             <link>https://www.bloter.net/newsView/blt202301180012</link>
             <guid>https://www.bloter.net/newsView/blt202301180012</guid>
             <pubDate>Wed, 18 Jan 2023 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-18 17:05:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반도체 기판 강자 심텍, 고부가제품 ‘승부수’]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 17 Jan 2023 01:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-17 08:21:11</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팅크웨어, BMW 업고 매출 늘렸지만 이익률은 1%대…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160010</link>
-            <guid>https://www.bloter.net/newsView/blt202301160010</guid>
-            <pubDate>Mon, 16 Jan 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-16 17:58:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
