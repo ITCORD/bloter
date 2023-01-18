@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 02:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 03:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이브, 네이버·LG유플러스 가려운 데 긁어줄 '효자손' 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301180005</link>
+            <guid>https://www.bloter.net/newsView/blt202301180005</guid>
+            <pubDate>Wed, 18 Jan 2023 03:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-18 11:55:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨버샌드윅, 한국 오피스 리더십 교체…배정화 대표 임명]]></title>
             <link>https://www.bloter.net/newsView/blt202301180003</link>
             <guid>https://www.bloter.net/newsView/blt202301180003</guid>
             <pubDate>Wed, 18 Jan 2023 02:44:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-18 10:16:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라 SW이사 "2016년 오토파일럿 홍보영상은 연출된 것"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 16 Jan 2023 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-16 17:26:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 찾아온 독감 유행…녹십자에게 안겨준 '독감 특수' 효과]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160006</link>
-            <guid>https://www.bloter.net/newsView/blt202301160006</guid>
-            <pubDate>Mon, 16 Jan 2023 08:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-16 17:03:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
