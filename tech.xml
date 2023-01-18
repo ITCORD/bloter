@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 01:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 02:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨버샌드윅, 한국 오피스 리더십 교체…배정화 대표 임명]]></title>
+            <link>https://www.bloter.net/newsView/blt202301180003</link>
+            <guid>https://www.bloter.net/newsView/blt202301180003</guid>
+            <pubDate>Wed, 18 Jan 2023 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-18 10:16:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 SW이사 "2016년 오토파일럿 홍보영상은 연출된 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202301180002</link>
             <guid>https://www.bloter.net/newsView/blt202301180002</guid>
             <pubDate>Wed, 18 Jan 2023 01:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-18 09:18:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[애플, 자체 개발 M2프로·맥스 칩 탑재한 신형 맥북프로 출시]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 16 Jan 2023 08:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-16 17:03:37</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수요 감소로 테슬라 판매가 대폭 인하…첫 시험대 오른 전기차 시장]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160001</link>
-            <guid>https://www.bloter.net/newsView/blt202301160001</guid>
-            <pubDate>Mon, 16 Jan 2023 01:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-16 08:48:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160001.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
