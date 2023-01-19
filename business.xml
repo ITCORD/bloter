@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 05:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 06:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[은행 '해킹 맛집' 될라…이복현 금감원장 "IT 내부통제 강화해야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301180011</link>
+            <guid>https://www.bloter.net/newsView/blt202301180011</guid>
+            <pubDate>Thu, 19 Jan 2023 06:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 16:26:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180014.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크는 스타링크? BC카드는 '스탄' 초원에 결제망 깐다]]></title>
             <link>https://www.bloter.net/newsView/blt202301180006</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 18 Jan 2023 05:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-18 08:19:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나영호, 구원투수 등판 곧 만 2년...롯데온, 점차 줄어드는 반전 가능성]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170012</link>
-            <guid>https://www.bloter.net/newsView/blt202301170012</guid>
-            <pubDate>Wed, 18 Jan 2023 05:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-17 17:12:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
