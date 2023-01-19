@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 23:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 01:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신한·국민 이어 농협은행도 모바일 이체수수료 '완전 면제']]></title>
+            <link>https://www.bloter.net/newsView/blt202301180008</link>
+            <guid>https://www.bloter.net/newsView/blt202301180008</guid>
+            <pubDate>Thu, 19 Jan 2023 01:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 14:10:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데제과, 인도 시장 정조준...5년간 700억 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202301180004</link>
+            <guid>https://www.bloter.net/newsView/blt202301180004</guid>
+            <pubDate>Thu, 19 Jan 2023 01:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-18 10:55:53</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테슬라 SW이사 "2016년 오토파일럿 홍보영상은 연출된 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202301180002</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 18 Jan 2023 02:44:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-17 16:50:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국조선해양, 새해부터 '수주 낭보'...1조 규모 LNG선 수주]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170004</link>
-            <guid>https://www.bloter.net/newsView/blt202301170004</guid>
-            <pubDate>Wed, 18 Jan 2023 02:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date">2023-01-17 15:09:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170008.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[커넥티드TV, 디지털 광고 채널로 급부상한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202211090009</link>
-            <guid>https://www.bloter.net/newsView/blt202211090009</guid>
-            <pubDate>Wed, 18 Jan 2023 02:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-17 09:34:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
