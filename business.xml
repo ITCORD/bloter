@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 01:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 02:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크는 스타링크? BC카드는 '스탄' 초원에 결제망 깐다]]></title>
+            <link>https://www.bloter.net/newsView/blt202301180006</link>
+            <guid>https://www.bloter.net/newsView/blt202301180006</guid>
+            <pubDate>Thu, 19 Jan 2023 02:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 14:10:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신한·국민 이어 농협은행도 모바일 이체수수료 '완전 면제']]></title>
             <link>https://www.bloter.net/newsView/blt202301180008</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 18 Jan 2023 05:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-17 17:12:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열 중 여덟은 비대면 가입…은행권, 디지털금융에 역량 총결집]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170011</link>
-            <guid>https://www.bloter.net/newsView/blt202301170011</guid>
-            <pubDate>Wed, 18 Jan 2023 02:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-17 16:50:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170019.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
