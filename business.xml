@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 06:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 07:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10년의 강세장 이끈 美 IT기업, 1년간 6만명 이상 해고]]></title>
+            <link>https://www.bloter.net/newsView/blt202301190001</link>
+            <guid>https://www.bloter.net/newsView/blt202301190001</guid>
+            <pubDate>Thu, 19 Jan 2023 07:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-19 08:26:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은행 '해킹 맛집' 될라…이복현 금감원장 "IT 내부통제 강화해야"]]></title>
             <link>https://www.bloter.net/newsView/blt202301180011</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 18 Jan 2023 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-18 09:18:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 자체 개발 M2프로·맥스 칩 탑재한 신형 맥북프로 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180001</link>
-            <guid>https://www.bloter.net/newsView/blt202301180001</guid>
-            <pubDate>Wed, 18 Jan 2023 05:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-18 08:19:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
