@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 09:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'인재' 찾는 데브시스터즈, '프로젝트B' 개발 가속화]]></title>
+            <link>https://www.bloter.net/newsView/blt202301190014</link>
+            <guid>https://www.bloter.net/newsView/blt202301190014</guid>
+            <pubDate>Thu, 19 Jan 2023 09:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[데브시스터즈가 신작 출시를 위한 투자를 가속화하고 있다. 앞서 자회사 프레스에이가 개발 중인 신작 '데드사이드클럽'을 올 1분기에 출시할 것이라고 밝힌 데브시스터즈는 최근 '쿠키런' IP를 활용한 '프로젝트B' 관련 인력 충원을 통해 콘텐츠 완성도 높이기에 나]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스토어링크, 광고수익률 최대 950% 상승시킨 비법은]]></title>
             <link>https://www.bloter.net/newsView/blt202301190011</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 Jan 2023 01:12:37 GMT</pubDate>
             <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.모바일 캐주얼 보드게임 '모두의마블'에 블록체인 기술]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110034.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 마케팅 핫키워드]②숏폼, 인생의 낭비? 콘텐츠 마케팅의 '신성']]></title>
-            <link>https://www.bloter.net/newsView/blt202301110002</link>
-            <guid>https://www.bloter.net/newsView/blt202301110002</guid>
-            <pubDate>Wed, 11 Jan 2023 09:21:52 GMT</pubDate>
-            <content:encoded><![CDATA["인생의 낭비라는 것을 알면서도 자꾸 보게 된다" 이는 일명 'MZ세대' 뿐만 아니라 전연령대로 확산 중인 숏폼의 중독성을 일컫는 말이다. 최근 플랫폼마다 숏폼 광고 상품이 개발되고, 크리에이터의 수익 정책이 발표되면서 숏폼이 콘텐츠 마케팅 수단으로 급부상하]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/11/blt202301110006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

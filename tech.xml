@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 09:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'인재' 찾는 데브시스터즈, '프로젝트B' 개발 가속화]]></title>
+            <link>https://www.bloter.net/newsView/blt202301190014</link>
+            <guid>https://www.bloter.net/newsView/blt202301190014</guid>
+            <pubDate>Thu, 19 Jan 2023 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-19 17:44:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데헬스케어, 알고케어 기술 탈취했나…향후 쟁점은?]]></title>
             <link>https://www.bloter.net/newsView/blt202301190008</link>
             <guid>https://www.bloter.net/newsView/blt202301190008</guid>
             <pubDate>Thu, 19 Jan 2023 08:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-19 16:44:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190013.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[네패스, 앞선 패키징 기술력에도 수익성 저조…'자본잠식' 자회사 어쩌나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 17 Jan 2023 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-17 18:12:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불통' 지적한 카카오 노조…"김범수부터 대화 나서라"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170010</link>
-            <guid>https://www.bloter.net/newsView/blt202301170010</guid>
-            <pubDate>Tue, 17 Jan 2023 08:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-17 17:17:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
