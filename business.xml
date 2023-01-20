@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이랜드그룹, 올해 어떨까?...현금창출력 회복 관건]]></title>
+            <link>https://www.bloter.net/newsView/blt202301190005</link>
+            <guid>https://www.bloter.net/newsView/blt202301190005</guid>
+            <pubDate>Fri, 20 Jan 2023 05:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-19 14:29:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['화이트 바이오' 힘 싣는 CJ제일제당...CJ HDC 비오솔 진천공장 생산 돌입]]></title>
             <link>https://www.bloter.net/newsView/blt202301190003</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 19 Jan 2023 02:46:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 14:10:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신한·국민 이어 농협은행도 모바일 이체수수료 '완전 면제']]></title>
-            <link>https://www.bloter.net/newsView/blt202301180008</link>
-            <guid>https://www.bloter.net/newsView/blt202301180008</guid>
-            <pubDate>Thu, 19 Jan 2023 01:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 14:10:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180010.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
