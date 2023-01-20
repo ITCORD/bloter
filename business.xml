@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 07:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 08:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토어링크, 광고수익률 최대 950% 상승시킨 비법은]]></title>
+            <link>https://www.bloter.net/newsView/blt202301190011</link>
+            <guid>https://www.bloter.net/newsView/blt202301190011</guid>
+            <pubDate>Fri, 20 Jan 2023 08:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-19 15:19:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190014.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이랜드그룹, 올해 어떨까?...현금창출력 회복 관건]]></title>
             <link>https://www.bloter.net/newsView/blt202301190005</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 19 Jan 2023 06:18:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 16:26:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크는 스타링크? BC카드는 '스탄' 초원에 결제망 깐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180006</link>
-            <guid>https://www.bloter.net/newsView/blt202301180006</guid>
-            <pubDate>Thu, 19 Jan 2023 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-18 14:10:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
