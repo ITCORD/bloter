@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 10:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 11:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]GS는 왜 '에코알앤에스'에 투자했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200025</link>
+            <guid>https://www.bloter.net/newsView/blt202301200025</guid>
+            <pubDate>Fri, 20 Jan 2023 11:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-01-20 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200041.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['LGU+ 자회사' 미디어로그 적자행진, 중고폰 사업이 멈출까]]></title>
             <link>https://www.bloter.net/newsView/blt202301200009</link>
             <guid>https://www.bloter.net/newsView/blt202301200009</guid>
             <pubDate>Fri, 20 Jan 2023 06:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-20 14:48:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안철수가 부럽다고 한 블록체인국 에스토니아…'CBDC'에 신중한 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 18 Jan 2023 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-18 17:05:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 기판 강자 심텍, 고부가제품 ‘승부수’]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180014</link>
-            <guid>https://www.bloter.net/newsView/blt202301180014</guid>
-            <pubDate>Wed, 18 Jan 2023 08:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-18 16:56:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180020.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
