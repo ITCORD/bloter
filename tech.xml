@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 01:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 02:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대통령 순방 동행' 야놀자클라우드, 중동 파트너 업고 적자 탈출할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200006</link>
+            <guid>https://www.bloter.net/newsView/blt202301200006</guid>
+            <pubDate>Fri, 20 Jan 2023 02:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-20 11:33:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200006.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[허리띠 졸라매는 구글, 직원 보너스 분산 지급한다]]></title>
             <link>https://www.bloter.net/newsView/blt202301200003</link>
             <guid>https://www.bloter.net/newsView/blt202301200003</guid>
             <pubDate>Fri, 20 Jan 2023 01:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-20 09:20:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 창업자 리드 헤이스팅스 CEO 퇴진…가입자 2억3000만 돌파]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 18 Jan 2023 02:44:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-18 10:16:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 SW이사 "2016년 오토파일럿 홍보영상은 연출된 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180002</link>
-            <guid>https://www.bloter.net/newsView/blt202301180002</guid>
-            <pubDate>Wed, 18 Jan 2023 01:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-18 09:18:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
