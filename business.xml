@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 10:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 11:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GS는 왜 '에코알앤에스'에 투자했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200025</link>
+            <guid>https://www.bloter.net/newsView/blt202301200025</guid>
+            <pubDate>Sun, 22 Jan 2023 11:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-01-20 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200041.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[없는 살림에 롯데건설 도와준 호텔롯데...현금 확보가 우선]]></title>
             <link>https://www.bloter.net/newsView/blt202301200021</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 20 Jan 2023 08:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-19 15:19:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190014.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이랜드그룹, 올해 어떨까?...현금창출력 회복 관건]]></title>
-            <link>https://www.bloter.net/newsView/blt202301190005</link>
-            <guid>https://www.bloter.net/newsView/blt202301190005</guid>
-            <pubDate>Fri, 20 Jan 2023 05:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-19 14:29:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
