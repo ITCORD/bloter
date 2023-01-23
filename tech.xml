@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 22:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 23:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, ‘챗GPT’ 개발사 오픈AI 신규 투자…"12조원 규모"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301240001</link>
+            <guid>https://www.bloter.net/newsView/blt202301240001</guid>
+            <pubDate>Mon, 23 Jan 2023 23:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 07:38:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240002.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[IPTV와 비슷한 케이블TV 품질…가입자 확보 경쟁 밀리는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202301190015</link>
             <guid>https://www.bloter.net/newsView/blt202301190015</guid>
             <pubDate>Mon, 23 Jan 2023 06:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-23 15:10:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190030.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송치형 두나무 의장의 야심작 '모먼티카', 투자자도 팬심도 못 잡았다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 20 Jan 2023 01:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-20 09:20:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 창업자 리드 헤이스팅스 CEO 퇴진…가입자 2억3000만 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200002</link>
-            <guid>https://www.bloter.net/newsView/blt202301200002</guid>
-            <pubDate>Fri, 20 Jan 2023 01:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-20 08:28:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
