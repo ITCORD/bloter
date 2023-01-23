@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 03:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 04:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디스코드, 인기 SNS '가스' 인수..."美 10대 칭찬 문화 확산"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200028</link>
+            <guid>https://www.bloter.net/newsView/blt202301200028</guid>
+            <pubDate>Mon, 23 Jan 2023 04:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-22 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200049.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성SDS의 클라우드 사업, 과연 승산있는 게임일까?]]></title>
             <link>https://www.bloter.net/newsView/blt202301200016</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 21 Jan 2023 23:14:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-20 14:12:19</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200024.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허리띠 졸라매는 구글, 직원 보너스 분산 지급한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200003</link>
-            <guid>https://www.bloter.net/newsView/blt202301200003</guid>
-            <pubDate>Sat, 21 Jan 2023 04:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-20 09:20:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200003.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
