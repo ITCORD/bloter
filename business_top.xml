@@ -4,44 +4,37 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[美 주요은행, 애플페이·페이팔과 경쟁 위해 디지털지갑 공동 개발]]></title>
-            <link>https://www.bloter.net/newsView/blt202301240003</link>
-            <guid>https://www.bloter.net/newsView/blt202301240003</guid>
-            <pubDate>Tue, 24 Jan 2023 01:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 09:57:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240005.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[지마켓, 상품권 도용 허점 노출...신뢰성 관리 관건]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200024</link>
+            <guid>https://www.bloter.net/newsView/blt202301200024</guid>
+            <pubDate>Tue, 24 Jan 2023 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-24 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200040.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플페이 감당할 수 있나…반쪽짜리도 안 되는 '오픈페이' 출발]]></title>
-            <link>https://www.bloter.net/newsView/blt202212210010</link>
-            <guid>https://www.bloter.net/newsView/blt202212210010</guid>
-            <pubDate>Tue, 24 Jan 2023 01:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[‘이커머스 기술력 늘린다’…지마켓, 사내혁신 해커톤 진행]]></title>
+            <link>https://www.bloter.net/newsView/blt202212110001</link>
+            <guid>https://www.bloter.net/newsView/blt202212110001</guid>
+            <pubDate>Tue, 24 Jan 2023 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플페이, 한국 오니? 카카오페이는 일본·중국 간다]]></title>
-            <link>https://www.bloter.net/newsView/blt202211080020</link>
-            <guid>https://www.bloter.net/newsView/blt202211080020</guid>
-            <pubDate>Tue, 24 Jan 2023 01:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[지마켓·옥션 "신학기용품 수요 최대 10배↑"]]></title>
+            <link>https://www.bloter.net/newsView/blt202002210003</link>
+            <guid>https://www.bloter.net/newsView/blt202002210003</guid>
+            <pubDate>Tue, 24 Jan 2023 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이지영</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[애플, 골드만삭스와 ‘캐시백 고이율 예금’ 서비스 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202210140003</link>
-            <guid>https://www.bloter.net/newsView/blt202210140003</guid>
-            <pubDate>Tue, 24 Jan 2023 01:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 페이팔 통해 해외서 돈 받는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202203180018</link>
-            <guid>https://www.bloter.net/newsView/blt202203180018</guid>
-            <pubDate>Tue, 24 Jan 2023 01:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[인터넷쇼핑 결제액 '옥션·지마켓> 쿠팡 > 11번가 > 위메프 > 티몬' 순]]></title>
+            <link>https://www.bloter.net/newsView/blt201907230005</link>
+            <guid>https://www.bloter.net/newsView/blt201907230005</guid>
+            <pubDate>Tue, 24 Jan 2023 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이지영</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
