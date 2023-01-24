@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 23:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 01:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 주요은행, 애플페이·페이팔과 경쟁 위해 디지털지갑 공동 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202301240003</link>
+            <guid>https://www.bloter.net/newsView/blt202301240003</guid>
+            <pubDate>Tue, 24 Jan 2023 01:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 09:57:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS, ‘챗GPT’ 개발사 오픈AI 신규 투자…"12조원 규모"]]></title>
             <link>https://www.bloter.net/newsView/blt202301240001</link>
             <guid>https://www.bloter.net/newsView/blt202301240001</guid>
             <pubDate>Mon, 23 Jan 2023 23:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 07:38:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240002.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240002.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IPTV와 비슷한 케이블TV 품질…가입자 확보 경쟁 밀리는 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 20 Jan 2023 02:46:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-20 11:33:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200006.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[허리띠 졸라매는 구글, 직원 보너스 분산 지급한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200003</link>
-            <guid>https://www.bloter.net/newsView/blt202301200003</guid>
-            <pubDate>Fri, 20 Jan 2023 01:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-20 09:20:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
