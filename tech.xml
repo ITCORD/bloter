@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 02:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 03:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['수익·성장' 잡겠다는 코오롱베니트, 2% 이익률 끌어올릴까]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200030</link>
+            <guid>https://www.bloter.net/newsView/blt202301200030</guid>
+            <pubDate>Tue, 24 Jan 2023 03:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-24 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200054.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 주요은행, 애플페이·페이팔과 경쟁 위해 디지털지갑 공동 개발]]></title>
             <link>https://www.bloter.net/newsView/blt202301240003</link>
             <guid>https://www.bloter.net/newsView/blt202301240003</guid>
             <pubDate>Tue, 24 Jan 2023 01:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 09:57:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS, ‘챗GPT’ 개발사 오픈AI 신규 투자…"12조원 규모"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 20 Jan 2023 05:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-20 14:04:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대통령 순방 동행' 야놀자클라우드, 중동 파트너 업고 글로벌 도약할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200006</link>
-            <guid>https://www.bloter.net/newsView/blt202301200006</guid>
-            <pubDate>Fri, 20 Jan 2023 02:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-20 11:33:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
