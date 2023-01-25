@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 11:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 12:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美법무부 "구글 디지털 광고 시장 통제"…반독점 위반 소송 제기]]></title>
+            <link>https://www.bloter.net/newsView/blt202301250002</link>
+            <guid>https://www.bloter.net/newsView/blt202301250002</guid>
+            <pubDate>Wed, 25 Jan 2023 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-25 09:28:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MS, 클라우드 성장세에 힘입어 깜짝 실적 발표]]></title>
             <link>https://www.bloter.net/newsView/blt202301250001</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 25 Jan 2023 01:08:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 07:38:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡·CJ 납품가 전쟁...설 끝나고 타협할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200027</link>
-            <guid>https://www.bloter.net/newsView/blt202301200027</guid>
-            <pubDate>Tue, 24 Jan 2023 04:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-23 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200047.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
