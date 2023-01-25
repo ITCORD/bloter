@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'韓 개발·日 흥행' 정석 '블루 아카이브'의 '큰 그림']]></title>
+            <link>https://www.bloter.net/newsView/blt202301250009</link>
+            <guid>https://www.bloter.net/newsView/blt202301250009</guid>
+            <pubDate>Wed, 25 Jan 2023 09:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[서브컬쳐 본고장인 일본에 선출시하며 게임업계에서 이례적인 행보를 보였던 '블루 아카이브(Blue Archive)'가 현지 출시 2년여 만에 앱 마켓 매출 1위를 달성하는 역주행에 성공했다. 블루 아카이브는 서브컬쳐 게임의 '성공 루트'인 애니메이션 제작까지 결정하며 현]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]위믹스플레이의 '팬 토큰', 블록체인-도네이션 통할까]]></title>
             <link>https://www.bloter.net/newsView/blt202301240005</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 16 Jan 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 최근 '키네마스터'의 최대주주인 '솔본'이 해당 기업의 지배력을 강화하는 움직임을 보이고 있습니다. 최대주주의 경영권 개입이 없었던 키네마스터에 솔본 경영진이 사내이사로 합류할 가능성이 높아지]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160007.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]샌드박스네트워크, 웹드라마 만든다…'찐따록' 제작 돌입]]></title>
-            <link>https://www.bloter.net/newsView/blt202301150002</link>
-            <guid>https://www.bloter.net/newsView/blt202301150002</guid>
-            <pubDate>Sun, 15 Jan 2023 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[국내 MCN 기업 '샌드박스네트워크'가 웹드라마 제작을 통해 콘텐츠 사업을 강화한다.  15일 &lt;블로터&gt; 취재 결과, 샌드박스네트워크가 다음달 중 웹드라마 '찐따록(가제)'을 제작할 예정이다.콘텐츠업계에 따르면, 찐따록은 샌드박스네트워크가 기획하는 웹드라마]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/15/blt202301150002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
