@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 23:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 01:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 주요은행, 애플페이·페이팔과 경쟁 위해 디지털지갑 공동 개발]]></title>
+            <link>https://www.bloter.net/newsView/blt202301240003</link>
+            <guid>https://www.bloter.net/newsView/blt202301240003</guid>
+            <pubDate>Wed, 25 Jan 2023 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 09:57:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, ‘챗GPT’ 개발사 오픈AI 신규 투자…"12조원 규모"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301240001</link>
+            <guid>https://www.bloter.net/newsView/blt202301240001</guid>
+            <pubDate>Wed, 25 Jan 2023 01:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 07:38:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡·CJ 납품가 전쟁...설 끝나고 타협할까]]></title>
             <link>https://www.bloter.net/newsView/blt202301200027</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 23 Jan 2023 23:15:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-23 08:31:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/23/blt202301230001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라발 전기차 치킨게임 영향, 에코프로비엠 어떻게 되나요?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200007</link>
-            <guid>https://www.bloter.net/newsView/blt202301200007</guid>
-            <pubDate>Mon, 23 Jan 2023 05:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-01-22 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디스코드, 인기 SNS '가스' 인수..."美 10대 칭찬 문화 확산"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200028</link>
-            <guid>https://www.bloter.net/newsView/blt202301200028</guid>
-            <pubDate>Mon, 23 Jan 2023 04:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-22 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200049.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
