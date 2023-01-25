@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 06:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 07:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,22 @@ MS는 24일(이하 현지시간) 작년 4분기 실적 발표를 통해 주당�
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지마켓, 상품권 도용 허점 노출...신뢰성 관리 관건 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301200024</link>
+            <guid>https://www.bloter.net/newsView/blt202301200024</guid>
+            <pubDate>Tue, 24 Jan 2023 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-24 13:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200040.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코숏이든 품종묘든…'보험' 들어 잘 해주고 싶은 집사 마음 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301240002</link>
+            <guid>https://www.bloter.net/newsView/blt202301240002</guid>
+            <pubDate>Tue, 24 Jan 2023 04:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-24 12:30:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 주요은행, 애플페이·페이팔과 경쟁 위해 디지털지갑 공동 개발 (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202301240003</link>
             <guid>https://www.bloter.net/newsView/blt202301240003</guid>
@@ -334,22 +350,6 @@ MS는 24일(이하 현지시간) 작년 4분기 실적 발표를 통해 주당�
             <pubDate>Mon, 23 Jan 2023 04:17:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-23 13:06:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/23/blt202301230003.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["테슬라 가격 인하로 경쟁업체 어려움 겪어"…자동차 시장 뒤흔드나 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301230002</link>
-            <guid>https://www.bloter.net/newsView/blt202301230002</guid>
-            <pubDate>Mon, 23 Jan 2023 01:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-23 09:51:44</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/23/blt202301230002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["구글, 해고한 직원 중 고연봉·고성과자도 포함" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301230001</link>
-            <guid>https://www.bloter.net/newsView/blt202301230001</guid>
-            <pubDate>Mon, 23 Jan 2023 01:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-23 08:31:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/23/blt202301230001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
