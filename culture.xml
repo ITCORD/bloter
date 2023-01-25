@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 09:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 10:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['글로벌 공략' 한국콜마, 화장품 공장에 AI 적용한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202301250012</link>
+            <guid>https://www.bloter.net/newsView/blt202301250012</guid>
+            <pubDate>Wed, 25 Jan 2023 10:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[한국콜마가 인공지능(AI) 기술이 적용된 화장품 생산기지를 만든다. 이는 색조 화장품 등 글로벌 시장의 수요 확대에 대응하기 위해서다. 최근 전세계 곳곳에서 엔데믹 분위기가 이어지는 데다 국내에서 마스크 착용 의무가 완화됨에 따라 관련 시장 수요가 커질 것]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'韓 개발·日 흥행' 정석 '블루 아카이브'의 '큰 그림']]></title>
             <link>https://www.bloter.net/newsView/blt202301250009</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 01:11:32 GMT</pubDate>
             <content:encoded><![CDATA[미국에서 퇴출될 위기에 놓인 숏폼 동영상 틱톡이 미국 내 사업 재편에 15억달러(약1조 8600억원)를 투입할 계획인 것으로 알려졌다.   16일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 틱톡 측이 최근 미국 의원과 시민단체와 대화를 내눴으며 이때 미국 내 사업 재편을 위]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]키네마스터 지배력 강화하는 솔본…경영·매각, 어떤 패 꺼낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160008</link>
-            <guid>https://www.bloter.net/newsView/blt202301160008</guid>
-            <pubDate>Mon, 16 Jan 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 최근 '키네마스터'의 최대주주인 '솔본'이 해당 기업의 지배력을 강화하는 움직임을 보이고 있습니다. 최대주주의 경영권 개입이 없었던 키네마스터에 솔본 경영진이 사내이사로 합류할 가능성이 높아지]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160007.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

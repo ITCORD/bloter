@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 09:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 10:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['글로벌 공략' 한국콜마, 화장품 공장에 AI 적용한 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202301250012</link>
+            <guid>https://www.bloter.net/newsView/blt202301250012</guid>
+            <pubDate>Wed, 25 Jan 2023 10:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-25 18:31:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['애플 의존' 여전한 LG이노텍, 기판·전장 존재감 '미미']]></title>
             <link>https://www.bloter.net/newsView/blt202301250011</link>
             <guid>https://www.bloter.net/newsView/blt202301250011</guid>
             <pubDate>Wed, 25 Jan 2023 09:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-25 18:11:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250020.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250020.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[배민·요기요 '배달앱' 매출 증가 효과 뚜렷한데…"수익 내려면 2배 더 팔아야"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 23 Jan 2023 04:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-23 13:06:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/23/blt202301230003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[韓 외국계 IT]GPU로 큰 엔비디아, 어떻게 'AI 반도체' 강자가 됐나]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200023</link>
-            <guid>https://www.bloter.net/newsView/blt202301200023</guid>
-            <pubDate>Mon, 23 Jan 2023 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-23 12:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
