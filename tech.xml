@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 23:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 01:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASML CEO, “美 수출 통제 결과 中 반도체 제조 장비 개발할 것”]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260002</link>
+            <guid>https://www.bloter.net/newsView/blt202301260002</guid>
+            <pubDate>Thu, 26 Jan 2023 01:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-26 09:29:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260002.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['글로벌 공략' 한국콜마, 화장품 공장에 AI 적용한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202301250012</link>
             <guid>https://www.bloter.net/newsView/blt202301250012</guid>
             <pubDate>Wed, 25 Jan 2023 10:24:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-25 18:31:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['애플 의존' 여전한 LG이노텍, 기판·전장 존재감 '미미']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 23 Jan 2023 06:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-23 15:10:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190030.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송치형 두나무 의장의 야심작 '모먼티카', 투자자도 팬심도 못 잡았다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301230003</link>
-            <guid>https://www.bloter.net/newsView/blt202301230003</guid>
-            <pubDate>Mon, 23 Jan 2023 04:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-23 13:06:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/23/blt202301230003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
