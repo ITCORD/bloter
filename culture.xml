@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 09:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 10:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS 엑스박스·베데스다가 밝힌 '2023 라인업'은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260019</link>
+            <guid>https://www.bloter.net/newsView/blt202301260019</guid>
+            <pubDate>Thu, 26 Jan 2023 10:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS) 엑스박스와 베데스다가 '개발자 다이렉트(Developer Direct)'를 통해 올해 라인업을 공개했다. 2020년 MS가 제니맥스 미디어를 인수하면서 자회사 베데스다까지 품게된 만큼, 이번에 공개된 라인업은 관련 계열사의 콘텐츠도 대거 포함돼 눈길을 끌었다]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260027.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]끈끈함 더하는 '커넥트웨이브', 이번엔 '라이브 커머스']]></title>
             <link>https://www.bloter.net/newsView/blt202301260012</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 18 Jan 2023 09:21:02 GMT</pubDate>
             <content:encoded><![CDATA["제가 처음 미국에 왔을 때만 해도, 아무것도 없었거든요. 그래서 제가 여기 와서 제일 먼저 한 게 베스트 바이에 가서 컴퓨터를 사고 직접 옮겨서 인터넷 연결하는 것부터 시작했어요. (중략) 근데 이제 저희의 콘텐츠가 정말 미국에서 되게 유명한 어워드를 다 휩쓸]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180024.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]원조 '맑눈광' 양파 쿵야, 이모티콘 출시 하루 만에 1위]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180013</link>
-            <guid>https://www.bloter.net/newsView/blt202301180013</guid>
-            <pubDate>Wed, 18 Jan 2023 08:19:58 GMT</pubDate>
-            <content:encoded><![CDATA['양파 쿵야' 카카오톡 이모티콘이 출시 하루 만에 카카오 이모티콘 스토어에서 인기 1위를 달성했다. 일명 '맑은 눈의 광인'이라는 '밈(인터넷상 유행 코드)'으로, 순수한 모습에 그렇지 못한 당찬 성격을 지닌 양파 쿵야의 인기가 뜨겁다.  어제(지난 17일) 넷마블의]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180019.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
