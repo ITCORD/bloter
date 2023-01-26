@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 06:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아드리엘, 1인 마케터 위한 실속형 '아드리엘 라이트 플랜' 출시]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260005</link>
+            <guid>https://www.bloter.net/newsView/blt202301260005</guid>
+            <pubDate>Thu, 26 Jan 2023 06:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[애드테크 기업 아드리엘이 1인 마케터의 효율적인 디지털 광고 캠페인 운영과 리포팅을 지원할 '아드리엘 라이트 플랜(Adriel Lite Plan)'을 출시했다. 이는 아드리엘에서 운영중인 '애드옵스(AdOps)'의 대시보드 솔루션에서 핵심 기능만을 뽑아 가격 부담을 낮춘 실속형]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자취 커뮤니티 '독립은 처음이라', 월 이용자 수 5만 돌파]]></title>
             <link>https://www.bloter.net/newsView/blt202301260003</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 07:14:41 GMT</pubDate>
             <content:encoded><![CDATA['퍼포먼스 마케팅'으로 불리는 데이터 기반 성과형 마케팅이 대세로 자리잡은 이 시대에 '콘텐츠의 힘'을 강조하는 광고대행사가 있다. 바로 더에스엠씨그룹이다. 더에스엠씨그룹은 2009년 김용태 대표의 1인 기업으로 블로그 마케팅부터 시작, 뉴미디어에 빠르게 적]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2023 마케팅 핫키워드]③다시 TV에 주목해야 하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301160012</link>
-            <guid>https://www.bloter.net/newsView/blt202301160012</guid>
-            <pubDate>Tue, 17 Jan 2023 01:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[국내 광고 시장은 이미 디지털 부문이 과반을 차지하는 상태로 방송 광고는 침체기를 겪고 있다. 이에 어드레서블TV 등 기술과 결합하며 디지털-방송간 시너지를 낼 수 있는 플랫폼들이 부상하고 있다. 해외에서는 이들 플랫폼이 점유율을 높여가고 있는 만큼, 방송]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160019.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
