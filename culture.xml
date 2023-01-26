@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 01:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 02:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자취 커뮤니티 '독립은 처음이라', 월 이용자 수 5만 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260003</link>
+            <guid>https://www.bloter.net/newsView/blt202301260003</guid>
+            <pubDate>Thu, 26 Jan 2023 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[커뮤니티 웹 서비스 '독립은 처음이라'가 월간 활성화 이용자수(MAU) 5만명, 일일 최대 1만명(12월 30일 기준)을 기록했다. 독립은 처음이라는 총 1000만원의 '독립자금'을 지원하는 이벤트를 통해 이용자들의 참여를 독려한다는 방침이다.26일 CJ ENM 디지털 마케팅 솔루션]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260003.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['글로벌 공략' 한국콜마, 화장품 공장에 AI 적용한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202301250012</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 01:11:32 GMT</pubDate>
             <content:encoded><![CDATA[국내 광고 시장은 이미 디지털 부문이 과반을 차지하는 상태로 방송 광고는 침체기를 겪고 있다. 이에 어드레서블TV 등 기술과 결합하며 디지털-방송간 시너지를 낼 수 있는 플랫폼들이 부상하고 있다. 해외에서는 이들 플랫폼이 점유율을 높여가고 있는 만큼, 방송]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/16/blt202301160019.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[美 퇴출 위기 놓인 틱톡, 15억달러 투입해 투명성 강화한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301170001</link>
-            <guid>https://www.bloter.net/newsView/blt202301170001</guid>
-            <pubDate>Tue, 17 Jan 2023 01:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[미국에서 퇴출될 위기에 놓인 숏폼 동영상 틱톡이 미국 내 사업 재편에 15억달러(약1조 8600억원)를 투입할 계획인 것으로 알려졌다.   16일(현지시간) &lt;월스트리트저널(WSJ)&gt;은 틱톡 측이 최근 미국 의원과 시민단체와 대화를 내눴으며 이때 미국 내 사업 재편을 위]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/17/blt202301170001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

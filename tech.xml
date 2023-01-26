@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 01:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 02:48:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴먼스케이프, GC녹십자의료재단과 인도네시아 진단검사 시장 공략]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260004</link>
+            <guid>https://www.bloter.net/newsView/blt202301260004</guid>
+            <pubDate>Thu, 26 Jan 2023 02:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-26 10:53:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자취 커뮤니티 '독립은 처음이라', 월 이용자 수 5만 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260003</link>
+            <guid>https://www.bloter.net/newsView/blt202301260003</guid>
+            <pubDate>Thu, 26 Jan 2023 02:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-26 10:37:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260003.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[ASML CEO, “美 수출 통제 결과 中 반도체 제조 장비 개발할 것”]]></title>
             <link>https://www.bloter.net/newsView/blt202301260002</link>
             <guid>https://www.bloter.net/newsView/blt202301260002</guid>
             <pubDate>Thu, 26 Jan 2023 01:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-26 09:29:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260002.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260002.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['글로벌 공략' 한국콜마, 화장품 공장에 AI 적용한 이유는]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 24 Jan 2023 01:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 09:57:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, ‘챗GPT’ 개발사 오픈AI 신규 투자…"12조원 규모"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301240001</link>
-            <guid>https://www.bloter.net/newsView/blt202301240001</guid>
-            <pubDate>Mon, 23 Jan 2023 23:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-24 07:38:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/24/blt202301240002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[IPTV와 비슷한 케이블TV 품질…가입자 확보 경쟁 밀리는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301190015</link>
-            <guid>https://www.bloter.net/newsView/blt202301190015</guid>
-            <pubDate>Mon, 23 Jan 2023 06:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-23 15:10:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190030.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
