@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익선동 붐비더라니…종로구, 서울서 외식업 매출 증가세 '1위']]></title>
+            <link>https://www.bloter.net/newsView/blt202301260009</link>
+            <guid>https://www.bloter.net/newsView/blt202301260009</guid>
+            <pubDate>Fri, 27 Jan 2023 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-26 13:16:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ASML CEO, “美 수출 통제 결과 中 반도체 제조 장비 개발할 것”]]></title>
             <link>https://www.bloter.net/newsView/blt202301260002</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 26 Jan 2023 01:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-25 16:16:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["롯데, 돈 많아?"…자이언츠, 롯데캐피탈에 빌린 돈 안 밀리고 갚는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301250005</link>
-            <guid>https://www.bloter.net/newsView/blt202301250005</guid>
-            <pubDate>Thu, 26 Jan 2023 01:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-25 15:20:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250006.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
