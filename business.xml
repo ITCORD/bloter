@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 21:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 22:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['진짜만 살아남는다'...이커머스 업계 옥석가리기 본격화하나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301260010</link>
+            <guid>https://www.bloter.net/newsView/blt202301260010</guid>
+            <pubDate>Fri, 27 Jan 2023 22:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-26 13:22:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익선동 붐비더라니…종로구, 서울서 외식업 매출 증가세 '1위']]></title>
             <link>https://www.bloter.net/newsView/blt202301260009</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 26 Jan 2023 04:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-01-25 18:31:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이커머스에 밀리고 백화점에 치이고'...롯데하이마트, 성장전략 마련 고민]]></title>
-            <link>https://www.bloter.net/newsView/blt202301250007</link>
-            <guid>https://www.bloter.net/newsView/blt202301250007</guid>
-            <pubDate>Thu, 26 Jan 2023 01:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-25 16:16:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

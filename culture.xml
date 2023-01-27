@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 21:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 22:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 대학으로 확산하는 틱톡 퇴출 움직임...학생들은 분노]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270015</link>
+            <guid>https://www.bloter.net/newsView/blt202301270015</guid>
+            <pubDate>Fri, 27 Jan 2023 22:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[미국 연방 정부와 주정부를 중심으로 ‘틱톡 퇴출 운동’이 일어나고 있는 가운데 미국 주립 대학도 동참하고 나섰다. 현지 언론에 따르면 최근 몇 주에 걸쳐 위스콘신대학교, 텍사스대학교, 조지아대학교, 오번대학교 등 미국 내 대학교 최소 20곳이 틱톡을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270024.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[마케팅+]AB180 '에어브릿지', 파편화된 시장에 K-MMP의 등장이라]]></title>
             <link>https://www.bloter.net/newsView/blt202301270005</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 19 Jan 2023 09:21:21 GMT</pubDate>
             <content:encoded><![CDATA[데브시스터즈가 신작 출시를 위한 투자를 가속화하고 있다. 앞서 자회사 프레스에이가 개발 중인 신작 '데드사이드클럽'을 올 1분기에 출시할 것이라고 밝힌 데브시스터즈는 최근 '쿠키런' IP를 활용한 '프로젝트B' 관련 인력 충원을 통해 콘텐츠 완성도 높이기에 나]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토어링크, 광고수익률 최대 950% 상승시킨 비법은]]></title>
-            <link>https://www.bloter.net/newsView/blt202301190011</link>
-            <guid>https://www.bloter.net/newsView/blt202301190011</guid>
-            <pubDate>Thu, 19 Jan 2023 06:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[스토어링크가 오픈마켓 데이터 분석 역량과 광고매체에 대한 높은 이해도를 바탕으로 광고 효율을 극대화하는 마케팅 전략을 꾀하고 있다. 향후 스토어링크는 고객사 매출 향상을 기반으로 해외까지 진출하겠다는 포부다.19일 이커머스 마케팅 플랫폼 기업 '스토어]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190014.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 21:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 22:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 대학으로 확산하는 틱톡 퇴출 움직임...학생들은 분노]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270015</link>
+            <guid>https://www.bloter.net/newsView/blt202301270015</guid>
+            <pubDate>Fri, 27 Jan 2023 22:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-28 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270024.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]CJ·크래프톤이 '포자랩스' AI 음원을 쓰는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202301270008</link>
             <guid>https://www.bloter.net/newsView/blt202301270008</guid>
             <pubDate>Fri, 27 Jan 2023 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-01-27 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2023년도 어렵다는데’…LG전자가 내세운 수익성 개선 해법은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 26 Jan 2023 05:14:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-26 13:40:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베스핀글로벌의 'AIoT 플랫폼'이란?…데이터 수집·분석 가능한 SaaS]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260007</link>
-            <guid>https://www.bloter.net/newsView/blt202301260007</guid>
-            <pubDate>Thu, 26 Jan 2023 04:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-26 12:29:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
