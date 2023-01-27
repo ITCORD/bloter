@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 04:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 05:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅+]AB180 '에어브릿지', 파편화된 시장에 K-MMP의 등장이라]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270005</link>
+            <guid>https://www.bloter.net/newsView/blt202301270005</guid>
+            <pubDate>Fri, 27 Jan 2023 05:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[AB180이 앰플리튜드와 브레이즈 총판에 이어 자체 개발 어트리뷰션 솔루션 '에어브릿지'를 통해 글로벌 출사표를 던졌다. 회사는 파편화된 정보 시대에서 차세대 측정 방법으로 떠오른 미디어믹스모델링(MMM) 또한 빠르게 이식 중이다.   마케팅 솔루션 및 컨설팅 회사]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270005.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS 엑스박스·베데스다가 밝힌 '2023 라인업'은?]]></title>
             <link>https://www.bloter.net/newsView/blt202301260019</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 19 Jan 2023 06:20:03 GMT</pubDate>
             <content:encoded><![CDATA[스토어링크가 오픈마켓 데이터 분석 역량과 광고매체에 대한 높은 이해도를 바탕으로 광고 효율을 극대화하는 마케팅 전략을 꾀하고 있다. 향후 스토어링크는 고객사 매출 향상을 기반으로 해외까지 진출하겠다는 포부다.19일 이커머스 마케팅 플랫폼 기업 '스토어]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/19/blt202301190014.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]북미 MAU 1위 네이버웹툰, 미국에 주목한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180016</link>
-            <guid>https://www.bloter.net/newsView/blt202301180016</guid>
-            <pubDate>Wed, 18 Jan 2023 09:21:02 GMT</pubDate>
-            <content:encoded><![CDATA["제가 처음 미국에 왔을 때만 해도, 아무것도 없었거든요. 그래서 제가 여기 와서 제일 먼저 한 게 베스트 바이에 가서 컴퓨터를 사고 직접 옮겨서 인터넷 연결하는 것부터 시작했어요. (중략) 근데 이제 저희의 콘텐츠가 정말 미국에서 되게 유명한 어워드를 다 휩쓸]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/18/blt202301180024.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
