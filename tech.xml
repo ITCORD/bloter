@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 08:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 09:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성바이오로직스, 국내 제약바이오 업계 최초 매출 3조원 돌파]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270010</link>
+            <guid>https://www.bloter.net/newsView/blt202301270010</guid>
+            <pubDate>Fri, 27 Jan 2023 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-27 17:38:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270018.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['적자' LG디스플레이가 2023년 하반기 흑자전환 기대하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202301270007</link>
             <guid>https://www.bloter.net/newsView/blt202301270007</guid>
             <pubDate>Fri, 27 Jan 2023 06:19:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-27 14:31:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마케팅+]AB180 '에어브릿지', 파편화된 시장에 K-MMP의 등장이라]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 26 Jan 2023 02:41:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-26 10:53:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자취 커뮤니티 '독립은 처음이라', 월 이용자 수 5만 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260003</link>
-            <guid>https://www.bloter.net/newsView/blt202301260003</guid>
-            <pubDate>Thu, 26 Jan 2023 02:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-26 10:37:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
