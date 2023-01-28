@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 22:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 23:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 마진율 훼손 ‘필연’, 포시마크는 싸게 산 것 I 애널리스트 인터뷰 [넘버스]]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270006</link>
+            <guid>https://www.bloter.net/newsView/blt202301270006</guid>
+            <pubDate>Sat, 28 Jan 2023 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-01-29 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직 기약 없는 네이버웹툰 IPO, 기대감 식지 않는 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202301260021</link>
             <guid>https://www.bloter.net/newsView/blt202301260021</guid>
             <pubDate>Sat, 28 Jan 2023 03:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-28 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260032.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260032.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[반도체 ‘진짜 겨울’ 온다…삼성전자, 감산 카드 꺼낼까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 26 Jan 2023 07:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-26 15:47:15</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260016.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아드리엘, 1인 마케터 위한 실속형 '아드리엘 라이트 플랜' 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260005</link>
-            <guid>https://www.bloter.net/newsView/blt202301260005</guid>
-            <pubDate>Thu, 26 Jan 2023 06:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-26 14:43:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
