@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 09:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 10:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디마人]넥슨 "초개인화 마케팅, 어디까지 해봤니?"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301290001</link>
+            <guid>https://www.bloter.net/newsView/blt202301290001</guid>
+            <pubDate>Sun, 29 Jan 2023 10:16:08 GMT</pubDate>
+            <content:encoded><![CDATA['디마인'은 '디지털마케팅 종사자(人)'와 영어 'Demine(지뢰를 제거하다)'을 포함한 중의적 표현으로, 치열한 디지털마케팅 시장에서 고군분투하는 업계 종사자들의 목소리를 담습니다. 20년 넘는 업력의 '게임 업계 큰 형님' 넥슨이 마케팅에 있어서도 초개인화에 앞장]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/29/blt202301290002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[OTT오리지널]'카지노 시즌2'에 숨겨진 디즈니 콘텐츠 전략]]></title>
             <link>https://www.bloter.net/newsView/blt202301290002</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 24 Jan 2023 01:14:21 GMT</pubDate>
             <content:encoded><![CDATA[지역생활 커뮤니티 '당근마켓'의 마스코트 '당근이'는 토끼가 아닌 강아지다. 동네 토박이 강아지로, 건강한 동네 생활을 위한 안내자의 역할을 하며 지역 커뮤니티 당근마켓을 알리고 있다.캐릭터엔 각각의 성격을 나타내는 재밌는 특징들이 묘미다. 카카오프렌즈]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/20/blt202301200046.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2023]①올해도 웹툰 IP 풍년, 실사화 공들인다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301210001</link>
-            <guid>https://www.bloter.net/newsView/blt202301210001</guid>
-            <pubDate>Mon, 23 Jan 2023 01:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 올해 28편의 한국 오리지널 작품을 통해 국내 시청층을 공략한다. 웹툰 IP 기반 오리지널 작품을 비롯해 원작이 없는 창작물까지 다양한 작품들이 넷플릭스를 통해 공개될 예정이다.  '이두나!'부터 'D.P.2'까지…여전한 웹툰 IP 올해 넷플릭스 한국 오리]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/21/blt202301210001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
