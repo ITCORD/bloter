@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 01:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美수리업체 제소한 삼성디스플레이…'수리할 권리' 영향은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270017</link>
+            <guid>https://www.bloter.net/newsView/blt202301270017</guid>
+            <pubDate>Mon, 30 Jan 2023 01:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-29 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270025.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[네이버 마진율 훼손 ‘필연’, 포시마크는 싸게 산 것 I 애널리스트 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202301270006</link>
+            <guid>https://www.bloter.net/newsView/blt202301270006</guid>
+            <pubDate>Mon, 30 Jan 2023 01:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-01-29 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 대학으로 확산하는 틱톡 퇴출 움직임...학생들은 분노]]></title>
             <link>https://www.bloter.net/newsView/blt202301270015</link>
@@ -38,22 +54,6 @@
             <pubDate>Sat, 28 Jan 2023 23:15:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-27 08:31:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['진짜만 살아남는다'...이커머스 업계 옥석가리기 본격화하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260010</link>
-            <guid>https://www.bloter.net/newsView/blt202301260010</guid>
-            <pubDate>Fri, 27 Jan 2023 22:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-26 13:22:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익선동 붐비더라니…종로구, 서울서 외식업 매출 증가세 '1위']]></title>
-            <link>https://www.bloter.net/newsView/blt202301260009</link>
-            <guid>https://www.bloter.net/newsView/blt202301260009</guid>
-            <pubDate>Fri, 27 Jan 2023 03:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-26 13:16:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260011.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
