@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 05:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 06:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 생활가전, 수익성 악화에 ‘털썩’…7년 만에 ‘적자전환’]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310010</link>
+            <guid>https://www.bloter.net/newsView/blt202301310010</guid>
+            <pubDate>Tue, 31 Jan 2023 06:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 14:56:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310027.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[투표 조작으로 망했던 프듀…'보이즈 플래닛'은 그럴 일 없다?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310009</link>
+            <guid>https://www.bloter.net/newsView/blt202301310009</guid>
+            <pubDate>Tue, 31 Jan 2023 06:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“미래 준비할 좋은 기회”…‘감산’ 없다는 삼성전자의 자신감]]></title>
             <link>https://www.bloter.net/newsView/blt202301310008</link>
             <guid>https://www.bloter.net/newsView/blt202301310008</guid>
             <pubDate>Tue, 31 Jan 2023 05:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 13:49:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310020.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310020.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 2022년 '반도체 한파' 속 선방한 현금흐름]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 30 Jan 2023 01:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-30 09:43:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메모리칩 시장 한파로 수요 급감…”역사적인 폭락으로 위기”]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300001</link>
-            <guid>https://www.bloter.net/newsView/blt202301300001</guid>
-            <pubDate>Mon, 30 Jan 2023 01:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-30 08:51:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이주완 메가존클라우드 대표가 영업손실에도 자신감 내비친 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301280002</link>
-            <guid>https://www.bloter.net/newsView/blt202301280002</guid>
-            <pubDate>Sun, 29 Jan 2023 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-29 20:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/28/blt202301280002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
