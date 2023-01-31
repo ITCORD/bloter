@@ -4,16 +4,23 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 08:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['에너지 한 우물' 포스코인터, LNG 터미널 9000억 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310012</link>
-            <guid>https://www.bloter.net/newsView/blt202301310012</guid>
-            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 15:23:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310030.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LG화학, 올해 4조 투자..."자산효율화 추진 계획"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310016</link>
+            <guid>https://www.bloter.net/newsView/blt202301310016</guid>
+            <pubDate>Tue, 31 Jan 2023 08:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 17:06:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310037.570x320.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG화학 석화 부문, 65개 분기 만에 적자 유력...고유가에 '봄날'은 갔나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090004</link>
+            <guid>https://www.bloter.net/newsView/blt202301090004</guid>
+            <pubDate>Tue, 31 Jan 2023 08:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['외부 인재' 적극 영입하는 포스코그룹...이차전지연구소장에 LG화학 출신 홍영준 전무]]></title>
@@ -23,24 +30,17 @@
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포스코, 13년 연속 세계 최고 철강사…ESG 경영도 입증]]></title>
-            <link>https://www.bloter.net/newsView/blt202212290010</link>
-            <guid>https://www.bloter.net/newsView/blt202212290010</guid>
-            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[LG화학, 선택의 시간 다가오나…지분매각 열쇠 쥔 차동석 CFO]]></title>
+            <link>https://www.bloter.net/newsView/blt202211230011</link>
+            <guid>https://www.bloter.net/newsView/blt202211230011</guid>
+            <pubDate>Tue, 31 Jan 2023 08:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최정우 포스코그룹 회장, 전중선·민경준 교체..."위기 관리에 초점"]]></title>
-            <link>https://www.bloter.net/newsView/blt202212270014</link>
-            <guid>https://www.bloter.net/newsView/blt202212270014</guid>
-            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포스코홀딩스, '본점 포항 이전' 100일 앞으로...내년 주총서 결의]]></title>
-            <link>https://www.bloter.net/newsView/blt202212090008</link>
-            <guid>https://www.bloter.net/newsView/blt202212090008</guid>
-            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
+            <title><![CDATA[LG화학 차동석 CFO 사장 승진...첨단소재·생명과학 승진자 '눈길']]></title>
+            <link>https://www.bloter.net/newsView/blt202211230010</link>
+            <guid>https://www.bloter.net/newsView/blt202211230010</guid>
+            <pubDate>Tue, 31 Jan 2023 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
