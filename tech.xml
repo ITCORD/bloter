@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 10:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]경기 둔화 속 에스원 '현금 창출 능력'에 쏠린 눈]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310020</link>
+            <guid>https://www.bloter.net/newsView/blt202301310020</guid>
+            <pubDate>Tue, 31 Jan 2023 10:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 18:33:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310046.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[그래서 수익성은? 결정타 빠진 과기정통부 '28GHz 5G 비책'…SKT·KT는 '난감']]></title>
+            <link>https://www.bloter.net/newsView/blt202301310018</link>
+            <guid>https://www.bloter.net/newsView/blt202301310018</guid>
+            <pubDate>Tue, 31 Jan 2023 10:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-31 18:23:29</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310040.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 모바일, 22년 매출 늘었지만 이익률 악화…갤S23·Z플립5에 달린 23년]]></title>
             <link>https://www.bloter.net/newsView/blt202301310015</link>
             <guid>https://www.bloter.net/newsView/blt202301310015</guid>
             <pubDate>Tue, 31 Jan 2023 08:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 16:19:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위메이드, 미르M 글로벌 오픈…'인터게임 이코노미' 실현되나]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 30 Jan 2023 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-30 16:53:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300018.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[CSAP 등급제 앞두고…윤동식 KT클라우드 대표가 꼽은 토종 CSP 강점 '보안']]></title>
-            <link>https://www.bloter.net/newsView/blt202301300013</link>
-            <guid>https://www.bloter.net/newsView/blt202301300013</guid>
-            <pubDate>Mon, 30 Jan 2023 08:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-30 16:38:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 최우수 협력사 드림텍이 의료기기 사업 진출한 사연]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300011</link>
-            <guid>https://www.bloter.net/newsView/blt202301300011</guid>
-            <pubDate>Mon, 30 Jan 2023 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-30 16:11:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
