@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 08:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난해 20%대 성장률 기록한 제일기획, 올해는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310019</link>
+            <guid>https://www.bloter.net/newsView/blt202301310019</guid>
+            <pubDate>Tue, 31 Jan 2023 09:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[제일기획이 지난해 디지털과 해외 사업의 성장에 힘입어 호실적을 거뒀다. 경제침체기에 따라 광고업계의 촉각이 곤두 선 가운데, 제일기획은 DTC(자사몰) 마케팅 등 디지털 서비스 영역을 더욱 확대해 올해 매출총이익을 전년 대비 5% 이상 확대하는 것을 목표로 세]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310044.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위메이드, 미르M 글로벌 오픈…'인터게임 이코노미' 실현되나]]></title>
             <link>https://www.bloter.net/newsView/blt202301310014</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 Jan 2023 02:44:02 GMT</pubDate>
             <content:encoded><![CDATA[커뮤니티 웹 서비스 '독립은 처음이라'가 월간 활성화 이용자수(MAU) 5만명, 일일 최대 1만명(12월 30일 기준)을 기록했다. 독립은 처음이라는 총 1000만원의 '독립자금'을 지원하는 이벤트를 통해 이용자들의 참여를 독려한다는 방침이다.26일 CJ ENM 디지털 마케팅 솔루션]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['글로벌 공략' 한국콜마, 화장품 공장에 AI 적용한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202301250012</link>
-            <guid>https://www.bloter.net/newsView/blt202301250012</guid>
-            <pubDate>Wed, 25 Jan 2023 10:24:39 GMT</pubDate>
-            <content:encoded><![CDATA[한국콜마가 인공지능(AI) 기술이 적용된 화장품 생산기지를 만든다. 이는 색조 화장품 등 글로벌 시장의 수요 확대에 대응하기 위해서다. 최근 전세계 곳곳에서 엔데믹 분위기가 이어지는 데다 국내에서 마스크 착용 의무가 완화됨에 따라 관련 시장 수요가 커질 것]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
