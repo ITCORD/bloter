@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 04:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 05:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“미래 준비할 좋은 기회”…‘감산’ 없다는 삼성전자의 자신감]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310008</link>
+            <guid>https://www.bloter.net/newsView/blt202301310008</guid>
+            <pubDate>Tue, 31 Jan 2023 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 13:49:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310020.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, 2022년 '반도체 한파' 속 선방한 현금흐름]]></title>
             <link>https://www.bloter.net/newsView/blt202301310006</link>
             <guid>https://www.bloter.net/newsView/blt202301310006</guid>
             <pubDate>Tue, 31 Jan 2023 02:47:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 11:36:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로밍 넘어 직접 서비스까지…카카오모빌리티가 라오스에 거는 기대]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 29 Jan 2023 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-29 20:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/28/blt202301280002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디마人]넥슨 "초개인화 마케팅, 어디까지 해봤니?"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301290001</link>
-            <guid>https://www.bloter.net/newsView/blt202301290001</guid>
-            <pubDate>Sun, 29 Jan 2023 10:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-01-29 19:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/29/blt202301290002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
