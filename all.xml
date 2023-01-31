@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 06:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 07:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,40 +285,48 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/28/blt202301280002.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[투표 조작으로 망했던 프듀…'보이즈 플래닛'은 그럴 일 없다? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310009</link>
-            <guid>https://www.bloter.net/newsView/blt202301310009</guid>
-            <pubDate>Tue, 31 Jan 2023 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['에너지 한 우물' 포스코인터, LNG 터미널 9000억 투자 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310012</link>
+            <guid>https://www.bloter.net/newsView/blt202301310012</guid>
+            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 15:23:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310030.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안철수가 부럽다고 한 블록체인국 에스토니아…'CBDC'에 신중한 이유는? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301200015</link>
-            <guid>https://www.bloter.net/newsView/blt202301200015</guid>
-            <pubDate>Fri, 20 Jan 2023 05:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA['외부 인재' 적극 영입하는 포스코그룹...이차전지연구소장에 LG화학 출신 홍영준 전무 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301060013</link>
+            <guid>https://www.bloter.net/newsView/blt202301060013</guid>
+            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["메타버스 킬러 콘텐츠? 곧 보게될 것"...더 샌드박스 코리아 이승희 대표 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207120018</link>
-            <guid>https://www.bloter.net/newsView/blt202207120018</guid>
-            <pubDate>Tue, 31 Jan 2023 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[포스코, 13년 연속 세계 최고 철강사…ESG 경영도 입증 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290010</link>
+            <guid>https://www.bloter.net/newsView/blt202212290010</guid>
+            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“한국은 메타버스에 최적화된 나라”…더 샌드박스 코리아, 이승희 신임대표 선임 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206130021</link>
-            <guid>https://www.bloter.net/newsView/blt202206130021</guid>
-            <pubDate>Tue, 31 Jan 2023 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[최정우 포스코그룹 회장, 전중선·민경준 교체..."위기 관리에 초점" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212270014</link>
+            <guid>https://www.bloter.net/newsView/blt202212270014</guid>
+            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가챠 없이 동등한 보상…'더 샌드박스'에 한국인 몰리는 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202280003</link>
-            <guid>https://www.bloter.net/newsView/blt202202280003</guid>
-            <pubDate>Tue, 31 Jan 2023 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[포스코홀딩스, '본점 포항 이전' 100일 앞으로...내년 주총서 결의 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212090008</link>
+            <guid>https://www.bloter.net/newsView/blt202212090008</guid>
+            <pubDate>Tue, 31 Jan 2023 07:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플, 폴더블 아이패드 출시하나…궈밍치 "2024년에 나올 것" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310001</link>
+            <guid>https://www.bloter.net/newsView/blt202301310001</guid>
+            <pubDate>Tue, 31 Jan 2023 01:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-31 08:27:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310001.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가상자산 시장도 '기관'이 주무르나…코인원 "금융사 투자 허용해야" (블로터 ─ 비즈니스)]]></title>
@@ -361,14 +369,6 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300001.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SSG닷컴, '흑자 기틀' 만들기 총력...장바구니 집중공략 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301270012</link>
-            <guid>https://www.bloter.net/newsView/blt202301270012</guid>
-            <pubDate>Sun, 29 Jan 2023 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-29 18:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -405,18 +405,26 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[DB하이텍, 이미지센서 분야 신공정 확보…수익성 개선 ‘기대’ (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310013</link>
+            <guid>https://www.bloter.net/newsView/blt202301310013</guid>
+            <pubDate>Tue, 31 Jan 2023 07:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 15:57:32</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310031.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성 생활가전, 수익성 악화에 ‘털썩’…7년 만에 ‘적자전환’ (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301310010</link>
             <guid>https://www.bloter.net/newsView/blt202301310010</guid>
-            <pubDate>Tue, 31 Jan 2023 06:20:12 GMT</pubDate>
+            <pubDate>Tue, 31 Jan 2023 06:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 14:56:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310027.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310027.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[투표 조작으로 망했던 프듀…'보이즈 플래닛'은 그럴 일 없다? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202301310009</link>
             <guid>https://www.bloter.net/newsView/blt202301310009</guid>
-            <pubDate>Tue, 31 Jan 2023 06:20:12 GMT</pubDate>
+            <pubDate>Tue, 31 Jan 2023 06:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -539,14 +547,6 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <pubDate>Mon, 30 Jan 2023 02:40:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-30 11:33:04</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["아이폰15, 프로 모델에만 와이파이6E 지원" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300002</link>
-            <guid>https://www.bloter.net/newsView/blt202301300002</guid>
-            <pubDate>Mon, 30 Jan 2023 01:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-30 09:43:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -824,6 +824,14 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[위메이드, 미르M 글로벌 오픈…'인터게임 이코노미' 실현되나 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310014</link>
+            <guid>https://www.bloter.net/newsView/blt202301310014</guid>
+            <pubDate>Tue, 31 Jan 2023 07:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드가 블록체인 기술을 더한 '미르M: 뱅가드 앤 배가본드(이하 미르M) 글로벌' 버전을 오픈해 위믹스 생태계를 확대한다. 미르M 글로벌이 지난 2021년 8월 오픈한 미르4 글로벌 버전에 이어 위메이드의 새로운 캐시카우(주요 수익원)가 될 수 있을 지 주목된다.   31]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310032.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[위클리LCK]T1·광동, '패배'를 바라보는 엇갈린 시선 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202301300014</link>
             <guid>https://www.bloter.net/newsView/blt202301300014</guid>
@@ -910,14 +918,6 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <pubDate>Wed, 25 Jan 2023 10:23:40 GMT</pubDate>
             <content:encoded><![CDATA[한국콜마가 인공지능(AI) 기술이 적용된 화장품 생산기지를 만든다. 이는 색조 화장품 등 글로벌 시장의 수요 확대에 대응하기 위해서다. 최근 전세계 곳곳에서 엔데믹 분위기가 이어지는 데다 국내에서 마스크 착용 의무가 완화됨에 따라 관련 시장 수요가 커질 것]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'韓 개발·日 흥행' 정석 '블루 아카이브'의 '큰 그림' (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301250009</link>
-            <guid>https://www.bloter.net/newsView/blt202301250009</guid>
-            <pubDate>Wed, 25 Jan 2023 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[서브컬쳐 본고장인 일본에 선출시하며 게임업계에서 이례적인 행보를 보였던 '블루 아카이브(Blue Archive)'가 현지 출시 2년여 만에 앱 마켓 매출 1위를 달성하는 역주행에 성공했다. 블루 아카이브는 서브컬쳐 게임의 '성공 루트'인 애니메이션 제작까지 결정하며 현]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250013.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'韓 개발·日 흥행' 정석 '블루 아카이브'의 '큰 그림' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
@@ -1163,7 +1163,7 @@ MSP(클라우드 관리 서비스 제공 사업자) 메가존클라우드가 202
             <title><![CDATA[투표 조작으로 망했던 프듀…'보이즈 플래닛'은 그럴 일 없다? (블로터 ─ 금융)]]></title>
             <link>https://www.bloter.net/newsView/blt202301310009</link>
             <guid>https://www.bloter.net/newsView/blt202301310009</guid>
-            <pubDate>Tue, 31 Jan 2023 06:22:04 GMT</pubDate>
+            <pubDate>Tue, 31 Jan 2023 06:19:22 GMT</pubDate>
             <content:encoded><![CDATA[국민 프로듀서의 투표를 통해 아이오아이와 워너원 등 걸출한 아이돌그룹을 탄생시켰던 TV 프로그램 '프로듀스 101'은 제작진의 투표 조작 사건으로 인해 신뢰도를 순식간에 잃고 폐지되기에 이르렀다. 그 후신격의 프로그램이 오는 2월 방영 예정인 '보이즈 플래닛'이다.보이즈 플래닛은 전작의 전철을 밟을 가능성이 크게 낮아질 것으로 보인다. 블록체인을 기반으로 하는 메타버스 플랫폼 '더 샌드박스(The Sandbox)'와 손잡았기 때문이다. 블록체인은 모든 참여자들의 거래 내역을 누구나 열람할 수 있는 장부에 기록하고 네트워크상에 분산 저장하는 기술로 조작이 불가능하다.31일 더 샌드박스는 CJ ENM과 함께 '보이즈 플래닛(BOYS PLANET)' 메타버스 경험을 오는 2월 7일 오픈한다고 알렸다. 음악 전문 채널 엠넷(Mnet)에서 방송하는 글로벌 팬 메이드 케이팝(K-POP) 아이돌 프로젝트 '보이즈 플래닛'은 한국과 글로벌 팬덤이 투표를 통해 아이돌 그룹을 직접 만들고 데뷔시키는 시청자 참여형 프로젝트다.더 샌드박스에서는 방송 예정인 보이즈 플래닛을 가상 세계로 옮긴 '보이즈 플래닛: 보이즈 랜드(BOYS PLANET: BOYS LAND)'와 '보이즈 플래닛: 스타 랜드(BOYS PLANET: STAR LAND)' 메타버스 경험을 선보일 계획이다.보이즈 플래닛: 보이즈 랜드는 팬들이 더 샌드박스에서 퀘스트를 통해 '크리스탈'을 얻어 응원하는 소년의 아바타에게 전달하면, 방송과 별개로 2주마다 얻은 전체 크리스탈 수에 따라 응원 1위를 하는 소년('크리스탈 1위')이 무대의 중심에 위치하게 된다. 단계별 퀘스트를 완료하면 소년들의 미공개 셀카 사진, 소년들이 직접 외형을 만들고 꾸민 아바타로 제작된 AR 필터 그리고 파이널 무대를 앞둔 소년들의 스페셜 쇼케이스 무대 관람 기회를 얻을 수 있다.보이즈 플래닛: 스타 랜드에는 보이즈 플래닛에 출연하는 소년들의 무대가 구현된다. 팬들은 소년들의 무대를 감상하고 보이즈 플래닛과 관련된 퀴즈를 푸는 퀘스트를 즐길 수 있다.다만 더 샌드박스의 응원 시스템이 보이즈 플래닛 본투표에 적용되는 건 아니다. 보이즈 플래닛은 '엠넷 플러스' 앱 투표로 멤버들의 생존과 탈락을 결정한다. 인기 멤버의 경우 더 샌드박스와 엠넷 플러스 앱 양측에서 높은 호응을 얻을 것으로 예상된다. 블록체인상의 인기도 측정 시스템이 연계됐기 때문에, 프로그램 제작진이 운영하는 본투표와의 현저한 '갭'을 방지할 수 있을 것으로 분석된다.더 샌드박스 코리아 관계자는 "방송 콘텐츠와 메타버스를 연계한 새로운 시도를 통해 메타버스의 확장성을 보여줄 수 있게 돼 기쁘다"며 "케이팝 팬들이 가수와 음악을 새로운 형태로 만나볼 수 있는 즐거운 경험이 될 것"이라고 말했다.CJ ENM 관계자는 "전 세계에서 활약할 보이그룹을 찾는 오디션 프로그램인 보이즈 플래닛의 세계관을 더 샌드박스에 구현해 시청자들에게 또 다른 즐길 거리를 제공하고, 더 넓은 팬들에게 다가갈 수 있는 기회를 만들었다"고 설명했다.CJ ENM은 이번 보이즈 플래닛 콘텐츠 외에도 다양한 IP를 버추얼로 탄생시켜 글로벌 Z세대들에게 제공함으로써 콘텐츠의 지평을 확장해나갈 계획이다. 더 샌드박스와 CJ ENM은 지난 7월 파트너십을 체결해 글로벌 Z세대를 겨냥한 다양한 메타버스 콘텐츠 경험 제작 협업을 진행하고 있다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>

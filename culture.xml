@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 06:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 07:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위메이드, 미르M 글로벌 오픈…'인터게임 이코노미' 실현되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310014</link>
+            <guid>https://www.bloter.net/newsView/blt202301310014</guid>
+            <pubDate>Tue, 31 Jan 2023 07:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[위메이드가 블록체인 기술을 더한 '미르M: 뱅가드 앤 배가본드(이하 미르M) 글로벌' 버전을 오픈해 위믹스 생태계를 확대한다. 미르M 글로벌이 지난 2021년 8월 오픈한 미르4 글로벌 버전에 이어 위메이드의 새로운 캐시카우(주요 수익원)가 될 수 있을 지 주목된다.   31]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310032.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[위클리LCK]T1·광동, '패배'를 바라보는 엇갈린 시선]]></title>
             <link>https://www.bloter.net/newsView/blt202301300014</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 25 Jan 2023 10:24:39 GMT</pubDate>
             <content:encoded><![CDATA[한국콜마가 인공지능(AI) 기술이 적용된 화장품 생산기지를 만든다. 이는 색조 화장품 등 글로벌 시장의 수요 확대에 대응하기 위해서다. 최근 전세계 곳곳에서 엔데믹 분위기가 이어지는 데다 국내에서 마스크 착용 의무가 완화됨에 따라 관련 시장 수요가 커질 것]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'韓 개발·日 흥행' 정석 '블루 아카이브'의 '큰 그림']]></title>
-            <link>https://www.bloter.net/newsView/blt202301250009</link>
-            <guid>https://www.bloter.net/newsView/blt202301250009</guid>
-            <pubDate>Wed, 25 Jan 2023 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[서브컬쳐 본고장인 일본에 선출시하며 게임업계에서 이례적인 행보를 보였던 '블루 아카이브(Blue Archive)'가 현지 출시 2년여 만에 앱 마켓 매출 1위를 달성하는 역주행에 성공했다. 블루 아카이브는 서브컬쳐 게임의 '성공 루트'인 애니메이션 제작까지 결정하며 현]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/25/blt202301250013.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
