@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 17:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 18:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 '갤럭시 북3 시리즈'의 타깃은?…게이머와 크리에이터]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010012</link>
+            <guid>https://www.bloter.net/newsView/blt202302010012</guid>
+            <pubDate>Wed, 01 Feb 2023 18:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-02 03:00:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010023.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['억' 소리 나는 카메라 진화는 현재진행형...'삼성 갤럭시S23']]></title>
+            <link>https://www.bloter.net/newsView/blt202302010015</link>
+            <guid>https://www.bloter.net/newsView/blt202302010015</guid>
+            <pubDate>Wed, 01 Feb 2023 18:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-02 03:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010027.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플페이, 온라인 결제시장 어떤 영향 미칠까? [넘버스]]]></title>
             <link>https://www.bloter.net/newsView/blt202301310005</link>
             <guid>https://www.bloter.net/newsView/blt202301310005</guid>
             <pubDate>Wed, 01 Feb 2023 11:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-01 20:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310009.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310009.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]KT서브마린, 390억원 해저 포설선 양수…LS전선과 시너지는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 31 Jan 2023 07:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 15:57:32</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310031.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 생활가전, 수익성 악화에 ‘털썩’…7년 만에 ‘적자전환’]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310010</link>
-            <guid>https://www.bloter.net/newsView/blt202301310010</guid>
-            <pubDate>Tue, 31 Jan 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 14:56:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 만난 '보이즈 플래닛'…기대 모으는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310009</link>
-            <guid>https://www.bloter.net/newsView/blt202301310009</guid>
-            <pubDate>Tue, 31 Jan 2023 06:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
