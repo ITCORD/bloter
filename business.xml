@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 01:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 02:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['에너지 한 우물' 포스코인터, LNG 터미널 9000억 투자]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310012</link>
+            <guid>https://www.bloter.net/newsView/blt202301310012</guid>
+            <pubDate>Wed, 01 Feb 2023 02:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 15:23:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310030.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 만난 '보이즈 플래닛'…기대 모으는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310009</link>
+            <guid>https://www.bloter.net/newsView/blt202301310009</guid>
+            <pubDate>Wed, 01 Feb 2023 02:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['AI가 이미지 이해하고 설명'...LG, AI 융합 트렌드 주도 나선다]]></title>
             <link>https://www.bloter.net/newsView/blt202301310004</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 31 Jan 2023 06:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-30 18:35:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300027.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴발란스·스파오 덕 날았다'...온라인 전환 이랜드패션, 역대 최대 영업이익]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300010</link>
-            <guid>https://www.bloter.net/newsView/blt202301300010</guid>
-            <pubDate>Tue, 31 Jan 2023 02:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-30 16:57:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성SDI "美 시장 기획 포착"...'JV'로 현지 투자 늘린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300006</link>
-            <guid>https://www.bloter.net/newsView/blt202301300006</guid>
-            <pubDate>Tue, 31 Jan 2023 01:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-30 13:12:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
