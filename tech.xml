@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 01:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GM, 4분기 깜짝 실적 공개…"리튬광산업체 투자해 배터리 공급망 확보"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010002</link>
+            <guid>https://www.bloter.net/newsView/blt202302010002</guid>
+            <pubDate>Wed, 01 Feb 2023 01:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-01 09:22:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스냅, 부진한 4분기 실적 발표…"거시경제 역풍 영향"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010001</link>
+            <guid>https://www.bloter.net/newsView/blt202302010001</guid>
+            <pubDate>Wed, 01 Feb 2023 01:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-01 08:22:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]경기 둔화 속 에스원 '현금 창출 능력'에 쏠린 눈]]></title>
             <link>https://www.bloter.net/newsView/blt202301310020</link>
             <guid>https://www.bloter.net/newsView/blt202301310020</guid>
             <pubDate>Tue, 31 Jan 2023 10:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 18:33:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310046.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310046.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[그래서 수익성은? 2% 아쉬운 과기정통부 '28GHz 5G 비책'…SKT·KT는 '난감']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 30 Jan 2023 09:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-30 18:15:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300024.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리LCK]T1·광동, '패배'를 바라보는 엇갈린 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300014</link>
-            <guid>https://www.bloter.net/newsView/blt202301300014</guid>
-            <pubDate>Mon, 30 Jan 2023 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-01-30 17:57:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300020.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 수출길, 여전히 '그린라이트'…하이텍팜·대웅바이오가 웃을 수 있는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300012</link>
-            <guid>https://www.bloter.net/newsView/blt202301300012</guid>
-            <pubDate>Mon, 30 Jan 2023 08:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-01-30 16:53:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300018.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
