@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 07:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 08:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['주가부양' 셀트리온 vs '경영권 불안정' 휴마시스…법적 공방 '스타트']]></title>
+            <link>https://www.bloter.net/newsView/blt202302010010</link>
+            <guid>https://www.bloter.net/newsView/blt202302010010</guid>
+            <pubDate>Wed, 01 Feb 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-01 16:55:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["정확도 95%? 조금 비싸도 좋다" 한화생명이 업스테이지 OCR 택한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010009</link>
+            <guid>https://www.bloter.net/newsView/blt202302010009</guid>
+            <pubDate>Wed, 01 Feb 2023 08:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-01 16:43:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010017.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SK하이닉스, '반도체 불황' 속 실적 반등 기대하는 이유…중국·인텔 CPU·챗GPT]]></title>
             <link>https://www.bloter.net/newsView/blt202302010007</link>
             <guid>https://www.bloter.net/newsView/blt202302010007</guid>
             <pubDate>Wed, 01 Feb 2023 07:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-01 16:06:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매출 3배 증가에도 적자, 그래도 딥노이드 웃은 이유는…'노코드 플랫폼']]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 31 Jan 2023 02:47:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 11:36:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로밍 넘어 직접 서비스까지…카카오모빌리티가 라오스에 거는 기대]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310007</link>
-            <guid>https://www.bloter.net/newsView/blt202301310007</guid>
-            <pubDate>Tue, 31 Jan 2023 02:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-31 11:32:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310019.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소상공인에게 3만~5만원 피해 보상…카카오, 지원금 서류 접수 시작]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310003</link>
-            <guid>https://www.bloter.net/newsView/blt202301310003</guid>
-            <pubDate>Tue, 31 Jan 2023 01:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-31 09:58:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
