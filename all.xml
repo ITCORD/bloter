@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 11:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 12:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,40 +273,48 @@ SAGE는 백신 EUL을 평가하는 조직은 아니다. WHO 내 규정 및 사�
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310046.291x174.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[공공기관 신입 연봉킹은 '기업은행'…얼마 받길래? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302010013</link>
-            <guid>https://www.bloter.net/newsView/blt202302010013</guid>
-            <pubDate>Wed, 01 Feb 2023 09:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-01 17:50:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010021.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애플페이, 온라인 결제시장 어떤 영향 미칠까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310005</link>
+            <guid>https://www.bloter.net/newsView/blt202301310005</guid>
+            <pubDate>Wed, 01 Feb 2023 11:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-01 20:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310009.570x320.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['고향사랑기부' 띄우는 NH농협은행…오세정 서울대 총장도 동참 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310017</link>
-            <guid>https://www.bloter.net/newsView/blt202301310017</guid>
-            <pubDate>Tue, 31 Jan 2023 08:18:31 GMT</pubDate>
+            <title><![CDATA[美 주요은행, 애플페이·페이팔과 경쟁 위해 디지털지갑 공동 개발 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301240003</link>
+            <guid>https://www.bloter.net/newsView/blt202301240003</guid>
+            <pubDate>Tue, 24 Jan 2023 01:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플페이 감당할 수 있나…반쪽짜리도 안 되는 '오픈페이' 출발 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212210010</link>
+            <guid>https://www.bloter.net/newsView/blt202212210010</guid>
+            <pubDate>Wed, 01 Feb 2023 12:37:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[은행 '해킹 맛집' 될라…이복현 금감원장 "IT 내부통제 강화해야" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301180011</link>
-            <guid>https://www.bloter.net/newsView/blt202301180011</guid>
-            <pubDate>Wed, 18 Jan 2023 08:18:41 GMT</pubDate>
+            <title><![CDATA[애플페이, 한국 오니? 카카오페이는 일본·중국 간다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211080020</link>
+            <guid>https://www.bloter.net/newsView/blt202211080020</guid>
+            <pubDate>Wed, 01 Feb 2023 12:37:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[기업대출 노리는 인터넷은행, 기업은행 이길 수 있을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202205230063</link>
-            <guid>https://www.bloter.net/newsView/blt202205230063</guid>
-            <pubDate>Wed, 01 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[코인도 간편결제로…넷마블F&C '큐브', 바이낸스 커넥트 도입 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202206150011</link>
+            <guid>https://www.bloter.net/newsView/blt202206150011</guid>
+            <pubDate>Wed, 01 Feb 2023 12:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[투자로 손실보고 대출로 이익낸 KB국민·기업은행 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202202090052</link>
-            <guid>https://www.bloter.net/newsView/blt202202090052</guid>
-            <pubDate>Wed, 01 Feb 2023 09:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[GM, 4분기 깜짝 실적 공개…"리튬광산업체 투자해 배터리 공급망 확보" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010002</link>
+            <guid>https://www.bloter.net/newsView/blt202302010002</guid>
+            <pubDate>Wed, 01 Feb 2023 01:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-01 09:22:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010002.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스냅, 부진한 4분기 실적 발표…"거시경제 역풍 영향" (블로터 ─ 비즈니스)]]></title>
@@ -347,14 +355,6 @@ SAGE는 백신 EUL을 평가하는 조직은 아니다. WHO 내 규정 및 사�
             <pubDate>Tue, 31 Jan 2023 06:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['AI가 이미지 이해하고 설명'...LG, AI 융합 트렌드 주도 나선다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310004</link>
-            <guid>https://www.bloter.net/newsView/blt202301310004</guid>
-            <pubDate>Tue, 31 Jan 2023 02:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 10:16:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
