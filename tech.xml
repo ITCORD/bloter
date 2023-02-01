@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 10:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]KT서브마린, 390억원 해저 포설선 양수…LS전선과 시너지는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010014</link>
+            <guid>https://www.bloter.net/newsView/blt202302010014</guid>
+            <pubDate>Wed, 01 Feb 2023 10:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-01 18:18:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010022.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['주가부양' 셀트리온 vs '경영권 불안정' 휴마시스…법적 공방 '스타트']]></title>
             <link>https://www.bloter.net/newsView/blt202302010010</link>
             <guid>https://www.bloter.net/newsView/blt202302010010</guid>
             <pubDate>Wed, 01 Feb 2023 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-01 16:55:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["정확도 95%? 조금 비싸도 좋다" 한화생명이 업스테이지 OCR 택한 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 31 Jan 2023 05:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-01-31 13:49:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310020.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 2022년 '반도체 한파' 속 선방한 현금흐름]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310006</link>
-            <guid>https://www.bloter.net/newsView/blt202301310006</guid>
-            <pubDate>Tue, 31 Jan 2023 02:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 11:36:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

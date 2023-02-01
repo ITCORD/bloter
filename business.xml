@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 10:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스냅, 부진한 4분기 실적 발표…"거시경제 역풍 영향"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010001</link>
+            <guid>https://www.bloter.net/newsView/blt202302010001</guid>
+            <pubDate>Wed, 01 Feb 2023 10:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-01 08:22:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LG화학, 올해 4조 투자..."자산효율화 추진 계획"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310016</link>
+            <guid>https://www.bloter.net/newsView/blt202301310016</guid>
+            <pubDate>Wed, 01 Feb 2023 10:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 17:06:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310037.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['고향사랑기부' 띄우는 NH농협은행…오세정 서울대 총장도 동참]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310017</link>
+            <guid>https://www.bloter.net/newsView/blt202301310017</guid>
+            <pubDate>Wed, 01 Feb 2023 10:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 17:05:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310038.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['에너지 한 우물' 포스코인터, LNG 터미널 9000억 투자]]></title>
             <link>https://www.bloter.net/newsView/blt202301310012</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 31 Jan 2023 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 10:16:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포드, 테슬라 이어 전기차 가격 인하 발표]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310002</link>
-            <guid>https://www.bloter.net/newsView/blt202301310002</guid>
-            <pubDate>Tue, 31 Jan 2023 08:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-31 09:16:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 폴더블 아이패드 출시하나…궈밍치 "2024년에 나올 것"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310001</link>
-            <guid>https://www.bloter.net/newsView/blt202301310001</guid>
-            <pubDate>Tue, 31 Jan 2023 07:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-01-31 08:27:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산 시장도 '기관'이 주무르나…코인원 "금융사 투자 허용해야"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300016</link>
-            <guid>https://www.bloter.net/newsView/blt202301300016</guid>
-            <pubDate>Tue, 31 Jan 2023 06:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-30 18:35:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300027.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
