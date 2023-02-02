@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플페이, 온라인 결제시장 어떤 영향 미칠까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202301310005</link>
+            <guid>https://www.bloter.net/newsView/blt202301310005</guid>
+            <pubDate>Thu, 02 Feb 2023 07:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-01 20:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310009.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[공공기관 신입 연봉킹은 '기업은행'…얼마 받길래?]]></title>
             <link>https://www.bloter.net/newsView/blt202302010013</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 01 Feb 2023 10:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-01 08:22:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LG화학, 올해 4조 투자..."자산효율화 추진 계획"]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310016</link>
-            <guid>https://www.bloter.net/newsView/blt202301310016</guid>
-            <pubDate>Wed, 01 Feb 2023 10:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 17:06:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310037.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
