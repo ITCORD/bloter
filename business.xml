@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 23:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 01:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에쓰오일, 올해 CAPEX 5배 확대...9조 '샤힌 프로젝트' 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010011</link>
+            <guid>https://www.bloter.net/newsView/blt202302010011</guid>
+            <pubDate>Thu, 02 Feb 2023 01:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-02-01 16:40:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위키 닮은 '토스뱅크 모임통장'…모임장 권한독점 깼다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302010008</link>
+            <guid>https://www.bloter.net/newsView/blt202302010008</guid>
+            <pubDate>Thu, 02 Feb 2023 01:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-01 16:33:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010015.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[GM, 4분기 깜짝 실적 공개…"리튬광산업체 투자해 배터리 공급망 확보"]]></title>
             <link>https://www.bloter.net/newsView/blt202302010002</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 01 Feb 2023 10:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 17:05:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310038.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['에너지 한 우물' 포스코인터, LNG 터미널 9000억 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310012</link>
-            <guid>https://www.bloter.net/newsView/blt202301310012</guid>
-            <pubDate>Wed, 01 Feb 2023 02:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-01-31 15:23:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310030.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스 만난 '보이즈 플래닛'…기대 모으는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310009</link>
-            <guid>https://www.bloter.net/newsView/blt202301310009</guid>
-            <pubDate>Wed, 01 Feb 2023 02:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-01-31 14:34:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310024.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
