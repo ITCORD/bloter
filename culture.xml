@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 09:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 10:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스 2023]②영상 이어 게임층까지 흡수할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302020010</link>
+            <guid>https://www.bloter.net/newsView/blt202302020010</guid>
+            <pubDate>Thu, 02 Feb 2023 10:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 오리지널 시리즈·영화 등 영상 콘텐츠에 이어 '모바일 게임' 라인업 확대에 나섰다. 가볍게 즐길 수 있는 게임부터 전략 게임에 이르는 포트폴리오를 확보한 넷플릭스는 최근 △발리언트 하츠: 커밍 홈 △12분 △인투 더 브리지 등 작품성 및 대중성]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난해 20%대 성장률 기록한 제일기획, 올해는?]]></title>
             <link>https://www.bloter.net/newsView/blt202301310019</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 Jan 2023 06:20:41 GMT</pubDate>
             <content:encoded><![CDATA[애드테크 기업 아드리엘이 1인 마케터의 효율적인 디지털 광고 캠페인 운영과 리포팅을 지원할 '아드리엘 라이트 플랜(Adriel Lite Plan)'을 출시했다. 이는 아드리엘에서 운영중인 '애드옵스(AdOps)'의 대시보드 솔루션에서 핵심 기능만을 뽑아 가격 부담을 낮춘 실속형]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자취 커뮤니티 '독립은 처음이라', 월 이용자 수 5만 돌파]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260003</link>
-            <guid>https://www.bloter.net/newsView/blt202301260003</guid>
-            <pubDate>Thu, 26 Jan 2023 02:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[커뮤니티 웹 서비스 '독립은 처음이라'가 월간 활성화 이용자수(MAU) 5만명, 일일 최대 1만명(12월 30일 기준)을 기록했다. 독립은 처음이라는 총 1000만원의 '독립자금'을 지원하는 이벤트를 통해 이용자들의 참여를 독려한다는 방침이다.26일 CJ ENM 디지털 마케팅 솔루션]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
