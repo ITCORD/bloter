@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 09:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z홀딩스·라인·야후재팬 한 몸 된다…"3자합병으로 사업 시너지 극대화"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302020011</link>
+            <guid>https://www.bloter.net/newsView/blt202302020011</guid>
+            <pubDate>Thu, 02 Feb 2023 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-02 17:38:31</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020024.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 정도면 형제 인정…아이폰의 황당한 급 나누기, 갤럭시S23은 없었다]]></title>
             <link>https://www.bloter.net/newsView/blt202302020008</link>
             <guid>https://www.bloter.net/newsView/blt202302020008</guid>
             <pubDate>Thu, 02 Feb 2023 08:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-02 16:53:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이한주 베스핀글로벌 대표가 적자 속 '2024년 연간 흑자전환' 자신한 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Feb 2023 02:55:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-01 11:20:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대웅제약, 중국에 폐섬유증 치료제 신약 3억3600만달러 '기술수출']]></title>
-            <link>https://www.bloter.net/newsView/blt202301310021</link>
-            <guid>https://www.bloter.net/newsView/blt202301310021</guid>
-            <pubDate>Wed, 01 Feb 2023 02:55:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-01 11:13:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
