@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 05:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 06:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["북한 연계 해커, 단연코 가장 많은 가상자산 범죄 주도"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302020003</link>
+            <guid>https://www.bloter.net/newsView/blt202302020003</guid>
+            <pubDate>Thu, 02 Feb 2023 06:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-02 15:03:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗GPT, 유료 서비스 시작…"다양한 요금제 적극 검토"]]></title>
             <link>https://www.bloter.net/newsView/blt202302020002</link>
             <guid>https://www.bloter.net/newsView/blt202302020002</guid>
             <pubDate>Thu, 02 Feb 2023 01:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-02 09:29:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[메타, 작년 4분기 매출 감소했지만 전망치 상회]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 31 Jan 2023 10:16:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-01-31 18:23:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 모바일, 22년 매출 늘었지만 이익률 악화…갤S23·Z플립5에 달린 23년]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310015</link>
-            <guid>https://www.bloter.net/newsView/blt202301310015</guid>
-            <pubDate>Tue, 31 Jan 2023 08:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-01-31 16:19:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
