@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 01:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 02:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GPT 3.5 적용된 MS '팀즈 프리미엄' 무엇이 달라졌나]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030003</link>
+            <guid>https://www.bloter.net/newsView/blt202302030003</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-03 11:26:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존 4분기 매출, 월가 예상치 상회…구글은 기대 이하]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030002</link>
+            <guid>https://www.bloter.net/newsView/blt202302030002</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 09:19:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030002.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰·맥 판매 부진에 애플 2016년 이후 최대 분기 매출 감소 기록]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030001</link>
+            <guid>https://www.bloter.net/newsView/blt202302030001</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 08:24:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스 2023]②영상 이어 게임층까지 흡수할까]]></title>
             <link>https://www.bloter.net/newsView/blt202302020010</link>
             <guid>https://www.bloter.net/newsView/blt202302020010</guid>
             <pubDate>Thu, 02 Feb 2023 10:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-02 18:56:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020020.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Z홀딩스·라인·야후재팬 한 몸 된다…"3자합병으로 사업 시너지 극대화"]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 01 Feb 2023 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-01 16:43:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, '반도체 불황' 속 실적 반등 기대하는 이유…중국·인텔 CPU·챗GPT]]></title>
-            <link>https://www.bloter.net/newsView/blt202302010007</link>
-            <guid>https://www.bloter.net/newsView/blt202302010007</guid>
-            <pubDate>Wed, 01 Feb 2023 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-01 16:06:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매출 3배 증가에도 적자, 그래도 딥노이드 웃은 이유는…'노코드 플랫폼']]></title>
-            <link>https://www.bloter.net/newsView/blt202302010005</link>
-            <guid>https://www.bloter.net/newsView/blt202302010005</guid>
-            <pubDate>Wed, 01 Feb 2023 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-01 15:35:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘믿었던 메모리마저’…美·中 거센 추격에 삼성·SK 위기감 커졌다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302010006</link>
-            <guid>https://www.bloter.net/newsView/blt202302010006</guid>
-            <pubDate>Wed, 01 Feb 2023 07:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-01 15:30:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

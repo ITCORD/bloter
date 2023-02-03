@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 01:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 02:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["북한 연계 해커, 단연코 가장 많은 가상자산 범죄 주도"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302020003</link>
+            <guid>https://www.bloter.net/newsView/blt202302020003</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-02 15:03:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020004.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[챗GPT, 유료 서비스 시작…"다양한 요금제 적극 검토"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302020002</link>
+            <guid>https://www.bloter.net/newsView/blt202302020002</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-02 09:29:57</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020003.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 작년 4분기 매출 감소했지만 전망치 상회]]></title>
             <link>https://www.bloter.net/newsView/blt202302020001</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 02 Feb 2023 01:12:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-02-01 16:40:46</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위키 닮은 '토스뱅크 모임통장'…모임장 권한독점 깼다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302010008</link>
-            <guid>https://www.bloter.net/newsView/blt202302010008</guid>
-            <pubDate>Thu, 02 Feb 2023 01:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-01 16:33:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010015.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[GM, 4분기 깜짝 실적 공개…"리튬광산업체 투자해 배터리 공급망 확보"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302010002</link>
-            <guid>https://www.bloter.net/newsView/blt202302010002</guid>
-            <pubDate>Wed, 01 Feb 2023 12:37:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-01 09:22:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/01/blt202302010002.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
