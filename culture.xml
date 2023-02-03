@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 06:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방송사 UHD 부조정실 수주한 '티브이로직', 매출 확대 본격화]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030007</link>
+            <guid>https://www.bloter.net/newsView/blt202302030007</guid>
+            <pubDate>Fri, 03 Feb 2023 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[비덴트의 방송장비사업부 '티브이로직'이 국내 방송사의 초고화질(UHD) 부조정실 수주에 잇따라 성공하며 본격적인 매출 확대에 나섰다.3일 비덴트 방송장비사업부에 따르면 티브이로직이 지난해 12월과 올해 1월에 연이어 국내 방송사의 UHD 스튜디오 구축 사업에 선]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스 2023]②영상 이어 게임층까지 흡수할까]]></title>
             <link>https://www.bloter.net/newsView/blt202302020010</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 Jan 2023 07:15:09 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. '생존을 위한 합병'이라는 조금은 짠한 포부를 밝혔던 '커넥트웨이브'. 이번엔 100% 지분을 소유한 자회사 '카비오스'를 합병했습니다. 라이브커머스 플랫폼 '날방TV'를 주된 사업으로 영위하고 있는 회사로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260016.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아드리엘, 1인 마케터 위한 실속형 '아드리엘 라이트 플랜' 출시]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260005</link>
-            <guid>https://www.bloter.net/newsView/blt202301260005</guid>
-            <pubDate>Thu, 26 Jan 2023 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[애드테크 기업 아드리엘이 1인 마케터의 효율적인 디지털 광고 캠페인 운영과 리포팅을 지원할 '아드리엘 라이트 플랜(Adriel Lite Plan)'을 출시했다. 이는 아드리엘에서 운영중인 '애드옵스(AdOps)'의 대시보드 솔루션에서 핵심 기능만을 뽑아 가격 부담을 낮춘 실속형]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260005.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
