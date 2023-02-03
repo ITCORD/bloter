@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 07:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 08:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실적 회복한 인크로스, '관계사 시너지' 극대화 초점]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030009</link>
+            <guid>https://www.bloter.net/newsView/blt202302030009</guid>
+            <pubDate>Fri, 03 Feb 2023 08:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 상반기 저조한 실적을 보였던 인크로스가 하반기 들어 상승세를 보이더니, 4분기 분기 사상 최대 실적을 냈다. 인크로스는 올해 '티딜'과 광고 자회사들과의 시너지를 통해 상승세를 이어갈 전망이다.   3일 SK그룹의 디지털 광고 전문기업 인크로스는 지난해]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030015.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[방송사 UHD 부조정실 수주한 '티브이로직', 매출 확대 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202302030007</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 26 Jan 2023 10:21:18 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트(MS) 엑스박스와 베데스다가 '개발자 다이렉트(Developer Direct)'를 통해 올해 라인업을 공개했다. 2020년 MS가 제니맥스 미디어를 인수하면서 자회사 베데스다까지 품게된 만큼, 이번에 공개된 라인업은 관련 계열사의 콘텐츠도 대거 포함돼 눈길을 끌었다]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260027.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]끈끈함 더하는 '커넥트웨이브', 이번엔 '라이브 커머스']]></title>
-            <link>https://www.bloter.net/newsView/blt202301260012</link>
-            <guid>https://www.bloter.net/newsView/blt202301260012</guid>
-            <pubDate>Thu, 26 Jan 2023 07:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. '생존을 위한 합병'이라는 조금은 짠한 포부를 밝혔던 '커넥트웨이브'. 이번엔 100% 지분을 소유한 자회사 '카비오스'를 합병했습니다. 라이브커머스 플랫폼 '날방TV'를 주된 사업으로 영위하고 있는 회사로]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260016.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
