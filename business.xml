@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 23:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 01:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰·맥 판매 부진에 애플 2016년 이후 최대 분기 매출 감소 기록]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030001</link>
+            <guid>https://www.bloter.net/newsView/blt202302030001</guid>
+            <pubDate>Sat, 04 Feb 2023 01:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 08:24:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국타이어, 창사 이래 최대 매출...수익성도 개선]]></title>
             <link>https://www.bloter.net/newsView/blt202302020009</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 02 Feb 2023 09:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-02 08:29:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플페이, 온라인 결제시장 어떤 영향 미칠까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310005</link>
-            <guid>https://www.bloter.net/newsView/blt202301310005</guid>
-            <pubDate>Thu, 02 Feb 2023 07:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-01 20:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310009.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
