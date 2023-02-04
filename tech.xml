@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 12:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 13:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK하이닉스, 1.7조원 영업손실에도 재무건전성 양호한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302040002</link>
+            <guid>https://www.bloter.net/newsView/blt202302040002</guid>
+            <pubDate>Sat, 04 Feb 2023 13:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-04 22:04:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국판 ‘챗GPT’ 내놓는 바이두, 성공할까]]></title>
             <link>https://www.bloter.net/newsView/blt202302030021</link>
             <guid>https://www.bloter.net/newsView/blt202302030021</guid>
             <pubDate>Sat, 04 Feb 2023 01:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-04 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['GPT'로 관심 쏠린 '생성형 AI'…구글은 어떻게 준비하나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 02 Feb 2023 08:22:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-02 16:18:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반도체 세정장비 특화한 제우스, ‘산업용 로봇’도 성과낼까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302020004</link>
-            <guid>https://www.bloter.net/newsView/blt202302020004</guid>
-            <pubDate>Thu, 02 Feb 2023 07:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-02 15:51:33</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
