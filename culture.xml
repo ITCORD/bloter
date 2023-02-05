@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 10:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 11:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]K-게임, 기회의 땅은 대만? TGS 정조준]]></title>
+            <link>https://www.bloter.net/newsView/blt202302040003</link>
+            <guid>https://www.bloter.net/newsView/blt202302040003</guid>
+            <pubDate>Sun, 05 Feb 2023 11:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[네오위즈, 컴투스, 그라비티가 대만에서 열린 '대만(타이페이)게임쇼(Taipei Game Show, TGS) 2023'에 대표작을 출품하며 현지 공략을 본격화했다. 대만 게임시장은 한국보다 규모가 작지만 중화권에 속해 있어 중국과 교류가 용이하며 글로벌 게임사들의 '테스트베드(시험]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040009.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['TIPA 가입' 구하다, 명품 TV 홈쇼핑 진출 정조준]]></title>
             <link>https://www.bloter.net/newsView/blt202302050001</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 27 Jan 2023 22:14:53 GMT</pubDate>
             <content:encoded><![CDATA[미국 연방 정부와 주정부를 중심으로 ‘틱톡 퇴출 운동’이 일어나고 있는 가운데 미국 주립 대학도 동참하고 나섰다. 현지 언론에 따르면 최근 몇 주에 걸쳐 위스콘신대학교, 텍사스대학교, 조지아대학교, 오번대학교 등 미국 내 대학교 최소 20곳이 틱톡을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270024.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅+]AB180 '에어브릿지', 파편화된 시장에 K-MMP의 등장이라]]></title>
-            <link>https://www.bloter.net/newsView/blt202301270005</link>
-            <guid>https://www.bloter.net/newsView/blt202301270005</guid>
-            <pubDate>Fri, 27 Jan 2023 05:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[AB180이 앰플리튜드와 브레이즈 총판에 이어 자체 개발 어트리뷰션 솔루션 '에어브릿지'를 통해 글로벌 출사표를 던졌다. 회사는 파편화된 정보 시대에서 차세대 측정 방법으로 떠오른 미디어믹스모델링(MMM) 또한 빠르게 이식 중이다.   마케팅 솔루션 및 컨설팅 회사]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270005.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
