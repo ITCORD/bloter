@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 05:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 06:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['TIPA 가입' 구하다, 명품 TV 홈쇼핑 진출 정조준]]></title>
+            <link>https://www.bloter.net/newsView/blt202302050001</link>
+            <guid>https://www.bloter.net/newsView/blt202302050001</guid>
+            <pubDate>Sun, 05 Feb 2023 06:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[명품 유통 플랫폼 구하다가 무역관련지식재산권보호협회(TIPA) 회원사로 가입했다. 이는 제품의 정품 신뢰도를 높이는 동시에 연내 계획하고 있는 TV 홈쇼핑 채널로의 성공적인 진출을 염두에 둔 것으로 풀이된다.  구하다는 B2B(기업 간 거래) 및 B2B2C(기업·소비]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/05/blt202302050001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실적 회복한 인크로스, '관계사 시너지' 극대화 초점]]></title>
             <link>https://www.bloter.net/newsView/blt202302030009</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 27 Jan 2023 05:16:11 GMT</pubDate>
             <content:encoded><![CDATA[AB180이 앰플리튜드와 브레이즈 총판에 이어 자체 개발 어트리뷰션 솔루션 '에어브릿지'를 통해 글로벌 출사표를 던졌다. 회사는 파편화된 정보 시대에서 차세대 측정 방법으로 떠오른 미디어믹스모델링(MMM) 또한 빠르게 이식 중이다.   마케팅 솔루션 및 컨설팅 회사]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/27/blt202301270005.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 엑스박스·베데스다가 밝힌 '2023 라인업'은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301260019</link>
-            <guid>https://www.bloter.net/newsView/blt202301260019</guid>
-            <pubDate>Thu, 26 Jan 2023 10:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS) 엑스박스와 베데스다가 '개발자 다이렉트(Developer Direct)'를 통해 올해 라인업을 공개했다. 2020년 MS가 제니맥스 미디어를 인수하면서 자회사 베데스다까지 품게된 만큼, 이번에 공개된 라인업은 관련 계열사의 콘텐츠도 대거 포함돼 눈길을 끌었다]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/26/blt202301260027.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
