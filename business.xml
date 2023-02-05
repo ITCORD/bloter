@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 08:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 09:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국판 ‘챗GPT’ 내놓는 바이두, 성공할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030021</link>
+            <guid>https://www.bloter.net/newsView/blt202302030021</guid>
+            <pubDate>Sun, 05 Feb 2023 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-04 09:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030035.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LG유플러스, 연간 영업익 1조원보다 '현금흐름'에 눈이 쏠린 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202302030017</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 03 Feb 2023 11:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-02-02 17:08:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료비 파격 캐시백 실은 카뱅 체크카드…의료법 위반이냐 역마진이냐]]></title>
-            <link>https://www.bloter.net/newsView/blt202302020006</link>
-            <guid>https://www.bloter.net/newsView/blt202302020006</guid>
-            <pubDate>Fri, 03 Feb 2023 11:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-02 16:08:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020008.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
