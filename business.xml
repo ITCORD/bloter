@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 "트위터, 손익분기점 향해 가는 추세"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060002</link>
+            <guid>https://www.bloter.net/newsView/blt202302060002</guid>
+            <pubDate>Mon, 06 Feb 2023 12:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 09:17:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 최고급 모델 ‘아이폰 울트라’ 출시하나…”아이폰16부터 추가”]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060001</link>
+            <guid>https://www.bloter.net/newsView/blt202302060001</guid>
+            <pubDate>Mon, 06 Feb 2023 12:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 08:19:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060001.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대두산인프라코어 효자 등극한 ‘엔진’ 사업]]></title>
             <link>https://www.bloter.net/newsView/blt202302030016</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 06 Feb 2023 02:39:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span><span class="writer">이일호</span>                        <span class="date">2023-02-04 12:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국판 ‘챗GPT’ 내놓는 바이두, 성공할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030021</link>
-            <guid>https://www.bloter.net/newsView/blt202302030021</guid>
-            <pubDate>Sun, 05 Feb 2023 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-04 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030035.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 연간 영업익 1조원보다 '현금흐름'에 눈이 쏠린 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030017</link>
-            <guid>https://www.bloter.net/newsView/blt202302030017</guid>
-            <pubDate>Sun, 05 Feb 2023 07:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-03 18:54:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030029.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
