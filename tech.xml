@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 23:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 01:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 "트위터, 손익분기점 향해 가는 추세"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060002</link>
+            <guid>https://www.bloter.net/newsView/blt202302060002</guid>
+            <pubDate>Mon, 06 Feb 2023 01:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 09:17:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 최고급 모델 ‘아이폰 울트라’ 출시하나…”아이폰16부터 추가”]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060001</link>
+            <guid>https://www.bloter.net/newsView/blt202302060001</guid>
+            <pubDate>Mon, 06 Feb 2023 01:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 08:19:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060001.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]K-게임, 기회의 땅은 대만? TGS 정조준]]></title>
             <link>https://www.bloter.net/newsView/blt202302040003</link>
             <guid>https://www.bloter.net/newsView/blt202302040003</guid>
             <pubDate>Sun, 05 Feb 2023 11:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-05 20:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040009.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['TIPA 가입' 구하다, 명품 TV 홈쇼핑 진출 정조준]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 03 Feb 2023 02:48:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-03 11:26:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아마존 4분기 매출, 월가 예상치 상회…구글은 기대 이하]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030002</link>
-            <guid>https://www.bloter.net/newsView/blt202302030002</guid>
-            <pubDate>Fri, 03 Feb 2023 02:48:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 09:19:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰·맥 판매 부진에 애플 2016년 이후 최대 분기 매출 감소 기록]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030001</link>
-            <guid>https://www.bloter.net/newsView/blt202302030001</guid>
-            <pubDate>Fri, 03 Feb 2023 02:48:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 08:24:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
