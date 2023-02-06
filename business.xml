@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 01:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 02:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 빅테크 감원 칼바람…진짜 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030020</link>
+            <guid>https://www.bloter.net/newsView/blt202302030020</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-05 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“2023년 초 상승장, ‘마지막 상승세’일 겁니다” I 짐 로저스 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202302040001</link>
+            <guid>https://www.bloter.net/newsView/blt202302040001</guid>
+            <pubDate>Mon, 06 Feb 2023 02:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span><span class="writer">이일호</span>                        <span class="date">2023-02-04 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국판 ‘챗GPT’ 내놓는 바이두, 성공할까]]></title>
             <link>https://www.bloter.net/newsView/blt202302030021</link>
@@ -38,22 +54,6 @@
             <pubDate>Sat, 04 Feb 2023 03:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 09:19:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰·맥 판매 부진에 애플 2016년 이후 최대 분기 매출 감소 기록]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030001</link>
-            <guid>https://www.bloter.net/newsView/blt202302030001</guid>
-            <pubDate>Sat, 04 Feb 2023 01:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-03 08:24:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국타이어, 창사 이래 최대 매출...수익성도 개선]]></title>
-            <link>https://www.bloter.net/newsView/blt202302020009</link>
-            <guid>https://www.bloter.net/newsView/blt202302020009</guid>
-            <pubDate>Fri, 03 Feb 2023 11:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-02-02 17:08:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
