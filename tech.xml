@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 07:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 08:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘위기감 커진 디스플레이’…아산캠퍼스 찾은 이재용 회장, “선제적 투자” 강조]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070013</link>
+            <guid>https://www.bloter.net/newsView/blt202302070013</guid>
+            <pubDate>Tue, 07 Feb 2023 08:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-07 16:25:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM표 클라우드란?…'사내 서버·AWS'의 데이터 모두 관리해주는 플랫폼]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070012</link>
+            <guid>https://www.bloter.net/newsView/blt202302070012</guid>
+            <pubDate>Tue, 07 Feb 2023 08:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-07 16:19:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM엔터 대개편]①스며드는 카카오 지분, '큰 그림' 시작됐다]]></title>
             <link>https://www.bloter.net/newsView/blt202302070009</link>
             <guid>https://www.bloter.net/newsView/blt202302070009</guid>
             <pubDate>Tue, 07 Feb 2023 07:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-07 16:11:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070013.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈플러스]당근마켓 "승우아빠, 이용자 사과부터"]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 06 Feb 2023 04:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-06 12:51:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스크 "트위터, 손익분기점 향해 가는 추세"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060002</link>
-            <guid>https://www.bloter.net/newsView/blt202302060002</guid>
-            <pubDate>Mon, 06 Feb 2023 01:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 09:17:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 최고급 모델 ‘아이폰 울트라’ 출시하나…”아이폰16부터 추가”]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060001</link>
-            <guid>https://www.bloter.net/newsView/blt202302060001</guid>
-            <pubDate>Mon, 06 Feb 2023 01:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 08:19:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
