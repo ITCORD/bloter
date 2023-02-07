@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 09:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 10:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['월드컵 수혜' 받았던 이노션, 올해는 '현대차 바라기'로]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070018</link>
+            <guid>https://www.bloter.net/newsView/blt202302070018</guid>
+            <pubDate>Tue, 07 Feb 2023 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[현대차 계열 종합광고대행사 이노션이 지난해 4분기, 카타르 월드컵 수혜를 중심으로 예견된 호실적을 내놨다. 올해 국내외 경기 불안정에 따라 광고 업계 또한 침체될 것으로 전망되는 가운데, 이노션은 현대차와 디지털 마케팅 강화를 통해 성장폭을 유지한다는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070024.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대백화점그룹 한섬·지누스, 지난해 4분기 '싸늘'했다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070019</link>
+            <guid>https://www.bloter.net/newsView/blt202302070019</guid>
+            <pubDate>Tue, 07 Feb 2023 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[현대백화점그룹의 계열사 한섬과 지누스가 다소 석연치 않은 성적표를 받아들었다. 한섬의 경우 연간 최대 실적을 기록했지만 두 계열사 모두 지난해 4분기 각각 둔화된 성장세를 보이거나 적자전환했다. 한섬과 지누스 측은 투자 비용에 대한 영향이라는 분석을]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070025.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM엔터 대개편]①스며드는 카카오 지분, '큰 그림' 시작됐다]]></title>
             <link>https://www.bloter.net/newsView/blt202302070009</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 03 Feb 2023 06:20:00 GMT</pubDate>
             <content:encoded><![CDATA[비덴트의 방송장비사업부 '티브이로직'이 국내 방송사의 초고화질(UHD) 부조정실 수주에 잇따라 성공하며 본격적인 매출 확대에 나섰다.3일 비덴트 방송장비사업부에 따르면 티브이로직이 지난해 12월과 올해 1월에 연이어 국내 방송사의 UHD 스튜디오 구축 사업에 선]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2023]②영상 이어 게임층까지 흡수할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302020010</link>
-            <guid>https://www.bloter.net/newsView/blt202302020010</guid>
-            <pubDate>Thu, 02 Feb 2023 10:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 오리지널 시리즈·영화 등 영상 콘텐츠에 이어 '모바일 게임' 라인업 확대에 나섰다. 가볍게 즐길 수 있는 게임부터 전략 게임에 이르는 포트폴리오를 확보한 넷플릭스는 최근 △발리언트 하츠: 커밍 홈 △12분 △인투 더 브리지 등 작품성 및 대중성]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/02/blt202302020020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 20%대 성장률 기록한 제일기획, 올해는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310019</link>
-            <guid>https://www.bloter.net/newsView/blt202301310019</guid>
-            <pubDate>Tue, 31 Jan 2023 09:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[제일기획이 지난해 디지털과 해외 사업의 성장에 힘입어 호실적을 거뒀다. 경제침체기에 따라 광고업계의 촉각이 곤두 선 가운데, 제일기획은 DTC(자사몰) 마케팅 등 디지털 서비스 영역을 더욱 확대해 올해 매출총이익을 전년 대비 5% 이상 확대하는 것을 목표로 세]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310044.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
