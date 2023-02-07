@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 06:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 07:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 대화형 AI '바드' 발표…챗GPT 경쟁 본격 시동]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070001</link>
+            <guid>https://www.bloter.net/newsView/blt202302070001</guid>
+            <pubDate>Tue, 07 Feb 2023 07:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 08:34:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["은행은 공공재"…'윤심' 대변하는 이복현 금감원장]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060012</link>
+            <guid>https://www.bloter.net/newsView/blt202302060012</guid>
+            <pubDate>Tue, 07 Feb 2023 07:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-06 21:12:33</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060019.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['발포주 첫 주자' 하이트진로, '퓨린 컷'으로 라인업 실험 ing]]></title>
             <link>https://www.bloter.net/newsView/blt202302060014</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 06 Feb 2023 12:38:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 09:17:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 최고급 모델 ‘아이폰 울트라’ 출시하나…”아이폰16부터 추가”]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060001</link>
-            <guid>https://www.bloter.net/newsView/blt202302060001</guid>
-            <pubDate>Mon, 06 Feb 2023 12:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-06 08:19:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대두산인프라코어 효자 등극한 ‘엔진’ 사업]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030016</link>
-            <guid>https://www.bloter.net/newsView/blt202302030016</guid>
-            <pubDate>Mon, 06 Feb 2023 07:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김성진</span>                        <span class="date">2023-02-05 18:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030027.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

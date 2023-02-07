@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 06:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 07:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM엔터 대개편]①스며드는 카카오 지분, '큰 그림' 시작됐다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070009</link>
+            <guid>https://www.bloter.net/newsView/blt202302070009</guid>
+            <pubDate>Tue, 07 Feb 2023 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM엔터)가 마침내 지분 일부를 매각하며 새로운 DNA 수혈에 나섰다. 지난 2021년부터 제기된 SM엔터 인수전에서 끝내 미소를 지은 주인공은 '카카오'다. 카카오는 유상증자로 발행하는 SM엔터 신주와 전환사채를 포함해 총 2000억원 이상을 베팅하며]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈플러스]당근마켓 "승우아빠, 이용자 사과부터"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070011</link>
+            <guid>https://www.bloter.net/newsView/blt202302070011</guid>
+            <pubDate>Tue, 07 Feb 2023 07:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[지역생활 커뮤니티 당근마켓이 유튜브 크리에이터 '승우아빠' 소속사 샌드박스네트워크(이하 샌드박스) 측에 "당근마켓 이용자들에게 사과해달라"고 답변했다. 한편 브랜드 이미지가 훼손된 것에 대한 조치는 승우아빠의 공개 사과문으로 대신하겠다는 입장이다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070015.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[마케팅+]아시아 사업자라면 '애피어' 주목해야 하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202302070003</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 31 Jan 2023 09:15:57 GMT</pubDate>
             <content:encoded><![CDATA[제일기획이 지난해 디지털과 해외 사업의 성장에 힘입어 호실적을 거뒀다. 경제침체기에 따라 광고업계의 촉각이 곤두 선 가운데, 제일기획은 DTC(자사몰) 마케팅 등 디지털 서비스 영역을 더욱 확대해 올해 매출총이익을 전년 대비 5% 이상 확대하는 것을 목표로 세]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310044.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위메이드, 미르M 글로벌 오픈…'인터게임 이코노미' 실현되나]]></title>
-            <link>https://www.bloter.net/newsView/blt202301310014</link>
-            <guid>https://www.bloter.net/newsView/blt202301310014</guid>
-            <pubDate>Tue, 31 Jan 2023 07:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[위메이드가 블록체인 기술을 더한 '미르M: 뱅가드 앤 배가본드(이하 미르M) 글로벌' 버전을 오픈해 위믹스 생태계를 확대한다. 미르M 글로벌이 지난 2021년 8월 오픈한 미르4 글로벌 버전에 이어 위메이드의 새로운 캐시카우(주요 수익원)가 될 수 있을 지 주목된다.   31]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/31/blt202301310032.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[위클리LCK]T1·광동, '패배'를 바라보는 엇갈린 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300014</link>
-            <guid>https://www.bloter.net/newsView/blt202301300014</guid>
-            <pubDate>Mon, 30 Jan 2023 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA['위클리LCK'는 한 주간 있었던 '리그 오브 레전드 챔피언스코리아(LCK)'의 동향을 알아보고, 이를 주관적으로 분석해보는 코너입니다. 각 구단들의 리그·토너먼트 대회 결과부터 선수들의 일상이나 이적 소식 등을 조명합니다. LCK 스프링이 지난 29일부로 1월 5주]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
