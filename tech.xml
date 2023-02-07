@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 01:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 02:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플페이 국내 출시 초읽기...갤럭시 쓰는 Z세대 관심도는 '미미']]></title>
+            <link>https://www.bloter.net/newsView/blt202302070004</link>
+            <guid>https://www.bloter.net/newsView/blt202302070004</guid>
+            <pubDate>Tue, 07 Feb 2023 02:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-07 11:16:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070006.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[마케팅+]아시아 사업자라면 '애피어' 주목해야 하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070003</link>
+            <guid>https://www.bloter.net/newsView/blt202302070003</guid>
+            <pubDate>Tue, 07 Feb 2023 02:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-07 11:09:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070005.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타 반독점 소송 기각된 美 FTC, 항소 안 한다]]></title>
             <link>https://www.bloter.net/newsView/blt202302070002</link>
             <guid>https://www.bloter.net/newsView/blt202302070002</guid>
             <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 09:25:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[구글, 대화형 AI '바드' 발표…챗GPT 경쟁 본격 시동]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Sat, 04 Feb 2023 13:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-04 22:04:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국판 ‘챗GPT’ 내놓는 바이두, 성공할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030021</link>
-            <guid>https://www.bloter.net/newsView/blt202302030021</guid>
-            <pubDate>Sat, 04 Feb 2023 01:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-04 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030035.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['GPT'로 관심 쏠린 '생성형 AI'…구글은 어떻게 준비하나]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030024</link>
-            <guid>https://www.bloter.net/newsView/blt202302030024</guid>
-            <pubDate>Fri, 03 Feb 2023 22:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-04 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

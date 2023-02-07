@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 01:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 02:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[마케팅+]아시아 사업자라면 '애피어' 주목해야 하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070003</link>
+            <guid>https://www.bloter.net/newsView/blt202302070003</guid>
+            <pubDate>Tue, 07 Feb 2023 02:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[서비스형 소프트웨어(SaaS) 기업 애피어가 '아이리스'를 통해 고객 데이터 플랫폼(CDP) 트렌드에 합류한다. 기존 광고 플랫폼 데이터가 있다는 이점을 바탕으로, 마케터 친화적인 직관적인 인터페이스가 장점이다. 한국을 포함한 아시아태평양지역(APAC)에 대한 이해도]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070005.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[게임인사이드]'씰M' 덕본 플레이위드, 적자 폭은 더 늘었다]]></title>
             <link>https://www.bloter.net/newsView/blt202302060009</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 09:16:48 GMT</pubDate>
             <content:encoded><![CDATA['위클리LCK'는 한 주간 있었던 '리그 오브 레전드 챔피언스코리아(LCK)'의 동향을 알아보고, 이를 주관적으로 분석해보는 코너입니다. 각 구단들의 리그·토너먼트 대회 결과부터 선수들의 일상이나 이적 소식 등을 조명합니다. LCK 스프링이 지난 29일부로 1월 5주]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터 분석부터 비즈니스 트렌드까지…청년마케터, 상반기 월간모임 개시]]></title>
-            <link>https://www.bloter.net/newsView/blt202301300008</link>
-            <guid>https://www.bloter.net/newsView/blt202301300008</guid>
-            <pubDate>Mon, 30 Jan 2023 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[직장인 커뮤니티 청년마케터는 마케터 실무자를 대상으로 '청년마케터 월간모임' 세미나를 개최했다고 30일 밝혔다.지난 28일 오후 2시부터 6시까지 진행된 청년마케터 월간모임 세미나에는 박기덕 밴스드 대표와 신주혜 브랜디 그로스실장이 강단에 올랐다.  '비즈]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/30/blt202301300009.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
