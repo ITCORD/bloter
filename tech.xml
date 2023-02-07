@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 01:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타 반독점 소송 기각된 美 FTC, 항소 안 한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070002</link>
+            <guid>https://www.bloter.net/newsView/blt202302070002</guid>
+            <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 09:25:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070003.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 대화형 AI '바드' 발표…챗GPT 경쟁 본격 시동]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070001</link>
+            <guid>https://www.bloter.net/newsView/blt202302070001</guid>
+            <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 08:34:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070002.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[비대면 진료 합법화, 약 배송 난관 넘을 수 있을까]]></title>
             <link>https://www.bloter.net/newsView/blt202302060010</link>
             <guid>https://www.bloter.net/newsView/blt202302060010</guid>
             <pubDate>Mon, 06 Feb 2023 12:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-06 18:37:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060021.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060021.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[게임인사이드]'씰M' 덕본 플레이위드, 적자 폭은 더 늘었다]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 03 Feb 2023 22:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-04 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040002.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]우리 회사는 왜 현금흐름 관리를 못했을까 (ft.아이씨)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030010</link>
-            <guid>https://www.bloter.net/newsView/blt202302030010</guid>
-            <pubDate>Fri, 03 Feb 2023 11:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-02-03 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스, 연간 영업익 1조원보다 '현금흐름'에 눈이 쏠린 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030017</link>
-            <guid>https://www.bloter.net/newsView/blt202302030017</guid>
-            <pubDate>Fri, 03 Feb 2023 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-03 18:54:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030029.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

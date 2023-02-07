@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 01:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무지개다리 같이 건너는 우리카드…'펫닥'과 맞손]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060005</link>
+            <guid>https://www.bloter.net/newsView/blt202302060005</guid>
+            <pubDate>Tue, 07 Feb 2023 01:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-06 15:37:09</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["5년 후에도 기준금리가 같을까?”…새 차 '변동금리'로 산다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060004</link>
+            <guid>https://www.bloter.net/newsView/blt202302060004</guid>
+            <pubDate>Tue, 07 Feb 2023 01:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-06 14:20:48</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크 "트위터, 손익분기점 향해 가는 추세"]]></title>
             <link>https://www.bloter.net/newsView/blt202302060002</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 06 Feb 2023 06:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-05 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 빅테크 감원 칼바람…진짜 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030020</link>
-            <guid>https://www.bloter.net/newsView/blt202302030020</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-05 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030034.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“2023년 초 상승장, ‘마지막 상승세’일 겁니다” I 짐 로저스 인터뷰]]></title>
-            <link>https://www.bloter.net/newsView/blt202302040001</link>
-            <guid>https://www.bloter.net/newsView/blt202302040001</guid>
-            <pubDate>Mon, 06 Feb 2023 02:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span><span class="writer">이일호</span>                        <span class="date">2023-02-04 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040005.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
