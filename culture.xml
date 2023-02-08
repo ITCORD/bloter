@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 02:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 03:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]'넷플 효과'는? 나스미디어, 성수기에 받은 '어닝쇼크' 성적표]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070020</link>
+            <guid>https://www.bloter.net/newsView/blt202302070020</guid>
+            <pubDate>Wed, 08 Feb 2023 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 지난해 3분기 '어닝서프라이즈'를 냈던 나스미디어가 광고 업계 성수기인 4분기엔 오히려 '어닝쇼크'를 기록했습니다. 지난해 11월 넷플릭스 광고 대행을 맡으며 기대를 모은 가운데, 매출은 늘었으나 영]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070028.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 뛰어넘은 틱톡…전 세계 아동·청소년 사용 시간 1위]]></title>
             <link>https://www.bloter.net/newsView/blt202302080003</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 05 Feb 2023 06:24:24 GMT</pubDate>
             <content:encoded><![CDATA[명품 유통 플랫폼 구하다가 무역관련지식재산권보호협회(TIPA) 회원사로 가입했다. 이는 제품의 정품 신뢰도를 높이는 동시에 연내 계획하고 있는 TV 홈쇼핑 채널로의 성공적인 진출을 염두에 둔 것으로 풀이된다.  구하다는 B2B(기업 간 거래) 및 B2B2C(기업·소비]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/05/blt202302050001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실적 회복한 인크로스, '관계사 시너지' 극대화 초점]]></title>
-            <link>https://www.bloter.net/newsView/blt202302030009</link>
-            <guid>https://www.bloter.net/newsView/blt202302030009</guid>
-            <pubDate>Fri, 03 Feb 2023 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 상반기 저조한 실적을 보였던 인크로스가 하반기 들어 상승세를 보이더니, 4분기 분기 사상 최대 실적을 냈다. 인크로스는 올해 '티딜'과 광고 자회사들과의 시너지를 통해 상승세를 이어갈 전망이다.   3일 SK그룹의 디지털 광고 전문기업 인크로스는 지난해]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/03/blt202302030015.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
