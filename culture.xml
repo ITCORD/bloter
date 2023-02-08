@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 08:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 10:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["당근마켓에 찬물"...샌드박스, 'MCN과 제작사 사이' 정체성 고심]]></title>
+            <link>https://www.bloter.net/newsView/blt202302080017</link>
+            <guid>https://www.bloter.net/newsView/blt202302080017</guid>
+            <pubDate>Wed, 08 Feb 2023 10:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[샌드박스네트워크(이하 샌드박스)는 새해를 맞아 뉴미디어 기반 IP 매니지먼트 및 콘텐츠 제작사 성격의 '디지털 엔터테인먼트 기업'으로서의 정체성을 강화하겠다고 밝혔다. 이어 지난 6일에는 자사 소속 크리에이터 '빠니보틀'이 연출, 각본, 총감독을 맡은 곽튜브]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080022.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]'넷플 효과'는? 나스미디어, 성수기에 받은 '어닝쇼크' 성적표]]></title>
             <link>https://www.bloter.net/newsView/blt202302070020</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 05 Feb 2023 11:17:22 GMT</pubDate>
             <content:encoded><![CDATA[네오위즈, 컴투스, 그라비티가 대만에서 열린 '대만(타이페이)게임쇼(Taipei Game Show, TGS) 2023'에 대표작을 출품하며 현지 공략을 본격화했다. 대만 게임시장은 한국보다 규모가 작지만 중화권에 속해 있어 중국과 교류가 용이하며 글로벌 게임사들의 '테스트베드(시험]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/04/blt202302040009.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['TIPA 가입' 구하다, 명품 TV 홈쇼핑 진출 정조준]]></title>
-            <link>https://www.bloter.net/newsView/blt202302050001</link>
-            <guid>https://www.bloter.net/newsView/blt202302050001</guid>
-            <pubDate>Sun, 05 Feb 2023 06:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[명품 유통 플랫폼 구하다가 무역관련지식재산권보호협회(TIPA) 회원사로 가입했다. 이는 제품의 정품 신뢰도를 높이는 동시에 연내 계획하고 있는 TV 홈쇼핑 채널로의 성공적인 진출을 염두에 둔 것으로 풀이된다.  구하다는 B2B(기업 간 거래) 및 B2B2C(기업·소비]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/05/blt202302050001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
