@@ -4,19 +4,27 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 04:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 05:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성바이오에피스가 선택한 항암제 강자 보령…1년 만에 존재감 입증]]></title>
+            <link>https://www.bloter.net/newsView/blt202302080008</link>
+            <guid>https://www.bloter.net/newsView/blt202302080008</guid>
+            <pubDate>Wed, 08 Feb 2023 05:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-08 13:23:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080009.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해커는 디도스로 왜 LG유플러스를 공격했나]]></title>
             <link>https://www.bloter.net/newsView/blt202302080006</link>
             <guid>https://www.bloter.net/newsView/blt202302080006</guid>
             <pubDate>Wed, 08 Feb 2023 03:20:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-08 11:59:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조주완 LG전자 사장, 해외 B2B 서 수익성 회복 방안 찾는다]]></title>
+            <title><![CDATA[조주완 LG전자 사장, 해외 B2B서 수익성 회복 방안 찾는다]]></title>
             <link>https://www.bloter.net/newsView/blt202302080005</link>
             <guid>https://www.bloter.net/newsView/blt202302080005</guid>
             <pubDate>Wed, 08 Feb 2023 02:47:13 GMT</pubDate>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 08:34:50</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070002.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비대면 진료 합법화, 약 배송 난관 넘을 수 있을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060010</link>
-            <guid>https://www.bloter.net/newsView/blt202302060010</guid>
-            <pubDate>Mon, 06 Feb 2023 12:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-06 18:37:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060021.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
