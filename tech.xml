@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 05:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 06:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['연매출 1조원' 기대 부응한 KT스카이라이프…플랫폼·콘텐츠 '쌍끌이 홈런']]></title>
+            <link>https://www.bloter.net/newsView/blt202302080010</link>
+            <guid>https://www.bloter.net/newsView/blt202302080010</guid>
+            <pubDate>Wed, 08 Feb 2023 06:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-08 14:58:28</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080010.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[삼성바이오에피스가 선택한 항암제 강자 보령…1년 만에 존재감 입증]]></title>
             <link>https://www.bloter.net/newsView/blt202302080008</link>
             <guid>https://www.bloter.net/newsView/blt202302080008</guid>
             <pubDate>Wed, 08 Feb 2023 05:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-08 13:23:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080009.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080009.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해커는 디도스로 왜 LG유플러스를 공격했나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 09:25:28</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 대화형 AI '바드' 발표…챗GPT 경쟁 본격 시동]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070001</link>
-            <guid>https://www.bloter.net/newsView/blt202302070001</guid>
-            <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 08:34:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
