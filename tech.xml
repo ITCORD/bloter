@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 01:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 02:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조주완 LG전자 사장, 해외 B2B 서 수익성 회복 방안 찾는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302080005</link>
+            <guid>https://www.bloter.net/newsView/blt202302080005</guid>
+            <pubDate>Wed, 08 Feb 2023 02:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-08 11:14:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 뛰어넘은 틱톡…전 세계 아동·청소년 사용 시간 1위]]></title>
             <link>https://www.bloter.net/newsView/blt202302080003</link>
             <guid>https://www.bloter.net/newsView/blt202302080003</guid>
             <pubDate>Wed, 08 Feb 2023 01:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:57:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[MS, 대화형 검색엔진 공개…불붙는 빅테크 ‘AI 검색’ 경쟁]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 06 Feb 2023 12:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-06 18:13:43</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060017.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]넷플릭스가 전하는 진심, 이용자 경계없는 '배리어프리']]></title>
-            <link>https://www.bloter.net/newsView/blt202302050002</link>
-            <guid>https://www.bloter.net/newsView/blt202302050002</guid>
-            <pubDate>Mon, 06 Feb 2023 12:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-06 17:21:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/05/blt202302050003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
