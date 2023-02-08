@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 06:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 07:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미반도체, 반도체 불황에 성장세 ‘주춤’…신규 장비 ‘승부수’]]></title>
+            <link>https://www.bloter.net/newsView/blt202302080011</link>
+            <guid>https://www.bloter.net/newsView/blt202302080011</guid>
+            <pubDate>Wed, 08 Feb 2023 07:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-08 16:06:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['연매출 1조원' 기대 부응한 KT스카이라이프…플랫폼·콘텐츠 '쌍끌이 홈런']]></title>
             <link>https://www.bloter.net/newsView/blt202302080010</link>
             <guid>https://www.bloter.net/newsView/blt202302080010</guid>
             <pubDate>Wed, 08 Feb 2023 06:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-08 14:58:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080010.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080010.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[삼성바이오에피스가 선택한 항암제 강자 보령…1년 만에 존재감 입증]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 07 Feb 2023 02:39:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-07 11:09:26</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070005.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타 반독점 소송 기각된 美 FTC, 항소 안 한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070002</link>
-            <guid>https://www.bloter.net/newsView/blt202302070002</guid>
-            <pubDate>Tue, 07 Feb 2023 01:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-07 09:25:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
