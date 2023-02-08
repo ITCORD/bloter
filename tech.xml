@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 23:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 01:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 뛰어넘은 틱톡…전 세계 아동·청소년 사용 시간 1위]]></title>
+            <link>https://www.bloter.net/newsView/blt202302080003</link>
+            <guid>https://www.bloter.net/newsView/blt202302080003</guid>
+            <pubDate>Wed, 08 Feb 2023 01:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:57:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MS, 대화형 검색엔진 공개…불붙는 빅테크 ‘AI 검색’ 경쟁]]></title>
             <link>https://www.bloter.net/newsView/blt202302080002</link>
             <guid>https://www.bloter.net/newsView/blt202302080002</guid>
             <pubDate>Tue, 07 Feb 2023 23:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:12:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[드림어스컴퍼니 '예견된 영업손실'에도 당기순이익 흑자 달성 배경은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 06 Feb 2023 12:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-06 17:21:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/05/blt202302050003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 음성·헬스케어 호실적에 챗GPT 여파까지…'준비된' 셀바스AI, 23년 높아진 기대감]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060008</link>
-            <guid>https://www.bloter.net/newsView/blt202302060008</guid>
-            <pubDate>Mon, 06 Feb 2023 12:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-06 17:15:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060015.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 23:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 01:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대출 성공하면 어떤 말부터 나올까? "좋다·빠르다·감사"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070010</link>
+            <guid>https://www.bloter.net/newsView/blt202302070010</guid>
+            <pubDate>Wed, 08 Feb 2023 01:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-07 15:50:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070012.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자립 앞둔 보호대상 청소년, 부모님 대신 '두나무'가 돕는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070008</link>
+            <guid>https://www.bloter.net/newsView/blt202302070008</guid>
+            <pubDate>Wed, 08 Feb 2023 01:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-07 15:46:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK텔레콤의 재평가 가능성 I 길고 긴 하락 멈출까? I Analyst 직격 인터뷰]]></title>
             <link>https://www.bloter.net/newsView/blt202302060016</link>
@@ -38,22 +54,6 @@
             <pubDate>Tue, 07 Feb 2023 07:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-06 21:12:33</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060019.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['발포주 첫 주자' 하이트진로, '퓨린 컷'으로 라인업 실험 ing]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060014</link>
-            <guid>https://www.bloter.net/newsView/blt202302060014</guid>
-            <pubDate>Tue, 07 Feb 2023 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-06 19:30:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무지개다리 같이 건너는 우리카드…'펫닥'과 맞손]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060005</link>
-            <guid>https://www.bloter.net/newsView/blt202302060005</guid>
-            <pubDate>Tue, 07 Feb 2023 01:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-06 15:37:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060008.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
