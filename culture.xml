@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 07:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 08:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하이브'는 왜 힙합 레이블 'QC미디어'를 인수할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090016</link>
+            <guid>https://www.bloter.net/newsView/blt202302090016</guid>
+            <pubDate>Thu, 09 Feb 2023 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA['하이브(HYBE)'가 유명 힙합 레이블을 품에 안으며 음악사업 영역 확대에 나섰다. 2021년 '이타카홀딩스'를 인수하며 저스틴 비버, 아리아나 그란데, 제이 발빈 등 글로벌 아티스트 인프라를 확보했던 하이브는 약 2년 만에 또 한 번 규모감 있는 계약에 성공했다. 글로]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090200.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데드사이드클럽, 스팀 출시 초읽기…데브시스터즈 글로벌 공략 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202302090005</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Feb 2023 12:39:47 GMT</pubDate>
             <content:encoded><![CDATA[게임업계의 핫이슈를 보다 예리하게 짚어내겠습니다. 알기 어려운 업계의 비하인드 스토리부터 한 발 빠른 심층취재까지 한층 깊고 풍성한 이야기를 다룹니다. '게임인사이드'를 통해 &lt;블로터&gt;에서만 만나볼 수 있는 게임업계의 핫이슈를 전합니다.국내 게임사]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/06/blt202302060017.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]넷플릭스가 전하는 진심, 이용자 경계없는 '배리어프리']]></title>
-            <link>https://www.bloter.net/newsView/blt202302050002</link>
-            <guid>https://www.bloter.net/newsView/blt202302050002</guid>
-            <pubDate>Mon, 06 Feb 2023 12:39:47 GMT</pubDate>
-            <content:encoded><![CDATA["빨간색 알파벳 대문자 'N(엔)'이 다양한 색상의 스펙트럼으로 펼쳐진다."넷플릭스 시각장애인용 화면음성해설(Audio Description, AD)을 켜고 넷플릭스 오리지널 콘텐츠 '정이'가 시작되자 가장 먼저 들려온 음성이다. 화면 음성해설을 처음 접한 입장에서 영화 시작 4초만]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/05/blt202302050003.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
