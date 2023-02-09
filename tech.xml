@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 23:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 01:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 캐나다 등 4개국서 계정 공유하면 추가 요금 부과한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090002</link>
+            <guid>https://www.bloter.net/newsView/blt202302090002</guid>
+            <pubDate>Thu, 09 Feb 2023 01:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-09 09:26:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 대화형 AI 바드, 공개하자마자 오답…주가 급락]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090001</link>
+            <guid>https://www.bloter.net/newsView/blt202302090001</guid>
+            <pubDate>Thu, 09 Feb 2023 01:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-09 08:33:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SKT 분할 후 1년 성적표, 모난 데 없지만 특징도 희미…주가 '요지부동']]></title>
             <link>https://www.bloter.net/newsView/blt202302080019</link>
             <guid>https://www.bloter.net/newsView/blt202302080019</guid>
             <pubDate>Wed, 08 Feb 2023 10:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-08 18:38:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080025.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080025.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["당근마켓에 찬물"...샌드박스, 'MCN과 제작사 사이' 정체성 고심]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 07 Feb 2023 07:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-07 15:59:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자립 앞둔 보호대상 청소년, 부모님 대신 '두나무'가 돕는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070008</link>
-            <guid>https://www.bloter.net/newsView/blt202302070008</guid>
-            <pubDate>Tue, 07 Feb 2023 07:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-07 15:46:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스, 15.6조원 재고 처리 ‘고민’…관리비용 부담 어쩌나]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070007</link>
-            <guid>https://www.bloter.net/newsView/blt202302070007</guid>
-            <pubDate>Tue, 07 Feb 2023 07:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-07 15:34:04</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
