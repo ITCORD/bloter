@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 03:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 04:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리에이터가 스마트폰 말고 캐논 미러리스 'EOS R8·R50' 선택하면 무엇이 좋나]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090004</link>
+            <guid>https://www.bloter.net/newsView/blt202302090004</guid>
+            <pubDate>Thu, 09 Feb 2023 04:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-09 13:18:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK바이오사이언스의 송도 이전…탄력 받는 송도 오픈 이노베이션 생태계]]></title>
             <link>https://www.bloter.net/newsView/blt202302090003</link>
             <guid>https://www.bloter.net/newsView/blt202302090003</guid>
             <pubDate>Thu, 09 Feb 2023 02:49:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-09 11:49:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 캐나다 등 4개국서 계정 공유하면 추가 요금 부과한다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 07 Feb 2023 08:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-07 16:19:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SM엔터 대개편]①스며드는 카카오 지분, '큰 그림' 시작됐다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070009</link>
-            <guid>https://www.bloter.net/newsView/blt202302070009</guid>
-            <pubDate>Tue, 07 Feb 2023 07:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-07 16:11:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
