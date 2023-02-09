@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 08:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 09:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샌드박스네트워크, 라인 넥스트 손잡고 NFT사업 키운다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090019</link>
+            <guid>https://www.bloter.net/newsView/blt202302090019</guid>
+            <pubDate>Thu, 09 Feb 2023 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-09 18:16:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090205.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세일즈포스, '하이퍼포스' 국내 출시…퍼블릭 클라우드 기반 CRM 지원]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090017</link>
+            <guid>https://www.bloter.net/newsView/blt202302090017</guid>
+            <pubDate>Thu, 09 Feb 2023 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-09 18:09:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090203.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['하이브'는 왜 힙합 레이블 'QC미디어'를 인수할까]]></title>
             <link>https://www.bloter.net/newsView/blt202302090016</link>
             <guid>https://www.bloter.net/newsView/blt202302090016</guid>
             <pubDate>Thu, 09 Feb 2023 08:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-09 16:18:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090200.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090200.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘보릿고개’ SK하이닉스, 버티는 힘이 더 중요해진 이유 [넘버스]]]></title>
@@ -32,7 +48,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090195.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[국민연금 불만에 '또 경쟁하겠다'는 구현모…KT 차기 CEO 선임 어떻게 이뤄지나]]></title>
+            <title><![CDATA[국민연금 불만에 '투명성 강화하겠다'는 구현모…KT 차기 CEO 선임 어떻게 이뤄지나]]></title>
             <link>https://www.bloter.net/newsView/blt202302090015</link>
             <guid>https://www.bloter.net/newsView/blt202302090015</guid>
             <pubDate>Thu, 09 Feb 2023 07:15:00 GMT</pubDate>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 08 Feb 2023 08:23:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-08 17:08:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미반도체, 반도체 불황에 성장세 ‘주춤’…신규 장비 ‘승부수’]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080011</link>
-            <guid>https://www.bloter.net/newsView/blt202302080011</guid>
-            <pubDate>Wed, 08 Feb 2023 07:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-08 16:06:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['연매출 1조원' 기대 부응한 KT스카이라이프…플랫폼·콘텐츠 '쌍끌이 홈런']]></title>
-            <link>https://www.bloter.net/newsView/blt202302080010</link>
-            <guid>https://www.bloter.net/newsView/blt202302080010</guid>
-            <pubDate>Wed, 08 Feb 2023 06:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-08 14:58:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080010.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
