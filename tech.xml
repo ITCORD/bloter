@@ -4,16 +4,40 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘보릿고개’ SK하이닉스, 버티는 힘이 더 중요해진 이유 [넘버스]]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090014</link>
+            <guid>https://www.bloter.net/newsView/blt202302090014</guid>
+            <pubDate>Thu, 09 Feb 2023 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-02-09 16:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090198.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울반도체, 지난해 208억원 ‘적자전환’…재무건전성 확보 총력]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090012</link>
+            <guid>https://www.bloter.net/newsView/blt202302090012</guid>
+            <pubDate>Thu, 09 Feb 2023 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-09 15:54:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090195.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민연금 불만에 '또 경쟁하겠다'는 구현모…KT 차기 CEO 선임 어떻게 이뤄지나]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090015</link>
+            <guid>https://www.bloter.net/newsView/blt202302090015</guid>
+            <pubDate>Thu, 09 Feb 2023 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-09 15:54:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090197.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데드사이드클럽, 스팀 출시 초읽기…데브시스터즈 글로벌 공략 본격화]]></title>
             <link>https://www.bloter.net/newsView/blt202302090005</link>
             <guid>https://www.bloter.net/newsView/blt202302090005</guid>
             <pubDate>Thu, 09 Feb 2023 06:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-09 14:52:55</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마케터가 없는 커머스 기업이 있다? '흑자 새벽 배송 기업' 오아시스의 자신감]]></title>
@@ -126,30 +150,6 @@
             <pubDate>Wed, 08 Feb 2023 05:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-08 13:23:54</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해커는 디도스로 왜 LG유플러스를 공격했나]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080006</link>
-            <guid>https://www.bloter.net/newsView/blt202302080006</guid>
-            <pubDate>Wed, 08 Feb 2023 03:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-08 11:59:28</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조주완 LG전자 사장, 해외 B2B서 수익성 회복 방안 찾는다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080005</link>
-            <guid>https://www.bloter.net/newsView/blt202302080005</guid>
-            <pubDate>Wed, 08 Feb 2023 02:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-08 11:14:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 뛰어넘은 틱톡…전 세계 아동·청소년 사용 시간 1위]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080003</link>
-            <guid>https://www.bloter.net/newsView/blt202302080003</guid>
-            <pubDate>Wed, 08 Feb 2023 01:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:57:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
