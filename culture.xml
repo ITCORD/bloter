@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 07:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[클래스101 픽]선한부자 오가닉 "애드센스, 레드오션이어도 괜찮아"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100016</link>
+            <guid>https://www.bloter.net/newsView/blt202302100016</guid>
+            <pubDate>Fri, 10 Feb 2023 07:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 클래스 플랫폼 '클래스101'이 올해 구독 서비스를 기반으로 한 새로운 비즈니스 모델 '클래스101+'를 도입하며 재도약을 예고했습니다. 개별 클래스 판매로 성장한 클래스101의 구독 모델은 기업 뿐만 아니라 이용자, 나아가 강의 주체인 '크리에이터'들에게도]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100033.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM엔터 대개편]②"카카오 미안" 하이브, 이수만 지분 사고 최대주주로]]></title>
             <link>https://www.bloter.net/newsView/blt202302100004</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Feb 2023 07:14:53 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트(이하 SM엔터)가 마침내 지분 일부를 매각하며 새로운 DNA 수혈에 나섰다. 지난 2021년부터 제기된 SM엔터 인수전에서 끝내 미소를 지은 주인공은 '카카오'다. 카카오는 유상증자로 발행하는 SM엔터 신주와 전환사채를 포함해 총 2000억원 이상을 베팅하며]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈플러스]당근마켓 "승우아빠, 이용자 사과부터"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070011</link>
-            <guid>https://www.bloter.net/newsView/blt202302070011</guid>
-            <pubDate>Tue, 07 Feb 2023 07:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[지역생활 커뮤니티 당근마켓이 유튜브 크리에이터 '승우아빠' 소속사 샌드박스네트워크(이하 샌드박스) 측에 "당근마켓 이용자들에게 사과해달라"고 답변했다. 한편 브랜드 이미지가 훼손된 것에 대한 조치는 승우아빠의 공개 사과문으로 대신하겠다는 입장이다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070015.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

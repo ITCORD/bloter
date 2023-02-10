@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 07:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 캐나다 등 4개국서 계정 공유하면 추가 요금 부과한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090002</link>
+            <guid>https://www.bloter.net/newsView/blt202302090002</guid>
+            <pubDate>Fri, 10 Feb 2023 07:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-09 09:26:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구글 대화형 AI 바드, 공개하자마자 오답…주가 급락]]></title>
             <link>https://www.bloter.net/newsView/blt202302090001</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 09 Feb 2023 01:10:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:57:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 대화형 검색엔진 공개…불붙는 빅테크 ‘AI 검색’ 경쟁]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080002</link>
-            <guid>https://www.bloter.net/newsView/blt202302080002</guid>
-            <pubDate>Wed, 08 Feb 2023 10:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:12:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
