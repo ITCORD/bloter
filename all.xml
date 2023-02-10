@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 09:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 10:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -415,18 +415,26 @@ KCGI를 이끄는 강성부 대표가 오스템임플란트 공개매수에 응�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[SM엔터 대개편]③하이브, '이수만 지분 일부 인수' 이유 있었다…왜? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100025</link>
+            <guid>https://www.bloter.net/newsView/blt202302100025</guid>
+            <pubDate>Fri, 10 Feb 2023 10:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-10 18:41:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100048.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[공시분석]자사주 매입·소각으로 20년 전 약속 다시 지킨 KT (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302100022</link>
             <guid>https://www.bloter.net/newsView/blt202302100022</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:41 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-10 17:44:18</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT '알짜' 계열사 거듭난 클라우드·스튜디오지니…매출 5000억원 어떻게 합작했나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302100021</link>
             <guid>https://www.bloter.net/newsView/blt202302100021</guid>
-            <pubDate>Fri, 10 Feb 2023 09:15:41 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-10 17:24:10</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -549,14 +557,6 @@ KCGI를 이끄는 강성부 대표가 오스템임플란트 공개매수에 응�
             <pubDate>Thu, 09 Feb 2023 09:15:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-09 18:09:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090203.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['하이브'는 왜 힙합 레이블 'QC미디어'를 인수할까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090016</link>
-            <guid>https://www.bloter.net/newsView/blt202302090016</guid>
-            <pubDate>Thu, 09 Feb 2023 08:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-09 16:18:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090200.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -834,6 +834,14 @@ KCGI를 이끄는 강성부 대표가 오스템임플란트 공개매수에 응�
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[SM엔터 대개편]③하이브, '이수만 지분 일부 인수' 이유 있었다…왜? (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100025</link>
+            <guid>https://www.bloter.net/newsView/blt202302100025</guid>
+            <pubDate>Fri, 10 Feb 2023 10:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[하이브가 10일 이수만 SM엔터테인먼트(이하 SM엔터) 전 총괄 프로듀서(PD)의 지분을 인수해 SM엔터 최대주주에 오르는 것을 두고 업계에서는 다양한 해석이 나왔다. 일각에서는 '이수만 전 총괄 PD가 SM엔터 경영에 복귀하기 위한 것 아니냐'는 의견을 내놨고 이에 따라 ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100048.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[클래스101 픽]선한부자 오가닉 "애드센스, 레드오션이어도 괜찮아" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202302100016</link>
             <guid>https://www.bloter.net/newsView/blt202302100016</guid>
@@ -920,14 +928,6 @@ KCGI를 이끄는 강성부 대표가 오스템임플란트 공개매수에 응�
             <pubDate>Tue, 07 Feb 2023 10:17:58 GMT</pubDate>
             <content:encoded><![CDATA[현대백화점그룹의 계열사 한섬과 지누스가 다소 석연치 않은 성적표를 받아들었다. 한섬의 경우 연간 최대 실적을 기록했지만 두 계열사 모두 지난해 4분기 각각 둔화된 성장세를 보이거나 적자전환했다. 한섬과 지누스 측은 투자 비용에 대한 영향이라는 분석을]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070025.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SM엔터 대개편]①스며드는 카카오 지분, '큰 그림' 시작됐다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070009</link>
-            <guid>https://www.bloter.net/newsView/blt202302070009</guid>
-            <pubDate>Tue, 07 Feb 2023 07:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SM엔터테인먼트(이하 SM엔터)가 마침내 지분 일부를 매각하며 새로운 DNA 수혈에 나섰다. 지난 2021년부터 제기된 SM엔터 인수전에서 끝내 미소를 지은 주인공은 '카카오'다. 카카오는 유상증자로 발행하는 SM엔터 신주와 전환사채를 포함해 총 2000억원 이상을 베팅하며]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070013.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]넷플릭스가 전하는 진심, 이용자 경계없는 '배리어프리' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
