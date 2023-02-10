@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 04:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -409,12 +409,20 @@ SK하이닉스가 지난해 4분기 성적표를 10년 만에 적자로 받고�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[KCGI, 한진칼 이어 오스템임플란트도 결국 '중간에 꺾이는 마음'..50만원 외쳤지만 19만원에 털기로 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100009</link>
+            <guid>https://www.bloter.net/newsView/blt202302100009</guid>
+            <pubDate>Fri, 10 Feb 2023 05:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-10 13:41:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[22년 '적자' NHN, 23년 이익률 어떻게 끌어올리나 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302100010</link>
             <guid>https://www.bloter.net/newsView/blt202302100010</guid>
             <pubDate>Fri, 10 Feb 2023 03:23:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-10 12:09:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100020.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LS전선, 알루미늄 JV설립…전기차 부품 시장 ‘선점’ (블로터 ─ 테크)]]></title>
@@ -543,14 +551,6 @@ SK하이닉스가 지난해 4분기 성적표를 10년 만에 적자로 받고�
             <pubDate>Thu, 09 Feb 2023 05:14:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-09 14:09:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터가 스마트폰 말고 캐논 미러리스 'EOS R8·R50' 선택하면 무엇이 좋나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090004</link>
-            <guid>https://www.bloter.net/newsView/blt202302090004</guid>
-            <pubDate>Thu, 09 Feb 2023 04:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-09 13:18:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
