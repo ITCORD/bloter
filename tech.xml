@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 07:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 08:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오T 무료 택시호출 폐지? 카카오모빌리티 "예정 없다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100018</link>
+            <guid>https://www.bloter.net/newsView/blt202302100018</guid>
+            <pubDate>Fri, 10 Feb 2023 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-10 16:15:58</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100035.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[클래스101 픽]선한부자 오가닉 "애드센스, 레드오션이어도 괜찮아"]]></title>
             <link>https://www.bloter.net/newsView/blt202302100016</link>
             <guid>https://www.bloter.net/newsView/blt202302100016</guid>
             <pubDate>Fri, 10 Feb 2023 07:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-10 16:01:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100033.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메디톡스, 보툴리눔 균주 전쟁서 1승…대웅제약, 당혹감 속 항소 전망]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 09 Feb 2023 07:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-09 15:54:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090195.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금 불만에 '투명성 강화하겠다'는 구현모…KT 차기 CEO 선임 어떻게 이뤄지나]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090015</link>
-            <guid>https://www.bloter.net/newsView/blt202302090015</guid>
-            <pubDate>Thu, 09 Feb 2023 07:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-09 15:54:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090197.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
