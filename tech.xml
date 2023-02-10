@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 03:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[22년 '적자' NHN, 23년 이익률 어떻게 끌어올리나]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100010</link>
+            <guid>https://www.bloter.net/newsView/blt202302100010</guid>
+            <pubDate>Fri, 10 Feb 2023 03:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-10 12:09:50</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LS전선, 알루미늄 JV설립…전기차 부품 시장 ‘선점’]]></title>
             <link>https://www.bloter.net/newsView/blt202302100008</link>
             <guid>https://www.bloter.net/newsView/blt202302100008</guid>
             <pubDate>Fri, 10 Feb 2023 02:53:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-10 11:10:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성·LG, 튀르키예 지진 피해 복구 위해 자금 지원한다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 09 Feb 2023 04:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-09 13:18:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK바이오사이언스의 송도 이전…탄력 받는 송도 오픈 이노베이션 생태계]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090003</link>
-            <guid>https://www.bloter.net/newsView/blt202302090003</guid>
-            <pubDate>Thu, 09 Feb 2023 02:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-09 11:49:03</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
