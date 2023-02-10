@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 23:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 01:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 대화형 AI 바드, 공개하자마자 오답…주가 급락]]></title>
+            <link>https://www.bloter.net/newsView/blt202302090001</link>
+            <guid>https://www.bloter.net/newsView/blt202302090001</guid>
+            <pubDate>Fri, 10 Feb 2023 01:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-09 08:33:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리금융 호실적 냈지만…증권사 인수하면 배당확대 멀어진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302080020</link>
+            <guid>https://www.bloter.net/newsView/blt202302080020</guid>
+            <pubDate>Fri, 10 Feb 2023 01:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-08 18:48:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080031.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[플랫폼 수익 36% 떨어진 카카오뱅크…올해 '엔터업'서 활로 찾을까]]></title>
             <link>https://www.bloter.net/newsView/blt202302080015</link>
@@ -38,22 +54,6 @@
             <pubDate>Wed, 08 Feb 2023 10:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-08 08:12:07</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대백화점그룹 한섬·지누스, 지난해 4분기 '싸늘'했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070019</link>
-            <guid>https://www.bloter.net/newsView/blt202302070019</guid>
-            <pubDate>Wed, 08 Feb 2023 10:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-07 18:57:09</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['본체'서 첫 영업흑자 낸 카카오페이…"카카오 비즈보드 매출 넘었다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070016</link>
-            <guid>https://www.bloter.net/newsView/blt202302070016</guid>
-            <pubDate>Wed, 08 Feb 2023 02:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-07 18:21:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070022.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

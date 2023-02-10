@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 23:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 01:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SM엔터 대개편]②"카카오 미안" 하이브, 이수만 지분 사고 최대주주로]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100004</link>
+            <guid>https://www.bloter.net/newsView/blt202302100004</guid>
+            <pubDate>Fri, 10 Feb 2023 01:17:18 GMT</pubDate>
+            <content:encoded><![CDATA['카카오'의 승리로 끝날 줄 알았던 'SM엔터테인먼트(이하 SM엔터)' 인수전이 '하이브'의 참전으로 새 국면을 맞이했다. 하이브가 SM엔터 최대주주인 이수만 전 총괄 PD의 지분 전량을 인수하기로 결정하면서 일부 지분을 인수키로 한 카카오와의 경쟁에서 우위를 점한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100012.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세일즈포스, '하이퍼포스' 국내 출시…퍼블릭 클라우드 기반 CRM 지원]]></title>
             <link>https://www.bloter.net/newsView/blt202302090017</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Feb 2023 07:14:53 GMT</pubDate>
             <content:encoded><![CDATA[지역생활 커뮤니티 당근마켓이 유튜브 크리에이터 '승우아빠' 소속사 샌드박스네트워크(이하 샌드박스) 측에 "당근마켓 이용자들에게 사과해달라"고 답변했다. 한편 브랜드 이미지가 훼손된 것에 대한 조치는 승우아빠의 공개 사과문으로 대신하겠다는 입장이다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070015.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마케팅+]아시아 사업자라면 '애피어' 주목해야 하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070003</link>
-            <guid>https://www.bloter.net/newsView/blt202302070003</guid>
-            <pubDate>Tue, 07 Feb 2023 02:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[서비스형 소프트웨어(SaaS) 기업 애피어가 '아이리스'를 통해 고객 데이터 플랫폼(CDP) 트렌드에 합류한다. 기존 광고 플랫폼 데이터가 있다는 이점을 바탕으로, 마케터 친화적인 직관적인 인터페이스가 장점이다. 한국을 포함한 아시아태평양지역(APAC)에 대한 이해도]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070005.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
