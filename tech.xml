@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 10:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 11:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'아트앤가이드'에서 주식 투자하듯 미술품 투자하는 시대 올까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100020</link>
+            <guid>https://www.bloter.net/newsView/blt202302100020</guid>
+            <pubDate>Fri, 10 Feb 2023 11:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-02-10 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100037.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM엔터 대개편]③하이브, '이수만 지분 일부 인수' 이유 있었다…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202302100025</link>
             <guid>https://www.bloter.net/newsView/blt202302100025</guid>
             <pubDate>Fri, 10 Feb 2023 10:20:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-10 18:41:40</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100048.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100048.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]자사주 매입·소각으로 20년 전 약속 다시 지킨 KT]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 09 Feb 2023 09:18:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-09 18:16:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090205.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, '하이퍼포스' 국내 출시…퍼블릭 클라우드 기반 CRM 지원]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090017</link>
-            <guid>https://www.bloter.net/newsView/blt202302090017</guid>
-            <pubDate>Thu, 09 Feb 2023 09:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-09 18:09:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090203.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
