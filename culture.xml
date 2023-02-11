@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 23:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 01:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노현우 세포라 대표, 대외 활동 드라이브…다시 한 번 '한국화' 도전]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100024</link>
+            <guid>https://www.bloter.net/newsView/blt202302100024</guid>
+            <pubDate>Sat, 11 Feb 2023 01:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[세포라 코리아가 코로나19 악재를 뒤로하고 다시 한 번 K-뷰티 점령에 나선다. 특히 2019년 한국 상륙 이후 이렇다 할 성과를 내지 못한 상황에서, 지난해 취임 후 약 1년 간 은둔의 경영자로 있었던 노현우 세포라 코리아 대표도 본격적인 대외 활동을 시작할 준비를]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100046.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SM엔터 대개편]③하이브, '이수만 지분 일부 인수' 이유 있었다…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202302100025</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Feb 2023 10:20:38 GMT</pubDate>
             <content:encoded><![CDATA[현대차 계열 종합광고대행사 이노션이 지난해 4분기, 카타르 월드컵 수혜를 중심으로 예견된 호실적을 내놨다. 올해 국내외 경기 불안정에 따라 광고 업계 또한 침체될 것으로 전망되는 가운데, 이노션은 현대차와 디지털 마케팅 강화를 통해 성장폭을 유지한다는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070024.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대백화점그룹 한섬·지누스, 지난해 4분기 '싸늘'했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070019</link>
-            <guid>https://www.bloter.net/newsView/blt202302070019</guid>
-            <pubDate>Tue, 07 Feb 2023 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[현대백화점그룹의 계열사 한섬과 지누스가 다소 석연치 않은 성적표를 받아들었다. 한섬의 경우 연간 최대 실적을 기록했지만 두 계열사 모두 지난해 4분기 각각 둔화된 성장세를 보이거나 적자전환했다. 한섬과 지누스 측은 투자 비용에 대한 영향이라는 분석을]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070025.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
