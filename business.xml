@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 21:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 22:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美당국, 글로벌 3위 가상자산 거래소 크라켄 제재…"미등록 서비스 제공"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100002</link>
+            <guid>https://www.bloter.net/newsView/blt202302100002</guid>
+            <pubDate>Sat, 11 Feb 2023 22:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-10 09:16:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 에너지부, 레드우드 폐배터리 재활용 공장 확장에 2.5조 대출 지원]]></title>
             <link>https://www.bloter.net/newsView/blt202302100001</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 10 Feb 2023 01:16:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-08 18:48:03</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080031.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플랫폼 수익 36% 떨어진 카카오뱅크…올해 '엔터업'서 활로 찾을까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080015</link>
-            <guid>https://www.bloter.net/newsView/blt202302080015</guid>
-            <pubDate>Thu, 09 Feb 2023 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-08 17:13:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
