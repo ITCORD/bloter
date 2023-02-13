@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 01:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융 서비스 확장하려는 애플…"기술적 문제로 지연"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302130002</link>
+            <guid>https://www.bloter.net/newsView/blt202302130002</guid>
+            <pubDate>Mon, 13 Feb 2023 01:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-13 09:14:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포드, 中CATL과 美에 배터리 공장 짓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302130001</link>
+            <guid>https://www.bloter.net/newsView/blt202302130001</guid>
+            <pubDate>Mon, 13 Feb 2023 01:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-13 08:20:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130001.290x163.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[롯데정보통신, 매출 1조원 넘었지만 이익률은 놓쳤다…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202302100026</link>
             <guid>https://www.bloter.net/newsView/blt202302100026</guid>
             <pubDate>Sun, 12 Feb 2023 07:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-12 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100052.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100052.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS·구글 맞붙은 대화형 AI…”온라인 검색 완전히 바뀐다”]]></title>
@@ -53,7 +69,7 @@
             <guid>https://www.bloter.net/newsView/blt202302100024</guid>
             <pubDate>Sat, 11 Feb 2023 01:06:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-11 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100046.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘영원한 적은 없다’…삼성·LG, OLED서 확대된 ‘전략적 협업’]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Fri, 10 Feb 2023 06:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-10 15:15:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100027.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KCGI, 한진칼 이어 오스템임플란트도 '중간에 꺾이는 마음'..19만원에 매각]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100009</link>
-            <guid>https://www.bloter.net/newsView/blt202302100009</guid>
-            <pubDate>Fri, 10 Feb 2023 05:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-10 13:41:56</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22년 '적자' NHN, 23년 이익률 어떻게 끌어올리나]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100010</link>
-            <guid>https://www.bloter.net/newsView/blt202302100010</guid>
-            <pubDate>Fri, 10 Feb 2023 03:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-10 12:09:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100020.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
