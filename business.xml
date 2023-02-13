@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 07:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 08:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포드, 中CATL과 美에 배터리 공장 짓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302130001</link>
+            <guid>https://www.bloter.net/newsView/blt202302130001</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-13 08:20:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS·구글 맞붙은 대화형 AI…”온라인 검색 완전히 바뀐다”]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100029</link>
+            <guid>https://www.bloter.net/newsView/blt202302100029</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-12 14:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100056.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한숨 나오는 SK하이닉스, 삼성전자 감산 없으면 어렵다? I Analyst 직격 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100005</link>
+            <guid>https://www.bloter.net/newsView/blt202302100005</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-02-12 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토스뱅크 '모임통장' 초기흥행 성공한 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202302100028</link>
@@ -30,30 +54,6 @@
             <pubDate>Sun, 12 Feb 2023 05:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-11 10:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[하나금융, 'NIM' 개선…핀테크 결합으로 수익성 향상 기대]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100014</link>
-            <guid>https://www.bloter.net/newsView/blt202302100014</guid>
-            <pubDate>Sat, 11 Feb 2023 23:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-10 15:43:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100029.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美당국, 글로벌 3위 가상자산 거래소 크라켄 제재…"미등록 서비스 제공"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100002</link>
-            <guid>https://www.bloter.net/newsView/blt202302100002</guid>
-            <pubDate>Sat, 11 Feb 2023 22:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-10 09:16:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 에너지부, 레드우드 폐배터리 재활용 공장 확장에 2.5조 대출 지원]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100001</link>
-            <guid>https://www.bloter.net/newsView/blt202302100001</guid>
-            <pubDate>Sat, 11 Feb 2023 04:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-10 08:26:26</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
