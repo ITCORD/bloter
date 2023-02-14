@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 01:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상자산을 쌈처럼 싸먹어보세요…'빗썸 부리또 월렛' 오픈]]></title>
+            <link>https://www.bloter.net/newsView/blt202302130007</link>
+            <guid>https://www.bloter.net/newsView/blt202302130007</guid>
+            <pubDate>Tue, 14 Feb 2023 01:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-13 16:25:30</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리딩뱅크 잡을 한 끗은? KB금융 '부동산' 신한금융 '디지털']]></title>
+            <link>https://www.bloter.net/newsView/blt202302130005</link>
+            <guid>https://www.bloter.net/newsView/blt202302130005</guid>
+            <pubDate>Tue, 14 Feb 2023 01:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-13 16:21:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금융 서비스 확장하려는 애플…"기술적 문제로 지연"]]></title>
             <link>https://www.bloter.net/newsView/blt202302130002</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 13 Feb 2023 08:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-02-12 08:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100013.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토스뱅크 '모임통장' 초기흥행 성공한 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100028</link>
-            <guid>https://www.bloter.net/newsView/blt202302100028</guid>
-            <pubDate>Mon, 13 Feb 2023 01:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-12 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100055.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조조정 나선 밥 아이거…디즈니 제국 부활 노린다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100027</link>
-            <guid>https://www.bloter.net/newsView/blt202302100027</guid>
-            <pubDate>Mon, 13 Feb 2023 01:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-11 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100053.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

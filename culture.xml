@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 23:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 01:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]'1조클럽' 도전하는 컴투스, '투자 결실 원년' 만든다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302140002</link>
+            <guid>https://www.bloter.net/newsView/blt202302140002</guid>
+            <pubDate>Tue, 14 Feb 2023 01:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[컴투스는 지난 10일 진행한 컨퍼런스콜에서 "2023년은 게임 사업 확대와 미디어 콘텐츠 및 메타버스 사업 등에 대한 적극적인 투자의 결실을 맺는 한 해가 될 것"임을 밝혔다.이는 게임 사업의 글로벌 경쟁력 강화, 미디어 콘텐츠 계열사 인수, 메타버스 전문 조인트]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140002.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흑자 기업도 시장에선 '시큰둥'…오아시스, 상장 철회키로]]></title>
             <link>https://www.bloter.net/newsView/blt202302130012</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 Feb 2023 03:20:44 GMT</pubDate>
             <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 지난해 3분기 '어닝서프라이즈'를 냈던 나스미디어가 광고 업계 성수기인 4분기엔 오히려 '어닝쇼크'를 기록했습니다. 지난해 11월 넷플릭스 광고 대행을 맡으며 기대를 모은 가운데, 매출은 늘었으나 영]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070028.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 뛰어넘은 틱톡…전 세계 아동·청소년 사용 시간 1위]]></title>
-            <link>https://www.bloter.net/newsView/blt202302080003</link>
-            <guid>https://www.bloter.net/newsView/blt202302080003</guid>
-            <pubDate>Wed, 08 Feb 2023 01:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 숏폼 플랫폼 틱톡이 전 세계 어린이와 청소년들 사이에서 유튜브를 능가하는 인기를 누리는 것으로 조사됐다. 개인정보 유출 문제와 미성년자에게 유해한 영향을 끼친다는 비판에도 불구하고 틱톡의 인기가 갈수록 높아지고 있다.  7일(현지시간) IT전문매체]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
