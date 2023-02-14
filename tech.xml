@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 01:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 02:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안랩 '꾸준한 우상향' 실적 이끈 '안랩표 클라우드'는 무엇?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302140006</link>
+            <guid>https://www.bloter.net/newsView/blt202302140006</guid>
+            <pubDate>Tue, 14 Feb 2023 02:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-14 11:24:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140009.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[존 헤네시 알파벳 회장 "바드 제품화, 갈 길 멀다"]]></title>
             <link>https://www.bloter.net/newsView/blt202302140003</link>
             <guid>https://www.bloter.net/newsView/blt202302140003</guid>
             <pubDate>Tue, 14 Feb 2023 01:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-14 09:53:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'1조클럽' 도전하는 컴투스, '투자 결실 원년' 만든다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sat, 11 Feb 2023 04:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-11 13:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100053.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노현우 세포라 대표, 대외 활동 드라이브…다시 한 번 '한국화' 도전]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100024</link>
-            <guid>https://www.bloter.net/newsView/blt202302100024</guid>
-            <pubDate>Sat, 11 Feb 2023 01:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-11 10:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
