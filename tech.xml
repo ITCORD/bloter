@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 06:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]HPSP, ‘반도체 겨울’에도 영업익 88% 증가한 배경은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302140009</link>
+            <guid>https://www.bloter.net/newsView/blt202302140009</guid>
+            <pubDate>Tue, 14 Feb 2023 07:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-14 15:32:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140015.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["한국은 톱 마켓" BAT, '글로 하이퍼 X2'로 韓 전담 수요 넓힌다]]></title>
             <link>https://www.bloter.net/newsView/blt202302140005</link>
             <guid>https://www.bloter.net/newsView/blt202302140005</guid>
             <pubDate>Tue, 14 Feb 2023 03:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-14 12:01:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140008.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140008.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[안랩 '꾸준한 우상향' 실적 이끈 '안랩표 클라우드'는 무엇?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 12 Feb 2023 03:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">춘천=이건한</span>                        <span class="date">2023-02-12 12:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/11/blt202302110001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한숨 나오는 SK하이닉스, 삼성전자 감산 없으면 어렵다? I Analyst 직격 인터뷰 [넘버스]]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100005</link>
-            <guid>https://www.bloter.net/newsView/blt202302100005</guid>
-            <pubDate>Sat, 11 Feb 2023 23:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-02-12 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
