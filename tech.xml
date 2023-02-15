@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 05:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 06:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오모빌리티, 공정위 논리 '조목조목' 반박한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302150011</link>
+            <guid>https://www.bloter.net/newsView/blt202302150011</guid>
+            <pubDate>Wed, 15 Feb 2023 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-15 15:10:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이차전지' 성장에 '엑스레이 검사장비' 뜨는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302150010</link>
+            <guid>https://www.bloter.net/newsView/blt202302150010</guid>
+            <pubDate>Wed, 15 Feb 2023 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-15 14:18:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150007.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현금 130조원 보유한 삼성전자, 자회사서 20조원 차입한 배경은?]]></title>
             <link>https://www.bloter.net/newsView/blt202302150004</link>
             <guid>https://www.bloter.net/newsView/blt202302150004</guid>
             <pubDate>Wed, 15 Feb 2023 05:16:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-15 13:38:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150004.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150004.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[SKT·KT·LGU+, 尹 '고통 분담'에 화답…3월 한달간 데이터 30GB 무료 제공]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 13 Feb 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-13 17:49:40</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130020.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[흑자 기업도 시장에선 '시큰둥'…오아시스, 상장 철회키로]]></title>
-            <link>https://www.bloter.net/newsView/blt202302130012</link>
-            <guid>https://www.bloter.net/newsView/blt202302130012</guid>
-            <pubDate>Mon, 13 Feb 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-13 17:48:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 중요성 강조한 AMAT, ‘전자빔 신기술’로 반도체 첨단 공정 주도]]></title>
-            <link>https://www.bloter.net/newsView/blt202302130010</link>
-            <guid>https://www.bloter.net/newsView/blt202302130010</guid>
-            <pubDate>Mon, 13 Feb 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-13 17:47:31</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
