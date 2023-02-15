@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['서버 강자' 델이 '토종 CSP' KT·NHN·네이버를 공략하는 법]]></title>
+            <link>https://www.bloter.net/newsView/blt202302150015</link>
+            <guid>https://www.bloter.net/newsView/blt202302150015</guid>
+            <pubDate>Wed, 15 Feb 2023 09:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-15 18:07:07</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[렌터카 아닌 기술기업 쏘카…'AI+데이터 드라이브'로 첫 연간 흑자 쾌거]]></title>
             <link>https://www.bloter.net/newsView/blt202302150014</link>
             <guid>https://www.bloter.net/newsView/blt202302150014</guid>
             <pubDate>Wed, 15 Feb 2023 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-15 17:14:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한국 반도체 위기’…박정호 SK하이닉스 부회장의 진심 어린 조언 3가지]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 14 Feb 2023 01:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-14 09:53:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'1조클럽' 도전하는 컴투스, '투자 결실 원년' 만든다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302140002</link>
-            <guid>https://www.bloter.net/newsView/blt202302140002</guid>
-            <pubDate>Tue, 14 Feb 2023 01:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-14 08:49:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
