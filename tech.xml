@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 10:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 11:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]클래스101, '구 신사임당' 주언규PD 논란에 '강의 중단']]></title>
+            <link>https://www.bloter.net/newsView/blt202302150016</link>
+            <guid>https://www.bloter.net/newsView/blt202302150016</guid>
+            <pubDate>Wed, 15 Feb 2023 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-15 19:53:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150017.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서버 강자' 델이 '토종 CSP' KT·NHN·네이버를 공략하는 법]]></title>
             <link>https://www.bloter.net/newsView/blt202302150015</link>
             <guid>https://www.bloter.net/newsView/blt202302150015</guid>
             <pubDate>Wed, 15 Feb 2023 09:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-15 18:07:07</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[렌터카 아닌 기술기업 쏘카…'AI+데이터 드라이브'로 첫 연간 흑자 쾌거]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 14 Feb 2023 02:48:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-14 11:24:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140009.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[존 헤네시 알파벳 회장 "바드 제품화, 갈 길 멀다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302140003</link>
-            <guid>https://www.bloter.net/newsView/blt202302140003</guid>
-            <pubDate>Tue, 14 Feb 2023 01:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-14 09:53:58</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
