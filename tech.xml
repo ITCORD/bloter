@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 04:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 05:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[3월 한 달, 이통3사 고객은 데이터 30GB 무료로 받는다]]></title>
+            <title><![CDATA[현금 130조원 보유한 삼성전자, 자회사서 20조원 차입한 배경은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302150004</link>
+            <guid>https://www.bloter.net/newsView/blt202302150004</guid>
+            <pubDate>Wed, 15 Feb 2023 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-15 13:38:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150004.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT·KT·LGU+, 尹 '고통 분담'에 화답…3월 한달간 데이터 30GB 무료 제공]]></title>
             <link>https://www.bloter.net/newsView/blt202302150003</link>
             <guid>https://www.bloter.net/newsView/blt202302150003</guid>
             <pubDate>Wed, 15 Feb 2023 02:49:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-15 10:44:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150003.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150003.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[디마人]'제로 웨이스트 마케팅'을 꿈꾸다…팀민트 한만형 대표]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 13 Feb 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-13 17:47:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상자산을 쌈처럼 싸먹어보세요…'빗썸 부리또 월렛' 오픈]]></title>
-            <link>https://www.bloter.net/newsView/blt202302130007</link>
-            <guid>https://www.bloter.net/newsView/blt202302130007</guid>
-            <pubDate>Mon, 13 Feb 2023 08:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-13 16:25:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
