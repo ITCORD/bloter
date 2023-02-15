@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 23:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 01:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[디마人]'제로 웨이스트 마케팅'을 꿈꾸다…팀민트 한만형 대표]]></title>
+            <link>https://www.bloter.net/newsView/blt202302140020</link>
+            <guid>https://www.bloter.net/newsView/blt202302140020</guid>
+            <pubDate>Wed, 15 Feb 2023 01:14:54 GMT</pubDate>
+            <content:encoded><![CDATA['디마人'은 '디지털마케팅 종사자(人)'와 영어 'Demine(지뢰를 제거하다)'을 포함한 중의적 표현으로, 치열한 디지털마케팅 시장에서 고군분투하는 업계 종사자들의 목소리를 담습니다. 마케팅 단계별로 각각의 대행사를 선정해 진행되는 파편화된 커뮤니케이션은 전]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140035.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'1조클럽' 도전하는 컴투스, '투자 결실 원년' 만든다]]></title>
             <link>https://www.bloter.net/newsView/blt202302140002</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 08 Feb 2023 10:23:00 GMT</pubDate>
             <content:encoded><![CDATA[샌드박스네트워크(이하 샌드박스)는 새해를 맞아 뉴미디어 기반 IP 매니지먼트 및 콘텐츠 제작사 성격의 '디지털 엔터테인먼트 기업'으로서의 정체성을 강화하겠다고 밝혔다. 이어 지난 6일에는 자사 소속 크리에이터 '빠니보틀'이 연출, 각본, 총감독을 맡은 곽튜브]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/08/blt202302080022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]'넷플 효과'는? 나스미디어, 성수기에 받은 '어닝쇼크' 성적표]]></title>
-            <link>https://www.bloter.net/newsView/blt202302070020</link>
-            <guid>https://www.bloter.net/newsView/blt202302070020</guid>
-            <pubDate>Wed, 08 Feb 2023 03:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 지난해 3분기 '어닝서프라이즈'를 냈던 나스미디어가 광고 업계 성수기인 4분기엔 오히려 '어닝쇼크'를 기록했습니다. 지난해 11월 넷플릭스 광고 대행을 맡으며 기대를 모은 가운데, 매출은 늘었으나 영]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/07/blt202302070028.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
