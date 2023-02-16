@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 08:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 09:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘디도스 공격’받은 LG유플러스, 정보보호·IT 조직→CISO·CPO로 재편하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302160015</link>
+            <guid>https://www.bloter.net/newsView/blt202302160015</guid>
+            <pubDate>Thu, 16 Feb 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-16 18:08:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160021.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역대 최대 매출 LS전선아시아, 올해 기대감이 더 큰 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302160013</link>
+            <guid>https://www.bloter.net/newsView/blt202302160013</guid>
+            <pubDate>Thu, 16 Feb 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-16 18:03:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160020.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LS전선 등에 업은 KTS, 해저케이블 시너지로 올해 흑자전환 '자신감']]></title>
             <link>https://www.bloter.net/newsView/blt202302160012</link>
             <guid>https://www.bloter.net/newsView/blt202302160012</guid>
             <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-16 17:07:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160017.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT알파, 체질개선 성공에 불과 1년…'T커머스·기프티쇼' 집중 통했다]]></title>
@@ -21,7 +37,7 @@
             <guid>https://www.bloter.net/newsView/blt202302160011</guid>
             <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-16 17:00:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160014.290x163.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토종 팹리스 기업 텔레칩스, 차량용 반도체 타고 ‘훨훨’]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 15 Feb 2023 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-15 16:37:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140036.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오모빌리티, 공정위 논리 '조목조목' 반박한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302150011</link>
-            <guid>https://www.bloter.net/newsView/blt202302150011</guid>
-            <pubDate>Wed, 15 Feb 2023 06:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-15 15:10:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이차전지' 성장에 '엑스레이 검사장비' 뜨는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302150010</link>
-            <guid>https://www.bloter.net/newsView/blt202302150010</guid>
-            <pubDate>Wed, 15 Feb 2023 06:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-15 14:18:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
