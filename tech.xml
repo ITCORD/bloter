@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 19:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 20:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에코마케팅, '안다르' 흑자에 자신감…해외 진출 원년으로]]></title>
+            <link>https://www.bloter.net/newsView/blt202302180002</link>
+            <guid>https://www.bloter.net/newsView/blt202302180002</guid>
+            <pubDate>Fri, 17 Feb 2023 20:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-18 05:01:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]'옹고잉'이 물류 시장에서 찾은 노인 일자리?]]></title>
             <link>https://www.bloter.net/newsView/blt202302170010</link>
             <guid>https://www.bloter.net/newsView/blt202302170010</guid>
             <pubDate>Fri, 17 Feb 2023 11:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-02-17 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170016.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[N플레이]"TL이 엔씨를 바꾼다"…변화의 시작, 플랫폼부터?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 01:13:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-16 09:24:08</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160005.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['구 신사임당' 논란이 부른 '생성 AI' 이면…저작권 침해 만연]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160001</link>
-            <guid>https://www.bloter.net/newsView/blt202302160001</guid>
-            <pubDate>Thu, 16 Feb 2023 01:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-16 08:55:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160002.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
