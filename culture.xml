@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 07:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 08:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[N플레이]"TL이 엔씨를 바꾼다"…변화의 시작, 플랫폼부터?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170011</link>
+            <guid>https://www.bloter.net/newsView/blt202302170011</guid>
+            <pubDate>Fri, 17 Feb 2023 08:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.엔씨소프트하면 누구나 '리니지(LINEAGE)'를 떠올릴 것이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['구 신사임당' 논란이 부른 '생성 AI' 이면…저작권 침해 만연]]></title>
             <link>https://www.bloter.net/newsView/blt202302160001</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 08:20:51 GMT</pubDate>
             <content:encoded><![CDATA['하이브(HYBE)'가 유명 힙합 레이블을 품에 안으며 음악사업 영역 확대에 나섰다. 2021년 '이타카홀딩스'를 인수하며 저스틴 비버, 아리아나 그란데, 제이 발빈 등 글로벌 아티스트 인프라를 확보했던 하이브는 약 2년 만에 또 한 번 규모감 있는 계약에 성공했다. 글로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090200.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데드사이드클럽, 스팀 출시 초읽기…데브시스터즈 글로벌 공략 본격화]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090005</link>
-            <guid>https://www.bloter.net/newsView/blt202302090005</guid>
-            <pubDate>Thu, 09 Feb 2023 06:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[데브시스터즈가 개발 자회사 프레스에이가 개발 중인 신작 '데드사이드클럽'을 통해 글로벌 수익화에 나선다. 데드사이드클럽은 스팀 얼리액세스로 글로벌 유저와 만난 뒤 콘솔 플랫폼에 대응해 게임 수요층을 확대할 계획이다.  9일 데브시스터즈는 "오는 28일 데]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090006.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 07:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 08:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[N플레이]"TL이 엔씨를 바꾼다"…변화의 시작, 플랫폼부터?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170011</link>
+            <guid>https://www.bloter.net/newsView/blt202302170011</guid>
+            <pubDate>Fri, 17 Feb 2023 08:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-17 16:32:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재용 회장, 천안·온양캠퍼스 방문해 강조한 ‘패키지’ 뭐길래?]]></title>
             <link>https://www.bloter.net/newsView/blt202302170009</link>
             <guid>https://www.bloter.net/newsView/blt202302170009</guid>
             <pubDate>Fri, 17 Feb 2023 06:20:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-17 15:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 이익률 제자리걸음 속 '전기차 충전' 투자 지속하는 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 01:13:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-16 08:29:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160003.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]클래스101, '구 신사임당' 주언규PD 논란에 '강의 미공개']]></title>
-            <link>https://www.bloter.net/newsView/blt202302150016</link>
-            <guid>https://www.bloter.net/newsView/blt202302150016</guid>
-            <pubDate>Wed, 15 Feb 2023 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-15 19:53:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150017.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
