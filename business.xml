@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 23:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 01:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASML,"中 직원이 주요 칩 기술 관련 데이터 도용"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302160004</link>
+            <guid>https://www.bloter.net/newsView/blt202302160004</guid>
+            <pubDate>Fri, 17 Feb 2023 01:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-16 09:24:08</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160005.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[AI 바드 오답 논란 구글...CEO "철저한 테스트 진행할 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202302160003</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 16 Feb 2023 01:13:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-15 08:15:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150001.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[단타가 무서워진 주린이라면…'아트테크'가 대안]]></title>
-            <link>https://www.bloter.net/newsView/blt202302140013</link>
-            <guid>https://www.bloter.net/newsView/blt202302140013</guid>
-            <pubDate>Wed, 15 Feb 2023 06:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-14 15:19:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
