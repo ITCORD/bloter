@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 10:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,6 +320,14 @@ NHTSA는 FSD 시스템이 “우회전 또는 좌회전 전용 차선에서 교�
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뉴지랩파마 주식 거래정지... 대규모 ‘전환사채’에 발목? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302160006</link>
+            <guid>https://www.bloter.net/newsView/blt202302160006</guid>
+            <pubDate>Thu, 16 Feb 2023 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2023-02-16 14:08:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160009.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ASML,"中 직원이 주요 칩 기술 관련 데이터 도용" (블로터 ─ 비즈니스)]]></title>
             <link>https://www.bloter.net/newsView/blt202302160004</link>
             <guid>https://www.bloter.net/newsView/blt202302160004</guid>
@@ -358,14 +366,6 @@ NHTSA는 FSD 시스템이 “우회전 또는 좌회전 전용 차선에서 교�
             <pubDate>Wed, 15 Feb 2023 01:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-15 09:09:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[美서 ’차량 절도 챌린지’ 표적 된 현대·기아차, 무료 소프트웨어 업데이트 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302150001</link>
-            <guid>https://www.bloter.net/newsView/blt202302150001</guid>
-            <pubDate>Tue, 14 Feb 2023 23:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-15 08:15:41</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150001.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
