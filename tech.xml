@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 23:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 01:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파운드리 앞서가는 TSMC, 삼성전자가 추격할 기회 요인은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170014</link>
+            <guid>https://www.bloter.net/newsView/blt202302170014</guid>
+            <pubDate>Sat, 18 Feb 2023 01:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-18 10:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170027.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[美 경쟁사에 '슈퍼차저' 개방하는 테슬라, 고객 반응은?]]></title>
             <link>https://www.bloter.net/newsView/blt202302170018</link>
             <guid>https://www.bloter.net/newsView/blt202302170018</guid>
             <pubDate>Fri, 17 Feb 2023 22:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-18 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170031.620x344.0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170031.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[에코마케팅, '안다르' 흑자에 자신감…해외 진출 원년으로]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 02:47:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-16 10:50:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160006.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료계 혼돈에 빠뜨린 식약처장의 한마디 [보건의료 리포트]]]></title>
-            <link>https://www.bloter.net/newsView/blt202302150017</link>
-            <guid>https://www.bloter.net/newsView/blt202302150017</guid>
-            <pubDate>Thu, 16 Feb 2023 02:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-16 10:43:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150020.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
