@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 07:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 08:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]쿠팡플레이 '미끼'가 '사기'를 바라보는 시선]]></title>
+            <link>https://www.bloter.net/newsView/blt202302190001</link>
+            <guid>https://www.bloter.net/newsView/blt202302190001</guid>
+            <pubDate>Sun, 19 Feb 2023 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-19 17:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/19/blt202302190001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]LG유플러스, 개인정보 유출을 '환골탈태 계기'로 삼아야 하는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202302180004</link>
             <guid>https://www.bloter.net/newsView/blt202302180004</guid>
             <pubDate>Sun, 19 Feb 2023 07:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180008.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전쟁범죄 기록에 정보전까지…스마트폰이 바꿔놓은 우크라이나 전쟁]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-16 17:07:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160017.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT알파, 체질개선 성공에 불과 1년…'T커머스·기프티쇼' 집중 통했다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160011</link>
-            <guid>https://www.bloter.net/newsView/blt202302160011</guid>
-            <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-16 17:00:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

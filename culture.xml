@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 07:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 08:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]쿠팡플레이 '미끼'가 '사기'를 바라보는 시선]]></title>
+            <link>https://www.bloter.net/newsView/blt202302190001</link>
+            <guid>https://www.bloter.net/newsView/blt202302190001</guid>
+            <pubDate>Sun, 19 Feb 2023 08:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[·사기: 사람을 기망(속임)해 상대방의 착오있는 의사를 이용하고, 이를 통해 재물을 교부받거나 재산상의 이익을 취득하는 범죄.·조희팔: 5년여에 걸쳐 약 3만여명에 달하는 피해자를 양산한 '의료기 역렌탈 계약 사기'의 장본인이자, 중국에서 사망한 것으]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/19/blt202302190001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에코마케팅, '안다르' 흑자에 자신감…해외 진출 원년으로]]></title>
             <link>https://www.bloter.net/newsView/blt202302180002</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Feb 2023 01:17:18 GMT</pubDate>
             <content:encoded><![CDATA['카카오'의 승리로 끝날 줄 알았던 'SM엔터테인먼트(이하 SM엔터)' 인수전이 '하이브'의 참전으로 새 국면을 맞이했다. 하이브가 SM엔터 최대주주인 이수만 전 총괄 PD의 지분을 인수하기로 결정하면서 일부 지분을 취득하기로 한 카카오와의 경쟁에서 우위를 점한 모]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세일즈포스, '하이퍼포스' 국내 출시…퍼블릭 클라우드 기반 CRM 지원]]></title>
-            <link>https://www.bloter.net/newsView/blt202302090017</link>
-            <guid>https://www.bloter.net/newsView/blt202302090017</guid>
-            <pubDate>Thu, 09 Feb 2023 09:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스가 차세대 인프라 아키텍처 '하이퍼포스(Hyperforce)'의 공식 서비스를 시작했다고 9일 밝혔다. 하이퍼포스는 퍼블릭 클라우드 상에서 세일즈포스의 고객 관계 관리(CRM) 플랫폼의 구축 및 운영을 지원하는 플랫폼이다.   지난 세일즈포스 라이브 코리아 2022에]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/09/blt202302090203.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
