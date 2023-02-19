@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 23:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 01:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인정보 유출된 LG유플러스 가입자, '무료 유심 교체' 어떻게 받나]]></title>
+            <link>https://www.bloter.net/newsView/blt202302180005</link>
+            <guid>https://www.bloter.net/newsView/blt202302180005</guid>
+            <pubDate>Sun, 19 Feb 2023 01:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 09:09:47</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀트리온도 뛰어든 마이크로바이옴 신약 개발…정부가 준비할 부분은?]]></title>
             <link>https://www.bloter.net/newsView/blt202302170013</link>
             <guid>https://www.bloter.net/newsView/blt202302170013</guid>
             <pubDate>Sat, 18 Feb 2023 03:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-18 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170026.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파운드리 앞서가는 TSMC, 삼성전자가 추격할 기회 요인은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 05:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2023-02-16 14:08:35</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160009.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알뜰폰 가입자 10명 중 1명이 이용하는 '모요', Pre-A 투자 30억원 유치]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160007</link>
-            <guid>https://www.bloter.net/newsView/blt202302160007</guid>
-            <pubDate>Thu, 16 Feb 2023 05:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-16 14:05:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160010.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
