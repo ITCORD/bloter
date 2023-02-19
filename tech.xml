@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 06:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 07:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[전쟁범죄 기록에 정보전까지….스마트폰이 바꿔놓은 우크라이나 전쟁]]></title>
+            <title><![CDATA[[넘버스]LG유플러스, 개인정보 유출을 '환골탈태 계기'로 삼아야 하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302180004</link>
+            <guid>https://www.bloter.net/newsView/blt202302180004</guid>
+            <pubDate>Sun, 19 Feb 2023 07:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 16:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전쟁범죄 기록에 정보전까지…스마트폰이 바꿔놓은 우크라이나 전쟁]]></title>
             <link>https://www.bloter.net/newsView/blt202302170019</link>
             <guid>https://www.bloter.net/newsView/blt202302170019</guid>
             <pubDate>Sun, 19 Feb 2023 06:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-19 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]'돈맥경화' 속 네이버가 후속 투자한 엔닷라이트, '3D 웹 엔진'이 뭐길래?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-16 17:00:16</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토종 팹리스 기업 텔레칩스, 차량용 반도체 타고 ‘훨훨’]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160010</link>
-            <guid>https://www.bloter.net/newsView/blt202302160010</guid>
-            <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-16 16:55:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
