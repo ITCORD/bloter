@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 05:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 06:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁범죄 기록에 정보전까지….스마트폰이 바꿔놓은 우크라이나 전쟁]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170019</link>
+            <guid>https://www.bloter.net/newsView/blt202302170019</guid>
+            <pubDate>Sun, 19 Feb 2023 06:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-19 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스타트업 돋보기]'돈맥경화' 속 네이버가 후속 투자한 엔닷라이트, '3D 웹 엔진'이 뭐길래?]]></title>
             <link>https://www.bloter.net/newsView/blt202302140007</link>
             <guid>https://www.bloter.net/newsView/blt202302140007</guid>
             <pubDate>Sun, 19 Feb 2023 05:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-19 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보 유출된 LG유플러스 가입자, '무료 유심 교체' 어떻게 받나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 16 Feb 2023 08:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-16 16:55:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]'왜 나만 갖고 그래?'…대웅제약의 항변, 이유 있을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160008</link>
-            <guid>https://www.bloter.net/newsView/blt202302160008</guid>
-            <pubDate>Thu, 16 Feb 2023 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-16 15:23:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
