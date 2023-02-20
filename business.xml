@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 09:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 10:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM엔터 분쟁, 승기는 하이브가 잡는다 I 얼라인은 행동주의 흉내만 I Analyst 직격 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170007</link>
+            <guid>https://www.bloter.net/newsView/blt202302170007</guid>
+            <pubDate>Mon, 20 Feb 2023 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-02-19 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전쟁범죄 기록에 정보전까지…스마트폰이 바꿔놓은 우크라이나 전쟁]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170019</link>
+            <guid>https://www.bloter.net/newsView/blt202302170019</guid>
+            <pubDate>Mon, 20 Feb 2023 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-19 15:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이랜드 '자연별곡 프리미엄' 월 매출 160% 성장, 재도약 기반될까]]></title>
             <link>https://www.bloter.net/newsView/blt202302180003</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 19 Feb 2023 06:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-17 09:23:20</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, ‘완전자율주행’ 결함에 36만대 리콜]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170001</link>
-            <guid>https://www.bloter.net/newsView/blt202302170001</guid>
-            <pubDate>Sun, 19 Feb 2023 03:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-17 08:09:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GS25, 화이트데이도 '짱구 콜라보'…로열티 부담·내용물 부실 지적도]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160016</link>
-            <guid>https://www.bloter.net/newsView/blt202302160016</guid>
-            <pubDate>Fri, 17 Feb 2023 22:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-16 18:34:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
