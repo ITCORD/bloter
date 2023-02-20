@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 06:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 07:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 늘어난 재고 ‘부담’…지난해 평가손실만 4.4조원]]></title>
+            <link>https://www.bloter.net/newsView/blt202302200007</link>
+            <guid>https://www.bloter.net/newsView/blt202302200007</guid>
+            <pubDate>Mon, 20 Feb 2023 07:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-20 16:01:49</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200004.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202302200002</link>
             <guid>https://www.bloter.net/newsView/blt202302200002</guid>
             <pubDate>Mon, 20 Feb 2023 01:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-20 09:23:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200003.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200003.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["한국, 대러 제재 여파로 우주 기술 경쟁 참여"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 17 Feb 2023 02:51:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-17 11:44:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170006.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세계 최대 동영상 플랫폼' 일군 유튜브 CEO, 사임 발표]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170002</link>
-            <guid>https://www.bloter.net/newsView/blt202302170002</guid>
-            <pubDate>Fri, 17 Feb 2023 01:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-17 09:23:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170004.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
