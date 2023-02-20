@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 23:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 01:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이랜드 '자연별곡 프리미엄' 월 매출 160% 성장, 재도약 기반될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302180003</link>
+            <guid>https://www.bloter.net/newsView/blt202302180003</guid>
+            <pubDate>Mon, 20 Feb 2023 01:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-19 12:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 경쟁사에 '슈퍼차저' 개방하는 테슬라, 고객 반응은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302170018</link>
+            <guid>https://www.bloter.net/newsView/blt202302170018</guid>
+            <pubDate>Mon, 20 Feb 2023 01:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-18 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170031.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[스타벅스, 아메리카노 2500원 행사…'직원 보호' 대책은?]]></title>
             <link>https://www.bloter.net/newsView/blt202302170015</link>
@@ -38,22 +54,6 @@
             <pubDate>Fri, 17 Feb 2023 22:16:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-16 18:34:42</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160022.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴지랩파마 주식 거래정지... 대규모 ‘전환사채’에 발목?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160006</link>
-            <guid>https://www.bloter.net/newsView/blt202302160006</guid>
-            <pubDate>Fri, 17 Feb 2023 10:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2023-02-16 14:08:35</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160009.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASML,"中 직원이 주요 칩 기술 관련 데이터 도용"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160004</link>
-            <guid>https://www.bloter.net/newsView/blt202302160004</guid>
-            <pubDate>Fri, 17 Feb 2023 01:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-16 09:24:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
