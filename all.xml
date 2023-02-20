@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 08:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 09:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,12 +414,20 @@ A. “하이브가 결국 승기를 잡을 것으로 예상하고 있습니다. 
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['KT 출신도 ICT 전문가도 아닌데' KT CEO에 도전장…회사 미래 이끌수 있나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302200009</link>
+            <guid>https://www.bloter.net/newsView/blt202302200009</guid>
+            <pubDate>Mon, 20 Feb 2023 09:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-20 17:54:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200007.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성전자, 늘어난 재고 ‘부담’…지난해 평가손실만 4.4조원 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302200007</link>
             <guid>https://www.bloter.net/newsView/blt202302200007</guid>
             <pubDate>Mon, 20 Feb 2023 07:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-20 16:01:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200004.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입 (블로터 ─ 테크)]]></title>
@@ -548,14 +556,6 @@ A. “하이브가 결국 승기를 잡을 것으로 예상하고 있습니다. 
             <pubDate>Fri, 17 Feb 2023 06:19:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-17 15:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계아이앤씨, 이익률 제자리걸음 속 '전기차 충전' 투자 지속하는 이유 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170004</link>
-            <guid>https://www.bloter.net/newsView/blt202302170004</guid>
-            <pubDate>Fri, 17 Feb 2023 02:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-17 11:44:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
