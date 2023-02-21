@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 05:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[韓 금융업 부가가치, 英 따라 역주행…"제조업만으로 성장할 수 없어"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302200012</link>
+            <guid>https://www.bloter.net/newsView/blt202302200012</guid>
+            <pubDate>Tue, 21 Feb 2023 05:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-20 19:50:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200010.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHO PQ 받은 녹십자 수두백신 ‘배리셀라’…왕좌 탈환 언제쯤?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302200011</link>
+            <guid>https://www.bloter.net/newsView/blt202302200011</guid>
+            <pubDate>Tue, 21 Feb 2023 05:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-20 19:45:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200011.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[브랜드엑스, 2022년 매출 2127억원…'파죽지세' 젝시믹스 견인]]></title>
             <link>https://www.bloter.net/newsView/blt202302200010</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 20 Feb 2023 11:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-20 08:47:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SM엔터 분쟁, 승기는 하이브가 잡는다 I 얼라인은 행동주의 흉내만 I Analyst 직격 인터뷰]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170007</link>
-            <guid>https://www.bloter.net/newsView/blt202302170007</guid>
-            <pubDate>Mon, 20 Feb 2023 10:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-02-19 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170007.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁범죄 기록에 정보전까지…스마트폰이 바꿔놓은 우크라이나 전쟁]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170019</link>
-            <guid>https://www.bloter.net/newsView/blt202302170019</guid>
-            <pubDate>Mon, 20 Feb 2023 10:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-19 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

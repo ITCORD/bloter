@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 04:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 05:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코인원 투자자들도 좋아하는 '오전 9시'…경주마는 안 쫓는다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210006</link>
+            <guid>https://www.bloter.net/newsView/blt202302210006</guid>
+            <pubDate>Tue, 21 Feb 2023 05:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-21 13:46:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210009.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성·LG, 지난해 글로벌 TV 시장 점유율 각각 1·2위 차지]]></title>
             <link>https://www.bloter.net/newsView/blt202302210004</link>
             <guid>https://www.bloter.net/newsView/blt202302210004</guid>
             <pubDate>Tue, 21 Feb 2023 01:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-21 10:13:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['SM엔터·초거대AI' 투자 앞둔 카카오…실탄 얼마나 장전됐나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 17 Feb 2023 22:16:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-18 07:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170031.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코마케팅, '안다르' 흑자에 자신감…해외 진출 원년으로]]></title>
-            <link>https://www.bloter.net/newsView/blt202302180002</link>
-            <guid>https://www.bloter.net/newsView/blt202302180002</guid>
-            <pubDate>Fri, 17 Feb 2023 20:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-18 05:01:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
