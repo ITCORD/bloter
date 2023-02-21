@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 23:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 01:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드엑스, 2022년 매출 2127억원…'파죽지세' 젝시믹스 견인]]></title>
+            <link>https://www.bloter.net/newsView/blt202302200010</link>
+            <guid>https://www.bloter.net/newsView/blt202302200010</guid>
+            <pubDate>Tue, 21 Feb 2023 01:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-20 18:25:19</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 대표 간편결제 '네이버페이-삼성페이' 맞손…애플페이 상륙 녹록찮다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302200008</link>
+            <guid>https://www.bloter.net/newsView/blt202302200008</guid>
+            <pubDate>Tue, 21 Feb 2023 01:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-20 17:24:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202302200002</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 20 Feb 2023 10:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-19 15:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이랜드 '자연별곡 프리미엄' 월 매출 160% 성장, 재도약 기반될까]]></title>
-            <link>https://www.bloter.net/newsView/blt202302180003</link>
-            <guid>https://www.bloter.net/newsView/blt202302180003</guid>
-            <pubDate>Mon, 20 Feb 2023 01:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-19 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 경쟁사에 '슈퍼차저' 개방하는 테슬라, 고객 반응은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170018</link>
-            <guid>https://www.bloter.net/newsView/blt202302170018</guid>
-            <pubDate>Mon, 20 Feb 2023 01:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-18 07:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170031.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

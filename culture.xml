@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 23:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 01:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 새로운 크리에이터 수익화 프로그램 발표]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210001</link>
+            <guid>https://www.bloter.net/newsView/blt202302210001</guid>
+            <pubDate>Tue, 21 Feb 2023 01:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[숏폼 소셜미디어(SNS) 틱톡이 새로운 크리에이터 수익 배분 프로그램을 발표했다. 20일(현지시간) 틱톡은 미국에서 ‘크리에이티비티 프로그램’(Creativity Program) 베타 버전을 시행한다고 발표했다. 틱톡은 “이 프로그램은 크리에이터들이 수익화할 수 있는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입]]></title>
             <link>https://www.bloter.net/newsView/blt202302200002</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 11 Feb 2023 01:07:23 GMT</pubDate>
             <content:encoded><![CDATA[세포라 코리아가 코로나19 악재를 뒤로하고 다시 한 번 K-뷰티 점령에 나선다. 특히 2019년 한국 상륙 이후 이렇다 할 성과를 내지 못한 상황에서, 지난해 취임 후 약 1년 간 은둔의 경영자로 있었던 노현우 세포라 코리아 대표도 본격적인 대외 활동을 시작할 준비를]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130003.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[SM엔터 대개편]③하이브, '이수만 지분 일부 인수' 이유 있었다…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100025</link>
-            <guid>https://www.bloter.net/newsView/blt202302100025</guid>
-            <pubDate>Fri, 10 Feb 2023 10:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[하이브가 10일 이수만 SM엔터테인먼트(이하 SM엔터) 전 총괄 프로듀서(PD)의 지분을 인수해 SM엔터 최대주주에 오르는 것을 두고 업계에서는 다양한 해석이 나왔다. 일각에서는 '이수만 전 총괄 PD가 SM엔터 경영에 복귀하기 위한 것 아니냐'는 의견을 내놨고 이에 따라 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/10/blt202302100048.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
