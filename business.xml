@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 07:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 08:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아마존, 주가 폭락으로 연봉 최대 50% 삭감 효과]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210003</link>
+            <guid>https://www.bloter.net/newsView/blt202302210003</guid>
+            <pubDate>Tue, 21 Feb 2023 08:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-21 09:27:26</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 새로운 크리에이터 수익화 프로그램 발표]]></title>
             <link>https://www.bloter.net/newsView/blt202302210001</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 21 Feb 2023 01:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-20 17:24:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200002</link>
-            <guid>https://www.bloter.net/newsView/blt202302200002</guid>
-            <pubDate>Mon, 20 Feb 2023 11:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-20 09:23:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
