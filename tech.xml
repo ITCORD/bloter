@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이익률 올리려는 네이버의 고민…'적자' 콘텐츠·클라우드]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210012</link>
+            <guid>https://www.bloter.net/newsView/blt202302210012</guid>
+            <pubDate>Tue, 21 Feb 2023 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-21 17:26:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210015.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국의 ’OLED 추격’ 떨쳐낼 삼성·LG의 카드는?(feat.Ex-OLED)]]></title>
             <link>https://www.bloter.net/newsView/blt202302210010</link>
             <guid>https://www.bloter.net/newsView/blt202302210010</guid>
             <pubDate>Tue, 21 Feb 2023 07:15:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-21 16:05:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210013.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210013.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[녹십자 국소 지혈제 '그린플라스트큐', 내시경 출혈 고위험군 환자에 '효과적']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 19 Feb 2023 01:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 09:09:47</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀트리온도 뛰어든 마이크로바이옴 신약 개발…정부가 준비할 부분은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170013</link>
-            <guid>https://www.bloter.net/newsView/blt202302170013</guid>
-            <pubDate>Sat, 18 Feb 2023 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-18 12:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170026.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
