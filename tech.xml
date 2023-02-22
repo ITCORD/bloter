@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 10:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG이노텍, CTO 산하 ‘미래기술연구소’ 신설…기판사업은 조직 통합]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220012</link>
+            <guid>https://www.bloter.net/newsView/blt202302220012</guid>
+            <pubDate>Wed, 22 Feb 2023 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-22 18:34:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220020.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['추격자' 나홍진 감독은 '갤S23 울트라'로 어떻게 '어둠 속 10분' 영화 완성했나]]></title>
             <link>https://www.bloter.net/newsView/blt202302220011</link>
             <guid>https://www.bloter.net/newsView/blt202302220011</guid>
             <pubDate>Wed, 22 Feb 2023 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-22 18:14:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220018.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰]데드사이드클럽 "지금까지 이런 슈팅게임은 없었다"]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 20 Feb 2023 09:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-20 17:54:38</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 늘어난 재고 ‘부담’…지난해 평가손실만 4.4조원]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200007</link>
-            <guid>https://www.bloter.net/newsView/blt202302200007</guid>
-            <pubDate>Mon, 20 Feb 2023 07:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-20 16:01:49</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200004.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
