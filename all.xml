@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 08:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,12 +378,28 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['추격자' 나홍진 감독은 '갤S23 울트라'로 어떻게 '어둠 속 10분' 영화 완성했나 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220011</link>
+            <guid>https://www.bloter.net/newsView/blt202302220011</guid>
+            <pubDate>Wed, 22 Feb 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-22 18:14:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220018.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰]데드사이드클럽 "지금까지 이런 슈팅게임은 없었다" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220010</link>
+            <guid>https://www.bloter.net/newsView/blt202302220010</guid>
+            <pubDate>Wed, 22 Feb 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-22 17:31:41</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220011.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG이노텍, ‘스마트팩토리·경영 전문가’ 사외이사로 영입 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302220008</link>
             <guid>https://www.bloter.net/newsView/blt202302220008</guid>
             <pubDate>Wed, 22 Feb 2023 08:24:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-22 16:37:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신성이엔지, 임원 승진 9명 중 6명 ‘클린룸’ 사업서 나온 배경은? (블로터 ─ 테크)]]></title>
@@ -504,22 +520,6 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <pubDate>Mon, 20 Feb 2023 07:14:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-20 16:01:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200004.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200002</link>
-            <guid>https://www.bloter.net/newsView/blt202302200002</guid>
-            <pubDate>Mon, 20 Feb 2023 01:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-20 09:23:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["한국, 대러 제재 여파로 우주 기술 경쟁 참여" (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200001</link>
-            <guid>https://www.bloter.net/newsView/blt202302200001</guid>
-            <pubDate>Mon, 20 Feb 2023 01:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-20 08:47:29</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200002.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -797,6 +797,14 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰]데드사이드클럽 "지금까지 이런 슈팅게임은 없었다" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220010</link>
+            <guid>https://www.bloter.net/newsView/blt202302220010</guid>
+            <pubDate>Wed, 22 Feb 2023 09:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[데브시스터즈의 개발 자회사 프레스에이가 개발한 '데드사이드클럽(DEAE CIDE CLUB)'은 국내 게임업계에서 보기 힘든 융합 장르의 게임성을 전면에 내세웠다. 실제로 데드사이드클럽은 수 많은 좀비떼를 막아야하는 디펜스 모드부터 유저끼리 힘을 합쳐 상대 팀을 제압]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지' (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202302210016</link>
             <guid>https://www.bloter.net/newsView/blt202302210016</guid>
@@ -883,14 +891,6 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <pubDate>Wed, 15 Feb 2023 01:13:35 GMT</pubDate>
             <content:encoded><![CDATA['디마人'은 '디지털마케팅 종사자(人)'와 영어 'Demine(지뢰를 제거하다)'을 포함한 중의적 표현으로, 치열한 디지털마케팅 시장에서 고군분투하는 업계 종사자들의 목소리를 담습니다. 마케팅 단계별로 각각의 대행사를 선정해 진행되는 파편화된 커뮤니케이션은 전]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160008.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'1조클럽' 도전하는 컴투스, '투자 결실 원년' 만든다 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302140002</link>
-            <guid>https://www.bloter.net/newsView/blt202302140002</guid>
-            <pubDate>Tue, 14 Feb 2023 01:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[컴투스는 지난 10일 진행한 컨퍼런스콜에서 "2023년은 게임 사업 확대와 미디어 콘텐츠 및 메타버스 사업 등에 대한 적극적인 투자의 결실을 맺는 한 해가 될 것"임을 밝혔다.이는 게임 사업의 글로벌 경쟁력 강화, 미디어 콘텐츠 계열사 인수, 메타버스 전문 조인트]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
