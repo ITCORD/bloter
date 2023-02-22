@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 01:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[경기 침체에도 신규 프랜차이즈 기업 늘었다…'대퇴사시대' 영향]]></title>
-            <link>https://www.bloter.net/newsView/blt202302210011</link>
-            <guid>https://www.bloter.net/newsView/blt202302210011</guid>
-            <pubDate>Tue, 21 Feb 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-21 16:57:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210014.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아마존, AI 강화 위해 AI 스타트업과 협력 확대]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220002</link>
+            <guid>https://www.bloter.net/newsView/blt202302220002</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-22 09:26:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220002.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과학도시 넘어 '창업도시' 자리잡는 대전…투자자들이 점찍었다]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200004</link>
-            <guid>https://www.bloter.net/newsView/blt202212200004</guid>
-            <pubDate>Tue, 21 Feb 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[AI 바드 오답 논란 구글...CEO "철저한 테스트 진행할 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302160003</link>
+            <guid>https://www.bloter.net/newsView/blt202302160003</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SME 주목하는 네이버, 창업 플랫폼 '마이프차' 후속 투자]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020008</link>
-            <guid>https://www.bloter.net/newsView/blt202206020008</guid>
-            <pubDate>Tue, 21 Feb 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오, 수익성은 '톡비즈' 챗GPT 대응은 'KoGPT'로...밑바닥부터 다진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100012</link>
+            <guid>https://www.bloter.net/newsView/blt202302100012</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글, 대화형 AI '바드' 발표…챗GPT 경쟁 본격 시동]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070001</link>
+            <guid>https://www.bloter.net/newsView/blt202302070001</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 음성·헬스케어 호실적에 챗GPT 여파까지…'준비된' 셀바스AI, 23년 높아진 기대감]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060008</link>
+            <guid>https://www.bloter.net/newsView/blt202302060008</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>

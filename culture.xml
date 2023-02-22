@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 01:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지']]></title>
+            <link>https://www.bloter.net/newsView/blt202302210016</link>
+            <guid>https://www.bloter.net/newsView/blt202302210016</guid>
+            <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 시리즈가 2019년부터 매년 진행해온 '인생작 캠페인'을 재개한다. 2018년 리브랜딩 이후 첫 번째 캠페인으로 유명 배우들을 웹소설 콘텐츠와 접목한 '인생작을 만나다'를 선보인 네이버 시리즈는 올해도 화제의 인물을 통해 새로운 인생작을 선보일 계획이다.21]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 블리자드 인수 총력전…경쟁사 엔비디아와 협력한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220001</link>
+            <guid>https://www.bloter.net/newsView/blt202302220001</guid>
+            <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 게임업체 액티비전 블리자드(이하 블리자드) 인수를 위해 경쟁사인 엔비디아와 파트너십을 체결했다.   21일(현지시간) 두 회사는 공동 성명을 통해 MS 엑스박스(Xbox)의 인기 PC 게임을 엔비디아의 지포스나우 (GeForce NOW) 클라우드 게이밍 서비스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 새로운 크리에이터 수익화 프로그램 발표]]></title>
             <link>https://www.bloter.net/newsView/blt202302210001</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 14 Feb 2023 01:14:59 GMT</pubDate>
             <content:encoded><![CDATA[컴투스는 지난 10일 진행한 컨퍼런스콜에서 "2023년은 게임 사업 확대와 미디어 콘텐츠 및 메타버스 사업 등에 대한 적극적인 투자의 결실을 맺는 한 해가 될 것"임을 밝혔다.이는 게임 사업의 글로벌 경쟁력 강화, 미디어 콘텐츠 계열사 인수, 메타버스 전문 조인트]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140002.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흑자 기업도 시장에선 '시큰둥'…오아시스, 상장 철회키로]]></title>
-            <link>https://www.bloter.net/newsView/blt202302130012</link>
-            <guid>https://www.bloter.net/newsView/blt202302130012</guid>
-            <pubDate>Mon, 13 Feb 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[오아시스가 새벽 배송 기업 유일의 흑자기업임을 내세웠지만, 혹한기 시장의 냉정한 평가를 받았다.  13일 이커머스 1호 IPO(상장) 기업을 자처했던 오아시스가 금융감독원에 상장 철회 신고서를 제출하고 코스닥(KOSDAQ) 상장을 철회한다고 공시했다.  오아시스는 이커]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노현우 세포라 대표, 대외 활동 드라이브…다시 한 번 '한국화' 도전]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100024</link>
-            <guid>https://www.bloter.net/newsView/blt202302100024</guid>
-            <pubDate>Sat, 11 Feb 2023 01:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[세포라 코리아가 코로나19 악재를 뒤로하고 다시 한 번 K-뷰티 점령에 나선다. 특히 2019년 한국 상륙 이후 이렇다 할 성과를 내지 못한 상황에서, 지난해 취임 후 약 1년 간 은둔의 경영자로 있었던 노현우 세포라 코리아 대표도 본격적인 대외 활동을 시작할 준비를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

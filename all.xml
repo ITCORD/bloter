@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 23:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 01:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,26 +258,56 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210013.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경기 침체에도 신규 프랜차이즈 기업 늘었다…'대퇴사시대' 영향 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302210011</link>
-            <guid>https://www.bloter.net/newsView/blt202302210011</guid>
-            <pubDate>Tue, 21 Feb 2023 08:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-21 16:57:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210014.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아마존, AI 강화 위해 AI 스타트업과 협력 확대 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220002</link>
+            <guid>https://www.bloter.net/newsView/blt202302220002</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-22 09:26:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220002.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과학도시 넘어 '창업도시' 자리잡는 대전…투자자들이 점찍었다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212200004</link>
-            <guid>https://www.bloter.net/newsView/blt202212200004</guid>
-            <pubDate>Tue, 21 Feb 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[AI 바드 오답 논란 구글...CEO "철저한 테스트 진행할 것" (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302160003</link>
+            <guid>https://www.bloter.net/newsView/blt202302160003</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SME 주목하는 네이버, 창업 플랫폼 '마이프차' 후속 투자 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202206020008</link>
-            <guid>https://www.bloter.net/newsView/blt202206020008</guid>
-            <pubDate>Tue, 21 Feb 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최창원</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[카카오, 수익성은 '톡비즈' 챗GPT 대응은 'KoGPT'로...밑바닥부터 다진다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302100012</link>
+            <guid>https://www.bloter.net/newsView/blt202302100012</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[구글, 대화형 AI '바드' 발표…챗GPT 경쟁 본격 시동 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302070001</link>
+            <guid>https://www.bloter.net/newsView/blt202302070001</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 음성·헬스케어 호실적에 챗GPT 여파까지…'준비된' 셀바스AI, 23년 높아진 기대감 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302060008</link>
+            <guid>https://www.bloter.net/newsView/blt202302060008</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[케이뱅크에 '24시간 열일러' 있다는데…근로기준법 적용될까? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210005</link>
+            <guid>https://www.bloter.net/newsView/blt202302210005</guid>
+            <pubDate>Tue, 21 Feb 2023 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-21 13:46:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인원 투자자들도 좋아하는 '오전 9시'…경주마는 안 쫓는다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210006</link>
+            <guid>https://www.bloter.net/newsView/blt202302210006</guid>
+            <pubDate>Tue, 21 Feb 2023 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-21 13:46:38</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210009.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마존, 주가 폭락으로 연봉 최대 50% 삭감 효과 (블로터 ─ 비즈니스)]]></title>
@@ -310,22 +340,6 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <pubDate>Mon, 20 Feb 2023 11:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-20 19:45:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200011.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드엑스, 2022년 매출 2127억원…'파죽지세' 젝시믹스 견인 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200010</link>
-            <guid>https://www.bloter.net/newsView/blt202302200010</guid>
-            <pubDate>Mon, 20 Feb 2023 10:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-20 18:25:19</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 대표 간편결제 '네이버페이-삼성페이' 맞손…애플페이 상륙 녹록찮다 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200008</link>
-            <guid>https://www.bloter.net/newsView/blt202302200008</guid>
-            <pubDate>Mon, 20 Feb 2023 10:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-20 17:24:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200006.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -364,12 +378,36 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[아마존, AI 강화 위해 AI 스타트업과 협력 확대 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220002</link>
+            <guid>https://www.bloter.net/newsView/blt202302220002</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-22 09:26:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지' (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210016</link>
+            <guid>https://www.bloter.net/newsView/blt202302210016</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-22 08:43:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210019.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 블리자드 인수 총력전…경쟁사 엔비디아와 협력한다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220001</link>
+            <guid>https://www.bloter.net/newsView/blt202302220001</guid>
+            <pubDate>Wed, 22 Feb 2023 01:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-22 08:37:27</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이익률 올리려는 네이버의 고민…'적자' 콘텐츠·클라우드 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302210012</link>
             <guid>https://www.bloter.net/newsView/blt202302210012</guid>
             <pubDate>Tue, 21 Feb 2023 09:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-21 17:26:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210015.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국의 ’OLED 추격’ 떨쳐낼 삼성·LG의 카드는?(feat.Ex-OLED) (블로터 ─ 테크)]]></title>
@@ -482,30 +520,6 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <pubDate>Sun, 19 Feb 2023 07:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 16:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁범죄 기록에 정보전까지…스마트폰이 바꿔놓은 우크라이나 전쟁 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170019</link>
-            <guid>https://www.bloter.net/newsView/blt202302170019</guid>
-            <pubDate>Sun, 19 Feb 2023 06:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-19 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170032.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스타트업 돋보기]'돈맥경화' 속 네이버가 후속 투자한 엔닷라이트, '3D 웹 엔진'이 뭐길래? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302140007</link>
-            <guid>https://www.bloter.net/newsView/blt202302140007</guid>
-            <pubDate>Sun, 19 Feb 2023 05:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이건한</span>                        <span class="date">2023-02-19 14:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 유출된 LG유플러스 가입자, '무료 유심 교체' 어떻게 받나 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302180005</link>
-            <guid>https://www.bloter.net/newsView/blt202302180005</guid>
-            <pubDate>Sun, 19 Feb 2023 01:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 09:09:47</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -783,6 +797,22 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지' (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210016</link>
+            <guid>https://www.bloter.net/newsView/blt202302210016</guid>
+            <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 시리즈가 2019년부터 매년 진행해온 '인생작 캠페인'을 재개한다. 2018년 리브랜딩 이후 첫 번째 캠페인으로 유명 배우들을 웹소설 콘텐츠와 접목한 '인생작을 만나다'를 선보인 네이버 시리즈는 올해도 화제의 인물을 통해 새로운 인생작을 선보일 계획이다.21]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210019.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 블리자드 인수 총력전…경쟁사 엔비디아와 협력한다 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220001</link>
+            <guid>https://www.bloter.net/newsView/blt202302220001</guid>
+            <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트(MS)가 게임업체 액티비전 블리자드(이하 블리자드) 인수를 위해 경쟁사인 엔비디아와 파트너십을 체결했다.   21일(현지시간) 두 회사는 공동 성명을 통해 MS 엑스박스(Xbox)의 인기 PC 게임을 엔비디아의 지포스나우 (GeForce NOW) 클라우드 게이밍 서비스]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220001.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[틱톡, 새로운 크리에이터 수익화 프로그램 발표 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202302210001</link>
             <guid>https://www.bloter.net/newsView/blt202302210001</guid>
@@ -863,20 +893,12 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/14/blt202302140002.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[흑자 기업도 시장에선 '시큰둥'…오아시스, 상장 철회키로 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302130012</link>
-            <guid>https://www.bloter.net/newsView/blt202302130012</guid>
-            <pubDate>Mon, 13 Feb 2023 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[오아시스가 새벽 배송 기업 유일의 흑자기업임을 내세웠지만, 혹한기 시장의 냉정한 평가를 받았다.  13일 이커머스 1호 IPO(상장) 기업을 자처했던 오아시스가 금융감독원에 상장 철회 신고서를 제출하고 코스닥(KOSDAQ) 상장을 철회한다고 공시했다.  오아시스는 이커]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노현우 세포라 대표, 대외 활동 드라이브…다시 한 번 '한국화' 도전 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302100024</link>
-            <guid>https://www.bloter.net/newsView/blt202302100024</guid>
-            <pubDate>Sat, 11 Feb 2023 01:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[세포라 코리아가 코로나19 악재를 뒤로하고 다시 한 번 K-뷰티 점령에 나선다. 특히 2019년 한국 상륙 이후 이렇다 할 성과를 내지 못한 상황에서, 지난해 취임 후 약 1년 간 은둔의 경영자로 있었던 노현우 세포라 코리아 대표도 본격적인 대외 활동을 시작할 준비를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/13/blt202302130003.293x165.0.png" length="0" type="image/png"/>
+            <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210016</link>
+            <guid>https://www.bloter.net/newsView/blt202302210016</guid>
+            <pubDate>Wed, 22 Feb 2023 01:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[네이버 시리즈가 2019년부터 매년 진행해온 '인생작 캠페인'을 재개한다. 2018년 리브랜딩 이후 첫 번째 캠페인으로 유명 배우들을 웹소설 콘텐츠와 접목한 '인생작을 만나다'를 선보인 네이버 시리즈는 올해도 화제의 인물을 통해 새로운 인생작을 선보일 계획이다.21일 &lt;블로터&gt; 취재 결과, 네이버 시리즈는 오는 24일부터 올해 첫 인생작을 만나다 캠페인을 진행할 예정이다. 네이버 시리즈가 선보이는 인생작을 만나다 캠페인은 지난 2019년 처음으로 공개된 이래 웹소설 팬덤층의 취향저격에 성공하며 큰 화제를 모았다.   인생작을 만나다 캠페인은 '1990년대 인터넷 소설 이미지에서 벗어나지 못했던 웹소설을 하나의 장르물이자 콘텐츠로 인식시키며 대중성을 높였다'는 평가를 받았다. 실제로 인생작을 만나다 캠페인은 2019년 배우 김윤석, 이제훈, 수애, 변요한 등이 각각 △중증외상센터 골든아워 △혼전계약서 △재혼황후 △장씨세가 호위무사 같은 웹소설의 한 장면을 연기하는 광고 영상으로 큰 주목을 받았다. 해당 캠페인은 지금까지 제품 소개로 소비됐던 광고 형태에서 벗어나 배우들이 웹소설 속 주인공을 연기하는 방식으로 궁금증을 유발했다. 흑백 배경 속 웹소설 캐릭터로 분한 배우들의 연기는 관련 웹소설의 분위기를 잡아주는 한편 영상화에 대한 기대감을 높이기에 충분했다.  이런 기대감은 해당 캠페인 영상의 조회수로 이어졌는데, 배우 수애가 출연한 '재혼황후 사이다 발언(미공개 ver)' 유튜브 영상은 이 날 기준 345만회의 조회수를 기록했다. △변요한의 약속(장씨세가 호위무사 미공개 ver) △이제훈의 심쿵 발언(미공개 ver) △김윤석의 중증외상센터: 골든아워(미공개 ver) 영상도 각각 205만회, 197만회, 196만회의 유튜브 조회수를 기록하며 관련 작품의 유입도를 높인 것으로 분석된다. 웹소설에 대한 관심은 해당 콘텐츠의 2차 창작물(웹툰 등) 제작으로 이어지며 새로운 팬덤층을 형성하기에 이르렀다. 배우+웹소설+영상 조합의 성공 방정식은 그 다음해인 2020년까지 이어졌다. 네이버 시리즈는 웹소설 '하렘의 남자들'을 주제로 '2020 인생작을 만나다' 캠페인을 진행했는데 배우 서예지와 주지훈을 통해 한층 강력한 싱크로율을 선보였다는 평가를 받았다. 서예지·주지훈이 함께 출연한 '하렘의 남자들' 유튜브 영상은 조회수 307만회를 기록하며 각종 패러디를 양산하는 등 높은 화제성을 기록했다.  이듬해인 2021년 네이버 시리즈는 기존 캠페인 전략을 변형해 장항준·김은희 감독 부부가 웹소설을 소개하는 '인생작을 만나다' 영상을 선보였다. 이를 통해 네이버 시리즈는 △남주의 첫날밤을 가져버렸다 △내 남편과 결혼해줘 △화산귀환을 소개해 눈길을 끌었다. 약 3년여간 인생작을 만나다 캠페인을 통해 웹소설 콘텐츠의 대중화를 진행했던 네이버 시리즈는 지난해 들어 기존 오늘의웹소설 메뉴를 '시리즈에디션'으로 변경하는 등 대대적인 개편에 나섰다. 재정비를 끝낸 네이버 시리즈는 올해 다시 인생작을 만나다 캠페인을 기획해 본격적인 콘텐츠 알리기에 나설 예정이다. 2023 인생작을 만나다, 1호 웹소설은? 네이버 시리즈는 지난 20일, 인생작을 만나다 캠페인을 재개한다고 알리며 소셜 네트워크 서비스(SNS)에 첫 작품을 맞추는 이벤트를 게재했다. 해당 게시물에 공개된 이미지를 보면 '정의의 여신' 디케를 연상케 하는 이미지와 함께 검과 꽃 그림이 등장한다. 관련 이벤트에 참여하는 유저들의 의견을 종합하면 '검을 든 꽃'과 '언니, 이번 생엔 내가 왕비야' 등 두 작품으로 좁혀지고 있다. 2016년 연재돼 1년여 만에 완결한 '검을 든 꽃'은 '교룡의 주인'을 쓴 은소로 작가가 스토리를 맡은 웹소설이다. 존재하지 않는 과거를 간직한 남녀의 회귀 로맨스 판타지로 알려진 검을 든 꽃은 네이버 시리즈 기준 별점 9.39점(10점 만점 기준)을 받으며 두터운 팬덤층을 형성한 바 있다.    또 다른 후보인 언니, 이번 생엔 내가 왕비야는 2020년 12월 '레팔진프' 작가가 연재한 웹소설로, 로맨스 판타지 장르를 표방하고 있다. 이 작품은 왕비 대관식을 앞두고 언니에게 약혼자를 뺏긴 주인공이 복수를 꿈꾸며 과거로 회귀해 새로운 삶을 살아간다는 내용을 담았다.두 작품 중 하나가 인생작을 만나다의 첫 작품이라고 가정할 경우, 네이버 시리즈 독점작이 그 주인공이 될 확률이 높다. 검을 든 꽃은 카카오페이지·리디 노벨 등에도 연재된 작품이지만 언니, 이번 생엔 내가 왕비야는 네이버 시리즈 독점작인 만큼 후자가 1호 콘텐츠일 가능성이 높아보인다.  여기에 콘텐츠 영향력을 배가시킬 모델의 정체에 대해서도 관심이 집중되고 있다. &lt;블로터&gt; 취재 결과, 2023 인생작을 만나다 첫 주인공은 가수 겸 배우 '수지(본명 배수지)'인 것으로 밝혀졌다. 수지는 영화 '건축학개론'으로 '국민 첫 사랑' 타이틀을 얻은 이후 다양한 작품에서 배우로 활동하며 인지도를 쌓아왔다. 쿠팡플레이 오리지널 콘텐츠 '안나'에서 주인공으로 극을 이끈 수지는 올해 공개 예정인 넷플릭스 오리지널 시리즈 '이두나'를 통해 또 한 번 OTT 콘텐츠에 도전할 예정이다. 수지는 동명의 네이버웹툰을 소재로 한 이두나에 이어 네이버 시리즈와도 인연을 맺으며 웹 콘텐츠에서도 영향력을 발휘할 것으로 보인다.콘텐츠업계의 한 관계자는 "인생작을 만나다는 마치 한 편의 영화를 보는 듯한 구성으로 주목도를 높인 영상 캠페인"이라며 "1년 만에 재개하는 인생작 캠페인에 예정대로 수지가 출연할 경우 예상보다 높은 파급력을 전할 것으로 예상된다"고 말했다.]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210019.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'1조클럽' 도전하는 컴투스, '투자 결실 원년' 만든다 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
@@ -989,14 +1011,6 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <pubDate>Thu, 29 Dec 2022 04:25:46 GMT</pubDate>
             <content:encoded><![CDATA[라이엇 게임즈가 자사 1인칭 전술 슈팅 PC 게임 '발로란트'의 e스포츠 운영을 확대하고 있다. 아마추어(일반인)의 참여를 독려하는 데다 내년부터 국제 리그를 만드는 등 e스포츠 체제를 개편하고 있다. 10년여간 서비스한 '리그 오브 레전드'로 글로벌 e스포츠 대회를 운영 중인 라이엇 게임즈는 3년 전부터 출시한 신규 게임들에게서 e스포츠화 가능성을 기대하고 있다. 특히 발로란트는 국내 PC방 순위 기준 올 하반기부터 인기 상승세가 본격적으로 확인되고 있는 게임으로, 라이엇 게임즈는 발로란트에게서 리그 오브 레전드 국내 초기 서비스 모습을 떠올리고 있다.  국제리그 기반 마련에 일반인·여성으로 대회 확대 라이엇 게임즈는 28일 '2023 WCG 발로란트 챌린저스 코리아' 스테이지1 오픈 예선 참가팀을 다음달 8일까지 모집한다고 밝혔다. 발로란트는 내년부터 국가(지역)별로 진행되던 리그를 권역별 리그로 확대, 3개 국제 리그(퍼시픽, 아메리카스, EMEA)를 만들면서 e스포츠 체제를 개편했다.   이에 따라 챌린저스는 지역 프로리그가 되면서 국제 리그로 승격할 수 있는 기반을 마련했다. 한국을 포함한 21개 챌린저스 지역 리그가 내년 2회 개최되면 EMEA와 아메리카스, 퍼시픽으로 구성된 3개의 챌린저스 어센션 대회로 이어지는 구조다. 각 지역 챌린저스 스테이지2 우승팀은 자신이 속한 권역 어센션에 진출하고, 권역별 어센션 우승팀은 이듬해부터 2년 동안 해당하는 권역 국제 리그에 출전할 자격을 얻게 된다. 라이엇 게임즈의 발로란트 e스포츠 확대는 일반인에게도 적용됐다. 참여형 e스포츠 대회 '팀 에이스(TEAM ACE) : 결정전'을 개최하며 프로 선수가 아닌 일반인 이용자들의 참여를 독려하고 있다. 발로란트 팀 에이스 : 결정전은 프로 경력이 없는 만 15세 이상의 발로란트 이용자라면 누구나 참여할 수 있는 대회다. 라이엇 게임즈에 따르면 발로란트 팀 에이스 : 결정전 2차 예선 접수는 오는 29일 접수를 마감하고, 오는 31일과 다음달 1일 이틀간 경기를 진행할 예정이다. 발로란트 일반인 대회에 대한 라이엇 게임즈의 기대는 적중한 것으로 보여진다. 지난 18일 마무리된 팀 에이스 : 결정전 1차 예선전에는 6500명 이상의 신청자가 참가했다. 특히 1차 예선 결승에서는 아마추어 랭크 플레이어팀(All Ways Incheon)이 발로란트 유명 인플루언서로 구성된 팀 'SVL'을 꺾고 오프라인 최종 결승 진출권을 따내며 일종의 이변을 일으키기도 했다. 여성 발로란트 플레이어들의 무대를 만들고 있기도 하다. 라이엇 게임즈는 지난달 독일 베를린에서 발로란트 챔피언십을 진행했다. 게임 체인저스 초대 챔피언 자리를 놓고 8개 팀이 경쟁한 대회다. 발로란트 챔피언스 투어 게임 체인저스는 전 세계 발로란트 여성 플레이어들이 팀을 꾸려 참가하는 국제 대회다. 라이엇 게임즈는 발로란트 해당 대회를 통해 여성 플레이어들이 활약할 기회와 무대를 제공하겠다고 밝힌 바 있다.  인기 상승세, '리그 오브 레전드' 닮은꼴 행보 라이엇 게임즈가 발로란트 e스포츠 대회 확장에 힘을 보태는 것은 발로란트의 인기 상승세와 관련이 있다. 라이엇 게임즈는 2020년 3월 첫 모바일 신작 '전략적 팀 전투(TFT)'를 출시한 이후로 '레전드 오브 룬테라', '발로란트'를 연달아 선보이며 다작 행보에 나선 바 있는데, 그 중 하나인 발로란트가 최근 유의미한 인기 지표를 기록하고 있어서다.라이엇 게임즈는 발로란트의 순위 고공행진을 두고 리그 오브 레전드 한국 서비스 초기 PC방에서 불던 'LoL 붐'과 유사한 형태라고 분석하며 기대감을 높이고 있기도 하다.   특히 발로란트는 리그 오브 레전드의 세계관을 이은 전략적 팀 전투와 레전드 오브 룬테라와 달리 신규 지식재산권(IP)을 기반으로 개발된 게임이다. 신규 지식재산권 게임인 발로란트의 인기 확대는 높은 리그 오브 레전드 의존도에서 벗어나 게임 개발·운영사로서 능력을 재입증하는 기회가 될 것으로 전망됐다. 발로란트의 국내 인기 상승세는 1년 전부터 계속되고 있다. PC방 순위 리서치 서비스 게임트릭스에 따르면 12월 4주차(19일~25일) 주간 종합 게임 동향 집계에서 발로란트는 점유율 4.41%를 기록하며 4위에 올랐다. 전주 대비 1.38% 감소한 수치지만 상위권을 유지하고 있는 양상이다. 발로란트의 확연한 상승세는 올 하반기부터 감지됐다. 게임트릭스에 따르면 지난 8월 국내 PC방 점유율 4%를 넘어섰다. 점유율 4%대 돌입은 한국 정식 서비스 후 첫 기록으로, 발로란트는 지난해 7월 점유율 3%대를 기록한 이후 지금까지 10위권 내를 유지하는 중이다. 5위권에 진입한 것은 지난 9월부터다. 점유율 4.15%로 오버워치(3.62%), 배틀그라운드(4.04%)를 제치고 경쟁이 치열한 FPS(1인칭 슈팅 게임)에서는 두 번째로 높은 순위에 올랐다. e스포츠 업계 한 관계자는 &lt;블로터&gt;에 "e스포츠 종목이 다양한 가운데서도 최근 발로란트의 인기가 높아지고 있는 것을 실감한다"며 "높아지는 지원자와 선수 보유층이 두터워지고 있어 발로란트의 지속적인 인기 상승이 기대된다"고 전했다.]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280041.291x174.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]음원부터 웹소설까지…'2022 콘텐츠 트렌드'는 '역주행' (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212280010</link>
-            <guid>https://www.bloter.net/newsView/blt202212280010</guid>
-            <pubDate>Wed, 28 Dec 2022 07:14:26 GMT</pubDate>
-            <content:encoded><![CDATA["저기 사라진 별의 자리 아스라이 하얀 빛 한동안은 꺼내 볼 수 있을 거야. 아낌없이 반짝인 시간은 조금씩 옅어져 가더라도 너와 내 맘에 살아 숨 쉴 테니"  이는 가수 윤하의 노래 '사건의 지평선' 중 일부분이다. 사건의 지평선은 지난 3월 발매 당시에는 큰 화제를 모으지 못했지만, 어느 순간 주요 음원차트를 석권하더니 지금까지 한 달이 넘도록 정상권에 머물고 있다. 실제로 윤하는 사건의 지평선이 담긴 6집 앨범을 발매한 이후 대학 축제, 방송, 미디어 등 다양한 채널에서 부르기 시작했고, 해당 노래가 입소문을 타면서 6개월이 지난 9월부터 서서히 순위가 역주행하는 결과를 도출했다. 특히 올해는 윤하의 사건의 지평선 등 가요계는 물론 콘텐츠업계 전반에서 역주행 현상이 발생했다. 유저 맞춤형으로 콘텐츠를 만날 수 있는 구독 플랫폼이 늘면서 한국에서 만든 콘텐츠가 세계인이 즐기는 대중문화로 부상한 것도 시대의 흐름으로 읽힌다.  콘텐츠업계 전반으로 확대된 '역주행' 역주행의 대표 주자는 단연 음원이다. 다른 콘텐츠 대비 상대적으로 짧은 호흡으로 즐길 수 있는 음악은 매해 역주행의 아이콘을 탄생시키고 있다. 다만, K-팝이 전 세계를 사로잡으면서 최근의 역주행 양상은 변화된 흐름을 보이고 있다. 역주행의 배경이 미국 빌보드의 메인 앨범 차트인 ‘빌보드 200’가 된 것이 대표적이다. 실제로 지난 9월 발매된 NCT127의 정규 4집 '질주(2 Baddies)'는 지난 6일 기준 이전 주 순위보다 71계단 상승한 112위에 올랐고, 방탄소년단(BTS)이 올해 6월 내놓은 앤솔로지 앨범 '프루프(Proof)'도 지난 21일 기준 95위로 27주 연속 차트인을 달성했다. 특히, 해당 앨범은 발매 이후 줄곧 이름을 올린 '월드 앨범'에서 3계단 상승하며 1위를 차지했다.  그러나 역주행을 음원 시장의 전유물이라 생각하면 오산이다. 다양한 콘텐츠 구독 서비스의 일상화로 언제 어디서나 원하는 콘텐츠를 선택할 수 있게 되면서, 콘텐츠 전반으로 역주행 현상은 확산됐다.넷플릭스 톱(TOP) 10 차트에 따르면, 올해 여름 '나의 해방일지'가 '추앙' 신드롬을 일으킨 사이 동일 작가의 전작인 '나의 아저씨'에도 큰 관심이 쏟아졌다. 박해영 작가의 나의 아저씨는 2018년 종영이 무색할 만큼, 올해 6월 6일부터 2주간 넷플릭스 대한민국 오늘의 톱10 리스트를 장식했다.   도서 출판 시장에서도 작가 팬덤 기반의 무작위 역주행 현상이 나타났다. 국내 최대 독서 플랫폼 '밀리의 서재'에 따르면, 지난 6월 공개한 일본 추리소설계의 거장 히가시노 게이고의 작품들 가운데 '살인의 문1' 등 대표작이 밀리의 서재 회원들이 선택(Pick)한 '9월의 서재 차트'에 올랐다. 또 올해의 독서를 결산한 '밀리 독서 리포트 2022'에서도 히가시노 게이고가 최고 인기 키워드로 조명됐고, 회원들의 서재에 가장 많이 담긴 소설 100권 중 무려 24권의 소설이 히가시노 게이고의 작품으로 확인됐다. 반대되는 흥행 루트…'순서' 뒤집은 역주행 보통의 역주행이 '흥행의 시간'을 거꾸로 달렸다면, 올해 새로 떠오른 역주행 현상은 또 다른 특징을 갖고 있다. 이는 '흥행의 순서가 뒤집혔다'는 공식인 데 가장 대표적인 콘텐츠가 넷플릭스와 ENA 채널에서 선보인 '이상한 변호사 우영우(이하 우영우)'다. 우영우는 방송사 우선 방영으로 시작된 관심이 OTT 흥행으로 이어지는 일반적인 흥행 순서 대신, 넷플릭스를 통한 입소문을 바탕으로 신생 채널인 ENA의 시청률을 1회 0.9%에서 최대 17.5%까지 끌어올렸다.   또 다른 사례로는 전자책으로 시작해 베스트셀러 종이책으로 등극한 '어서 오세요, 휴남동 서점입니다'도 있다. 밀리의 서재 오리지널 작품인 해당 도서는 2019년 브런치에서 먼저 연재된 후 공모전 입상을 통해 전자책으로 공개됐다. 그러나 독자들의 요청이 쇄도하면서 올 초 종이책으로 출간돼 국내에서만 18만부 이상 팔렸다. '불편한 편의점'도 플랫폼에서의 인기를 바탕으로 종이책으로 탄생했다. 올해 8월에는 속편까지 출간됐는데 해당 시리즈는 밀리의 서재에서만 누적 38만개 이상의 서재 담은 수, 7600여건의 한 줄 리뷰 등 기록적인 수치를 달성했다. 종이책 또한 2020년대 한국 소설로는 세 번째로 1, 2권 누적 판매 100만부를 돌파했다.  IP 유니버스를 통한 역주행 나비효과 올해는 하나의 IP가 웹소설, 웹툰, 드라마, 영화 등 다양한 장르로 재탄생하면서 다양한 업계에서 역주행 훈풍이 두드러졌다. 특히 네이버웹툰·카카오엔터테인먼트 등 대형 웹툰·웹소설 플랫폼의 IP로 제작된 방송영상콘텐츠가 올해에만 40편에 달하고, IP 판권 계약 및 영상화가 더욱 활발하게 진행되면서 IP 기반 역주행은 더 잦아질 전망이다.   이와 관련한 가장 최근 사례는 JTBC 드라마 '재벌집 막내아들'의 흥행과 이를 통한 동명 웹소설의 매출 신장이다. 원작 웹소설 '재벌집 막내아들'은 네이버웹툰 자회사인 문피아에서 2017년부터 2018년까지 연재됐다. 완결된 지 4년이 지난 작품이지만, 드라마의 흥행을 중심으로 올해 9월 중순과 지난달 말 열흘간의 웹소설 매출을 비교하면 총 230배가 뛰었다.'사내 맞선'의 경우, 드라마 흥행에 따라 웹툰과 웹소설의 인기가 모두 역주행했다. 실제로 사내맞선은 2017년 8월 카카오페이지를 통해 웹소설로 처음 공개됐고, 탄탄한 스토리와 높은 인기에 힘입어 이듬해 웹툰으로의 제작을 시작해 2020년 연재가 마무리됐다. 그러나 올 초 드라마 방영을 시작으로 해당 웹툰의 매출은 전달 대비 4배 증가했고, 드라마 첫 방송 당일 웹소설 조회수는 평균 대비 10배 이상 상승했다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2022/12/28/blt202212280008.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[OTT오리지널]쿠팡플레이 '미끼'가 '사기'를 바라보는 시선 (블로터 ─ 컬처 ─ OTT오리지널)]]></title>
