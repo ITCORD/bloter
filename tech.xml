@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 01:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 02:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKT도 어려운 5G 28㎓ 투자…'제4이통사'로 향하는 장비사의 눈]]></title>
+            <link>https://www.bloter.net/newsView/blt202302220003</link>
+            <guid>https://www.bloter.net/newsView/blt202302220003</guid>
+            <pubDate>Wed, 22 Feb 2023 02:49:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-22 11:17:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220003.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아마존, AI 강화 위해 AI 스타트업과 협력 확대]]></title>
             <link>https://www.bloter.net/newsView/blt202302220002</link>
             <guid>https://www.bloter.net/newsView/blt202302220002</guid>
             <pubDate>Wed, 22 Feb 2023 01:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-22 09:26:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220002.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220002.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지']]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 19 Feb 2023 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-19 17:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/19/blt202302190001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넘버스]LG유플러스, 개인정보 유출을 '환골탈태 계기'로 삼아야 하는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302180004</link>
-            <guid>https://www.bloter.net/newsView/blt202302180004</guid>
-            <pubDate>Sun, 19 Feb 2023 07:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-19 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180008.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
