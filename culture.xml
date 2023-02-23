@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 22:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 23:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["넷플릭스, 30여개국에서 구독료 최대 50% 인하"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240001</link>
+            <guid>https://www.bloter.net/newsView/blt202302240001</guid>
+            <pubDate>Thu, 23 Feb 2023 23:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대 온라인동영상서비스(OTT) 넷플릭스가 최근 30여개 국가에서 요금을 인하했다고 23일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt;이 보도했다.    WSJ은 넷플릭스가 최근 몇 주에 걸쳐 중동, 아프리카, 유럽, 라틴아메리카, 아시아 시장의 일부 국가에서 월 구독]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰]데드사이드클럽 "지금까지 이런 슈팅게임은 없었다"]]></title>
             <link>https://www.bloter.net/newsView/blt202302220010</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Feb 2023 11:15:20 GMT</pubDate>
             <content:encoded><![CDATA[주언규 PD(구 신사임당)가 타 유튜브 채널 영상 내용 무단복제와 관련이 있음을 인정하고 활동중단을 선언한 가운데, 주언규 PD의 온라인 강의를 진행해 온 온라인 동영상 플랫폼 '클래스101'가 그의 단독 클래스(온라인 강의)를 미공개로 전환했다.  15일 오후 &lt;블로]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150017.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[디마人]'제로 웨이스트 마케팅'을 꿈꾸다…팀민트 한만형 대표]]></title>
-            <link>https://www.bloter.net/newsView/blt202302140020</link>
-            <guid>https://www.bloter.net/newsView/blt202302140020</guid>
-            <pubDate>Wed, 15 Feb 2023 01:14:54 GMT</pubDate>
-            <content:encoded><![CDATA['디마人'은 '디지털마케팅 종사자(人)'와 영어 'Demine(지뢰를 제거하다)'을 포함한 중의적 표현으로, 치열한 디지털마케팅 시장에서 고군분투하는 업계 종사자들의 목소리를 담습니다. 마케팅 단계별로 각각의 대행사를 선정해 진행되는 파편화된 커뮤니케이션은 전]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160008.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
