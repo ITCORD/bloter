@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구현모, '통신→디지털 플랫폼' 변화 주도했지만…외풍에 결국 멈춘 '정통 KT맨']]></title>
+            <link>https://www.bloter.net/newsView/blt202302230010</link>
+            <guid>https://www.bloter.net/newsView/blt202302230010</guid>
+            <pubDate>Thu, 23 Feb 2023 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-23 16:05:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230012.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주성엔지니어링, 2022년 사상 최대 실적 비결은 ‘고객사 확대’]]></title>
+            <link>https://www.bloter.net/newsView/blt202302230007</link>
+            <guid>https://www.bloter.net/newsView/blt202302230007</guid>
+            <pubDate>Thu, 23 Feb 2023 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-23 15:20:23</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230008.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[구현모 KT 대표, 연임 포기…3월 임기 마치고 떠난다]]></title>
             <link>https://www.bloter.net/newsView/blt202302230006</link>
             <guid>https://www.bloter.net/newsView/blt202302230006</guid>
             <pubDate>Thu, 23 Feb 2023 06:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-23 14:56:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230007.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230007.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴먼스케이프 '레어노트'…숫자로 희귀질환 현황 알려주는 이유는?]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Tue, 21 Feb 2023 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-21 17:26:52</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210015.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 ’OLED 추격’ 떨쳐낼 삼성·LG의 카드는?(feat.Ex-OLED)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302210010</link>
-            <guid>https://www.bloter.net/newsView/blt202302210010</guid>
-            <pubDate>Tue, 21 Feb 2023 07:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-21 16:05:20</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹십자 국소 지혈제 '그린플라스트큐', 내시경 출혈 고위험군 환자에 '효과적']]></title>
-            <link>https://www.bloter.net/newsView/blt202302210009</link>
-            <guid>https://www.bloter.net/newsView/blt202302210009</guid>
-            <pubDate>Tue, 21 Feb 2023 07:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-21 15:57:08</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210012.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
