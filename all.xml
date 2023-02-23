@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 07:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 08:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,32 +263,39 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210008.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[STO는 '토큰 증권'이 아니라 '증권 토큰'이다 I 최공필 칼럼 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230004</link>
-            <guid>https://www.bloter.net/newsView/blt202302230004</guid>
-            <pubDate>Thu, 23 Feb 2023 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-23 12:36:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230005.570x320.0.png" length="0" type="image/png"/>
+            <title><![CDATA["내가 만든 KB~" 국민카드 사내크리에이터 '쿠키즈' 힘찬 출발 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302230011</link>
+            <guid>https://www.bloter.net/newsView/blt202302230011</guid>
+            <pubDate>Thu, 23 Feb 2023 07:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-23 16:09:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230013.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2020년대 대체투자처는 조각투자…주목받는 테사·뮤직카우 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202208280002</link>
-            <guid>https://www.bloter.net/newsView/blt202208280002</guid>
-            <pubDate>Thu, 23 Feb 2023 04:19:02 GMT</pubDate>
+            <title><![CDATA["아이스크림아 가라~" 떡·한과 전문점 매출액 치솟았다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302210007</link>
+            <guid>https://www.bloter.net/newsView/blt202302210007</guid>
+            <pubDate>Tue, 21 Feb 2023 06:19:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울거래 비상장은 어떻게 'STO' 할 수 있었을까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207270028</link>
-            <guid>https://www.bloter.net/newsView/blt202207270028</guid>
-            <pubDate>Thu, 23 Feb 2023 04:19:02 GMT</pubDate>
+            <title><![CDATA['개취' 공략하는 카드사…나라사랑카드 쓰면 웨이브 공짜로 본다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302130008</link>
+            <guid>https://www.bloter.net/newsView/blt202302130008</guid>
+            <pubDate>Mon, 13 Feb 2023 08:20:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제도권 가려는 조각투자 플랫폼...키움증권이 든든하게 키워줄까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202207260017</link>
-            <guid>https://www.bloter.net/newsView/blt202207260017</guid>
-            <pubDate>Thu, 23 Feb 2023 04:19:02 GMT</pubDate>
+            <title><![CDATA[KB금융 비은행서 입지 격상한 '보험'…국민카드의 전략은? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202301110017</link>
+            <guid>https://www.bloter.net/newsView/blt202301110017</guid>
+            <pubDate>Thu, 23 Feb 2023 08:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[투자 혹한기에 스타트업 품는 KB국민카드…'한국의 경영대상' 수상 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202212070009</link>
+            <guid>https://www.bloter.net/newsView/blt202212070009</guid>
+            <pubDate>Thu, 23 Feb 2023 08:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
@@ -376,12 +383,20 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[오유경 식약처장이 그리는 식의약산업 발전 청사진…실현 가능성은? (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202302230013</link>
+            <guid>https://www.bloter.net/newsView/blt202302230013</guid>
+            <pubDate>Thu, 23 Feb 2023 08:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-23 16:54:04</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230015.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[구현모, '통신→디지털 플랫폼' 변화 주도했지만…외풍에 결국 멈춘 '정통 KT맨' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202302230010</link>
             <guid>https://www.bloter.net/newsView/blt202302230010</guid>
             <pubDate>Thu, 23 Feb 2023 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-23 16:05:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230012.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230012.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주성엔지니어링, 2022년 사상 최대 실적 비결은 ‘고객사 확대’ (블로터 ─ 테크)]]></title>
@@ -510,14 +525,6 @@ LCD에 이어 OLED(유기발광다이오드)에서도 중국의 추격이 거세
             <pubDate>Wed, 22 Feb 2023 01:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-22 08:37:27</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이익률 올리려는 네이버의 고민…'적자' 콘텐츠·클라우드 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302210012</link>
-            <guid>https://www.bloter.net/newsView/blt202302210012</guid>
-            <pubDate>Tue, 21 Feb 2023 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-21 17:26:52</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210015.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
