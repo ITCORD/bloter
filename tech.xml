@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 10:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 11:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]'라이언로켓'은 어떻게 '생성형 AI' 서비스를 빠르게 내놓을까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240007</link>
+            <guid>https://www.bloter.net/newsView/blt202302240007</guid>
+            <pubDate>Fri, 24 Feb 2023 11:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-02-24 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한글과컴퓨터, 1200억원 실탄 '글로벌 SaaS'에 쏟는 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202302240019</link>
             <guid>https://www.bloter.net/newsView/blt202302240019</guid>
             <pubDate>Fri, 24 Feb 2023 09:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-24 18:12:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240038.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]체질 개선 '초록불' 브랜드엑스, 이루다마케팅 상장도?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 23 Feb 2023 06:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-23 14:56:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230007.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴먼스케이프 '레어노트'…숫자로 희귀질환 현황 알려주는 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230005</link>
-            <guid>https://www.bloter.net/newsView/blt202302230005</guid>
-            <pubDate>Thu, 23 Feb 2023 06:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-23 14:55:57</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230006.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
