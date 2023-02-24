@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 11:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 12:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]엠바크 신작 '더 파이널스'…넥슨 서구권 매출 선봉장 될까]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240021</link>
+            <guid>https://www.bloter.net/newsView/blt202302240021</guid>
+            <pubDate>Fri, 24 Feb 2023 12:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 다음달 1인칭 팀 슈팅게임 '더 파이널스(THE FINALS)'의 글로벌 베타테스트를 통해 시장성을 검증한다. 지난해 3조3946억원(엔화 기준 3537억엔)의 매출을 거둔 넥슨은 2019년 지분 전량을 인수한 엠바크스튜디오의 신작을 통해 글로벌 게임시장을 정조준한다는 계]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240042.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]체질 개선 '초록불' 브랜드엑스, 이루다마케팅 상장도?]]></title>
             <link>https://www.bloter.net/newsView/blt202302240009</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Feb 2023 20:17:06 GMT</pubDate>
             <content:encoded><![CDATA[창립 이래 최대 연간 매출을 경신한 에코마케팅이 인공지능(AI) 기술 도입에 박차를 가하며 본격적으로 글로벌 시장을 정조준한다.  지난 16일 에코마케팅은 지난해 연결기준 매출액 3528억원, 영업이익 570억원을 기록했다고 공시했다. 각각 전년대비 54%, 42% 증가한 수]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[N플레이]"TL이 엔씨를 바꾼다"…변화의 시작, 플랫폼부터?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302170011</link>
-            <guid>https://www.bloter.net/newsView/blt202302170011</guid>
-            <pubDate>Fri, 17 Feb 2023 08:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.엔씨소프트하면 누구나 '리니지(LINEAGE)'를 떠올릴 것이]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
