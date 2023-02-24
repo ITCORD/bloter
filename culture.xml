@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 04:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰]'액션 사제' 차은우, '아일랜드' 파트2 활약 주목할 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240005</link>
+            <guid>https://www.bloter.net/newsView/blt202302240005</guid>
+            <pubDate>Fri, 24 Feb 2023 04:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[24일 낮 열두 시 티빙 오리지널 시리즈 '아일랜드' 파트2의 7~8화가 공개된 가운데, 극 중 '요한'으로 출연한 그룹 아스트로 멤버 겸 배우 차은우가 얼마나 활약할 지 주목받고 있다. 파트1에서의 요한이 헤드셋을 끼고 구마의식을 행하는 '얼굴천재' 바티칸 최연소 구]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240013.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["넷플릭스, 30여개국에서 구독료 최대 50% 인하"]]></title>
             <link>https://www.bloter.net/newsView/blt202302240001</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Feb 2023 01:14:40 GMT</pubDate>
             <content:encoded><![CDATA[챗GPT 등 생성 인공지능(AI)이 각광받는 가운데 콘텐츠에 대한 저작권 문제가 대두되고 있다. 먼저 수익성을 기반으로 크리에이터 생태계를 만들어온 유튜브에서 문제가 제기됐다. 저작권을 무시한 채 AI를 기반으로 인기 영상을 따라하는 '카피캣' 방식이 보편화될]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160002.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]클래스101, '구 신사임당' 주언규PD 논란에 '강의 미공개']]></title>
-            <link>https://www.bloter.net/newsView/blt202302150016</link>
-            <guid>https://www.bloter.net/newsView/blt202302150016</guid>
-            <pubDate>Wed, 15 Feb 2023 11:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[주언규 PD(구 신사임당)가 타 유튜브 채널 영상 내용 무단복제와 관련이 있음을 인정하고 활동중단을 선언한 가운데, 주언규 PD의 온라인 강의를 진행해 온 온라인 동영상 플랫폼 '클래스101'가 그의 단독 클래스(온라인 강의)를 미공개로 전환했다.  15일 오후 &lt;블로]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/15/blt202302150017.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

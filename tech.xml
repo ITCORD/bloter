@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 04:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['투자 전문' SK스퀘어는 어떻게 차입금 '0' 달성했나]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240006</link>
+            <guid>https://www.bloter.net/newsView/blt202302240006</guid>
+            <pubDate>Fri, 24 Feb 2023 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-24 13:03:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240016.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰]'액션 사제' 차은우, '아일랜드' 파트2 활약 주목할 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240005</link>
+            <guid>https://www.bloter.net/newsView/blt202302240005</guid>
+            <pubDate>Fri, 24 Feb 2023 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-24 12:37:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240013.290x163.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카카오, 첫 기타비상무이사에 정신아 카카오벤처스 대표…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202302240003</link>
             <guid>https://www.bloter.net/newsView/blt202302240003</guid>
             <pubDate>Fri, 24 Feb 2023 01:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-24 09:25:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240005.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240005.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[챗GPT 열풍에 美 엔비디아 주가 급등]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Wed, 22 Feb 2023 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-22 17:31:41</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG이노텍, ‘스마트팩토리·경영 전문가’ 사외이사로 영입]]></title>
-            <link>https://www.bloter.net/newsView/blt202302220008</link>
-            <guid>https://www.bloter.net/newsView/blt202302220008</guid>
-            <pubDate>Wed, 22 Feb 2023 08:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-22 16:37:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220010.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신성이엔지, 임원 승진 9명 중 6명 ‘클린룸’ 사업서 나온 배경은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302220005</link>
-            <guid>https://www.bloter.net/newsView/blt202302220005</guid>
-            <pubDate>Wed, 22 Feb 2023 07:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-22 15:23:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220005.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
