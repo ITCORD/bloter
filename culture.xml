@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]체질 개선 '초록불' 브랜드엑스, 이루다마케팅 상장도?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240009</link>
+            <guid>https://www.bloter.net/newsView/blt202302240009</guid>
+            <pubDate>Fri, 24 Feb 2023 09:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 액티브웨어 브랜드 '젝시믹스'로 알려진 브랜드엑스코퍼레이션(이하 브랜드엑스)의 모태는 디지털 마케팅입니다. 뷰티 및 헬스 산업 등을 정리하며 수익성을 개선한 브랜드엑스는 자회사 '이루다마케팅']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240026.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰]'액션 사제' 차은우, '아일랜드' 파트2 활약 주목할 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202302240005</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 17 Feb 2023 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[N플레이는 넥슨, 엔씨소프트, 넷마블 등 '3N'으로 불리는 게임사와 함께 네오위즈, 엔픽셀, NHN 등 이니셜 'N'을 대표하는 기업들의 이야기를 담습니다. 이니셜 'N'이 상징하는 '새로운(New)' 정보도 함께 전달합니다.엔씨소프트하면 누구나 '리니지(LINEAGE)'를 떠올릴 것이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170020.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구 신사임당' 논란이 부른 '생성 AI' 이면…저작권 침해 만연]]></title>
-            <link>https://www.bloter.net/newsView/blt202302160001</link>
-            <guid>https://www.bloter.net/newsView/blt202302160001</guid>
-            <pubDate>Thu, 16 Feb 2023 01:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT 등 생성 인공지능(AI)이 각광받는 가운데 콘텐츠에 대한 저작권 문제가 대두되고 있다. 먼저 수익성을 기반으로 크리에이터 생태계를 만들어온 유튜브에서 문제가 제기됐다. 저작권을 무시한 채 AI를 기반으로 인기 영상을 따라하는 '카피캣' 방식이 보편화될]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/16/blt202302160002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["넷플릭스, 30여개국에서 구독료 최대 50% 인하"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240001</link>
+            <guid>https://www.bloter.net/newsView/blt202302240001</guid>
+            <pubDate>Fri, 24 Feb 2023 09:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-24 07:24:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["내가 만든 KB~" 국민카드 사내크리에이터 '쿠키즈' 힘찬 출발]]></title>
+            <link>https://www.bloter.net/newsView/blt202302230011</link>
+            <guid>https://www.bloter.net/newsView/blt202302230011</guid>
+            <pubDate>Fri, 24 Feb 2023 09:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-23 16:09:16</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230013.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2금융권 천차만별 금리…핀다 '대출 갈아타기 계산기'로 수지타산]]></title>
             <link>https://www.bloter.net/newsView/blt202302230008</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 23 Feb 2023 07:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-23 09:45:34</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, HP가 사용하던 실리콘밸리 사무실에 엔지니어링 본사 설립]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230001</link>
-            <guid>https://www.bloter.net/newsView/blt202302230001</guid>
-            <pubDate>Thu, 23 Feb 2023 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-23 08:31:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SM도 '주인 없는 회사' 됐는데…이복현 금감원장 작심발언, 영향줄까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302220013</link>
-            <guid>https://www.bloter.net/newsView/blt202302220013</guid>
-            <pubDate>Thu, 23 Feb 2023 04:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-22 19:55:25</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220022.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
