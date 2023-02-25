@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 23:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 01:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]SKT, 사회학자 사외이사가 필요한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302250001</link>
+            <guid>https://www.bloter.net/newsView/blt202302250001</guid>
+            <pubDate>Sat, 25 Feb 2023 01:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-25 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/25/blt202302250001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]엠바크 신작 '더 파이널스'…넥슨 서구권 매출 선봉장 될까]]></title>
             <link>https://www.bloter.net/newsView/blt202302240021</link>
             <guid>https://www.bloter.net/newsView/blt202302240021</guid>
             <pubDate>Fri, 24 Feb 2023 12:29:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-24 20:54:05</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넘버스]'라이언로켓'은 어떻게 '생성형 AI' 서비스를 빠르게 내놓을까]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 23 Feb 2023 07:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-23 16:05:25</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230012.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주성엔지니어링, 2022년 사상 최대 실적 비결은 ‘고객사 확대’]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230007</link>
-            <guid>https://www.bloter.net/newsView/blt202302230007</guid>
-            <pubDate>Thu, 23 Feb 2023 07:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-23 15:20:23</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230008.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
