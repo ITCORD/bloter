@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 01:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 02:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT 열풍에 美 엔비디아 주가 급등]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240002</link>
+            <guid>https://www.bloter.net/newsView/blt202302240002</guid>
+            <pubDate>Sat, 25 Feb 2023 02:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-24 08:54:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240002.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["넷플릭스, 30여개국에서 구독료 최대 50% 인하"]]></title>
             <link>https://www.bloter.net/newsView/blt202302240001</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 23 Feb 2023 23:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2023-02-23 11:43:18</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230004.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[“애플, 무채혈 혈당 측정 기술 개발에 큰 진전”…실제 도입은 언제]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230002</link>
-            <guid>https://www.bloter.net/newsView/blt202302230002</guid>
-            <pubDate>Thu, 23 Feb 2023 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-23 09:45:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

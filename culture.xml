@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 01:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 02:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닌텐도, 슈퍼마리오로 엔터테인먼트 제국 구축 나선다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240023</link>
+            <guid>https://www.bloter.net/newsView/blt202302240023</guid>
+            <pubDate>Sat, 25 Feb 2023 02:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[닌텐도가 주력 게임기인 ‘스위치’의 인기에 힘입어 미국 로스앤젤레스의 유니버설 스튜디오 할리우드에 ‘슈퍼 닌텐도 월드’를 지난 17일(현지시간)에 개장했다. 일본 오사카에 두번째다. 또 슈퍼마리오 지식재산권(IP)을 바탕으로 한 애니메이션 영]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240046.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]엠바크 신작 '더 파이널스'…넥슨 서구권 매출 선봉장 될까]]></title>
             <link>https://www.bloter.net/newsView/blt202302240021</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 19 Feb 2023 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[·사기: 사람을 기망(속임)해 상대방의 착오있는 의사를 이용하고, 이를 통해 재물을 교부받거나 재산상의 이익을 취득하는 범죄.·조희팔: 5년여에 걸쳐 약 3만여명에 달하는 피해자를 양산한 '의료기 역렌탈 계약 사기'의 장본인이자, 중국에서 사망한 것으]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/19/blt202302190001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에코마케팅, '안다르' 흑자에 자신감…해외 진출 원년으로]]></title>
-            <link>https://www.bloter.net/newsView/blt202302180002</link>
-            <guid>https://www.bloter.net/newsView/blt202302180002</guid>
-            <pubDate>Fri, 17 Feb 2023 20:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[창립 이래 최대 연간 매출을 경신한 에코마케팅이 인공지능(AI) 기술 도입에 박차를 가하며 본격적으로 글로벌 시장을 정조준한다.  지난 16일 에코마케팅은 지난해 연결기준 매출액 3528억원, 영업이익 570억원을 기록했다고 공시했다. 각각 전년대비 54%, 42% 증가한 수]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/18/blt202302180001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
