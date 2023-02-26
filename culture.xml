@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 04:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 05:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OTT오리지널]티빙 웹툰 오리지널리티…'운수 오진 날'로 이어진다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302260002</link>
+            <guid>https://www.bloter.net/newsView/blt202302260002</guid>
+            <pubDate>Sun, 26 Feb 2023 05:17:04 GMT</pubDate>
+            <content:encoded><![CDATA['티빙'이 웹툰 IP 오리지널 콘텐츠를 확대하며 본격적으로 OTT 수요층 확대에 나섰다. '술꾼 도시 여자들2'에 이어 '방과 후 전쟁활동'을 준비 중인 티빙은 웹툰 '운수 오진 날' IP 오리지널 콘텐츠를 편성하게 됐다.  운수 오진 날, 하반기 출격 웹툰 운수 오진 날은 2020]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/26/blt202302260003.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[닌텐도, 슈퍼마리오로 엔터테인먼트 제국 구축 나선다]]></title>
             <link>https://www.bloter.net/newsView/blt202302240023</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 19 Feb 2023 11:15:58 GMT</pubDate>
             <content:encoded><![CDATA[블로터 &lt;넘버스팀&gt;이 알면 좋을 IT기업 이슈를 분석합니다. 우리나라 엔터테인먼트 업계에 지각변동이 일어나고 있습니다. K-팝 시장의 토대를 닦았다고 할 수 있는 SM엔터테인먼트(이하 SM) 인수를 두고 엔터 업계 시총 1위 하이브와 플랫폼 모기업 카카오를 등에]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/17/blt202302170007.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]쿠팡플레이 '미끼'가 '사기'를 바라보는 시선]]></title>
-            <link>https://www.bloter.net/newsView/blt202302190001</link>
-            <guid>https://www.bloter.net/newsView/blt202302190001</guid>
-            <pubDate>Sun, 19 Feb 2023 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[·사기: 사람을 기망(속임)해 상대방의 착오있는 의사를 이용하고, 이를 통해 재물을 교부받거나 재산상의 이익을 취득하는 범죄.·조희팔: 5년여에 걸쳐 약 3만여명에 달하는 피해자를 양산한 '의료기 역렌탈 계약 사기'의 장본인이자, 중국에서 사망한 것으]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/19/blt202302190001.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
