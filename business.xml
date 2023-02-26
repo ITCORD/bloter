@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 07:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 08:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브가 SM 차지하면? 네이버파이낸셜·신한카드 '대박'난다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240016</link>
+            <guid>https://www.bloter.net/newsView/blt202302240016</guid>
+            <pubDate>Sun, 26 Feb 2023 08:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-24 17:59:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240034.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 남아 반도체산업 키우는 씨티은행…정치권 '방지법' 명분 무색]]></title>
             <link>https://www.bloter.net/newsView/blt202302240008</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Feb 2023 05:16:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-23 15:39:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230010.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STO는 '토큰 증권'이 아니라 '증권 토큰'이다 I 최공필 칼럼]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230004</link>
-            <guid>https://www.bloter.net/newsView/blt202302230004</guid>
-            <pubDate>Fri, 24 Feb 2023 01:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-23 12:36:46</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230005.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
