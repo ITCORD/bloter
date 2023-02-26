@@ -4,30 +4,44 @@
         <title>블로터 ─ 비즈니스 ─ 헤드라인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 22:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 23:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2차전지 대표주 엘앤에프, 보수적 행보에도 증권가 ‘탑픽’인 이유? I Analyst 직격 인터뷰]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230019</link>
-            <guid>https://www.bloter.net/newsView/blt202302230019</guid>
-            <pubDate>Sun, 26 Feb 2023 12:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-26 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230020.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“애플, 이미 2세대 MR 헤드셋 개발 중”]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270002</link>
+            <guid>https://www.bloter.net/newsView/blt202302270002</guid>
+            <pubDate>Sun, 26 Feb 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-27 08:13:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270001.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양극재 업체 중 '매출증가율 톱' 엘앤에프...美 진출 '초읽기']]></title>
-            <link>https://www.bloter.net/newsView/blt202211140009</link>
-            <guid>https://www.bloter.net/newsView/blt202211140009</guid>
-            <pubDate>Sun, 26 Feb 2023 12:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[아이폰·맥 판매 부진에 애플 2016년 이후 최대 분기 매출 감소 기록]]></title>
+            <link>https://www.bloter.net/newsView/blt202302030001</link>
+            <guid>https://www.bloter.net/newsView/blt202302030001</guid>
+            <pubDate>Sun, 26 Feb 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엘앤에프도 '美시장 뚫다'...LG엔솔·SK이노 내재화 대응]]></title>
-            <link>https://www.bloter.net/newsView/blt202106070010</link>
-            <guid>https://www.bloter.net/newsView/blt202106070010</guid>
-            <pubDate>Sun, 26 Feb 2023 12:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA["애플, MR 헤드셋 조만간 공개한다"]]></title>
+            <link>https://www.bloter.net/newsView/blt202301090001</link>
+            <guid>https://www.bloter.net/newsView/blt202301090001</guid>
+            <pubDate>Sun, 26 Feb 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 VR 헤드셋 판매 감소…유일한 희망은 애플?]]></title>
+            <link>https://www.bloter.net/newsView/blt202212290001</link>
+            <guid>https://www.bloter.net/newsView/blt202212290001</guid>
+            <pubDate>Sun, 26 Feb 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고급화되는 VR 헤드셋, 비싸도 너무 비싸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202211050003</link>
+            <guid>https://www.bloter.net/newsView/blt202211050003</guid>
+            <pubDate>Sun, 26 Feb 2023 23:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
