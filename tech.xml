@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 01:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 02:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['중고 반도체 장비 플랫폼' 서플러스글로벌, 장비기술팀 신설한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270004</link>
+            <guid>https://www.bloter.net/newsView/blt202302270004</guid>
+            <pubDate>Mon, 27 Feb 2023 02:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-27 11:48:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270003.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“애플, 이미 2세대 MR 헤드셋 개발 중”]]></title>
             <link>https://www.bloter.net/newsView/blt202302270002</link>
             <guid>https://www.bloter.net/newsView/blt202302270002</guid>
             <pubDate>Sun, 26 Feb 2023 23:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-27 08:13:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'마피아42' 개발사가 만드는 MMORPG는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 24 Feb 2023 04:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-24 12:37:36</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, 첫 기타비상무이사에 정신아 카카오벤처스 대표…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240003</link>
-            <guid>https://www.bloter.net/newsView/blt202302240003</guid>
-            <pubDate>Fri, 24 Feb 2023 01:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-24 09:25:32</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240005.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
