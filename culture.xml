@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 08:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월간마케터]김광수 BAT 퍼포먼스 부문 대표가 말하는 '데이터 기반 브랜딩'은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270016</link>
+            <guid>https://www.bloter.net/newsView/blt202302270016</guid>
+            <pubDate>Mon, 27 Feb 2023 09:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[김광수 BAT 퍼포먼스 부문 대표는 브랜딩 소재에 대해 '감'이 아닌 '데이터 분석'이 우선이라고 강조한다. 그는 데이터 자체에 매몰되는 것에서 벗어나 맥락을 파악하고 끊임 없이 반복해 시야를 넓혀야 한다고 조언했다.   직장인 커뮤니티 청년마케터는 마케터 실무]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270021.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월간마케터]박기덕 밴스드 대표 "퍼포먼스 마케팅, 종말 아닌 기본"]]></title>
             <link>https://www.bloter.net/newsView/blt202302270005</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
             <content:encoded><![CDATA[네이버 시리즈가 2019년부터 매년 진행해온 '인생작 캠페인'을 재개한다. 2018년 리브랜딩 이후 첫 번째 캠페인으로 유명 배우들을 웹소설 콘텐츠와 접목한 '인생작을 만나다'를 선보인 네이버 시리즈는 올해도 화제의 인물을 통해 새로운 인생작을 선보일 계획이다.22]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210019.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 블리자드 인수 총력전…경쟁사 엔비디아와 협력한다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302220001</link>
-            <guid>https://www.bloter.net/newsView/blt202302220001</guid>
-            <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트(MS)가 게임업체 액티비전 블리자드(이하 블리자드) 인수를 위해 경쟁사인 엔비디아와 파트너십을 체결했다.   21일(현지시간) 두 회사는 공동 성명을 통해 MS 엑스박스(Xbox)의 인기 PC 게임을 엔비디아의 지포스나우 (GeForce NOW) 클라우드 게이밍 서비스]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
