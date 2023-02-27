@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 23:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 01:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인의 일본여행 러시, '마이너스 기준금리'도 바꿀까?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302260003</link>
+            <guid>https://www.bloter.net/newsView/blt202302260003</guid>
+            <pubDate>Mon, 27 Feb 2023 01:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-26 16:45:54</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/26/blt202302260007.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국서 아마존·월마트 제친 중국 쇼핑 앱 티무…인기 비결은?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240020</link>
+            <guid>https://www.bloter.net/newsView/blt202302240020</guid>
+            <pubDate>Mon, 27 Feb 2023 01:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-26 09:00:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240039.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[닌텐도, 슈퍼마리오로 엔터테인먼트 제국 구축 나선다]]></title>
             <link>https://www.bloter.net/newsView/blt202302240023</link>
@@ -38,22 +54,6 @@
             <pubDate>Sun, 26 Feb 2023 01:20:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-24 13:43:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240025.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT 열풍에 美 엔비디아 주가 급등]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240002</link>
-            <guid>https://www.bloter.net/newsView/blt202302240002</guid>
-            <pubDate>Sat, 25 Feb 2023 02:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-24 08:54:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240002.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["넷플릭스, 30여개국에서 구독료 최대 50% 인하"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240001</link>
-            <guid>https://www.bloter.net/newsView/blt202302240001</guid>
-            <pubDate>Fri, 24 Feb 2023 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-24 07:24:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240001.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 23:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 01:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 트위터 50명 이상 추가 감원…트위터 블루 담당자도 포함]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270003</link>
+            <guid>https://www.bloter.net/newsView/blt202302270003</guid>
+            <pubDate>Mon, 27 Feb 2023 01:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크가 이끄는 소셜미디어(SNS) 트위터가 직원 50명 이상을 추가 감원했다고 미국 IT전문매체 &lt;디인포메이션&gt;이 26일(이하 현지시간) 보도했다. 이번 해고는 머스크가 지난해 10월 트위터를 인수한 후 최소 8번째 이뤄지는 감원이다.   디인포메이션에 따르]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270002.293x165.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]'마피아42' 개발사가 만드는 MMORPG는?]]></title>
             <link>https://www.bloter.net/newsView/blt202302260004</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Feb 2023 01:16:20 GMT</pubDate>
             <content:encoded><![CDATA[숏폼 소셜미디어(SNS) 틱톡이 새로운 크리에이터 수익 배분 프로그램을 발표했다. 20일(현지시간) 틱톡은 미국에서 ‘크리에이티비티 프로그램’(Creativity Program) 베타 버전을 시행한다고 발표했다. 틱톡은 “이 프로그램은 크리에이터들이 수익화할 수 있는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 인스타·페이스북에 '유료 인증 서비스' 도입]]></title>
-            <link>https://www.bloter.net/newsView/blt202302200002</link>
-            <guid>https://www.bloter.net/newsView/blt202302200002</guid>
-            <pubDate>Mon, 20 Feb 2023 01:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어(SNS) 페이스북과 인스타그램 운영사 메타가 유료 인증 서비스 테스트를 시작한다.   19일(현지시간) &lt;씨엔비씨(CNBC)&gt;에 따르면 마크 저커버그 메타 최고경영자(CEO)는 인스타그램과 페이스북에 유료 인증 구독 서비스 '메타 베리파이드'를 출시한다고 발]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/20/blt202302200003.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
