@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 11:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 12:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스 2023]③'더 글로리 파트2' 다음은 '퀸메이커'?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270014</link>
+            <guid>https://www.bloter.net/newsView/blt202302270014</guid>
+            <pubDate>Mon, 27 Feb 2023 12:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스가 다음달 10일 오리지널 시리즈 '더 글로리 파트2'를 공개하는 가운데, 후속 한국 콘텐츠는 '퀸메이커(QUEEN MAKER)'가 될 것으로 예상된다. 퀸메이커는 서울 시장에 도전하는 인권 변호사와 이미지 메이커의 이야기를 통해 기존에 보기 힘든 '워맨스(우먼로맨]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월간마케터]김광수 BAT 퍼포먼스 부문 대표가 말하는 '데이터 기반 브랜딩'은?]]></title>
             <link>https://www.bloter.net/newsView/blt202302270016</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Feb 2023 09:22:05 GMT</pubDate>
             <content:encoded><![CDATA[데브시스터즈의 개발 자회사 프레스에이가 개발한 '데드사이드클럽(DEAE CIDE CLUB)'은 국내 게임업계에서 보기 힘든 융합 장르의 게임성을 전면에 내세웠다. 실제로 데드사이드클럽은 수 많은 좀비떼를 막아야하는 디펜스 모드부터 유저끼리 힘을 합쳐 상대 팀을 제압]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버 시리즈, '인생작 캠페인' 재개…첫 타자는 '수지']]></title>
-            <link>https://www.bloter.net/newsView/blt202302210016</link>
-            <guid>https://www.bloter.net/newsView/blt202302210016</guid>
-            <pubDate>Wed, 22 Feb 2023 01:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[네이버 시리즈가 2019년부터 매년 진행해온 '인생작 캠페인'을 재개한다. 2018년 리브랜딩 이후 첫 번째 캠페인으로 유명 배우들을 웹소설 콘텐츠와 접목한 '인생작을 만나다'를 선보인 네이버 시리즈는 올해도 화제의 인물을 통해 새로운 인생작을 선보일 계획이다.22]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/21/blt202302210019.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
