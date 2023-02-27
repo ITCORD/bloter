@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 09:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 10:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 트위터 50명 이상 추가 감원…트위터 블루 담당자도 포함]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270003</link>
+            <guid>https://www.bloter.net/newsView/blt202302270003</guid>
+            <pubDate>Mon, 27 Feb 2023 10:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-27 08:47:39</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270002.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[“애플, 이미 2세대 MR 헤드셋 개발 중”]]></title>
             <link>https://www.bloter.net/newsView/blt202302270002</link>
@@ -46,14 +54,6 @@
             <pubDate>Sun, 26 Feb 2023 23:15:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-25 11:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240046.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[포스코, 우수공급사 선정 대폭 확대...동반성장·ESG경영 강화]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240015</link>
-            <guid>https://www.bloter.net/newsView/blt202302240015</guid>
-            <pubDate>Sun, 26 Feb 2023 11:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">이일호</span>                        <span class="date">2023-02-24 18:00:24</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240033.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
