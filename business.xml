@@ -4,9 +4,25 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 04:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 05:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아이폰, Z세대·고급 스마트폰 시장 입지 강화하며 삼성 압박”]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280001</link>
+            <guid>https://www.bloter.net/newsView/blt202302280001</guid>
+            <pubDate>Tue, 28 Feb 2023 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-28 08:41:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280001.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[의료계 MRI 급여 축소…최종 목적은 건강보험료 동결?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270012</link>
+            <guid>https://www.bloter.net/newsView/blt202302270012</guid>
+            <pubDate>Tue, 28 Feb 2023 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-02-27 18:18:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270020.407x229.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022년 펀드 투자자 열 중 둘 "벌었어요" 여섯 "잃었어요"]]></title>
             <link>https://www.bloter.net/newsView/blt202302270015</link>
@@ -38,22 +54,6 @@
             <pubDate>Mon, 27 Feb 2023 10:19:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-27 08:47:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270002.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“애플, 이미 2세대 MR 헤드셋 개발 중”]]></title>
-            <link>https://www.bloter.net/newsView/blt202302270002</link>
-            <guid>https://www.bloter.net/newsView/blt202302270002</guid>
-            <pubDate>Mon, 27 Feb 2023 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-27 08:13:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2차전지 대표주 엘앤에프, 보수적 행보에도 증권가 ‘탑픽’인 이유? I Analyst 직격 인터뷰]]></title>
-            <link>https://www.bloter.net/newsView/blt202302230019</link>
-            <guid>https://www.bloter.net/newsView/blt202302230019</guid>
-            <pubDate>Mon, 27 Feb 2023 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-26 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230020.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
