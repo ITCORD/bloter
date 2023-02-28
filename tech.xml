@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 01:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“아이폰, Z세대·고급 스마트폰 시장 입지 강화하며 삼성 압박”]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280001</link>
+            <guid>https://www.bloter.net/newsView/blt202302280001</guid>
+            <pubDate>Tue, 28 Feb 2023 01:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-28 08:41:05</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스 2023]③'더 글로리 파트2' 다음은 '퀸메이커'?]]></title>
             <link>https://www.bloter.net/newsView/blt202302270014</link>
             <guid>https://www.bloter.net/newsView/blt202302270014</guid>
             <pubDate>Mon, 27 Feb 2023 12:33:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-27 21:03:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270014.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[의료계 MRI 급여 축소…최종 목적은 건강보험료 동결?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 24 Feb 2023 11:15:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-02-24 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240019.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한글과컴퓨터, 1200억원 실탄 '글로벌 SaaS'에 쏟는 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240019</link>
-            <guid>https://www.bloter.net/newsView/blt202302240019</guid>
-            <pubDate>Fri, 24 Feb 2023 09:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-24 18:12:14</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240038.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

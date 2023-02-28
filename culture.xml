@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 23:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 01:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美·EU 이어 캐나다도 정부 기기 '틱톡 금지령']]></title>
+            <link>https://www.bloter.net/newsView/blt202302280002</link>
+            <guid>https://www.bloter.net/newsView/blt202302280002</guid>
+            <pubDate>Tue, 28 Feb 2023 01:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국 연방정부와 유럽연합(EU) 집행위원회에 이어 캐나다 연방정부도 중국의 숏폼 소셜미디어(SNS) 틱톡 사용을 금지한다.27일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt; 등 주요 외신에 따르면 캐나다 정부는 틱톡에 대한 검토를 진행한 결과 틱톡이 “개인정보 보]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280002.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스 2023]③'더 글로리 파트2' 다음은 '퀸메이커'?]]></title>
             <link>https://www.bloter.net/newsView/blt202302270014</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 23 Feb 2023 23:20:13 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대 온라인동영상서비스(OTT) 넷플릭스가 최근 30여개 국가에서 요금을 인하했다고 23일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt;이 보도했다.    WSJ은 넷플릭스가 최근 몇 주에 걸쳐 중동, 아프리카, 유럽, 라틴아메리카, 아시아 시장의 일부 국가에서 월 구독]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰]데드사이드클럽 "지금까지 이런 슈팅게임은 없었다"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302220010</link>
-            <guid>https://www.bloter.net/newsView/blt202302220010</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[데브시스터즈의 개발 자회사 프레스에이가 개발한 '데드사이드클럽(DEAE CIDE CLUB)'은 국내 게임업계에서 보기 힘든 융합 장르의 게임성을 전면에 내세웠다. 실제로 데드사이드클럽은 수 많은 좀비떼를 막아야하는 디펜스 모드부터 유저끼리 힘을 합쳐 상대 팀을 제압]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/22/blt202302220011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
