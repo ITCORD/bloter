@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 22:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 23:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 중구서 살아남는 카페 되려면 매출 '상위 5%' 들어야]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280005</link>
+            <guid>https://www.bloter.net/newsView/blt202302280005</guid>
+            <pubDate>Tue, 28 Feb 2023 23:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-28 11:10:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美·EU 이어 캐나다도 정부 기기 '틱톡 금지령']]></title>
             <link>https://www.bloter.net/newsView/blt202302280002</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 28 Feb 2023 01:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-27 16:34:12</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270006.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실적·주가 쭉쭉 오르는 코리안리…매력 키우는 '공동재보험']]></title>
-            <link>https://www.bloter.net/newsView/blt202302260005</link>
-            <guid>https://www.bloter.net/newsView/blt202302260005</guid>
-            <pubDate>Tue, 28 Feb 2023 01:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-27 09:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/26/blt202302260013.407x229.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
