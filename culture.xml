@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 10:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라인게임즈, 법조계 출신 신임 대표 선임…IPO 속도 낸다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280022</link>
+            <guid>https://www.bloter.net/newsView/blt202302280022</guid>
+            <pubDate>Tue, 28 Feb 2023 10:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[라인게임즈가 법률 전문가를 신임 대표로 내정하며 상장 준비에 속도를 내는 모습이다. 투자은행(IB)업계에서는 상장 전 리더십을 교체한 라인게임즈가 시장의 예상대로 1조원대 기업가치를 인정받을 것인 지 주시하고 있다.  28일 라인게임즈는 "이사회와 주주총회]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280025.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 'F1, 본능의 질주' 시즌5 한국만 외면…등급심사 탓?]]></title>
             <link>https://www.bloter.net/newsView/blt202302280021</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 26 Feb 2023 05:17:04 GMT</pubDate>
             <content:encoded><![CDATA['티빙'이 웹툰 IP 오리지널 콘텐츠를 확대하며 본격적으로 OTT 수요층 확대에 나섰다. '술꾼 도시 여자들2'에 이어 '방과 후 전쟁활동'을 준비 중인 티빙은 웹툰 '운수 오진 날' IP 오리지널 콘텐츠를 편성하게 됐다.  운수 오진 날, 하반기 출격 웹툰 운수 오진 날은 2020]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/26/blt202302260003.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[닌텐도, 슈퍼마리오로 엔터테인먼트 제국 구축 나선다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240023</link>
-            <guid>https://www.bloter.net/newsView/blt202302240023</guid>
-            <pubDate>Sat, 25 Feb 2023 02:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[닌텐도가 주력 게임기인 ‘스위치’의 인기에 힘입어 미국 로스앤젤레스의 유니버설 스튜디오 할리우드에 ‘슈퍼 닌텐도 월드’를 지난 17일(현지시간)에 개장했다. 일본 오사카에 두번째다. 또 슈퍼마리오 지식재산권(IP)을 바탕으로 한 애니메이션 영]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240046.293x165.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
