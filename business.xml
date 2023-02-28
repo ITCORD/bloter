@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 01:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 펀드 투자자 열 중 둘 "벌었어요" 여섯 "잃었어요"]]></title>
+            <link>https://www.bloter.net/newsView/blt202302270015</link>
+            <guid>https://www.bloter.net/newsView/blt202302270015</guid>
+            <pubDate>Tue, 28 Feb 2023 02:48:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-27 18:04:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270017.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버페이 충전금 3개월만에 '1000억→1700억원'…비결 들어보니]]></title>
             <link>https://www.bloter.net/newsView/blt202302270008</link>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 27 Feb 2023 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-02-26 20:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/23/blt202302230020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인의 일본여행 러시, '마이너스 기준금리'도 바꿀까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302260003</link>
-            <guid>https://www.bloter.net/newsView/blt202302260003</guid>
-            <pubDate>Mon, 27 Feb 2023 01:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-26 16:45:54</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/26/blt202302260007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
