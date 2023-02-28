@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 06:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아태지역 진출 앞둔 테크 기업 주목해야 할 '테크플로머시'는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280015</link>
+            <guid>https://www.bloter.net/newsView/blt202302280015</guid>
+            <pubDate>Tue, 28 Feb 2023 06:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[테크플로머시(Techplomacy)는 기술 외교(technology diplomacy)의 혼성어로, 기술 산업에서 복잡해지는 지정학적 국제 관계 대처능력을 말한다. 국가별 정책이 상이한 것은 물론 최근 국제 관계가 복잡해짐에 따라 테크플로머시가 더욱 주목받고 있다. 28일 호프만에이전시는]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280011.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美·EU 이어 캐나다도 정부 기기 '틱톡 금지령']]></title>
             <link>https://www.bloter.net/newsView/blt202302280002</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 Feb 2023 04:21:19 GMT</pubDate>
             <content:encoded><![CDATA[24일 낮 열두 시 티빙 오리지널 시리즈 '아일랜드' 파트2의 7~8화가 공개된 가운데, 극 중 '요한'으로 출연한 그룹 아스트로 멤버 겸 배우 차은우가 얼마나 활약할 지 주목받고 있다. 파트1에서의 요한이 헤드셋을 끼고 구마의식을 행하는 '얼굴천재' 바티칸 최연소 구]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240013.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["넷플릭스, 30여개국에서 구독료 최대 50% 인하"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302240001</link>
-            <guid>https://www.bloter.net/newsView/blt202302240001</guid>
-            <pubDate>Thu, 23 Feb 2023 23:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대 온라인동영상서비스(OTT) 넷플릭스가 최근 30여개 국가에서 요금을 인하했다고 23일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt;이 보도했다.    WSJ은 넷플릭스가 최근 몇 주에 걸쳐 중동, 아프리카, 유럽, 라틴아메리카, 아시아 시장의 일부 국가에서 월 구독]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
