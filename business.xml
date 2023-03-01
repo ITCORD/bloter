@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
-    <title>블로터 ─ 비즈니스</title>
-    <updated>2023-03-01T07:18:27.965Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bloter.net/favicon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블로터 ─ 비즈니스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Mar 2023 08:22:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 반도체 제조 지원금 지침 공개...수혜기업, 10년간 中 반도체 시설 확장 불가]]></title>
+            <link>https://www.bloter.net/newsView/blt202303010002</link>
+            <guid>https://www.bloter.net/newsView/blt202303010002</guid>
+            <pubDate>Wed, 01 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-01 08:44:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/01/blt202303010002.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘게임맛집’ 컴투스, 본업과 신사업의 올해 전망은? I Analyst 직격 인터뷰]]></title>
+            <link>https://www.bloter.net/newsView/blt202302240004</link>
+            <guid>https://www.bloter.net/newsView/blt202302240004</guid>
+            <pubDate>Wed, 01 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이원종</span>                        <span class="date">2023-03-01 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/24/blt202302240006.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[같은 지붕 두 상장사 '카카오뱅크-카카오페이' 대출사업서 뭉쳤다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280013</link>
+            <guid>https://www.bloter.net/newsView/blt202302280013</guid>
+            <pubDate>Wed, 01 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-28 14:20:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280008.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만보기 대신 코빗으로 앱테크한다…'데일리 보너스 시즌2' 인기몰이]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280011</link>
+            <guid>https://www.bloter.net/newsView/blt202302280011</guid>
+            <pubDate>Wed, 01 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-28 13:53:12</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280006.407x229.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미모의 군인이 가상자산 투자를 권유한다? '로맨스 스캠'입니다]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280010</link>
+            <guid>https://www.bloter.net/newsView/blt202302280010</guid>
+            <pubDate>Wed, 01 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-28 13:52:03</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 중구서 살아남는 카페 되려면 매출 '상위 5%' 들어야]]></title>
+            <link>https://www.bloter.net/newsView/blt202302280005</link>
+            <guid>https://www.bloter.net/newsView/blt202302280005</guid>
+            <pubDate>Wed, 01 Mar 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-02-28 11:10:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
