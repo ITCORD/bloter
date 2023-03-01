@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bloter.net/section?id=sectionTech</id>
-    <title>블로터 ─ 테크 ─ 헤드라인</title>
-    <updated>2023-03-01T22:17:08.637Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bloter.net/favicon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블로터 ─ 테크 ─ 헤드라인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 01 Mar 2023 23:18:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손']]></title>
+            <link>https://www.bloter.net/newsView/blt202201170047</link>
+            <guid>https://www.bloter.net/newsView/blt202201170047</guid>
+            <pubDate>Wed, 01 Mar 2023 23:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">이건한</span>
+						<span class="date">2022-01-17 14:21:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170010.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예비유니콘 '그린랩스', 1700억원 투자유치…"인수합병·해외진출 가속화"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201170010</link>
+            <guid>https://www.bloter.net/newsView/blt202201170010</guid>
+            <pubDate>Wed, 01 Mar 2023 23:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>
+						<span class="date">2022-01-17 11:45:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170004.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰으로 시동 건다? "애플 디지털 키, 현대차에 적용될 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202201170006</link>
+            <guid>https://www.bloter.net/newsView/blt202201170006</guid>
+            <pubDate>Wed, 01 Mar 2023 23:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+						<span class="date">2022-01-17 10:40:15</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170003.282x159.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[월마트도 메타버스 사업화 눈독… 자체 코인·NFT 준비한다]]></title>
+            <link>https://www.bloter.net/newsView/blt202201170004</link>
+            <guid>https://www.bloter.net/newsView/blt202201170004</guid>
+            <pubDate>Wed, 01 Mar 2023 23:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+						<span class="date">2022-01-17 09:46:40</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
