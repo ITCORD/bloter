@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 10:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]네이버웹툰이 '아마추어 작가 창작 시스템' 오픈한 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202303020015</link>
+            <guid>https://www.bloter.net/newsView/blt202303020015</guid>
+            <pubDate>Thu, 02 Mar 2023 10:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[네이버웹툰이 '도전만화'와 '베스트도전' 작가 전용 창작 시스템인 '크리에이터스'를 2일 오픈했다. 크리에이터스는 도전만화와 베스트도전에서 활동하는 작가들의 작품 활동을 돕는 기능들을 원스톱으로 제공하는 시스템이다.  작가들은 크리에이터스의 '작품 통]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독]법원, '나는 신이다' 가처분 신청 '기각'…넷플릭스 "예정대로 공개"]]></title>
             <link>https://www.bloter.net/newsView/blt202303020009</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[김광수 BAT 퍼포먼스 부문 대표는 브랜딩 소재에 대해 '감'이 아닌 '데이터 분석'이 우선이라고 강조한다. 그는 데이터 자체에 매몰되는 것에서 벗어나 맥락을 파악하고 끊임 없이 반복해 시야를 넓혀야 한다고 조언했다.   직장인 커뮤니티 청년마케터는 마케터 실무]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270021.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[월간마케터]박기덕 밴스드 대표 "퍼포먼스 마케팅, 종말 아닌 기본"]]></title>
-            <link>https://www.bloter.net/newsView/blt202302270005</link>
-            <guid>https://www.bloter.net/newsView/blt202302270005</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[가장 빨라야 하는 마케터들은 늘 공부합니다. 마케터 커뮤니티 '청년마케터'는 다양한 분야의 마케터 전문가를 초청해 커리어와 직무 능력을 그로스(성장)할 수 있는 월간모임을 진행 중입니다. &lt;블로터&gt;는 월간모임 연사들의 릴레이 인터뷰를 통해 마케팅 트렌]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270004.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
