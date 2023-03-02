@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 22:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 23:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크, 인간 뇌에 칩 이식하는 실험 추진했지만 "美 FDA가 불허"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030001</link>
+            <guid>https://www.bloter.net/newsView/blt202303030001</guid>
+            <pubDate>Thu, 02 Mar 2023 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-03 08:07:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030001.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰이 '아마추어 작가 창작 시스템' 오픈한 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202303020015</link>
             <guid>https://www.bloter.net/newsView/blt202303020015</guid>
             <pubDate>Thu, 02 Mar 2023 10:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-02 18:19:12</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스웨덴 투자사는 SK쉴더스 기업가치를 어떻게 5조원으로 평가했나]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-28 15:11:59</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280011.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘빚내서 빚 갚는’ LS전선, 커진 재무부담에도 ‘현금창출력’ 자신]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280014</link>
-            <guid>https://www.bloter.net/newsView/blt202302280014</guid>
-            <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-02-28 15:00:27</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280009.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
