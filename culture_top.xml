@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bloter.net/section?id=sectionCulture</id>
-    <title>블로터 ─ 컬처 ─ 헤드라인</title>
-    <updated>2023-03-02T04:21:32.853Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bloter.net/favicon.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>블로터 ─ 컬처 ─ 헤드라인</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 02 Mar 2023 05:16:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]에버소울, 리니지2M 매출 넘었다…서브컬쳐 적중]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130018</link>
+            <guid>https://www.bloter.net/newsView/blt202301130018</guid>
+            <pubDate>Thu, 02 Mar 2023 05:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="date"></span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130042.601x301.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[공시분석]오브젠, 아쉬움 남긴 공모가 1만8000원]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130013</link>
+            <guid>https://www.bloter.net/newsView/blt202301130013</guid>
+            <pubDate>Thu, 02 Mar 2023 05:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>
+                        <span class="date">2023-01-13 18:06:25</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130028.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[체질 개선 나선 메조미디어, '애드테크 전문가' 김승현 대표 선임]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130007</link>
+            <guid>https://www.bloter.net/newsView/blt202301130007</guid>
+            <pubDate>Thu, 02 Mar 2023 05:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>
+                        <span class="date">2023-01-13 16:50:24</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130025.282x159.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글·엔비디아, MS-블리자드 인수에 우려 표출]]></title>
+            <link>https://www.bloter.net/newsView/blt202301130001</link>
+            <guid>https://www.bloter.net/newsView/blt202301130001</guid>
+            <pubDate>Thu, 02 Mar 2023 05:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>
+                        <span class="date">2023-01-13 08:05:56</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
