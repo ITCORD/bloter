@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 06:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 07:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현금 6조원 보유한 LG전자, 회사채 7000억원 발행한 이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202303020007</link>
+            <guid>https://www.bloter.net/newsView/blt202303020007</guid>
+            <pubDate>Thu, 02 Mar 2023 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-02 15:41:51</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020008.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KT 대표 후보 분석]①현대차로 갔던 '전략통' 윤경림 사장 재영입한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202303020006</link>
             <guid>https://www.bloter.net/newsView/blt202303020006</guid>
             <pubDate>Thu, 02 Mar 2023 03:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-02 12:20:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오헬스케어, ‘의료 정보 비대칭성 해결’ 위해 제시한 두 사업은?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-02-28 08:41:05</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280001.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스 2023]③'더 글로리 파트2' 다음은 '퀸메이커'?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302270014</link>
-            <guid>https://www.bloter.net/newsView/blt202302270014</guid>
-            <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-02-27 21:03:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270014.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
