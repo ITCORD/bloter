@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 06:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 07:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클라우드 보안 전문' 아쿠아시큐리티, 한국 매출 200% 성장 자신한 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030009</link>
+            <guid>https://www.bloter.net/newsView/blt202303030009</guid>
+            <pubDate>Fri, 03 Mar 2023 07:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-03 15:27:17</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030012.620x344.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘전장’에 미래 건 LG전자, 자회사 수익성 개선 ‘안간힘’]]></title>
             <link>https://www.bloter.net/newsView/blt202303030007</link>
             <guid>https://www.bloter.net/newsView/blt202303030007</guid>
             <pubDate>Fri, 03 Mar 2023 06:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-03 14:59:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030010.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유한양행, 김열홍 R&D 전담 사장 임명…암질심 위원 적극 영입하는 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-02-28 18:09:30</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280022.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널코퍼레이션, '채널벤처스' 설립…B2B SaaS 기업 키운다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280018</link>
-            <guid>https://www.bloter.net/newsView/blt202302280018</guid>
-            <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-28 17:37:30</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
