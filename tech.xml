@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 21:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 22:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서정진 셀트리온그룹 명예회장 복귀…전략 다변화·3사 합병 신호탄?]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030011</link>
+            <guid>https://www.bloter.net/newsView/blt202303030011</guid>
+            <pubDate>Fri, 03 Mar 2023 22:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-04 07:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넘버스]폐기물 산업 밸류체인에서 '리코'는 어떤 역할을 할까]]></title>
             <link>https://www.bloter.net/newsView/blt202303030005</link>
             <guid>https://www.bloter.net/newsView/blt202303030005</guid>
             <pubDate>Fri, 03 Mar 2023 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-03-03 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030005.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030005.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT 대표 후보 분석]②'IT·보안 전문'에 소통 추가한 신수정 부사장]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-01 19:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/01/blt202303010014.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서빙·방역·배송' 다하는 KT 로봇 플랫폼…수익은 어떻게 만들어내나?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280020</link>
-            <guid>https://www.bloter.net/newsView/blt202302280020</guid>
-            <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-01 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280018.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
