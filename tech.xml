@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 23:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 03:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 챗GPT 적용한 이메일 앱 업데이트 거부]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030002</link>
+            <guid>https://www.bloter.net/newsView/blt202303030002</guid>
+            <pubDate>Fri, 03 Mar 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-03 08:58:35</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030002.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크, 인간 뇌에 칩 이식하는 실험 추진했지만 "美 FDA가 불허"]]></title>
             <link>https://www.bloter.net/newsView/blt202303030001</link>
             <guid>https://www.bloter.net/newsView/blt202303030001</guid>
-            <pubDate>Thu, 02 Mar 2023 23:16:56 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 03:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-03 08:07:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030001.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030001.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰이 '아마추어 작가 창작 시스템' 오픈한 이유는?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-02-28 17:33:31</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280021.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아태지역 진출 앞둔 테크 기업 주목해야 할 '테크플로머시'는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280015</link>
-            <guid>https://www.bloter.net/newsView/blt202302280015</guid>
-            <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-02-28 15:11:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
