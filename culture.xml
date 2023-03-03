@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오~컬쳐]액토즈, 스위스 자회사 통해 블록체인 게임 노크한 까닭은]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030013</link>
+            <guid>https://www.bloter.net/newsView/blt202303030013</guid>
+            <pubDate>Fri, 03 Mar 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[액토즈소프트가 스위스에 위치한 자회사를 통해 블록체인 게임 사업에 도전한다. 블록체인 게임에 도전하는 게임사들이 기존 콘텐츠에 블록체인 기술을 더해 빠르게 시장 진입을 노렸다면, 액토즈소프트의 경우 개발 단계부터 신규 IP를 발굴하고 관련 시스템을 더]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030023.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]네이버웹툰이 '아마추어 작가 창작 시스템' 오픈한 이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202303020015</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 다음달 10일 오리지널 시리즈 '더 글로리 파트2'를 공개하는 가운데, 후속 한국 콘텐츠는 '퀸메이커(QUEEN MAKER)'가 될 것으로 예상된다. 퀸메이커는 서울 시장에 도전하는 인권 변호사와 이미지 메이커의 이야기를 통해 기존에 보기 힘든 '워맨스(우먼로맨]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270014.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[월간마케터]김광수 BAT 퍼포먼스 부문 대표가 말하는 '데이터 기반 브랜딩'은?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302270016</link>
-            <guid>https://www.bloter.net/newsView/blt202302270016</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[김광수 BAT 퍼포먼스 부문 대표는 브랜딩 소재에 대해 '감'이 아닌 '데이터 분석'이 우선이라고 강조한다. 그는 데이터 자체에 매몰되는 것에서 벗어나 맥락을 파악하고 끊임 없이 반복해 시야를 넓혀야 한다고 조언했다.   직장인 커뮤니티 청년마케터는 마케터 실무]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/27/blt202302270021.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
