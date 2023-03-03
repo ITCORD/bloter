@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 10:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 11:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넘버스]폐기물 산업 밸류체인에서 '리코'는 어떤 역할을 할까]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030005</link>
+            <guid>https://www.bloter.net/newsView/blt202303030005</guid>
+            <pubDate>Fri, 03 Mar 2023 11:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">황금빛</span>                        <span class="date">2023-03-03 20:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030005.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KT 대표 후보 분석]②'IT·보안 전문'에 소통 추가한 신수정 부사장]]></title>
             <link>https://www.bloter.net/newsView/blt202303030017</link>
             <guid>https://www.bloter.net/newsView/blt202303030017</guid>
             <pubDate>Fri, 03 Mar 2023 10:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-03 18:44:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030033.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030033.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]액토즈, 스위스 자회사 통해 블록체인 게임 노크한 까닭은]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-01 14:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280018.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매출·수익성 급증 삼성전자 하만, '미운오리' 평가가 뒤바뀌고 있다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280019</link>
-            <guid>https://www.bloter.net/newsView/blt202302280019</guid>
-            <pubDate>Wed, 01 Mar 2023 20:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-01 13:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280014.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
