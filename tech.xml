@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 22:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 23:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中, 외국 기업 투자 유치 총력…'탈중국 막아라']]></title>
+            <link>https://www.bloter.net/newsView/blt202303030016</link>
+            <guid>https://www.bloter.net/newsView/blt202303030016</guid>
+            <pubDate>Sat, 04 Mar 2023 23:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-05 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030038.620x344.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[공기업 아닌 '민영 기업' KT 향한 윤석열정부의 간섭…"피해자는 국민"]]></title>
             <link>https://www.bloter.net/newsView/blt202303040001</link>
             <guid>https://www.bloter.net/newsView/blt202303040001</guid>
             <pubDate>Sat, 04 Mar 2023 06:19:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-04 15:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/04/blt202303040001.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/04/blt202303040001.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<상>]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 02 Mar 2023 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-02 15:41:51</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020008.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KT 대표 후보 분석]①현대차로 갔던 '전략통' 윤경림 사장 재영입한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020006</link>
-            <guid>https://www.bloter.net/newsView/blt202303020006</guid>
-            <pubDate>Thu, 02 Mar 2023 03:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-02 12:20:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
