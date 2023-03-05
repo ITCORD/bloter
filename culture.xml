@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 23:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 01:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브·SM 의상에 코오롱FnC 래코드가 새긴 숫자 '1']]></title>
+            <link>https://www.bloter.net/newsView/blt202303040002</link>
+            <guid>https://www.bloter.net/newsView/blt202303040002</guid>
+            <pubDate>Sun, 05 Mar 2023 01:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[코오롱인더스트리FnC부문(이하 코오롱FnC)의 업사이클링 기반 패션 브랜드 '래코드'가 방탄소년단이 입었던 무대의상에 이어 슈퍼주니어와 엑소, NCT(엔시티)의 무대의상에도 숫자 '1'을 새겼다. 숫자 1은 세상에 단 하나밖에 없는 디자인이라는 의미로, 래코드는 케이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/04/blt202303040004.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<상>]]></title>
             <link>https://www.bloter.net/newsView/blt202303030020</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[테크플로머시(Techplomacy)는 기술 외교(technology diplomacy)의 혼성어로, 기술 산업에서 복잡해지는 지정학적 국제 관계 대처능력을 말한다. 국가별 정책이 상이한 것은 물론 최근 국제 관계가 복잡해짐에 따라 테크플로머시가 더욱 주목받고 있다. 28일 호프만에이전시는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美·EU 이어 캐나다도 정부 기기 '틱톡 금지령']]></title>
-            <link>https://www.bloter.net/newsView/blt202302280002</link>
-            <guid>https://www.bloter.net/newsView/blt202302280002</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방정부와 유럽연합(EU) 집행위원회에 이어 캐나다 연방정부도 중국의 숏폼 소셜미디어(SNS) 틱톡 사용을 금지한다.27일(이하 현지시간) &lt;월스트리트저널(WSJ)&gt; 등 주요 외신에 따르면 캐나다 정부는 틱톡에 대한 검토를 진행한 결과 틱톡이 “개인정보 보]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280002.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
