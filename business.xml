@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 06:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 07:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주총 의결권 따러 홍콩 가는 SM엔터…'조지슨' 붙잡았다]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030014</link>
+            <guid>https://www.bloter.net/newsView/blt202303030014</guid>
+            <pubDate>Sun, 05 Mar 2023 07:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-03 18:45:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030027.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대차 금융, 자동차 할부금리 1%P 인하…성수기 잡고 금감원 눈도장]]></title>
             <link>https://www.bloter.net/newsView/blt202303030003</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 03 Mar 2023 05:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-02 18:12:53</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해운업황 심상찮다…산은·해진공, HMM 적기 매각 '맞손']]></title>
-            <link>https://www.bloter.net/newsView/blt202303020013</link>
-            <guid>https://www.bloter.net/newsView/blt202303020013</guid>
-            <pubDate>Fri, 03 Mar 2023 03:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-02 17:39:16</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020014.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
