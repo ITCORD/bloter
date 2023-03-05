@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 22:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 23:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中, 외국 기업 투자 유치 총력…'탈중국 막아라']]></title>
+            <link>https://www.bloter.net/newsView/blt202303030016</link>
+            <guid>https://www.bloter.net/newsView/blt202303030016</guid>
+            <pubDate>Sun, 05 Mar 2023 23:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-05 08:00:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030038.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[주총 의결권 따러 홍콩 가는 SM엔터…'조지슨' 붙잡았다]]></title>
             <link>https://www.bloter.net/newsView/blt202303030014</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 03 Mar 2023 10:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">강예지</span>                        <span class="date">2023-03-03 08:00:02</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/01/blt202303010015.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이 교통사고 오히려 '스쿨존'에서 크게 다친다]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020014</link>
-            <guid>https://www.bloter.net/newsView/blt202303020014</guid>
-            <pubDate>Fri, 03 Mar 2023 05:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-02 18:12:53</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
