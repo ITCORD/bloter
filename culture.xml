@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 01:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 02:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['예스24'가 사원 출신 상무를 대표 후보로 내정한 까닭은]]></title>
+            <link>https://www.bloter.net/newsView/blt202303060001</link>
+            <guid>https://www.bloter.net/newsView/blt202303060001</guid>
+            <pubDate>Mon, 06 Mar 2023 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA['인터넷 서점' 예스24가 리더십 변화를 통해 '문화 콘텐츠 플랫폼' 도약에 나선다.   6일 예스24는 "이사회를 통해 최세라 도서사업부문 상무를 신임 각자대표이사 후보자로 내정했다"며 "김석환 각자대표이사도 기존 대표직을 유지할 예정"이라고 밝혔다. 예스24가 최]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<하>]]></title>
             <link>https://www.bloter.net/newsView/blt202303030022</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스가 지난 24일 오리지널 웹 다큐멘터리 시리즈 'F1, 본능의 질주' 시즌5를 공개한 가운데, 한국만 글로벌 공개 일정에서 제외됐다. 넷플릭스서비시스코리아는 한국 시청자들에게 별다른 설명없이 돌연 공개 일자만 한 달 뒤로 변경해, 한국 시청자들은 영문도]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280022.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널코퍼레이션, '채널벤처스' 설립…B2B SaaS 기업 키운다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280018</link>
-            <guid>https://www.bloter.net/newsView/blt202302280018</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA['스타트업을 위한 스타트업'을 표방하는 채널코퍼레이션이 B2B SaaS 기업을 키우는 엑셀러레이터로 나선다. 채널코퍼레이션은 성장 노하우를 공유해 초기 단계인 B2B SaaS 시장을 키운다는 목표를 내세웠다.  28일 관련 업계에 따르면 채널코퍼레이션이 '채널벤처스'를]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280016.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
