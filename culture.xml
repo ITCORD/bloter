@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 10:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]엔데믹에도 역부족?...CGV의 봄은 언제]]></title>
+            <link>https://www.bloter.net/newsView/blt202303060010</link>
+            <guid>https://www.bloter.net/newsView/blt202303060010</guid>
+            <pubDate>Mon, 06 Mar 2023 10:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 극장가 겨울이 계속되고 있습니다. 지난해 4분기 다시 적자 전환한 CGV는 일단 채무보증을 일부 연장했는데, 향후 블록버스터 대작 영화의 유무가 실적 개선의 관건으로 꼽힙니다.  오늘 살펴볼 공시는 CJ C]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060020.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['예스24'가 사원 출신 상무를 대표 후보로 내정한 까닭은]]></title>
             <link>https://www.bloter.net/newsView/blt202303060001</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[라인게임즈가 법률 전문가를 신임 대표로 내정하며 상장 준비에 속도를 내는 모습이다. 투자은행(IB)업계에서는 상장 전 리더십을 교체한 라인게임즈가 시장의 예상대로 1조원대 기업가치를 인정받을 것인 지 주시하고 있다.  28일 라인게임즈는 "이사회와 주주총회]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280025.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 'F1, 본능의 질주' 시즌5 한국만 외면…등급심사 탓?]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280021</link>
-            <guid>https://www.bloter.net/newsView/blt202302280021</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 지난 24일 오리지널 웹 다큐멘터리 시리즈 'F1, 본능의 질주' 시즌5를 공개한 가운데, 한국만 글로벌 공개 일정에서 제외됐다. 넷플릭스서비시스코리아는 한국 시청자들에게 별다른 설명없이 돌연 공개 일자만 한 달 뒤로 변경해, 한국 시청자들은 영문도]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280022.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
