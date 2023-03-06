@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 08:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -402,18 +402,26 @@ SM엔터테인먼트의 의결권 대리행사 권유업무 대리인 목록.(�
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[보건의료 리포트] 길 잃은 ‘혁신형 제약기업’, 변신의 갈림길 서다 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303060008</link>
+            <guid>https://www.bloter.net/newsView/blt202303060008</guid>
+            <pubDate>Mon, 06 Mar 2023 09:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-06 17:43:37</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060013.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[‘재고·채권 줄이고 공장 임대하고’…LGD식 재무건전성 회복 방정식 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303060005</link>
             <guid>https://www.bloter.net/newsView/blt202303060005</guid>
-            <pubDate>Mon, 06 Mar 2023 08:21:04 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 08:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-06 17:02:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060006.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060006.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KT 대표 후보 분석]④임헌문 전 사장, '마케팅 전문성' 인정받지만…'쪼개기 후원 연루'는 뇌관 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303060006</link>
             <guid>https://www.bloter.net/newsView/blt202303060006</guid>
-            <pubDate>Mon, 06 Mar 2023 08:21:04 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 08:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-06 16:58:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060016.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -536,14 +544,6 @@ SM엔터테인먼트의 의결권 대리행사 권유업무 대리인 목록.(�
             <pubDate>Fri, 03 Mar 2023 07:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-03 15:27:17</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030012.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전장’에 미래 건 LG전자, 자회사 수익성 개선 ‘안간힘’ (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030007</link>
-            <guid>https://www.bloter.net/newsView/blt202303030007</guid>
-            <pubDate>Fri, 03 Mar 2023 06:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-03 14:59:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030010.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
