@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 10:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 11:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070024</link>
+            <guid>https://www.bloter.net/newsView/blt202303070024</guid>
+            <pubDate>Tue, 07 Mar 2023 11:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내서도 다양한 업계서 고객데이터플랫폼(CDP) 도입이 확산되고 있는 가운데, 트레저데이터코리아가 CDP2.0 시대를 외쳤다. CDP를 솔루션의 하나로 도입하고 끝이 아닌 데이터를 어떻게 활용할지부터 고민해야 한다고 강조한 것이다. 회사는 세그먼트 분석, 고객동의]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070045.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와디즈, '공간' 찾아 LG유플러스와 맞손…기업 협업 경험 빛 볼까]]></title>
             <link>https://www.bloter.net/newsView/blt202303070020</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Mar 2023 10:20:08 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰이 '도전만화'와 '베스트도전' 작가 전용 창작 시스템인 '크리에이터스'를 2일 오픈했다. 크리에이터스는 도전만화와 베스트도전에서 활동하는 작가들의 작품 활동을 돕는 기능들을 원스톱으로 제공하는 시스템이다.  작가들은 크리에이터스의 '작품 통]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]법원, '나는 신이다' 가처분 신청 '기각'…넷플릭스 "예정대로 공개"]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020009</link>
-            <guid>https://www.bloter.net/newsView/blt202303020009</guid>
-            <pubDate>Thu, 02 Mar 2023 08:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[법원이 '기독교복음선교회(통칭 JMS)'가 낸 '나는 신이다: 신이 배신한 사람들(이하 나는 신이다)' 방송금치 가처분 신청에 대해 기각 판결을 내렸다. 이에 따라 넷플릭스는 예정대로 오는 3일 나는 신이다를 공개할 예정이다.  앞서 지난달 JMS는 서울서부지방법원에 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

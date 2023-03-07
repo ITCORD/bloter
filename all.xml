@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 10:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 11:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,18 +401,26 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070024</link>
+            <guid>https://www.bloter.net/newsView/blt202303070024</guid>
+            <pubDate>Tue, 07 Mar 2023 11:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-03-07 19:29:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070045.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안 한다던 ’물적분할’…DB하이텍은 왜 다시 꺼냈을까? (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303070023</link>
             <guid>https://www.bloter.net/newsView/blt202303070023</guid>
-            <pubDate>Tue, 07 Mar 2023 10:18:44 GMT</pubDate>
+            <pubDate>Tue, 07 Mar 2023 10:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-07 18:33:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070042.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070042.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT 차기 대표이사 최종 후보는 '윤경림 사장' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303070022</link>
             <guid>https://www.bloter.net/newsView/blt202303070022</guid>
-            <pubDate>Tue, 07 Mar 2023 10:18:44 GMT</pubDate>
+            <pubDate>Tue, 07 Mar 2023 10:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-07 18:32:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -535,14 +543,6 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <pubDate>Sun, 05 Mar 2023 23:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 07:43:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050003.290x163.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<하> (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030022</link>
-            <guid>https://www.bloter.net/newsView/blt202303030022</guid>
-            <pubDate>Sun, 05 Mar 2023 11:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-03-05 20:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030037.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -820,6 +820,14 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070024</link>
+            <guid>https://www.bloter.net/newsView/blt202303070024</guid>
+            <pubDate>Tue, 07 Mar 2023 11:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[국내서도 다양한 업계서 고객데이터플랫폼(CDP) 도입이 확산되고 있는 가운데, 트레저데이터코리아가 CDP2.0 시대를 외쳤다. CDP를 솔루션의 하나로 도입하고 끝이 아닌 데이터를 어떻게 활용할지부터 고민해야 한다고 강조한 것이다. 회사는 세그먼트 분석, 고객동의]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070045.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[와디즈, '공간' 찾아 LG유플러스와 맞손…기업 협업 경험 빛 볼까 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202303070020</link>
             <guid>https://www.bloter.net/newsView/blt202303070020</guid>
@@ -906,14 +914,6 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <pubDate>Thu, 02 Mar 2023 10:18:35 GMT</pubDate>
             <content:encoded><![CDATA[네이버웹툰이 '도전만화'와 '베스트도전' 작가 전용 창작 시스템인 '크리에이터스'를 2일 오픈했다. 크리에이터스는 도전만화와 베스트도전에서 활동하는 작가들의 작품 활동을 돕는 기능들을 원스톱으로 제공하는 시스템이다.  작가들은 크리에이터스의 '작품 통]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]법원, '나는 신이다' 가처분 신청 '기각'…넷플릭스 "예정대로 공개" (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020009</link>
-            <guid>https://www.bloter.net/newsView/blt202303020009</guid>
-            <pubDate>Thu, 02 Mar 2023 08:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[법원이 '기독교복음선교회(통칭 JMS)'가 낸 '나는 신이다: 신이 배신한 사람들(이하 나는 신이다)' 방송금치 가처분 신청에 대해 기각 판결을 내렸다. 이에 따라 넷플릭스는 예정대로 오는 3일 나는 신이다를 공개할 예정이다.  앞서 지난달 JMS는 서울서부지방법원에 ']]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020012.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<하> (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
