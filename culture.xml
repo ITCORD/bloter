@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 08:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 09:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와디즈, '공간' 찾아 LG유플러스와 맞손…기업 협업 경험 빛 볼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070020</link>
+            <guid>https://www.bloter.net/newsView/blt202303070020</guid>
+            <pubDate>Tue, 07 Mar 2023 09:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[펀딩 플랫폼 와디즈가 LG유플러스와 공간을 공유하자는 내용에 합의했다. 와디즈와 LG유플러스의 이번 협업은 오프라인 매장이 시급한 와디즈의 필요만 충족하는 것이 아닌, 지난해 정기 구독 서비스를 론칭한 LG유플러스의 사업과도 결이 맞다고 풀이된다. 특히 LG]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070040.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]스마일게이트, AI 핀테크 기업에 300억 베팅…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202303070018</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Mar 2023 08:21:58 GMT</pubDate>
             <content:encoded><![CDATA[법원이 '기독교복음선교회(통칭 JMS)'가 낸 '나는 신이다: 신이 배신한 사람들(이하 나는 신이다)' 방송금치 가처분 신청에 대해 기각 판결을 내렸다. 이에 따라 넷플릭스는 예정대로 오는 3일 나는 신이다를 공개할 예정이다.  앞서 지난달 JMS는 서울서부지방법원에 ']]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020012.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든에 '틱톡 금지' 권한 부여하는 법안 美하원 외교위 통과]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020001</link>
-            <guid>https://www.bloter.net/newsView/blt202303020001</guid>
-            <pubDate>Thu, 02 Mar 2023 01:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[미국에서 조 바이든 대통령에게 중국의 숏폼 소셜미디어(SNS) 플랫폼 틱톡을 전면 금지하는 권한을 주는 법안이 하원 외교위원회를 통과했다.  1일(현지시간) 외교위는 틱톡을 비롯해 국가 안보에 위협이 된다고 간주되는 애플리케이션(앱)을 바이든 행정부가 금지할]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020001.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

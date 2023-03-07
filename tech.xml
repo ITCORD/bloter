@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 08:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 09:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와디즈, '공간' 찾아 LG유플러스와 맞손…기업 협업 경험 빛 볼까]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070020</link>
+            <guid>https://www.bloter.net/newsView/blt202303070020</guid>
+            <pubDate>Tue, 07 Mar 2023 09:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-03-07 17:36:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070040.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]스마일게이트, AI 핀테크 기업에 300억 베팅…왜?]]></title>
             <link>https://www.bloter.net/newsView/blt202303070018</link>
             <guid>https://www.bloter.net/newsView/blt202303070018</guid>
             <pubDate>Tue, 07 Mar 2023 08:23:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-07 16:29:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘기술 인재’ 강조한 이재용 회장, 이번엔 ‘구미전자공고’ 찾았다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 05 Mar 2023 03:00:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-05 12:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/04/blt202303040013.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[中, 외국 기업 투자 유치 총력…'탈중국 막아라']]></title>
-            <link>https://www.bloter.net/newsView/blt202303030016</link>
-            <guid>https://www.bloter.net/newsView/blt202303030016</guid>
-            <pubDate>Sat, 04 Mar 2023 23:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-05 08:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030038.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
