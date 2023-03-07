@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 04:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LoL, 163번째 챔피언 '밀리오' 공개 "서포터로 딱"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070008</link>
+            <guid>https://www.bloter.net/newsView/blt202303070008</guid>
+            <pubDate>Tue, 07 Mar 2023 05:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[라이엇게임즈가 '리그 오브 레전드(LoL)' 163번째 챔피언 '밀리오(Milio)'를 공개했다. 밀리오는 '만능 서포터형' 챔피언으로 오는 8일 테스트 서버(PBE)에서 처음 오픈된 후 23일 13.6 패치를 통해 라이브 서버에 업데이트될 예정이다. 밀리오, 만능 서포터인 이유 렉시 가오]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070014.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]엔데믹에도 역부족?...CGV의 봄은 언제]]></title>
             <link>https://www.bloter.net/newsView/blt202303060010</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[지난 2018년 종영한 OCN 드라마 '플레이어'가 후속 시즌 제작을 확정한 가운데, 편성 채널을 변경할 가능성이 제기됐다. 최근 방송 채널 방영과 OTT 동시(혹은 순차) 공개하는 '멀티 채널' 형태가 일반화된 만큼, '플레이어2'도 '대세에 합류할 것'이라는 목소리가 나오고]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/01/blt202303010011.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라인게임즈, 법조계 출신 신임 대표 선임…IPO 속도 낸다]]></title>
-            <link>https://www.bloter.net/newsView/blt202302280022</link>
-            <guid>https://www.bloter.net/newsView/blt202302280022</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[라인게임즈가 법률 전문가를 신임 대표로 내정하며 상장 준비에 속도를 내는 모습이다. 투자은행(IB)업계에서는 상장 전 리더십을 교체한 라인게임즈가 시장의 예상대로 1조원대 기업가치를 인정받을 것인 지 주시하고 있다.  28일 라인게임즈는 "이사회와 주주총회]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/02/28/blt202302280025.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 04:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 05:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골드만삭스, 6년 만에 애플 '매수' 추천…이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070004</link>
+            <guid>https://www.bloter.net/newsView/blt202303070004</guid>
+            <pubDate>Tue, 07 Mar 2023 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-07 09:14:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070011.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라 또 가격 내렸다…미국서 모델S·모델X 판매가 인하]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070001</link>
+            <guid>https://www.bloter.net/newsView/blt202303070001</guid>
+            <pubDate>Tue, 07 Mar 2023 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-07 08:19:34</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070001.407x229.0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[수익 목마른 증권업계 "규제 샌드박스 넘어 '토큰증권' 특례 만들어야"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303060009</link>
+            <guid>https://www.bloter.net/newsView/blt202303060009</guid>
+            <pubDate>Tue, 07 Mar 2023 05:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-06 19:09:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060018.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 수입차 신규등록 2만1622대...BMW 1위]]></title>
             <link>https://www.bloter.net/newsView/blt202303060004</link>
@@ -30,30 +54,6 @@
             <pubDate>Tue, 07 Mar 2023 01:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 07:43:06</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050003.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 '투자자의 날’ 엇갈린 평가…“반값 신차 없어 실망” vs “차세대 모델 무대 마련”]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030012</link>
-            <guid>https://www.bloter.net/newsView/blt202303030012</guid>
-            <pubDate>Mon, 06 Mar 2023 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-05 16:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030020.407x229.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드는 내 신용카드 한도를 왜 갑자기 줄였을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202303050001</link>
-            <guid>https://www.bloter.net/newsView/blt202303050001</guid>
-            <pubDate>Mon, 06 Mar 2023 07:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-05 14:00:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050001.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브·SM 의상에 코오롱FnC 래코드가 새긴 숫자 '1']]></title>
-            <link>https://www.bloter.net/newsView/blt202303040002</link>
-            <guid>https://www.bloter.net/newsView/blt202303040002</guid>
-            <pubDate>Mon, 06 Mar 2023 01:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-03-05 10:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/04/blt202303040004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
