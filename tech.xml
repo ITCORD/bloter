@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 23:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 01:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골드만삭스, 6년 만에 애플 '매수' 추천…이유는?]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070004</link>
+            <guid>https://www.bloter.net/newsView/blt202303070004</guid>
+            <pubDate>Tue, 07 Mar 2023 01:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-07 09:14:42</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070011.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[보건의료 리포트] 길 잃은 ‘혁신형 제약기업’, 변신의 갈림길 서다]]></title>
             <link>https://www.bloter.net/newsView/blt202303060008</link>
             <guid>https://www.bloter.net/newsView/blt202303060008</guid>
             <pubDate>Mon, 06 Mar 2023 09:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-06 17:43:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060013.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060013.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘재고·채권 줄이고 공장 임대하고’…LGD식 재무건전성 회복 방정식]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Fri, 03 Mar 2023 09:17:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-03 17:44:23</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030023.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['클라우드 보안 전문' 아쿠아시큐리티, 한국 매출 200% 성장 자신한 이유]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030009</link>
-            <guid>https://www.bloter.net/newsView/blt202303030009</guid>
-            <pubDate>Fri, 03 Mar 2023 07:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-03 15:27:17</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030012.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
