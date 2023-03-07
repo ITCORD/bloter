@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 06:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대차 코나 EV 2년만에 부활…HDA2·V2L 탑재 눈길]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070003</link>
+            <guid>https://www.bloter.net/newsView/blt202303070003</guid>
+            <pubDate>Tue, 07 Mar 2023 07:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-07 10:03:00</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골드만삭스, 6년 만에 애플 '매수' 추천…이유는?]]></title>
             <link>https://www.bloter.net/newsView/blt202303070004</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 07 Mar 2023 01:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 09:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050004.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[제2본사 빌딩 공사 연기하는 아마존…빅테크 사무실 축소 의미는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202303050002</link>
-            <guid>https://www.bloter.net/newsView/blt202303050002</guid>
-            <pubDate>Tue, 07 Mar 2023 01:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 07:43:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050003.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
