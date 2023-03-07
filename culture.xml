@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공시분석]스마일게이트, AI 핀테크 기업에 300억 베팅…왜?]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070018</link>
+            <guid>https://www.bloter.net/newsView/blt202303070018</guid>
+            <pubDate>Tue, 07 Mar 2023 08:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[알아두면 도움이 될 의미있는 공시를 소개·분석합니다. 오늘(7일) 살펴볼 공시는 '바이브컴퍼니' 종속회사인 '퀀팃'의 '유상증자결정'에 대한 사항입니다. 해당 공시에 따르면 퀀팃은 제3자배정 유상증자를 위해 신주 376만8844주를 발행하고 이를 통해 약 300억원]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LoL, 163번째 챔피언 '밀리오' 공개 "서포터로 딱"]]></title>
             <link>https://www.bloter.net/newsView/blt202303070008</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060020.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['예스24'가 사원 출신 상무를 대표 후보로 내정한 까닭은]]></title>
+            <title><![CDATA[예스24, '사원 출신 상무' 대표 후보로 내정한 이유는]]></title>
             <link>https://www.bloter.net/newsView/blt202303060001</link>
             <guid>https://www.bloter.net/newsView/blt202303060001</guid>
             <pubDate>Mon, 06 Mar 2023 02:52:02 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 02 Mar 2023 01:20:10 GMT</pubDate>
             <content:encoded><![CDATA[미국에서 조 바이든 대통령에게 중국의 숏폼 소셜미디어(SNS) 플랫폼 틱톡을 전면 금지하는 권한을 주는 법안이 하원 외교위원회를 통과했다.  1일(현지시간) 외교위는 틱톡을 비롯해 국가 안보에 위협이 된다고 간주되는 애플리케이션(앱)을 바이든 행정부가 금지할]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020001.293x165.0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]'플레이어2', OCN 아닌 tvN·디즈니+ 조합 택할까]]></title>
-            <link>https://www.bloter.net/newsView/blt202303010007</link>
-            <guid>https://www.bloter.net/newsView/blt202303010007</guid>
-            <pubDate>Wed, 01 Mar 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2018년 종영한 OCN 드라마 '플레이어'가 후속 시즌 제작을 확정한 가운데, 편성 채널을 변경할 가능성이 제기됐다. 최근 방송 채널 방영과 OTT 동시(혹은 순차) 공개하는 '멀티 채널' 형태가 일반화된 만큼, '플레이어2'도 '대세에 합류할 것'이라는 목소리가 나오고]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/01/blt202303010011.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
