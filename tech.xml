@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 13:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 14:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT 차기 대표 최종 후보 윤경림 사장 누구?…하나로텔·CJ·현대차 거친 '전략통']]></title>
+            <link>https://www.bloter.net/newsView/blt202303070025</link>
+            <guid>https://www.bloter.net/newsView/blt202303070025</guid>
+            <pubDate>Tue, 07 Mar 2023 14:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-07 23:12:59</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070047.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202303070024</link>
             <guid>https://www.bloter.net/newsView/blt202303070024</guid>
             <pubDate>Tue, 07 Mar 2023 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">유다정</span>                        <span class="date">2023-03-07 19:29:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070045.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070045.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안 한다던 ’물적분할’…DB하이텍은 왜 다시 꺼냈을까?]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Mon, 06 Mar 2023 01:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 09:00:01</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050004.290x163.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[제2본사 빌딩 공사 연기하는 아마존…빅테크 사무실 축소 의미는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202303050002</link>
-            <guid>https://www.bloter.net/newsView/blt202303050002</guid>
-            <pubDate>Sun, 05 Mar 2023 23:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 07:43:06</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050003.290x163.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
