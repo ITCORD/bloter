@@ -4,9 +4,25 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 01:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 "트위터, 비용 절감 조치 없었으면 파산했을 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080002</link>
+            <guid>https://www.bloter.net/newsView/blt202303080002</guid>
+            <pubDate>Wed, 08 Mar 2023 01:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 트위터 최고경영자(CEO)가 회사가 비용을 공격적으로 절감하고 있으며 다음 분기에 긍정적인 현금흐름을 창출할 가능성이 있다고 주장했다.7일(이하 현지시간) 머스크는 투자은행 모건스탠리가 주최한 온라인 컨퍼런스에 참석해 "내가 회사 지출을 줄이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080002.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美상원, 틱톡 금지하는 초당적 법안 발의…백악관 "신속한 처리 촉구"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080001</link>
+            <guid>https://www.bloter.net/newsView/blt202303080001</guid>
+            <pubDate>Wed, 08 Mar 2023 01:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 상원에서 중국 숏폼 동영상 공유 플랫폼 틱톡을 금지하는 초당적 법안이 발의됐다.7일(현지시간) &lt;월스트리트저널(WSJ)&gt;에 따르면 ‘정보통신기술 보안 위협 제한법’(RESTRICT)은 미국 상무부에 외국 기술로 인해 발생하는 보안에 대응할 수 있는 권한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080001.293x165.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202303070024</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 04 Mar 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA["작업 한 건당 한두 번은 드롭박스 덕분에 살렸다"한복 일러스트로 유명한 흑요석(우나영 씨)이 작가 생활 초기부터 드롭박스를 이용하고 있다고 밝혔다. 협업툴로 진화한 드롭박스는 클라우드 서비스에서 시작한 만큼 대용량의 파일도 안정적으로 공유할 수 있는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]액토즈, 스위스 자회사 통해 블록체인 게임 노크한 까닭은]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030013</link>
-            <guid>https://www.bloter.net/newsView/blt202303030013</guid>
-            <pubDate>Fri, 03 Mar 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[액토즈소프트가 스위스에 위치한 자회사를 통해 블록체인 게임 사업에 도전한다. 블록체인 게임에 도전하는 게임사들이 기존 콘텐츠에 블록체인 기술을 더해 빠르게 시장 진입을 노렸다면, 액토즈소프트의 경우 개발 단계부터 신규 IP를 발굴하고 관련 시스템을 더]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버웹툰이 '아마추어 작가 창작 시스템' 오픈한 이유는?]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020015</link>
-            <guid>https://www.bloter.net/newsView/blt202303020015</guid>
-            <pubDate>Thu, 02 Mar 2023 10:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰이 '도전만화'와 '베스트도전' 작가 전용 창작 시스템인 '크리에이터스'를 2일 오픈했다. 크리에이터스는 도전만화와 베스트도전에서 활동하는 작가들의 작품 활동을 돕는 기능들을 원스톱으로 제공하는 시스템이다.  작가들은 크리에이터스의 '작품 통]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.293x165.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

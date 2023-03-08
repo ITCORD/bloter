@@ -4,16 +4,32 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 01:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머스크 "트위터, 비용 절감 조치 없었으면 파산했을 것"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080002</link>
+            <guid>https://www.bloter.net/newsView/blt202303080002</guid>
+            <pubDate>Wed, 08 Mar 2023 01:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-08 09:17:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美상원, 틱톡 금지하는 초당적 법안 발의…백악관 "신속한 처리 촉구"]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080001</link>
+            <guid>https://www.bloter.net/newsView/blt202303080001</guid>
+            <pubDate>Wed, 08 Mar 2023 01:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-08 08:22:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080001.290x163.0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['KT 차기 대표 최종 후보' 윤경림 사장 누구?…하나로텔·CJ·현대차 거친 '전략통']]></title>
             <link>https://www.bloter.net/newsView/blt202303070025</link>
             <guid>https://www.bloter.net/newsView/blt202303070025</guid>
             <pubDate>Tue, 07 Mar 2023 14:16:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-07 23:12:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070047.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유]]></title>
@@ -134,22 +150,6 @@
             <pubDate>Mon, 06 Mar 2023 08:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-06 16:58:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24, '사원 출신 상무' 대표 후보로 내정한 이유는]]></title>
-            <link>https://www.bloter.net/newsView/blt202303060001</link>
-            <guid>https://www.bloter.net/newsView/blt202303060001</guid>
-            <pubDate>Mon, 06 Mar 2023 02:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-06 11:02:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 제재 피해간 샤오미, 中 반도체 산업 지원 위해 펀드 조성]]></title>
-            <link>https://www.bloter.net/newsView/blt202303050003</link>
-            <guid>https://www.bloter.net/newsView/blt202303050003</guid>
-            <pubDate>Mon, 06 Mar 2023 01:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050004.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 01:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,40 +281,64 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070013.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스마일게이트, AI 핀테크 기업에 300억 베팅…왜? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070018</link>
-            <guid>https://www.bloter.net/newsView/blt202303070018</guid>
-            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-07 16:29:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스타리아 닮은 현대차 트럭 포착…PBV 사업 핵심되나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080003</link>
+            <guid>https://www.bloter.net/newsView/blt202303080003</guid>
+            <pubDate>Wed, 08 Mar 2023 01:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 10:08:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080003.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[②7종 직접 해보니…개발자 '땀방울' 느껴진 버닝비버 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212230011</link>
-            <guid>https://www.bloter.net/newsView/blt202212230011</guid>
-            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차 코나 EV 2년만에 부활…HDA2·V2L 탑재 눈길 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070003</link>
+            <guid>https://www.bloter.net/newsView/blt202303070003</guid>
+            <pubDate>Tue, 07 Mar 2023 01:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[①스마일게이트, 가로수길에 80개 부스 모은 이유 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202212180005</link>
-            <guid>https://www.bloter.net/newsView/blt202212180005</guid>
-            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차 금융, 자동차 할부금리 1%P 인하…성수기 잡고 금감원 눈도장 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030003</link>
+            <guid>https://www.bloter.net/newsView/blt202303030003</guid>
+            <pubDate>Fri, 03 Mar 2023 04:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[금융에 눈 뜬 스마일게이트, 핀테크펀드 투자 본격화 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202209290014</link>
-            <guid>https://www.bloter.net/newsView/blt202209290014</guid>
-            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차그룹 '재무통' 이규복, 현대글로비스 대표이사 선임 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211300007</link>
+            <guid>https://www.bloter.net/newsView/blt202211300007</guid>
+            <pubDate>Wed, 08 Mar 2023 01:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['로스트아크' 어디까지 성장할까 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202204130133</link>
-            <guid>https://www.bloter.net/newsView/blt202204130133</guid>
-            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[현대차그룹·SK온, 美 전기차 시장 공략 위해 손잡았다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202211290015</link>
+            <guid>https://www.bloter.net/newsView/blt202211290015</guid>
+            <pubDate>Wed, 08 Mar 2023 01:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘기술 인재’ 강조한 이재용 회장, 이번엔 ‘구미전자공고’ 찾았다 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070016</link>
+            <guid>https://www.bloter.net/newsView/blt202303070016</guid>
+            <pubDate>Tue, 07 Mar 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-07 16:28:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070038.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기아 쏘렌토 페이스리프트 포착…텔루라이드·EV9 이미지 혼합 (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070017</link>
+            <guid>https://www.bloter.net/newsView/blt202303070017</guid>
+            <pubDate>Tue, 07 Mar 2023 10:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-07 16:07:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070033.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT 주가는 떨어졌는데 KTis는 왜 38.8%나 올랐을까? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070011</link>
+            <guid>https://www.bloter.net/newsView/blt202303070011</guid>
+            <pubDate>Tue, 07 Mar 2023 05:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-07 13:55:11</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070028.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토스플레이스 단말기서 결제하면 '덤터기 사고' 막을 수 있다 (블로터 ─ 비즈니스)]]></title>
@@ -339,30 +363,6 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <pubDate>Tue, 07 Mar 2023 01:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-07 10:03:00</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골드만삭스, 6년 만에 애플 '매수' 추천…이유는? (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070004</link>
-            <guid>https://www.bloter.net/newsView/blt202303070004</guid>
-            <pubDate>Tue, 07 Mar 2023 01:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-07 09:14:42</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070011.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 또 가격 내렸다…미국서 모델S·모델X 판매가 인하 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070001</link>
-            <guid>https://www.bloter.net/newsView/blt202303070001</guid>
-            <pubDate>Tue, 07 Mar 2023 01:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-07 08:19:34</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[수익 목마른 증권업계 "규제 샌드박스 넘어 '토큰증권' 특례 만들어야" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303060009</link>
-            <guid>https://www.bloter.net/newsView/blt202303060009</guid>
-            <pubDate>Mon, 06 Mar 2023 10:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-06 19:09:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060018.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -401,12 +401,28 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[머스크 "트위터, 비용 절감 조치 없었으면 파산했을 것" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080002</link>
+            <guid>https://www.bloter.net/newsView/blt202303080002</guid>
+            <pubDate>Wed, 08 Mar 2023 01:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-08 09:17:45</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080002.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美상원, 틱톡 금지하는 초당적 법안 발의…백악관 "신속한 처리 촉구" (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080001</link>
+            <guid>https://www.bloter.net/newsView/blt202303080001</guid>
+            <pubDate>Wed, 08 Mar 2023 01:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-08 08:22:55</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080001.290x163.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['KT 차기 대표 최종 후보' 윤경림 사장 누구?…하나로텔·CJ·현대차 거친 '전략통' (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303070025</link>
             <guid>https://www.bloter.net/newsView/blt202303070025</guid>
             <pubDate>Tue, 07 Mar 2023 14:14:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-07 23:12:59</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070047.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070047.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유 (블로터 ─ 테크)]]></title>
@@ -527,22 +543,6 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <pubDate>Mon, 06 Mar 2023 08:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-06 16:58:49</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060016.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예스24, '사원 출신 상무' 대표 후보로 내정한 이유는 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303060001</link>
-            <guid>https://www.bloter.net/newsView/blt202303060001</guid>
-            <pubDate>Mon, 06 Mar 2023 02:50:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-06 11:02:37</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060001.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 제재 피해간 샤오미, 中 반도체 산업 지원 위해 펀드 조성 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303050003</link>
-            <guid>https://www.bloter.net/newsView/blt202303050003</guid>
-            <pubDate>Mon, 06 Mar 2023 01:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-06 09:00:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/05/blt202303050004.290x163.0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -820,6 +820,22 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[머스크 "트위터, 비용 절감 조치 없었으면 파산했을 것" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080002</link>
+            <guid>https://www.bloter.net/newsView/blt202303080002</guid>
+            <pubDate>Wed, 08 Mar 2023 01:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[일론 머스크 트위터 최고경영자(CEO)가 회사가 비용을 공격적으로 절감하고 있으며 다음 분기에 긍정적인 현금흐름을 창출할 가능성이 있다고 주장했다.7일(이하 현지시간) 머스크는 투자은행 모건스탠리가 주최한 온라인 컨퍼런스에 참석해 "내가 회사 지출을 줄이]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080002.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[美상원, 틱톡 금지하는 초당적 법안 발의…백악관 "신속한 처리 촉구" (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080001</link>
+            <guid>https://www.bloter.net/newsView/blt202303080001</guid>
+            <pubDate>Wed, 08 Mar 2023 01:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[미국 상원에서 중국 숏폼 동영상 공유 플랫폼 틱톡을 금지하는 초당적 법안이 발의됐다.7일(현지시간) &lt;월스트리트저널(WSJ)&gt;에 따르면 ‘정보통신기술 보안 위협 제한법’(RESTRICT)은 미국 상무부에 외국 기술로 인해 발생하는 보안에 대응할 수 있는 권한]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080001.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[현장+]"도입했다고 끝 아냐" 트레저데이터, CDP2.0 외친 이유 (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202303070024</link>
             <guid>https://www.bloter.net/newsView/blt202303070024</guid>
@@ -898,22 +914,6 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <pubDate>Sat, 04 Mar 2023 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA["작업 한 건당 한두 번은 드롭박스 덕분에 살렸다"한복 일러스트로 유명한 흑요석(우나영 씨)이 작가 생활 초기부터 드롭박스를 이용하고 있다고 밝혔다. 협업툴로 진화한 드롭박스는 클라우드 서비스에서 시작한 만큼 대용량의 파일도 안정적으로 공유할 수 있는]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030035.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]액토즈, 스위스 자회사 통해 블록체인 게임 노크한 까닭은 (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030013</link>
-            <guid>https://www.bloter.net/newsView/blt202303030013</guid>
-            <pubDate>Fri, 03 Mar 2023 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[액토즈소프트가 스위스에 위치한 자회사를 통해 블록체인 게임 사업에 도전한다. 블록체인 게임에 도전하는 게임사들이 기존 콘텐츠에 블록체인 기술을 더해 빠르게 시장 진입을 노렸다면, 액토즈소프트의 경우 개발 단계부터 신규 IP를 발굴하고 관련 시스템을 더]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030023.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]네이버웹툰이 '아마추어 작가 창작 시스템' 오픈한 이유는? (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303020015</link>
-            <guid>https://www.bloter.net/newsView/blt202303020015</guid>
-            <pubDate>Thu, 02 Mar 2023 10:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[네이버웹툰이 '도전만화'와 '베스트도전' 작가 전용 창작 시스템인 '크리에이터스'를 2일 오픈했다. 크리에이터스는 도전만화와 베스트도전에서 활동하는 작가들의 작품 활동을 돕는 기능들을 원스톱으로 제공하는 시스템이다.  작가들은 크리에이터스의 '작품 통]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/02/blt202303020019.293x165.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<하> (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
