@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 08:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 09:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타리아 닮은 현대차 트럭 포착…PBV 사업 핵심되나]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080003</link>
+            <guid>https://www.bloter.net/newsView/blt202303080003</guid>
+            <pubDate>Wed, 08 Mar 2023 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 10:08:13</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080003.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머스크 "트위터, 비용 절감 조치 없었으면 파산했을 것"]]></title>
             <link>https://www.bloter.net/newsView/blt202303080002</link>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 08 Mar 2023 01:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-07 16:07:55</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070033.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 주가는 떨어졌는데 KTis는 왜 38.8%나 올랐을까?]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070011</link>
-            <guid>https://www.bloter.net/newsView/blt202303070011</guid>
-            <pubDate>Wed, 08 Mar 2023 01:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-07 13:55:11</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070028.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
