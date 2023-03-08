@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 01:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 03:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,12 +281,26 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070013.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스타리아 닮은 현대차 트럭 포착…PBV 사업 핵심되나 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303080003</link>
-            <guid>https://www.bloter.net/newsView/blt202303080003</guid>
-            <pubDate>Wed, 08 Mar 2023 01:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 10:08:13</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080003.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국전기차사용자협회, EV 트렌드 코리아 2023 참가 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303080004</link>
+            <guid>https://www.bloter.net/newsView/blt202303080004</guid>
+            <pubDate>Wed, 08 Mar 2023 02:54:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 10:25:22</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080007.570x320.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기아 쏘렌토 페이스리프트 포착…텔루라이드·EV9 이미지 혼합 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070017</link>
+            <guid>https://www.bloter.net/newsView/blt202303070017</guid>
+            <pubDate>Tue, 07 Mar 2023 10:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지프 첫 전기차 어벤저, 국내 시장서 통할까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070009</link>
+            <guid>https://www.bloter.net/newsView/blt202303070009</guid>
+            <pubDate>Tue, 07 Mar 2023 08:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대차 코나 EV 2년만에 부활…HDA2·V2L 탑재 눈길 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
@@ -296,25 +310,19 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대차 금융, 자동차 할부금리 1%P 인하…성수기 잡고 금감원 눈도장 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030003</link>
-            <guid>https://www.bloter.net/newsView/blt202303030003</guid>
-            <pubDate>Fri, 03 Mar 2023 04:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹 '재무통' 이규복, 현대글로비스 대표이사 선임 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211300007</link>
-            <guid>https://www.bloter.net/newsView/blt202211300007</guid>
-            <pubDate>Wed, 08 Mar 2023 01:18:58 GMT</pubDate>
+            <title><![CDATA[포스코케미칼·GM 합작사 '얼티엄캠' 출범...2025년 GM EV 생산량의 22% 소화 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202205270101</link>
+            <guid>https://www.bloter.net/newsView/blt202205270101</guid>
+            <pubDate>Wed, 08 Mar 2023 02:54:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대차그룹·SK온, 美 전기차 시장 공략 위해 손잡았다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202211290015</link>
-            <guid>https://www.bloter.net/newsView/blt202211290015</guid>
-            <pubDate>Wed, 08 Mar 2023 01:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">구태우</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[스마일게이트, AI 핀테크 기업에 300억 베팅…왜? (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070018</link>
+            <guid>https://www.bloter.net/newsView/blt202303070018</guid>
+            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-07 16:29:02</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘기술 인재’ 강조한 이재용 회장, 이번엔 ‘구미전자공고’ 찾았다 (블로터 ─ 비즈니스)]]></title>
@@ -355,14 +363,6 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <pubDate>Tue, 07 Mar 2023 08:22:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-07 13:30:58</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070018.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차 코나 EV 2년만에 부활…HDA2·V2L 탑재 눈길 (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070003</link>
-            <guid>https://www.bloter.net/newsView/blt202303070003</guid>
-            <pubDate>Tue, 07 Mar 2023 01:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-07 10:03:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070002.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
@@ -823,7 +823,7 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <title><![CDATA[머스크 "트위터, 비용 절감 조치 없었으면 파산했을 것" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202303080002</link>
             <guid>https://www.bloter.net/newsView/blt202303080002</guid>
-            <pubDate>Wed, 08 Mar 2023 01:21:41 GMT</pubDate>
+            <pubDate>Wed, 08 Mar 2023 01:19:22 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크 트위터 최고경영자(CEO)가 회사가 비용을 공격적으로 절감하고 있으며 다음 분기에 긍정적인 현금흐름을 창출할 가능성이 있다고 주장했다.7일(이하 현지시간) 머스크는 투자은행 모건스탠리가 주최한 온라인 컨퍼런스에 참석해 "내가 회사 지출을 줄이]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080002.293x165.0.png" length="0" type="image/png"/>
         </item>
@@ -831,7 +831,7 @@ Q. 한국하면 떠오르는 일러스트레이터가 된 소감은 어떠한가
             <title><![CDATA[美상원, 틱톡 금지하는 초당적 법안 발의…백악관 "신속한 처리 촉구" (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202303080001</link>
             <guid>https://www.bloter.net/newsView/blt202303080001</guid>
-            <pubDate>Wed, 08 Mar 2023 01:21:41 GMT</pubDate>
+            <pubDate>Wed, 08 Mar 2023 01:19:22 GMT</pubDate>
             <content:encoded><![CDATA[미국 상원에서 중국 숏폼 동영상 공유 플랫폼 틱톡을 금지하는 초당적 법안이 발의됐다.7일(현지시간) &lt;월스트리트저널(WSJ)&gt;에 따르면 ‘정보통신기술 보안 위협 제한법’(RESTRICT)은 미국 상무부에 외국 기술로 인해 발생하는 보안에 대응할 수 있는 권한]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080001.293x165.0.png" length="0" type="image/png"/>
         </item>
