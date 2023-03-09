@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 16:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이언메이스-넥슨 '무단유출 공방' 속 하이브IM 지목된 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202303100002</link>
+            <guid>https://www.bloter.net/newsView/blt202303100002</guid>
+            <pubDate>Thu, 09 Mar 2023 17:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-03-10 01:36:46</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/10/blt202303100001.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]데드사이드클럽, 기존 슈팅게임과 어떻게 다를까]]></title>
             <link>https://www.bloter.net/newsView/blt202303090017</link>
             <guid>https://www.bloter.net/newsView/blt202303090017</guid>
             <pubDate>Thu, 09 Mar 2023 10:19:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-09 18:28:43</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090023.620x344.0.png" length="0" type="image/png"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090023.290x163.0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['유정란 백신 명가' GC녹십자가 mRNA 독감백신을 개발하는 이유]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 07 Mar 2023 10:18:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">김수민</span>                        <span class="date">2023-03-07 18:33:13</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070042.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT 차기 대표이사 최종 후보는 '윤경림 사장']]></title>
-            <link>https://www.bloter.net/newsView/blt202303070022</link>
-            <guid>https://www.bloter.net/newsView/blt202303070022</guid>
-            <pubDate>Tue, 07 Mar 2023 10:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-07 18:32:39</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070044.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

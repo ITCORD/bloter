@@ -4,9 +4,17 @@
         <title>블로터 ─ 컬처</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 16:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 17:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이언메이스-넥슨 '무단유출 공방' 속 하이브IM 지목된 이유는]]></title>
+            <link>https://www.bloter.net/newsView/blt202303100002</link>
+            <guid>https://www.bloter.net/newsView/blt202303100002</guid>
+            <pubDate>Thu, 09 Mar 2023 17:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[넥슨이 자사 미공개 신규개발 프로젝트를 유출해 '다크 앤 다커'를 개발했다며 개발사 아이언메이스과 정보 무단 반출 공방을 벌이고 있는 가운데, 엔터 플랫폼 기업 하이브가 양사 간 프로젝트 무단 유출 공방의 배후로 지목됐다. 지난 9일 오후 아이언메이스가 공]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/10/blt202303100001.293x165.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오~컬쳐]데드사이드클럽, 기존 슈팅게임과 어떻게 다를까]]></title>
             <link>https://www.bloter.net/newsView/blt202303090017</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 06 Mar 2023 02:52:02 GMT</pubDate>
             <content:encoded><![CDATA['인터넷 서점' 예스24가 리더십 변화를 통해 '문화 콘텐츠 플랫폼' 도약에 나선다.   6일 예스24는 "이사회를 통해 최세라 도서사업부문 상무를 신임 각자대표이사 후보자로 내정했다"며 "김석환 각자대표이사도 기존 대표직을 유지할 예정"이라고 밝혔다. 예스24가 최]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/06/blt202303060001.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오~컬쳐]헐크가 '샤라웃'한 흑요석 작가, '드롭박스' 쓰는 이유<하>]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030022</link>
-            <guid>https://www.bloter.net/newsView/blt202303030022</guid>
-            <pubDate>Sun, 05 Mar 2023 11:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 작가 중 한 사람인 김영하 씨가 한 방송에서 '소설 쓰기에서 제일 중요한 것 중 하나'로 꼽은 요소가 있다. 바로 '백업(저장하기)'이다. '흑요석' 우나영 작가 또한 10여년 동안 전 세계로 출장을 다니며 드롭박스의 동기화 기능을 적극 활용해 작업을 날리지]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030037.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
