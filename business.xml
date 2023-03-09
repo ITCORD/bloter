@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 06:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 07:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“수소 충전 1만원” 공고에 스트레스 커진 수소차 오너]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090002</link>
+            <guid>https://www.bloter.net/newsView/blt202303090002</guid>
+            <pubDate>Thu, 09 Mar 2023 07:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-09 09:36:01</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090002.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KB금융, 너무 눈에 띈 자회사 배당…금감원 현장검사 마무리 직전 '대폭 축소']]></title>
             <link>https://www.bloter.net/newsView/blt202303080014</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 09 Mar 2023 01:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 14:53:48</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국전기차사용자협회, EV 트렌드 코리아 2023 참가]]></title>
-            <link>https://www.bloter.net/newsView/blt202303080004</link>
-            <guid>https://www.bloter.net/newsView/blt202303080004</guid>
-            <pubDate>Thu, 09 Mar 2023 01:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 10:25:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080007.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
