@@ -4,9 +4,17 @@
         <title>블로터 ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 08:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 09:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포드 머스탱 마하 E·루시드 에어, LG엔솔 부스서 국내 첫 전시]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090004</link>
+            <guid>https://www.bloter.net/newsView/blt202303090004</guid>
+            <pubDate>Thu, 09 Mar 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-09 14:21:10</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090005.407x229.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탈중국 나선 애플, "인도 시장 집중 위해 해외 사업부 개편"]]></title>
             <link>https://www.bloter.net/newsView/blt202303090003</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 09 Mar 2023 01:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 18:05:45</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 신입사원 공채 서류전형 통과하려면?…'업무 관련 강점' 서술하라]]></title>
-            <link>https://www.bloter.net/newsView/blt202303080006</link>
-            <guid>https://www.bloter.net/newsView/blt202303080006</guid>
-            <pubDate>Thu, 09 Mar 2023 01:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-08 15:26:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080012.407x229.0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
