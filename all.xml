@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,40 +261,48 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090004.291x174.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국민의힘 '김기현號' 뜨자…총선 출마 부정 않는 이복현 금감원장 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303090006</link>
-            <guid>https://www.bloter.net/newsView/blt202303090006</guid>
-            <pubDate>Thu, 09 Mar 2023 06:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-09 14:53:50</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090010.570x320.0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[청주시 ‘테슬라 인베스터 데이’ 출장, 결국 아무 성과 없었다 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090014</link>
+            <guid>https://www.bloter.net/newsView/blt202303090014</guid>
+            <pubDate>Thu, 09 Mar 2023 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-09 17:06:52</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090020.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KB금융, 너무 눈에 띈 자회사 배당…금감원 현장검사 마무리 직전 '대폭 축소' (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303080014</link>
-            <guid>https://www.bloter.net/newsView/blt202303080014</guid>
-            <pubDate>Thu, 09 Mar 2023 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[美당국, 테슬라 주행보조장치 특별조사 착수…주행 중 운전대 분리된 모델Y도 조사 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090001</link>
+            <guid>https://www.bloter.net/newsView/blt202303090001</guid>
+            <pubDate>Thu, 09 Mar 2023 01:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[현대차 금융, 자동차 할부금리 1%P 인하…성수기 잡고 금감원 눈도장 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303030003</link>
-            <guid>https://www.bloter.net/newsView/blt202303030003</guid>
-            <pubDate>Fri, 03 Mar 2023 04:46:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라 또 가격 내렸다…미국서 모델S·모델X 판매가 인하 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303070001</link>
+            <guid>https://www.bloter.net/newsView/blt202303070001</guid>
+            <pubDate>Thu, 09 Mar 2023 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SM도 '주인 없는 회사' 됐는데…이복현 금감원장 작심발언, 영향줄까? (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302220013</link>
-            <guid>https://www.bloter.net/newsView/blt202302220013</guid>
-            <pubDate>Thu, 09 Mar 2023 06:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라 '투자자의 날’ 엇갈린 평가…“반값 신차 없어 실망” vs “차세대 모델 무대 마련” (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303030012</link>
+            <guid>https://www.bloter.net/newsView/blt202303030012</guid>
+            <pubDate>Thu, 09 Mar 2023 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA["은행은 공공재"…'윤심' 대변하는 이복현 금감원장 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
-            <link>https://www.bloter.net/newsView/blt202302060012</link>
-            <guid>https://www.bloter.net/newsView/blt202302060012</guid>
-            <pubDate>Thu, 09 Mar 2023 06:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date"></span>]]></content:encoded>
+            <title><![CDATA[테슬라 "차세대 모델 조립비용 절반으로 줄인다"…'반값 전기차' 공개는 아직 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303020003</link>
+            <guid>https://www.bloter.net/newsView/blt202303020003</guid>
+            <pubDate>Thu, 09 Mar 2023 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탈중국 나선 애플, "인도 시장 집중 위해 해외 사업부 개편" (블로터 ─ 비즈니스)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090003</link>
+            <guid>https://www.bloter.net/newsView/blt202303090003</guid>
+            <pubDate>Thu, 09 Mar 2023 01:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-09 09:36:21</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090004.407x229.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“수소 충전 1만원” 공고에 스트레스 커진 수소차 오너 (블로터 ─ 비즈니스)]]></title>
@@ -337,14 +345,6 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080012.407x229.0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[쉐보레 트랙스 크로스오버 출시 임박…GM "글로벌 수요 충족 기대" (블로터 ─ 비즈니스)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303080005</link>
-            <guid>https://www.bloter.net/newsView/blt202303080005</guid>
-            <pubDate>Wed, 08 Mar 2023 17:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 14:53:48</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080008.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[상호 지분 취득한 KT·신한은행, 23개 디지털 대전환 '맞손' (블로터 ─ 테크 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202201170047</link>
             <guid>https://www.bloter.net/newsView/blt202201170047</guid>
@@ -381,12 +381,20 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA['유정란 백신 명가' GC녹십자가 mRNA 독감백신을 개발하는 이유 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090013</link>
+            <guid>https://www.bloter.net/newsView/blt202303090013</guid>
+            <pubDate>Thu, 09 Mar 2023 08:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-09 17:19:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[공시분석]'토종 ERP' 더존비즈온이 의사 사외이사를 찜한 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303090007</link>
             <guid>https://www.bloter.net/newsView/blt202303090007</guid>
             <pubDate>Thu, 09 Mar 2023 06:20:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-09 14:58:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TV는 ‘거거익선’이라는 삼성전자, 초대형 OLED까지 잡았다 (블로터 ─ 테크)]]></title>
@@ -515,14 +523,6 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <pubDate>Tue, 07 Mar 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-03-07 17:36:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]스마일게이트, AI 핀테크 기업에 300억 베팅…왜? (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070018</link>
-            <guid>https://www.bloter.net/newsView/blt202303070018</guid>
-            <pubDate>Tue, 07 Mar 2023 08:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-07 16:29:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>

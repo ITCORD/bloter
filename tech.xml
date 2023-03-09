@@ -4,16 +4,24 @@
         <title>블로터 ─ 테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유정란 백신 명가' GC녹십자가 mRNA 독감백신을 개발하는 이유]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090013</link>
+            <guid>https://www.bloter.net/newsView/blt202303090013</guid>
+            <pubDate>Thu, 09 Mar 2023 08:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-09 17:19:36</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090019.620x344.0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[공시분석]'토종 ERP' 더존비즈온이 의사 사외이사를 찜한 이유]]></title>
             <link>https://www.bloter.net/newsView/blt202303090007</link>
             <guid>https://www.bloter.net/newsView/blt202303090007</guid>
             <pubDate>Thu, 09 Mar 2023 06:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-09 14:58:38</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090011.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090011.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TV는 ‘거거익선’이라는 삼성전자, 초대형 OLED까지 잡았다]]></title>
@@ -142,14 +150,6 @@
             <pubDate>Tue, 07 Mar 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-03-07 17:36:22</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070040.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공시분석]스마일게이트, AI 핀테크 기업에 300억 베팅…왜?]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070018</link>
-            <guid>https://www.bloter.net/newsView/blt202303070018</guid>
-            <pubDate>Tue, 07 Mar 2023 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-07 16:29:02</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070035.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
