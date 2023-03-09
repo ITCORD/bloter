@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 09:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 10:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,7 +264,7 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <title><![CDATA[전기차 충전 솔루션 에바, 셀렉트테크 코리아 피칭대회 1등 차지 (블로터 ─ 비즈니스 ─ 헤드라인)]]></title>
             <link>https://www.bloter.net/newsView/blt202303090016</link>
             <guid>https://www.bloter.net/newsView/blt202303090016</guid>
-            <pubDate>Thu, 09 Mar 2023 09:18:40 GMT</pubDate>
+            <pubDate>Thu, 09 Mar 2023 09:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-09 17:35:29</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090022.570x320.0.jpg" length="0" type="image/jpg"/>
         </item>
@@ -381,12 +381,20 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <enclosure url="https://www.bloter.net/data/blt/image/2022/01/17/blt202201170002.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[오~컬쳐]데드사이드클럽, 기존 슈팅게임과 어떻게 다를까 (블로터 ─ 테크)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090017</link>
+            <guid>https://www.bloter.net/newsView/blt202303090017</guid>
+            <pubDate>Thu, 09 Mar 2023 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="writer">채성오</span>                        <span class="date">2023-03-09 18:28:43</span>]]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090023.620x344.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA['유정란 백신 명가' GC녹십자가 mRNA 독감백신을 개발하는 이유 (블로터 ─ 테크)]]></title>
             <link>https://www.bloter.net/newsView/blt202303090013</link>
             <guid>https://www.bloter.net/newsView/blt202303090013</guid>
             <pubDate>Thu, 09 Mar 2023 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">안치영</span>                        <span class="date">2023-03-09 17:19:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090019.620x344.0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090019.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[공시분석]'토종 ERP' 더존비즈온이 의사 사외이사를 찜한 이유 (블로터 ─ 테크)]]></title>
@@ -515,14 +523,6 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <pubDate>Tue, 07 Mar 2023 10:17:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="writer">박현준</span>                        <span class="date">2023-03-07 18:32:39</span>]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070044.290x163.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와디즈, '공간' 찾아 LG유플러스와 맞손…기업 협업 경험 빛 볼까 (블로터 ─ 테크)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303070020</link>
-            <guid>https://www.bloter.net/newsView/blt202303070020</guid>
-            <pubDate>Tue, 07 Mar 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">안신혜</span>                        <span class="date">2023-03-07 17:36:22</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/07/blt202303070040.290x163.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[블록먼데이]가상자산은 범죄에 취약하다? 통념 깨는 미국 국방정책 (블로터 ─ 테크 ─ 블록먼데이)]]></title>
@@ -800,6 +800,14 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <enclosure url="https://www.bloter.net/data/blt/image/2023/01/13/blt202301130001.282x159.0.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[오~컬쳐]데드사이드클럽, 기존 슈팅게임과 어떻게 다를까 (블로터 ─ 컬처)]]></title>
+            <link>https://www.bloter.net/newsView/blt202303090017</link>
+            <guid>https://www.bloter.net/newsView/blt202303090017</guid>
+            <pubDate>Thu, 09 Mar 2023 10:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[데브시스터즈가 선보인 온라인 슈팅 게임 '데드사이드클럽'은 지금까지 데브시스터즈가 선보인 게임과 결을 달리한다. 앞서 2013년 '쿠키런 for Kakao'를 시작으로 2021년 '쿠키런: 킹덤'을 통해 캐주얼 장르의 확장성을 보여준 데브시스터즈는 데드사이드클럽을 통해 ']]></content:encoded>
+            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090023.293x165.0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[위클리LCK]T1-브리온, 스프링 8부능선에서 엇갈린 '희비' (블로터 ─ 컬처)]]></title>
             <link>https://www.bloter.net/newsView/blt202303080013</link>
             <guid>https://www.bloter.net/newsView/blt202303080013</guid>
@@ -886,14 +894,6 @@ KT 이사회(이하 이사회)가 차기 대표이사 최종 후보로 윤경림
             <pubDate>Sun, 05 Mar 2023 11:12:14 GMT</pubDate>
             <content:encoded><![CDATA[국내 대표 작가 중 한 사람인 김영하 씨가 한 방송에서 '소설 쓰기에서 제일 중요한 것 중 하나'로 꼽은 요소가 있다. 바로 '백업(저장하기)'이다. '흑요석' 우나영 작가 또한 10여년 동안 전 세계로 출장을 다니며 드롭박스의 동기화 기능을 적극 활용해 작업을 날리지]]></content:encoded>
             <enclosure url="https://www.bloter.net/data/blt/image/2023/03/03/blt202303030037.293x165.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OTT오리지널]'그알 PD'가 연출한 범죄의 연대기 '국가수사본부' (블로터 ─ 컬처)]]></title>
-            <link>https://www.bloter.net/newsView/blt202303040003</link>
-            <guid>https://www.bloter.net/newsView/blt202303040003</guid>
-            <pubDate>Sun, 05 Mar 2023 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[웨이브 오리지널 다큐멘터리 '국가수사본부'는 '리얼 수사 다큐멘터리'를 표방하고 있다. 사건 발생부터 검거에 이르는 순간까지 총 7개 제작팀이 서울, 부산, 광주, 강릉, 원주, 순천, 여수 등 전국 경찰서에 머무르며 형사들 루틴을 모두 카메라에 담았기 때문이다.]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/04/blt202303040007.293x165.0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오~컬쳐]'위메이드표 FPS' 나올까…자회사 '디스민즈워' 개발 착수 (블로터 ─ 컬처 ─ 오~컬쳐)]]></title>
