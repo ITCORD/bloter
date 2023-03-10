@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블로터 ─ 비즈니스</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 01:24:13 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[포드 머스탱 마하 E·루시드 에어, LG엔솔 부스서 국내 첫 전시]]></title>
-            <link>https://www.bloter.net/newsView/blt202303090004</link>
-            <guid>https://www.bloter.net/newsView/blt202303090004</guid>
-            <pubDate>Thu, 09 Mar 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-09 14:21:10</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090005.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탈중국 나선 애플, "인도 시장 집중 위해 해외 사업부 개편"]]></title>
-            <link>https://www.bloter.net/newsView/blt202303090003</link>
-            <guid>https://www.bloter.net/newsView/blt202303090003</guid>
-            <pubDate>Thu, 09 Mar 2023 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-09 09:36:21</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090004.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“수소 충전 1만원” 공고에 스트레스 커진 수소차 오너]]></title>
-            <link>https://www.bloter.net/newsView/blt202303090002</link>
-            <guid>https://www.bloter.net/newsView/blt202303090002</guid>
-            <pubDate>Thu, 09 Mar 2023 07:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-09 09:36:01</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090002.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KB금융, 너무 눈에 띈 자회사 배당…금감원 현장검사 마무리 직전 '대폭 축소']]></title>
-            <link>https://www.bloter.net/newsView/blt202303080014</link>
-            <guid>https://www.bloter.net/newsView/blt202303080014</guid>
-            <pubDate>Thu, 09 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">강승혁</span>                        <span class="date">2023-03-09 08:52:00</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080026.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美당국, 테슬라 주행보조장치 특별조사 착수…주행 중 운전대 분리된 모델Y도 조사]]></title>
-            <link>https://www.bloter.net/newsView/blt202303090001</link>
-            <guid>https://www.bloter.net/newsView/blt202303090001</guid>
-            <pubDate>Thu, 09 Mar 2023 06:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">최경미</span>                        <span class="date">2023-03-09 08:42:36</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/09/blt202303090001.407x229.0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[주행보조 강화 승부 내세운 코나·ID.3]]></title>
-            <link>https://www.bloter.net/newsView/blt202303080012</link>
-            <guid>https://www.bloter.net/newsView/blt202303080012</guid>
-            <pubDate>Thu, 09 Mar 2023 01:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="writer">조재환</span>                        <span class="date">2023-03-08 18:05:45</span>]]></content:encoded>
-            <enclosure url="https://www.bloter.net/data/blt/image/2023/03/08/blt202303080020.407x229.0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bloter.net/section?id=sectionBusiness2</id>
+    <title>블로터 ─ 비즈니스</title>
+    <updated>2023-03-10T02:57:33.828Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bloter.net/favicon.ico</icon>
+</feed>
